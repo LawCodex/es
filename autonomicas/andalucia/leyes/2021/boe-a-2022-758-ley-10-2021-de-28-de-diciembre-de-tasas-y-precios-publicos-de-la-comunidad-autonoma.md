@@ -576,1991 +576,1863 @@ Constituye el hecho imponible de la tasa la prestación de servicios y la realiz
 
 La tasa se exigirá de acuerdo con las siguientes tarifas:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Metrología:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1.</td>
+<td colspan="2">Metrología:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">1.1.</td>
-<td class="cuerpo_tabla_izq">Tramitación de la declaración responsable para inicio de actividad como persona o entidad reparadora de instrumentos sometidos a control metrológico e inscripción en el Registro de Control Metrológico. Por cada sector de actividad.</td>
-<td class="cuerpo_tabla_izq">41,53 euros.</td>
+<td> </td>
+<td>1.1.</td>
+<td>Tramitación de la declaración responsable para inicio de actividad como persona o entidad reparadora de instrumentos sometidos a control metrológico e inscripción en el Registro de Control Metrológico. Por cada sector de actividad.</td>
+<td>41,53 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">1.2.</td>
-<td class="cuerpo_tabla_izq">Tramitación de la comunicación de la actividad de fabricación, importación, comercialización o cesión en arrendamiento de instrumentos sometidos a control metrológico e inscripción en el Registro de Control Metrológico. Por cada sector de actividad.</td>
-<td class="cuerpo_tabla_izq">36,11 euros.</td>
+<td> </td>
+<td>1.2.</td>
+<td>Tramitación de la comunicación de la actividad de fabricación, importación, comercialización o cesión en arrendamiento de instrumentos sometidos a control metrológico e inscripción en el Registro de Control Metrológico. Por cada sector de actividad.</td>
+<td>36,11 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">1.3.</td>
-<td class="cuerpo_tabla_izq">Autorización de organismos designados en materia de control metrológico del Estado: organismos notificados, organismos de control metrológico y organismos autorizados de verificación metrológica.</td>
-<td class="cuerpo_tabla_izq">296,28 euros.</td>
+<td> </td>
+<td>1.3.</td>
+<td>Autorización de organismos designados en materia de control metrológico del Estado: organismos notificados, organismos de control metrológico y organismos autorizados de verificación metrológica.</td>
+<td>296,28 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Metales preciosos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>2.</td>
+<td colspan="2">Metales preciosos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.1.</td>
-<td class="cuerpo_tabla_izq">Autorización de laboratorios de ensayo y contrastación de objetos fabricados con metales preciosos.</td>
-<td class="cuerpo_tabla_izq">1.113,47 euros.</td>
+<td> </td>
+<td>2.1.</td>
+<td>Autorización de laboratorios de ensayo y contrastación de objetos fabricados con metales preciosos.</td>
+<td>1.113,47 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.2.</td>
-<td class="cuerpo_tabla_izq">Tramitación de la comunicación de la actividad de fabricación o importación de objetos fabricados con metales preciosos.</td>
-<td class="cuerpo_tabla_izq">44,90 euros.</td>
+<td> </td>
+<td>2.2.</td>
+<td>Tramitación de la comunicación de la actividad de fabricación o importación de objetos fabricados con metales preciosos.</td>
+<td>44,90 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="7%">
-<col width="70%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">3.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Vehículos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>3.</td>
+<td colspan="3">Vehículos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">3.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Acreditación de laboratorio de vehículos históricos y su renovación:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>3.1.</td>
+<td colspan="2">Acreditación de laboratorio de vehículos históricos y su renovación:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3.1.1.</td>
-<td class="cuerpo_tabla_izq">Acreditación.</td>
-<td class="cuerpo_tabla_izq">225,48 euros.</td>
+<td> </td>
+<td> </td>
+<td>3.1.1.</td>
+<td>Acreditación.</td>
+<td>225,48 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3.1.2.</td>
-<td class="cuerpo_tabla_izq">Renovación.</td>
-<td class="cuerpo_tabla_izq">112,74 euros.</td>
+<td> </td>
+<td> </td>
+<td>3.1.2.</td>
+<td>Renovación.</td>
+<td>112,74 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">3.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Concesión de certificado de conformidad al Acuerdo sobre transportes internacionales de mercancías perecederas y sobre vehículos especiales utilizados en esos transportes (ATP) y al Acuerdo europeo sobre transporte internacional de mercancías peligrosas por carretera (ADR) de vehículos trasladados desde otro país parte contratante del ATP/ADR.</td>
-<td class="cuerpo_tabla_izq">113,54 euros.</td>
+<td> </td>
+<td>3.2.</td>
+<td colspan="2">Concesión de certificado de conformidad al Acuerdo sobre transportes internacionales de mercancías perecederas y sobre vehículos especiales utilizados en esos transportes (ATP) y al Acuerdo europeo sobre transporte internacional de mercancías peligrosas por carretera (ADR) de vehículos trasladados desde otro país parte contratante del ATP/ADR.</td>
+<td>113,54 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">3.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Asignación de contraseña de tipo ATP/ADR.</td>
-<td class="cuerpo_tabla_izq">72,16 euros.</td>
+<td> </td>
+<td>3.3.</td>
+<td colspan="2">Asignación de contraseña de tipo ATP/ADR.</td>
+<td>72,16 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">3.4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización de centros técnicos de tacógrafos digitales.</td>
-<td class="cuerpo_tabla_izq">47,54 euros.</td>
+<td> </td>
+<td>3.4.</td>
+<td colspan="2">Autorización de centros técnicos de tacógrafos digitales.</td>
+<td>47,54 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">3.5.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización de entidades y talleres que realizan instalaciones y comprobaciones del funcionamiento de dispositivos de limitación de velocidad, así como la ampliación de la autorización a otras marcas de esos dispositivos.</td>
-<td class="cuerpo_tabla_izq">47,54 euros.</td>
+<td> </td>
+<td>3.5.</td>
+<td colspan="2">Autorización de entidades y talleres que realizan instalaciones y comprobaciones del funcionamiento de dispositivos de limitación de velocidad, así como la ampliación de la autorización a otras marcas de esos dispositivos.</td>
+<td>47,54 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Servicios continuados de intervención administración en materia de industria, energía y minas <sup>(1)</sup>:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>4.</td>
+<td colspan="2">Servicios continuados de intervención administración en materia de industria, energía y minas <sup>(1)</sup>:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">4.1.</td>
-<td class="cuerpo_tabla_izq">Intervención administrativa de estación de inspección técnica de vehículos.</td>
-<td class="cuerpo_tabla_izq">2.692,91 euros.</td>
+<td> </td>
+<td>4.1.</td>
+<td>Intervención administrativa de estación de inspección técnica de vehículos.</td>
+<td>2.692,91 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">4.2.</td>
-<td class="cuerpo_tabla_izq">Intervención administrativa de laboratorio de ensayo y contrastación de objetos fabricados con metales preciosos.</td>
-<td class="cuerpo_tabla_izq">4.004,40 euros.</td>
+<td> </td>
+<td>4.2.</td>
+<td>Intervención administrativa de laboratorio de ensayo y contrastación de objetos fabricados con metales preciosos.</td>
+<td>4.004,40 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cita"><sup>(1)</sup> En caso de ejercer la entidad la actividad objeto de intervención durante un periodo inferior al año natural, se liquidará la parte proporcional de la tasa correspondiente a dicho periodo.</p>
+<td> </td>
+<td colspan="3">
+<p><sup>(1)</sup> En caso de ejercer la entidad la actividad objeto de intervención durante un periodo inferior al año natural, se liquidará la parte proporcional de la tasa correspondiente a dicho periodo.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="7%">
-<col width="70%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">5.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Minas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>5.</td>
+<td colspan="3">Minas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tramitación de derechos mineros de la sección A:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>5.1.</td>
+<td colspan="2">Tramitación de derechos mineros de la sección A:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.1.1.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Autorización de explotación de recursos mineros de la sección A. Modificación de proyecto y ampliación de extensión superficial.</p>
-<p class="cuerpo_tabla_izq">Se liquidará en función del presupuesto de la actuación de que se trate conforme a la escala de gravamen de la tarifa 5.4.</p>
+<td> </td>
+<td> </td>
+<td>5.1.1.</td>
+<td>
+<p>Autorización de explotación de recursos mineros de la sección A. Modificación de proyecto y ampliación de extensión superficial.</p>
+<p>Se liquidará en función del presupuesto de la actuación de que se trate conforme a la escala de gravamen de la tarifa 5.4.</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.1.2.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Prórrogas de autorización de explotación de recursos mineros de la sección A.</p>
-<p class="cuerpo_tabla_izq">Se liquidará en función del presupuesto de la actuación de que se trate conforme a la escala de gravamen de la tarifa 5.4.</p>
+<td> </td>
+<td> </td>
+<td>5.1.2.</td>
+<td>
+<p>Prórrogas de autorización de explotación de recursos mineros de la sección A.</p>
+<p>Se liquidará en función del presupuesto de la actuación de que se trate conforme a la escala de gravamen de la tarifa 5.4.</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tramitación de derechos mineros de la sección B:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>5.2.</td>
+<td colspan="2">Tramitación de derechos mineros de la sección B:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.2.1.</td>
-<td class="cuerpo_tabla_izq">Declaración de agua minero-medicinal con fines terapéuticos.</td>
-<td class="cuerpo_tabla_izq">932,72 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.2.1.</td>
+<td>Declaración de agua minero-medicinal con fines terapéuticos.</td>
+<td>932,72 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.2.2.</td>
-<td class="cuerpo_tabla_izq">Declaración de agua mineral natural.</td>
-<td class="cuerpo_tabla_izq">2.585,18 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.2.2.</td>
+<td>Declaración de agua mineral natural.</td>
+<td>2.585,18 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.2.3.</td>
-<td class="cuerpo_tabla_izq">Declaración de agua de manantial.</td>
-<td class="cuerpo_tabla_izq">2.585,18 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.2.3.</td>
+<td>Declaración de agua de manantial.</td>
+<td>2.585,18 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.2.4.</td>
-<td class="cuerpo_tabla_izq">Declaración de agua termal.</td>
-<td class="cuerpo_tabla_izq">932,72 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.2.4.</td>
+<td>Declaración de agua termal.</td>
+<td>932,72 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.2.5.</td>
-<td class="cuerpo_tabla_izq">Declaración de agua minero industrial.</td>
-<td class="cuerpo_tabla_izq">932,72 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.2.5.</td>
+<td>Declaración de agua minero industrial.</td>
+<td>932,72 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.2.6.</td>
-<td class="cuerpo_tabla_izq">Declaración de yacimientos de origen no natural.</td>
-<td class="cuerpo_tabla_izq">932,72 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.2.6.</td>
+<td>Declaración de yacimientos de origen no natural.</td>
+<td>932,72 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.2.7.</td>
-<td class="cuerpo_tabla_izq">Calificación de estructura subterránea.</td>
-<td class="cuerpo_tabla_izq">932,72 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.2.7.</td>
+<td>Calificación de estructura subterránea.</td>
+<td>932,72 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.2.8.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Autorización de aprovechamiento o concesión de recursos de la sección B. Aguas minerales y/o termales.</p>
-<p class="cuerpo_tabla_izq">Se liquidará en función del presupuesto de la actuación de que se trate conforme a la escala de gravamen de la tarifa 5.4</p>
+<td> </td>
+<td> </td>
+<td>5.2.8.</td>
+<td>
+<p>Autorización de aprovechamiento o concesión de recursos de la sección B. Aguas minerales y/o termales.</p>
+<p>Se liquidará en función del presupuesto de la actuación de que se trate conforme a la escala de gravamen de la tarifa 5.4</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.2.9.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Autorización de aprovechamiento de recursos de la sección B. Yacimientos de origen no natural.</p>
-<p class="cuerpo_tabla_izq">Se liquidará en función del presupuesto de la actuación de que se trate conforme a la escala de gravamen de la tarifa 5.4</p>
+<td> </td>
+<td> </td>
+<td>5.2.9.</td>
+<td>
+<p>Autorización de aprovechamiento de recursos de la sección B. Yacimientos de origen no natural.</p>
+<p>Se liquidará en función del presupuesto de la actuación de que se trate conforme a la escala de gravamen de la tarifa 5.4</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.2.10.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Autorización de exploración, investigación o utilización de estructuras subterráneas.</p>
-<p class="cuerpo_tabla_izq">Se liquidará según el caso, conforme a la tarifa 5.3.1 (permiso de exploración), tarifa 5.3.2 (permiso de investigación) o tarifa 5.3.3 (concesión derivada de permisos de investigación).</p>
+<td> </td>
+<td> </td>
+<td>5.2.10.</td>
+<td>
+<p>Autorización de exploración, investigación o utilización de estructuras subterráneas.</p>
+<p>Se liquidará según el caso, conforme a la tarifa 5.3.1 (permiso de exploración), tarifa 5.3.2 (permiso de investigación) o tarifa 5.3.3 (concesión derivada de permisos de investigación).</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.2.11.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Tramitación de solicitudes de perímetro de protección para recursos de la sección B.</p>
-<p class="cuerpo_tabla_izq">Únicamente se liquidará si el aprovechamiento ya se encuentra autorizado.</p>
+<td> </td>
+<td> </td>
+<td>5.2.11.</td>
+<td>
+<p>Tramitación de solicitudes de perímetro de protección para recursos de la sección B.</p>
+<p>Únicamente se liquidará si el aprovechamiento ya se encuentra autorizado.</p>
 </td>
-<td class="cuerpo_tabla_izq">3.227,69 euros.</td>
+<td>3.227,69 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tramitación de derechos mineros de las secciones C y D:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>5.3.</td>
+<td colspan="2">Tramitación de derechos mineros de las secciones C y D:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">5.3.1.</td>
-<td class="cuerpo_tabla_izq">Tramitación del permiso de exploración.</td>
-<td class="cuerpo_tabla_izq">2.730,40 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.3.1.</td>
+<td>Tramitación del permiso de exploración.</td>
+<td>2.730,40 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">5.3.2.</td>
-<td class="cuerpo_tabla_izq">Tramitación del permiso de investigación.</td>
-<td class="cuerpo_tabla_izq">3.227,69 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.3.2.</td>
+<td>Tramitación del permiso de investigación.</td>
+<td>3.227,69 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">5.3.3.</td>
-<td class="cuerpo_tabla_izq">Tramitación de concesión derivada de permisos de investigación.</td>
-<td class="cuerpo_tabla_izq">3.432,77 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.3.3.</td>
+<td>Tramitación de concesión derivada de permisos de investigación.</td>
+<td>3.432,77 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">5.3.4.</td>
-<td class="cuerpo_tabla_izq">Tramitación de concesión explotación directa.</td>
-<td class="cuerpo_tabla_izq">3.432,77 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.3.4.</td>
+<td>Tramitación de concesión explotación directa.</td>
+<td>3.432,77 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">5.3.5.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Prórrogas de derechos mineros de las secciones C y D.</p>
-<p class="cuerpo_tabla_izq">Se liquidará conforme a la tarifa 5.3.1 (permiso de exploración), tarifa 5.3.2 (permiso de investigación) o tarifa 5.3.3 (concesión derivada de permisos de investigación).</p>
+<td> </td>
+<td> </td>
+<td>5.3.5.</td>
+<td>
+<p>Prórrogas de derechos mineros de las secciones C y D.</p>
+<p>Se liquidará conforme a la tarifa 5.3.1 (permiso de exploración), tarifa 5.3.2 (permiso de investigación) o tarifa 5.3.3 (concesión derivada de permisos de investigación).</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">5.3.6.</td>
-<td class="cuerpo_tabla_izq">Tramitación de demasías.</td>
-<td class="cuerpo_tabla_izq">3.432,77 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.3.6.</td>
+<td>Tramitación de demasías.</td>
+<td>3.432,77 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">5.3.7.</td>
-<td class="cuerpo_tabla_izq">Reclasificación de recursos de la sección A a la C.</td>
-<td class="cuerpo_tabla_izq">3.432,77 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.3.7.</td>
+<td>Reclasificación de recursos de la sección A a la C.</td>
+<td>3.432,77 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Tramitación y autorización de proyectos con presupuesto (para todos los recursos). Sin incluir la repetición de pruebas en caso de ser necesario:</p>
-<p class="cuerpo_tabla_izq">Tramitación y confrontación de planes de labores anuales de explotaciones mineras.</p>
-<p class="cuerpo_tabla_izq">Autorización de establecimientos de preparación, concentración o beneficio de recursos mineros.</p>
-<p class="cuerpo_tabla_izq">Autorización de sondeos y trabajos en pozos.</p>
-<p class="cuerpo_tabla_izq">Tramitación de proyectos de voladura.</p>
-<p class="cuerpo_tabla_izq">Tramitación de suspensión temporal, abandono y/o cierre de labores mineras.</p>
-<p class="cuerpo_tabla_izq">Confrontación e informes de transportes mineros o líneas eléctricas.</p>
-<p class="cuerpo_tabla_izq">Tramitación de proyectos de explotación o restauración mineras tramitados con posterioridad al otorgamiento del derecho minero sin ser parte de una solicitud de prórroga.</p>
-<p class="cuerpo_tabla_izq">Tramitación de otros proyectos mineros no estipulados en epígrafes anteriores y que requieran actuación de la Administración minera.</p>
-<p class="cuerpo_tabla_izq">Se liquidará en función del presupuesto de actuación de que se trate conforme a la siguiente escala de gravamen</p>
+<td> </td>
+<td>5.4.</td>
+<td colspan="2">
+<p>Tramitación y autorización de proyectos con presupuesto (para todos los recursos). Sin incluir la repetición de pruebas en caso de ser necesario:</p>
+<p>Tramitación y confrontación de planes de labores anuales de explotaciones mineras.</p>
+<p>Autorización de establecimientos de preparación, concentración o beneficio de recursos mineros.</p>
+<p>Autorización de sondeos y trabajos en pozos.</p>
+<p>Tramitación de proyectos de voladura.</p>
+<p>Tramitación de suspensión temporal, abandono y/o cierre de labores mineras.</p>
+<p>Confrontación e informes de transportes mineros o líneas eléctricas.</p>
+<p>Tramitación de proyectos de explotación o restauración mineras tramitados con posterioridad al otorgamiento del derecho minero sin ser parte de una solicitud de prórroga.</p>
+<p>Tramitación de otros proyectos mineros no estipulados en epígrafes anteriores y que requieran actuación de la Administración minera.</p>
+<p>Se liquidará en función del presupuesto de actuación de que se trate conforme a la siguiente escala de gravamen</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.4.1.</td>
-<td class="cuerpo_tabla_izq">Presupuesto hasta 100.000 euros.</td>
-<td class="cuerpo_tabla_izq">453,50 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.4.1.</td>
+<td>Presupuesto hasta 100.000 euros.</td>
+<td>453,50 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.4.2.</td>
-<td class="cuerpo_tabla_izq">Presupuesto de 100.001 hasta 500.000 euros.</td>
-<td class="cuerpo_tabla_izq">813,78 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.4.2.</td>
+<td>Presupuesto de 100.001 hasta 500.000 euros.</td>
+<td>813,78 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.4.3.</td>
-<td class="cuerpo_tabla_izq">Presupuesto desde 500.001 euros.</td>
-<td class="cuerpo_tabla_izq">1.595,59 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.4.3.</td>
+<td>Presupuesto desde 500.001 euros.</td>
+<td>1.595,59 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.4.4.</td>
-<td class="cuerpo_tabla_izq">Autorización de obras e instalaciones de pozos y sondeos de aguas subterráneas no regulados por la Ley de Minas.</td>
-<td class="cuerpo_tabla_izq">167,76 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.4.4.</td>
+<td>Autorización de obras e instalaciones de pozos y sondeos de aguas subterráneas no regulados por la Ley de Minas.</td>
+<td>167,76 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.5.</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Autorización de puesta en servicio de instalaciones mineras. Sin incluir la repetición de pruebas en caso de ser necesario.</p>
-<p class="cuerpo_tabla_izq">Se liquidará en función del presupuesto de actuación de que se trate conforme a la escala de gravamen 5.4.</p>
-<p class="cuerpo_tabla_izq">No obstante, a los proyectos incluidos en la tarifa 5.4.4., que requieran la puesta en servicio de instalaciones elevadoras eléctricas, se les aplicará la tarifa 7.2.1.1.</p>
+<td> </td>
+<td>5.5.</td>
+<td colspan="2">
+<p>Autorización de puesta en servicio de instalaciones mineras. Sin incluir la repetición de pruebas en caso de ser necesario.</p>
+<p>Se liquidará en función del presupuesto de actuación de que se trate conforme a la escala de gravamen 5.4.</p>
+<p>No obstante, a los proyectos incluidos en la tarifa 5.4.4., que requieran la puesta en servicio de instalaciones elevadoras eléctricas, se les aplicará la tarifa 7.2.1.1.</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.6.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Repetición de pruebas para la autorización de proyectos y puesta en servicio de instalaciones mineras. Por cada día de trabajo.</td>
-<td class="cuerpo_tabla_izq">115,14 euros.</td>
+<td> </td>
+<td>5.6.</td>
+<td colspan="2">Repetición de pruebas para la autorización de proyectos y puesta en servicio de instalaciones mineras. Por cada día de trabajo.</td>
+<td>115,14 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.7.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Rectificación de perímetros de demarcación o de protección, intrusión de labores, deslindes y superposiciones.</td>
-<td class="cuerpo_tabla_izq">838,55 euros.</td>
+<td> </td>
+<td>5.7.</td>
+<td colspan="2">Rectificación de perímetros de demarcación o de protección, intrusión de labores, deslindes y superposiciones.</td>
+<td>838,55 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.8.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Copias de planos de demarcación.</td>
-<td class="cuerpo_tabla_izq">156,46 euros.</td>
+<td> </td>
+<td>5.8.</td>
+<td colspan="2">Copias de planos de demarcación.</td>
+<td>156,46 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.9.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Transmisión de derechos mineros:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>5.9.</td>
+<td colspan="2">Transmisión de derechos mineros:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.9.1.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Transmisiones que conlleven la presentación de proyecto.</p>
-<p class="cuerpo_tabla_izq">Se liquidará conforme a la escala de gravamen 5.4.</p>
+<td> </td>
+<td> </td>
+<td>5.9.1.</td>
+<td>
+<p>Transmisiones que conlleven la presentación de proyecto.</p>
+<p>Se liquidará conforme a la escala de gravamen 5.4.</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.9.2.</td>
-<td class="cuerpo_tabla_izq">Transmisiones que no conlleven la presentación de proyecto.</td>
-<td class="cuerpo_tabla_izq">369,49 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.9.2.</td>
+<td>Transmisiones que no conlleven la presentación de proyecto.</td>
+<td>369,49 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.10.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tramitación de solicitudes de autorización de concentración de labores o de formación de cotos mineros.</td>
-<td class="cuerpo_tabla_izq">265,38 euros.</td>
+<td> </td>
+<td>5.10.</td>
+<td colspan="2">Tramitación de solicitudes de autorización de concentración de labores o de formación de cotos mineros.</td>
+<td>265,38 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.11.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tramitación de la conformidad para la contratación de terceras personas para la realización de trabajos de exploración, investigación o explotación.</td>
-<td class="cuerpo_tabla_izq">265,38 euros.</td>
+<td> </td>
+<td>5.11.</td>
+<td colspan="2">Tramitación de la conformidad para la contratación de terceras personas para la realización de trabajos de exploración, investigación o explotación.</td>
+<td>265,38 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.12.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Informes e inspecciones, dispuestos por exigencias normativas relativas a los recursos de las secciones A, B, C y D, así como lo establecido en el Reglamento General de Normas Básicas de Seguridad Minera, aprobado por el Real Decreto 863/1985, de 2 de abril.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>5.12.</td>
+<td colspan="2">Informes e inspecciones, dispuestos por exigencias normativas relativas a los recursos de las secciones A, B, C y D, así como lo establecido en el Reglamento General de Normas Básicas de Seguridad Minera, aprobado por el Real Decreto 863/1985, de 2 de abril.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.12.1.</td>
-<td class="cuerpo_tabla_izq">Inspecciones de accidentes.</td>
-<td class="cuerpo_tabla_izq">404,58 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.12.1.</td>
+<td>Inspecciones de accidentes.</td>
+<td>404,58 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.12.2.</td>
-<td class="cuerpo_tabla_izq">Inspecciones de seguridad en voladuras.</td>
-<td class="cuerpo_tabla_izq">165,04 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.12.2.</td>
+<td>Inspecciones de seguridad en voladuras.</td>
+<td>165,04 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.13.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización de entidades de control ambiental (ECA) en el ámbito del Reglamento General de Normas Básicas de Seguridad Minera.</td>
-<td class="cuerpo_tabla_izq">242,03 euros.</td>
+<td> </td>
+<td>5.13.</td>
+<td colspan="2">Autorización de entidades de control ambiental (ECA) en el ámbito del Reglamento General de Normas Básicas de Seguridad Minera.</td>
+<td>242,03 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.14.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización de organismos de control en el ámbito del Real Decreto 975/2009, de 12 de junio, sobre gestión de los residuos de las industrias extractivas y de protección y rehabilitación del espacio afectado por actividades mineras.</td>
-<td class="cuerpo_tabla_izq">242,03 euros.</td>
+<td> </td>
+<td>5.14.</td>
+<td colspan="2">Autorización de organismos de control en el ámbito del Real Decreto 975/2009, de 12 de junio, sobre gestión de los residuos de las industrias extractivas y de protección y rehabilitación del espacio afectado por actividades mineras.</td>
+<td>242,03 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.15.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tramitación de permisos de investigación para almacenamientos geológicos de dióxido de carbono (CO<sub>2</sub>):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>5.15.</td>
+<td colspan="2">Tramitación de permisos de investigación para almacenamientos geológicos de dióxido de carbono (CO<sub>2</sub>):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.15.1.</td>
-<td class="cuerpo_tabla_izq">Permiso de investigación de almacenamiento de dióxido de carbono (CO<sub>2)</sub>.</td>
-<td class="cuerpo_tabla_izq">3.686,74 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.15.1.</td>
+<td>Permiso de investigación de almacenamiento de dióxido de carbono (CO<sub>2)</sub>.</td>
+<td>3.686,74 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.15.2.</td>
-<td class="cuerpo_tabla_izq">Prórroga del permiso de investigación de almacenamiento de dióxido de carbono (CO<sub>2</sub>).</td>
-<td class="cuerpo_tabla_izq">3.686,74 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.15.2.</td>
+<td>Prórroga del permiso de investigación de almacenamiento de dióxido de carbono (CO<sub>2</sub>).</td>
+<td>3.686,74 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.16.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tramitación de permisos de investigación para hidrocarburos.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>5.16.</td>
+<td colspan="2">Tramitación de permisos de investigación para hidrocarburos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.16.1.</td>
-<td class="cuerpo_tabla_izq">Permiso de investigación de hidrocarburos.</td>
-<td class="cuerpo_tabla_izq">3.686,74 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.16.1.</td>
+<td>Permiso de investigación de hidrocarburos.</td>
+<td>3.686,74 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.16.2.</td>
-<td class="cuerpo_tabla_izq">Prórroga de permiso de investigación de hidrocarburos.</td>
-<td class="cuerpo_tabla_izq">3.686,74 euros.</td>
+<td> </td>
+<td> </td>
+<td>5.16.2.</td>
+<td>Prórroga de permiso de investigación de hidrocarburos.</td>
+<td>3.686,74 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="7%">
-<col width="70%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">6.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Otros servicios administrativos de carácter general en materia de industria, energía y minas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>6.</td>
+<td colspan="3">Otros servicios administrativos de carácter general en materia de industria, energía y minas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">6.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Emisión de informes y dictámenes a instancia de parte no contemplados en otras tarifas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>6.1.</td>
+<td colspan="2">Emisión de informes y dictámenes a instancia de parte no contemplados en otras tarifas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6.1.1.</td>
-<td class="cuerpo_tabla_izq">Con visita de reconocimiento o inspección.</td>
-<td class="cuerpo_tabla_izq">197,52 euros.</td>
+<td> </td>
+<td> </td>
+<td>6.1.1.</td>
+<td>Con visita de reconocimiento o inspección.</td>
+<td>197,52 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6.1.2.</td>
-<td class="cuerpo_tabla_izq">Sin visita de reconocimiento o inspección.</td>
-<td class="cuerpo_tabla_izq">77,05 euros.</td>
+<td> </td>
+<td> </td>
+<td>6.1.2.</td>
+<td>Sin visita de reconocimiento o inspección.</td>
+<td>77,05 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">6.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tramitación de solicitudes para participar en pruebas para la obtención de habilitaciones profesionales. Por cada modalidad o categoría de examen que se solicite.</td>
-<td class="cuerpo_tabla_izq">34,47 euros.</td>
+<td> </td>
+<td>6.2.</td>
+<td colspan="2">Tramitación de solicitudes para participar en pruebas para la obtención de habilitaciones profesionales. Por cada modalidad o categoría de examen que se solicite.</td>
+<td>34,47 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">6.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Cambios de titularidad de expedientes.</td>
-<td class="cuerpo_tabla_izq">59,69 euros.</td>
+<td> </td>
+<td>6.3.</td>
+<td colspan="2">Cambios de titularidad de expedientes.</td>
+<td>59,69 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">6.4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Expedición de certificaciones de datos y hechos que consten en los registros y archivos administrativos.</td>
-<td class="cuerpo_tabla_izq">12,40 euros.</td>
+<td> </td>
+<td>6.4.</td>
+<td colspan="2">Expedición de certificaciones de datos y hechos que consten en los registros y archivos administrativos.</td>
+<td>12,40 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">6.5</td>
-<td class="cuerpo_tabla_izq" colspan="2">Expedición de duplicados de certificados, resoluciones o cualquier otro documento administrativo.</td>
-<td class="cuerpo_tabla_izq">12,40 euros.</td>
+<td> </td>
+<td>6.5</td>
+<td colspan="2">Expedición de duplicados de certificados, resoluciones o cualquier otro documento administrativo.</td>
+<td>12,40 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="7%">
-<col width="8%">
-<col width="62%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">7.</td>
-<td class="cuerpo_tabla_izq" colspan="4">Autorización y puesta en funcionamiento de establecimientos e instalaciones industriales y energéticas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>7.</td>
+<td colspan="4">Autorización y puesta en funcionamiento de establecimientos e instalaciones industriales y energéticas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.1.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Establecimientos e instalaciones industriales y energéticas sometidas a autorización administrativa (Grupo I):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>7.1.</td>
+<td colspan="3">Establecimientos e instalaciones industriales y energéticas sometidas a autorización administrativa (Grupo I):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.1.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de producción, transporte y distribución de energía eléctrica:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>7.1.1.</td>
+<td colspan="2">Instalaciones de producción, transporte y distribución de energía eléctrica:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.1.1.1.</td>
-<td class="cuerpo_tabla_izq">Autorización administrativa previa. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.1.1.1.</td>
+<td>Autorización administrativa previa. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
-<td class="cuerpo_tabla_izq">302,16 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 5.000 euros.</td>
+<td>302,16 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">14 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>14 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
-<td class="cuerpo_tabla_izq">1.000 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 500.000 euros.</td>
+<td>1.000 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.1.1.2.</td>
-<td class="cuerpo_tabla_izq">Autorización administrativa de construcción. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.1.1.2.</td>
+<td>Autorización administrativa de construcción. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
-<td class="cuerpo_tabla_izq">256,81 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 5.000 euros.</td>
+<td>256,81 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">15 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>15 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
-<td class="cuerpo_tabla_izq">1.000 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 500.000 euros.</td>
+<td>1.000 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">En caso de que sea solicitada conjuntamente la autorización administrativa previa y la autorización administrativa de construcción se liquidará esta tasa incrementada en un 10%.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>En caso de que sea solicitada conjuntamente la autorización administrativa previa y la autorización administrativa de construcción se liquidará esta tasa incrementada en un 10%.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.1.1.3.</td>
-<td class="cuerpo_tabla_izq">Autorización de explotación. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.1.1.3.</td>
+<td>Autorización de explotación. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
-<td class="cuerpo_tabla_izq">238,99 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 5.000 euros.</td>
+<td>238,99 euros.</td>
 </tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">15,30 euros.</td>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>15,30 euros.</td>
 </tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
-<td class="cuerpo_tabla_izq">1.000 euros.</td>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 500.000 euros.</td>
+<td>1.000 euros.</td>
 </tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.1.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de almacenamiento, transporte y distribución de gas canalizado:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<tr>
+<td> </td>
+<td> </td>
+<td>7.1.2.</td>
+<td colspan="2">Instalaciones de almacenamiento, transporte y distribución de gas canalizado:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.1.2.1.</td>
-<td class="cuerpo_tabla_izq">Participación en el procedimiento de concurrencia para la distribución de gas combustible canalizado.</td>
-<td class="cuerpo_tabla_izq">295,49 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.1.2.1.</td>
+<td>Participación en el procedimiento de concurrencia para la distribución de gas combustible canalizado.</td>
+<td>295,49 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.1.2.2.</td>
-<td class="cuerpo_tabla_izq">Autorización administrativa previa. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.1.2.2.</td>
+<td>Autorización administrativa previa. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
-<td class="cuerpo_tabla_izq">179,09 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 5.000 euros.</td>
+<td>179,09 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">16,50 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>16,50 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
-<td class="cuerpo_tabla_izq">1.000 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 500.000 euros.</td>
+<td>1.000 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.1.2.3.</td>
-<td class="cuerpo_tabla_izq">Aprobación del proyecto de ejecución. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.1.2.3.</td>
+<td>Aprobación del proyecto de ejecución. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
-<td class="cuerpo_tabla_izq">261,33 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 5.000 euros.</td>
+<td>261,33 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">14,90 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>14,90 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
-<td class="cuerpo_tabla_izq">1.000 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 500.000 euros.</td>
+<td>1.000 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">En caso de que sea solicitada conjuntamente la autorización administrativa y la aprobación del proyecto de ejecución se liquidará esta tasa incrementada en un 10%.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>En caso de que sea solicitada conjuntamente la autorización administrativa y la aprobación del proyecto de ejecución se liquidará esta tasa incrementada en un 10%.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.1.2.4.</td>
-<td class="cuerpo_tabla_izq">Autorización de explotación. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.1.2.4.</td>
+<td>Autorización de explotación. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
-<td class="cuerpo_tabla_izq">234,31 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 5.000 euros.</td>
+<td>234,31 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">15,40 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>15,40 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
-<td class="cuerpo_tabla_izq">1.000 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 500.000 euros.</td>
+<td>1.000 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.1.2.5.</td>
-<td class="cuerpo_tabla_izq">Autorización de memoria para extensiones de red.</td>
-<td class="cuerpo_tabla_izq">141,39 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.1.2.5.</td>
+<td>Autorización de memoria para extensiones de red.</td>
+<td>141,39 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.1.2.6.</td>
-<td class="cuerpo_tabla_izq">Autorización de acometidas.</td>
-<td class="cuerpo_tabla_izq">106,69 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.1.2.6.</td>
+<td>Autorización de acometidas.</td>
+<td>106,69 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.1.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de transporte o almacenamiento de productos petrolíferos líquidos (PPL).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>7.1.3.</td>
+<td colspan="2">Instalaciones de transporte o almacenamiento de productos petrolíferos líquidos (PPL).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.1.3.1.</td>
-<td class="cuerpo_tabla_izq">Autorización administrativa de construcción. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.1.3.1.</td>
+<td>Autorización administrativa de construcción. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
-<td class="cuerpo_tabla_izq">261,33 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 5.000 euros.</td>
+<td>261,33 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">14,90 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>14,90 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
-<td class="cuerpo_tabla_izq">1.000 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 500.000 euros.</td>
+<td>1.000 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.1.3.2.</td>
-<td class="cuerpo_tabla_izq">Autorización de explotación. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.1.3.2.</td>
+<td>Autorización de explotación. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
-<td class="cuerpo_tabla_izq">234,31 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 5.000 euros.</td>
+<td>234,31 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">15,40 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>15,40 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">– Más de 500.000 euros.</td>
-<td class="cuerpo_tabla_izq">1.000 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 500.000 euros.</td>
+<td>1.000 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.1.4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Transmisión de instalaciones.</td>
-<td class="cuerpo_tabla_izq">114,32 euros.</td>
+<td> </td>
+<td> </td>
+<td>7.1.4.</td>
+<td colspan="2">Transmisión de instalaciones.</td>
+<td>114,32 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.1.5.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Cierre de instalaciones (temporal o definitiva).</td>
-<td class="cuerpo_tabla_izq">166,53 euros.</td>
+<td> </td>
+<td> </td>
+<td>7.1.5.</td>
+<td colspan="2">Cierre de instalaciones (temporal o definitiva).</td>
+<td>166,53 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Puesta en funcionamiento de establecimientos e instalaciones industriales y energéticos no sometidos a autorización administrativa (Grupo II), así como de sus ampliaciones:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>7.2.</td>
+<td colspan="3">Puesta en funcionamiento de establecimientos e instalaciones industriales y energéticos no sometidos a autorización administrativa (Grupo II), así como de sus ampliaciones:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones eléctricas de baja tensión:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>7.2.1.</td>
+<td colspan="2">Instalaciones eléctricas de baja tensión:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.2.1.1.</td>
-<td class="cuerpo_tabla_izq">Instalaciones con memoria técnica de diseño:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.1.1.</td>
+<td>Instalaciones con memoria técnica de diseño:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Viviendas individuales.</td>
-<td class="cuerpo_tabla_izq">12,60 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Viviendas individuales.</td>
+<td>12,60 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Otros usos.</td>
-<td class="cuerpo_tabla_izq">36,19 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Otros usos.</td>
+<td>36,19 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.2.1.2.</td>
-<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.1.2.</td>
+<td>Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 6.000 euros.</td>
-<td class="cuerpo_tabla_izq">58,66 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 6.000 euros.</td>
+<td>58,66 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">16,90 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>16,90 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Más de 60.000 euros.</td>
-<td class="cuerpo_tabla_izq">150 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 60.000 euros.</td>
+<td>150 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones eléctricas de alta tensión. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>7.2.2.</td>
+<td colspan="2">Instalaciones eléctricas de alta tensión. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 10.000 euros.</td>
-<td class="cuerpo_tabla_izq">66,53 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 10.000 euros.</td>
+<td>66,53 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">14,90 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>14,90 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">– Más de 300.000 euros.</td>
-<td class="cuerpo_tabla_izq">500 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 300.000 euros.</td>
+<td>500 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.3</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de calefacción, climatización y agua caliente sanitaria:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>7.2.3</td>
+<td colspan="2">Instalaciones de calefacción, climatización y agua caliente sanitaria:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.2.3.1.</td>
-<td class="cuerpo_tabla_izq">Instalaciones con memoria técnica de diseño:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.3.1.</td>
+<td>Instalaciones con memoria técnica de diseño:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Instalaciones individuales.</td>
-<td class="cuerpo_tabla_izq">20,67 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Instalaciones individuales.</td>
+<td>20,67 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Otros usos.</td>
-<td class="cuerpo_tabla_izq">43,13 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Otros usos.</td>
+<td>43,13 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.2.3.2.</td>
-<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.3.2.</td>
+<td>Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
-<td class="cuerpo_tabla_izq">62,60 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 5.000 euros.</td>
+<td>62,60 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">11,40 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>11,40 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Más de 300.000 euros.</td>
-<td class="cuerpo_tabla_izq">400 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 300.000 euros.</td>
+<td>400 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de productos petrolíferos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>7.2.4.</td>
+<td colspan="2">Instalaciones de productos petrolíferos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.4.1.</td>
-<td class="cuerpo_tabla_izq">Instalaciones sin proyecto.</td>
-<td class="cuerpo_tabla_izq">40,13 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.4.1.</td>
+<td>Instalaciones sin proyecto.</td>
+<td>40,13 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.4.2.</td>
-<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.4.2.</td>
+<td>Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 2.000 euros.</td>
-<td class="cuerpo_tabla_izq">60,63 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 2.000 euros.</td>
+<td>60,63 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">29 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>29 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Más de 50.000 euros.</td>
-<td class="cuerpo_tabla_izq">200 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 50.000 euros.</td>
+<td>200 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.5.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Grúas torre.</td>
-<td class="cuerpo_tabla_izq">40,94 euros.</td>
+<td> </td>
+<td> </td>
+<td>7.2.5.</td>
+<td colspan="2">Grúas torre.</td>
+<td>40,94 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.6.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Grúas móviles.</td>
-<td class="cuerpo_tabla_izq">18,15 euros.</td>
+<td> </td>
+<td> </td>
+<td>7.2.6.</td>
+<td colspan="2">Grúas móviles.</td>
+<td>18,15 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.7.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Ascensores.</td>
-<td class="cuerpo_tabla_izq">50,79 euros.</td>
+<td> </td>
+<td> </td>
+<td>7.2.7.</td>
+<td colspan="2">Ascensores.</td>
+<td>50,79 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.8.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de gas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>7.2.8.</td>
+<td colspan="2">Instalaciones de gas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.2.8.1.</td>
-<td class="cuerpo_tabla_izq">Instalaciones sin proyecto.</td>
-<td class="cuerpo_tabla_izq">40,13 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.8.1.</td>
+<td>Instalaciones sin proyecto.</td>
+<td>40,13 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.2.8.2.</td>
-<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.8.2.</td>
+<td>Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 2.000 euros.</td>
-<td class="cuerpo_tabla_izq">58,66 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 2.000 euros.</td>
+<td>58,66 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">29,40 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>29,40 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Más de 50.000 euros.</td>
-<td class="cuerpo_tabla_izq">200 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 50.000 euros.</td>
+<td>200 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.9.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones frigoríficas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>7.2.9.</td>
+<td colspan="2">Instalaciones frigoríficas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.2.9.1.</td>
-<td class="cuerpo_tabla_izq">Instalaciones sin proyecto.</td>
-<td class="cuerpo_tabla_izq">40,13 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.9.1.</td>
+<td>Instalaciones sin proyecto.</td>
+<td>40,13 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.2.9.2.</td>
-<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.9.2.</td>
+<td>Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 5.000 euros.</td>
-<td class="cuerpo_tabla_izq">58,66 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 5.000 euros.</td>
+<td>58,66 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">14,80 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>14,80 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Más de 100.000 euros.</td>
-<td class="cuerpo_tabla_izq">200 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 100.000 euros.</td>
+<td>200 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.10.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de protección contra incendios:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>7.2.10.</td>
+<td colspan="2">Instalaciones de protección contra incendios:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.10.1.</td>
-<td class="cuerpo_tabla_izq">Instalaciones en establecimientos regulados por el Código Técnico de la Edificación (CTE).</td>
-<td class="cuerpo_tabla_izq">18,15 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.10.1.</td>
+<td>Instalaciones en establecimientos regulados por el Código Técnico de la Edificación (CTE).</td>
+<td>18,15 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.10.2.</td>
-<td class="cuerpo_tabla_izq">Instalaciones sin proyecto.</td>
-<td class="cuerpo_tabla_izq">40,13 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.10.2.</td>
+<td>Instalaciones sin proyecto.</td>
+<td>40,13 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.10.3.</td>
-<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.10.3.</td>
+<td>Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 2.000 euros.</td>
-<td class="cuerpo_tabla_izq">62,60 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 2.000 euros.</td>
+<td>62,60 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">14 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>14 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Más de 100.000 euros.</td>
-<td class="cuerpo_tabla_izq">200 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 100.000 euros.</td>
+<td>200 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.11.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de almacenamiento de productos químicos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>7.2.11.</td>
+<td colspan="2">Instalaciones de almacenamiento de productos químicos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.2.11.1.</td>
-<td class="cuerpo_tabla_izq">Instalaciones sin proyecto.</td>
-<td class="cuerpo_tabla_izq">40,13 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.11.1.</td>
+<td>Instalaciones sin proyecto.</td>
+<td>40,13 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.2.11.2.</td>
-<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.11.2.</td>
+<td>Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 2.000 euros.</td>
-<td class="cuerpo_tabla_izq">62,60 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 2.000 euros.</td>
+<td>62,60 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">14 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>14 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Más de 100.000 euros.</td>
-<td class="cuerpo_tabla_izq">200 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 100.000 euros.</td>
+<td>200 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.12.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de equipos a presión.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>7.2.12.</td>
+<td colspan="2">Instalaciones de equipos a presión.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.2.12.1.</td>
-<td class="cuerpo_tabla_izq">Instalaciones sin proyecto.</td>
-<td class="cuerpo_tabla_izq">40,13 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.12.1.</td>
+<td>Instalaciones sin proyecto.</td>
+<td>40,13 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.2.12.2.</td>
-<td class="cuerpo_tabla_izq">Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.12.2.</td>
+<td>Instalaciones con proyecto. En función del presupuesto del proyecto (euros):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Inversión hasta 2.000 euros.</td>
-<td class="cuerpo_tabla_izq">62,60 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Inversión hasta 2.000 euros.</td>
+<td>62,60 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Por cada 10.000 euros adicionales se sumarán.</td>
-<td class="cuerpo_tabla_izq">14 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Por cada 10.000 euros adicionales se sumarán.</td>
+<td>14 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">– Más de 100.000 euros.</td>
-<td class="cuerpo_tabla_izq">200 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>– Más de 100.000 euros.</td>
+<td>200 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.2.12.3.</td>
-<td class="cuerpo_tabla_izq">Obtención de placa de instalación e inspecciones periódicas.</td>
-<td class="cuerpo_tabla_izq">3,85 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.2.12.3.</td>
+<td>Obtención de placa de instalación e inspecciones periódicas.</td>
+<td>3,85 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.2.13.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Suministro provisional para pruebas.</td>
-<td class="cuerpo_tabla_izq">111,75 euros.</td>
+<td> </td>
+<td> </td>
+<td>7.2.13.</td>
+<td colspan="2">Suministro provisional para pruebas.</td>
+<td>111,75 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.3.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Solicitud de suministro provisional para obras.</td>
-<td class="cuerpo_tabla_izq">111,75 euros.</td>
+<td> </td>
+<td>7.3.</td>
+<td colspan="3">Solicitud de suministro provisional para obras.</td>
+<td>111,75 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.4.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Regularización de instalaciones antiguas: se liquidará por el doble del importe de la tasa correspondiente a la autorización o puesta en funcionamiento según corresponda.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>7.4.</td>
+<td colspan="3">Regularización de instalaciones antiguas: se liquidará por el doble del importe de la tasa correspondiente a la autorización o puesta en funcionamiento según corresponda.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.5.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Tramitación de la inscripción de oficio en el Registro Integrado Industrial de Andalucía derivada de la autorización o puesta en funcionamiento de instalaciones.</td>
-<td class="cuerpo_tabla_izq">23,64 euros.</td>
+<td> </td>
+<td>7.5.</td>
+<td colspan="3">Tramitación de la inscripción de oficio en el Registro Integrado Industrial de Andalucía derivada de la autorización o puesta en funcionamiento de instalaciones.</td>
+<td>23,64 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="7%">
-<col width="70%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">8.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Tramitación administrativa de acceso a determinadas actividades de servicios en materia de industria y energía:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>8.</td>
+<td colspan="3">Tramitación administrativa de acceso a determinadas actividades de servicios en materia de industria y energía:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">8.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tramitación de declaraciones responsables y la correspondiente inscripción en el Registro Integrado Industrial de Andalucía <sup>(1)</sup>:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>8.1.</td>
+<td colspan="2">Tramitación de declaraciones responsables y la correspondiente inscripción en el Registro Integrado Industrial de Andalucía <sup>(1)</sup>:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cita"><sup>(1)</sup> Para el caso de la adición de nuevas modalidades, categorías o especialidades dentro de una misma habilitación se liquidará el 50% de esta tasa.</p>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p><sup>(1)</sup> Para el caso de la adición de nuevas modalidades, categorías o especialidades dentro de una misma habilitación se liquidará el 50% de esta tasa.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">8.1.1.</td>
-<td class="cuerpo_tabla_izq">Declaración responsable de empresa de servicios en materia de seguridad industrial para empresas establecidas en Andalucía.</td>
-<td class="cuerpo_tabla_izq">46,65 euros.</td>
+<td> </td>
+<td> </td>
+<td>8.1.1.</td>
+<td>Declaración responsable de empresa de servicios en materia de seguridad industrial para empresas establecidas en Andalucía.</td>
+<td>46,65 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">8.1.2.</td>
-<td class="cuerpo_tabla_izq">Declaración responsable de empresa de servicios en materia de seguridad industrial para empresas establecidas en otro Estado miembro de la Unión Europea, que vayan a ejercer por primera vez la libre prestación de servicios en España, en Andalucía.</td>
-<td class="cuerpo_tabla_izq">46,65 euros.</td>
+<td> </td>
+<td> </td>
+<td>8.1.2.</td>
+<td>Declaración responsable de empresa de servicios en materia de seguridad industrial para empresas establecidas en otro Estado miembro de la Unión Europea, que vayan a ejercer por primera vez la libre prestación de servicios en España, en Andalucía.</td>
+<td>46,65 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">8.1.3.</td>
-<td class="cuerpo_tabla_izq">Declaración responsable de talleres de reparación de vehículos automóviles.</td>
-<td class="cuerpo_tabla_izq">50,47 euros.</td>
+<td> </td>
+<td> </td>
+<td>8.1.3.</td>
+<td>Declaración responsable de talleres de reparación de vehículos automóviles.</td>
+<td>50,47 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">8.1.4.</td>
-<td class="cuerpo_tabla_izq">Declaración responsable de Organismos de Control.</td>
-<td class="cuerpo_tabla_izq">188,44 euros.</td>
+<td> </td>
+<td> </td>
+<td>8.1.4.</td>
+<td>Declaración responsable de Organismos de Control.</td>
+<td>188,44 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">8.1.5.</td>
-<td class="cuerpo_tabla_izq">Declaración responsable de aquellas actividades industriales no contempladas en los apartados anteriores que se encuentran sujetas a esta modalidad para el acceso a la actividad.</td>
-<td class="cuerpo_tabla_izq">76,45 euros.</td>
+<td> </td>
+<td> </td>
+<td>8.1.5.</td>
+<td>Declaración responsable de aquellas actividades industriales no contempladas en los apartados anteriores que se encuentran sujetas a esta modalidad para el acceso a la actividad.</td>
+<td>76,45 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">8.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Acreditación, reconocimiento, certificación y autorización de empresas y entidades de formación:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>8.2.</td>
+<td colspan="2">Acreditación, reconocimiento, certificación y autorización de empresas y entidades de formación:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">8.2.1.</td>
-<td class="cuerpo_tabla_izq">Autorización de entidades de formación para la impartición de cursos de instalaciones térmicas en los edificios (RITE) <sup>(2)</sup>.</td>
-<td class="cuerpo_tabla_izq">190,80 euros.</td>
+<td> </td>
+<td> </td>
+<td>8.2.1.</td>
+<td>Autorización de entidades de formación para la impartición de cursos de instalaciones térmicas en los edificios (RITE) <sup>(2)</sup>.</td>
+<td>190,80 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">8.2.2.</td>
-<td class="cuerpo_tabla_izq">Autorización de centros formativos y evaluadores en materia de gases fluorados de efecto invernadero <sup>(2)</sup>.</td>
-<td class="cuerpo_tabla_izq">190,80 euros.</td>
+<td> </td>
+<td> </td>
+<td>8.2.2.</td>
+<td>Autorización de centros formativos y evaluadores en materia de gases fluorados de efecto invernadero <sup>(2)</sup>.</td>
+<td>190,80 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">8.2.3.</td>
-<td class="cuerpo_tabla_izq">Certificación de empresas que instalan, mantienen, revisan o manipulan equipos o sistemas que contienen determinados gases fluorados de efecto invernadero.</td>
-<td class="cuerpo_tabla_izq">28,20 euros.</td>
+<td> </td>
+<td> </td>
+<td>8.2.3.</td>
+<td>Certificación de empresas que instalan, mantienen, revisan o manipulan equipos o sistemas que contienen determinados gases fluorados de efecto invernadero.</td>
+<td>28,20 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cita"><sup>(2)</sup> Para los casos de renovación o ampliación de nuevos cursos dentro de un mismo reglamento técnico se liquidará el 50% de esta tasa.</p>
+<td> </td>
+<td> </td>
+<td> </td>
+<td colspan="2">
+<p><sup>(2)</sup> Para los casos de renovación o ampliación de nuevos cursos dentro de un mismo reglamento técnico se liquidará el 50% de esta tasa.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">9.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Habilitaciones y certificados profesionales en materia de industria, energía y minas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>9.</td>
+<td colspan="2">Habilitaciones y certificados profesionales en materia de industria, energía y minas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">9.1.</td>
-<td class="cuerpo_tabla_izq">Expedición de habilitaciones profesionales <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_izq">32,69 euros.</td>
+<td> </td>
+<td>9.1.</td>
+<td>Expedición de habilitaciones profesionales <sup>(1)</sup>.</td>
+<td>32,69 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">9.2.</td>
-<td class="cuerpo_tabla_izq">Renovación de habilitaciones profesionales.</td>
-<td class="cuerpo_tabla_izq">16,34 euros.</td>
+<td> </td>
+<td>9.2.</td>
+<td>Renovación de habilitaciones profesionales.</td>
+<td>16,34 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">9.3.</td>
-<td class="cuerpo_tabla_izq">Certificación de profesionales que instalan, mantienen, revisan o manipulan equipos o sistemas que contienen determinados gases fluorados de efecto invernadero <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_izq">28,75 euros.</td>
+<td> </td>
+<td>9.3.</td>
+<td>Certificación de profesionales que instalan, mantienen, revisan o manipulan equipos o sistemas que contienen determinados gases fluorados de efecto invernadero <sup>(1)</sup>.</td>
+<td>28,75 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cita"><sup>(1)</sup> Para el caso de la adición de nuevas modalidades, categorías o especialidades dentro de una misma habilitación se liquidará el 50% de esta tasa.</p>
+<td> </td>
+<td> </td>
+<td colspan="2">
+<p><sup>(1)</sup> Para el caso de la adición de nuevas modalidades, categorías o especialidades dentro de una misma habilitación se liquidará el 50% de esta tasa.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">10.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro Integrado Industrial de Andalucía a instancia de parte:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>10.</td>
+<td colspan="2">Inscripción en el Registro Integrado Industrial de Andalucía a instancia de parte:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">10.1.</td>
-<td class="cuerpo_tabla_izq">Nuevas empresas y establecimientos industriales.</td>
-<td class="cuerpo_tabla_izq">22,32 euros.</td>
+<td> </td>
+<td>10.1.</td>
+<td>Nuevas empresas y establecimientos industriales.</td>
+<td>22,32 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">10.2.</td>
-<td class="cuerpo_tabla_izq">Ampliación, modificación, traslado o cambio de titularidad de empresas y establecimientos industriales.</td>
-<td class="cuerpo_tabla_izq">11,16 euros.</td>
+<td> </td>
+<td>10.2.</td>
+<td>Ampliación, modificación, traslado o cambio de titularidad de empresas y establecimientos industriales.</td>
+<td>11,16 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Las presentes tarifas no se liquidarán para aquellas inscripciones que se realicen de oficio mediante la liquidación de las tarifas 7.5 y 8.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>Las presentes tarifas no se liquidarán para aquellas inscripciones que se realicen de oficio mediante la liquidación de las tarifas 7.5 y 8.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">11.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro de instalaciones de producción de energía eléctrica (PRETOR) o en el Registro de Autoconsumo:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>11.</td>
+<td colspan="2">Inscripción en el Registro de instalaciones de producción de energía eléctrica (PRETOR) o en el Registro de Autoconsumo:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">11.1.</td>
-<td class="cuerpo_tabla_izq">Inscripción previa y/o definitiva en el registro de producción de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">35,36 euros.</td>
+<td> </td>
+<td>11.1.</td>
+<td>Inscripción previa y/o definitiva en el registro de producción de energía eléctrica.</td>
+<td>35,36 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">11.2.</td>
-<td class="cuerpo_tabla_izq">Inscripción en el registro de autoconsumo, a excepción de las instalaciones de baja tensión y potencia instalada de generación menor a 100 kW.</td>
-<td class="cuerpo_tabla_izq">20,53 euros.</td>
+<td> </td>
+<td>11.2.</td>
+<td>Inscripción en el registro de autoconsumo, a excepción de las instalaciones de baja tensión y potencia instalada de generación menor a 100 kW.</td>
+<td>20,53 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">12.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones radiactivas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>12.</td>
+<td colspan="2">Instalaciones radiactivas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">12.1.</td>
-<td class="cuerpo_tabla_izq">Por cada declaración e inscripción en el Registro de instalaciones de rayos X de diagnóstico médico.</td>
-<td class="cuerpo_tabla_izq">29,80 euros.</td>
+<td> </td>
+<td>12.1.</td>
+<td>Por cada declaración e inscripción en el Registro de instalaciones de rayos X de diagnóstico médico.</td>
+<td>29,80 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">12.2.</td>
-<td class="cuerpo_tabla_izq">Autorización de empresas o entidades para la venta, asistencia técnica o importación de equipos e instalaciones de rayos X de diagnóstico médico.</td>
-<td class="cuerpo_tabla_izq">91,50 euros.</td>
+<td> </td>
+<td>12.2.</td>
+<td>Autorización de empresas o entidades para la venta, asistencia técnica o importación de equipos e instalaciones de rayos X de diagnóstico médico.</td>
+<td>91,50 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">12.3.</td>
-<td class="cuerpo_tabla_izq">Tramitación de la declaración de actividad laboral con fuentes naturales de radiación y registro de la misma.</td>
-<td class="cuerpo_tabla_izq">40,22 euros.</td>
+<td> </td>
+<td>12.3.</td>
+<td>Tramitación de la declaración de actividad laboral con fuentes naturales de radiación y registro de la misma.</td>
+<td>40,22 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="7%">
-<col width="70%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">13.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Inscripción en el Registro de Certificados Energéticos Andaluces:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>13.</td>
+<td colspan="3">Inscripción en el Registro de Certificados Energéticos Andaluces:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">13.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inscripción, actualización y renovación de certificados energéticos de los edificios, tanto en fase de proyecto como en fase de edificio terminado:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>13.1.</td>
+<td colspan="2">Inscripción, actualización y renovación de certificados energéticos de los edificios, tanto en fase de proyecto como en fase de edificio terminado:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">13.1.1.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de edificación con potencia térmica nominal instalada inferior o igual a 70 Kw.</td>
-<td class="cuerpo_tabla_izq">14,40 euros.</td>
+<td> </td>
+<td> </td>
+<td>13.1.1.</td>
+<td>Instalaciones de edificación con potencia térmica nominal instalada inferior o igual a 70 Kw.</td>
+<td>14,40 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">13.1.2.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de edificación con potencia térmica nominal instalada superior a 70 Kw.</td>
-<td class="cuerpo_tabla_izq">78,06 euros.</td>
+<td> </td>
+<td> </td>
+<td>13.1.2.</td>
+<td>Instalaciones de edificación con potencia térmica nominal instalada superior a 70 Kw.</td>
+<td>78,06 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">13.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inscripción, actualización y renovación de certificados energéticos de los edificios existentes:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>13.2.</td>
+<td colspan="2">Inscripción, actualización y renovación de certificados energéticos de los edificios existentes:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">13.2.1.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de edificación con superficie inferior o igual a 250 m².</td>
-<td class="cuerpo_tabla_izq">14,40 euros.</td>
+<td> </td>
+<td> </td>
+<td>13.2.1.</td>
+<td>Instalaciones de edificación con superficie inferior o igual a 250 m².</td>
+<td>14,40 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">13.2.2.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de edificación con superficie superior a 250 m².</td>
-<td class="cuerpo_tabla_izq">55,21 euros.</td>
+<td> </td>
+<td> </td>
+<td>13.2.2.</td>
+<td>Instalaciones de edificación con superficie superior a 250 m².</td>
+<td>55,21 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">14.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización de técnicas de seguridad equivalentes, reconocimiento de la excepción del cumplimiento de determinadas prescripciones reglamentarias en materia de industria y energía:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>14.</td>
+<td colspan="2">Autorización de técnicas de seguridad equivalentes, reconocimiento de la excepción del cumplimiento de determinadas prescripciones reglamentarias en materia de industria y energía:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">14.1.</td>
-<td class="cuerpo_tabla_izq">Autorización de técnicas de seguridad equivalentes.</td>
-<td class="cuerpo_tabla_izq">187,90 euros.</td>
+<td> </td>
+<td>14.1.</td>
+<td>Autorización de técnicas de seguridad equivalentes.</td>
+<td>187,90 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">14.2.</td>
-<td class="cuerpo_tabla_izq">Reconocimiento de la excepción del cumplimento de prescripciones reglamentarias.</td>
-<td class="cuerpo_tabla_izq">131,59 euros.</td>
+<td> </td>
+<td>14.2.</td>
+<td>Reconocimiento de la excepción del cumplimento de prescripciones reglamentarias.</td>
+<td>131,59 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">15.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización de uso de equipos no sometidos a control metrológico y de los verificadores de medidas eléctricas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>15.</td>
+<td colspan="2">Autorización de uso de equipos no sometidos a control metrológico y de los verificadores de medidas eléctricas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">15.1.</td>
-<td class="cuerpo_tabla_izq">Autorización de equipos no sometidos a control metrológico.</td>
-<td class="cuerpo_tabla_izq">129,23 euros.</td>
+<td> </td>
+<td>15.1.</td>
+<td>Autorización de equipos no sometidos a control metrológico.</td>
+<td>129,23 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">15.2.</td>
-<td class="cuerpo_tabla_izq">Autorización de verificadores de medidas eléctricas.</td>
-<td class="cuerpo_tabla_izq">203,57 euros.</td>
+<td> </td>
+<td>15.2.</td>
+<td>Autorización de verificadores de medidas eléctricas.</td>
+<td>203,57 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">16.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tramitación de las comunicaciones efectuadas por una gran empresa relativas a la realización de una auditoría energética de las instalaciones radicadas en la Comunidad Autónoma de Andalucía y declaraciones responsables de los proveedores de servicios energéticos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>16.</td>
+<td colspan="2">Tramitación de las comunicaciones efectuadas por una gran empresa relativas a la realización de una auditoría energética de las instalaciones radicadas en la Comunidad Autónoma de Andalucía y declaraciones responsables de los proveedores de servicios energéticos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">16.1.</td>
-<td class="cuerpo_tabla_izq">Tramitación de la comunicación de realización de auditorías energéticas al órgano de la Comunidad Autónoma competente en materia de eficiencia energética donde se encuentren las instalaciones que han sido objeto de la auditoría.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>16.1.</td>
+<td>Tramitación de la comunicación de realización de auditorías energéticas al órgano de la Comunidad Autónoma competente en materia de eficiencia energética donde se encuentren las instalaciones que han sido objeto de la auditoría.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">− Por cada instalación auditada radicada en una misma provincia que ha sido objeto de la auditoría y que sea comunicada al órgano competente provincial.</td>
-<td class="cuerpo_tabla_izq">24,05 euros</td>
+<td> </td>
+<td> </td>
+<td>− Por cada instalación auditada radicada en una misma provincia que ha sido objeto de la auditoría y que sea comunicada al órgano competente provincial.</td>
+<td>24,05 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">− A partir de 5 instalaciones auditadas radicadas en una misma provincia, que sean comunicadas en el mismo año natural al órgano competente donde se encuentren las instalaciones que han sido objeto de la auditoría.</p>
-<p class="cuerpo_tabla_izq">Por el total de instalaciones comunicadas.</p>
+<td> </td>
+<td> </td>
+<td>
+<p>− A partir de 5 instalaciones auditadas radicadas en una misma provincia, que sean comunicadas en el mismo año natural al órgano competente donde se encuentren las instalaciones que han sido objeto de la auditoría.</p>
+<p>Por el total de instalaciones comunicadas.</p>
 </td>
-<td class="cuerpo_tabla_izq">102,00 euros</td>
+<td>102,00 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">16.2.</td>
-<td class="cuerpo_tabla_izq">Proveedores de servicios energéticos.</td>
-<td class="cuerpo_tabla_izq">20,13 euros.</td>
+<td> </td>
+<td>16.2.</td>
+<td>Proveedores de servicios energéticos.</td>
+<td>20,13 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">17.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Actividades y servicios administrativos en materia de control de riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>17.</td>
+<td colspan="2">Actividades y servicios administrativos en materia de control de riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">17.1.</td>
-<td class="cuerpo_tabla_izq">Recepción, revisión y gestión de la notificación.</td>
-<td class="cuerpo_tabla_izq">77,05 euros.</td>
+<td> </td>
+<td>17.1.</td>
+<td>Recepción, revisión y gestión de la notificación.</td>
+<td>77,05 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">17.2.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Recepción, revisión y gestión del Plan de Emergencia Interior o de autoprotección.</p>
-<p class="cuerpo_tabla_izq">En el caso de revisiones periódicas, se liquidará el 20% de la tasa.</p>
+<td> </td>
+<td>17.2.</td>
+<td>
+<p>Recepción, revisión y gestión del Plan de Emergencia Interior o de autoprotección.</p>
+<p>En el caso de revisiones periódicas, se liquidará el 20% de la tasa.</p>
 </td>
-<td class="cuerpo_tabla_izq">218,39 euros.</td>
+<td>218,39 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">17.3.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Recepción, revisión, evaluación y pronunciamiento del Informe de Seguridad.</p>
-<p class="cuerpo_tabla_izq">En el caso de revisiones periódicas, se liquidará el 20% de la tasa.</p>
+<td> </td>
+<td>17.3.</td>
+<td>
+<p>Recepción, revisión, evaluación y pronunciamiento del Informe de Seguridad.</p>
+<p>En el caso de revisiones periódicas, se liquidará el 20% de la tasa.</p>
 </td>
-<td class="cuerpo_tabla_izq">834,65 euros.</td>
+<td>834,65 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="7%">
-<col width="70%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">18.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Declaración de utilidad pública, ocupación forzosa, ocupación temporal y servidumbre de paso en materia de energía y minas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>18.</td>
+<td colspan="3">Declaración de utilidad pública, ocupación forzosa, ocupación temporal y servidumbre de paso en materia de energía y minas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">18.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Declaración de utilidad pública.</td>
-<td class="cuerpo_tabla_izq">607,97 euros.</td>
+<td> </td>
+<td>18.1.</td>
+<td colspan="2">Declaración de utilidad pública.</td>
+<td>607,97 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">18.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Declaración de urgente ocupación.</td>
-<td class="cuerpo_tabla_izq">1.319,98 euros.</td>
+<td> </td>
+<td>18.2.</td>
+<td colspan="2">Declaración de urgente ocupación.</td>
+<td>1.319,98 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">18.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Expropiación forzosa, ocupación temporal y servidumbre de paso:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>18.3.</td>
+<td colspan="2">Expropiación forzosa, ocupación temporal y servidumbre de paso:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">18.3.1.</td>
-<td class="cuerpo_tabla_izq">Inicio de expediente.</td>
-<td class="cuerpo_tabla_izq">643,13 euros.</td>
+<td> </td>
+<td> </td>
+<td>18.3.1.</td>
+<td>Inicio de expediente.</td>
+<td>643,13 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">18.3.2.</td>
-<td class="cuerpo_tabla_izq">Acta previa de ocupación por parcela.</td>
-<td class="cuerpo_tabla_izq">65,41 euros.</td>
+<td> </td>
+<td> </td>
+<td>18.3.2.</td>
+<td>Acta previa de ocupación por parcela.</td>
+<td>65,41 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">18.3.3.</td>
-<td class="cuerpo_tabla_izq">Acta de ocupación por parcela.</td>
-<td class="cuerpo_tabla_izq">42,80 euros.</td>
+<td> </td>
+<td> </td>
+<td>18.3.3.</td>
+<td>Acta de ocupación por parcela.</td>
+<td>42,80 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">19.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Anotación en el sistema informático del resultado de las actuaciones de los organismos de control en el ámbito de la seguridad industrial:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>19.</td>
+<td colspan="2">Anotación en el sistema informático del resultado de las actuaciones de los organismos de control en el ámbito de la seguridad industrial:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">19.1.</td>
-<td class="cuerpo_tabla_izq">Anotación en el sistema informático del resultado de las actuaciones de los organismos de control sobre productos e instalaciones industriales.</td>
-<td class="cuerpo_tabla_izq">1,20 euros.</td>
+<td> </td>
+<td>19.1.</td>
+<td>Anotación en el sistema informático del resultado de las actuaciones de los organismos de control sobre productos e instalaciones industriales.</td>
+<td>1,20 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">20.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Anotación de comunicaciones reglamentarias en el ámbito de la seguridad industrial:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>20.</td>
+<td colspan="2">Anotación de comunicaciones reglamentarias en el ámbito de la seguridad industrial:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">20.1.</td>
-<td class="cuerpo_tabla_izq">Anotación del cambio (alta y baja) de empresa conservadora de ascensores.</td>
-<td class="cuerpo_tabla_izq">2,90 euros.</td>
+<td> </td>
+<td>20.1.</td>
+<td>Anotación del cambio (alta y baja) de empresa conservadora de ascensores.</td>
+<td>2,90 euros.</td>
 </tr>
 </tbody>
 </table>
@@ -2682,76 +2554,70 @@ Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como 
 
 La tasa se exigirá de acuerdo con la siguiente tarifa:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inspección fitosanitaria y expedición del correspondiente certificado fitosanitario de origen.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1.</td>
+<td colspan="2">Inspección fitosanitaria y expedición del correspondiente certificado fitosanitario de origen.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.</td>
-<td class="cuerpo_tabla_izq">Sin desplazamiento y visita.</td>
-<td class="cuerpo_tabla_izq">51,82 euros.</td>
+<td> </td>
+<td>1.1.</td>
+<td>Sin desplazamiento y visita.</td>
+<td>51,82 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.2.</td>
-<td class="cuerpo_tabla_izq">Con desplazamiento y visita.</td>
-<td class="cuerpo_tabla_izq">104,68 euros.</td>
+<td> </td>
+<td>1.2.</td>
+<td>Con desplazamiento y visita.</td>
+<td>104,68 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Toma de muestras, levantamiento de acta y remisión de las mismas a los laboratorios oficiales, a petición de parte. Por muestra.</td>
-<td class="cuerpo_tabla_izq">5,18 euros.</td>
+<td>2.</td>
+<td colspan="2">Toma de muestras, levantamiento de acta y remisión de las mismas a los laboratorios oficiales, a petición de parte. Por muestra.</td>
+<td>5,18 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inscripción y renovación de la inscripción en el Registro Oficial de Productores y Operadores de medios de defensa fitosanitaria (ROPO).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>3.</td>
+<td colspan="2">Inscripción y renovación de la inscripción en el Registro Oficial de Productores y Operadores de medios de defensa fitosanitaria (ROPO).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3.1.</td>
-<td class="cuerpo_tabla_izq">En el sector suministrador y en el sector tratamientos fitosanitarios.</td>
-<td class="cuerpo_tabla_izq">41,46 euros.</td>
+<td> </td>
+<td>3.1.</td>
+<td>En el sector suministrador y en el sector tratamientos fitosanitarios.</td>
+<td>41,46 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3.2.</td>
-<td class="cuerpo_tabla_izq">En el sector de asesoramiento fitosanitario.</td>
-<td class="cuerpo_tabla_izq">16,84 euros.</td>
+<td> </td>
+<td>3.2.</td>
+<td>En el sector de asesoramiento fitosanitario.</td>
+<td>16,84 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3.3.</td>
-<td class="cuerpo_tabla_izq">En el sector usuarios profesionales (incluye la expedición y renovación del carné de usuario profesional de productos fitosanitarios).</td>
-<td class="cuerpo_tabla_izq">16,94 euros.</td>
+<td> </td>
+<td>3.3.</td>
+<td>En el sector usuarios profesionales (incluye la expedición y renovación del carné de usuario profesional de productos fitosanitarios).</td>
+<td>16,94 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización de las estaciones de Inspección Técnica de equipos de aplicación de productos fitosanitarios.</td>
-<td class="cuerpo_tabla_izq">186,48 euros.</td>
+<td>4.</td>
+<td colspan="2">Autorización de las estaciones de Inspección Técnica de equipos de aplicación de productos fitosanitarios.</td>
+<td>186,48 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización para replantación de viñedo destinado a vinificación.</td>
-<td class="cuerpo_tabla_izq">186,48 euros.</td>
+<td>5.</td>
+<td colspan="2">Autorización para replantación de viñedo destinado a vinificación.</td>
+<td>186,48 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Inscripción y renovación de la inscripción en el Registro Oficial de Productores, Comerciantes e Importadores de Vegetales y Productos Vegetales (ROPCIV).</p>
-<p class="cuerpo_tabla_izq">Incluye la posterior autorización del pasaporte fitosanitario.</p>
+<td>6.</td>
+<td colspan="2">
+<p>Inscripción y renovación de la inscripción en el Registro Oficial de Productores, Comerciantes e Importadores de Vegetales y Productos Vegetales (ROPCIV).</p>
+<p>Incluye la posterior autorización del pasaporte fitosanitario.</p>
 </td>
-<td class="cuerpo_tabla_izq">94,32 euros.</td>
+<td>94,32 euros.</td>
 </tr>
 </tbody>
 </table>
@@ -2780,30 +2646,24 @@ Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como 
 
 La tasa se exigirá de acuerdo con las siguientes tarifas:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por la expedición de la certificación oficial para el movimiento de animales vivos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1.</td>
+<td colspan="2">Por la expedición de la certificación oficial para el movimiento de animales vivos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">1.1.</td>
-<td class="cuerpo_tabla_izq">Por las 10 primeras unidades de ganado mayor (UGM).</td>
-<td class="cuerpo_tabla_izq">4,50 euros.</td>
+<td> </td>
+<td>1.1.</td>
+<td>Por las 10 primeras unidades de ganado mayor (UGM).</td>
+<td>4,50 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">1.2.</td>
-<td class="cuerpo_tabla_izq">Por cada 10 UGM o fracción adicional.</td>
-<td class="cuerpo_tabla_izq">0,45 euros.</td>
+<td> </td>
+<td>1.2.</td>
+<td>Por cada 10 UGM o fracción adicional.</td>
+<td>0,45 euros.</td>
 </tr>
 </tbody>
 </table>
@@ -2814,198 +2674,156 @@ La tasa se exigirá de acuerdo con las siguientes tarifas:
 | 3. | Por los servicios facultativos correspondientes a la inspección obligatoria y vigilancia de la desinfección y desinsectación de los locales destinados a ferias, mercados, concursos, exposiciones y demás lugares públicos donde se albergue ganado para los fines anteriores. Por cada local. | 86,32 euros |
 |---|---|---|
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro de explotaciones ganaderas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>4.</td>
+<td colspan="2">Inscripción en el Registro de explotaciones ganaderas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">4.1.</td>
-<td class="cuerpo_tabla_izq">Explotaciones con menos de 10 unidades de ganado mayor (UGM).</td>
-<td class="cuerpo_tabla_izq">28,28 euros.</td>
+<td> </td>
+<td>4.1.</td>
+<td>Explotaciones con menos de 10 unidades de ganado mayor (UGM).</td>
+<td>28,28 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">4.2.</td>
-<td class="cuerpo_tabla_izq">Explotaciones con más de 10 UGM.</td>
-<td class="cuerpo_tabla_izq">165,09 euros.</td>
+<td> </td>
+<td>4.2.</td>
+<td>Explotaciones con más de 10 UGM.</td>
+<td>165,09 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">5.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro de establecimientos de alimentación animal y, en su caso, autorización de establecimientos de alimentación animal:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>5.</td>
+<td colspan="2">Inscripción en el Registro de establecimientos de alimentación animal y, en su caso, autorización de establecimientos de alimentación animal:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.1.</td>
-<td class="cuerpo_tabla_izq">Registro (sin implicar visita de inspección).</td>
-<td class="cuerpo_tabla_izq">63,84 euros.</td>
+<td> </td>
+<td>5.1.</td>
+<td>Registro (sin implicar visita de inspección).</td>
+<td>63,84 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.2.</td>
-<td class="cuerpo_tabla_izq">Autorización y Registro (incluyendo visita de inspección).</td>
-<td class="cuerpo_tabla_izq">165,09 euros.</td>
+<td> </td>
+<td>5.2.</td>
+<td>Autorización y Registro (incluyendo visita de inspección).</td>
+<td>165,09 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">6.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro de transportistas y medios de transporte de animales:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>6.</td>
+<td colspan="2">Inscripción en el Registro de transportistas y medios de transporte de animales:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">6.1.</td>
-<td class="cuerpo_tabla_izq">Registro (sin implicar visita de inspección).</td>
-<td class="cuerpo_tabla_izq">63,84 euros.</td>
+<td> </td>
+<td>6.1.</td>
+<td>Registro (sin implicar visita de inspección).</td>
+<td>63,84 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">6.2.</td>
-<td class="cuerpo_tabla_izq">Autorización y Registro (incluyendo visita de inspección).</td>
-<td class="cuerpo_tabla_izq">165,09 euros.</td>
+<td> </td>
+<td>6.2.</td>
+<td>Autorización y Registro (incluyendo visita de inspección).</td>
+<td>165,09 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">7.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro de centros de limpieza y desinfección de los vehículos dedicados al transporte por carretera en el sector ganadero:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>7.</td>
+<td colspan="2">Inscripción en el Registro de centros de limpieza y desinfección de los vehículos dedicados al transporte por carretera en el sector ganadero:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">7.1.</td>
-<td class="cuerpo_tabla_izq">Registro (sin implicar visita de inspección).</td>
-<td class="cuerpo_tabla_izq">63,84 euros.</td>
+<td> </td>
+<td>7.1.</td>
+<td>Registro (sin implicar visita de inspección).</td>
+<td>63,84 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">7.2.</td>
-<td class="cuerpo_tabla_izq">Autorización y Registro (incluyendo visita de inspección).</td>
-<td class="cuerpo_tabla_izq">165,09 euros.</td>
+<td> </td>
+<td>7.2.</td>
+<td>Autorización y Registro (incluyendo visita de inspección).</td>
+<td>165,09 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">8.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro de establecimientos de medicamentos veterinarios de Andalucía:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>8.</td>
+<td colspan="2">Inscripción en el Registro de establecimientos de medicamentos veterinarios de Andalucía:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">8.1.</td>
-<td class="cuerpo_tabla_izq">Registro (sin implicar visita de inspección).</td>
-<td class="cuerpo_tabla_izq">63,84 euros.</td>
+<td> </td>
+<td>8.1.</td>
+<td>Registro (sin implicar visita de inspección).</td>
+<td>63,84 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">8.2.</td>
-<td class="cuerpo_tabla_izq">Autorización y Registro (incluyendo visita de inspección).</td>
-<td class="cuerpo_tabla_izq">165,09 euros.</td>
+<td> </td>
+<td>8.2.</td>
+<td>Autorización y Registro (incluyendo visita de inspección).</td>
+<td>165,09 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">9.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inscripción en el Registro de establecimientos y operadores en el sector de los productos y subproductos de origen animal no destinados a consumo humano (SANDACH).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>9.</td>
+<td colspan="2">Inscripción en el Registro de establecimientos y operadores en el sector de los productos y subproductos de origen animal no destinados a consumo humano (SANDACH).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">9.1.</td>
-<td class="cuerpo_tabla_izq">Registro (sin implicar visita de inspección).</td>
-<td class="cuerpo_tabla_izq">63,84 euros.</td>
+<td> </td>
+<td>9.1.</td>
+<td>Registro (sin implicar visita de inspección).</td>
+<td>63,84 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">9.2.</td>
-<td class="cuerpo_tabla_izq">Autorización y Registro (incluyendo visita de inspección).</td>
-<td class="cuerpo_tabla_izq">165,09 euros.</td>
+<td> </td>
+<td>9.2.</td>
+<td>Autorización y Registro (incluyendo visita de inspección).</td>
+<td>165,09 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">10.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por expedición de informes y certificados oficiales preceptivos a petición de parte, no gravados en las tarifas anteriores:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>10.</td>
+<td colspan="2">Por expedición de informes y certificados oficiales preceptivos a petición de parte, no gravados en las tarifas anteriores:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">10.1.</td>
-<td class="cuerpo_tabla_izq">Sin desplazamiento o visita al establecimiento.</td>
-<td class="cuerpo_tabla_izq">28,19 euros.</td>
+<td> </td>
+<td>10.1.</td>
+<td>Sin desplazamiento o visita al establecimiento.</td>
+<td>28,19 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">10.2.</td>
-<td class="cuerpo_tabla_izq">Con desplazamiento y visita al establecimiento.</td>
-<td class="cuerpo_tabla_izq">65,59 euros.</td>
+<td> </td>
+<td>10.2.</td>
+<td>Con desplazamiento y visita al establecimiento.</td>
+<td>65,59 euros.</td>
 </tr>
 </tbody>
 </table>
@@ -3230,94 +3048,89 @@ Constituye el hecho imponible de la tasa la prestación de los servicios en mate
 
 A) Formación profesional marítimo-pesquera:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="10%">
-<col width="10%">
-<col width="80%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por derechos de matriculación, examen, expedición y duplicado de certificado y/o diploma acreditativo de la formación en los siguientes cursos:</td>
+<td>1.</td>
+<td colspan="2">Por derechos de matriculación, examen, expedición y duplicado de certificado y/o diploma acreditativo de la formación en los siguientes cursos:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.</td>
-<td class="cuerpo_tabla_izq">Patrón Costero Polivalente.</td>
+<td> </td>
+<td>1.1.</td>
+<td>Patrón Costero Polivalente.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.2.</td>
-<td class="cuerpo_tabla_izq">Patrón Local de Pesca.</td>
+<td> </td>
+<td>1.2.</td>
+<td>Patrón Local de Pesca.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.3.</td>
-<td class="cuerpo_tabla_izq">Certificado de especialidad de Formación Básica en seguridad.</td>
+<td> </td>
+<td>1.3.</td>
+<td>Certificado de especialidad de Formación Básica en seguridad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.4.</td>
-<td class="cuerpo_tabla_izq">Operador Restringido del Sistema Mundial de Socorro y Seguridad Marítima (ORSMSSM).</td>
+<td> </td>
+<td>1.4.</td>
+<td>Operador Restringido del Sistema Mundial de Socorro y Seguridad Marítima (ORSMSSM).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.5.</td>
-<td class="cuerpo_tabla_izq">Marinero pescador.</td>
+<td> </td>
+<td>1.5.</td>
+<td>Marinero pescador.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.6.</td>
-<td class="cuerpo_tabla_izq">Formación sanitaria inicial en las titulaciones profesionales marítimas.</td>
+<td> </td>
+<td>1.6.</td>
+<td>Formación sanitaria inicial en las titulaciones profesionales marítimas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.7.</td>
-<td class="cuerpo_tabla_izq">Certificado de especialidad de avanzado en lucha contra incendios.</td>
+<td> </td>
+<td>1.7.</td>
+<td>Certificado de especialidad de avanzado en lucha contra incendios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.8.</td>
-<td class="cuerpo_tabla_izq">Patrón portuario.</td>
+<td> </td>
+<td>1.8.</td>
+<td>Patrón portuario.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.9.</td>
-<td class="cuerpo_tabla_izq">Marinero de Puente.</td>
+<td> </td>
+<td>1.9.</td>
+<td>Marinero de Puente.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.10.</td>
-<td class="cuerpo_tabla_izq">Marinero de Máquinas.</td>
+<td> </td>
+<td>1.10.</td>
+<td>Marinero de Máquinas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.11.</td>
-<td class="cuerpo_tabla_izq">Buceador de pequeña profundidad.</td>
+<td> </td>
+<td>1.11.</td>
+<td>Buceador de pequeña profundidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.12.</td>
-<td class="cuerpo_tabla_izq">Instructor Buceador profesional.</td>
+<td> </td>
+<td>1.12.</td>
+<td>Instructor Buceador profesional.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.13.</td>
-<td class="cuerpo_tabla_izq">Cualquier otro curso que se imparta necesario para desarrollar actividades profesionales marítimo-pesqueras.</td>
+<td> </td>
+<td>1.13.</td>
+<td>Cualquier otro curso que se imparta necesario para desarrollar actividades profesionales marítimo-pesqueras.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.14.</td>
-<td class="cuerpo_tabla_izq">Duplicado de certificado y/o diploma acreditativo de la formación.</td>
+<td> </td>
+<td>1.14.</td>
+<td>Duplicado de certificado y/o diploma acreditativo de la formación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por expedición, renovación y duplicados de documentos de acreditación profesional náutico-pesquera y de actividades subacuáticas.</td>
+<td>2.</td>
+<td colspan="2">Por expedición, renovación y duplicados de documentos de acreditación profesional náutico-pesquera y de actividades subacuáticas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por convalidación de módulos y asignaturas.</td>
+<td>3.</td>
+<td colspan="2">Por convalidación de módulos y asignaturas.</td>
 </tr>
 </tbody>
 </table>
@@ -3338,82 +3151,70 @@ La tasa se exigirá de acuerdo con las siguientes tarifas:
 
 A) Formación profesional marítimo-pesquera:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Derechos de matriculación, examen, expedición y duplicado de certificado y/o diploma acreditativo de la formación:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1.</td>
+<td colspan="2">Derechos de matriculación, examen, expedición y duplicado de certificado y/o diploma acreditativo de la formación:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">1.1.</td>
-<td class="cuerpo_tabla_izq">Acciones formativas de hasta 50 horas inclusive.</td>
-<td class="cuerpo_tabla_izq">10,20 euros.</td>
+<td> </td>
+<td>1.1.</td>
+<td>Acciones formativas de hasta 50 horas inclusive.</td>
+<td>10,20 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">1.2.</td>
-<td class="cuerpo_tabla_izq">Acciones formativas de 51 horas hasta 100 horas.</td>
-<td class="cuerpo_tabla_izq">16,50 euros.</td>
+<td> </td>
+<td>1.2.</td>
+<td>Acciones formativas de 51 horas hasta 100 horas.</td>
+<td>16,50 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">1.3.</td>
-<td class="cuerpo_tabla_izq">Acciones formativas de 101 horas hasta 250 horas.</td>
-<td class="cuerpo_tabla_izq">30,20 euros.</td>
+<td> </td>
+<td>1.3.</td>
+<td>Acciones formativas de 101 horas hasta 250 horas.</td>
+<td>30,20 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">1.4.</td>
-<td class="cuerpo_tabla_izq">Acciones formativas de 251 horas hasta 400 horas.</td>
-<td class="cuerpo_tabla_izq">40 euros.</td>
+<td> </td>
+<td>1.4.</td>
+<td>Acciones formativas de 251 horas hasta 400 horas.</td>
+<td>40 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">1.5.</td>
-<td class="cuerpo_tabla_izq">Acciones formativas superiores a 400 horas.</td>
-<td class="cuerpo_tabla_izq">50 euros.</td>
+<td> </td>
+<td>1.5.</td>
+<td>Acciones formativas superiores a 400 horas.</td>
+<td>50 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">1.6.</td>
-<td class="cuerpo_tabla_izq">Duplicado de certificado y/o diploma acreditativo de la formación.</td>
-<td class="cuerpo_tabla_izq">7,08 euros.</td>
+<td> </td>
+<td>1.6.</td>
+<td>Duplicado de certificado y/o diploma acreditativo de la formación.</td>
+<td>7,08 euros.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Expedición, renovación y duplicados de documentos de acreditación profesional náutico-pesquera y de actividades subacuáticas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>2.</td>
+<td colspan="2">Expedición, renovación y duplicados de documentos de acreditación profesional náutico-pesquera y de actividades subacuáticas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">2.1.</td>
-<td class="cuerpo_tabla_izq">Tarjetas de identidad profesional marítimo-pesqueras.</td>
-<td class="cuerpo_tabla_izq">32,04 euros.</td>
+<td> </td>
+<td>2.1.</td>
+<td>Tarjetas de identidad profesional marítimo-pesqueras.</td>
+<td>32,04 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">2.2.</td>
-<td class="cuerpo_tabla_izq">Libreta de actividades subacuáticas.</td>
-<td class="cuerpo_tabla_izq">33,03 euros.</td>
+<td> </td>
+<td>2.2.</td>
+<td>Libreta de actividades subacuáticas.</td>
+<td>33,03 euros.</td>
 </tr>
 </tbody>
 </table>
@@ -3461,178 +3262,171 @@ Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como 
 
 La tasa se exigirá de acuerdo con la siguiente tarifa:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="3%">
-<col>
-<col>
-<col>
-<col width="15%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Actuaciones de los agentes de Salud Pública y otras actuaciones sanitarias:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1.</td>
+<td colspan="3">Actuaciones de los agentes de Salud Pública y otras actuaciones sanitarias:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">1.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por todas las actuaciones que comprende la observación veterinaria de un animal agresor susceptible de transmitir la rabia que haya lesionado a una persona:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td>1.1.</td>
+<td colspan="2">Por todas las actuaciones que comprende la observación veterinaria de un animal agresor susceptible de transmitir la rabia que haya lesionado a una persona:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.1.1.</td>
-<td class="cuerpo_tabla_izq">Cuando las actuaciones se realicen en un centro zoosanitario.</td>
-<td class="cuerpo_tabla_centro">20,69 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.1.1.</td>
+<td>Cuando las actuaciones se realicen en un centro zoosanitario.</td>
+<td>20,69 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.1.2.</td>
-<td class="cuerpo_tabla_izq">Cuando se realicen a domicilio.</td>
-<td class="cuerpo_tabla_centro">82,73 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.1.2.</td>
+<td>Cuando se realicen a domicilio.</td>
+<td>82,73 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">1.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por la emisión de informes, atestados o certificados que requieran inspección de instalaciones o productos, estudios o exámenes de proyectos, excepto aquellos que constituyan trámites necesarios para las autorizaciones gravadas en esta ley y aquellos otros que se graven de forma específica.</td>
-<td class="cuerpo_tabla_centro">103,42 euros.</td>
+<td> </td>
+<td>1.2.</td>
+<td colspan="2">Por la emisión de informes, atestados o certificados que requieran inspección de instalaciones o productos, estudios o exámenes de proyectos, excepto aquellos que constituyan trámites necesarios para las autorizaciones gravadas en esta ley y aquellos otros que se graven de forma específica.</td>
+<td>103,42 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">1.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Certificados, atestados, visados, registros, autorizaciones y demás documentos no gravados de forma específica a instancia de parte.</td>
-<td class="cuerpo_tabla_centro">25,86 euros.</td>
+<td> </td>
+<td>1.3.</td>
+<td colspan="2">Certificados, atestados, visados, registros, autorizaciones y demás documentos no gravados de forma específica a instancia de parte.</td>
+<td>25,86 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">1.4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Auditorías o supervisiones de sistemas de autocontrol realizados a petición de parte que requieran emitir, o no, algún tipo de certificación sobre el resultado:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td>1.4.</td>
+<td colspan="2">Auditorías o supervisiones de sistemas de autocontrol realizados a petición de parte que requieran emitir, o no, algún tipo de certificación sobre el resultado:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.4.1.</td>
-<td class="cuerpo_tabla_izq">Por auditoria o supervisión del sistema de autocontrol completo llevada a cabo por dos agentes de control oficial.</td>
-<td class="cuerpo_tabla_centro">2.585,39 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.4.1.</td>
+<td>Por auditoria o supervisión del sistema de autocontrol completo llevada a cabo por dos agentes de control oficial.</td>
+<td>2.585,39 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.4.2.</td>
-<td class="cuerpo_tabla_izq">Por auditoria o supervisión del sistema de autocontrol completo llevada a cabo por un agente de control oficial.</td>
-<td class="cuerpo_tabla_centro">1.809,78 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.4.2.</td>
+<td>Por auditoria o supervisión del sistema de autocontrol completo llevada a cabo por un agente de control oficial.</td>
+<td>1.809,78 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.4.3.</td>
-<td class="cuerpo_tabla_izq">Por auditoria o supervisión parcial del sistema de autocontrol llevada a cabo por dos agentes de control oficial.</td>
-<td class="cuerpo_tabla_centro">1.551,24 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.4.3.</td>
+<td>Por auditoria o supervisión parcial del sistema de autocontrol llevada a cabo por dos agentes de control oficial.</td>
+<td>1.551,24 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.4.4.</td>
-<td class="cuerpo_tabla_izq">Por auditoria o supervisión parcial del sistema de autocontrol llevada a cabo por un agente de control oficial.</td>
-<td class="cuerpo_tabla_centro">1.292,70 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.4.4.</td>
+<td>Por auditoria o supervisión parcial del sistema de autocontrol llevada a cabo por un agente de control oficial.</td>
+<td>1.292,70 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">1.5.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Controles oficiales adicionales, motivados por incumplimiento en establecimientos sujetos a control oficial en el ámbito de la seguridad alimentaria y de la salud ambiental:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td>1.5.</td>
+<td colspan="2">Controles oficiales adicionales, motivados por incumplimiento en establecimientos sujetos a control oficial en el ámbito de la seguridad alimentaria y de la salud ambiental:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.5.1.</td>
-<td class="cuerpo_tabla_izq">Por cada control oficial adicional en establecimientos alimentarios que requieran su inscripción en el Registro General Sanitario de Empresas Alimentarias y Alimentos, así como a los operadores de abastecimiento de agua de consumo público, a los establecimientos con instalaciones de riesgo de transmisión de la legionelosis, y a los establecimientos y servicios biocidas:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>1.5.1.</td>
+<td>Por cada control oficial adicional en establecimientos alimentarios que requieran su inscripción en el Registro General Sanitario de Empresas Alimentarias y Alimentos, así como a los operadores de abastecimiento de agua de consumo público, a los establecimientos con instalaciones de riesgo de transmisión de la legionelosis, y a los establecimientos y servicios biocidas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Dentro de la jornada laboral normal en horario diurno, entendida esta como el trabajo realizado entre las 08:00 y las 22:00 horas en días laborables.</td>
-<td class="cuerpo_tabla_centro">129,27 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Dentro de la jornada laboral normal en horario diurno, entendida esta como el trabajo realizado entre las 08:00 y las 22:00 horas en días laborables.</td>
+<td>129,27 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Dentro de la jornada laboral en horario nocturno, entendida esta como el trabajo realizado entre las 22:00 y las 08:00 horas en días laborables.</td>
-<td class="cuerpo_tabla_centro">137,14 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Dentro de la jornada laboral en horario nocturno, entendida esta como el trabajo realizado entre las 22:00 y las 08:00 horas en días laborables.</td>
+<td>137,14 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Fuera de la jornada laboral normal.</td>
-<td class="cuerpo_tabla_centro">213,61 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Fuera de la jornada laboral normal.</td>
+<td>213,61 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.5.2.</td>
-<td class="cuerpo_tabla_izq">Por cada control oficial adicional en establecimientos alimentarios que no requieran su inscripción en el Registro General Sanitario de Empresas Alimentarias y Alimentos, así como al resto de establecimientos, actividades y servicios:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>1.5.2.</td>
+<td>Por cada control oficial adicional en establecimientos alimentarios que no requieran su inscripción en el Registro General Sanitario de Empresas Alimentarias y Alimentos, así como al resto de establecimientos, actividades y servicios:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Dentro de la jornada laboral normal diurna, entendida esta como el trabajo realizado entre las 08:00 y las 22:00 horas en días laborables.</td>
-<td class="cuerpo_tabla_centro">103,42 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Dentro de la jornada laboral normal diurna, entendida esta como el trabajo realizado entre las 08:00 y las 22:00 horas en días laborables.</td>
+<td>103,42 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Dentro de la jornada laboral nocturna, entendida esta como el trabajo realizado entre las 22:00 y las 08:00 horas en días laborables.</td>
-<td class="cuerpo_tabla_centro">109,70 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Dentro de la jornada laboral nocturna, entendida esta como el trabajo realizado entre las 22:00 y las 08:00 horas en días laborables.</td>
+<td>109,70 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Fuera de la jornada laboral normal.</td>
-<td class="cuerpo_tabla_centro">170,87 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Fuera de la jornada laboral normal.</td>
+<td>170,87 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">1.6.</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Por inspecciones o controles sanitarios oficiales a petición de parte de:</p>
-<p class="cuerpo_tabla_izq">– Mataderos, salas de despiece, establecimientos de manipulación de caza y salas de tratamiento de reses de lidia, industrias de producción e introducción en el mercado de productos de pesca y de acuicultura, distintos de los controles cubiertos por su tasa específica establecida en el capítulo II.</p>
-<p class="cuerpo_tabla_izq">– Resto de empresas alimentarias.</p>
+<td> </td>
+<td>1.6.</td>
+<td colspan="2">
+<p>Por inspecciones o controles sanitarios oficiales a petición de parte de:</p>
+<p>– Mataderos, salas de despiece, establecimientos de manipulación de caza y salas de tratamiento de reses de lidia, industrias de producción e introducción en el mercado de productos de pesca y de acuicultura, distintos de los controles cubiertos por su tasa específica establecida en el capítulo II.</p>
+<p>– Resto de empresas alimentarias.</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.6.1.</td>
-<td class="cuerpo_tabla_izq">Dentro de la jornada laboral normal (días laborables de 8:00 a 22:00 horas).</td>
-<td class="cuerpo_tabla_centro">129,27 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.6.1.</td>
+<td>Dentro de la jornada laboral normal (días laborables de 8:00 a 22:00 horas).</td>
+<td>129,27 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.6.2.</td>
-<td class="cuerpo_tabla_izq">Dentro de la jornada laboral en horario nocturno, entendida esta como el trabajo realizado entre las 22:00 y las 08:00 horas en días laborables.</td>
-<td class="cuerpo_tabla_centro">137,14 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.6.2.</td>
+<td>Dentro de la jornada laboral en horario nocturno, entendida esta como el trabajo realizado entre las 22:00 y las 08:00 horas en días laborables.</td>
+<td>137,14 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.6.3.</td>
-<td class="cuerpo_tabla_izq">Fuera de la jornada laboral normal.</td>
-<td class="cuerpo_tabla_centro">213,61 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.6.3.</td>
+<td>Fuera de la jornada laboral normal.</td>
+<td>213,61 euros.</td>
 </tr>
 </tbody>
 </table>
@@ -3685,264 +3479,257 @@ Las personas físicas o jurídicas, así como las entidades sin personalidad jur
 
 1\. La tasa se exigirá de acuerdo con las siguientes tarifas:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="7%">
-<col width="70%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Mataderos:</td>
-<td class="cuerpo_tabla_centro">Por animal</td>
+<td>1.</td>
+<td colspan="3">Mataderos:</td>
+<td>Por animal</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Carne de vacuno:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>1.1.</td>
+<td colspan="2">Carne de vacuno:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.1.</td>
-<td class="cuerpo_tabla_izq">Vacuno pesado.</td>
-<td class="cuerpo_tabla_izq">5 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.1.1.</td>
+<td>Vacuno pesado.</td>
+<td>5 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.2.</td>
-<td class="cuerpo_tabla_izq">Vacuno joven.</td>
-<td class="cuerpo_tabla_izq">2 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.1.2.</td>
+<td>Vacuno joven.</td>
+<td>2 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Carne de solípedos/équidos.</td>
-<td class="cuerpo_tabla_izq">3 euros.</td>
+<td> </td>
+<td>1.2.</td>
+<td colspan="2">Carne de solípedos/équidos.</td>
+<td>3 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Carne de porcino:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>1.3.</td>
+<td colspan="2">Carne de porcino:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.3.1.</td>
-<td class="cuerpo_tabla_izq">Animales de menos de 25 kg en canal.</td>
-<td class="cuerpo_tabla_izq">0,50 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.3.1.</td>
+<td>Animales de menos de 25 kg en canal.</td>
+<td>0,50 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.3.2.</td>
-<td class="cuerpo_tabla_izq">Animales de 25 kg en canal o superior.</td>
-<td class="cuerpo_tabla_izq">1 euro.</td>
+<td> </td>
+<td> </td>
+<td>1.3.2.</td>
+<td>Animales de 25 kg en canal o superior.</td>
+<td>1 euro.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Carne de ovino y caprino:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>1.4.</td>
+<td colspan="2">Carne de ovino y caprino:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.4.1.</td>
-<td class="cuerpo_tabla_izq">De menos de 12 kg en canal.</td>
-<td class="cuerpo_tabla_izq">0,15 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.4.1.</td>
+<td>De menos de 12 kg en canal.</td>
+<td>0,15 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.4.2.</td>
-<td class="cuerpo_tabla_izq">Superior o igual a 12 kg en canal.</td>
-<td class="cuerpo_tabla_izq">0,25 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.4.2.</td>
+<td>Superior o igual a 12 kg en canal.</td>
+<td>0,25 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.5.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Carne de aves y conejo:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>1.5.</td>
+<td colspan="2">Carne de aves y conejo:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.5.1.</td>
-<td class="cuerpo_tabla_izq">Aves del género gallus y pintadas.</td>
-<td class="cuerpo_tabla_izq">0,005 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.5.1.</td>
+<td>Aves del género gallus y pintadas.</td>
+<td>0,005 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.5.2.</td>
-<td class="cuerpo_tabla_izq">Patos y ocas.</td>
-<td class="cuerpo_tabla_izq">0,01 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.5.2.</td>
+<td>Patos y ocas.</td>
+<td>0,01 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.5.3.</td>
-<td class="cuerpo_tabla_izq">Pavos.</td>
-<td class="cuerpo_tabla_izq">0,025 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.5.3.</td>
+<td>Pavos.</td>
+<td>0,025 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.5.4.</td>
-<td class="cuerpo_tabla_izq">Carne de conejo de granja.</td>
-<td class="cuerpo_tabla_izq">0,005 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.5.4.</td>
+<td>Carne de conejo de granja.</td>
+<td>0,005 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Establecimientos de transformación de la caza y salas de tratamiento de reses de lidia:</td>
-<td class="cuerpo_tabla_centro">Por animal</td>
+<td>2.</td>
+<td colspan="3">Establecimientos de transformación de la caza y salas de tratamiento de reses de lidia:</td>
+<td>Por animal</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Caza menor de pluma.</td>
-<td class="cuerpo_tabla_izq">0,005 euros.</td>
+<td> </td>
+<td>2.1.</td>
+<td colspan="2">Caza menor de pluma.</td>
+<td>0,005 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Caza menor de pelo.</td>
-<td class="cuerpo_tabla_izq">0,01 euros.</td>
+<td> </td>
+<td>2.2.</td>
+<td colspan="2">Caza menor de pelo.</td>
+<td>0,01 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Ratites.</td>
-<td class="cuerpo_tabla_izq">0,50 euros.</td>
+<td> </td>
+<td>2.3.</td>
+<td colspan="2">Ratites.</td>
+<td>0,50 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Mamíferos terrestres:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>2.4.</td>
+<td colspan="2">Mamíferos terrestres:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.4.1.</td>
-<td class="cuerpo_tabla_izq">Jabalíes.</td>
-<td class="cuerpo_tabla_izq">1,50 euros.</td>
+<td> </td>
+<td> </td>
+<td>2.4.1.</td>
+<td>Jabalíes.</td>
+<td>1,50 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.4.2.</td>
-<td class="cuerpo_tabla_izq">Vacuno pesado.</td>
-<td class="cuerpo_tabla_izq">5 euros.</td>
+<td> </td>
+<td> </td>
+<td>2.4.2.</td>
+<td>Vacuno pesado.</td>
+<td>5 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.4.3.</td>
-<td class="cuerpo_tabla_izq">Vacuno joven.</td>
-<td class="cuerpo_tabla_izq">2 euros.</td>
+<td> </td>
+<td> </td>
+<td>2.4.3.</td>
+<td>Vacuno joven.</td>
+<td>2 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.5.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Otros rumiantes.</td>
-<td class="cuerpo_tabla_izq">0,50 euros.</td>
+<td> </td>
+<td>2.5.</td>
+<td colspan="2">Otros rumiantes.</td>
+<td>0,50 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Buques factoría, buques congeladores y buques de transporte de productos de la pesca por parte de agentes de control oficial de la Junta de Andalucía, por cada buque que se inspeccione:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>3.</td>
+<td colspan="3">Buques factoría, buques congeladores y buques de transporte de productos de la pesca por parte de agentes de control oficial de la Junta de Andalucía, por cada buque que se inspeccione:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">3.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">En el puerto de Dakar (Senegal).</td>
-<td class="cuerpo_tabla_izq">3.491,77 euros.</td>
+<td> </td>
+<td>3.1.</td>
+<td colspan="2">En el puerto de Dakar (Senegal).</td>
+<td>3.491,77 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">3.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">En otros puertos de África distintos del anterior.</td>
-<td class="cuerpo_tabla_izq">6.582,66 euros.</td>
+<td> </td>
+<td>3.2.</td>
+<td colspan="2">En otros puertos de África distintos del anterior.</td>
+<td>6.582,66 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">3.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">En el resto de puertos de países terceros.</td>
-<td class="cuerpo_tabla_izq">9.127,36 euros.</td>
+<td> </td>
+<td>3.3.</td>
+<td colspan="2">En el resto de puertos de países terceros.</td>
+<td>9.127,36 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Salas de despiece:</td>
-<td class="cuerpo_tabla_centro">Por tonelada de carne</td>
+<td>4.</td>
+<td colspan="3">Salas de despiece:</td>
+<td>Por tonelada de carne</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">De vacuno, porcino, solípedos/équidos, ovino y caprino.</td>
-<td class="cuerpo_tabla_izq">2 euros.</td>
+<td> </td>
+<td>4.1.</td>
+<td colspan="2">De vacuno, porcino, solípedos/équidos, ovino y caprino.</td>
+<td>2 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">De aves de corral y de conejos de granja.</td>
-<td class="cuerpo_tabla_izq">1,5 euros.</td>
+<td> </td>
+<td>4.2.</td>
+<td colspan="2">De aves de corral y de conejos de granja.</td>
+<td>1,5 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">De caza, silvestre y de cría.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>4.3.</td>
+<td colspan="2">De caza, silvestre y de cría.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.3.1.</td>
-<td class="cuerpo_tabla_izq">De caza menor de pluma y de pelo.</td>
-<td class="cuerpo_tabla_izq">1,5 euros.</td>
+<td> </td>
+<td> </td>
+<td>4.3.1.</td>
+<td>De caza menor de pluma y de pelo.</td>
+<td>1,5 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.3.2.</td>
-<td class="cuerpo_tabla_izq">De ratites (avestruz, emú, ñandú).</td>
-<td class="cuerpo_tabla_izq">3 euros.</td>
+<td> </td>
+<td> </td>
+<td>4.3.2.</td>
+<td>De ratites (avestruz, emú, ñandú).</td>
+<td>3 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.3.3.</td>
-<td class="cuerpo_tabla_izq">De caza mayor.</td>
-<td class="cuerpo_tabla_izq">2 euros.</td>
+<td> </td>
+<td> </td>
+<td>4.3.3.</td>
+<td>De caza mayor.</td>
+<td>2 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Lonjas pesqueras:</td>
-<td class="cuerpo_tabla_centro">Por tonelada de pescado</td>
+<td>5.</td>
+<td colspan="3">Lonjas pesqueras:</td>
+<td>Por tonelada de pescado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Primera venta en la lonja.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">1 euro primeras 50 toneladas de cada mes.</p>
-<p class="cuerpo_tabla_izq">0,25 euros por las siguientes.</p>
+<td> </td>
+<td>5.1.</td>
+<td colspan="2">Primera venta en la lonja.</td>
+<td>
+<p>1 euro primeras 50 toneladas de cada mes.</p>
+<p>0,25 euros por las siguientes.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">5.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Primera venta en la lonja en caso de falta o gradación insuficiente de frescura o tamaño.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">1 euro primeras 50 toneladas de cada mes.</p>
-<p class="cuerpo_tabla_izq">0,5 euros por las siguientes.</p>
+<td> </td>
+<td>5.2.</td>
+<td colspan="2">Primera venta en la lonja en caso de falta o gradación insuficiente de frescura o tamaño.</td>
+<td>
+<p>1 euro primeras 50 toneladas de cada mes.</p>
+<p>0,5 euros por las siguientes.</p>
 </td>
 </tr>
 </tbody>
@@ -4152,418 +3939,411 @@ Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como 
 
 La tasa se exigirá de acuerdo con las siguientes tarifas:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="7%">
-<col width="70%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Hospitales:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1.</td>
+<td colspan="3">Hospitales:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">1.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización sanitaria de instalación:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>1.1.</td>
+<td colspan="2">Autorización sanitaria de instalación:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.1.</td>
-<td class="cuerpo_tabla_izq">Cantidad base.</td>
-<td class="cuerpo_tabla_izq">60 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.1.1.</td>
+<td>Cantidad base.</td>
+<td>60 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.2.</td>
-<td class="cuerpo_tabla_izq">Cantidad variable según el número de unidades asistenciales:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>1.1.2.</td>
+<td>Cantidad variable según el número de unidades asistenciales:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Hasta 15 unidades.</td>
-<td class="cuerpo_tabla_izq">100 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Hasta 15 unidades.</td>
+<td>100 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">De 16 a 30 unidades.</td>
-<td class="cuerpo_tabla_izq">200 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>De 16 a 30 unidades.</td>
+<td>200 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Más de 30 unidades.</td>
-<td class="cuerpo_tabla_izq">300 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Más de 30 unidades.</td>
+<td>300 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">1.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización sanitaria de funcionamiento:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>1.2.</td>
+<td colspan="2">Autorización sanitaria de funcionamiento:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.2.1.</td>
-<td class="cuerpo_tabla_izq">Cantidad base.</td>
-<td class="cuerpo_tabla_izq">300 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.2.1.</td>
+<td>Cantidad base.</td>
+<td>300 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.2.2.</td>
-<td class="cuerpo_tabla_izq">Por cada unidad asistencial.</td>
-<td class="cuerpo_tabla_izq">20 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.2.2.</td>
+<td>Por cada unidad asistencial.</td>
+<td>20 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">1.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización sanitaria de modificación:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>1.3.</td>
+<td colspan="2">Autorización sanitaria de modificación:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.3.1.</td>
-<td class="cuerpo_tabla_izq">Por cambios en la estructura del hospital.</td>
-<td class="cuerpo_tabla_izq">150 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.3.1.</td>
+<td>Por cambios en la estructura del hospital.</td>
+<td>150 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.3.2.</td>
-<td class="cuerpo_tabla_izq">Por cambios en los servicios que constituyen la oferta asistencial del hospital:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>1.3.2.</td>
+<td>Por cambios en los servicios que constituyen la oferta asistencial del hospital:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Cantidad base.</td>
-<td class="cuerpo_tabla_izq">150 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Cantidad base.</td>
+<td>150 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Por cada unidad asistencial.</td>
-<td class="cuerpo_tabla_izq">10 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Por cada unidad asistencial.</td>
+<td>10 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.3.3.</td>
-<td class="cuerpo_tabla_izq">Por cambios en la estructura del hospital y en los servicios que constituyen la oferta asistencial del hospital:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>1.3.3.</td>
+<td>Por cambios en la estructura del hospital y en los servicios que constituyen la oferta asistencial del hospital:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Cantidad base.</td>
-<td class="cuerpo_tabla_izq">300 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Cantidad base.</td>
+<td>300 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Por cada unidad asistencial.</td>
-<td class="cuerpo_tabla_izq">20 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Por cada unidad asistencial.</td>
+<td>20 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">1.4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Renovación de la autorización sanitaria de funcionamiento. Según el número de unidades asistenciales:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>1.4.</td>
+<td colspan="2">Renovación de la autorización sanitaria de funcionamiento. Según el número de unidades asistenciales:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.4.1.</td>
-<td class="cuerpo_tabla_izq">Hasta 15 unidades.</td>
-<td class="cuerpo_tabla_izq">200 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.4.1.</td>
+<td>Hasta 15 unidades.</td>
+<td>200 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.4.2.</td>
-<td class="cuerpo_tabla_izq">De 16 a 30 unidades.</td>
-<td class="cuerpo_tabla_izq">400 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.4.2.</td>
+<td>De 16 a 30 unidades.</td>
+<td>400 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.4.3.</td>
-<td class="cuerpo_tabla_izq">Más de 30 unidades.</td>
-<td class="cuerpo_tabla_izq">600 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.4.3.</td>
+<td>Más de 30 unidades.</td>
+<td>600 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Centros y servicios extrahospitalarios (excepto centros de transporte sanitario):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>2.</td>
+<td colspan="3">Centros y servicios extrahospitalarios (excepto centros de transporte sanitario):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">2.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización sanitaria de instalación:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>2.1.</td>
+<td colspan="2">Autorización sanitaria de instalación:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.1.1.</td>
-<td class="cuerpo_tabla_izq">Cantidad base.</td>
-<td class="cuerpo_tabla_izq">60 euros.</td>
+<td> </td>
+<td> </td>
+<td>2.1.1.</td>
+<td>Cantidad base.</td>
+<td>60 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.1.2.</td>
-<td class="cuerpo_tabla_izq">Por cada unidad asistencial.</td>
-<td class="cuerpo_tabla_izq">10 euros.</td>
+<td> </td>
+<td> </td>
+<td>2.1.2.</td>
+<td>Por cada unidad asistencial.</td>
+<td>10 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">2.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización sanitaria de funcionamiento:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>2.2.</td>
+<td colspan="2">Autorización sanitaria de funcionamiento:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.2.1.</td>
-<td class="cuerpo_tabla_izq">Cantidad base.</td>
-<td class="cuerpo_tabla_izq">100 euros.</td>
+<td> </td>
+<td> </td>
+<td>2.2.1.</td>
+<td>Cantidad base.</td>
+<td>100 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.2.2.</td>
-<td class="cuerpo_tabla_izq">Por cada unidad asistencial.</td>
-<td class="cuerpo_tabla_izq">20 euros.</td>
+<td> </td>
+<td> </td>
+<td>2.2.2.</td>
+<td>Por cada unidad asistencial.</td>
+<td>20 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">2.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización sanitaria de modificación:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>2.3.</td>
+<td colspan="2">Autorización sanitaria de modificación:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.3.1.</td>
-<td class="cuerpo_tabla_izq">Por cambios en la estructura del centro o servicio extrahospitalario.</td>
-<td class="cuerpo_tabla_izq">50 euros.</td>
+<td> </td>
+<td> </td>
+<td>2.3.1.</td>
+<td>Por cambios en la estructura del centro o servicio extrahospitalario.</td>
+<td>50 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.3.2.</td>
-<td class="cuerpo_tabla_izq">Por cambios en los servicios que constituyen la oferta asistencial del centro o servicio:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>2.3.2.</td>
+<td>Por cambios en los servicios que constituyen la oferta asistencial del centro o servicio:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Cantidad base.</td>
-<td class="cuerpo_tabla_izq">50 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Cantidad base.</td>
+<td>50 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Por cada unidad asistencial.</td>
-<td class="cuerpo_tabla_izq">10 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Por cada unidad asistencial.</td>
+<td>10 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.3.3.</td>
-<td class="cuerpo_tabla_izq">Por cambios en la estructura del centro o servicio extrahospitalario y en los servicios que constituyen la oferta asistencial del centro o servicio:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>2.3.3.</td>
+<td>Por cambios en la estructura del centro o servicio extrahospitalario y en los servicios que constituyen la oferta asistencial del centro o servicio:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Cantidad base.</td>
-<td class="cuerpo_tabla_izq">100 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Cantidad base.</td>
+<td>100 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Por cada unidad asistencial.</td>
-<td class="cuerpo_tabla_izq">20 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Por cada unidad asistencial.</td>
+<td>20 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">2.4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Renovación de la autorización sanitaria de funcionamiento. Según el número de unidades asistenciales:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>2.4.</td>
+<td colspan="2">Renovación de la autorización sanitaria de funcionamiento. Según el número de unidades asistenciales:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.4.1.</td>
-<td class="cuerpo_tabla_izq">Hasta 5 unidades.</td>
-<td class="cuerpo_tabla_izq">100 euros.</td>
+<td> </td>
+<td> </td>
+<td>2.4.1.</td>
+<td>Hasta 5 unidades.</td>
+<td>100 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.4.2.</td>
-<td class="cuerpo_tabla_izq">6 o más. Por cada unidad.</td>
-<td class="cuerpo_tabla_izq">20 euros.</td>
+<td> </td>
+<td> </td>
+<td>2.4.2.</td>
+<td>6 o más. Por cada unidad.</td>
+<td>20 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Centros de transporte sanitario:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>3.</td>
+<td colspan="3">Centros de transporte sanitario:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización sanitaria de funcionamiento:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>3.1.</td>
+<td colspan="2">Autorización sanitaria de funcionamiento:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">3.1.1.</td>
-<td class="cuerpo_tabla_izq">Ambulancia no asistida (cuidados mínimos).</td>
-<td class="cuerpo_tabla_izq">57 euros.</td>
+<td> </td>
+<td> </td>
+<td>3.1.1.</td>
+<td>Ambulancia no asistida (cuidados mínimos).</td>
+<td>57 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">3.1.2.</td>
-<td class="cuerpo_tabla_izq">Ambulancia asistencial soporte vital básico (medicalizables).</td>
-<td class="cuerpo_tabla_izq">70 euros.</td>
+<td> </td>
+<td> </td>
+<td>3.1.2.</td>
+<td>Ambulancia asistencial soporte vital básico (medicalizables).</td>
+<td>70 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">3.1.3.</td>
-<td class="cuerpo_tabla_izq">Ambulancia asistencial soporte vital avanzado (medicalizada).</td>
-<td class="cuerpo_tabla_izq">100 euros.</td>
+<td> </td>
+<td> </td>
+<td>3.1.3.</td>
+<td>Ambulancia asistencial soporte vital avanzado (medicalizada).</td>
+<td>100 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">3.1.4.</td>
-<td class="cuerpo_tabla_izq">Transporte sanitario colectivo.</td>
-<td class="cuerpo_tabla_izq">40 euros.</td>
+<td> </td>
+<td> </td>
+<td>3.1.4.</td>
+<td>Transporte sanitario colectivo.</td>
+<td>40 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">3.1.5.</td>
-<td class="cuerpo_tabla_izq">Helicóptero.</td>
-<td class="cuerpo_tabla_izq">150 euros.</td>
+<td> </td>
+<td> </td>
+<td>3.1.5.</td>
+<td>Helicóptero.</td>
+<td>150 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Establecimientos sanitarios de óptica, ortopedia y audioprótesis:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>4.</td>
+<td colspan="3">Establecimientos sanitarios de óptica, ortopedia y audioprótesis:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización de instalación.</td>
-<td class="cuerpo_tabla_izq">60 euros.</td>
+<td> </td>
+<td>4.1.</td>
+<td colspan="2">Autorización de instalación.</td>
+<td>60 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización de funcionamiento.</td>
-<td class="cuerpo_tabla_izq">150 euros.</td>
+<td> </td>
+<td>4.2.</td>
+<td colspan="2">Autorización de funcionamiento.</td>
+<td>150 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización de modificación.</td>
-<td class="cuerpo_tabla_izq">70 euros.</td>
+<td> </td>
+<td>4.3.</td>
+<td colspan="2">Autorización de modificación.</td>
+<td>70 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Renovación.</td>
-<td class="cuerpo_tabla_izq">100 euros.</td>
+<td> </td>
+<td>4.4.</td>
+<td colspan="2">Renovación.</td>
+<td>100 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Establecimientos sanitarios de botiquín farmacéutico y oficina de farmacia:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>5.</td>
+<td colspan="3">Establecimientos sanitarios de botiquín farmacéutico y oficina de farmacia:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización de instalación y traslado.</td>
-<td class="cuerpo_tabla_izq">60 euros.</td>
+<td> </td>
+<td>5.1.</td>
+<td colspan="2">Autorización de instalación y traslado.</td>
+<td>60 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización de funcionamiento.</td>
-<td class="cuerpo_tabla_izq">150 euros.</td>
+<td> </td>
+<td>5.2.</td>
+<td colspan="2">Autorización de funcionamiento.</td>
+<td>150 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización de modificación de local.</td>
-<td class="cuerpo_tabla_izq">70 euros.</td>
+<td> </td>
+<td>5.3.</td>
+<td colspan="2">Autorización de modificación de local.</td>
+<td>70 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Almacenes de distribución de medicamentos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>6.</td>
+<td colspan="3">Almacenes de distribución de medicamentos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización o modificación de la misma.</td>
-<td class="cuerpo_tabla_izq">150 euros.</td>
+<td> </td>
+<td>6.1.</td>
+<td colspan="2">Autorización o modificación de la misma.</td>
+<td>150 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Certificado de buenas prácticas de distribución.</td>
-<td class="cuerpo_tabla_izq">150 euros.</td>
+<td> </td>
+<td>6.2.</td>
+<td colspan="2">Certificado de buenas prácticas de distribución.</td>
+<td>150 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Bancos de tejidos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>7.</td>
+<td colspan="3">Bancos de tejidos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización específica por cada uno de los tejidos objeto de sus actividades.</td>
-<td class="cuerpo_tabla_izq">150 euros.</td>
+<td> </td>
+<td>7.1.</td>
+<td colspan="2">Autorización específica por cada uno de los tejidos objeto de sus actividades.</td>
+<td>150 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Cambio de titularidad en todos los centros y establecimientos anteriores.</td>
-<td class="cuerpo_tabla_izq">30 euros.</td>
+<td>8.</td>
+<td colspan="3">Cambio de titularidad en todos los centros y establecimientos anteriores.</td>
+<td>30 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Otras autorizaciones específicas de los centros y establecimientos anteriores, no comprendidas en apartados anteriores.</td>
-<td class="cuerpo_tabla_izq">60 euros.</td>
+<td>9.</td>
+<td colspan="3">Otras autorizaciones específicas de los centros y establecimientos anteriores, no comprendidas en apartados anteriores.</td>
+<td>60 euros.</td>
 </tr>
 </tbody>
 </table>
@@ -4683,125 +4463,119 @@ Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como 
 
 El importe de la cuota tributaria es:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Análisis físico-químico:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1.</td>
+<td colspan="2">Análisis físico-químico:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.</td>
-<td class="cuerpo_tabla_izq">Análisis de residuos por cromatografía de gases o similar.</td>
-<td class="cuerpo_tabla_izq">430,78 euros.</td>
+<td> </td>
+<td>1.1.</td>
+<td>Análisis de residuos por cromatografía de gases o similar.</td>
+<td>430,78 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.2.</td>
-<td class="cuerpo_tabla_izq">Análisis de residuos por cromatografía líquida o similar.</td>
-<td class="cuerpo_tabla_izq">527,95 euros.</td>
+<td> </td>
+<td>1.2.</td>
+<td>Análisis de residuos por cromatografía líquida o similar.</td>
+<td>527,95 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.3.</td>
-<td class="cuerpo_tabla_izq">Análisis de alérgeno en alimentos (por alérgeno).</td>
-<td class="cuerpo_tabla_izq">123,08 euros.</td>
+<td> </td>
+<td>1.3.</td>
+<td>Análisis de alérgeno en alimentos (por alérgeno).</td>
+<td>123,08 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.4.</td>
-<td class="cuerpo_tabla_izq">Análisis de micotoxinas (por micotoxinas).</td>
-<td class="cuerpo_tabla_izq">123,08 euros.</td>
+<td> </td>
+<td>1.4.</td>
+<td>Análisis de micotoxinas (por micotoxinas).</td>
+<td>123,08 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.5.</td>
-<td class="cuerpo_tabla_izq">Análisis de histamina por HPLC.</td>
-<td class="cuerpo_tabla_izq">181,38 euros.</td>
+<td> </td>
+<td>1.5.</td>
+<td>Análisis de histamina por HPLC.</td>
+<td>181,38 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.6.</td>
-<td class="cuerpo_tabla_izq">Análisis de gluten en alimentos.</td>
-<td class="cuerpo_tabla_izq">172,63 euros.</td>
+<td> </td>
+<td>1.6.</td>
+<td>Análisis de gluten en alimentos.</td>
+<td>172,63 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.7.</td>
-<td class="cuerpo_tabla_izq">Metales pesados en alimentos.</td>
-<td class="cuerpo_tabla_izq">177,17 euros.</td>
+<td> </td>
+<td>1.7.</td>
+<td>Metales pesados en alimentos.</td>
+<td>177,17 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.8.</td>
-<td class="cuerpo_tabla_izq">Aditivos en alimentos mediante cromatografía.</td>
-<td class="cuerpo_tabla_izq">181,38 euros.</td>
+<td> </td>
+<td>1.8.</td>
+<td>Aditivos en alimentos mediante cromatografía.</td>
+<td>181,38 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.9.</td>
-<td class="cuerpo_tabla_izq">Análisis por cromatografía líquida con detector de fluorescencia.</td>
-<td class="cuerpo_tabla_izq">430,78 euros.</td>
+<td> </td>
+<td>1.9.</td>
+<td>Análisis por cromatografía líquida con detector de fluorescencia.</td>
+<td>430,78 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.10.</td>
-<td class="cuerpo_tabla_izq">Análisis de residuos de sustancias prohibidas (PNIR) por cromatografía.</td>
-<td class="cuerpo_tabla_izq">177,17 euros.</td>
+<td> </td>
+<td>1.10.</td>
+<td>Análisis de residuos de sustancias prohibidas (PNIR) por cromatografía.</td>
+<td>177,17 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.11.</td>
-<td class="cuerpo_tabla_izq">Detección de nitratos/nitritos por cromatografía iónica.</td>
-<td class="cuerpo_tabla_izq">181,38 euros.</td>
+<td> </td>
+<td>1.11.</td>
+<td>Detección de nitratos/nitritos por cromatografía iónica.</td>
+<td>181,38 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Análisis microbiológico:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>2.</td>
+<td colspan="2">Análisis microbiológico:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.1.</td>
-<td class="cuerpo_tabla_izq">Detección de germen en alimento.</td>
-<td class="cuerpo_tabla_izq">54,09 euros.</td>
+<td> </td>
+<td>2.1.</td>
+<td>Detección de germen en alimento.</td>
+<td>54,09 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.2.</td>
-<td class="cuerpo_tabla_izq">Recuento de germen en alimento.</td>
-<td class="cuerpo_tabla_izq">54,09 euros.</td>
+<td> </td>
+<td>2.2.</td>
+<td>Recuento de germen en alimento.</td>
+<td>54,09 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.3.</td>
-<td class="cuerpo_tabla_izq">Determinación de inhibidores del crecimiento bacteriano en leche.</td>
-<td class="cuerpo_tabla_izq">107,85 euros.</td>
+<td> </td>
+<td>2.3.</td>
+<td>Determinación de inhibidores del crecimiento bacteriano en leche.</td>
+<td>107,85 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.4.</td>
-<td class="cuerpo_tabla_izq">Recuento de legionella.</td>
-<td class="cuerpo_tabla_izq">159,68 euros.</td>
+<td> </td>
+<td>2.4.</td>
+<td>Recuento de legionella.</td>
+<td>159,68 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.5.</td>
-<td class="cuerpo_tabla_izq">Recuento de germen en agua de consumo.</td>
-<td class="cuerpo_tabla_izq">54,09 euros.</td>
+<td> </td>
+<td>2.5.</td>
+<td>Recuento de germen en agua de consumo.</td>
+<td>54,09 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.6.</td>
-<td class="cuerpo_tabla_izq">Recuento de germen en agua de baño.</td>
-<td class="cuerpo_tabla_izq">54,09 euros.</td>
+<td> </td>
+<td>2.6.</td>
+<td>Recuento de germen en agua de baño.</td>
+<td>54,09 euros.</td>
 </tr>
 </tbody>
 </table>
@@ -4826,195 +4600,188 @@ Serán sujetos pasivos de la tasa las personas que soliciten la expedición de l
 
 El importe de la cuota tributaria es:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="3%">
-<col>
-<col>
-<col>
-<col width="15%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Bachillerato:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1.</td>
+<td colspan="3">Bachillerato:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">1.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Título de Bachiller.</td>
-<td class="cuerpo_tabla_centro">57,19 euros</td>
+<td> </td>
+<td>1.1.</td>
+<td colspan="2">Título de Bachiller.</td>
+<td>57,19 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Formación Profesional Específica:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.</td>
+<td colspan="3">Formación Profesional Específica:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">2.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Título de técnico/a.</td>
-<td class="cuerpo_tabla_centro">23,29 euros</td>
+<td> </td>
+<td>2.1.</td>
+<td colspan="2">Título de técnico/a.</td>
+<td>23,29 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">2.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Título de técnico/a superior.</td>
-<td class="cuerpo_tabla_centro">57,19 euros</td>
+<td> </td>
+<td>2.2.</td>
+<td colspan="2">Título de técnico/a superior.</td>
+<td>57,19 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">2.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Título de especialista</td>
-<td class="cuerpo_tabla_centro">21,00 euros</td>
+<td> </td>
+<td>2.3.</td>
+<td colspan="2">Título de especialista</td>
+<td>21,00 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">2.4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Título de Máster de Formación Profesional</td>
-<td class="cuerpo_tabla_centro">42,00 euros</td>
+<td> </td>
+<td>2.4.</td>
+<td colspan="2">Título de Máster de Formación Profesional</td>
+<td>42,00 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Enseñanzas Artísticas:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3.</td>
+<td colspan="3">Enseñanzas Artísticas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">3.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Música y Danza:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td>3.1.</td>
+<td colspan="2">Música y Danza:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">3.1.1.</td>
-<td class="cuerpo_tabla_izq">Título Elemental.</td>
-<td class="cuerpo_tabla_centro">22,77 euros</td>
+<td> </td>
+<td> </td>
+<td>3.1.1.</td>
+<td>Título Elemental.</td>
+<td>22,77 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">3.1.2.</td>
-<td class="cuerpo_tabla_izq">Título Profesional.</td>
-<td class="cuerpo_tabla_centro">27,46 euros</td>
+<td> </td>
+<td> </td>
+<td>3.1.2.</td>
+<td>Título Profesional.</td>
+<td>27,46 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">3.1.3.</td>
-<td class="cuerpo_tabla_izq">Título Superior.</td>
-<td class="cuerpo_tabla_centro">125,84 euros</td>
+<td> </td>
+<td> </td>
+<td>3.1.3.</td>
+<td>Título Superior.</td>
+<td>125,84 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">3.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Artes Plásticas y Diseño:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td>3.2.</td>
+<td colspan="2">Artes Plásticas y Diseño:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">3.2.1.</td>
-<td class="cuerpo_tabla_izq">Título de técnico/a.</td>
-<td class="cuerpo_tabla_centro">23,53 euros</td>
+<td> </td>
+<td> </td>
+<td>3.2.1.</td>
+<td>Título de técnico/a.</td>
+<td>23,53 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">3.2.2.</td>
-<td class="cuerpo_tabla_izq">Título de técnico/a superior.</td>
-<td class="cuerpo_tabla_centro">62,95 euros</td>
+<td> </td>
+<td> </td>
+<td>3.2.2.</td>
+<td>Título de técnico/a superior.</td>
+<td>62,95 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">3.2.3.</td>
-<td class="cuerpo_tabla_izq">Título Superior.</td>
-<td class="cuerpo_tabla_centro">125,84 euros</td>
+<td> </td>
+<td> </td>
+<td>3.2.3.</td>
+<td>Título Superior.</td>
+<td>125,84 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">3.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Arte Dramático:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td>3.3.</td>
+<td colspan="2">Arte Dramático:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">3.3.1.</td>
-<td class="cuerpo_tabla_izq">Título Superior.</td>
-<td class="cuerpo_tabla_centro">125,84 euros</td>
+<td> </td>
+<td> </td>
+<td>3.3.1.</td>
+<td>Título Superior.</td>
+<td>125,84 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">3.4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Conservación y restauración de bienes culturales:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td>3.4.</td>
+<td colspan="2">Conservación y restauración de bienes culturales:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">3.4.1.</td>
-<td class="cuerpo_tabla_izq">Título Superior.</td>
-<td class="cuerpo_tabla_centro">125,84 euros</td>
+<td> </td>
+<td> </td>
+<td>3.4.1.</td>
+<td>Título Superior.</td>
+<td>125,84 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">3.5.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Título de Máster en Enseñanzas Artísticas.</td>
-<td class="cuerpo_tabla_centro">134,21 euros</td>
+<td> </td>
+<td>3.5.</td>
+<td colspan="2">Título de Máster en Enseñanzas Artísticas.</td>
+<td>134,21 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Enseñanzas de Deporte:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4.</td>
+<td colspan="3">Enseñanzas de Deporte:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">4.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Título de técnico/a deportivo.</td>
-<td class="cuerpo_tabla_centro">23,29 euros</td>
+<td> </td>
+<td>4.1.</td>
+<td colspan="2">Título de técnico/a deportivo.</td>
+<td>23,29 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">4.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Título de técnico/a deportivo superior.</td>
-<td class="cuerpo_tabla_centro">56,07 euros</td>
+<td> </td>
+<td>4.2.</td>
+<td colspan="2">Título de técnico/a deportivo superior.</td>
+<td>56,07 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Enseñanzas de Idiomas:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>5.</td>
+<td colspan="3">Enseñanzas de Idiomas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">5.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Certificado de nivel básico (A1 y A2).</td>
-<td class="cuerpo_tabla_centro">27,46 euros</td>
+<td> </td>
+<td>5.1.</td>
+<td colspan="2">Certificado de nivel básico (A1 y A2).</td>
+<td>27,46 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">5.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Certificado de nivel intermedio (B1 y B2).</td>
-<td class="cuerpo_tabla_centro">27,46 euros</td>
+<td> </td>
+<td>5.2.</td>
+<td colspan="2">Certificado de nivel intermedio (B1 y B2).</td>
+<td>27,46 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">5.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Certificado de nivel avanzado (C1 y C2).</td>
-<td class="cuerpo_tabla_centro">27,46 euros</td>
+<td> </td>
+<td>5.3.</td>
+<td colspan="2">Certificado de nivel avanzado (C1 y C2).</td>
+<td>27,46 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Duplicados de los títulos.</td>
-<td class="cuerpo_tabla_centro">Igual que los originales.</td>
+<td>6.</td>
+<td colspan="3">Duplicados de los títulos.</td>
+<td>Igual que los originales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Títulos correspondientes a normativas anteriores del sistema educativo.</td>
-<td class="cuerpo_tabla_centro">Igual que los correspondientes al actual Sistema Educativo.</td>
+<td>7.</td>
+<td colspan="3">Títulos correspondientes a normativas anteriores del sistema educativo.</td>
+<td>Igual que los correspondientes al actual Sistema Educativo.</td>
 </tr>
 </tbody>
 </table>
@@ -5061,59 +4828,53 @@ Serán sujetos pasivos de la tasa las personas que soliciten la prestación de l
 
 El importe de la cuota tributaria es:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Alumnado matriculado en régimen de enseñanza oficial:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1.</td>
+<td colspan="2">Alumnado matriculado en régimen de enseñanza oficial:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.</td>
-<td class="cuerpo_tabla_izq">Apertura de expediente.</td>
-<td class="cuerpo_tabla_izq">21,08 euros.</td>
+<td> </td>
+<td>1.1.</td>
+<td>Apertura de expediente.</td>
+<td>21,08 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.2.</td>
-<td class="cuerpo_tabla_izq">Matrícula por idioma.</td>
-<td class="cuerpo_tabla_izq">47,20 euros.</td>
+<td> </td>
+<td>1.2.</td>
+<td>Matrícula por idioma.</td>
+<td>47,20 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.3.</td>
-<td class="cuerpo_tabla_izq">Servicios generales.</td>
-<td class="cuerpo_tabla_izq">8,43 euros.</td>
+<td> </td>
+<td>1.3.</td>
+<td>Servicios generales.</td>
+<td>8,43 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Alumnado matriculado en régimen de enseñanza libre:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>2.</td>
+<td colspan="2">Alumnado matriculado en régimen de enseñanza libre:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.1.</td>
-<td class="cuerpo_tabla_izq">Apertura de expediente.</td>
-<td class="cuerpo_tabla_izq">21,08 euros.</td>
+<td> </td>
+<td>2.1.</td>
+<td>Apertura de expediente.</td>
+<td>21,08 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.2.</td>
-<td class="cuerpo_tabla_izq">Derechos de examen. Por cada idioma.</td>
-<td class="cuerpo_tabla_izq">47,20 euros.</td>
+<td> </td>
+<td>2.2.</td>
+<td>Derechos de examen. Por cada idioma.</td>
+<td>47,20 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.3.</td>
-<td class="cuerpo_tabla_izq">Servicios generales.</td>
-<td class="cuerpo_tabla_izq">8,43 euros.</td>
+<td> </td>
+<td>2.3.</td>
+<td>Servicios generales.</td>
+<td>8,43 euros.</td>
 </tr>
 </tbody>
 </table>
@@ -5178,75 +4939,69 @@ Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como 
 
 El importe de la cuota tributaria es:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por la tramitación de la solicitud de inscripción, siendo autor y titular de los derechos la misma persona, por cada creación original.</td>
-<td class="cuerpo_tabla_izq">15 euros.</td>
+<td>1.</td>
+<td colspan="2">Por la tramitación de la solicitud de inscripción, siendo autor y titular de los derechos la misma persona, por cada creación original.</td>
+<td>15 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por la tramitación de la solicitud de inscripción de obras colectivas.</td>
-<td class="cuerpo_tabla_izq">185 euros.</td>
+<td>2.</td>
+<td colspan="2">Por la tramitación de la solicitud de inscripción de obras colectivas.</td>
+<td>185 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por la tramitación de la solicitud de inscripción de la transmisión «inter vivos» de la titularidad de los derechos de explotación.</td>
-<td class="cuerpo_tabla_izq">185 euros.</td>
+<td>3.</td>
+<td colspan="2">Por la tramitación de la solicitud de inscripción de la transmisión «inter vivos» de la titularidad de los derechos de explotación.</td>
+<td>185 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por la tramitación de la solicitud de inscripción de la transmisión de derechos de autor de trabajadores asalariados y de la transmisión de derechos de autor en los casos previstos en la normativa aplicable en materia publicitaria.</td>
-<td class="cuerpo_tabla_izq">108 euros.</td>
+<td>4.</td>
+<td colspan="2">Por la tramitación de la solicitud de inscripción de la transmisión de derechos de autor de trabajadores asalariados y de la transmisión de derechos de autor en los casos previstos en la normativa aplicable en materia publicitaria.</td>
+<td>108 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por la tramitación de la solicitud de inscripción de la transmisión «mortis causa» de la titularidad de los derechos de explotación.</td>
-<td class="cuerpo_tabla_izq">73 euros.</td>
+<td>5.</td>
+<td colspan="2">Por la tramitación de la solicitud de inscripción de la transmisión «mortis causa» de la titularidad de los derechos de explotación.</td>
+<td>73 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por expedición de certificados.</td>
-<td class="cuerpo_tabla_izq">12 euros.</td>
+<td>6.</td>
+<td colspan="2">Por expedición de certificados.</td>
+<td>12 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por expedición de notas simples.</td>
-<td class="cuerpo_tabla_izq">7 euros.</td>
+<td>7.</td>
+<td colspan="2">Por expedición de notas simples.</td>
+<td>7 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por expedición de copia certificada de documentos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>8.</td>
+<td colspan="2">Por expedición de copia certificada de documentos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">8.1.</td>
-<td class="cuerpo_tabla_izq">En soporte papel, cada página.</td>
-<td class="cuerpo_tabla_izq">7 euros.</td>
+<td> </td>
+<td>8.1.</td>
+<td>En soporte papel, cada página.</td>
+<td>7 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">8.2.</td>
-<td class="cuerpo_tabla_izq">En soporte distinto al papel (cada página y soporte).</td>
-<td class="cuerpo_tabla_izq">5 euros/página 2 euros/soporte.</td>
+<td> </td>
+<td>8.2.</td>
+<td>En soporte distinto al papel (cada página y soporte).</td>
+<td>5 euros/página 2 euros/soporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por la tramitación de la solicitud de anotaciones preventivas y cancelaciones.</td>
-<td class="cuerpo_tabla_izq">37 euros.</td>
+<td>9.</td>
+<td colspan="2">Por la tramitación de la solicitud de anotaciones preventivas y cancelaciones.</td>
+<td>37 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por la tramitación de solicitud de traslado de asientos. Por cada asiento.</td>
-<td class="cuerpo_tabla_izq">37 euros.</td>
+<td>10.</td>
+<td colspan="2">Por la tramitación de solicitud de traslado de asientos. Por cada asiento.</td>
+<td>37 euros.</td>
 </tr>
 </tbody>
 </table>
@@ -5368,31 +5123,26 @@ Son sujetos pasivos de la tasa las personas titulares de las autorizaciones o co
 
 1\. La tasa se exigirá de acuerdo con la siguiente tarifa:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="83%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Ocupaciones de terrenos para actividades agrícolas, industriales y de servicios:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="2">Ocupaciones de terrenos para actividades agrícolas, industriales y de servicios:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq">Ocupaciones hasta 1 hectárea (por m² y año).</td>
-<td class="cuerpo_tabla_izq">0,0384 euros.</td>
+<td>1.</td>
+<td>Ocupaciones hasta 1 hectárea (por m² y año).</td>
+<td>0,0384 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq">Ocupaciones entre 1 y 10 hectáreas (por m² y año).</td>
-<td class="cuerpo_tabla_izq">0,384 euros.</td>
+<td>2.</td>
+<td>Ocupaciones entre 1 y 10 hectáreas (por m² y año).</td>
+<td>0,384 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.</td>
-<td class="cuerpo_tabla_izq">Ocupaciones de más de 10 hectáreas (por m² y año).</td>
-<td class="cuerpo_tabla_izq">3,84 euros.</td>
+<td>3.</td>
+<td>Ocupaciones de más de 10 hectáreas (por m² y año).</td>
+<td>3,84 euros.</td>
 </tr>
 </tbody>
 </table>
@@ -5659,299 +5409,294 @@ Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como 
 
 El importe de la cuota tributaria es:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Autorizaciones:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1.</td>
+<td colspan="3">Autorizaciones:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.1</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización ambiental integrada:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>1.1</td>
+<td colspan="2">Autorización ambiental integrada:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.1.1</td>
-<td class="cuerpo_tabla_izq">Tramitación de solicitudes de autorización.</td>
-<td class="cuerpo_tabla_izq">2.091,05 euros</td>
+<td> </td>
+<td> </td>
+<td>1.1.1</td>
+<td>Tramitación de solicitudes de autorización.</td>
+<td>2.091,05 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.1.2</td>
-<td class="cuerpo_tabla_izq">Tramitación de solicitudes de modificación sustancial de la autorización.</td>
-<td class="cuerpo_tabla_izq">1.403,98 euros</td>
+<td> </td>
+<td> </td>
+<td>1.1.2</td>
+<td>Tramitación de solicitudes de modificación sustancial de la autorización.</td>
+<td>1.403,98 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="2">Para las instalaciones encuadradas en la categoría 9.3 del Anejo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación, la cuota aplicable en cada caso será el 50% de la reflejada en los apartados anteriores.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td colspan="2">Para las instalaciones encuadradas en la categoría 9.3 del Anejo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación, la cuota aplicable en cada caso será el 50% de la reflejada en los apartados anteriores.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.2</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización ambiental unificada:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>1.2</td>
+<td colspan="2">Autorización ambiental unificada:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.2.1</td>
-<td class="cuerpo_tabla_izq">Tramitación de solicitudes de autorización.</td>
-<td class="cuerpo_tabla_izq">1.672,98 euros</td>
+<td> </td>
+<td> </td>
+<td>1.2.1</td>
+<td>Tramitación de solicitudes de autorización.</td>
+<td>1.672,98 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.2.2</td>
-<td class="cuerpo_tabla_izq">Tramitación de solicitudes de modificación sustancial de la autorización.</td>
-<td class="cuerpo_tabla_izq">1.115,50 euros</td>
+<td> </td>
+<td> </td>
+<td>1.2.2</td>
+<td>Tramitación de solicitudes de modificación sustancial de la autorización.</td>
+<td>1.115,50 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Para las instalaciones encuadradas en el grupo 1, epígrafe a), del Anexo I de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, la cuota aplicable en cada caso será el 50% de la reflejada en los apartados anteriores.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Para las instalaciones encuadradas en el grupo 1, epígrafe a), del Anexo I de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, la cuota aplicable en cada caso será el 50% de la reflejada en los apartados anteriores.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.2.bis</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización ambiental unificada simplificada:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>1.2.bis</td>
+<td colspan="2">Autorización ambiental unificada simplificada:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.2.bis.1</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tramitación de solicitudes de autorización simplificada.</td>
-<td class="cuerpo_tabla_izq">1.331,25 euros</td>
+<td> </td>
+<td>1.2.bis.1</td>
+<td colspan="2">Tramitación de solicitudes de autorización simplificada.</td>
+<td>1.331,25 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.2.bis.2</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tramitación de solicitudes de modificación sustancial de la autorización</td>
-<td class="cuerpo_tabla_izq">881,81 euros</td>
+<td> </td>
+<td>1.2.bis.2</td>
+<td colspan="2">Tramitación de solicitudes de modificación sustancial de la autorización</td>
+<td>881,81 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="2">Para las instalaciones encuadradas en el grupo 1, epígrafe f), del Anexo II de la Ley 21/2013, de 9 de diciembre, la cuota aplicable en cada caso será el 50% de la reflejada en los apartados anteriores.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td colspan="2">Para las instalaciones encuadradas en el grupo 1, epígrafe f), del Anexo II de la Ley 21/2013, de 9 de diciembre, la cuota aplicable en cada caso será el 50% de la reflejada en los apartados anteriores.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.3</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorizaciones en materia de residuos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>1.3</td>
+<td colspan="2">Autorizaciones en materia de residuos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.3.1</td>
-<td class="cuerpo_tabla_izq">Instalaciones de gestión de residuos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>1.3.1</td>
+<td>Instalaciones de gestión de residuos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Por tramitación de solicitudes de autorización de residuos peligrosos y/o no peligrosos.</td>
-<td class="cuerpo_tabla_izq">972,19 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Por tramitación de solicitudes de autorización de residuos peligrosos y/o no peligrosos.</td>
+<td>972,19 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Por tramitación de solicitudes de modificación de la autorización de residuos peligrosos y/o no peligrosos.</td>
-<td class="cuerpo_tabla_izq">177,84 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Por tramitación de solicitudes de modificación de la autorización de residuos peligrosos y/o no peligrosos.</td>
+<td>177,84 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Se exime del abono de dichas tasas a las entidades locales o a sus entes instrumentales que sean titulares de instalaciones ubicadas íntegramente en su propio municipio y dedicadas exclusivamente a la gestión de los residuos cuya competencia tiene atribuida la Administración Local conforme al artículo 9.1 del Reglamento de Residuos de Andalucía, aprobado por Decreto 73/2012, de 20 de marzo, en lo relativo a la autorización o modificación de las mismas.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Se exime del abono de dichas tasas a las entidades locales o a sus entes instrumentales que sean titulares de instalaciones ubicadas íntegramente en su propio municipio y dedicadas exclusivamente a la gestión de los residuos cuya competencia tiene atribuida la Administración Local conforme al artículo 9.1 del Reglamento de Residuos de Andalucía, aprobado por Decreto 73/2012, de 20 de marzo, en lo relativo a la autorización o modificación de las mismas.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.3.2</td>
-<td class="cuerpo_tabla_izq">Gestión de residuos mediante plantas o medios no vinculados a instalación fija.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>1.3.2</td>
+<td>Gestión de residuos mediante plantas o medios no vinculados a instalación fija.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Por tramitación de solicitudes de autorización de residuos peligrosos y/o no peligrosos.</td>
-<td class="cuerpo_tabla_izq">543,97 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Por tramitación de solicitudes de autorización de residuos peligrosos y/o no peligrosos.</td>
+<td>543,97 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Por tramitación de solicitudes de modificación de la autorización de residuos peligrosos y/o no peligrosos.</td>
-<td class="cuerpo_tabla_izq">177,84 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Por tramitación de solicitudes de modificación de la autorización de residuos peligrosos y/o no peligrosos.</td>
+<td>177,84 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.3.3</td>
-<td class="cuerpo_tabla_izq">Sistemas colectivos de responsabilidad ampliada de productor:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>1.3.3</td>
+<td>Sistemas colectivos de responsabilidad ampliada de productor:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Por tramitación de solicitudes de autorización.</td>
-<td class="cuerpo_tabla_izq">1.939,07 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Por tramitación de solicitudes de autorización.</td>
+<td>1.939,07 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Por renovación de la autorización.</td>
-<td class="cuerpo_tabla_izq">1.077,41 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Por renovación de la autorización.</td>
+<td>1.077,41 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Por modificación de la autorización.</td>
-<td class="cuerpo_tabla_izq">538,70 euros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Por modificación de la autorización.</td>
+<td>538,70 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.3.4</td>
-<td class="cuerpo_tabla_izq">Tratamiento de residuos distintos a los establecidos en el Catálogo de Residuos de Andalucía: por tramitación de solicitudes de autorización.</td>
-<td class="cuerpo_tabla_izq">538,70 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.3.4</td>
+<td>Tratamiento de residuos distintos a los establecidos en el Catálogo de Residuos de Andalucía: por tramitación de solicitudes de autorización.</td>
+<td>538,70 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.3.5</td>
-<td class="cuerpo_tabla_izq">Depósito directo de residuos en vertederos, que no hayan sido sometidos previamente a una operación de valorización: por tramitación de solicitudes de autorización.</td>
-<td class="cuerpo_tabla_izq">538,70 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.3.5</td>
+<td>Depósito directo de residuos en vertederos, que no hayan sido sometidos previamente a una operación de valorización: por tramitación de solicitudes de autorización.</td>
+<td>538,70 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.3.6</td>
-<td class="cuerpo_tabla_izq">Autorización de traslados de residuos desde o hacia otros países de la Unión Europea: por tramitación de solicitudes de autorización.</td>
-<td class="cuerpo_tabla_izq">539,70 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.3.6</td>
+<td>Autorización de traslados de residuos desde o hacia otros países de la Unión Europea: por tramitación de solicitudes de autorización.</td>
+<td>539,70 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.4</td>
-<td class="cuerpo_tabla_izq" colspan="2">Autorización de emisiones a la atmósfera:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>1.4</td>
+<td colspan="2">Autorización de emisiones a la atmósfera:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.4.1</td>
-<td class="cuerpo_tabla_izq">Tramitación de solicitudes de autorización.</td>
-<td class="cuerpo_tabla_izq">441,31 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.4.1</td>
+<td>Tramitación de solicitudes de autorización.</td>
+<td>441,31 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1.4.2</td>
-<td class="cuerpo_tabla_izq">Por modificación sustancial de la autorización.</td>
-<td class="cuerpo_tabla_izq">441,31 euros.</td>
+<td> </td>
+<td> </td>
+<td>1.4.2</td>
+<td>Por modificación sustancial de la autorización.</td>
+<td>441,31 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
-<td class="cuerpo_tabla_izq">Quedan excluidas de esta tasa las autorizaciones de emisión de gases efecto invernadero.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td colspan="2"> </td>
+<td>Quedan excluidas de esta tasa las autorizaciones de emisión de gases efecto invernadero.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="89%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Servicios de inspección y facultativos:</td>
+<td>2.</td>
+<td colspan="2">Servicios de inspección y facultativos:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">2.1.</td>
-<td class="cuerpo_tabla_izq">Inspecciones en materia de protección ambiental:</td>
+<td> </td>
+<td>2.1.</td>
+<td>Inspecciones en materia de protección ambiental:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">La siguiente fórmula será aplicable a todas las inspecciones realizadas a instalaciones sometidas a las autorizaciones ambientales a las que hacen referencia los artículos 20, 27, y 56 de la Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental o las ejecutadas en función de la legislación vigente.</p>
-<p class="cuerpo_tabla_izq">Cuota (euros) = K<sub>i</sub> + M<sub>em</sub>+ M<sub>inm</sub> + M<sub>rui</sub> + M<sub>aguas</sub> + M<sub>suelos</sub> +M<sub>res</sub> </p>
-<p class="cuerpo_tabla_izq">Donde: </p>
-<p class="cuerpo_tabla_izq">K<sub>i</sub> = valor de la tabla 1 del Anexo final de este artículo, incluye la preparación de listas de chequeo, requerimientos documentales, análisis de datos, elaboración de informe y en su caso visita a la instalación.</p>
-<p class="cuerpo_tabla_izq">Para las actuaciones encuadradas en las categorías 1.2, 1.4, 2.1, 4.1, 4.2, 5.2, 5.5, 5.7 y 14.1 del Anejo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, el valor de K<sub>i </sub>será el 150 % del valor indicado en la tabla.</p>
-<p class="cuerpo_tabla_izq">Para las actuaciones encuadradas en la categoría 9.3 del Anejo I Real Decreto Legislativo 1/2016, de 16 de diciembre; en el grupo 1, epígrafe a) del Anexo I de la Ley 21/2013, de 9 de diciembre y en el grupo 1, epígrafe f), del Anexo II de la Ley 21/2013, de 9 de diciembre, el valor de K<sub>i</sub> será el 50 % del valor indicado en la tabla.</p>
-<p class="cuerpo_tabla_izq">
-<img class="frame" height="121" src="/datos/imagenes/disp/2024/34/90030_14100742_image1.png" width="354">
+<td> </td>
+<td> </td>
+<td>
+<p>La siguiente fórmula será aplicable a todas las inspecciones realizadas a instalaciones sometidas a las autorizaciones ambientales a las que hacen referencia los artículos 20, 27, y 56 de la Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental o las ejecutadas en función de la legislación vigente.</p>
+<p>Cuota (euros) = K<sub>i</sub> + M<sub>em</sub>+ M<sub>inm</sub> + M<sub>rui</sub> + M<sub>aguas</sub> + M<sub>suelos</sub> +M<sub>res</sub> </p>
+<p>Donde: </p>
+<p>K<sub>i</sub> = valor de la tabla 1 del Anexo final de este artículo, incluye la preparación de listas de chequeo, requerimientos documentales, análisis de datos, elaboración de informe y en su caso visita a la instalación.</p>
+<p>Para las actuaciones encuadradas en las categorías 1.2, 1.4, 2.1, 4.1, 4.2, 5.2, 5.5, 5.7 y 14.1 del Anejo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, el valor de K<sub>i </sub>será el 150 % del valor indicado en la tabla.</p>
+<p>Para las actuaciones encuadradas en la categoría 9.3 del Anejo I Real Decreto Legislativo 1/2016, de 16 de diciembre; en el grupo 1, epígrafe a) del Anexo I de la Ley 21/2013, de 9 de diciembre y en el grupo 1, epígrafe f), del Anexo II de la Ley 21/2013, de 9 de diciembre, el valor de K<sub>i</sub> será el 50 % del valor indicado en la tabla.</p>
+<p>
+<img src="https://www.boe.es/datos/imagenes/disp/2024/34/90030_14100742_image1.png">
 </p>
-<p class="cuerpo_tabla_izq">C1<sub>i</sub> = 0,35·n + 0,65; siendo n el número de focos inspeccionados (conforme a M<sub>em i</sub>) para n≥1; C1<sub>i</sub> = 0 para n=0.</p>
-<p class="cuerpo_tabla_izq">M<sub>inm</sub>= C2·M<sub>i</sub>.</p>
-<p class="cuerpo_tabla_izq">C2 = Número de actuaciones realizadas del tipo M<sub>i</sub>.</p>
-<p class="cuerpo_tabla_izq">M<sub>rui</sub>= C3·M<sub>r</sub>.</p>
-<p class="cuerpo_tabla_izq">C3 = Número de actuaciones realizadas del tipo M<sub>r</sub>.</p>
-<p class="cuerpo_tabla_izq">
-<img class="frame" height="126" src="/datos/imagenes/disp/2024/34/90030_14100742_image2.png" width="411">
+<p>C1<sub>i</sub> = 0,35·n + 0,65; siendo n el número de focos inspeccionados (conforme a M<sub>em i</sub>) para n≥1; C1<sub>i</sub> = 0 para n=0.</p>
+<p>M<sub>inm</sub>= C2·M<sub>i</sub>.</p>
+<p>C2 = Número de actuaciones realizadas del tipo M<sub>i</sub>.</p>
+<p>M<sub>rui</sub>= C3·M<sub>r</sub>.</p>
+<p>C3 = Número de actuaciones realizadas del tipo M<sub>r</sub>.</p>
+<p>
+<img src="https://www.boe.es/datos/imagenes/disp/2024/34/90030_14100742_image2.png">
 </p>
-<p class="cuerpo_tabla_izq">C4<sub>i</sub> = 0,35·m + 0,65; siendo m el número de actuaciones (conforme a M<sub>ag i</sub>) para m≥1; C4<sub>i</sub> = 0 para m=0.</p>
-<p class="cuerpo_tabla_izq">
-<img class="frame" height="120" src="/datos/imagenes/disp/2024/34/90030_14100742_image3.png" width="368">
+<p>C4<sub>i</sub> = 0,35·m + 0,65; siendo m el número de actuaciones (conforme a M<sub>ag i</sub>) para m≥1; C4<sub>i</sub> = 0 para m=0.</p>
+<p>
+<img src="https://www.boe.es/datos/imagenes/disp/2024/34/90030_14100742_image3.png">
 </p>
-<p class="cuerpo_tabla_izq">C5<sub>i</sub> = 0,35·s + 0,65; siendo s el número de actuaciones (conforme a M<sub>s i</sub>) para s≥1; C5<sub>i</sub> = 0 para s=0.</p>
-<p class="cuerpo_tabla_izq">
-<img class="frame" height="126" src="/datos/imagenes/disp/2024/34/90030_14100742_image4.png" width="369">
+<p>C5<sub>i</sub> = 0,35·s + 0,65; siendo s el número de actuaciones (conforme a M<sub>s i</sub>) para s≥1; C5<sub>i</sub> = 0 para s=0.</p>
+<p>
+<img src="https://www.boe.es/datos/imagenes/disp/2024/34/90030_14100742_image4.png">
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">C6<sub>i</sub> = 0,35·r + 0,65; siendo r el número de actuaciones (conforme a M<sub>res i</sub>) para r≥1; C6<sub>i</sub> = 0 para r=0.</td>
+<td> </td>
+<td> </td>
+<td>C6<sub>i</sub> = 0,35·r + 0,65; siendo r el número de actuaciones (conforme a M<sub>res i</sub>) para r≥1; C6<sub>i</sub> = 0 para r=0.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">La descripción de los tipos de inspecciones y de trabajos de muestreo y análisis M<sub>emi</sub>, M<sub>i</sub>, M<sub>r,</sub> M<sub>agi</sub>, M<sub>si</sub>, M<sub>resi</sub>, y su valoración, figura en las tablas 1 y 2 del Anexo final de este artículo.</td>
+<td> </td>
+<td> </td>
+<td>La descripción de los tipos de inspecciones y de trabajos de muestreo y análisis M<sub>emi</sub>, M<sub>i</sub>, M<sub>r,</sub> M<sub>agi</sub>, M<sub>si</sub>, M<sub>resi</sub>, y su valoración, figura en las tablas 1 y 2 del Anexo final de este artículo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Se liquidarán aquellos trabajos ejecutados y que además sean necesarios para evaluar el cumplimiento de la normativa y autorizaciones correspondientes.</td>
+<td> </td>
+<td> </td>
+<td>Se liquidarán aquellos trabajos ejecutados y que además sean necesarios para evaluar el cumplimiento de la normativa y autorizaciones correspondientes.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">La tasa se exigirá por cada inspección realizada en función de la normativa vigente. Como máximo se exigirá una vez por cada año natural, que corresponderá a la primera inspección realizada en dicho periodo.</td>
+<td> </td>
+<td> </td>
+<td>La tasa se exigirá por cada inspección realizada en función de la normativa vigente. Como máximo se exigirá una vez por cada año natural, que corresponderá a la primera inspección realizada en dicho periodo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Para aquellas instalaciones que no estén en funcionamiento y hayan notificado a la Consejería competente en materia de medio ambiente el cese temporal o definitivo de su actividad, o ejecutado proyecto de desmantelamiento, se reducirá la tasa al 25 %.</td>
+<td> </td>
+<td> </td>
+<td>Para aquellas instalaciones que no estén en funcionamiento y hayan notificado a la Consejería competente en materia de medio ambiente el cese temporal o definitivo de su actividad, o ejecutado proyecto de desmantelamiento, se reducirá la tasa al 25 %.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Cuando en la inspección de la autorización ambiental se constate que no se han construido las instalaciones que darán lugar a la explotación de la actividad por la cual era necesaria dicha autorización ambiental, no se liquidará dicha tasa. La exención no será de aplicación si la instalación estuviera en funcionamiento, a pesar de no llegar a la capacidad que se haya autorizado en el instrumento de prevención ambiental.</td>
+<td> </td>
+<td> </td>
+<td>Cuando en la inspección de la autorización ambiental se constate que no se han construido las instalaciones que darán lugar a la explotación de la actividad por la cual era necesaria dicha autorización ambiental, no se liquidará dicha tasa. La exención no será de aplicación si la instalación estuviera en funcionamiento, a pesar de no llegar a la capacidad que se haya autorizado en el instrumento de prevención ambiental.</td>
 </tr>
 </tbody>
 <tfoot>
@@ -5961,135 +5706,128 @@ El importe de la cuota tributaria es:
 </tfoot>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="7%">
-<col width="70%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">2.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por servicios facultativos en materia de residuos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>2.2.</td>
+<td colspan="2">Por servicios facultativos en materia de residuos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.2.1.</td>
-<td class="cuerpo_tabla_izq">Declaración anual de personas o entidades productoras de residuos peligrosos que generen cantidades iguales o superiores a 10 t/a.</td>
-<td class="cuerpo_tabla_izq">51,37 euros.</td>
+<td> </td>
+<td> </td>
+<td>2.2.1.</td>
+<td>Declaración anual de personas o entidades productoras de residuos peligrosos que generen cantidades iguales o superiores a 10 t/a.</td>
+<td>51,37 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.2.2.</td>
-<td class="cuerpo_tabla_izq">Declaración anual de personas o entidades productoras de residuos no peligrosos que generen cantidades iguales o superiores a 1000 t/a.</td>
-<td class="cuerpo_tabla_izq">51,37 euros.</td>
+<td> </td>
+<td> </td>
+<td>2.2.2.</td>
+<td>Declaración anual de personas o entidades productoras de residuos no peligrosos que generen cantidades iguales o superiores a 1000 t/a.</td>
+<td>51,37 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.2.3.</td>
-<td class="cuerpo_tabla_izq">Memoria anual gestores de residuos peligrosos y no peligrosos.</td>
-<td class="cuerpo_tabla_izq">51,37 euros.</td>
+<td> </td>
+<td> </td>
+<td>2.2.3.</td>
+<td>Memoria anual gestores de residuos peligrosos y no peligrosos.</td>
+<td>51,37 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.2.4.</td>
-<td class="cuerpo_tabla_izq">Informe anual sobre actividades de los sistemas de responsabilidad ampliada en el ámbito de la Comunidad Autónoma de Andalucía.</td>
-<td class="cuerpo_tabla_izq">51,37 euros.</td>
+<td> </td>
+<td> </td>
+<td>2.2.4.</td>
+<td>Informe anual sobre actividades de los sistemas de responsabilidad ampliada en el ámbito de la Comunidad Autónoma de Andalucía.</td>
+<td>51,37 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dichas tasas se reducirán en un 30% para los solicitantes registrados en el sistema comunitario de gestión y auditorías medioambientales (EMAS) siempre que su alcance incluya el de dicha autorización ambiental.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td colspan="2">Dichas tasas se reducirán en un 30% para los solicitantes registrados en el sistema comunitario de gestión y auditorías medioambientales (EMAS) siempre que su alcance incluya el de dicha autorización ambiental.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">2.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por servicios facultativos en materia de fiscalidad ambiental:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>2.3.</td>
+<td colspan="2">Por servicios facultativos en materia de fiscalidad ambiental:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq" colspan="2">Certificación acreditativa de la idoneidad medioambiental de la inversión realizada.</td>
-<td class="cuerpo_tabla_izq">440,68 euros.</td>
+<td> </td>
+<td> </td>
+<td colspan="2">Certificación acreditativa de la idoneidad medioambiental de la inversión realizada.</td>
+<td>440,68 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dichas tasas se reducirán en un 30% para los solicitantes registrados en el sistema comunitario de gestión y auditorías medioambientales (EMAS) siempre que su alcance incluya el de dicha autorización ambiental.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td colspan="2">Dichas tasas se reducirán en un 30% para los solicitantes registrados en el sistema comunitario de gestión y auditorías medioambientales (EMAS) siempre que su alcance incluya el de dicha autorización ambiental.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">2.4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por servicios facultativos para verificar la coherencia de la información requerida en el Reglamento (CE) n.º 166/2006 del Parlamento Europeo y del Consejo, de 18 de enero de 2006, relativo al establecimiento de un registro europeo de emisiones y transferencias de contaminantes y por el que se modifican las Directivas 91/689/CEE y 96/61/CE del Consejo (Reglamento EPRTR):</td>
-<td class="cuerpo_tabla_izq">278,24 euros.</td>
+<td> </td>
+<td>2.4.</td>
+<td colspan="2">Por servicios facultativos para verificar la coherencia de la información requerida en el Reglamento (CE) n.º 166/2006 del Parlamento Europeo y del Consejo, de 18 de enero de 2006, relativo al establecimiento de un registro europeo de emisiones y transferencias de contaminantes y por el que se modifican las Directivas 91/689/CEE y 96/61/CE del Consejo (Reglamento EPRTR):</td>
+<td>278,24 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq" colspan="2">Validación de la información requerida.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td colspan="2">Validación de la información requerida.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Para verificar la coherencia de los datos notificados correspondientes a las instalaciones o actividades encuadradas en las categorías 1.2, 1.4, 2.1, 4.1, 4.2, 5.2, 5.5, 5.7 y 14.1 del Anejo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, el valor de la tasa será del 150% debido a su complejidad en cuanto a número de focos de emisión, puntos de vertido o transferencia de residuos fuera de la instalación.</p>
-<p class="cuerpo_tabla_izq">Así como para verificar la coherencia de los datos notificados en actuaciones de la categoría del 9.3 del Anejo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, el valor de la tasa será el 50%.</p>
-<p class="cuerpo_tabla_izq">En el caso de que la instalación esté sin actividad, se notifique así en el Registro del Reglamento E- PRTR y declare que no haya tenido ningún tipo de emisión a la atmósfera, vertido al agua y/o transferencia de residuos peligrosos y no peligrosos, se exime el pago de esta tasa.</p>
+<td> </td>
+<td> </td>
+<td colspan="2">
+<p>Para verificar la coherencia de los datos notificados correspondientes a las instalaciones o actividades encuadradas en las categorías 1.2, 1.4, 2.1, 4.1, 4.2, 5.2, 5.5, 5.7 y 14.1 del Anejo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, el valor de la tasa será del 150% debido a su complejidad en cuanto a número de focos de emisión, puntos de vertido o transferencia de residuos fuera de la instalación.</p>
+<p>Así como para verificar la coherencia de los datos notificados en actuaciones de la categoría del 9.3 del Anejo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, el valor de la tasa será el 50%.</p>
+<p>En el caso de que la instalación esté sin actividad, se notifique así en el Registro del Reglamento E- PRTR y declare que no haya tenido ningún tipo de emisión a la atmósfera, vertido al agua y/o transferencia de residuos peligrosos y no peligrosos, se exime el pago de esta tasa.</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">2.5.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inspecciones a las entidades colaboradoras en materia de calidad ambiental en la Comunidad Autónoma de Andalucía.</td>
-<td class="cuerpo_tabla_izq">551,01 euros.</td>
+<td> </td>
+<td>2.5.</td>
+<td colspan="2">Inspecciones a las entidades colaboradoras en materia de calidad ambiental en la Comunidad Autónoma de Andalucía.</td>
+<td>551,01 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">2.6.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inspecciones a los operadores que realizan traslado transfronterizo de residuos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>2.6.</td>
+<td colspan="2">Inspecciones a los operadores que realizan traslado transfronterizo de residuos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq" colspan="2">Inspección a instalaciones andaluzas que importan o exportan residuos a cualquier país de la Unión Europea.</td>
-<td class="cuerpo_tabla_izq">549,31 euros.</td>
+<td> </td>
+<td> </td>
+<td colspan="2">Inspección a instalaciones andaluzas que importan o exportan residuos a cualquier país de la Unión Europea.</td>
+<td>549,31 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq" colspan="2">Si durante la inspección fuese necesario realizar una toma de muestras, a la tasa anterior se le añadiría el valor asociado a los muestreos correspondientes que se incluyen en la tabla 2, del Anexo final del presente artículo. El cálculo de la tasa resultante se realizará conforme a la fórmula expuesta en el punto 2.1, Inspecciones en materia de protección ambiental, siendo en este caso el valor de Ki igual a 549,31 euros e independiente de la actividad de la Ley 7/2007, de 9 de julio, desarrollada.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td colspan="2">Si durante la inspección fuese necesario realizar una toma de muestras, a la tasa anterior se le añadiría el valor asociado a los muestreos correspondientes que se incluyen en la tabla 2, del Anexo final del presente artículo. El cálculo de la tasa resultante se realizará conforme a la fórmula expuesta en el punto 2.1, Inspecciones en materia de protección ambiental, siendo en este caso el valor de Ki igual a 549,31 euros e independiente de la actividad de la Ley 7/2007, de 9 de julio, desarrollada.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">2.7.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inspecciones a actividades en materia de contaminación acústica por inactividad o a petición de los Ayuntamientos.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>2.7.</td>
+<td colspan="2">Inspecciones a actividades en materia de contaminación acústica por inactividad o a petición de los Ayuntamientos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dicha tasa será exigible a los Ayuntamientos por las inspecciones realizadas a actividades sujetas a calificación ambiental, declaración responsable a los efectos ambientales y a las no incluidas en el anexo de la Ley 7/2007, de 9 de julio, en aplicación de los artículos 51 y 52 del Decreto 6/2012, de 17 de enero, por el que se aprueba el Reglamento de Protección contra la Contaminación Acústica en Andalucía, y se modifica el Decreto 357/2010, de 3 de agosto, por el que se aprueba el Reglamento para la Protección de la Calidad del Cielo Nocturno frente a la contaminación lumínica y el establecimiento de medidas de ahorro y eficiencia energética.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td colspan="2">Dicha tasa será exigible a los Ayuntamientos por las inspecciones realizadas a actividades sujetas a calificación ambiental, declaración responsable a los efectos ambientales y a las no incluidas en el anexo de la Ley 7/2007, de 9 de julio, en aplicación de los artículos 51 y 52 del Decreto 6/2012, de 17 de enero, por el que se aprueba el Reglamento de Protección contra la Contaminación Acústica en Andalucía, y se modifica el Decreto 357/2010, de 3 de agosto, por el que se aprueba el Reglamento para la Protección de la Calidad del Cielo Nocturno frente a la contaminación lumínica y el establecimiento de medidas de ahorro y eficiencia energética.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq" colspan="3">La tasa se exigirá por cada solicitud de inspección, que irá asociada a una única actividad, obteniéndose la cuota de acuerdo con la tabla 3 del Anexo final del presente artículo.</td>
+<td> </td>
+<td> </td>
+<td colspan="3">La tasa se exigirá por cada solicitud de inspección, que irá asociada a una única actividad, obteniéndose la cuota de acuerdo con la tabla 3 del Anexo final del presente artículo.</td>
 </tr>
 </tbody>
 </table>
@@ -6104,9 +5842,9 @@ Tabla 1. Descripción del parámetro K
 | K<sub>2</sub> | Instalaciones en las que se desarrollen actuaciones sometidas a autorización ambiental unificada. | 895,58 euros |
 | K<sub>3</sub> | Instalaciones en las que se desarrollen actuaciones sometidas a autorización de emisiones a la atmósfera y/o autorización ambiental unificada simplificada | 670,51 euros |
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">Tabla 2. Descripción de los tipos de trabajos de muestreo y análisis</p>
+<p>Tabla 2. Descripción de los tipos de trabajos de muestreo y análisis</p>
 </caption>
 </table>
 
@@ -6202,100 +5940,89 @@ Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como 
 
 1\. Por cada inspección sectorial en materia de autorización de vertidos al dominio público hidráulico o al dominio público marítimo-terrestre conforme a los siguientes criterios de población y volumen:
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_cursiva">Vertidos urbanos</p>
+<p>Vertidos urbanos</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Población (habitantes equivalentes)</th>
-<th class="cabeza_tabla" colspan="3">Importe</th>
+<th>Población (habitantes equivalentes)</th>
+<th colspan="3">Importe</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 50.000</td>
-<td class="cuerpo_tabla_centro" colspan="3">394,69 euros</td>
+<td>&gt; 50.000</td>
+<td colspan="3">394,69 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 10.000-50.000</td>
-<td class="cuerpo_tabla_centro" colspan="3">297,61 euros</td>
+<td>&gt; 10.000-50.000</td>
+<td colspan="3">297,61 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 2.000-10.000</td>
-<td class="cuerpo_tabla_centro" colspan="3">200,52 euros</td>
+<td>&gt; 2.000-10.000</td>
+<td colspan="3">200,52 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 250-2.000</td>
-<td class="cuerpo_tabla_centro" colspan="3">103,43 euros</td>
+<td>&gt; 250-2.000</td>
+<td colspan="3">103,43 euros</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="70%">
-<col width="15%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Vertidos Industriales</th>
+<th colspan="3">Vertidos Industriales</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Tipo de actividad</th>
-<th class="cabeza_tabla">Volumen (m<sup>3</sup>)</th>
-<th class="cabeza_tabla">Importe</th>
+<th>Tipo de actividad</th>
+<th>Volumen (m<sup>3</sup>)</th>
+<th>Importe</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Industriales con sustancias peligrosas.</td>
-<td class="cuerpo_tabla_centro">Independiente</td>
-<td class="cuerpo_tabla_centro">588,87 euros</td>
+<td>Industriales con sustancias peligrosas.</td>
+<td>Independiente</td>
+<td>588,87 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">Grupo 1. Industrias de los sectores químicos, metales, maderas, papel, refinerías, extractoras y varios.</p>
-<p class="cuerpo_tabla_izq">Polígonos industriales.</p>
+<td rowspan="3">
+<p>Grupo 1. Industrias de los sectores químicos, metales, maderas, papel, refinerías, extractoras y varios.</p>
+<p>Polígonos industriales.</p>
 </td>
-<td class="cuerpo_tabla_centro">&gt;100.000</td>
-<td class="cuerpo_tabla_centro">588,87 euros</td>
+<td>&gt;100.000</td>
+<td>588,87 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30.000 – 100.000</td>
-<td class="cuerpo_tabla_centro"> 491,78 euros</td>
+<td>30.000 – 100.000</td>
+<td> 491,78 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&lt;30.000</td>
-<td class="cuerpo_tabla_centro"> 394,69 euros</td>
+<td>&lt;30.000</td>
+<td> 394,69 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">Grupo 2. Industrias de los sectores agroalimentarios y afines (mataderos, lácteos, bodegas, comestibles-bebidas y resto de sectores).</p>
-<p class="cuerpo_tabla_izq">Desaladoras y piscifactorías.</p>
-<p class="cuerpo_tabla_izq">Estaciones de servicio.</p>
+<td rowspan="4">
+<p>Grupo 2. Industrias de los sectores agroalimentarios y afines (mataderos, lácteos, bodegas, comestibles-bebidas y resto de sectores).</p>
+<p>Desaladoras y piscifactorías.</p>
+<p>Estaciones de servicio.</p>
 </td>
-<td class="cuerpo_tabla_centro">&gt;100.000</td>
-<td class="cuerpo_tabla_centro">491,78 euros</td>
+<td>&gt;100.000</td>
+<td>491,78 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt;50.000 – 100.000</td>
-<td class="cuerpo_tabla_centro">394,69 euros </td>
+<td>&gt;50.000 – 100.000</td>
+<td>394,69 euros </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.000 – 50.000</td>
-<td class="cuerpo_tabla_centro">297,61 euros </td>
+<td>5.000 – 50.000</td>
+<td>297,61 euros </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&lt;5.000</td>
-<td class="cuerpo_tabla_centro">200,52 euros</td>
+<td>&lt;5.000</td>
+<td>200,52 euros</td>
 </tr>
 </tbody>
 </table>
@@ -6518,44 +6245,38 @@ Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como 
 
 1\. La tasa se exigirá de acuerdo con la siguiente tarifa:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Deslindes y amojonamientos</th>
-<th class="cabeza_tabla">Precio fijo por expediente</th>
-<th class="cabeza_tabla">Precio variable por km</th>
+<th colspan="2">Deslindes y amojonamientos</th>
+<th>Precio fijo por expediente</th>
+<th>Precio variable por km</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1.</td>
-<td class="cuerpo_tabla_izq">Deslinde de dificultad normal.</td>
-<td class="cuerpo_tabla_centro">4.779,48 euros</td>
-<td class="cuerpo_tabla_centro">2.049,66 euros</td>
+<td>1.</td>
+<td>Deslinde de dificultad normal.</td>
+<td>4.779,48 euros</td>
+<td>2.049,66 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.</td>
-<td class="cuerpo_tabla_izq">Deslinde de dificultad alta.</td>
-<td class="cuerpo_tabla_centro">4.779,48 euros</td>
-<td class="cuerpo_tabla_centro">2.217,24 euros</td>
+<td>2.</td>
+<td>Deslinde de dificultad alta.</td>
+<td>4.779,48 euros</td>
+<td>2.217,24 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.</td>
-<td class="cuerpo_tabla_izq">Amojonamiento de montes de dificultad normal.</td>
-<td class="cuerpo_tabla_centro">3.070,49 euros</td>
-<td class="cuerpo_tabla_centro">2.310,58 euros</td>
+<td>3.</td>
+<td>Amojonamiento de montes de dificultad normal.</td>
+<td>3.070,49 euros</td>
+<td>2.310,58 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.</td>
-<td class="cuerpo_tabla_izq">Amojonamiento de montes de dificultad alta.</td>
-<td class="cuerpo_tabla_centro">3.070,49 euros</td>
-<td class="cuerpo_tabla_centro">2.507,22 euros</td>
+<td>4.</td>
+<td>Amojonamiento de montes de dificultad alta.</td>
+<td>3.070,49 euros</td>
+<td>2.507,22 euros</td>
 </tr>
 </tbody>
 </table>
@@ -6602,54 +6323,49 @@ Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como 
 
 El importe de la cuota tributaria es:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="10%">
-<col width="76%">
-<col width="14%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2"> </th>
-<th class="cabeza_tabla">Euros</th>
+<th colspan="2"> </th>
+<th>Euros</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie igual o inferior a 10 hectáreas.</td>
-<td class="cuerpo_tabla_coma">305,37</td>
+<td>1</td>
+<td>Cambios de uso de forestal a cualquier otro uso en terrenos de superficie igual o inferior a 10 hectáreas.</td>
+<td>305,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 10 hectáreas e igual o inferior a 20 hectáreas.</td>
-<td class="cuerpo_tabla_coma">839,78</td>
+<td>2</td>
+<td>Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 10 hectáreas e igual o inferior a 20 hectáreas.</td>
+<td>839,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 20 hectáreas e igual o inferior a 30 hectáreas.</td>
-<td class="cuerpo_tabla_coma">1.679,55</td>
+<td>3</td>
+<td>Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 20 hectáreas e igual o inferior a 30 hectáreas.</td>
+<td>1.679,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 30 hectáreas e igual o inferior a 50 hectáreas.</td>
-<td class="cuerpo_tabla_coma">2.519,33</td>
+<td>4</td>
+<td>Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 30 hectáreas e igual o inferior a 50 hectáreas.</td>
+<td>2.519,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 50 hectáreas e igual o inferior a 80 hectáreas.</td>
-<td class="cuerpo_tabla_coma">3.359,11</td>
+<td>5</td>
+<td>Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 50 hectáreas e igual o inferior a 80 hectáreas.</td>
+<td>3.359,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 80 hectáreas.</td>
-<td class="cuerpo_tabla_coma">4.198,88</td>
+<td>6</td>
+<td>Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 80 hectáreas.</td>
+<td>4.198,88</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(*) Importes actualizados a 2026.</p>
+<p>(*) Importes actualizados a 2026.</p>
 </td>
 </tr>
 </tfoot>
@@ -6814,70 +6530,64 @@ Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como 
 
 1\. La tasa se exigirá de acuerdo con las siguientes tarifas e importes máximos:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="75%">
-<col width="14%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Personal y medios terrestres:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1.</td>
+<td colspan="2">Personal y medios terrestres:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.</td>
-<td class="cuerpo_tabla_izq">Grupo de especialista.</td>
-<td class="cuerpo_tabla_izq">137,52 euros/hora.</td>
+<td> </td>
+<td>1.1.</td>
+<td>Grupo de especialista.</td>
+<td>137,52 euros/hora.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.2.</td>
-<td class="cuerpo_tabla_izq">Grupo de apoyo.</td>
-<td class="cuerpo_tabla_izq">46,24 euros/hora.</td>
+<td> </td>
+<td>1.2.</td>
+<td>Grupo de apoyo.</td>
+<td>46,24 euros/hora.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.3.</td>
-<td class="cuerpo_tabla_izq">Vehículo autobomba.</td>
-<td class="cuerpo_tabla_izq">80,45 euros/hora.</td>
+<td> </td>
+<td>1.3.</td>
+<td>Vehículo autobomba.</td>
+<td>80,45 euros/hora.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Medios aéreos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>2.</td>
+<td colspan="2">Medios aéreos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.1.</td>
-<td class="cuerpo_tabla_izq">Helicóptero.</td>
-<td class="cuerpo_tabla_izq">450 euros/hora.</td>
+<td> </td>
+<td>2.1.</td>
+<td>Helicóptero.</td>
+<td>450 euros/hora.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.2.</td>
-<td class="cuerpo_tabla_izq">Avión de carga igual o superior a 3.000 litros.</td>
-<td class="cuerpo_tabla_izq">375 euros/hora.</td>
+<td> </td>
+<td>2.2.</td>
+<td>Avión de carga igual o superior a 3.000 litros.</td>
+<td>375 euros/hora.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.3.</td>
-<td class="cuerpo_tabla_izq">Avión de carga inferior a 3.000 litros.</td>
-<td class="cuerpo_tabla_izq">100 euros/hora.</td>
+<td> </td>
+<td>2.3.</td>
+<td>Avión de carga inferior a 3.000 litros.</td>
+<td>100 euros/hora.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Importes máximos aplicables a la tasa de extinción de incendios forestales para cada sujeto pasivo, por superficie forestal afectada:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>3.</td>
+<td colspan="2">Importes máximos aplicables a la tasa de extinción de incendios forestales para cada sujeto pasivo, por superficie forestal afectada:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3.1.</td>
-<td class="cuerpo_tabla_izq">Mayor de 10 ha y menor de 3.000 ha.</td>
-<td class="cuerpo_tabla_izq">6 euros/ha forestal afectada.</td>
+<td> </td>
+<td>3.1.</td>
+<td>Mayor de 10 ha y menor de 3.000 ha.</td>
+<td>6 euros/ha forestal afectada.</td>
 </tr>
 </tbody>
 </table>
@@ -6922,73 +6632,66 @@ El sustituto deberá repercutir íntegramente el importe de la tasa sobre el con
 
 La tasa se exigirá de acuerdo con la siguiente tarifa:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col width="5%">
-<col width="5%">
-<col width="8%">
-<col>
-<col width="35%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="4"> </th>
-<th class="cabeza_tabla">Importe</th>
+<th colspan="4"> </th>
+<th>Importe</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Por expedición de licencias de pesca continental en Andalucía.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1.</td>
+<td colspan="3">Por expedición de licencias de pesca continental en Andalucía.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tipos de licencia de pesca y recargos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>1.1.</td>
+<td colspan="2">Tipos de licencia de pesca y recargos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.1.</td>
-<td class="cuerpo_tabla_izq">Básica.</td>
-<td class="cuerpo_tabla_izq">8,14 euros/año.</td>
+<td> </td>
+<td> </td>
+<td>1.1.1.</td>
+<td>Básica.</td>
+<td>8,14 euros/año.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.2.</td>
-<td class="cuerpo_tabla_izq">Recargo pesca de trucha.</td>
-<td class="cuerpo_tabla_izq">4,08 euros/año.</td>
+<td> </td>
+<td> </td>
+<td>1.1.2.</td>
+<td>Recargo pesca de trucha.</td>
+<td>4,08 euros/año.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.3.</td>
-<td class="cuerpo_tabla_izq">Recargo medio auxiliar con motor.</td>
-<td class="cuerpo_tabla_izq">15,61 euros/año.</td>
+<td> </td>
+<td> </td>
+<td>1.1.3.</td>
+<td>Recargo medio auxiliar con motor.</td>
+<td>15,61 euros/año.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.4.</td>
-<td class="cuerpo_tabla_izq">Recargo medio auxiliar sin motor.</td>
-<td class="cuerpo_tabla_izq">11,37 euros/año.</td>
+<td> </td>
+<td> </td>
+<td>1.1.4.</td>
+<td>Recargo medio auxiliar sin motor.</td>
+<td>11,37 euros/año.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.5.</td>
-<td class="cuerpo_tabla_izq">Licencia de pesca temporal.</td>
-<td class="cuerpo_tabla_izq">15,61 euros/periodo autorizado.</td>
+<td> </td>
+<td> </td>
+<td>1.1.5.</td>
+<td>Licencia de pesca temporal.</td>
+<td>15,61 euros/periodo autorizado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.6.</td>
-<td class="cuerpo_tabla_izq">Licencia interautonómica de pesca.</td>
-<td class="cuerpo_tabla_izq">25 euros/año.</td>
+<td> </td>
+<td> </td>
+<td>1.1.6.</td>
+<td>Licencia interautonómica de pesca.</td>
+<td>25 euros/año.</td>
 </tr>
 </tbody>
 </table>
@@ -7001,90 +6704,77 @@ La licencia de pesca temporal tendrá una vigencia máxima de 15 días.
 
 La licencia interautonómica de pesca incluirá la licencia de pesca básica y los recargos de pesca de trucha, medio auxiliar con motor y medio auxiliar sin motor, sin que por ello sea exigible pago adicional alguno.
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col width="5%">
-<col width="5%">
-<col>
-<col>
-<col width="35%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="4"> </th>
-<th class="cabeza_tabla">Importe</th>
+<th colspan="4"> </th>
+<th>Importe</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Por expedición de permisos de pesca en cotos gestionados por la Consejería con competencias en materia de pesca continental en Andalucía.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>2.</td>
+<td colspan="3">Por expedición de permisos de pesca en cotos gestionados por la Consejería con competencias en materia de pesca continental en Andalucía.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Coto trucha común sin muerte.</td>
-<td class="cuerpo_tabla_izq">5,77 euros/permiso.</td>
+<td> </td>
+<td>2.1.</td>
+<td colspan="2">Coto trucha común sin muerte.</td>
+<td>5,77 euros/permiso.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Por aprovechamientos piscícolas en acotados de titularidad pública en régimen de concesión en Andalucía:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>3.</td>
+<td colspan="3">Por aprovechamientos piscícolas en acotados de titularidad pública en régimen de concesión en Andalucía:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3.1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Acotados de pesca de salmónidos sin muerte.</td>
-<td class="cuerpo_tabla_izq">12,73 euros/(*)/año.</td>
+<td> </td>
+<td>3.1.</td>
+<td colspan="2">Acotados de pesca de salmónidos sin muerte.</td>
+<td>12,73 euros/(*)/año.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3.2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Acotados de pesca de salmónidos con muerte.</td>
-<td class="cuerpo_tabla_izq">24,41 euros/(*)/año.</td>
+<td> </td>
+<td>3.2.</td>
+<td colspan="2">Acotados de pesca de salmónidos con muerte.</td>
+<td>24,41 euros/(*)/año.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3.3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Otros acotados de pesca.</td>
-<td class="cuerpo_tabla_izq">10,61 euros/(*)/año.</td>
+<td> </td>
+<td>3.3.</td>
+<td colspan="2">Otros acotados de pesca.</td>
+<td>10,61 euros/(*)/año.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="5">(*) Hectárea/Metro/Decámetro/Kilómetro según sea la naturaleza física del acotado (tramo fluvial de montaña, tramo fluvial bajo, embalse o cola de embalse).</td>
+<td colspan="5">(*) Hectárea/Metro/Decámetro/Kilómetro según sea la naturaleza física del acotado (tramo fluvial de montaña, tramo fluvial bajo, embalse o cola de embalse).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Derechos de examen para la acreditación de la aptitud y conocimientos para el ejercicio de la pesca continental en Andalucía.</td>
-<td class="cuerpo_tabla_izq">34,29 euros/examen.</td>
+<td>4.</td>
+<td colspan="3">Derechos de examen para la acreditación de la aptitud y conocimientos para el ejercicio de la pesca continental en Andalucía.</td>
+<td>34,29 euros/examen.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col width="5%">
-<col width="5%">
-<col>
-<col width="35%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3"> </th>
-<th class="cabeza_tabla">Importe</th>
+<th colspan="3"> </th>
+<th>Importe</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">5.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por precintado de redes, artes y otros medios de pesca continental en Andalucía:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>5.</td>
+<td colspan="2">Por precintado de redes, artes y otros medios de pesca continental en Andalucía:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.1.</td>
-<td class="cuerpo_tabla_izq">Precinto de arte de captura.</td>
-<td class="cuerpo_tabla_izq">4,08 euros/precinto.</td>
+<td> </td>
+<td>5.1.</td>
+<td>Precinto de arte de captura.</td>
+<td>4,08 euros/precinto.</td>
 </tr>
 </tbody>
 </table>
@@ -7141,50 +6831,50 @@ La tasa se exigirá de acuerdo con la siguiente tarifa:
 
 1\. Por expedición de licencias de caza en Andalucía:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2"> </th>
-<th class="cabeza_tabla">Importe</th>
+<th colspan="2"> </th>
+<th>Importe</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Licencias básicas.</td>
-<td class="cuerpo_tabla_izq">Sin arma.</td>
-<td class="cuerpo_tabla_izq">10,18 €/año.</td>
+<td rowspan="6">Licencias básicas.</td>
+<td>Sin arma.</td>
+<td>10,18 €/año.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Con armas de fuego-Menor solo.</td>
-<td class="cuerpo_tabla_izq">17,98 €/año.</td>
+<td>Con armas de fuego-Menor solo.</td>
+<td>17,98 €/año.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Con armas de fuego-Mayor y menor.</td>
-<td class="cuerpo_tabla_izq">28,29 €/año.</td>
+<td>Con armas de fuego-Mayor y menor.</td>
+<td>28,29 €/año.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reclamo de perdiz-Menor solo.</td>
-<td class="cuerpo_tabla_izq">56,82 €/año.</td>
+<td>Reclamo de perdiz-Menor solo.</td>
+<td>56,82 €/año.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reclamo de perdiz-Mayor y menor.</td>
-<td class="cuerpo_tabla_izq">62,41 €/año.</td>
+<td>Reclamo de perdiz-Mayor y menor.</td>
+<td>62,41 €/año.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cetrería.</td>
-<td class="cuerpo_tabla_izq">45,45 €/año.</td>
+<td>Cetrería.</td>
+<td>45,45 €/año.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Licencia de rehala.</td>
-<td class="cuerpo_tabla_izq">45,45 €/año.</td>
+<td colspan="2">Licencia de rehala.</td>
+<td>45,45 €/año.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Licencia de caza temporal.</td>
-<td class="cuerpo_tabla_izq">28,29 €/por periodo autorizado.</td>
+<td colspan="2">Licencia de caza temporal.</td>
+<td>28,29 €/por periodo autorizado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Licencia interautonómica de caza.</td>
-<td class="cuerpo_tabla_izq">70,00 €/año.</td>
+<td colspan="2">Licencia interautonómica de caza.</td>
+<td>70,00 €/año.</td>
 </tr>
 </tbody>
 </table>
@@ -7326,52 +7016,46 @@ Serán sujetos pasivos de la tasa las personas que soliciten la inscripción en 
 
 El importe de la cuota tributaria es:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por derechos de examen teórico para la obtención del:</td>
-<td class="cuerpo_tabla_centro">Importe</td>
+<td>1.</td>
+<td colspan="2">Por derechos de examen teórico para la obtención del:</td>
+<td>Importe</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.</td>
-<td class="cuerpo_tabla_izq">Título de Patrón de embarcación de recreo (PER).</td>
-<td class="cuerpo_tabla_izq">50,54 euros.</td>
+<td> </td>
+<td>1.1.</td>
+<td>Título de Patrón de embarcación de recreo (PER).</td>
+<td>50,54 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.2.</td>
-<td class="cuerpo_tabla_izq">Título de Patrón de navegación básica (PNB).</td>
-<td class="cuerpo_tabla_izq">50,54 euros.</td>
+<td> </td>
+<td>1.2.</td>
+<td>Título de Patrón de navegación básica (PNB).</td>
+<td>50,54 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.3.</td>
-<td class="cuerpo_tabla_izq">Título de Patrón de yate (PY).</td>
-<td class="cuerpo_tabla_izq">68,44 euros.</td>
+<td> </td>
+<td>1.3.</td>
+<td>Título de Patrón de yate (PY).</td>
+<td>68,44 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.4.</td>
-<td class="cuerpo_tabla_izq">Título de Capitán de yate (CY).</td>
-<td class="cuerpo_tabla_izq">85,39 euros.</td>
+<td> </td>
+<td>1.4.</td>
+<td>Título de Capitán de yate (CY).</td>
+<td>85,39 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por expedición o convalidación de cualquier título o tarjeta.</td>
-<td class="cuerpo_tabla_izq">47,62 euros.</td>
+<td>2.</td>
+<td colspan="2">Por expedición o convalidación de cualquier título o tarjeta.</td>
+<td>47,62 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Por renovación o duplicado de título.</td>
-<td class="cuerpo_tabla_izq">6,75 euros.</td>
+<td>3.</td>
+<td colspan="2">Por renovación o duplicado de título.</td>
+<td>6,75 euros.</td>
 </tr>
 </tbody>
 </table>
@@ -7402,333 +7086,327 @@ Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como 
 
 El importe de la cuota tributaria es:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="6%">
-<col width="77%">
-<col width="12%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Máquinas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1.</td>
+<td colspan="2">Máquinas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.1.</td>
-<td class="cuerpo_tabla_izq">Autorizaciones de explotación.</td>
-<td class="cuerpo_tabla_izq">125,78 euros.</td>
+<td> </td>
+<td>1.1.</td>
+<td>Autorizaciones de explotación.</td>
+<td>125,78 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.2.</td>
-<td class="cuerpo_tabla_izq">Altas, bajas, definitivas o temporales, canjes, cambio de titularidad y cualquier otra circunstancia que altere el contenido de la autorización.</td>
-<td class="cuerpo_tabla_izq">54,74 euros.</td>
+<td> </td>
+<td>1.2.</td>
+<td>Altas, bajas, definitivas o temporales, canjes, cambio de titularidad y cualquier otra circunstancia que altere el contenido de la autorización.</td>
+<td>54,74 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.3.</td>
-<td class="cuerpo_tabla_izq">Autorización de instalación, cambios, prórrogas y bajas.</td>
-<td class="cuerpo_tabla_izq">54,74 euros.</td>
+<td> </td>
+<td>1.3.</td>
+<td>Autorización de instalación, cambios, prórrogas y bajas.</td>
+<td>54,74 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.4.</td>
-<td class="cuerpo_tabla_izq">Trámite de cambio de provincia.</td>
-<td class="cuerpo_tabla_izq">65,26 euros.</td>
+<td> </td>
+<td>1.4.</td>
+<td>Trámite de cambio de provincia.</td>
+<td>65,26 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.5.</td>
-<td class="cuerpo_tabla_izq">Altas de máquinas procedentes de provincias no andaluzas.</td>
-<td class="cuerpo_tabla_izq">150,04 euros.</td>
+<td> </td>
+<td>1.5.</td>
+<td>Altas de máquinas procedentes de provincias no andaluzas.</td>
+<td>150,04 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.6.</td>
-<td class="cuerpo_tabla_izq">Petición de duplicado de documentos.</td>
-<td class="cuerpo_tabla_izq">5,89 euros.</td>
+<td> </td>
+<td>1.6.</td>
+<td>Petición de duplicado de documentos.</td>
+<td>5,89 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Empresas de servicios técnicos y comercializadoras:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>2.</td>
+<td colspan="2">Empresas de servicios técnicos y comercializadoras:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.1.</td>
-<td class="cuerpo_tabla_izq">Autorizaciones.</td>
-<td class="cuerpo_tabla_izq">69,65 euros.</td>
+<td> </td>
+<td>2.1.</td>
+<td>Autorizaciones.</td>
+<td>69,65 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2.2.</td>
-<td class="cuerpo_tabla_izq">Modificaciones.</td>
-<td class="cuerpo_tabla_izq">32,05 euros.</td>
+<td> </td>
+<td>2.2.</td>
+<td>Modificaciones.</td>
+<td>32,05 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Empresas de juego y apuestas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>3.</td>
+<td colspan="2">Empresas de juego y apuestas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3.1.</td>
-<td class="cuerpo_tabla_izq">Inscripción en registro de empresas.</td>
-<td class="cuerpo_tabla_izq">251,94 euros.</td>
+<td> </td>
+<td>3.1.</td>
+<td>Inscripción en registro de empresas.</td>
+<td>251,94 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3.2.</td>
-<td class="cuerpo_tabla_izq">Modificaciones.</td>
-<td class="cuerpo_tabla_izq">32,05 euros.</td>
+<td> </td>
+<td>3.2.</td>
+<td>Modificaciones.</td>
+<td>32,05 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Homologaciones:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>4.</td>
+<td colspan="2">Homologaciones:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.1.</td>
-<td class="cuerpo_tabla_izq">Homologación e inscripción en el Registro de modelos de máquinas tipo B de un juego y homologación e inscripción de sus modificaciones sustanciales.</td>
-<td class="cuerpo_tabla_izq">209,93 euros.</td>
+<td> </td>
+<td>4.1.</td>
+<td>Homologación e inscripción en el Registro de modelos de máquinas tipo B de un juego y homologación e inscripción de sus modificaciones sustanciales.</td>
+<td>209,93 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.2.</td>
-<td class="cuerpo_tabla_izq">Homologación e inscripción en el Registro de modelos de máquinas tipo B multijuegos y homologación e inscripción de sus modificaciones sustanciales.</td>
-<td class="cuerpo_tabla_izq">466,29 euros.</td>
+<td> </td>
+<td>4.2.</td>
+<td>Homologación e inscripción en el Registro de modelos de máquinas tipo B multijuegos y homologación e inscripción de sus modificaciones sustanciales.</td>
+<td>466,29 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.3.</td>
-<td class="cuerpo_tabla_izq">Homologación e inscripción en el Registro de modelos de máquinas tipo C de un juego y homologación e inscripción de sus modificaciones sustanciales.</td>
-<td class="cuerpo_tabla_izq">256,36 euros.</td>
+<td> </td>
+<td>4.3.</td>
+<td>Homologación e inscripción en el Registro de modelos de máquinas tipo C de un juego y homologación e inscripción de sus modificaciones sustanciales.</td>
+<td>256,36 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.4.</td>
-<td class="cuerpo_tabla_izq">Homologación e inscripción en el Registro de modelos de máquinas tipo C multijuegos y homologación e inscripción de sus modificaciones sustanciales.</td>
-<td class="cuerpo_tabla_izq">466,29 euros.</td>
+<td> </td>
+<td>4.4.</td>
+<td>Homologación e inscripción en el Registro de modelos de máquinas tipo C multijuegos y homologación e inscripción de sus modificaciones sustanciales.</td>
+<td>466,29 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.5.</td>
-<td class="cuerpo_tabla_izq">Modificación no sustancial de modelos de máquinas tipo B o C.</td>
-<td class="cuerpo_tabla_izq">81,75 euros.</td>
+<td> </td>
+<td>4.5.</td>
+<td>Modificación no sustancial de modelos de máquinas tipo B o C.</td>
+<td>81,75 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.6.</td>
-<td class="cuerpo_tabla_izq">Homologación de sistemas de interconexión de máquinas y de sistemas de pago y de cobro.</td>
-<td class="cuerpo_tabla_izq">81,75 euros.</td>
+<td> </td>
+<td>4.6.</td>
+<td>Homologación de sistemas de interconexión de máquinas y de sistemas de pago y de cobro.</td>
+<td>81,75 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.7.</td>
-<td class="cuerpo_tabla_izq">Modificación de la homologación de sistemas de interconexión de máquinas y de sistemas de pago y de cobro.</td>
-<td class="cuerpo_tabla_izq">46,43 euros.</td>
+<td> </td>
+<td>4.7.</td>
+<td>Modificación de la homologación de sistemas de interconexión de máquinas y de sistemas de pago y de cobro.</td>
+<td>46,43 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.8.</td>
-<td class="cuerpo_tabla_izq">Homologación de otros materiales de juego de soporte físico no electrónicos.</td>
-<td class="cuerpo_tabla_izq">64,09 euros.</td>
+<td> </td>
+<td>4.8.</td>
+<td>Homologación de otros materiales de juego de soporte físico no electrónicos.</td>
+<td>64,09 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.9.</td>
-<td class="cuerpo_tabla_izq">Homologación de sistemas de bingo electrónico.</td>
-<td class="cuerpo_tabla_izq">318,46 euros.</td>
+<td> </td>
+<td>4.9.</td>
+<td>Homologación de sistemas de bingo electrónico.</td>
+<td>318,46 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.10.</td>
-<td class="cuerpo_tabla_izq">Autorización de prueba de prototipo de modelos de máquinas B o C, así como de otros elementos de juego o apuestas.</td>
-<td class="cuerpo_tabla_izq">110,52 euros.</td>
+<td> </td>
+<td>4.10.</td>
+<td>Autorización de prueba de prototipo de modelos de máquinas B o C, así como de otros elementos de juego o apuestas.</td>
+<td>110,52 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4.11.</td>
-<td class="cuerpo_tabla_izq">Autorización de laboratorios o entidades de ensayo e inspección del material de juego o de apuestas.</td>
-<td class="cuerpo_tabla_izq">366,92 euros.</td>
+<td> </td>
+<td>4.11.</td>
+<td>Autorización de laboratorios o entidades de ensayo e inspección del material de juego o de apuestas.</td>
+<td>366,92 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Salones de juego:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>5.</td>
+<td colspan="2">Salones de juego:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.1.</td>
-<td class="cuerpo_tabla_izq">Autorizaciones de instalación.</td>
-<td class="cuerpo_tabla_izq">152,48 euros.</td>
+<td> </td>
+<td>5.1.</td>
+<td>Autorizaciones de instalación.</td>
+<td>152,48 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.2.</td>
-<td class="cuerpo_tabla_izq">Autorizaciones de funcionamiento.</td>
-<td class="cuerpo_tabla_izq">645,24 euros.</td>
+<td> </td>
+<td>5.2.</td>
+<td>Autorizaciones de funcionamiento.</td>
+<td>645,24 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.3.</td>
-<td class="cuerpo_tabla_izq">Modificaciones de las autorizaciones.</td>
-<td class="cuerpo_tabla_izq">71,29 euros.</td>
+<td> </td>
+<td>5.3.</td>
+<td>Modificaciones de las autorizaciones.</td>
+<td>71,29 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5.4.</td>
-<td class="cuerpo_tabla_izq">Autorización de publicidad.</td>
-<td class="cuerpo_tabla_izq">15,48 euros.</td>
+<td> </td>
+<td>5.4.</td>
+<td>Autorización de publicidad.</td>
+<td>15,48 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Bingos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>6.</td>
+<td colspan="2">Bingos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6.1.</td>
-<td class="cuerpo_tabla_izq">Autorizaciones de instalación.</td>
-<td class="cuerpo_tabla_izq">152,48 euros.</td>
+<td> </td>
+<td>6.1.</td>
+<td>Autorizaciones de instalación.</td>
+<td>152,48 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6.2.</td>
-<td class="cuerpo_tabla_izq">Autorizaciones de funcionamiento.</td>
-<td class="cuerpo_tabla_izq">758,81 euros.</td>
+<td> </td>
+<td>6.2.</td>
+<td>Autorizaciones de funcionamiento.</td>
+<td>758,81 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6.3.</td>
-<td class="cuerpo_tabla_izq">Modificaciones de las autorizaciones.</td>
-<td class="cuerpo_tabla_izq">131,23 euros.</td>
+<td> </td>
+<td>6.3.</td>
+<td>Modificaciones de las autorizaciones.</td>
+<td>131,23 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6.4.</td>
-<td class="cuerpo_tabla_izq">Autorización de publicidad.</td>
-<td class="cuerpo_tabla_izq">23,22 euros.</td>
+<td> </td>
+<td>6.4.</td>
+<td>Autorización de publicidad.</td>
+<td>23,22 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Casinos:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>7.</td>
+<td colspan="2">Casinos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">7.1.</td>
-<td class="cuerpo_tabla_izq">Autorizaciones de instalación.</td>
-<td class="cuerpo_tabla_izq">1.473,77 euros.</td>
+<td> </td>
+<td>7.1.</td>
+<td>Autorizaciones de instalación.</td>
+<td>1.473,77 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">7.2.</td>
-<td class="cuerpo_tabla_izq">Autorizaciones de funcionamiento.</td>
-<td class="cuerpo_tabla_izq">6.460,20 euros.</td>
+<td> </td>
+<td>7.2.</td>
+<td>Autorizaciones de funcionamiento.</td>
+<td>6.460,20 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">7.3.</td>
-<td class="cuerpo_tabla_izq">Modificaciones de las autorizaciones.</td>
-<td class="cuerpo_tabla_izq">346,70 euros.</td>
+<td> </td>
+<td>7.3.</td>
+<td>Modificaciones de las autorizaciones.</td>
+<td>346,70 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">7.4.</td>
-<td class="cuerpo_tabla_izq">Autorización de publicidad.</td>
-<td class="cuerpo_tabla_izq">69,65 euros.</td>
+<td> </td>
+<td>7.4.</td>
+<td>Autorización de publicidad.</td>
+<td>69,65 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">8.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Hipódromos y apuestas hípicas:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>8.</td>
+<td colspan="2">Hipódromos y apuestas hípicas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">8.1.</td>
-<td class="cuerpo_tabla_izq">Autorizaciones de instalación de hipódromos.</td>
-<td class="cuerpo_tabla_izq">1.473,77 euros.</td>
+<td> </td>
+<td>8.1.</td>
+<td>Autorizaciones de instalación de hipódromos.</td>
+<td>1.473,77 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">8.2.</td>
-<td class="cuerpo_tabla_izq">Autorizaciones de funcionamiento de hipódromos.</td>
-<td class="cuerpo_tabla_izq">6.460,20 euros.</td>
+<td> </td>
+<td>8.2.</td>
+<td>Autorizaciones de funcionamiento de hipódromos.</td>
+<td>6.460,20 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">8.3.</td>
-<td class="cuerpo_tabla_izq">Modificaciones de las autorizaciones de funcionamiento de hipódromos.</td>
-<td class="cuerpo_tabla_izq">346,70 euros.</td>
+<td> </td>
+<td>8.3.</td>
+<td>Modificaciones de las autorizaciones de funcionamiento de hipódromos.</td>
+<td>346,70 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">8.4.</td>
-<td class="cuerpo_tabla_izq">Autorización de publicidad.</td>
-<td class="cuerpo_tabla_izq">69,65 euros.</td>
+<td> </td>
+<td>8.4.</td>
+<td>Autorización de publicidad.</td>
+<td>69,65 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">8.5.</td>
-<td class="cuerpo_tabla_izq">Autorización de locales de apuestas hípicas.</td>
-<td class="cuerpo_tabla_izq">152,48 euros.</td>
+<td> </td>
+<td>8.5.</td>
+<td>Autorización de locales de apuestas hípicas.</td>
+<td>152,48 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">8.6.</td>
-<td class="cuerpo_tabla_izq">Autorización de instalación de terminales de apuestas hípicas.</td>
-<td class="cuerpo_tabla_izq">59,50 euros.</td>
+<td> </td>
+<td>8.6.</td>
+<td>Autorización de instalación de terminales de apuestas hípicas.</td>
+<td>59,50 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">9.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Rifas y tómbolas.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>9.</td>
+<td colspan="2">Rifas y tómbolas.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">9.1.</td>
-<td class="cuerpo_tabla_izq">Autorización de ámbito local o provincial.</td>
-<td class="cuerpo_tabla_izq">83,85 euros.</td>
+<td> </td>
+<td>9.1.</td>
+<td>Autorización de ámbito local o provincial.</td>
+<td>83,85 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">9.2.</td>
-<td class="cuerpo_tabla_izq">Autorización de ámbito autonómico.</td>
-<td class="cuerpo_tabla_izq">148,07 euros.</td>
+<td> </td>
+<td>9.2.</td>
+<td>Autorización de ámbito autonómico.</td>
+<td>148,07 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">10.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Apuestas sobre eventos deportivos o de otra naturaleza.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>10.</td>
+<td colspan="2">Apuestas sobre eventos deportivos o de otra naturaleza.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">10.1.</td>
-<td class="cuerpo_tabla_izq">Autorización del sistema de apuestas.</td>
-<td class="cuerpo_tabla_izq">587,86 euros.</td>
+<td> </td>
+<td>10.1.</td>
+<td>Autorización del sistema de apuestas.</td>
+<td>587,86 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">10.2.</td>
-<td class="cuerpo_tabla_izq">Modificación de la autorización del sistema de apuestas.</td>
-<td class="cuerpo_tabla_izq">335,92 euros.</td>
+<td> </td>
+<td>10.2.</td>
+<td>Modificación de la autorización del sistema de apuestas.</td>
+<td>335,92 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">10.3.</td>
-<td class="cuerpo_tabla_izq">Autorización y baja de instalación de terminales o de máquinas auxiliares.</td>
-<td class="cuerpo_tabla_izq">59,50 euros.</td>
+<td> </td>
+<td>10.3.</td>
+<td>Autorización y baja de instalación de terminales o de máquinas auxiliares.</td>
+<td>59,50 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro">10.4.</td>
-<td class="cuerpo_tabla_izq">Autorización de publicidad.</td>
-<td class="cuerpo_tabla_izq">69,65 euros.</td>
+<td> </td>
+<td>10.4.</td>
+<td>Autorización de publicidad.</td>
+<td>69,65 euros.</td>
 </tr>
 </tbody>
 </table>

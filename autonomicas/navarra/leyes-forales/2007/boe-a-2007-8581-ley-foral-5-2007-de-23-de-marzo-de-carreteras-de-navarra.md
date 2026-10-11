@@ -1270,7415 +1270,7404 @@ I. CATÁLOGO DE CARRETERAS DE NAVARRA
 
 > Téngase en cuenta que la actuallización del Catálogo de Carreteras de Navarra se realizará por Orden Foral publicada únicamente en el "Boletín Oficlal de Navarra", según establece el art. 4.3
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Identificación</th>
-<th class="cabeza_tabla">Tramo</th>
-<th class="cabeza_tabla">Nombre</th>
-<th class="cabeza_tabla">Punto kilométrico origen</th>
-<th class="cabeza_tabla">Origen</th>
-<th class="cabeza_tabla">Punto kilométrico final</th>
-<th class="cabeza_tabla">Final</th>
-<th class="cabeza_tabla">Longitud km</th>
+<th colspan="2">Identificación</th>
+<th>Tramo</th>
+<th>Nombre</th>
+<th>Punto kilométrico origen</th>
+<th>Origen</th>
+<th>Punto kilométrico final</th>
+<th>Final</th>
+<th>Longitud km</th>
 </tr>
 </thead>
-<colgroup>
-<col width="5%">
-<col width="5%">
-<col width="5%">
-<col width="20%">
-<col width="10%">
-<col width="15%">
-<col width="10%">
-<col width="20%">
-<col width="10%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="9">
+<td colspan="9">
 <strong>AUTOPISTAS</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">AUTOPISTA DE NAVARRA</td>
-<td class="cuerpo_tabla_der">0,20</td>
-<td class="cuerpo_tabla_izq">PK 208,53 DE AP-68</td>
-<td class="cuerpo_tabla_der">83,13</td>
-<td class="cuerpo_tabla_izq">PK 83,13 DE A-15</td>
-<td class="cuerpo_tabla_der">82,93</td>
+<td>AP</td>
+<td>15</td>
+<td>1</td>
+<td>AUTOPISTA DE NAVARRA</td>
+<td>0,20</td>
+<td>PK 208,53 DE AP-68</td>
+<td>83,13</td>
+<td>PK 83,13 DE A-15</td>
+<td>82,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">RONDA DE PAMPLONA OESTE</td>
-<td class="cuerpo_tabla_der">83,13</td>
-<td class="cuerpo_tabla_izq">PK 83,13 DE AP-15</td>
-<td class="cuerpo_tabla_der">96,20</td>
-<td class="cuerpo_tabla_izq">PK 96,20 DE AP-15</td>
-<td class="cuerpo_tabla_der">13,07</td>
+<td>A</td>
+<td>15</td>
+<td>2</td>
+<td>RONDA DE PAMPLONA OESTE</td>
+<td>83,13</td>
+<td>PK 83,13 DE AP-15</td>
+<td>96,20</td>
+<td>PK 96,20 DE AP-15</td>
+<td>13,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">AUTOPISTA DE NAVARRA</td>
-<td class="cuerpo_tabla_der">96,20</td>
-<td class="cuerpo_tabla_izq">PK 96,20 DE A-15</td>
-<td class="cuerpo_tabla_der">112,15</td>
-<td class="cuerpo_tabla_izq">PK 112,15 DE A-15</td>
-<td class="cuerpo_tabla_der">15,95</td>
+<td>AP</td>
+<td>15</td>
+<td>3</td>
+<td>AUTOPISTA DE NAVARRA</td>
+<td>96,20</td>
+<td>PK 96,20 DE A-15</td>
+<td>112,15</td>
+<td>PK 112,15 DE A-15</td>
+<td>15,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="8">0 TOTAL AUTOPISTAS</td>
-<td class="cuerpo_tabla_der">
+<td colspan="8">0 TOTAL AUTOPISTAS</td>
+<td>
 <strong>111,95</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="9">
+<td colspan="9">
 <strong>AUTOVÍAS</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AUTOVIA DEL NORTE</td>
-<td class="cuerpo_tabla_der">391,68</td>
-<td class="cuerpo_tabla_izq">Lte. ALAVA</td>
-<td class="cuerpo_tabla_der">405,45</td>
-<td class="cuerpo_tabla_izq">Lte. GUIPUZCOA</td>
-<td class="cuerpo_tabla_der">13,77</td>
+<td>A</td>
+<td>1</td>
+<td> </td>
+<td>AUTOVIA DEL NORTE</td>
+<td>391,68</td>
+<td>Lte. ALAVA</td>
+<td>405,45</td>
+<td>Lte. GUIPUZCOA</td>
+<td>13,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AUTOVIA DE LA BARRANCA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 112,15 DE AP-15</td>
-<td class="cuerpo_tabla_der">29,17</td>
-<td class="cuerpo_tabla_izq">PK 397,40 DE A-1</td>
-<td class="cuerpo_tabla_der">29,17</td>
+<td>A</td>
+<td>10</td>
+<td> </td>
+<td>AUTOVIA DE LA BARRANCA</td>
+<td>0,00</td>
+<td>PK 112,15 DE AP-15</td>
+<td>29,17</td>
+<td>PK 397,40 DE A-1</td>
+<td>29,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AUTOVIA DEL CAMINO DE SANTIAGO</td>
-<td class="cuerpo_tabla_der">4,12</td>
-<td class="cuerpo_tabla_izq">Lte. PAMPLONA</td>
-<td class="cuerpo_tabla_der">76,42</td>
-<td class="cuerpo_tabla_izq">PK 93,00 DE NA-134</td>
-<td class="cuerpo_tabla_der">72,30</td>
+<td>A</td>
+<td>12</td>
+<td> </td>
+<td>AUTOVIA DEL CAMINO DE SANTIAGO</td>
+<td>4,12</td>
+<td>Lte. PAMPLONA</td>
+<td>76,42</td>
+<td>PK 93,00 DE NA-134</td>
+<td>72,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AUTOVIA DE LEITZARAN</td>
-<td class="cuerpo_tabla_der">112,15</td>
-<td class="cuerpo_tabla_izq">PK 112,15 DE AP-15</td>
-<td class="cuerpo_tabla_der">139,76</td>
-<td class="cuerpo_tabla_izq">Lte. GUIPUZCOA</td>
-<td class="cuerpo_tabla_der">27,61</td>
+<td>A</td>
+<td>15</td>
+<td> </td>
+<td>AUTOVIA DE LEITZARAN</td>
+<td>112,15</td>
+<td>PK 112,15 DE AP-15</td>
+<td>139,76</td>
+<td>Lte. GUIPUZCOA</td>
+<td>27,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AUTOVIA DEL PIRINEO</td>
-<td class="cuerpo_tabla_der">7,56</td>
-<td class="cuerpo_tabla_izq">NOAIN</td>
-<td class="cuerpo_tabla_der">16,49</td>
-<td class="cuerpo_tabla_izq">PK 16,49 DE N-240</td>
-<td class="cuerpo_tabla_der">8,93</td>
+<td>A</td>
+<td>21</td>
+<td> </td>
+<td>AUTOVIA DEL PIRINEO</td>
+<td>7,56</td>
+<td>NOAIN</td>
+<td>16,49</td>
+<td>PK 16,49 DE N-240</td>
+<td>8,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">68</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AUTOVIA DEL EBRO</td>
-<td class="cuerpo_tabla_der">90,98</td>
-<td class="cuerpo_tabla_izq">PK 90,98 DE N-232</td>
-<td class="cuerpo_tabla_der">110,66</td>
-<td class="cuerpo_tabla_izq">PK 110,66 DE N-232</td>
-<td class="cuerpo_tabla_der">19,68</td>
+<td>A</td>
+<td>68</td>
+<td> </td>
+<td>AUTOVIA DEL EBRO</td>
+<td>90,98</td>
+<td>PK 90,98 DE N-232</td>
+<td>110,66</td>
+<td>PK 110,66 DE N-232</td>
+<td>19,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="8">1 TOTAL AUTOVÍAS</td>
-<td class="cuerpo_tabla_der">
+<td colspan="8">1 TOTAL AUTOVÍAS</td>
+<td>
 <strong>171,46</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="9">
+<td colspan="9">
 <strong>VÍAS DESDOBLADAS</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">PA</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">RONDA DE PAMPLONA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,82 DE PA-31</td>
-<td class="cuerpo_tabla_der">8,86</td>
-<td class="cuerpo_tabla_izq">Rtda. HUARTE PAMPLONA</td>
-<td class="cuerpo_tabla_der">8,86</td>
+<td>PA</td>
+<td>30</td>
+<td>1</td>
+<td>RONDA DE PAMPLONA</td>
+<td>0,00</td>
+<td>PK 2,82 DE PA-31</td>
+<td>8,86</td>
+<td>Rtda. HUARTE PAMPLONA</td>
+<td>8,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">PA</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">RONDA DE PAMPLONA</td>
-<td class="cuerpo_tabla_der">12,56</td>
-<td class="cuerpo_tabla_izq">Rtda. EZCABA</td>
-<td class="cuerpo_tabla_der">19,42</td>
-<td class="cuerpo_tabla_izq">Rtda. OFITAS</td>
-<td class="cuerpo_tabla_der">6,86</td>
+<td>PA</td>
+<td>30</td>
+<td>3</td>
+<td>RONDA DE PAMPLONA</td>
+<td>12,56</td>
+<td>Rtda. EZCABA</td>
+<td>19,42</td>
+<td>Rtda. OFITAS</td>
+<td>6,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">PA</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">RONDA DE PAMPLONA</td>
-<td class="cuerpo_tabla_der">21,22</td>
-<td class="cuerpo_tabla_izq">PK 2,66 DE NA-30</td>
-<td class="cuerpo_tabla_der">22,76</td>
-<td class="cuerpo_tabla_izq">Rtda. Final VARIANTE ORKOIEN</td>
-<td class="cuerpo_tabla_der">1,54</td>
+<td>PA</td>
+<td>30</td>
+<td>5</td>
+<td>RONDA DE PAMPLONA</td>
+<td>21,22</td>
+<td>PK 2,66 DE NA-30</td>
+<td>22,76</td>
+<td>Rtda. Final VARIANTE ORKOIEN</td>
+<td>1,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">PA</td>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESOS PAMPLONA SUR-AEROPUERTO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">Lte. PAMPLONA</td>
-<td class="cuerpo_tabla_der">4,10</td>
-<td class="cuerpo_tabla_izq">NOAIN</td>
-<td class="cuerpo_tabla_der">4,10</td>
+<td>PA</td>
+<td>31</td>
+<td> </td>
+<td>ACCESOS PAMPLONA SUR-AEROPUERTO</td>
+<td>0,00</td>
+<td>Lte. PAMPLONA</td>
+<td>4,10</td>
+<td>NOAIN</td>
+<td>4,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">PA</td>
-<td class="cuerpo_tabla_centro">34</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO PAMPLONA OESTE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">Bajo Pte. EROSKI</td>
-<td class="cuerpo_tabla_der">2,69</td>
-<td class="cuerpo_tabla_izq">PK 6,07 DE N-240A</td>
-<td class="cuerpo_tabla_der">2,69</td>
+<td>PA</td>
+<td>34</td>
+<td> </td>
+<td>ACCESO PAMPLONA OESTE</td>
+<td>0,00</td>
+<td>Bajo Pte. EROSKI</td>
+<td>2,69</td>
+<td>PK 6,07 DE N-240A</td>
+<td>2,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="8">2 TOTAL VÍAS DESDOBLADAS</td>
-<td class="cuerpo_tabla_der">
+<td colspan="8">2 TOTAL VÍAS DESDOBLADAS</td>
+<td>
 <strong>24,05</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="9">
+<td colspan="9">
 <strong>CARRETERAS DE ALTAS PRESTACIONES</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">121A</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">PAMPLONA-BEHOBIA</td>
-<td class="cuerpo_tabla_der">6,00</td>
-<td class="cuerpo_tabla_izq">Rtda. EZCABA</td>
-<td class="cuerpo_tabla_der">7,79</td>
-<td class="cuerpo_tabla_izq">Inicio VARIANTE SORAUREN</td>
-<td class="cuerpo_tabla_der">1,79</td>
+<td>N</td>
+<td>121A</td>
+<td>1</td>
+<td>PAMPLONA-BEHOBIA</td>
+<td>6,00</td>
+<td>Rtda. EZCABA</td>
+<td>7,79</td>
+<td>Inicio VARIANTE SORAUREN</td>
+<td>1,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">121A</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">PAMPLONA-BEHOBIA</td>
-<td class="cuerpo_tabla_der">16,60</td>
-<td class="cuerpo_tabla_izq">Inicio VARIANTE OLAGÜE</td>
-<td class="cuerpo_tabla_der">21,42</td>
-<td class="cuerpo_tabla_izq">Final VARIANTE OLAGÜE</td>
-<td class="cuerpo_tabla_der">4,82</td>
+<td>N</td>
+<td>121A</td>
+<td>3</td>
+<td>PAMPLONA-BEHOBIA</td>
+<td>16,60</td>
+<td>Inicio VARIANTE OLAGÜE</td>
+<td>21,42</td>
+<td>Final VARIANTE OLAGÜE</td>
+<td>4,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">121A</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">PAMPLONA-BEHOBIA</td>
-<td class="cuerpo_tabla_der">25,94</td>
-<td class="cuerpo_tabla_izq">VENTAS DE ARRAITZ</td>
-<td class="cuerpo_tabla_der">55,90</td>
-<td class="cuerpo_tabla_izq">IGANTZI</td>
-<td class="cuerpo_tabla_der">29,96</td>
+<td>N</td>
+<td>121A</td>
+<td>5</td>
+<td>PAMPLONA-BEHOBIA</td>
+<td>25,94</td>
+<td>VENTAS DE ARRAITZ</td>
+<td>55,90</td>
+<td>IGANTZI</td>
+<td>29,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">121A</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">PAMPLONA-BEHOBIA</td>
-<td class="cuerpo_tabla_der">65,14</td>
-<td class="cuerpo_tabla_izq">Incio VARIANTE BERA/VERA DE BIDASOA</td>
-<td class="cuerpo_tabla_der">68,02</td>
-<td class="cuerpo_tabla_izq">Final VARIANTE BERA/VERA DE BIDASOA</td>
-<td class="cuerpo_tabla_der">2,82</td>
+<td>N</td>
+<td>121A</td>
+<td>7</td>
+<td>PAMPLONA-BEHOBIA</td>
+<td>65,14</td>
+<td>Incio VARIANTE BERA/VERA DE BIDASOA</td>
+<td>68,02</td>
+<td>Final VARIANTE BERA/VERA DE BIDASOA</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="8">3 TOTAL CARRETERAS DE ALTAS PRESTACIONES</td>
-<td class="cuerpo_tabla_der">
+<td colspan="8">3 TOTAL CARRETERAS DE ALTAS PRESTACIONES</td>
+<td>
 <strong>39,45</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="9">
+<td colspan="9">
 <strong>CARRETERAS DE INTERES GENERAL</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">PA</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">RONDA DE PAMPLONA</td>
-<td class="cuerpo_tabla_der">8,86</td>
-<td class="cuerpo_tabla_izq">Rtda. HUARTE PAMPLONA</td>
-<td class="cuerpo_tabla_der">12,56</td>
-<td class="cuerpo_tabla_izq">Rtda. EZCABA</td>
-<td class="cuerpo_tabla_der">3,70</td>
+<td>PA</td>
+<td>30</td>
+<td>2</td>
+<td>RONDA DE PAMPLONA</td>
+<td>8,86</td>
+<td>Rtda. HUARTE PAMPLONA</td>
+<td>12,56</td>
+<td>Rtda. EZCABA</td>
+<td>3,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">PA</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">RONDA DE PAMPLONA</td>
-<td class="cuerpo_tabla_der">19,42</td>
-<td class="cuerpo_tabla_izq">Rtda. OFITAS</td>
-<td class="cuerpo_tabla_der">21,22</td>
-<td class="cuerpo_tabla_izq">PK 2,66 DE NA-30</td>
-<td class="cuerpo_tabla_der">1,80</td>
+<td>PA</td>
+<td>30</td>
+<td>4</td>
+<td>RONDA DE PAMPLONA</td>
+<td>19,42</td>
+<td>Rtda. OFITAS</td>
+<td>21,22</td>
+<td>PK 2,66 DE NA-30</td>
+<td>1,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">PA</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">RONDA DE PAMPLONA</td>
-<td class="cuerpo_tabla_der">22,76</td>
-<td class="cuerpo_tabla_izq">Rtda. Final VARIANTE ORKOIEN</td>
-<td class="cuerpo_tabla_der">23,24</td>
-<td class="cuerpo_tabla_izq">Pte. ARAZURI (RONDA OESTE)</td>
-<td class="cuerpo_tabla_der">0,48</td>
+<td>PA</td>
+<td>30</td>
+<td>6</td>
+<td>RONDA DE PAMPLONA</td>
+<td>22,76</td>
+<td>Rtda. Final VARIANTE ORKOIEN</td>
+<td>23,24</td>
+<td>Pte. ARAZURI (RONDA OESTE)</td>
+<td>0,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">PA</td>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO PAMPLONA SURESTE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">Rtda. E´LECLERC</td>
-<td class="cuerpo_tabla_der">0,53</td>
-<td class="cuerpo_tabla_izq">PA-31</td>
-<td class="cuerpo_tabla_der">0,53</td>
+<td>PA</td>
+<td>32</td>
+<td> </td>
+<td>ACCESO PAMPLONA SURESTE</td>
+<td>0,00</td>
+<td>Rtda. E´LECLERC</td>
+<td>0,53</td>
+<td>PA-31</td>
+<td>0,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">PA</td>
-<td class="cuerpo_tabla_centro">33</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO PAMPLONA ESTE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">Rtda. MENDILLORRI</td>
-<td class="cuerpo_tabla_der">0,92</td>
-<td class="cuerpo_tabla_izq">Rtda. ARETA</td>
-<td class="cuerpo_tabla_der">0,92</td>
+<td>PA</td>
+<td>33</td>
+<td> </td>
+<td>ACCESO PAMPLONA ESTE</td>
+<td>0,00</td>
+<td>Rtda. MENDILLORRI</td>
+<td>0,92</td>
+<td>Rtda. ARETA</td>
+<td>0,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO LANDABEN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 89,69 DE A-15</td>
-<td class="cuerpo_tabla_der">2,66</td>
-<td class="cuerpo_tabla_izq">PK 21,22 DE PA-30</td>
-<td class="cuerpo_tabla_der">2,66</td>
+<td>NA</td>
+<td>30</td>
+<td> </td>
+<td>ACCESO LANDABEN</td>
+<td>0,00</td>
+<td>PK 89,69 DE A-15</td>
+<td>2,66</td>
+<td>PK 21,22 DE PA-30</td>
+<td>2,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">111</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VIANA-LOGROÑO</td>
-<td class="cuerpo_tabla_der">79,70</td>
-<td class="cuerpo_tabla_izq">VIANA</td>
-<td class="cuerpo_tabla_der">84,61</td>
-<td class="cuerpo_tabla_izq">Lte. LA RIOJA</td>
-<td class="cuerpo_tabla_der">4,91</td>
+<td>N</td>
+<td>111</td>
+<td> </td>
+<td>VIANA-LOGROÑO</td>
+<td>79,70</td>
+<td>VIANA</td>
+<td>84,61</td>
+<td>Lte. LA RIOJA</td>
+<td>4,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">113</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">PAMPLONA-MADRID I</td>
-<td class="cuerpo_tabla_der">72,57</td>
-<td class="cuerpo_tabla_izq">CRUCE DE LOS ABETOS</td>
-<td class="cuerpo_tabla_der">78,85</td>
-<td class="cuerpo_tabla_izq">Lte. LA RIOJA</td>
-<td class="cuerpo_tabla_der">6,28</td>
+<td>N</td>
+<td>113</td>
+<td>1</td>
+<td>PAMPLONA-MADRID I</td>
+<td>72,57</td>
+<td>CRUCE DE LOS ABETOS</td>
+<td>78,85</td>
+<td>Lte. LA RIOJA</td>
+<td>6,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">113</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">PAMPLONA-MADRID II</td>
-<td class="cuerpo_tabla_der">82,34</td>
-<td class="cuerpo_tabla_izq">Lte. LA RIOJA</td>
-<td class="cuerpo_tabla_der">101,37</td>
-<td class="cuerpo_tabla_izq">Lte. LA RIOJA</td>
-<td class="cuerpo_tabla_der">19,03</td>
+<td>N</td>
+<td>113</td>
+<td>2</td>
+<td>PAMPLONA-MADRID II</td>
+<td>82,34</td>
+<td>Lte. LA RIOJA</td>
+<td>101,37</td>
+<td>Lte. LA RIOJA</td>
+<td>19,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">121</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PAMPLONA-TUDELA</td>
-<td class="cuerpo_tabla_der">6,99</td>
-<td class="cuerpo_tabla_izq">PAMPLONA PK 80,85 DE AP-15</td>
-<td class="cuerpo_tabla_der">72,57</td>
-<td class="cuerpo_tabla_izq">CRUCE LOS ABETOS</td>
-<td class="cuerpo_tabla_der">65,58</td>
+<td>N</td>
+<td>121</td>
+<td> </td>
+<td>PAMPLONA-TUDELA</td>
+<td>6,99</td>
+<td>PAMPLONA PK 80,85 DE AP-15</td>
+<td>72,57</td>
+<td>CRUCE LOS ABETOS</td>
+<td>65,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">121A</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">PAMPLONA-BEHOBIA</td>
-<td class="cuerpo_tabla_der">7,79</td>
-<td class="cuerpo_tabla_izq">Inicio VARIANTE SORAUREN</td>
-<td class="cuerpo_tabla_der">16,60</td>
-<td class="cuerpo_tabla_izq">Inicio VARIANTE OLAGÜE</td>
-<td class="cuerpo_tabla_der">8,81</td>
+<td>N</td>
+<td>121A</td>
+<td>2</td>
+<td>PAMPLONA-BEHOBIA</td>
+<td>7,79</td>
+<td>Inicio VARIANTE SORAUREN</td>
+<td>16,60</td>
+<td>Inicio VARIANTE OLAGÜE</td>
+<td>8,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">121A</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">PAMPLONA-BEHOBIA</td>
-<td class="cuerpo_tabla_der">21,42</td>
-<td class="cuerpo_tabla_izq">Final VARIANTE OLAGÜE</td>
-<td class="cuerpo_tabla_der">25,94</td>
-<td class="cuerpo_tabla_izq">VENTAS DE ARRAITZ</td>
-<td class="cuerpo_tabla_der">4,52</td>
+<td>N</td>
+<td>121A</td>
+<td>4</td>
+<td>PAMPLONA-BEHOBIA</td>
+<td>21,42</td>
+<td>Final VARIANTE OLAGÜE</td>
+<td>25,94</td>
+<td>VENTAS DE ARRAITZ</td>
+<td>4,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">121A</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">PAMPLONA-BEHOBIA</td>
-<td class="cuerpo_tabla_der">55,90</td>
-<td class="cuerpo_tabla_izq">IGANTZI</td>
-<td class="cuerpo_tabla_der">65,14</td>
-<td class="cuerpo_tabla_izq">Incio VARIANTE BERA/VERA DE BIDASOA</td>
-<td class="cuerpo_tabla_der">9,24</td>
+<td>N</td>
+<td>121A</td>
+<td>6</td>
+<td>PAMPLONA-BEHOBIA</td>
+<td>55,90</td>
+<td>IGANTZI</td>
+<td>65,14</td>
+<td>Incio VARIANTE BERA/VERA DE BIDASOA</td>
+<td>9,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">121A</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">PAMPLONA-BEHOBIA</td>
-<td class="cuerpo_tabla_der">68,02</td>
-<td class="cuerpo_tabla_izq">Final VARIANTE BERA/VERA DE BIDASOA</td>
-<td class="cuerpo_tabla_der">70,47</td>
-<td class="cuerpo_tabla_izq">Lte. GUIPUZCOA</td>
-<td class="cuerpo_tabla_der">2,45</td>
+<td>N</td>
+<td>121A</td>
+<td>8</td>
+<td>PAMPLONA-BEHOBIA</td>
+<td>68,02</td>
+<td>Final VARIANTE BERA/VERA DE BIDASOA</td>
+<td>70,47</td>
+<td>Lte. GUIPUZCOA</td>
+<td>2,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">121B</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PAMPLONA-FRANCIA (BAZTAN)</td>
-<td class="cuerpo_tabla_der">41,22</td>
-<td class="cuerpo_tabla_izq">PK 41,22 DE N-121A</td>
-<td class="cuerpo_tabla_der">72,96</td>
-<td class="cuerpo_tabla_izq">FRONTERA FRANCIA</td>
-<td class="cuerpo_tabla_der">31,74</td>
+<td>N</td>
+<td>121B</td>
+<td> </td>
+<td>PAMPLONA-FRANCIA (BAZTAN)</td>
+<td>41,22</td>
+<td>PK 41,22 DE N-121A</td>
+<td>72,96</td>
+<td>FRONTERA FRANCIA</td>
+<td>31,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">121C</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TUDELA-TARAZONA</td>
-<td class="cuerpo_tabla_der">1,73</td>
-<td class="cuerpo_tabla_izq">TUDELA (CRUCE A-68)</td>
-<td class="cuerpo_tabla_der">14,69</td>
-<td class="cuerpo_tabla_izq">Lte. ZARAGOZA</td>
-<td class="cuerpo_tabla_der">12,96</td>
+<td>N</td>
+<td>121C</td>
+<td> </td>
+<td>TUDELA-TARAZONA</td>
+<td>1,73</td>
+<td>TUDELA (CRUCE A-68)</td>
+<td>14,69</td>
+<td>Lte. ZARAGOZA</td>
+<td>12,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">135</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PAMPLONA-FRANCIA (LUZAIDE/VALCARLOS)</td>
-<td class="cuerpo_tabla_der">7,35</td>
-<td class="cuerpo_tabla_izq">PK 9,39 DE PA-30</td>
-<td class="cuerpo_tabla_der">66,49</td>
-<td class="cuerpo_tabla_izq">FRONTERA FRANCIA</td>
-<td class="cuerpo_tabla_der">59,14</td>
+<td>N</td>
+<td>135</td>
+<td> </td>
+<td>PAMPLONA-FRANCIA (LUZAIDE/VALCARLOS)</td>
+<td>7,35</td>
+<td>PK 9,39 DE PA-30</td>
+<td>66,49</td>
+<td>FRONTERA FRANCIA</td>
+<td>59,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">232</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">ALFARO-TUDELA-ZARAGOZA</td>
-<td class="cuerpo_tabla_der">82,80</td>
-<td class="cuerpo_tabla_izq">Lte. LA RIOJA</td>
-<td class="cuerpo_tabla_der">90,98</td>
-<td class="cuerpo_tabla_izq">PK 90,98 DE A-68</td>
-<td class="cuerpo_tabla_der">8,18</td>
+<td>N</td>
+<td>232</td>
+<td>1</td>
+<td>ALFARO-TUDELA-ZARAGOZA</td>
+<td>82,80</td>
+<td>Lte. LA RIOJA</td>
+<td>90,98</td>
+<td>PK 90,98 DE A-68</td>
+<td>8,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">232</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">ALFARO-TUDELA-ZARAGOZA</td>
-<td class="cuerpo_tabla_der">110,66</td>
-<td class="cuerpo_tabla_izq">PK 110,66 DE A-68</td>
-<td class="cuerpo_tabla_der">116,84</td>
-<td class="cuerpo_tabla_izq">Lte. ZARAGOZA</td>
-<td class="cuerpo_tabla_der">6,18</td>
+<td>N</td>
+<td>232</td>
+<td>2</td>
+<td>ALFARO-TUDELA-ZARAGOZA</td>
+<td>110,66</td>
+<td>PK 110,66 DE A-68</td>
+<td>116,84</td>
+<td>Lte. ZARAGOZA</td>
+<td>6,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PAMPLONA-HUESCA</td>
-<td class="cuerpo_tabla_der">16,49</td>
-<td class="cuerpo_tabla_izq">PK 16,49 DE A-21</td>
-<td class="cuerpo_tabla_der">52,03</td>
-<td class="cuerpo_tabla_izq">Lte. ZARAGOZA</td>
-<td class="cuerpo_tabla_der">35,54</td>
+<td>N</td>
+<td>240</td>
+<td> </td>
+<td>PAMPLONA-HUESCA</td>
+<td>16,49</td>
+<td>PK 16,49 DE A-21</td>
+<td>52,03</td>
+<td>Lte. ZARAGOZA</td>
+<td>35,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">240A</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">PAMPLONA-VITORIA /GASTEIZ</td>
-<td class="cuerpo_tabla_der">3,69</td>
-<td class="cuerpo_tabla_izq">Rtda. BERRIOZAR</td>
-<td class="cuerpo_tabla_der">5,20</td>
-<td class="cuerpo_tabla_izq">Rtda AIZOAIN</td>
-<td class="cuerpo_tabla_der">1,51</td>
+<td>N</td>
+<td>240A</td>
+<td>1</td>
+<td>PAMPLONA-VITORIA /GASTEIZ</td>
+<td>3,69</td>
+<td>Rtda. BERRIOZAR</td>
+<td>5,20</td>
+<td>Rtda AIZOAIN</td>
+<td>1,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">240A</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">PAMPLONA-VITORIA /GASTEIZ</td>
-<td class="cuerpo_tabla_der">6,07</td>
-<td class="cuerpo_tabla_izq">PK 2,69 DE PA-34</td>
-<td class="cuerpo_tabla_der">20,83</td>
-<td class="cuerpo_tabla_izq">PK 113,84 DE A-15</td>
-<td class="cuerpo_tabla_der">14,76</td>
+<td>N</td>
+<td>240A</td>
+<td>2</td>
+<td>PAMPLONA-VITORIA /GASTEIZ</td>
+<td>6,07</td>
+<td>PK 2,69 DE PA-34</td>
+<td>20,83</td>
+<td>PK 113,84 DE A-15</td>
+<td>14,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="8">4 TOTAL CARRETERAS DE INTERES GENERAL</td>
-<td class="cuerpo_tabla_der">
+<td colspan="8">4 TOTAL CARRETERAS DE INTERES GENERAL</td>
+<td>
 <strong>300,92</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="9">
+<td colspan="9">
 <strong>CARRETERAS DE INTERES DE LA COMUNIDAD FORAL</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">112</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LOS ARCOS-AGONCILLO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 56,54 DE NA-1110</td>
-<td class="cuerpo_tabla_der">14,06</td>
-<td class="cuerpo_tabla_izq">PK 85,04 DE NA-134</td>
-<td class="cuerpo_tabla_der">14,06</td>
+<td>NA</td>
+<td>112</td>
+<td> </td>
+<td>LOS ARCOS-AGONCILLO</td>
+<td>0,00</td>
+<td>PK 56,54 DE NA-1110</td>
+<td>14,06</td>
+<td>PK 85,04 DE NA-134</td>
+<td>14,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">115</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TAFALLA-PERALTA-RINCON DE SOTO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 37,90 DE N-121</td>
-<td class="cuerpo_tabla_der">35,63</td>
-<td class="cuerpo_tabla_izq">Lte. LA RIOJA</td>
-<td class="cuerpo_tabla_der">35,63</td>
+<td>NA</td>
+<td>115</td>
+<td> </td>
+<td>TAFALLA-PERALTA-RINCON DE SOTO</td>
+<td>0,00</td>
+<td>PK 37,90 DE N-121</td>
+<td>35,63</td>
+<td>Lte. LA RIOJA</td>
+<td>35,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ESTELLA-BEASAIN</td>
-<td class="cuerpo_tabla_der">1,09</td>
-<td class="cuerpo_tabla_izq">ESTELLA</td>
-<td class="cuerpo_tabla_der">47,73</td>
-<td class="cuerpo_tabla_izq">Lte. GUIPUZCOA</td>
-<td class="cuerpo_tabla_der">46,64</td>
+<td>NA</td>
+<td>120</td>
+<td> </td>
+<td>ESTELLA-BEASAIN</td>
+<td>1,09</td>
+<td>ESTELLA</td>
+<td>47,73</td>
+<td>Lte. GUIPUZCOA</td>
+<td>46,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">122</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ESTELLA-ANDOSILLA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">ESTELLA</td>
-<td class="cuerpo_tabla_der">35,36</td>
-<td class="cuerpo_tabla_izq">PK 54,43 DE NA-134</td>
-<td class="cuerpo_tabla_der">35,36</td>
+<td>NA</td>
+<td>122</td>
+<td> </td>
+<td>ESTELLA-ANDOSILLA</td>
+<td>0,00</td>
+<td>ESTELLA</td>
+<td>35,36</td>
+<td>PK 54,43 DE NA-134</td>
+<td>35,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">123</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LODOSA-EL VILLAR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">LODOSA</td>
-<td class="cuerpo_tabla_der">7,18</td>
-<td class="cuerpo_tabla_izq">Lte. LA RIOJA</td>
-<td class="cuerpo_tabla_der">7,18</td>
+<td>NA</td>
+<td>123</td>
+<td> </td>
+<td>LODOSA-EL VILLAR</td>
+<td>0,00</td>
+<td>LODOSA</td>
+<td>7,18</td>
+<td>Lte. LA RIOJA</td>
+<td>7,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">125</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TUDELA-EJEA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,45 DE NA-134</td>
-<td class="cuerpo_tabla_der">18,24</td>
-<td class="cuerpo_tabla_izq">Lte. ZARAGOZA</td>
-<td class="cuerpo_tabla_der">18,24</td>
+<td>NA</td>
+<td>125</td>
+<td> </td>
+<td>TUDELA-EJEA</td>
+<td>0,00</td>
+<td>PK 3,45 DE NA-134</td>
+<td>18,24</td>
+<td>Lte. ZARAGOZA</td>
+<td>18,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">126</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TUDELA-TAUSTE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,45DE NA-134</td>
-<td class="cuerpo_tabla_der">22,93</td>
-<td class="cuerpo_tabla_izq">Lte. ZARAGOZA</td>
-<td class="cuerpo_tabla_der">22,93</td>
+<td>NA</td>
+<td>126</td>
+<td> </td>
+<td>TUDELA-TAUSTE</td>
+<td>0,00</td>
+<td>PK 1,45DE NA-134</td>
+<td>22,93</td>
+<td>Lte. ZARAGOZA</td>
+<td>22,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">127</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SANGÜESA-SOS DEL REY CATOLICO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 40,46 DE N-240</td>
-<td class="cuerpo_tabla_der">7,82</td>
-<td class="cuerpo_tabla_izq">Lte. ZARAGOZA</td>
-<td class="cuerpo_tabla_der">7,82</td>
+<td>NA</td>
+<td>127</td>
+<td> </td>
+<td>SANGÜESA-SOS DEL REY CATOLICO</td>
+<td>0,00</td>
+<td>PK 40,46 DE N-240</td>
+<td>7,82</td>
+<td>Lte. ZARAGOZA</td>
+<td>7,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">128</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">PERALTA-CARCASTILLO-Lte.ZARAGOZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 21,78 DE NA-115</td>
-<td class="cuerpo_tabla_der">12,36</td>
-<td class="cuerpo_tabla_izq">PK 55,55 N-121</td>
-<td class="cuerpo_tabla_der">12,36</td>
+<td>NA</td>
+<td>128</td>
+<td>1</td>
+<td>PERALTA-CARCASTILLO-Lte.ZARAGOZA</td>
+<td>0,00</td>
+<td>PK 21,78 DE NA-115</td>
+<td>12,36</td>
+<td>PK 55,55 N-121</td>
+<td>12,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">128</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">PERALTA-CARCASTILLO-Lte.ZARAGOZA</td>
-<td class="cuerpo_tabla_der">12,67</td>
-<td class="cuerpo_tabla_izq">PK 55,86 DE N-121</td>
-<td class="cuerpo_tabla_der">41,62</td>
-<td class="cuerpo_tabla_izq">Lte. ZARAGOZA</td>
-<td class="cuerpo_tabla_der">28,95</td>
+<td>NA</td>
+<td>128</td>
+<td>2</td>
+<td>PERALTA-CARCASTILLO-Lte.ZARAGOZA</td>
+<td>12,67</td>
+<td>PK 55,86 DE N-121</td>
+<td>41,62</td>
+<td>Lte. ZARAGOZA</td>
+<td>28,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">129</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACEDO-LODOSA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 19,60 DE NA-132A</td>
-<td class="cuerpo_tabla_der">34,25</td>
-<td class="cuerpo_tabla_izq">PK 68,54 DE NA-134</td>
-<td class="cuerpo_tabla_der">34,25</td>
+<td>NA</td>
+<td>129</td>
+<td> </td>
+<td>ACEDO-LODOSA</td>
+<td>0,00</td>
+<td>PK 19,60 DE NA-132A</td>
+<td>34,25</td>
+<td>PK 68,54 DE NA-134</td>
+<td>34,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">132</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ESTELLA-TAFALLA-SANGÜESA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 40,18 DE NA-1110</td>
-<td class="cuerpo_tabla_der">74,78</td>
-<td class="cuerpo_tabla_izq">PK 4,25 DE NA-127</td>
-<td class="cuerpo_tabla_der">74,78</td>
+<td>NA</td>
+<td>132</td>
+<td> </td>
+<td>ESTELLA-TAFALLA-SANGÜESA</td>
+<td>0,00</td>
+<td>PK 40,18 DE NA-1110</td>
+<td>74,78</td>
+<td>PK 4,25 DE NA-127</td>
+<td>74,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">132A</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ESTELLA-VITORIA/GASTEIZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK,1,05 DE NA-120</td>
-<td class="cuerpo_tabla_der">27,32</td>
-<td class="cuerpo_tabla_izq">Lte. ALAVA</td>
-<td class="cuerpo_tabla_der">27,32</td>
+<td>NA</td>
+<td>132A</td>
+<td> </td>
+<td>ESTELLA-VITORIA/GASTEIZ</td>
+<td>0,00</td>
+<td>PK,1,05 DE NA-120</td>
+<td>27,32</td>
+<td>Lte. ALAVA</td>
+<td>27,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">132B</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VARIANTE DE IGUZQUIZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 46,80 DE A-12</td>
-<td class="cuerpo_tabla_der">3,46</td>
-<td class="cuerpo_tabla_izq">PK 6,35 DE NA-132A</td>
-<td class="cuerpo_tabla_der">3,46</td>
+<td>NA</td>
+<td>132B</td>
+<td> </td>
+<td>VARIANTE DE IGUZQUIZA</td>
+<td>0,00</td>
+<td>PK 46,80 DE A-12</td>
+<td>3,46</td>
+<td>PK 6,35 DE NA-132A</td>
+<td>3,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">134</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EJE DEL EBRO</td>
-<td class="cuerpo_tabla_der">1,55</td>
-<td class="cuerpo_tabla_izq">TUDELA</td>
-<td class="cuerpo_tabla_der">96,83</td>
-<td class="cuerpo_tabla_izq">Lte. LA RIOJA</td>
-<td class="cuerpo_tabla_der">95,28</td>
+<td>NA</td>
+<td>134</td>
+<td> </td>
+<td>EJE DEL EBRO</td>
+<td>1,55</td>
+<td>TUDELA</td>
+<td>96,83</td>
+<td>Lte. LA RIOJA</td>
+<td>95,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">137</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BURGUI-ISABA</td>
-<td class="cuerpo_tabla_der">12,05</td>
-<td class="cuerpo_tabla_izq">Lte. ZARAGOZA</td>
-<td class="cuerpo_tabla_der">59,47</td>
-<td class="cuerpo_tabla_izq">FRONTERA FRANCIA</td>
-<td class="cuerpo_tabla_der">47,42</td>
+<td>NA</td>
+<td>137</td>
+<td> </td>
+<td>BURGUI-ISABA</td>
+<td>12,05</td>
+<td>Lte. ZARAGOZA</td>
+<td>59,47</td>
+<td>FRONTERA FRANCIA</td>
+<td>47,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">138</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PAMPLONA-FRANCIA (ALDUIDES)</td>
-<td class="cuerpo_tabla_der">21,00</td>
-<td class="cuerpo_tabla_izq">PK 21,00 DE N-135</td>
-<td class="cuerpo_tabla_der">46,48</td>
-<td class="cuerpo_tabla_izq">FRONTERA FRANCIA</td>
-<td class="cuerpo_tabla_der">25,48</td>
+<td>NA</td>
+<td>138</td>
+<td> </td>
+<td>PAMPLONA-FRANCIA (ALDUIDES)</td>
+<td>21,00</td>
+<td>PK 21,00 DE N-135</td>
+<td>46,48</td>
+<td>FRONTERA FRANCIA</td>
+<td>25,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">140</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AURITZ/BURGUETE-ISABA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 42,70 DE N-135</td>
-<td class="cuerpo_tabla_der">57,87</td>
-<td class="cuerpo_tabla_izq">ISABA</td>
-<td class="cuerpo_tabla_der">57,87</td>
+<td>NA</td>
+<td>140</td>
+<td> </td>
+<td>AURITZ/BURGUETE-ISABA</td>
+<td>0,00</td>
+<td>PK 42,70 DE N-135</td>
+<td>57,87</td>
+<td>ISABA</td>
+<td>57,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">150</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PAMPLONA-AOIZ-LUMBIER</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,97 DE PA-30</td>
-<td class="cuerpo_tabla_der">40,74</td>
-<td class="cuerpo_tabla_izq">PK 34,42 DE N-240</td>
-<td class="cuerpo_tabla_der">40,74</td>
+<td>NA</td>
+<td>150</td>
+<td> </td>
+<td>PAMPLONA-AOIZ-LUMBIER</td>
+<td>0,00</td>
+<td>PK 7,97 DE PA-30</td>
+<td>40,74</td>
+<td>PK 34,42 DE N-240</td>
+<td>40,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TUDELA-FITERO</td>
-<td class="cuerpo_tabla_der">1,06</td>
-<td class="cuerpo_tabla_izq">TUDELA (CRUCE A-68)</td>
-<td class="cuerpo_tabla_der">27,29</td>
-<td class="cuerpo_tabla_izq">Lte.LA RIOJA</td>
-<td class="cuerpo_tabla_der">26,23</td>
+<td>NA</td>
+<td>160</td>
+<td> </td>
+<td>TUDELA-FITERO</td>
+<td>1,06</td>
+<td>TUDELA (CRUCE A-68)</td>
+<td>27,29</td>
+<td>Lte.LA RIOJA</td>
+<td>26,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">161</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CORELLA-RINCON DE SOTO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 18,17 DE NA-160</td>
-<td class="cuerpo_tabla_der">8,09</td>
-<td class="cuerpo_tabla_izq">Lte. LA RIOJA</td>
-<td class="cuerpo_tabla_der">8,09</td>
+<td>NA</td>
+<td>161</td>
+<td> </td>
+<td>CORELLA-RINCON DE SOTO</td>
+<td>0,00</td>
+<td>PK 18,17 DE NA-160</td>
+<td>8,09</td>
+<td>Lte. LA RIOJA</td>
+<td>8,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">170</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">A 15-DONEZTEBE/SANTESTEBAN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 138,54 DE A-15</td>
-<td class="cuerpo_tabla_der">32,49</td>
-<td class="cuerpo_tabla_izq">PK 24,94 DE NA-1210</td>
-<td class="cuerpo_tabla_der">32,49</td>
+<td>NA</td>
+<td>170</td>
+<td> </td>
+<td>A 15-DONEZTEBE/SANTESTEBAN</td>
+<td>0,00</td>
+<td>PK 138,54 DE A-15</td>
+<td>32,49</td>
+<td>PK 24,94 DE NA-1210</td>
+<td>32,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">176</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GARDE-ANSO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 24,34 DE NA-137</td>
-<td class="cuerpo_tabla_der">11,86</td>
-<td class="cuerpo_tabla_izq">Lte. HUESCA</td>
-<td class="cuerpo_tabla_der">11,86</td>
+<td>NA</td>
+<td>176</td>
+<td> </td>
+<td>GARDE-ANSO</td>
+<td>0,00</td>
+<td>PK 24,34 DE NA-137</td>
+<td>11,86</td>
+<td>Lte. HUESCA</td>
+<td>11,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">178</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LUMBIER-NAVASCUES-EZCAROZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 36,94 DE NA-150</td>
-<td class="cuerpo_tabla_der">44,74</td>
-<td class="cuerpo_tabla_izq">PK 32,15 DE NA-140</td>
-<td class="cuerpo_tabla_der">44,74</td>
+<td>NA</td>
+<td>178</td>
+<td> </td>
+<td>LUMBIER-NAVASCUES-EZCAROZ</td>
+<td>0,00</td>
+<td>PK 36,94 DE NA-150</td>
+<td>44,74</td>
+<td>PK 32,15 DE NA-140</td>
+<td>44,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">214</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">NAVASCUES-BURGUI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 22,25 DE NA-178</td>
-<td class="cuerpo_tabla_der">15,25</td>
-<td class="cuerpo_tabla_izq">PK 15,30 DE NA-137</td>
-<td class="cuerpo_tabla_der">15,25</td>
+<td>NA</td>
+<td>214</td>
+<td> </td>
+<td>NAVASCUES-BURGUI</td>
+<td>0,00</td>
+<td>PK 22,25 DE NA-178</td>
+<td>15,25</td>
+<td>PK 15,30 DE NA-137</td>
+<td>15,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">234</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CAMPANAS-URROZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 12,85 DE N-121</td>
-<td class="cuerpo_tabla_der">19,09</td>
-<td class="cuerpo_tabla_izq">PK 13,67 DE NA-150</td>
-<td class="cuerpo_tabla_der">19,09</td>
+<td>NA</td>
+<td>234</td>
+<td> </td>
+<td>CAMPANAS-URROZ</td>
+<td>0,00</td>
+<td>PK 12,85 DE N-121</td>
+<td>19,09</td>
+<td>PK 13,67 DE NA-150</td>
+<td>19,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">411</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">A 15-OSTIZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,51 DE NA-1300</td>
-<td class="cuerpo_tabla_der">28,53</td>
-<td class="cuerpo_tabla_izq">PK 15,05 DE N-121A</td>
-<td class="cuerpo_tabla_der">28,53</td>
+<td>NA</td>
+<td>411</td>
+<td> </td>
+<td>A 15-OSTIZ</td>
+<td>0,00</td>
+<td>PK 5,51 DE NA-1300</td>
+<td>28,53</td>
+<td>PK 15,05 DE N-121A</td>
+<td>28,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">534</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">VENTA JUDAS-AIBAR-CARCASTILLO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 34,42 DE N-240</td>
-<td class="cuerpo_tabla_der">7,80</td>
-<td class="cuerpo_tabla_izq">PK 68,03 DE NA-132</td>
-<td class="cuerpo_tabla_der">7,80</td>
+<td>NA</td>
+<td>534</td>
+<td>1</td>
+<td>VENTA JUDAS-AIBAR-CARCASTILLO</td>
+<td>0,00</td>
+<td>PK 34,42 DE N-240</td>
+<td>7,80</td>
+<td>PK 68,03 DE NA-132</td>
+<td>7,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">534</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">VENTA JUDAS-AIBAR-CARCASTILLO</td>
-<td class="cuerpo_tabla_der">7,99</td>
-<td class="cuerpo_tabla_izq">PK 67,84 DE NA-132</td>
-<td class="cuerpo_tabla_der">39,50</td>
-<td class="cuerpo_tabla_izq">CARCASTILLO</td>
-<td class="cuerpo_tabla_der">31,51</td>
+<td>NA</td>
+<td>534</td>
+<td>2</td>
+<td>VENTA JUDAS-AIBAR-CARCASTILLO</td>
+<td>7,99</td>
+<td>PK 67,84 DE NA-132</td>
+<td>39,50</td>
+<td>CARCASTILLO</td>
+<td>31,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">601</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">CAMPANAS-LERIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 16,43 DE N-121</td>
-<td class="cuerpo_tabla_der">12,13</td>
-<td class="cuerpo_tabla_izq">PK 13,32 DE NA-1110</td>
-<td class="cuerpo_tabla_der">12,13</td>
+<td>NA</td>
+<td>601</td>
+<td>1</td>
+<td>CAMPANAS-LERIN</td>
+<td>0,00</td>
+<td>PK 16,43 DE N-121</td>
+<td>12,13</td>
+<td>PK 13,32 DE NA-1110</td>
+<td>12,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">601</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">CAMPANAS-LERIN</td>
-<td class="cuerpo_tabla_der">17,54</td>
-<td class="cuerpo_tabla_izq">PK 17,81 DE N-1110</td>
-<td class="cuerpo_tabla_der">30,14</td>
-<td class="cuerpo_tabla_izq">PK 18,77 DE NA-132</td>
-<td class="cuerpo_tabla_der">12,60</td>
+<td>NA</td>
+<td>601</td>
+<td>2</td>
+<td>CAMPANAS-LERIN</td>
+<td>17,54</td>
+<td>PK 17,81 DE N-1110</td>
+<td>30,14</td>
+<td>PK 18,77 DE NA-132</td>
+<td>12,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">601</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">CAMPANAS-LERIN</td>
-<td class="cuerpo_tabla_der">31,00</td>
-<td class="cuerpo_tabla_izq">PK 17,91 DE NA-132</td>
-<td class="cuerpo_tabla_der">47,10</td>
-<td class="cuerpo_tabla_izq">PK 21,69 DE NA-122</td>
-<td class="cuerpo_tabla_der">16,10</td>
+<td>NA</td>
+<td>601</td>
+<td>3</td>
+<td>CAMPANAS-LERIN</td>
+<td>31,00</td>
+<td>PK 17,91 DE NA-132</td>
+<td>47,10</td>
+<td>PK 21,69 DE NA-122</td>
+<td>16,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">624</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PERALTA-ANDOSILLA</td>
-<td class="cuerpo_tabla_der">1,53</td>
-<td class="cuerpo_tabla_izq">PK 25,00 DE NA-115</td>
-<td class="cuerpo_tabla_der">13,55</td>
-<td class="cuerpo_tabla_izq">PK 34,40 DE NA-122</td>
-<td class="cuerpo_tabla_der">12,02</td>
+<td>NA</td>
+<td>624</td>
+<td> </td>
+<td>PERALTA-ANDOSILLA</td>
+<td>1,53</td>
+<td>PK 25,00 DE NA-115</td>
+<td>13,55</td>
+<td>PK 34,40 DE NA-122</td>
+<td>12,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">653</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALTOS DE PERALTA-SAN ADRIAN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 8,01 DE NA-624</td>
-<td class="cuerpo_tabla_der">4,19</td>
-<td class="cuerpo_tabla_izq">PK 48,74 DE NA-134</td>
-<td class="cuerpo_tabla_der">4,19</td>
+<td>NA</td>
+<td>653</td>
+<td> </td>
+<td>ALTOS DE PERALTA-SAN ADRIAN</td>
+<td>0,00</td>
+<td>PK 8,01 DE NA-624</td>
+<td>4,19</td>
+<td>PK 48,74 DE NA-134</td>
+<td>4,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">660</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VENTA DE ARLAS-CADREITA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 18,16 DE NA-115</td>
-<td class="cuerpo_tabla_der">18,12</td>
-<td class="cuerpo_tabla_izq">PK 25,64 DE NA-134</td>
-<td class="cuerpo_tabla_der">18,12</td>
+<td>NA</td>
+<td>660</td>
+<td> </td>
+<td>VENTA DE ARLAS-CADREITA</td>
+<td>0,00</td>
+<td>PK 18,16 DE NA-115</td>
+<td>18,12</td>
+<td>PK 25,64 DE NA-134</td>
+<td>18,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">666</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALLO-SESMA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 11,56 DE NA-122</td>
-<td class="cuerpo_tabla_der">11,84</td>
-<td class="cuerpo_tabla_izq">PK 26,00 DE NA-129</td>
-<td class="cuerpo_tabla_der">11,84</td>
+<td>NA</td>
+<td>666</td>
+<td> </td>
+<td>ALLO-SESMA</td>
+<td>0,00</td>
+<td>PK 11,56 DE NA-122</td>
+<td>11,84</td>
+<td>PK 26,00 DE NA-129</td>
+<td>11,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">700</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">PAMPLONA-ESTELLA (ETXAURI)</td>
-<td class="cuerpo_tabla_der">2,34</td>
-<td class="cuerpo_tabla_izq">Lte. PAMPLONA</td>
-<td class="cuerpo_tabla_der">4,50</td>
-<td class="cuerpo_tabla_izq">PA-30</td>
-<td class="cuerpo_tabla_der">2,16</td>
+<td>NA</td>
+<td>700</td>
+<td>1</td>
+<td>PAMPLONA-ESTELLA (ETXAURI)</td>
+<td>2,34</td>
+<td>Lte. PAMPLONA</td>
+<td>4,50</td>
+<td>PA-30</td>
+<td>2,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">700</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">PAMPLONA-ESTELLA (ETXAURI)</td>
-<td class="cuerpo_tabla_der">5,06</td>
-<td class="cuerpo_tabla_izq">Pte. ARAZURI (RONDA OESTE)</td>
-<td class="cuerpo_tabla_der">42,78</td>
-<td class="cuerpo_tabla_izq">PK 3,93 DE NA-120</td>
-<td class="cuerpo_tabla_der">37,72</td>
+<td>NA</td>
+<td>700</td>
+<td>2</td>
+<td>PAMPLONA-ESTELLA (ETXAURI)</td>
+<td>5,06</td>
+<td>Pte. ARAZURI (RONDA OESTE)</td>
+<td>42,78</td>
+<td>PK 3,93 DE NA-120</td>
+<td>37,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">718</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ESTELLA-OLAZTI/OLAZAGUTIA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,30 DE NA-132A</td>
-<td class="cuerpo_tabla_der">38,70</td>
-<td class="cuerpo_tabla_izq">OLAZTI/OLAZAGUTIA</td>
-<td class="cuerpo_tabla_der">38,70</td>
+<td>NA</td>
+<td>718</td>
+<td> </td>
+<td>ESTELLA-OLAZTI/OLAZAGUTIA</td>
+<td>0,00</td>
+<td>PK 1,30 DE NA-132A</td>
+<td>38,70</td>
+<td>OLAZTI/OLAZAGUTIA</td>
+<td>38,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">743</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GENEVILLA-MARAÑON</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">Lte. ALAVA</td>
-<td class="cuerpo_tabla_der">8,89</td>
-<td class="cuerpo_tabla_izq">Lte. ALAVA</td>
-<td class="cuerpo_tabla_der">8,89</td>
+<td>NA</td>
+<td>743</td>
+<td> </td>
+<td>GENEVILLA-MARAÑON</td>
+<td>0,00</td>
+<td>Lte. ALAVA</td>
+<td>8,89</td>
+<td>Lte. ALAVA</td>
+<td>8,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="8"><em>5</em> TOTAL CARRETERAS DE INTERES DE LA COMUNIDAD FORAL</td>
-<td class="cuerpo_tabla_der">
+<td colspan="8"><em>5</em> TOTAL CARRETERAS DE INTERES DE LA COMUNIDAD FORAL</td>
+<td>
 <strong>1.035,83</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="9">
+<td colspan="9">
 <strong>CARRETERAS LOCALES</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">1000</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALTSASU/ALSASUA-Lte. GUIPUZCOA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 399,00 DE A-1</td>
-<td class="cuerpo_tabla_der">6,60</td>
-<td class="cuerpo_tabla_izq">Lte. GUIPUZCOA</td>
-<td class="cuerpo_tabla_der">6,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">1001</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALTSASU/ALSASUA-ZEGAMA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,20 DE NA-1000</td>
-<td class="cuerpo_tabla_der">0,69</td>
-<td class="cuerpo_tabla_izq">Lte. GUIPUZCOA</td>
-<td class="cuerpo_tabla_der">0,69</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">1110</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GALAR-VIANA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,57 DE A-12</td>
-<td class="cuerpo_tabla_der">74,55</td>
-<td class="cuerpo_tabla_izq">VIANA</td>
-<td class="cuerpo_tabla_der">74,55</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">1210</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">PUERTO DE BELATE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 27,14 DE N-121A</td>
-<td class="cuerpo_tabla_der">15,70</td>
-<td class="cuerpo_tabla_izq">PK 37,11 DE N-121A</td>
-<td class="cuerpo_tabla_der">15,70</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">1210</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">PUERTO DE BELATE</td>
-<td class="cuerpo_tabla_der">17,14</td>
-<td class="cuerpo_tabla_izq">PK 39,78 DE N-121A</td>
-<td class="cuerpo_tabla_der">25,05</td>
-<td class="cuerpo_tabla_izq">PK 46,85 DE N-121A</td>
-<td class="cuerpo_tabla_der">7,91</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">1210</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">PUERTO DE BELATE</td>
-<td class="cuerpo_tabla_der">27,60</td>
-<td class="cuerpo_tabla_izq">PK 49,38 DE N-121A</td>
-<td class="cuerpo_tabla_der">35,55</td>
-<td class="cuerpo_tabla_izq">PK 54,55 DE N-121A</td>
-<td class="cuerpo_tabla_der">7,95</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">1240</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAIBUENAS-SANTACARA- CARCASTILLO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 53,51 DE N-121</td>
-<td class="cuerpo_tabla_der">18,77</td>
-<td class="cuerpo_tabla_izq">CARCASTILLO</td>
-<td class="cuerpo_tabla_der">18,77</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">1300</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IRURTZUN- Lte.GUIPUZCOA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 20,81 DE N-240A</td>
-<td class="cuerpo_tabla_der">30,68</td>
-<td class="cuerpo_tabla_izq">Lte. GUIPUZCOA</td>
-<td class="cuerpo_tabla_der">30,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">1310</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BERA/VERA DE BIDASOA-FRANCIA (IBARDIN)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,08 NA-8304</td>
-<td class="cuerpo_tabla_der">6,47</td>
-<td class="cuerpo_tabla_izq">FRONTERA FRANCIA</td>
-<td class="cuerpo_tabla_der">6,47</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">1320</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARESO-MUGA DE GUIPUZCOA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,49 DE NA-170</td>
-<td class="cuerpo_tabla_der">1,29</td>
-<td class="cuerpo_tabla_izq">Lte. GUIPUZCOA</td>
-<td class="cuerpo_tabla_der">1,29</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">1700</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LEKUNBERRI-LEITZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 15,09 DE NA-1300</td>
-<td class="cuerpo_tabla_der">11,73</td>
-<td class="cuerpo_tabla_izq">PK 3,11 DE NA-170</td>
-<td class="cuerpo_tabla_der">11,73</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">1720</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AOIZ-AURITZ/BURGUETE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 18,21 DE NA 150</td>
-<td class="cuerpo_tabla_der">29,53</td>
-<td class="cuerpo_tabla_izq">PK 42,16 DE N-135</td>
-<td class="cuerpo_tabla_der">29,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">1740</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IRURITA-EUGI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 47,40 N-121B</td>
-<td class="cuerpo_tabla_der">22,43</td>
-<td class="cuerpo_tabla_izq">PK 32,60 DE NA-138</td>
-<td class="cuerpo_tabla_der">22,43</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2000</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ISABA-ZURIZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,17 DE NA-1370</td>
-<td class="cuerpo_tabla_der">9,35</td>
-<td class="cuerpo_tabla_izq">Lte. HUESCA</td>
-<td class="cuerpo_tabla_der">9,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2011</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SALAZAR-FRANCIA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 42,82 DE NA-140</td>
-<td class="cuerpo_tabla_der">10,83</td>
-<td class="cuerpo_tabla_izq">FRONTERA FRANCIA</td>
-<td class="cuerpo_tabla_der">10,83</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2012</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CUATRO BORDAS-IRATI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 34,21 DE NA-140</td>
-<td class="cuerpo_tabla_der">23,56</td>
-<td class="cuerpo_tabla_izq">MONTE IRATI</td>
-<td class="cuerpo_tabla_der">23,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2013</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MUSKILDA (ERMITA)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 34,93 DE NA-140</td>
-<td class="cuerpo_tabla_der">4,10</td>
-<td class="cuerpo_tabla_izq">ERMITA</td>
-<td class="cuerpo_tabla_der">4,10</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2021</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">REMENDIA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 23,54 DE NA-140</td>
-<td class="cuerpo_tabla_der">3,30</td>
-<td class="cuerpo_tabla_izq">REMENDIA</td>
-<td class="cuerpo_tabla_der">3,30</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2022</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ABAURREPEA/ABAURREA BAJA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 15,48 DE NA-140</td>
-<td class="cuerpo_tabla_der">0,98</td>
-<td class="cuerpo_tabla_izq">ABAURREPEA /ABAURREA BAJA</td>
-<td class="cuerpo_tabla_der">0,98</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2023</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">HIRIBERRI/VILLANUEVA DE AEZKOA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,58 DE NA-140</td>
-<td class="cuerpo_tabla_der">3,26</td>
-<td class="cuerpo_tabla_izq">HIRIBERRI/VILLANUEVA DE AEZKOA</td>
-<td class="cuerpo_tabla_der">3,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2030</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARIBE-ORBAITZETAKO OLA/FABRICA DE ORBAITZETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,00 DE NA-140</td>
-<td class="cuerpo_tabla_der">10,97</td>
-<td class="cuerpo_tabla_izq">ORBAITZETAKO OLA/FARICA DE ORBAICETA</td>
-<td class="cuerpo_tabla_der">10,97</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2031</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARIA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,35 DE NA-2030</td>
-<td class="cuerpo_tabla_der">1,76</td>
-<td class="cuerpo_tabla_izq">ARIA</td>
-<td class="cuerpo_tabla_der">1,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2033</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ORTZANZURIETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 48,77 DE N-135</td>
-<td class="cuerpo_tabla_der">6,23</td>
-<td class="cuerpo_tabla_izq">TV ORTZANZURIETA</td>
-<td class="cuerpo_tabla_der">6,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2040</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ITOIZ-GARRALDA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 15,27 DE NA-1720</td>
-<td class="cuerpo_tabla_der">16,64</td>
-<td class="cuerpo_tabla_izq">PK 7,03 DE NA-140</td>
-<td class="cuerpo_tabla_der">16,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2041</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EKAI DE LONGUIDA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,07 DE NA-1720</td>
-<td class="cuerpo_tabla_der">0,62</td>
-<td class="cuerpo_tabla_izq">EKAI DE LONGUIDA</td>
-<td class="cuerpo_tabla_der">0,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2042</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARRIETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 22,48 DE NA-1720</td>
-<td class="cuerpo_tabla_der">1,27</td>
-<td class="cuerpo_tabla_izq">ARRIETA</td>
-<td class="cuerpo_tabla_der">1,27</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2043</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VILLANUEVA DE ARCE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,10 DE NA-2042</td>
-<td class="cuerpo_tabla_der">1,16</td>
-<td class="cuerpo_tabla_izq">VILLANUEVA DE ARCE</td>
-<td class="cuerpo_tabla_der">1,16</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2045</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AZPARREN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,14 DE NA-2040</td>
-<td class="cuerpo_tabla_der">3,33</td>
-<td class="cuerpo_tabla_izq">AZPARREN</td>
-<td class="cuerpo_tabla_der">3,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2100</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VALLE DE URRAUL ALTO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 32,09 DE NA-150</td>
-<td class="cuerpo_tabla_der">20,89</td>
-<td class="cuerpo_tabla_izq">ELCOAZ</td>
-<td class="cuerpo_tabla_der">20,89</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2101</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SANSOAIN (RAMAL)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 27,90 DE NA-150</td>
-<td class="cuerpo_tabla_der">2,37</td>
-<td class="cuerpo_tabla_izq">PK 4,38 DE NA-2100</td>
-<td class="cuerpo_tabla_der">2,37</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2102</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OZCOIDI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,77 DE NA-2100</td>
-<td class="cuerpo_tabla_der">0,66</td>
-<td class="cuerpo_tabla_izq">OZCOIDI</td>
-<td class="cuerpo_tabla_der">0,66</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2103</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ADOAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 8,84 DE NA-2100</td>
-<td class="cuerpo_tabla_der">12,25</td>
-<td class="cuerpo_tabla_izq">ADOAIN</td>
-<td class="cuerpo_tabla_der">12,25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2104</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZABALZA (URRAUL ALTO)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,84 DE NA-2103</td>
-<td class="cuerpo_tabla_der">0,75</td>
-<td class="cuerpo_tabla_izq">ZABALZA</td>
-<td class="cuerpo_tabla_der">0,75</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2105</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AYECHU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 17,76 DE NA-2100</td>
-<td class="cuerpo_tabla_der">2,01</td>
-<td class="cuerpo_tabla_izq">AYECHU</td>
-<td class="cuerpo_tabla_der">2,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2110</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARBONIES - MURILLO-BERROYA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,88 DE NA-178</td>
-<td class="cuerpo_tabla_der">3,73</td>
-<td class="cuerpo_tabla_izq">MURILLO-BERROYA</td>
-<td class="cuerpo_tabla_der">3,73</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2111</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARBONIES (RAMAL)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,62 DE NA-2110</td>
-<td class="cuerpo_tabla_der">0,15</td>
-<td class="cuerpo_tabla_izq">ARBONIES</td>
-<td class="cuerpo_tabla_der">0,15</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2112</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ASPURZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 17,36 DE NA-178</td>
-<td class="cuerpo_tabla_der">1,12</td>
-<td class="cuerpo_tabla_izq">ASPURZ</td>
-<td class="cuerpo_tabla_der">1,12</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2113</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LEYRE (MONASTERIO)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 46,69 DE N-240</td>
-<td class="cuerpo_tabla_der">3,98</td>
-<td class="cuerpo_tabla_izq">MONASTERIO DE LEYRE</td>
-<td class="cuerpo_tabla_der">3,98</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2114</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LEYRE (CLAUSURA)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,44 DE NA-2113</td>
-<td class="cuerpo_tabla_der">0,57</td>
-<td class="cuerpo_tabla_izq">INTERIOR MONASTERIO</td>
-<td class="cuerpo_tabla_der">0,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2121</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">USCARRES-ICIZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 30,61 DE NA-178</td>
-<td class="cuerpo_tabla_der">1,28</td>
-<td class="cuerpo_tabla_izq">ICIZ</td>
-<td class="cuerpo_tabla_der">1,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2122</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GALLUES-IZAL</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 31,92 DE NA-178</td>
-<td class="cuerpo_tabla_der">4,23</td>
-<td class="cuerpo_tabla_izq">IZAL</td>
-<td class="cuerpo_tabla_der">4,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2123</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SARRIES-IBILCIETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 38,19 DE NA-178</td>
-<td class="cuerpo_tabla_der">0,35</td>
-<td class="cuerpo_tabla_izq">IBILCIETA</td>
-<td class="cuerpo_tabla_der">0,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2124</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE USTES</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 27,24 DE NA-178</td>
-<td class="cuerpo_tabla_der">0,51</td>
-<td class="cuerpo_tabla_izq">PK 27,75 DE NA-178</td>
-<td class="cuerpo_tabla_der">0,51</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2130</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GÜESA-VIDANGOZ-BURGUI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 34,25 DE NA-178</td>
-<td class="cuerpo_tabla_der">18,52</td>
-<td class="cuerpo_tabla_izq">PK 15,47 DE NA-137</td>
-<td class="cuerpo_tabla_der">18,52</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2131</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">RONCAL (CEMENTERIO)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 26,08 DE NA-137</td>
-<td class="cuerpo_tabla_der">0,73</td>
-<td class="cuerpo_tabla_izq">MAUSOLEO GARRAYE</td>
-<td class="cuerpo_tabla_der">0,73</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2132</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO A VIDANGOZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 8,54 DE NA-2130</td>
-<td class="cuerpo_tabla_der">0,32</td>
-<td class="cuerpo_tabla_izq">VIDANGOZ</td>
-<td class="cuerpo_tabla_der">0,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2151</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EPAROZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 12,26 DE NA-2100</td>
-<td class="cuerpo_tabla_der">0,57</td>
-<td class="cuerpo_tabla_izq">EPAROZ</td>
-<td class="cuerpo_tabla_der">0,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2152</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">NARDUES-ANDURRA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,30 DE NA-2100</td>
-<td class="cuerpo_tabla_der">1,55</td>
-<td class="cuerpo_tabla_izq">NARDUES-ANDURRA</td>
-<td class="cuerpo_tabla_der">1,55</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2161</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">USUN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,97 DE NA-178</td>
-<td class="cuerpo_tabla_der">2,61</td>
-<td class="cuerpo_tabla_izq">USUN</td>
-<td class="cuerpo_tabla_der">2,61</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2162</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ORRADRE-NAPAL</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,77 DE NA-178</td>
-<td class="cuerpo_tabla_der">3,96</td>
-<td class="cuerpo_tabla_izq">NAPAL</td>
-<td class="cuerpo_tabla_der">3,96</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2166</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ONGOZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 16,07 DE NA-2100</td>
-<td class="cuerpo_tabla_der">0,32</td>
-<td class="cuerpo_tabla_izq">ONGOZ</td>
-<td class="cuerpo_tabla_der">0,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2200</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BIGÜEZAL-CASTILLO NUEVO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 14,29 DE NA-178</td>
-<td class="cuerpo_tabla_der">15,41</td>
-<td class="cuerpo_tabla_izq">Lte. ZARAGOZA</td>
-<td class="cuerpo_tabla_der">15,41</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2201</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARANGOITI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,93 DE NA-2200</td>
-<td class="cuerpo_tabla_der">9,29</td>
-<td class="cuerpo_tabla_izq">MONTE ARANGOITI</td>
-<td class="cuerpo_tabla_der">9,29</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2220</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">RONCAL (CAMINEROS)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 26,29 DE NA-137</td>
-<td class="cuerpo_tabla_der">0,10</td>
-<td class="cuerpo_tabla_izq">CAMINEROS RONCAL</td>
-<td class="cuerpo_tabla_der">0,10</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2300</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">POLIGONO ARETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,58 DE PA-30</td>
-<td class="cuerpo_tabla_der">0,90</td>
-<td class="cuerpo_tabla_izq">POLIGONO DE ARETA</td>
-<td class="cuerpo_tabla_der">0,90</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2303</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MENDILLORRI-BADOSTAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,80 DE N-135</td>
-<td class="cuerpo_tabla_der">3,32</td>
-<td class="cuerpo_tabla_izq">BADOSTAIN</td>
-<td class="cuerpo_tabla_der">3,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2304</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MUTILVA BAJA</td>
-<td class="cuerpo_tabla_der">0,59</td>
-<td class="cuerpo_tabla_izq">PAMPLONA</td>
-<td class="cuerpo_tabla_der">2,14</td>
-<td class="cuerpo_tabla_izq">MUTILVA BAJA</td>
-<td class="cuerpo_tabla_der">1,55</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2305</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MUTILVA ALTA</td>
-<td class="cuerpo_tabla_der">0,86</td>
-<td class="cuerpo_tabla_izq">PAMPLONA</td>
-<td class="cuerpo_tabla_der">1,40</td>
-<td class="cuerpo_tabla_izq">MUTILVA ALTA</td>
-<td class="cuerpo_tabla_der">0,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2306</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO A BURLADA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,76 DE NA-2300</td>
-<td class="cuerpo_tabla_der">0,67</td>
-<td class="cuerpo_tabla_izq">BURLADA</td>
-<td class="cuerpo_tabla_der">0,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2310</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VALLE DE ARANGUREN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PAMPLONA</td>
-<td class="cuerpo_tabla_der">21,36</td>
-<td class="cuerpo_tabla_izq">PK 3,08 DE PA-30</td>
-<td class="cuerpo_tabla_der">21,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2311</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE TAJONAR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,86 DE NA-2310</td>
-<td class="cuerpo_tabla_der">1,39</td>
-<td class="cuerpo_tabla_izq">PK 5,09 DE NA-231</td>
-<td class="cuerpo_tabla_der">1,39</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2312</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GONGORA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 11,33 DE NA-2310</td>
-<td class="cuerpo_tabla_der">0,24</td>
-<td class="cuerpo_tabla_izq">GONGORA</td>
-<td class="cuerpo_tabla_der">0,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2313</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LAQUIDAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,10 DE NA-2310</td>
-<td class="cuerpo_tabla_der">1,20</td>
-<td class="cuerpo_tabla_izq">LAQUIDAIN</td>
-<td class="cuerpo_tabla_der">1,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2314</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARANGUREN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 14,80 DE NA-2310</td>
-<td class="cuerpo_tabla_der">0,22</td>
-<td class="cuerpo_tabla_izq">ARANGUREN</td>
-<td class="cuerpo_tabla_der">0,22</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2315</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARDANAZ DE EGÜES</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 18,06 DE NA-2310</td>
-<td class="cuerpo_tabla_der">0,87</td>
-<td class="cuerpo_tabla_izq">ARDANAZ DE EGÜES</td>
-<td class="cuerpo_tabla_der">0,87</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2316</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZULUETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,38 DE NA-2420</td>
-<td class="cuerpo_tabla_der">0,68</td>
-<td class="cuerpo_tabla_izq">ZULUETA</td>
-<td class="cuerpo_tabla_der">0,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2317</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LABIANO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,86 DE NA 2310</td>
-<td class="cuerpo_tabla_der">0,24</td>
-<td class="cuerpo_tabla_izq">LABIANO</td>
-<td class="cuerpo_tabla_der">0,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2318</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ELORZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,12 DE NA-2420</td>
-<td class="cuerpo_tabla_der">0,28</td>
-<td class="cuerpo_tabla_izq">ELORZ</td>
-<td class="cuerpo_tabla_der">0,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2319</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE ZOLINA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,16 DE NA-2310</td>
-<td class="cuerpo_tabla_der">0,90</td>
-<td class="cuerpo_tabla_izq">PK 6,97 DE NA-2310</td>
-<td class="cuerpo_tabla_der">0,90</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2320</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE LABIANO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,55 DE NA-2310</td>
-<td class="cuerpo_tabla_der">0,40</td>
-<td class="cuerpo_tabla_izq">PK 9,99 DE NA-2310</td>
-<td class="cuerpo_tabla_der">0,40</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2321</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AZPA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,60 DE NA-150</td>
-<td class="cuerpo_tabla_der">1,59</td>
-<td class="cuerpo_tabla_izq">AZPA</td>
-<td class="cuerpo_tabla_der">1,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2322</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MENDIOROZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,60 DE NA-150</td>
-<td class="cuerpo_tabla_der">1,20</td>
-<td class="cuerpo_tabla_izq">MENDIOROZ</td>
-<td class="cuerpo_tabla_der">1,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2323</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">YELZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 8,37 DE NA-150</td>
-<td class="cuerpo_tabla_der">1,60</td>
-<td class="cuerpo_tabla_izq">YELZ</td>
-<td class="cuerpo_tabla_der">1,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2324</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">UROZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 8,88 DE NA-150</td>
-<td class="cuerpo_tabla_der">0,79</td>
-<td class="cuerpo_tabla_izq">UROZ</td>
-<td class="cuerpo_tabla_der">0,79</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2325</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LIZOAIN-REDIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,27 DE NA-150</td>
-<td class="cuerpo_tabla_der">3,28</td>
-<td class="cuerpo_tabla_izq">REDIN</td>
-<td class="cuerpo_tabla_der">3,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2326</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LERRUZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,54 DE NA-150</td>
-<td class="cuerpo_tabla_der">1,61</td>
-<td class="cuerpo_tabla_izq">LERRUZ</td>
-<td class="cuerpo_tabla_der">1,61</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2327</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">URROZ-ERRO (EMPALME)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 12,73 DE NA-150</td>
-<td class="cuerpo_tabla_der">0,89</td>
-<td class="cuerpo_tabla_izq">PK 1,30 DE NA-2330</td>
-<td class="cuerpo_tabla_der">0,89</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2328</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BEORTEGUI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,55 DE NA-2330</td>
-<td class="cuerpo_tabla_der">3,17</td>
-<td class="cuerpo_tabla_izq">BEORTEGUI</td>
-<td class="cuerpo_tabla_der">3,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2329</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IRURE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,66 DE NA-2337</td>
-<td class="cuerpo_tabla_der">0,38</td>
-<td class="cuerpo_tabla_izq">IRURE</td>
-<td class="cuerpo_tabla_der">0,38</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2330</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">URROZ-ERRO</td>
-<td class="cuerpo_tabla_der">0,23</td>
-<td class="cuerpo_tabla_izq">PK 13,76 DE NA-150</td>
-<td class="cuerpo_tabla_der">20,30</td>
-<td class="cuerpo_tabla_izq">PK 29,81 DE N-135</td>
-<td class="cuerpo_tabla_der">20,07</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2331</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARDAITZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 14,54 DE NA-2330</td>
-<td class="cuerpo_tabla_der">1,67</td>
-<td class="cuerpo_tabla_izq">ARDAITZ</td>
-<td class="cuerpo_tabla_der">1,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2332</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AINTZIOA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 19,83 DE NA-2330</td>
-<td class="cuerpo_tabla_der">4,89</td>
-<td class="cuerpo_tabla_izq">AINTZIOA</td>
-<td class="cuerpo_tabla_der">4,89</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2333</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ESNOTZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 19,83 DE NA-2330</td>
-<td class="cuerpo_tabla_der">2,74</td>
-<td class="cuerpo_tabla_izq">ESNOTZ</td>
-<td class="cuerpo_tabla_der">2,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2334</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MEZKIRITZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 36,10 DE N-135</td>
-<td class="cuerpo_tabla_der">0,62</td>
-<td class="cuerpo_tabla_izq">MEZKIRITZ</td>
-<td class="cuerpo_tabla_der">0,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2335</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OSTERITZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 19,61 DE N-135</td>
-<td class="cuerpo_tabla_der">1,66</td>
-<td class="cuerpo_tabla_izq">OSTERITZ</td>
-<td class="cuerpo_tabla_der">1,66</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2336</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ILARRATZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 17,70 DE N-135</td>
-<td class="cuerpo_tabla_der">0,87</td>
-<td class="cuerpo_tabla_izq">ILARRATZ</td>
-<td class="cuerpo_tabla_der">0,87</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2337</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SETOAIN-ERREA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 16,47 DE N-135</td>
-<td class="cuerpo_tabla_der">6,85</td>
-<td class="cuerpo_tabla_izq">ERREA</td>
-<td class="cuerpo_tabla_der">6,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2338</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AKERRETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 14,34 DE N-135</td>
-<td class="cuerpo_tabla_der">1,15</td>
-<td class="cuerpo_tabla_izq">AKERRETA</td>
-<td class="cuerpo_tabla_der">1,15</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2339</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ILURDOTZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 11,66 DE N-135</td>
-<td class="cuerpo_tabla_der">3,09</td>
-<td class="cuerpo_tabla_izq">ILURDOTZ</td>
-<td class="cuerpo_tabla_der">3,09</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2341</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CEMBORAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,84 DE NA-234</td>
-<td class="cuerpo_tabla_der">1,05</td>
-<td class="cuerpo_tabla_izq">CEMBORAIN</td>
-<td class="cuerpo_tabla_der">1,05</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2342</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">UNCITI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 12,71 DE NA-234</td>
-<td class="cuerpo_tabla_der">0,84</td>
-<td class="cuerpo_tabla_izq">UNCITI</td>
-<td class="cuerpo_tabla_der">0,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2343</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">NAJURIETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,01 DE NA-234</td>
-<td class="cuerpo_tabla_der">2,01</td>
-<td class="cuerpo_tabla_izq">NAJURIETA</td>
-<td class="cuerpo_tabla_der">2,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2344</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LIZARRAGA DE IZAGAONDOA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 16,05 DE NA-234</td>
-<td class="cuerpo_tabla_der">1,49</td>
-<td class="cuerpo_tabla_izq">LIZARRAGA DE IZAGAONDOA</td>
-<td class="cuerpo_tabla_der">1,49</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2345</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IDOATE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 16,93 DE NA-234</td>
-<td class="cuerpo_tabla_der">2,12</td>
-<td class="cuerpo_tabla_izq">IDOATE</td>
-<td class="cuerpo_tabla_der">2,12</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2346</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALZORRIZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 20,26 DE N-240</td>
-<td class="cuerpo_tabla_der">2,37</td>
-<td class="cuerpo_tabla_izq">ALZORRIZ</td>
-<td class="cuerpo_tabla_der">2,37</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2347</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TURRILLAS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,64 DE NA-2400</td>
-<td class="cuerpo_tabla_der">0,27</td>
-<td class="cuerpo_tabla_izq">TURRILLAS</td>
-<td class="cuerpo_tabla_der">0,27</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2352</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OSCARIZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,75 DE NA-2330</td>
-<td class="cuerpo_tabla_der">0,55</td>
-<td class="cuerpo_tabla_izq">OSCARIZ</td>
-<td class="cuerpo_tabla_der">0,55</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2355</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EKAI DE LONGUIDA-OLAVERRI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,20 DE NA-1720</td>
-<td class="cuerpo_tabla_der">4,08</td>
-<td class="cuerpo_tabla_izq">OLAVERRI</td>
-<td class="cuerpo_tabla_der">4,08</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2371</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VARIANTE DE ALZUZA</td>
-<td class="cuerpo_tabla_der">0,17</td>
-<td class="cuerpo_tabla_izq">PK 0,17 DE NA-2373</td>
-<td class="cuerpo_tabla_der">1,10</td>
-<td class="cuerpo_tabla_izq">PK 1,34 DE NA-2373</td>
-<td class="cuerpo_tabla_der">0,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2372</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OLLOKI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,69 DE N-135</td>
-<td class="cuerpo_tabla_der">0,58</td>
-<td class="cuerpo_tabla_izq">OLLOKI</td>
-<td class="cuerpo_tabla_der">0,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2373</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALZUZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,08 DE NA-150</td>
-<td class="cuerpo_tabla_der">2,07</td>
-<td class="cuerpo_tabla_izq">ALZUZA</td>
-<td class="cuerpo_tabla_der">2,07</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2374</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ELCANO-SAGASETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,52 DE NA-2377</td>
-<td class="cuerpo_tabla_der">1,85</td>
-<td class="cuerpo_tabla_izq">SAGASETA</td>
-<td class="cuerpo_tabla_der">1,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2375</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ELIA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,74 DE NA-2377</td>
-<td class="cuerpo_tabla_der">2,47</td>
-<td class="cuerpo_tabla_izq">ELIA</td>
-<td class="cuerpo_tabla_der">2,47</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2376</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">USTARROZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,40 DE NA-150</td>
-<td class="cuerpo_tabla_der">0,87</td>
-<td class="cuerpo_tabla_izq">USTARROZ</td>
-<td class="cuerpo_tabla_der">0,87</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2377</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EGÜES-IBIRICU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,43 DE NA-150</td>
-<td class="cuerpo_tabla_der">2,22</td>
-<td class="cuerpo_tabla_izq">PK 4,58 DE NA-150</td>
-<td class="cuerpo_tabla_der">2,22</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2379</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VILLAVETA (RAMAL)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 19,19 DE NA-150</td>
-<td class="cuerpo_tabla_der">0,94</td>
-<td class="cuerpo_tabla_izq">PK 0,68 DE NA-1720</td>
-<td class="cuerpo_tabla_der">0,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2381</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LOIZU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,80 DE NA-2332</td>
-<td class="cuerpo_tabla_der">1,19</td>
-<td class="cuerpo_tabla_izq">LOIZU</td>
-<td class="cuerpo_tabla_der">1,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2382</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SARAGÜETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 21,07 DE NA-1720</td>
-<td class="cuerpo_tabla_der">1,57</td>
-<td class="cuerpo_tabla_izq">SARAGÜETA</td>
-<td class="cuerpo_tabla_der">1,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2400</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VALLE DE IZAGAONDOA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 15,00 DE NA-234</td>
-<td class="cuerpo_tabla_der">21,50</td>
-<td class="cuerpo_tabla_izq">PK 38,14 DE NA-150</td>
-<td class="cuerpo_tabla_der">21,50</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2401</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZUAZU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,09 DE NA-2400</td>
-<td class="cuerpo_tabla_der">0,48</td>
-<td class="cuerpo_tabla_izq">ZUAZU</td>
-<td class="cuerpo_tabla_der">0,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2402</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARDANAZ DE IZAGAONDOA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,68 DE NA-2400</td>
-<td class="cuerpo_tabla_der">0,27</td>
-<td class="cuerpo_tabla_izq">ARDANAZ DE IZAGAONDOA</td>
-<td class="cuerpo_tabla_der">0,27</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2404</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">NARDUES-ALDUNATE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 32,21 DE N-240</td>
-<td class="cuerpo_tabla_der">0,20</td>
-<td class="cuerpo_tabla_izq">NARDUES-ALDUNATE</td>
-<td class="cuerpo_tabla_der">0,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2405</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SAN VICENTE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 33,05 DE NA-150</td>
-<td class="cuerpo_tabla_der">2,02</td>
-<td class="cuerpo_tabla_izq">SAN VICENTE</td>
-<td class="cuerpo_tabla_der">2,02</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2410</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BARRANCA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 20,83 DE N-240A</td>
-<td class="cuerpo_tabla_der">37,36</td>
-<td class="cuerpo_tabla_izq">PK 392,07 DE A-1</td>
-<td class="cuerpo_tabla_der">37,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2414</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MEOZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 22,74 DE NA-150</td>
-<td class="cuerpo_tabla_der">2,71</td>
-<td class="cuerpo_tabla_izq">MEOZ</td>
-<td class="cuerpo_tabla_der">2,71</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2420</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TORRES DE ELORZ - A-21</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">Rtda. DE TORRES DE ELORZ</td>
-<td class="cuerpo_tabla_der">7,49</td>
-<td class="cuerpo_tabla_izq">PK 16,94 DE N-240</td>
-<td class="cuerpo_tabla_der">7,49</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2421</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TABAR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 18,11 DE NA-2400</td>
-<td class="cuerpo_tabla_der">0,07</td>
-<td class="cuerpo_tabla_izq">TABAR</td>
-<td class="cuerpo_tabla_der">0,07</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2451</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">URBICAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,03 DE NA-2400</td>
-<td class="cuerpo_tabla_der">1,35</td>
-<td class="cuerpo_tabla_izq">URBICAIN</td>
-<td class="cuerpo_tabla_der">1,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2452</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">INDURAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 14,07 DE NA-2400</td>
-<td class="cuerpo_tabla_der">0,42</td>
-<td class="cuerpo_tabla_izq">INDURAIN</td>
-<td class="cuerpo_tabla_der">0,42</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2454</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALDUNATE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 31,76 DE N-240</td>
-<td class="cuerpo_tabla_der">0,53</td>
-<td class="cuerpo_tabla_izq">ALDUNATE</td>
-<td class="cuerpo_tabla_der">0,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2455</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GREZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 29,25 DE NA-150</td>
-<td class="cuerpo_tabla_der">1,83</td>
-<td class="cuerpo_tabla_izq">GREZ</td>
-<td class="cuerpo_tabla_der">1,83</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2510</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BURUTAIN-ETSAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 17,19 DE N-121A</td>
-<td class="cuerpo_tabla_der">3,80</td>
-<td class="cuerpo_tabla_izq">ETSAIN</td>
-<td class="cuerpo_tabla_der">3,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2511</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OSACAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,69 DE NA-2512</td>
-<td class="cuerpo_tabla_der">1,35</td>
-<td class="cuerpo_tabla_izq">OSACAIN</td>
-<td class="cuerpo_tabla_der">1,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2512</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZANDIO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,11 DE N-121A</td>
-<td class="cuerpo_tabla_der">1,75</td>
-<td class="cuerpo_tabla_izq">ZANDIO</td>
-<td class="cuerpo_tabla_der">1,75</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2513</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SARASIBAR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,97 DE N-135</td>
-<td class="cuerpo_tabla_der">1,65</td>
-<td class="cuerpo_tabla_izq">SARASIBAR</td>
-<td class="cuerpo_tabla_der">1,65</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2514</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ETULAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 18,73 DE N-121A</td>
-<td class="cuerpo_tabla_der">0,57</td>
-<td class="cuerpo_tabla_izq">ETULAIN</td>
-<td class="cuerpo_tabla_der">0,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2515</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">INBULUZKETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 16,75 DE N-135</td>
-<td class="cuerpo_tabla_der">1,92</td>
-<td class="cuerpo_tabla_izq">INBULUZKETA</td>
-<td class="cuerpo_tabla_der">1,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2516</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OLAVE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,52 DE N-121A</td>
-<td class="cuerpo_tabla_der">0,23</td>
-<td class="cuerpo_tabla_izq">OLAVE</td>
-<td class="cuerpo_tabla_der">0,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2517</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARRE-ORICAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">Rtda. Gasolinera en VILLAVA</td>
-<td class="cuerpo_tabla_der">2,84</td>
-<td class="cuerpo_tabla_izq">PK 6,41 DE N-121A</td>
-<td class="cuerpo_tabla_der">2,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2520</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OLAGÜE-ZUBIRI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 20,68 DE NA-8104</td>
-<td class="cuerpo_tabla_der">13,30</td>
-<td class="cuerpo_tabla_izq">PK 25,36 DE NA-138</td>
-<td class="cuerpo_tabla_der">13,30</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2521</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LEAZKUE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,43 DE NA-2520</td>
-<td class="cuerpo_tabla_der">1,74</td>
-<td class="cuerpo_tabla_izq">LEAZKUE</td>
-<td class="cuerpo_tabla_der">1,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2522</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARITZU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 21,96 DE NA-8104</td>
-<td class="cuerpo_tabla_der">1,21</td>
-<td class="cuerpo_tabla_izq">ARITZU</td>
-<td class="cuerpo_tabla_der">1,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2523</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LANTZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 23,31 DE N-121A</td>
-<td class="cuerpo_tabla_der">2,23</td>
-<td class="cuerpo_tabla_izq">LANTZ</td>
-<td class="cuerpo_tabla_der">2,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2530</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">USETXI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 20,16 DE N-135</td>
-<td class="cuerpo_tabla_der">4,57</td>
-<td class="cuerpo_tabla_izq">USETXI</td>
-<td class="cuerpo_tabla_der">4,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2531</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LERANOTZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,37 DE NA-2530</td>
-<td class="cuerpo_tabla_der">0,22</td>
-<td class="cuerpo_tabla_izq">PK 2,66 DE NA-2530</td>
-<td class="cuerpo_tabla_der">0,22</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2532</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZILBETI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 24,97 DE N-135</td>
-<td class="cuerpo_tabla_der">5,74</td>
-<td class="cuerpo_tabla_izq">ZILBETI</td>
-<td class="cuerpo_tabla_der">5,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2540</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALMANDOZ-IRURITA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 14,97 DE NA-1210</td>
-<td class="cuerpo_tabla_der">9,15</td>
-<td class="cuerpo_tabla_izq">PK 0,33 DE NA-1740</td>
-<td class="cuerpo_tabla_der">9,15</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2552</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ORICAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,53 DE N-121A</td>
-<td class="cuerpo_tabla_der">0,64</td>
-<td class="cuerpo_tabla_izq">ORICAIN</td>
-<td class="cuerpo_tabla_der">0,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2561</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IDOI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,27 DE NA-2513</td>
-<td class="cuerpo_tabla_der">0,38</td>
-<td class="cuerpo_tabla_izq">IDOI</td>
-<td class="cuerpo_tabla_der">0,38</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2584</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LINTZOAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 32,67 DE N-135</td>
-<td class="cuerpo_tabla_der">0,35</td>
-<td class="cuerpo_tabla_izq">LINTZOAIN</td>
-<td class="cuerpo_tabla_der">0,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2585</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LUZAIDE/VALCARLOS (PALOMERA)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 48,76 DE N-135</td>
-<td class="cuerpo_tabla_der">1,01</td>
-<td class="cuerpo_tabla_izq">PISTA PALOMERAS</td>
-<td class="cuerpo_tabla_der">1,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2591</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZIGA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,80 DE NA-2540</td>
-<td class="cuerpo_tabla_der">0,62</td>
-<td class="cuerpo_tabla_izq">ZIGA</td>
-<td class="cuerpo_tabla_der">0,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2592</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BERROETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,18 DE NA-2540</td>
-<td class="cuerpo_tabla_der">0,34</td>
-<td class="cuerpo_tabla_izq">BERROETA</td>
-<td class="cuerpo_tabla_der">0,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2594</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GARTZAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 48,99 DE N-121B</td>
-<td class="cuerpo_tabla_der">1,19</td>
-<td class="cuerpo_tabla_izq">GARTZAIN</td>
-<td class="cuerpo_tabla_der">1,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2595</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARIZTEGI DE GARTZAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,12 DE NA-2594</td>
-<td class="cuerpo_tabla_der">0,70</td>
-<td class="cuerpo_tabla_izq">BARRIO DE ARIZTEGI</td>
-<td class="cuerpo_tabla_der">0,70</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2596</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ELIZONDO-BEARTZUN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 50,78 DE N-121B</td>
-<td class="cuerpo_tabla_der">6,11</td>
-<td class="cuerpo_tabla_izq">BARRIO DE BEARTZUN</td>
-<td class="cuerpo_tabla_der">6,11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2600</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ERRATZU-FRANCIA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 55,53 DE N-121B</td>
-<td class="cuerpo_tabla_der">11,90</td>
-<td class="cuerpo_tabla_izq">FRONTERA FRANCIA</td>
-<td class="cuerpo_tabla_der">11,90</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2601</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARIZKUN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 54,20 DE N-121B</td>
-<td class="cuerpo_tabla_der">2,14</td>
-<td class="cuerpo_tabla_izq">PK 1,12 DE NA-2600</td>
-<td class="cuerpo_tabla_der">2,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2602</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AINTZIALDE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,51 DE NA-2601</td>
-<td class="cuerpo_tabla_der">1,51</td>
-<td class="cuerpo_tabla_izq">CASA UNAINEA</td>
-<td class="cuerpo_tabla_der">1,51</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2651</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GOROSTAPOLO (BARRIO)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,19 DE NA-2600</td>
-<td class="cuerpo_tabla_der">1,66</td>
-<td class="cuerpo_tabla_izq">BARRIO GOROSTAPOLO</td>
-<td class="cuerpo_tabla_der">1,66</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2652</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IÑARBIL DE ERRATZU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,41 DE NA-2600</td>
-<td class="cuerpo_tabla_der">1,37</td>
-<td class="cuerpo_tabla_izq">BARRIO IÑARBIL</td>
-<td class="cuerpo_tabla_der">1,37</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2653</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AMAIUR DE BAZTAN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 57,75 DE N-121B</td>
-<td class="cuerpo_tabla_der">0,64</td>
-<td class="cuerpo_tabla_izq">AMAIUR DE BAZTAN</td>
-<td class="cuerpo_tabla_der">0,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">2655</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GORRAMENDI (REPETIDOR)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 63,19 DE N-121B</td>
-<td class="cuerpo_tabla_der">10,75</td>
-<td class="cuerpo_tabla_izq">REPETIDOR TV</td>
-<td class="cuerpo_tabla_der">10,75</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">3010</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TUDELA-ABLITAS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,44 DE N-121C</td>
-<td class="cuerpo_tabla_der">7,87</td>
-<td class="cuerpo_tabla_izq">ABLITAS</td>
-<td class="cuerpo_tabla_der">7,87</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">3040</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TULEBRAS-MALON</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 11,67 DE N-121C</td>
-<td class="cuerpo_tabla_der">2,42</td>
-<td class="cuerpo_tabla_izq">Lte. ZARAGOZA</td>
-<td class="cuerpo_tabla_der">2,42</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">3041</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ABLITAS-BARILLAS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">ABLITAS</td>
-<td class="cuerpo_tabla_der">2,03</td>
-<td class="cuerpo_tabla_izq">BARILLAS</td>
-<td class="cuerpo_tabla_der">2,03</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">3042</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CASCANTE-ABLITAS-RIBAFORADA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,89 DE N-121C</td>
-<td class="cuerpo_tabla_der">13,35</td>
-<td class="cuerpo_tabla_izq">PK 105,31 DE A-68</td>
-<td class="cuerpo_tabla_der">13,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4000</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LESAKA-OIARTZUN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 62,47 DE N-121A</td>
-<td class="cuerpo_tabla_der">19,39</td>
-<td class="cuerpo_tabla_izq">Lte. GUIPUZCOA</td>
-<td class="cuerpo_tabla_der">19,39</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4001</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LESAKA (VARIANTE)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,03 DE NA-4000</td>
-<td class="cuerpo_tabla_der">0,95</td>
-<td class="cuerpo_tabla_izq">LAMINACIONES LESAKA</td>
-<td class="cuerpo_tabla_der">0,95</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4011</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GORRITI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,20 DE NA-1700</td>
-<td class="cuerpo_tabla_der">4,50</td>
-<td class="cuerpo_tabla_izq">GORRITI</td>
-<td class="cuerpo_tabla_der">4,50</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4014</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARESO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,34 DE NA-170</td>
-<td class="cuerpo_tabla_der">1,53</td>
-<td class="cuerpo_tabla_izq">ARESO</td>
-<td class="cuerpo_tabla_der">1,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4015</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GORRIZTARAN (BARRIO)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,55 DE NA-170</td>
-<td class="cuerpo_tabla_der">2,05</td>
-<td class="cuerpo_tabla_izq">BARRIO GORRITZARAN</td>
-<td class="cuerpo_tabla_der">2,05</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4016</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARANO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 25,18 DE NA-4150</td>
-<td class="cuerpo_tabla_der">3,05</td>
-<td class="cuerpo_tabla_izq">ARANO</td>
-<td class="cuerpo_tabla_der">3,05</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4018</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALDATZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 11,88 DE NA-1300</td>
-<td class="cuerpo_tabla_der">2,36</td>
-<td class="cuerpo_tabla_izq">ALDATZ</td>
-<td class="cuerpo_tabla_der">2,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4019</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARRUITZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 11,12 DE NA-1300</td>
-<td class="cuerpo_tabla_der">0,48</td>
-<td class="cuerpo_tabla_izq">ARRUITZ</td>
-<td class="cuerpo_tabla_der">0,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4020</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARANTZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 58,61 DE N-121A</td>
-<td class="cuerpo_tabla_der">7,20</td>
-<td class="cuerpo_tabla_izq">ARANTZA</td>
-<td class="cuerpo_tabla_der">7,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4022</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LEITZA (ANTIGÜA ESTACION FFCC.)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,24 DE NA-1320</td>
-<td class="cuerpo_tabla_der">0,56</td>
-<td class="cuerpo_tabla_izq">ANTIGÜA ESTACION FFCC.</td>
-<td class="cuerpo_tabla_der">0,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4029</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SALDIAS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 19,19 DE NA-170</td>
-<td class="cuerpo_tabla_der">2,44</td>
-<td class="cuerpo_tabla_izq">SALDIAS</td>
-<td class="cuerpo_tabla_der">2,44</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4031</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ERATSUN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 16,25 DE NA-170</td>
-<td class="cuerpo_tabla_der">2,58</td>
-<td class="cuerpo_tabla_izq">ERATSUN</td>
-<td class="cuerpo_tabla_der">2,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4040</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">DONEZTEBE/SANTESTEBAN-SALDIAS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 31,78 DE NA-170</td>
-<td class="cuerpo_tabla_der">17,28</td>
-<td class="cuerpo_tabla_izq">SALDIAS</td>
-<td class="cuerpo_tabla_der">17,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4041</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">DONAMARIA-GAZTELU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,72 DE NA-4040</td>
-<td class="cuerpo_tabla_der">2,47</td>
-<td class="cuerpo_tabla_izq">GAZTELU</td>
-<td class="cuerpo_tabla_der">2,47</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4042</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IGURIN (BARRIO)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,40 DE NA-4041</td>
-<td class="cuerpo_tabla_der">1,57</td>
-<td class="cuerpo_tabla_izq">BARRIO DE IGURIN</td>
-<td class="cuerpo_tabla_der">1,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4044</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LEGASA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 23,33 DE NA-1210</td>
-<td class="cuerpo_tabla_der">0,15</td>
-<td class="cuerpo_tabla_izq">LEGASA</td>
-<td class="cuerpo_tabla_der">0,15</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4052</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IGANTZI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,00 DE NA-4020</td>
-<td class="cuerpo_tabla_der">0,72</td>
-<td class="cuerpo_tabla_izq">IGANTZI</td>
-<td class="cuerpo_tabla_der">0,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4061</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AZPIROTZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 18,04 DE NA-1300</td>
-<td class="cuerpo_tabla_der">0,33</td>
-<td class="cuerpo_tabla_izq">AZPIROTZ</td>
-<td class="cuerpo_tabla_der">0,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4063</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ETXARRI (LARRAUN)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,32 DE NA-1300</td>
-<td class="cuerpo_tabla_der">2,04</td>
-<td class="cuerpo_tabla_izq">ETXARRI</td>
-<td class="cuerpo_tabla_der">2,04</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4093</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARTZE (BARRIO)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,61 DE NA-4041</td>
-<td class="cuerpo_tabla_der">1,06</td>
-<td class="cuerpo_tabla_izq">BARRIO DE ARTZE</td>
-<td class="cuerpo_tabla_der">1,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4095</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZOZAIA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 17,61 NA-1210</td>
-<td class="cuerpo_tabla_der">0,96</td>
-<td class="cuerpo_tabla_izq">ZOZAIA</td>
-<td class="cuerpo_tabla_der">0,96</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4100</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AIZOAIN-LIZASO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,70 DE PA-34</td>
-<td class="cuerpo_tabla_der">16,74</td>
-<td class="cuerpo_tabla_izq">PK 19,60 DE NA-411</td>
-<td class="cuerpo_tabla_der">16,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4101</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BALLARIAIN-ELCARTE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,67 DE NA-4100</td>
-<td class="cuerpo_tabla_der">1,29</td>
-<td class="cuerpo_tabla_izq">ELCARTE</td>
-<td class="cuerpo_tabla_der">1,29</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4102</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BELZUNCE-USI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,43 DE NA-4100</td>
-<td class="cuerpo_tabla_der">3,10</td>
-<td class="cuerpo_tabla_izq">USI</td>
-<td class="cuerpo_tabla_der">3,10</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4103</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">NAVAZ (JUSLAPEÑA)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,67 DE NA-4102</td>
-<td class="cuerpo_tabla_der">0,89</td>
-<td class="cuerpo_tabla_izq">NAVAZ</td>
-<td class="cuerpo_tabla_der">0,89</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4104</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SARASA-ZUASTI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">ZUASTI</td>
-<td class="cuerpo_tabla_der">2,88</td>
-<td class="cuerpo_tabla_izq">SARASA</td>
-<td class="cuerpo_tabla_der">2,88</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4105</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GARCIRIAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,69 DE NA-4100</td>
-<td class="cuerpo_tabla_der">0,35</td>
-<td class="cuerpo_tabla_izq">GARCIRIAIN</td>
-<td class="cuerpo_tabla_der">0,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4106</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BERRIOZAR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,23 DE N-240A</td>
-<td class="cuerpo_tabla_der">1,13</td>
-<td class="cuerpo_tabla_izq">BERRIOZAR</td>
-<td class="cuerpo_tabla_der">1,13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4107</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BERRIOPLANO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,10 DE N-240A</td>
-<td class="cuerpo_tabla_der">0,67</td>
-<td class="cuerpo_tabla_izq">BERRIOPLANO</td>
-<td class="cuerpo_tabla_der">0,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4108</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BALLARIAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,66 DE NA-4101</td>
-<td class="cuerpo_tabla_der">0,08</td>
-<td class="cuerpo_tabla_izq">BALLARIAIN</td>
-<td class="cuerpo_tabla_der">0,08</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4109</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARISTREGUI-OSINAGA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 11,04 DE N-240A</td>
-<td class="cuerpo_tabla_der">4,46</td>
-<td class="cuerpo_tabla_izq">OSINAGA</td>
-<td class="cuerpo_tabla_der">4,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4111</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ITSASO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,10 DE NA-411</td>
-<td class="cuerpo_tabla_der">1,41</td>
-<td class="cuerpo_tabla_izq">ITSASO</td>
-<td class="cuerpo_tabla_der">1,41</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4112</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BERUETE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,20 DE NA-411</td>
-<td class="cuerpo_tabla_der">4,26</td>
-<td class="cuerpo_tabla_izq">BERUETE</td>
-<td class="cuerpo_tabla_der">4,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4113</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ERBITI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,80 DE NA-411</td>
-<td class="cuerpo_tabla_der">0,64</td>
-<td class="cuerpo_tabla_izq">ERBITI</td>
-<td class="cuerpo_tabla_der">0,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4114</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OROKIETA-SALDIAS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK10,90 DE NA-411</td>
-<td class="cuerpo_tabla_der">14,19</td>
-<td class="cuerpo_tabla_izq">SALDIAS</td>
-<td class="cuerpo_tabla_der">14,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4115</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SUARBE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 12,85 DE NA-411</td>
-<td class="cuerpo_tabla_der">0,68</td>
-<td class="cuerpo_tabla_izq">SUARBE</td>
-<td class="cuerpo_tabla_der">0,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4116</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ELTZABURU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 15,60 DE NA-411</td>
-<td class="cuerpo_tabla_der">2,30</td>
-<td class="cuerpo_tabla_izq">ELTZABURU</td>
-<td class="cuerpo_tabla_der">2,30</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4117</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GORRONTZ-OLANO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 19,10 DE NA-411</td>
-<td class="cuerpo_tabla_der">2,13</td>
-<td class="cuerpo_tabla_izq">GORRONTZ-OLANO</td>
-<td class="cuerpo_tabla_der">2,13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4118</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GASCUE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,18 DE NA-4100</td>
-<td class="cuerpo_tabla_der">0,42</td>
-<td class="cuerpo_tabla_izq">GASCUE</td>
-<td class="cuerpo_tabla_der">0,42</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4119</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GARTZARON</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,20 DE NA-411</td>
-<td class="cuerpo_tabla_der">0,83</td>
-<td class="cuerpo_tabla_izq">GARTZARON</td>
-<td class="cuerpo_tabla_der">0,83</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GULINA-AROSTEGUI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 18,37 DE N-240A</td>
-<td class="cuerpo_tabla_der">13,74</td>
-<td class="cuerpo_tabla_izq">PK 11,89 DE NA-4100</td>
-<td class="cuerpo_tabla_der">13,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4121</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SARASATE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 15,64 DE N-240A</td>
-<td class="cuerpo_tabla_der">0,25</td>
-<td class="cuerpo_tabla_izq">SARASATE</td>
-<td class="cuerpo_tabla_der">0,25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4122</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LARUMBE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 17,06 DE N-240A</td>
-<td class="cuerpo_tabla_der">2,79</td>
-<td class="cuerpo_tabla_izq">LARUMBE</td>
-<td class="cuerpo_tabla_der">2,79</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4123</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MUSKITZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,89 DE NA-4120</td>
-<td class="cuerpo_tabla_der">0,28</td>
-<td class="cuerpo_tabla_izq">MUSKITZ</td>
-<td class="cuerpo_tabla_der">0,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4130</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VALLE DE IMOTZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 21,76 DE NA-1300</td>
-<td class="cuerpo_tabla_der">9,14</td>
-<td class="cuerpo_tabla_izq">PK 6,89 DE NA-4120</td>
-<td class="cuerpo_tabla_der">9,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4131</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZARRANTZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,83 DE NA-4130</td>
-<td class="cuerpo_tabla_der">3,75</td>
-<td class="cuerpo_tabla_izq">ZARRANTZ</td>
-<td class="cuerpo_tabla_der">3,75</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4133</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IRURTZUN (ANTIGÜA ESTACION FFCC.)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 20,18 DE N-240</td>
-<td class="cuerpo_tabla_der">0,27</td>
-<td class="cuerpo_tabla_izq">ANTIGÜA ESTACION FFCC.</td>
-<td class="cuerpo_tabla_der">0,27</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4140</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IHABEN-ETXALEKU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,70 DE NA-411</td>
-<td class="cuerpo_tabla_der">4,57</td>
-<td class="cuerpo_tabla_izq">PK 4,41 DE NA-4130</td>
-<td class="cuerpo_tabla_der">4,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4150</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LEITZA-GOIZUETA-HERNANI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,87 DE NA-170</td>
-<td class="cuerpo_tabla_der">29,53</td>
-<td class="cuerpo_tabla_izq">Lte. GUIPUZCOA</td>
-<td class="cuerpo_tabla_der">29,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4161</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LARRAINTZAR-IRAIZOTZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 17,60 DE NA-411</td>
-<td class="cuerpo_tabla_der">2,40</td>
-<td class="cuerpo_tabla_izq">PK 2,85 DE NA-4230</td>
-<td class="cuerpo_tabla_der">2,40</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4171</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AIZKORBE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 18,84 DE N-240A</td>
-<td class="cuerpo_tabla_der">0,40</td>
-<td class="cuerpo_tabla_izq">AIZKORBE</td>
-<td class="cuerpo_tabla_der">0,40</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4172</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GULINA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,40 DE NA-4120</td>
-<td class="cuerpo_tabla_der">0,51</td>
-<td class="cuerpo_tabla_izq">GULINA</td>
-<td class="cuerpo_tabla_der">0,51</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4173</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AGUINAGA DE IZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,04 DE NA-4120</td>
-<td class="cuerpo_tabla_der">0,34</td>
-<td class="cuerpo_tabla_izq">AGUINAGA DE IZA</td>
-<td class="cuerpo_tabla_der">0,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4175</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BEUNZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,03 DE NA-4120</td>
-<td class="cuerpo_tabla_der">2,82</td>
-<td class="cuerpo_tabla_izq">BEUNZA</td>
-<td class="cuerpo_tabla_der">2,82</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4176</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EGUILLOR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 12,77 DE NA-4120</td>
-<td class="cuerpo_tabla_der">2,05</td>
-<td class="cuerpo_tabla_izq">EGUILLOR</td>
-<td class="cuerpo_tabla_der">2,05</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4177</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BERASAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,37 DE NA-4120</td>
-<td class="cuerpo_tabla_der">0,36</td>
-<td class="cuerpo_tabla_izq">BERASAIN</td>
-<td class="cuerpo_tabla_der">0,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4178</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CIGANDA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,40 DE NA-4176</td>
-<td class="cuerpo_tabla_der">0,09</td>
-<td class="cuerpo_tabla_izq">CIGANDA</td>
-<td class="cuerpo_tabla_der">0,09</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4179</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AROSTEGUI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,56 DE NA-4120</td>
-<td class="cuerpo_tabla_der">0,26</td>
-<td class="cuerpo_tabla_izq">AROSTEGUI</td>
-<td class="cuerpo_tabla_der">0,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4201</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARTICA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,00 DE NA-4201</td>
-<td class="cuerpo_tabla_der">1,58</td>
-<td class="cuerpo_tabla_izq">CAMINO SAN CRISTOBAL</td>
-<td class="cuerpo_tabla_der">1,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4210</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VALLE DE EZCABARTE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,77 DE N-121A</td>
-<td class="cuerpo_tabla_der">7,82</td>
-<td class="cuerpo_tabla_izq">PK 2,88 DE NA-4100</td>
-<td class="cuerpo_tabla_der">7,82</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4211</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EUSA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,69 DE NA-4210</td>
-<td class="cuerpo_tabla_der">0,67</td>
-<td class="cuerpo_tabla_izq">EUSA</td>
-<td class="cuerpo_tabla_der">0,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4212</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OLAIZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,49 DE N-121A</td>
-<td class="cuerpo_tabla_der">1,14</td>
-<td class="cuerpo_tabla_izq">OLAIZ</td>
-<td class="cuerpo_tabla_der">1,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4213</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ENDERIZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,00 DE N-121A</td>
-<td class="cuerpo_tabla_der">0,51</td>
-<td class="cuerpo_tabla_izq">ENDERIZ</td>
-<td class="cuerpo_tabla_der">0,51</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4220</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">NUIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,91 DE NA-4100</td>
-<td class="cuerpo_tabla_der">4,49</td>
-<td class="cuerpo_tabla_izq">NUIN</td>
-<td class="cuerpo_tabla_der">4,49</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4221</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OSACAR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,31 DE NA-4220</td>
-<td class="cuerpo_tabla_der">2,10</td>
-<td class="cuerpo_tabla_izq">OSACAR</td>
-<td class="cuerpo_tabla_der">2,10</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4222</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BEORBURU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,61 DE NA-4221</td>
-<td class="cuerpo_tabla_der">1,60</td>
-<td class="cuerpo_tabla_izq">BEORBURU</td>
-<td class="cuerpo_tabla_der">1,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4230</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LIZASO-ARRAITZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 20,19 DE NA-411</td>
-<td class="cuerpo_tabla_der">7,41</td>
-<td class="cuerpo_tabla_izq">PK 24,98 DE N-121A</td>
-<td class="cuerpo_tabla_der">7,41</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4231</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ELTSO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,32 DE NA-4230</td>
-<td class="cuerpo_tabla_der">0,67</td>
-<td class="cuerpo_tabla_izq">ELTSO</td>
-<td class="cuerpo_tabla_der">0,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4232</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GUENDULAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 24,90 DE NA-411</td>
-<td class="cuerpo_tabla_der">0,56</td>
-<td class="cuerpo_tabla_izq">GUENDULAIN</td>
-<td class="cuerpo_tabla_der">0,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4241</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ANOZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 26,00 DE NA-411</td>
-<td class="cuerpo_tabla_der">4,43</td>
-<td class="cuerpo_tabla_izq">ANOZ</td>
-<td class="cuerpo_tabla_der">4,43</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4242</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">URRITZOLA-GALAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 21,97 DE NA-411</td>
-<td class="cuerpo_tabla_der">2,31</td>
-<td class="cuerpo_tabla_izq">URRITZOLA-GALAIN</td>
-<td class="cuerpo_tabla_der">2,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4244</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ANSOAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PAMPLONA</td>
-<td class="cuerpo_tabla_der">1,05</td>
-<td class="cuerpo_tabla_izq">ANSOAIN</td>
-<td class="cuerpo_tabla_der">1,05</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4251</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AZOZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,00 DE NA-2517</td>
-<td class="cuerpo_tabla_der">1,06</td>
-<td class="cuerpo_tabla_izq">AZOZ</td>
-<td class="cuerpo_tabla_der">1,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4271</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OLLACARIZQUETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,20 DE NA-4220</td>
-<td class="cuerpo_tabla_der">0,35</td>
-<td class="cuerpo_tabla_izq">OLLACARIZQUETA</td>
-<td class="cuerpo_tabla_der">0,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4281</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARRAITZ-ORKIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,58 DE NA-4230</td>
-<td class="cuerpo_tabla_der">0,46</td>
-<td class="cuerpo_tabla_izq">ORKIN</td>
-<td class="cuerpo_tabla_der">0,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4300</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARRARATS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,40 DE NA-4351</td>
-<td class="cuerpo_tabla_der">1,67</td>
-<td class="cuerpo_tabla_izq">ARRARATS</td>
-<td class="cuerpo_tabla_der">1,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4351</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IGOA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,05 DE NA-411</td>
-<td class="cuerpo_tabla_der">4,33</td>
-<td class="cuerpo_tabla_izq">IGOA</td>
-<td class="cuerpo_tabla_der">4,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4355</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ILARREGI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 12,80 DE NA-411</td>
-<td class="cuerpo_tabla_der">0,24</td>
-<td class="cuerpo_tabla_izq">ILARREGI</td>
-<td class="cuerpo_tabla_der">0,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4400</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ETXALAR-FRANCIA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 60,76 DE N-121A</td>
-<td class="cuerpo_tabla_der">11,79</td>
-<td class="cuerpo_tabla_izq">FRONTERA FRANCIA</td>
-<td class="cuerpo_tabla_der">11,79</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4401</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZUGARRAMURDI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 72,75 DE N-121B</td>
-<td class="cuerpo_tabla_der">4,23</td>
-<td class="cuerpo_tabla_izq">ZUGARRAMURDI</td>
-<td class="cuerpo_tabla_der">4,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4402</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">URDAZUBI/URDAX</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 71,28 DE N-121B</td>
-<td class="cuerpo_tabla_der">1,14</td>
-<td class="cuerpo_tabla_izq">URDAZUBI/URDAX</td>
-<td class="cuerpo_tabla_der">1,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4403</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LEKAROZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 49,08 DE N-121B</td>
-<td class="cuerpo_tabla_der">1,55</td>
-<td class="cuerpo_tabla_izq">LEKAROZ</td>
-<td class="cuerpo_tabla_der">1,55</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4404</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IRURITA (ESTACION)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 47,63 DE N-121B</td>
-<td class="cuerpo_tabla_der">0,61</td>
-<td class="cuerpo_tabla_izq">ESTACION IRURITA</td>
-<td class="cuerpo_tabla_der">0,61</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4405</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OHARRIZ (BARRIO)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 46,63 DE N-121B</td>
-<td class="cuerpo_tabla_der">0,68</td>
-<td class="cuerpo_tabla_izq">BARRIO OHARRIZ</td>
-<td class="cuerpo_tabla_der">0,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4406</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">URRASUN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 56,82 DE N-121B</td>
-<td class="cuerpo_tabla_der">0,45</td>
-<td class="cuerpo_tabla_izq">BARRIO URRASUN</td>
-<td class="cuerpo_tabla_der">0,45</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4410</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BERA/VERA DE BIDASOA-FRANCIA (LIZUNIAGA)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,85 DE NA-1310</td>
-<td class="cuerpo_tabla_der">5,00</td>
-<td class="cuerpo_tabla_izq">FRONTERA FRANCIA</td>
-<td class="cuerpo_tabla_der">5,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4445</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARRAZKAZAN (BARRIO)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,82 DE NA-4403</td>
-<td class="cuerpo_tabla_der">1,48</td>
-<td class="cuerpo_tabla_izq">BARRIO ARRAZKAZAN</td>
-<td class="cuerpo_tabla_der">1,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4453</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MUGAIRI-OTXONDO-ORABIDEA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 43,22 DE N-121B</td>
-<td class="cuerpo_tabla_der">27,38</td>
-<td class="cuerpo_tabla_izq">PK 21,41 DE N-121B</td>
-<td class="cuerpo_tabla_der">27,38</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4456</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZUAZTOI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,05 DE NA-4457</td>
-<td class="cuerpo_tabla_der">1,12</td>
-<td class="cuerpo_tabla_izq">ZUAZTOI</td>
-<td class="cuerpo_tabla_der">1,12</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4457</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AZPILKUETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 55,53 DE N-121B</td>
-<td class="cuerpo_tabla_der">2,00</td>
-<td class="cuerpo_tabla_izq">AZPILKUETA</td>
-<td class="cuerpo_tabla_der">2,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">4508</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OTEIZA (ANSOAIN)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 8,92 DE N-240A</td>
-<td class="cuerpo_tabla_der">0,83</td>
-<td class="cuerpo_tabla_izq">OTEIZA</td>
-<td class="cuerpo_tabla_der">0,83</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5001</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IMARCOAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,00 DE NA-6009</td>
-<td class="cuerpo_tabla_der">1,48</td>
-<td class="cuerpo_tabla_izq">IMARCOAIN</td>
-<td class="cuerpo_tabla_der">1,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5002</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZABALEGUI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,10 DE NA-2420</td>
-<td class="cuerpo_tabla_der">0,88</td>
-<td class="cuerpo_tabla_izq">ZABALEGUI</td>
-<td class="cuerpo_tabla_der">0,88</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5003</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">YARNOZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,54 DE NA-234</td>
-<td class="cuerpo_tabla_der">0,63</td>
-<td class="cuerpo_tabla_izq">YARNOZ</td>
-<td class="cuerpo_tabla_der">0,63</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5004</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GUERENDIAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,40 DE NA-234</td>
-<td class="cuerpo_tabla_der">0,70</td>
-<td class="cuerpo_tabla_izq">GUERENDIAIN</td>
-<td class="cuerpo_tabla_der">0,70</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5005</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SALINAS DE IBARGOITI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 20,43 DE N-240</td>
-<td class="cuerpo_tabla_der">0,19</td>
-<td class="cuerpo_tabla_izq">SALINAS IBARGOITI</td>
-<td class="cuerpo_tabla_der">0,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5007</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">NOAIN (CENT, HORTOFRUTICOLA)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,96 DE NA-5001</td>
-<td class="cuerpo_tabla_der">0,96</td>
-<td class="cuerpo_tabla_izq">PK 9,25 DE N-121</td>
-<td class="cuerpo_tabla_der">0,96</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5008</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TORRES DE ELORZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,00 DE NA-2420</td>
-<td class="cuerpo_tabla_der">1,55</td>
-<td class="cuerpo_tabla_izq">CAMINO DE ZABALEGUI</td>
-<td class="cuerpo_tabla_der">1,55</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5010</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CARRASCAL-VERJA BARIAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 19,65 DE N-121</td>
-<td class="cuerpo_tabla_der">7,04</td>
-<td class="cuerpo_tabla_izq">VERJA DE BARIAIN</td>
-<td class="cuerpo_tabla_der">7,04</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5011</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OLORIZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,19 DE NA-5010</td>
-<td class="cuerpo_tabla_der">0,36</td>
-<td class="cuerpo_tabla_izq">OLORIZ</td>
-<td class="cuerpo_tabla_der">0,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5020</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">UNZUE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,03 DE NA-5010</td>
-<td class="cuerpo_tabla_der">0,55</td>
-<td class="cuerpo_tabla_izq">UNZUE</td>
-<td class="cuerpo_tabla_der">0,55</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5030</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ECHAGÜE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,81 DE NA-5010</td>
-<td class="cuerpo_tabla_der">2,54</td>
-<td class="cuerpo_tabla_izq">ECHAGÜE</td>
-<td class="cuerpo_tabla_der">2,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5040</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ORICIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,91 DE NA-5010</td>
-<td class="cuerpo_tabla_der">0,35</td>
-<td class="cuerpo_tabla_izq">ORICIN</td>
-<td class="cuerpo_tabla_der">0,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5051</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TIEBAS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,90 DE NA-234</td>
-<td class="cuerpo_tabla_der">1,19</td>
-<td class="cuerpo_tabla_izq">TIEBAS</td>
-<td class="cuerpo_tabla_der">1,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5100</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GARINOAIN-LEOZ</td>
-<td class="cuerpo_tabla_der">0,49</td>
-<td class="cuerpo_tabla_izq">PK 25,77 DE N-121</td>
-<td class="cuerpo_tabla_der">14,14</td>
-<td class="cuerpo_tabla_izq">LEOZ</td>
-<td class="cuerpo_tabla_der">13,65</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5101</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ABINZANO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 24,98 DE N-240</td>
-<td class="cuerpo_tabla_der">1,30</td>
-<td class="cuerpo_tabla_izq">ABINZANO</td>
-<td class="cuerpo_tabla_der">1,30</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5102</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IZCO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 27,04 DE N-240</td>
-<td class="cuerpo_tabla_der">0,53</td>
-<td class="cuerpo_tabla_izq">IZCO</td>
-<td class="cuerpo_tabla_der">0,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5110</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PUEYO-ALTO DE LERGA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 30,00 DE N-121</td>
-<td class="cuerpo_tabla_der">14,97</td>
-<td class="cuerpo_tabla_izq">PK 49,50 DE NA-132</td>
-<td class="cuerpo_tabla_der">14,97</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5113</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MAQUIRRIAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,16 DE NA-5110</td>
-<td class="cuerpo_tabla_der">0,23</td>
-<td class="cuerpo_tabla_izq">MAQUIRRIAIN</td>
-<td class="cuerpo_tabla_der">0,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LEACHE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 67,84 DE NA-132</td>
-<td class="cuerpo_tabla_der">4,28</td>
-<td class="cuerpo_tabla_izq">LEACHE</td>
-<td class="cuerpo_tabla_der">4,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5130</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SADA-MORIONES</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,74 DE NA-5140</td>
-<td class="cuerpo_tabla_der">3,18</td>
-<td class="cuerpo_tabla_izq">MORIONES</td>
-<td class="cuerpo_tabla_der">3,18</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5140</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SADA DE SANGÜESA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 64,83 DE NA-132</td>
-<td class="cuerpo_tabla_der">1,58</td>
-<td class="cuerpo_tabla_izq">PK 65,48 DE NA-132</td>
-<td class="cuerpo_tabla_der">1,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5141</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AYESA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 61,35 DE NA-132</td>
-<td class="cuerpo_tabla_der">1,95</td>
-<td class="cuerpo_tabla_izq">AYESA</td>
-<td class="cuerpo_tabla_der">1,95</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5151</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SOLCHAGA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,60 DE NA-5100</td>
-<td class="cuerpo_tabla_der">2,71</td>
-<td class="cuerpo_tabla_izq">SOLCHAGA</td>
-<td class="cuerpo_tabla_der">2,71</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5152</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ORISOAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,63 DE NA-5100</td>
-<td class="cuerpo_tabla_der">0,53</td>
-<td class="cuerpo_tabla_izq">ORISOAIN</td>
-<td class="cuerpo_tabla_der">0,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5153</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LEOZ-SABAIZA</td>
-<td class="cuerpo_tabla_der">13,71</td>
-<td class="cuerpo_tabla_izq">PK 13,71 DE NA-5100</td>
-<td class="cuerpo_tabla_der">16,57</td>
-<td class="cuerpo_tabla_izq">VERJA DE SABAIZA</td>
-<td class="cuerpo_tabla_der">2,86</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5154</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">UZQUITA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 14,94 DE NA-5153</td>
-<td class="cuerpo_tabla_der">0,62</td>
-<td class="cuerpo_tabla_izq">UZQUITA</td>
-<td class="cuerpo_tabla_der">0,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5156</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IRACHETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 11,06 DE NA-5100</td>
-<td class="cuerpo_tabla_der">0,21</td>
-<td class="cuerpo_tabla_izq">IRACHETA</td>
-<td class="cuerpo_tabla_der">0,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5161</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AMATRIAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 26,92 DE N-121</td>
-<td class="cuerpo_tabla_der">7,51</td>
-<td class="cuerpo_tabla_izq">AMATRIAIN</td>
-<td class="cuerpo_tabla_der">7,51</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5162</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BEZQUIZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,55 DE NA-5161</td>
-<td class="cuerpo_tabla_der">0,49</td>
-<td class="cuerpo_tabla_izq">BEZQUIZ</td>
-<td class="cuerpo_tabla_der">0,49</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5163</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SANSOAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,99 DE NA-5110</td>
-<td class="cuerpo_tabla_der">1,35</td>
-<td class="cuerpo_tabla_izq">SANSOAIN</td>
-<td class="cuerpo_tabla_der">1,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5200</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">RIBAFORADA-CORTES</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 105,68 DE A-68</td>
-<td class="cuerpo_tabla_der">17,15</td>
-<td class="cuerpo_tabla_izq">Lte. ZARAGOZA</td>
-<td class="cuerpo_tabla_der">17,15</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5201</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">RIBAFORADA (ACCESO ESTACION FFCC.)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,86 DE NA-5200</td>
-<td class="cuerpo_tabla_der">0,32</td>
-<td class="cuerpo_tabla_izq">ESTACION FFCC.</td>
-<td class="cuerpo_tabla_der">0,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5202</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">FUSTIÑANA-RIBAFORADA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,50 DE NA-126</td>
-<td class="cuerpo_tabla_der">3,57</td>
-<td class="cuerpo_tabla_izq">PK 2,39 DE NA-5200</td>
-<td class="cuerpo_tabla_der">3,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5210</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BUÑUEL (ACCESOS A-68)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,72 DE NA-5200</td>
-<td class="cuerpo_tabla_der">2,06</td>
-<td class="cuerpo_tabla_izq">PK 109,66 DE A-68</td>
-<td class="cuerpo_tabla_der">2,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5211</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BUÑUEL (ACCESOS PUENTE)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,55 DE NA-5200</td>
-<td class="cuerpo_tabla_der">2,70</td>
-<td class="cuerpo_tabla_izq">PK 19,20 DE NA-126</td>
-<td class="cuerpo_tabla_der">2,70</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5221</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CORTES-NOVILLAS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 15,51 DE NA-5200</td>
-<td class="cuerpo_tabla_der">1,25</td>
-<td class="cuerpo_tabla_izq">Lte. ZARAGOZA</td>
-<td class="cuerpo_tabla_der">1,25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5222</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CORTES (ACCESOS)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK,116,66 DE N-232</td>
-<td class="cuerpo_tabla_der">1,31</td>
-<td class="cuerpo_tabla_izq">PK 16,03 DE NA-5200</td>
-<td class="cuerpo_tabla_der">1,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5230</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">FONTELLAS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 98,83 DE A-68</td>
-<td class="cuerpo_tabla_der">0,94</td>
-<td class="cuerpo_tabla_izq">FONTELLAS</td>
-<td class="cuerpo_tabla_der">0,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5281</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EL BOCAL</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 100,83 DE A-68</td>
-<td class="cuerpo_tabla_der">2,16</td>
-<td class="cuerpo_tabla_izq">EL BOCAL</td>
-<td class="cuerpo_tabla_der">2,16</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5300</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SAN MARTIN DE UNX-OLITE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 44,49 DE NA-132</td>
-<td class="cuerpo_tabla_der">9,75</td>
-<td class="cuerpo_tabla_izq">PK 0,57 DE NA-5303</td>
-<td class="cuerpo_tabla_der">9,75</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5301</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OLITE-BEIRE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,72 DE NA-5303</td>
-<td class="cuerpo_tabla_der">3,68</td>
-<td class="cuerpo_tabla_izq">BEIRE</td>
-<td class="cuerpo_tabla_der">3,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5302</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OLITE (ESTACION FFCC.)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,04 DE NA-5303</td>
-<td class="cuerpo_tabla_der">0,24</td>
-<td class="cuerpo_tabla_izq">ESTACION FFCC.</td>
-<td class="cuerpo_tabla_der">0,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5303</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VUELTA AL CASTILLO OLITE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 40,66 DE NA-8602</td>
-<td class="cuerpo_tabla_der">0,82</td>
-<td class="cuerpo_tabla_izq">PK 41,27 DE NA-8602</td>
-<td class="cuerpo_tabla_der">0,82</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5310</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">UJUE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 45,40 DE NA-132</td>
-<td class="cuerpo_tabla_der">7,44</td>
-<td class="cuerpo_tabla_izq">UJUE</td>
-<td class="cuerpo_tabla_der">7,44</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5311</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">UJUE-MURILLO EL FRUTO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,03 DE NA-5310</td>
-<td class="cuerpo_tabla_der">20,84</td>
-<td class="cuerpo_tabla_izq">PK 16,51 DE NA-1240</td>
-<td class="cuerpo_tabla_der">20,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5320</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GALLIPIENZO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 61,09 DE NA-132</td>
-<td class="cuerpo_tabla_der">5,70</td>
-<td class="cuerpo_tabla_izq">GALLIPIENZO</td>
-<td class="cuerpo_tabla_der">5,70</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5321</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CASEDA-GALLIPIENZO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 15,26 DE NA-5339</td>
-<td class="cuerpo_tabla_der">4,97</td>
-<td class="cuerpo_tabla_izq">PK 2,10 DE NA-5320</td>
-<td class="cuerpo_tabla_der">4,97</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5330</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">PITILLAS-SANTACARA-MELIDA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 47,05 DE N-121</td>
-<td class="cuerpo_tabla_der">10,16</td>
-<td class="cuerpo_tabla_izq">PK 8,58 DE NA-1240</td>
-<td class="cuerpo_tabla_der">10,16</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5330</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">PITILLAS-SANTACARA-MELIDA</td>
-<td class="cuerpo_tabla_der">10,46</td>
-<td class="cuerpo_tabla_izq">PK 8,88 DE NA-1240</td>
-<td class="cuerpo_tabla_der">12,15</td>
-<td class="cuerpo_tabla_izq">PK 23,55 DE NA-128</td>
-<td class="cuerpo_tabla_der">1,69</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5331</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PITILLAS-BEIRE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,97 DE NA-5330</td>
-<td class="cuerpo_tabla_der">3,54</td>
-<td class="cuerpo_tabla_izq">BEIRE</td>
-<td class="cuerpo_tabla_der">3,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5332</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PITILLAS-MURILLO EL CUENDE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,74 DE NA-5330</td>
-<td class="cuerpo_tabla_der">2,87</td>
-<td class="cuerpo_tabla_izq">MURILLO EL CUENDE</td>
-<td class="cuerpo_tabla_der">2,87</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5340</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SANGÜESA-GABARDERAL-CASEDA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,44 DE NA-127</td>
-<td class="cuerpo_tabla_der">8,90</td>
-<td class="cuerpo_tabla_izq">16,16 DE NA-5339</td>
-<td class="cuerpo_tabla_der">8,90</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5341</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GABARDERAL-CASEDA</td>
-<td class="cuerpo_tabla_der">3,94</td>
-<td class="cuerpo_tabla_izq">PK 1,42 DE NA-5342</td>
-<td class="cuerpo_tabla_der">10,26</td>
-<td class="cuerpo_tabla_izq">PK 15,76 DE NA-5339</td>
-<td class="cuerpo_tabla_der">6,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5342</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PEÑA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,70 DE NA-5340</td>
-<td class="cuerpo_tabla_der">2,35</td>
-<td class="cuerpo_tabla_izq">PEÑA</td>
-<td class="cuerpo_tabla_der">2,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5381</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MURILLO EL CUENDE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 50,08 DE N-121</td>
-<td class="cuerpo_tabla_der">1,13</td>
-<td class="cuerpo_tabla_izq">MURILLO EL CUENDE</td>
-<td class="cuerpo_tabla_der">1,13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5390</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">FIGAROL</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 32,20 DE NA-5339</td>
-<td class="cuerpo_tabla_der">10,31</td>
-<td class="cuerpo_tabla_izq">PK 40,23 DE NA-128</td>
-<td class="cuerpo_tabla_der">10,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5391</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO A FIGAROL</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,21 DE NA-5390</td>
-<td class="cuerpo_tabla_der">0,17</td>
-<td class="cuerpo_tabla_izq">FIGAROL</td>
-<td class="cuerpo_tabla_der">0,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5401</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ROCAFORTE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,68 DE NA-8603</td>
-<td class="cuerpo_tabla_der">1,54</td>
-<td class="cuerpo_tabla_izq">ROCAFORTE</td>
-<td class="cuerpo_tabla_der">1,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5410</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SANGÜESA-YESA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,80 DE NA-8603</td>
-<td class="cuerpo_tabla_der">12,20</td>
-<td class="cuerpo_tabla_izq">PK 47,43 DE N-240</td>
-<td class="cuerpo_tabla_der">12,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5411</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">JAVIER</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,54 DE NA-5410</td>
-<td class="cuerpo_tabla_der">1,30</td>
-<td class="cuerpo_tabla_izq">JAVIER</td>
-<td class="cuerpo_tabla_der">1,30</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5501</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CAPARROSO (RONDA)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 57,09 DE N-121</td>
-<td class="cuerpo_tabla_der">0,78</td>
-<td class="cuerpo_tabla_izq">PK 1,33 DE NA-5500</td>
-<td class="cuerpo_tabla_der">0,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5502</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO A CAPARROSO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">CAPARROSO</td>
-<td class="cuerpo_tabla_der">1,23</td>
-<td class="cuerpo_tabla_izq">PK 58,76 DE N-121</td>
-<td class="cuerpo_tabla_der">1,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5510</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">RADA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 18,77 DE NA-128</td>
-<td class="cuerpo_tabla_der">2,48</td>
-<td class="cuerpo_tabla_izq">RADA</td>
-<td class="cuerpo_tabla_der">2,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">5700</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PETILLA DE ARAGON</td>
-<td class="cuerpo_tabla_der">5,30</td>
-<td class="cuerpo_tabla_izq">Lte. ZARAGOZA</td>
-<td class="cuerpo_tabla_der">10,21</td>
-<td class="cuerpo_tabla_izq">PETILLA DE ARAGON</td>
-<td class="cuerpo_tabla_der">4,91</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6000</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ECHAVACOIZ-CAMPANAS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,95 DE A-12</td>
-<td class="cuerpo_tabla_der">13,68</td>
-<td class="cuerpo_tabla_izq">PK 14,79 DE N-121</td>
-<td class="cuerpo_tabla_der">13,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6001</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ESQUIROZ-NOAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">CARRETERA DEL SADAR</td>
-<td class="cuerpo_tabla_der">6,67</td>
-<td class="cuerpo_tabla_izq">PK 0,00 NA-5001</td>
-<td class="cuerpo_tabla_der">6,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6002</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SALINAS DE PAMPLONA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,50 DE NA-8102</td>
-<td class="cuerpo_tabla_der">1,96</td>
-<td class="cuerpo_tabla_izq">NA-6008</td>
-<td class="cuerpo_tabla_der">1,96</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6003</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CORDOVILLA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,58 DE NA-6001</td>
-<td class="cuerpo_tabla_der">0,70</td>
-<td class="cuerpo_tabla_izq">A.I.N</td>
-<td class="cuerpo_tabla_der">0,70</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6004</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GALAR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,38 DE NA-1110</td>
-<td class="cuerpo_tabla_der">3,13</td>
-<td class="cuerpo_tabla_izq">GALAR</td>
-<td class="cuerpo_tabla_der">3,13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6005</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZARIQUIEGUI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,13 DE NA-1110</td>
-<td class="cuerpo_tabla_der">1,85</td>
-<td class="cuerpo_tabla_izq">ZARIQUIEGUI</td>
-<td class="cuerpo_tabla_der">1,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6006</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AEROPUERTO NOAIN (VIEJA)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,04 DE NA-6002</td>
-<td class="cuerpo_tabla_der">0,62</td>
-<td class="cuerpo_tabla_izq">AEROPUERTO</td>
-<td class="cuerpo_tabla_der">0,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6007</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARLEGUI-BERIAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,65 DE NA-6000</td>
-<td class="cuerpo_tabla_der">3,80</td>
-<td class="cuerpo_tabla_izq">BERIAIN</td>
-<td class="cuerpo_tabla_der">1,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6008</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SALINAS-ESPARZA DE GALAR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,96 DE NA-6002</td>
-<td class="cuerpo_tabla_der">2,66</td>
-<td class="cuerpo_tabla_izq">PK 4,99 DE NA-6000</td>
-<td class="cuerpo_tabla_der">2,66</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6009</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BERIAIN-SUBIZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 8,45 DE N-121</td>
-<td class="cuerpo_tabla_der">4,13</td>
-<td class="cuerpo_tabla_izq">PK 9,74 DE NA-6000</td>
-<td class="cuerpo_tabla_der">4,13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6010</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GALAR (VIEJA)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,73 DE A-12</td>
-<td class="cuerpo_tabla_der">1,80</td>
-<td class="cuerpo_tabla_izq">GALAR</td>
-<td class="cuerpo_tabla_der">1,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6011</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ADIOS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,22 DE NA-601</td>
-<td class="cuerpo_tabla_der">1,55</td>
-<td class="cuerpo_tabla_izq">ADIOS</td>
-<td class="cuerpo_tabla_der">1,55</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6012</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">UCAR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,86 DE NA-601</td>
-<td class="cuerpo_tabla_der">0,73</td>
-<td class="cuerpo_tabla_izq">UCAR</td>
-<td class="cuerpo_tabla_der">0,73</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6013</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AÑORBE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,87 DE NA-601</td>
-<td class="cuerpo_tabla_der">2,05</td>
-<td class="cuerpo_tabla_izq">AÑORBE</td>
-<td class="cuerpo_tabla_der">2,05</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6014</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TIRAPU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,85 DE NA-6013</td>
-<td class="cuerpo_tabla_der">0,61</td>
-<td class="cuerpo_tabla_izq">TIRAPU</td>
-<td class="cuerpo_tabla_der">0,61</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6015</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ONDARRA (SANATORIO)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,27 DE NA-601</td>
-<td class="cuerpo_tabla_der">4,23</td>
-<td class="cuerpo_tabla_izq">SANATORIO ONDARRA</td>
-<td class="cuerpo_tabla_der">4,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6016</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">UTERGA-MURUZABAL</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,06 DE NA-1110</td>
-<td class="cuerpo_tabla_der">5,00</td>
-<td class="cuerpo_tabla_izq">MURUZABAL</td>
-<td class="cuerpo_tabla_der">5,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6017</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SUBIZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,04 DE NA-6000</td>
-<td class="cuerpo_tabla_der">0,38</td>
-<td class="cuerpo_tabla_izq">SUBIZA</td>
-<td class="cuerpo_tabla_der">0,38</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6020</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CARRASCAL-MARCILLA (I)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 17,62 DE N-121</td>
-<td class="cuerpo_tabla_der">19,95</td>
-<td class="cuerpo_tabla_izq">PK 22,39 DE NA-132</td>
-<td class="cuerpo_tabla_der">19,95</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6021</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARTAJONA (MURALLAS CERCO)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 12,11 DE NA-6020</td>
-<td class="cuerpo_tabla_der">1,09</td>
-<td class="cuerpo_tabla_izq">CERCO DE ARTAJONA</td>
-<td class="cuerpo_tabla_der">1,09</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6026</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AEROPUERTO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,33 DE PA-31</td>
-<td class="cuerpo_tabla_der">0,50</td>
-<td class="cuerpo_tabla_izq">AEROPUERTO</td>
-<td class="cuerpo_tabla_der">0,50</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6030</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">MENDIGORRIA-TAFALLA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 22,22 DE NA-601</td>
-<td class="cuerpo_tabla_der">7,90</td>
-<td class="cuerpo_tabla_izq">PK 13,56 DE NA-6020</td>
-<td class="cuerpo_tabla_der">7,90</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6030</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">MENDIGORRIA-TAFALLA</td>
-<td class="cuerpo_tabla_der">8,15</td>
-<td class="cuerpo_tabla_izq">PK 13,31 DE NA-6020</td>
-<td class="cuerpo_tabla_der">18,76</td>
-<td class="cuerpo_tabla_izq">PK 33,30 DE NA-132</td>
-<td class="cuerpo_tabla_der">10,61</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6031</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MURUZABAL DE ANDION</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 23,70 DE NA-601</td>
-<td class="cuerpo_tabla_der">2,28</td>
-<td class="cuerpo_tabla_izq">MURUZABAL DE ANDION</td>
-<td class="cuerpo_tabla_der">2,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6053</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZIZUR MAYOR-CIZUR MENOR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">ZIZUR MAYOR</td>
-<td class="cuerpo_tabla_der">1,26</td>
-<td class="cuerpo_tabla_izq">PK 1,27 DE NA-6000</td>
-<td class="cuerpo_tabla_der">1,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6056</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALTO DEL PERDON (ERMITA)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,30 DE NA-1110</td>
-<td class="cuerpo_tabla_der">6,46</td>
-<td class="cuerpo_tabla_izq">ERMITA SANTA CRUZ</td>
-<td class="cuerpo_tabla_der">6,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6061</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OBANOS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,60 DE NA-1110</td>
-<td class="cuerpo_tabla_der">1,25</td>
-<td class="cuerpo_tabla_izq">OBANOS</td>
-<td class="cuerpo_tabla_der">1,25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6062</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MURUZABAL</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,45 DE NA-6064</td>
-<td class="cuerpo_tabla_der">1,72</td>
-<td class="cuerpo_tabla_izq">MURUZABAL</td>
-<td class="cuerpo_tabla_der">1,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6063</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EUNATE (ERMITA)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 8,62 DE NA-601</td>
-<td class="cuerpo_tabla_der">0,20</td>
-<td class="cuerpo_tabla_izq">ERMITA EUNATE</td>
-<td class="cuerpo_tabla_der">0,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6064</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">OBANOS-PUENTE LA REINA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,45 DE NA-601</td>
-<td class="cuerpo_tabla_der">2,38</td>
-<td class="cuerpo_tabla_izq">PK 16,13 DE NA-1110</td>
-<td class="cuerpo_tabla_der">2,38</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6064</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">OBANOS-PUENTE LA REINA</td>
-<td class="cuerpo_tabla_der">3,71</td>
-<td class="cuerpo_tabla_izq">PK 17,47 DE NA-1110</td>
-<td class="cuerpo_tabla_der">4,91</td>
-<td class="cuerpo_tabla_izq">PK 17,94 DE NA-601</td>
-<td class="cuerpo_tabla_der">1,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6071</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MURUARTE DE RETA (VIEJA)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,42 DE NA-6020</td>
-<td class="cuerpo_tabla_der">0,39</td>
-<td class="cuerpo_tabla_izq">MURUARTE DE RETA</td>
-<td class="cuerpo_tabla_der">0,39</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6072</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MURUARTE DE RETA (NUEVA)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,81 DE NA-6020</td>
-<td class="cuerpo_tabla_der">0,60</td>
-<td class="cuerpo_tabla_izq">MURUARTE DE RETA</td>
-<td class="cuerpo_tabla_der">0,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6073</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OLCOZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,74 DE NA-6021</td>
-<td class="cuerpo_tabla_der">0,99</td>
-<td class="cuerpo_tabla_izq">OLCOZ</td>
-<td class="cuerpo_tabla_der">0,99</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6091</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VILLATUERTA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 33,25 DE NA-1110</td>
-<td class="cuerpo_tabla_der">0,44</td>
-<td class="cuerpo_tabla_izq">VILLATUERTA</td>
-<td class="cuerpo_tabla_der">0,44</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6095</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ESTELLA (POLIGONO INDUSTRIAL)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 33,88 DE NA-1110</td>
-<td class="cuerpo_tabla_der">0,84</td>
-<td class="cuerpo_tabla_izq">PK 1,00 DE NA-132</td>
-<td class="cuerpo_tabla_der">0,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6100</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CARRASCAL-MARCILLA (II)</td>
-<td class="cuerpo_tabla_der">19,95</td>
-<td class="cuerpo_tabla_izq">PK 22,39 DE NA-132</td>
-<td class="cuerpo_tabla_der">41,69</td>
-<td class="cuerpo_tabla_izq">PK 18,10 DE NA-115</td>
-<td class="cuerpo_tabla_der">21,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6111</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LERIN (RAMAL III)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 21,29 DE NA-122</td>
-<td class="cuerpo_tabla_der">0,66</td>
-<td class="cuerpo_tabla_izq">PK 46,87 DE NA-601</td>
-<td class="cuerpo_tabla_der">0,66</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6112</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ABERIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,41 DE NA-122</td>
-<td class="cuerpo_tabla_der">0,39</td>
-<td class="cuerpo_tabla_izq">ABERIN</td>
-<td class="cuerpo_tabla_der">0,39</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6113</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LERIN (RAMAL II)</td>
-<td class="cuerpo_tabla_der">0,12</td>
-<td class="cuerpo_tabla_izq">PK 0,12 DE NA-6114</td>
-<td class="cuerpo_tabla_der">0,47</td>
-<td class="cuerpo_tabla_izq">LERIN</td>
-<td class="cuerpo_tabla_der">0,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6114</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LERIN (VARIANTE)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 45,73 DE NA-601</td>
-<td class="cuerpo_tabla_der">1,26</td>
-<td class="cuerpo_tabla_izq">PK 22,42 DE NA-122</td>
-<td class="cuerpo_tabla_der">1,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6115</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MUNIAIN-MORENTIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,94 DE NA-122</td>
-<td class="cuerpo_tabla_der">1,90</td>
-<td class="cuerpo_tabla_izq">PK 6,74 DE NA-122</td>
-<td class="cuerpo_tabla_der">1,90</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LERIN-BERBINZANA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 39,74 DE NA-601</td>
-<td class="cuerpo_tabla_der">9,41</td>
-<td class="cuerpo_tabla_izq">PK 22,19 DE NA-6100</td>
-<td class="cuerpo_tabla_der">9,41</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6130</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LARRAGA-BERBINZANA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 32,06 DE NA-601</td>
-<td class="cuerpo_tabla_der">4,57</td>
-<td class="cuerpo_tabla_izq">PK 7,07 DE NA-6120</td>
-<td class="cuerpo_tabla_der">4,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6140</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TAFALLA-MIRANDA DE ARGA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 32,16 DE NA-132</td>
-<td class="cuerpo_tabla_der">17,35</td>
-<td class="cuerpo_tabla_izq">PK 4,46 DE NA-6120</td>
-<td class="cuerpo_tabla_der">17,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6210</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VERGALADA-FALCES-NA-115</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,55 DE NA-115</td>
-<td class="cuerpo_tabla_der">24,50</td>
-<td class="cuerpo_tabla_izq">PK 23,81 DE NA-122</td>
-<td class="cuerpo_tabla_der">24,50</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6221</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LODOSA-SARTAGUDA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 66,90 DE NA-134</td>
-<td class="cuerpo_tabla_der">5,31</td>
-<td class="cuerpo_tabla_izq">SARTAGUDA</td>
-<td class="cuerpo_tabla_der">5,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6222</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO PUENTE DE SARTAGUDA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,36 DE NA-6221</td>
-<td class="cuerpo_tabla_der">2,25</td>
-<td class="cuerpo_tabla_izq">PK 5,11 DE NA-123</td>
-<td class="cuerpo_tabla_der">2,25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6230</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VENTAS DE CARCAR-CARCAR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 31,57 DE NA-122</td>
-<td class="cuerpo_tabla_der">2,36</td>
-<td class="cuerpo_tabla_izq">PK 58,05 DE NA-134</td>
-<td class="cuerpo_tabla_der">2,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6231</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO CARCAR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 58,70 DE NA-134</td>
-<td class="cuerpo_tabla_der">0,89</td>
-<td class="cuerpo_tabla_izq">CARCAR</td>
-<td class="cuerpo_tabla_der">0,89</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6310</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TORRES DEL RIO-LAZAGURRIA-MENDAVIA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 62,66 DE NA-1110</td>
-<td class="cuerpo_tabla_der">15,02</td>
-<td class="cuerpo_tabla_izq">MENDAVIA</td>
-<td class="cuerpo_tabla_der">15,02</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6311</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LODOSA (ESTACION FFCC.)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,68 DE NA-123</td>
-<td class="cuerpo_tabla_der">0,21</td>
-<td class="cuerpo_tabla_izq">ESTACION FFCC.</td>
-<td class="cuerpo_tabla_der">0,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6320</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VIANA-RECAJO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 79,77 DE N-111</td>
-<td class="cuerpo_tabla_der">5,17</td>
-<td class="cuerpo_tabla_izq">PK 92,09 DE NA-134</td>
-<td class="cuerpo_tabla_der">5,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6330</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LAZAGURRIA-NA-112</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,38 DE NA-6310</td>
-<td class="cuerpo_tabla_der">1,36</td>
-<td class="cuerpo_tabla_izq">PK 9,03 DE NA-112</td>
-<td class="cuerpo_tabla_der">1,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6335</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO A LOS ARCOS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,89 DE NA-112</td>
-<td class="cuerpo_tabla_der">0,85</td>
-<td class="cuerpo_tabla_izq">PK 2,11 DE NA-8401</td>
-<td class="cuerpo_tabla_der">0,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6340</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">URBIOLA-ALLO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 48,77 DE NA-1110</td>
-<td class="cuerpo_tabla_der">9,95</td>
-<td class="cuerpo_tabla_izq">ALLO</td>
-<td class="cuerpo_tabla_der">9,95</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6341</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">DICASTILLO (I)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 8,74 DE NA-122</td>
-<td class="cuerpo_tabla_der">7,19</td>
-<td class="cuerpo_tabla_izq">PK 3,32 DE NA-6660</td>
-<td class="cuerpo_tabla_der">7,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6342</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARELLANO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,90 DE NA-122</td>
-<td class="cuerpo_tabla_der">3,80</td>
-<td class="cuerpo_tabla_izq">ARELLANO</td>
-<td class="cuerpo_tabla_der">3,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6343</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARRONIZ-NA-129</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 15,96 DE NA-7400</td>
-<td class="cuerpo_tabla_der">11,53</td>
-<td class="cuerpo_tabla_izq">PK 22,76 DE NA-129</td>
-<td class="cuerpo_tabla_der">11,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6344</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO A SESMA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 25,62 DE NA-129</td>
-<td class="cuerpo_tabla_der">1,02</td>
-<td class="cuerpo_tabla_izq">PK 1,71 DE NA-8404</td>
-<td class="cuerpo_tabla_der">1,02</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6346</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">DICASTILLO (II)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,43 DE NA-6341</td>
-<td class="cuerpo_tabla_der">0,81</td>
-<td class="cuerpo_tabla_izq">PK 1,65 DE NA-6342</td>
-<td class="cuerpo_tabla_der">0,81</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6347</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">DICASTILLO (III)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,68 DE NA-6346</td>
-<td class="cuerpo_tabla_der">0,23</td>
-<td class="cuerpo_tabla_izq">PK 2,03 DE NA-6342</td>
-<td class="cuerpo_tabla_der">0,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6361</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MENDAVIA-LA BARCA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 79,22 DE NA-134</td>
-<td class="cuerpo_tabla_der">3,16</td>
-<td class="cuerpo_tabla_izq">RIO EBRO</td>
-<td class="cuerpo_tabla_der">3,16</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6362</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EL BUSTO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 59,90 DE NA-1110</td>
-<td class="cuerpo_tabla_der">1,21</td>
-<td class="cuerpo_tabla_izq">EL BUSTO</td>
-<td class="cuerpo_tabla_der">1,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6400</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PUEYO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 29,14 DE N-121</td>
-<td class="cuerpo_tabla_der">0,92</td>
-<td class="cuerpo_tabla_izq">PUEYO</td>
-<td class="cuerpo_tabla_der">0,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6451</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GARINOAIN (ESTACION FFCC.)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,00 ESTACION FFCC.</td>
-<td class="cuerpo_tabla_der">0,34</td>
-<td class="cuerpo_tabla_izq">PK 25,77 DE N-121</td>
-<td class="cuerpo_tabla_der">0,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6510</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AZAGRA-LA BARCA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 44,47 DE NA-134</td>
-<td class="cuerpo_tabla_der">1,30</td>
-<td class="cuerpo_tabla_izq">RIO EBRO</td>
-<td class="cuerpo_tabla_der">1,30</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6531</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SAN ADRIAN-CALAHORRA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 49,74 DE NA-134</td>
-<td class="cuerpo_tabla_der">1,51</td>
-<td class="cuerpo_tabla_izq">Lte. LA RIOJA</td>
-<td class="cuerpo_tabla_der">1,51</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6540</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LODOSA-ALCANADRE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,51 DE NA-123</td>
-<td class="cuerpo_tabla_der">3,36</td>
-<td class="cuerpo_tabla_izq">Lte. LA RIOJA</td>
-<td class="cuerpo_tabla_der">3,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6620</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OLITE-NA-115</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">OLITE</td>
-<td class="cuerpo_tabla_der">3,15</td>
-<td class="cuerpo_tabla_izq">PK 4,00 DE NA-115</td>
-<td class="cuerpo_tabla_der">3,15</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6630</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PERALTA-FUNES-MARCILLA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,20 DE NA-8702</td>
-<td class="cuerpo_tabla_der">8,45</td>
-<td class="cuerpo_tabla_izq">PK 8,25 DE NA-128</td>
-<td class="cuerpo_tabla_der">8,45</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6631</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">FUNES-NA-115</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,84 DE NA-6630</td>
-<td class="cuerpo_tabla_der">2,60</td>
-<td class="cuerpo_tabla_izq">PK 27,75 DE NA-115</td>
-<td class="cuerpo_tabla_der">2,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6710</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MURCHANTE-VIA ROMANA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,98 DE NA-6840</td>
-<td class="cuerpo_tabla_der">3,61</td>
-<td class="cuerpo_tabla_izq">PK 5,30 DE NA-6830</td>
-<td class="cuerpo_tabla_der">3,61</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6711</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CASCANTE-MURCHANTE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,48 DE NA-6830</td>
-<td class="cuerpo_tabla_der">3,70</td>
-<td class="cuerpo_tabla_izq">PK 4,09 DE NA-6840</td>
-<td class="cuerpo_tabla_der">3,70</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6801</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CINTRUENIGO (POLIGONO INDUSTRIAL)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 92,00 DE N-113</td>
-<td class="cuerpo_tabla_der">2,33</td>
-<td class="cuerpo_tabla_izq">PK 15,03 DE NA-160</td>
-<td class="cuerpo_tabla_der">2,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6802</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO A CASTEJON</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 78,71 DE N-113</td>
-<td class="cuerpo_tabla_der">0,38</td>
-<td class="cuerpo_tabla_izq">CASTEJON</td>
-<td class="cuerpo_tabla_der">0,38</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6810</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MONTES DEL CIERZO-CORELLA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,97 DE NA-160</td>
-<td class="cuerpo_tabla_der">8,51</td>
-<td class="cuerpo_tabla_izq">PK 4,17 DE NA-6920</td>
-<td class="cuerpo_tabla_der">8,51</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6820</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALFARO-GRAVALOS</td>
-<td class="cuerpo_tabla_der">16,58</td>
-<td class="cuerpo_tabla_izq">Lte. LA RIOJA</td>
-<td class="cuerpo_tabla_der">19,14</td>
-<td class="cuerpo_tabla_izq">Lte. LA RIOJA</td>
-<td class="cuerpo_tabla_der">2,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6830</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VIA ROMANA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,10 DE N-121C</td>
-<td class="cuerpo_tabla_der">10,72</td>
-<td class="cuerpo_tabla_izq">PK 2,42 DE NA-6810</td>
-<td class="cuerpo_tabla_der">10,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6840</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TUDELA-MURCHANTE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,58 DE NA-160</td>
-<td class="cuerpo_tabla_der">5,38</td>
-<td class="cuerpo_tabla_izq">PK 6,13 DE N-121C</td>
-<td class="cuerpo_tabla_der">5,38</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6891</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CORELLA A GRAVALOS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,33 DE NA-161</td>
-<td class="cuerpo_tabla_der">3,86</td>
-<td class="cuerpo_tabla_izq">PK 1,10 DE NA-6820</td>
-<td class="cuerpo_tabla_der">3,86</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6900</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CASCANTE-FITERO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,61 DE N-121C</td>
-<td class="cuerpo_tabla_der">19,59</td>
-<td class="cuerpo_tabla_izq">PK 23,46 DE NA-160</td>
-<td class="cuerpo_tabla_der">19,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6911</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CORELLA (ESTACION FFCC.)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 8,08 DE NA-6810</td>
-<td class="cuerpo_tabla_der">0,39</td>
-<td class="cuerpo_tabla_izq">ESTACION FFCC.</td>
-<td class="cuerpo_tabla_der">0,39</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6920</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALFARO-CINTRUENIGO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">Lte. LA RIOJA</td>
-<td class="cuerpo_tabla_der">6,59</td>
-<td class="cuerpo_tabla_izq">PK 1,30 DE NA-8708</td>
-<td class="cuerpo_tabla_der">6,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6941</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">FITERO (BAÑOS NUEVOS-BAÑOS VIEJOS)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 27,29 DE NA-160</td>
-<td class="cuerpo_tabla_der">0,45</td>
-<td class="cuerpo_tabla_izq">BAÑOS DE FITERO</td>
-<td class="cuerpo_tabla_der">0,45</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">6991</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">FITERO-VALVERDE</td>
-<td class="cuerpo_tabla_der">0,11</td>
-<td class="cuerpo_tabla_izq">PK 19,45 DE NA-6900</td>
-<td class="cuerpo_tabla_der">7,36</td>
-<td class="cuerpo_tabla_izq">Lte. LA RIOJA</td>
-<td class="cuerpo_tabla_der">7,25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7001</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,72 DE NA-7000</td>
-<td class="cuerpo_tabla_der">2,30</td>
-<td class="cuerpo_tabla_izq">IZA</td>
-<td class="cuerpo_tabla_der">2,30</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7002</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARAZURI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,52 DE NA-7000</td>
-<td class="cuerpo_tabla_der">0,46</td>
-<td class="cuerpo_tabla_izq">ARAZURI</td>
-<td class="cuerpo_tabla_der">0,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7003</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LOZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,11 DE N-240A</td>
-<td class="cuerpo_tabla_der">2,03</td>
-<td class="cuerpo_tabla_izq">LOZA</td>
-<td class="cuerpo_tabla_der">2,03</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7004</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IZCUE-ARTAZCOZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 11,02 DE NA-7000</td>
-<td class="cuerpo_tabla_der">1,65</td>
-<td class="cuerpo_tabla_izq">ARTAZCOZ</td>
-<td class="cuerpo_tabla_der">1,65</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7005</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VILLANUEVA-PUENTE DE MUEZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">VILLANUEVA DE YERRI</td>
-<td class="cuerpo_tabla_der">2,03</td>
-<td class="cuerpo_tabla_izq">PK 31,45 DE NA-7000</td>
-<td class="cuerpo_tabla_der">2,03</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7006</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">UGAR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 36,06 DE NA-7000</td>
-<td class="cuerpo_tabla_der">1,06</td>
-<td class="cuerpo_tabla_izq">UGAR</td>
-<td class="cuerpo_tabla_der">1,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7007</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARIZALA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 8,66 DE NA-7320</td>
-<td class="cuerpo_tabla_der">0,31</td>
-<td class="cuerpo_tabla_izq">PK 37,54 DE NA-7000</td>
-<td class="cuerpo_tabla_der">0,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7008</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GROCIN-ZURUCUAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 32,23 DE NA-1110</td>
-<td class="cuerpo_tabla_der">5,30</td>
-<td class="cuerpo_tabla_izq">PK 42,02 DE NA-7000</td>
-<td class="cuerpo_tabla_der">5,30</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7010</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ASTRAIN-IRURTZUN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,57 DE NA-1110</td>
-<td class="cuerpo_tabla_der">22,89</td>
-<td class="cuerpo_tabla_izq">PK 20,32 DE N-240A</td>
-<td class="cuerpo_tabla_der">22,89</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7011</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARIZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 12,17 DE N-240A</td>
-<td class="cuerpo_tabla_der">3,20</td>
-<td class="cuerpo_tabla_izq">ARIZ</td>
-<td class="cuerpo_tabla_der">3,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7012</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OCHOVI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,93 DE N-240A</td>
-<td class="cuerpo_tabla_der">1,43</td>
-<td class="cuerpo_tabla_izq">OCHOVI</td>
-<td class="cuerpo_tabla_der">1,43</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7013</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ECAY</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,46 DE NA-2410</td>
-<td class="cuerpo_tabla_der">0,29</td>
-<td class="cuerpo_tabla_izq">ECAY</td>
-<td class="cuerpo_tabla_der">0,29</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7014</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">UNDIANO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,33 DE NA-7010</td>
-<td class="cuerpo_tabla_der">2,22</td>
-<td class="cuerpo_tabla_izq">UNDIANO</td>
-<td class="cuerpo_tabla_der">2,22</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7015</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZIZUR MAYOR-BELASCOAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,47 DE A-12</td>
-<td class="cuerpo_tabla_der">15,49</td>
-<td class="cuerpo_tabla_izq">PK 6,85 DE NA-7110</td>
-<td class="cuerpo_tabla_der">15,49</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7016</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SAGÜES</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,95 DE NA-7015</td>
-<td class="cuerpo_tabla_der">0,93</td>
-<td class="cuerpo_tabla_izq">SAGÜES</td>
-<td class="cuerpo_tabla_der">0,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7017</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZABALZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,50 DE NA-7015</td>
-<td class="cuerpo_tabla_der">0,78</td>
-<td class="cuerpo_tabla_izq">ZABALZA</td>
-<td class="cuerpo_tabla_der">0,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7018</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IZU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 11,11 DE NA-7010</td>
-<td class="cuerpo_tabla_der">0,47</td>
-<td class="cuerpo_tabla_izq">IZU</td>
-<td class="cuerpo_tabla_der">0,47</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7019</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ERROZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 20,13 DE NA-7010</td>
-<td class="cuerpo_tabla_der">0,18</td>
-<td class="cuerpo_tabla_izq">ERROZ</td>
-<td class="cuerpo_tabla_der">0,18</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7020</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VALLE DE GOÑI</td>
-<td class="cuerpo_tabla_der">8,10</td>
-<td class="cuerpo_tabla_izq">PK 29,08 DE NA-7000</td>
-<td class="cuerpo_tabla_der">34,78</td>
-<td class="cuerpo_tabla_izq">PK 16,42 DE NA-7010</td>
-<td class="cuerpo_tabla_der">26,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7021</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARGUIÑANO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,65 DE NA-7020</td>
-<td class="cuerpo_tabla_der">0,53</td>
-<td class="cuerpo_tabla_izq">ARGUIÑANO</td>
-<td class="cuerpo_tabla_der">0,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7022</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SALDISE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 32,51 DE NA-7020</td>
-<td class="cuerpo_tabla_der">1,12</td>
-<td class="cuerpo_tabla_izq">SALDISE</td>
-<td class="cuerpo_tabla_der">1,12</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7023</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ILZARBE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 33,54 DE NA-7020</td>
-<td class="cuerpo_tabla_der">1,41</td>
-<td class="cuerpo_tabla_izq">ILZARBE</td>
-<td class="cuerpo_tabla_der">1,41</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7024</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AZANZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 24,50 DE NA-7020</td>
-<td class="cuerpo_tabla_der">0,21</td>
-<td class="cuerpo_tabla_izq">AZANZA</td>
-<td class="cuerpo_tabla_der">0,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7027</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CARRETERA DE LA UNIVERSIDAD</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">Lte. PAMPLONA</td>
-<td class="cuerpo_tabla_der">1,21</td>
-<td class="cuerpo_tabla_izq">PK 0,52 DE NA-6000</td>
-<td class="cuerpo_tabla_der">1,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7030</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARTETA-AIZPUN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 32,51 DE NA-7020</td>
-<td class="cuerpo_tabla_der">15,62</td>
-<td class="cuerpo_tabla_izq">PK 23,26 DE NA-7020</td>
-<td class="cuerpo_tabla_der">15,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7031</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ULZURRUN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,86 DE NA-7030</td>
-<td class="cuerpo_tabla_der">0,96</td>
-<td class="cuerpo_tabla_izq">ULZURRUN</td>
-<td class="cuerpo_tabla_der">0,96</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7032</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OLLO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,53 DE NA-7030</td>
-<td class="cuerpo_tabla_der">0,46</td>
-<td class="cuerpo_tabla_izq">OLLO</td>
-<td class="cuerpo_tabla_der">0,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7033</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SENOSIAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,14 DE NA-7032</td>
-<td class="cuerpo_tabla_der">0,39</td>
-<td class="cuerpo_tabla_izq">SENOSIAIN</td>
-<td class="cuerpo_tabla_der">0,39</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7040</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PUENTE LA REINA-NA-7000</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 17,79 DE NA-1110</td>
-<td class="cuerpo_tabla_der">19,90</td>
-<td class="cuerpo_tabla_izq">PK 28,71 DE NA-7000</td>
-<td class="cuerpo_tabla_der">19,90</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7041</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ECHARREN DE GUIRGUILLANO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,08 DE NA-7040</td>
-<td class="cuerpo_tabla_der">1,58</td>
-<td class="cuerpo_tabla_izq">ECHARREN GUIRGUILLANO</td>
-<td class="cuerpo_tabla_der">1,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7042</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARZOZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 16,57 DE NA-7040</td>
-<td class="cuerpo_tabla_der">2,09</td>
-<td class="cuerpo_tabla_izq">ARZOZ</td>
-<td class="cuerpo_tabla_der">2,09</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7059</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MUNIAIN DE GÜESALAZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 21,09 DE NA-7000</td>
-<td class="cuerpo_tabla_der">1,60</td>
-<td class="cuerpo_tabla_izq">MUNIAIN DE GÜESALAZ</td>
-<td class="cuerpo_tabla_der">1,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7061</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LIZASOAIN-OLZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,86 DE NA-7010</td>
-<td class="cuerpo_tabla_der">2,67</td>
-<td class="cuerpo_tabla_izq">OLZA</td>
-<td class="cuerpo_tabla_der">2,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7062</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BEASOAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,67 DE NA-7063</td>
-<td class="cuerpo_tabla_der">0,23</td>
-<td class="cuerpo_tabla_izq">BEASOAIN</td>
-<td class="cuerpo_tabla_der">0,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7063</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EGUILLOR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,81 DE NA-7010</td>
-<td class="cuerpo_tabla_der">1,00</td>
-<td class="cuerpo_tabla_izq">EGUILLOR</td>
-<td class="cuerpo_tabla_der">1,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7064</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LETE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 15,26 DE NA-7010</td>
-<td class="cuerpo_tabla_der">0,97</td>
-<td class="cuerpo_tabla_izq">LETE</td>
-<td class="cuerpo_tabla_der">0,97</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7065</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">URRIZOLA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 20,07 DE NA-7010</td>
-<td class="cuerpo_tabla_der">1,49</td>
-<td class="cuerpo_tabla_izq">URRIZOLA</td>
-<td class="cuerpo_tabla_der">1,49</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7066</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LARRAGUETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,33 DE N-240A</td>
-<td class="cuerpo_tabla_der">1,29</td>
-<td class="cuerpo_tabla_izq">LARRAGUETA</td>
-<td class="cuerpo_tabla_der">1,29</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7067</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALDABA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,43 DE NA-7011</td>
-<td class="cuerpo_tabla_der">1,58</td>
-<td class="cuerpo_tabla_izq">ALDABA</td>
-<td class="cuerpo_tabla_der">1,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7068</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZUHATZU (ARAKIL)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,50 DE NA-2410</td>
-<td class="cuerpo_tabla_der">0,11</td>
-<td class="cuerpo_tabla_izq">ZUHATZU</td>
-<td class="cuerpo_tabla_der">0,11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7069</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SATRUSTEGUI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,12 DE NA-2410</td>
-<td class="cuerpo_tabla_der">0,17</td>
-<td class="cuerpo_tabla_izq">SATRUSTEGUI</td>
-<td class="cuerpo_tabla_der">0,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7071</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ATONDO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 17,60 DE NA-7010</td>
-<td class="cuerpo_tabla_der">0,58</td>
-<td class="cuerpo_tabla_izq">ATONDO</td>
-<td class="cuerpo_tabla_der">0,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7091</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VIGURIA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 18,59 DE NA-7040</td>
-<td class="cuerpo_tabla_der">1,10</td>
-<td class="cuerpo_tabla_izq">VIGURIA</td>
-<td class="cuerpo_tabla_der">1,10</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7100</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PUERTO DE LIZARRAGA-ARBIZU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 31,64 DE NA-120</td>
-<td class="cuerpo_tabla_der">7,11</td>
-<td class="cuerpo_tabla_izq">PK 19,33 DE NA-2410</td>
-<td class="cuerpo_tabla_der">7,11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7101</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">DORRAO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,10 DE NA-7100</td>
-<td class="cuerpo_tabla_der">0,78</td>
-<td class="cuerpo_tabla_izq">DORRAO</td>
-<td class="cuerpo_tabla_der">0,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7102</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">UNANU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,63 DE NA-7100</td>
-<td class="cuerpo_tabla_der">1,45</td>
-<td class="cuerpo_tabla_izq">UNANU</td>
-<td class="cuerpo_tabla_der">1,45</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7103</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO A ARRUAZU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 15,83 DE NA-2410</td>
-<td class="cuerpo_tabla_der">0,24</td>
-<td class="cuerpo_tabla_izq">PK 35,20 DE NA-8502</td>
-<td class="cuerpo_tabla_der">0,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7110</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ETXAURI-ORENDAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,25 DE NA-7000</td>
-<td class="cuerpo_tabla_der">15,36</td>
-<td class="cuerpo_tabla_izq">PK 6,36 DE NA-7040</td>
-<td class="cuerpo_tabla_der">15,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7111</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARGUINARIZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,21 DE NA-7110</td>
-<td class="cuerpo_tabla_der">4,59</td>
-<td class="cuerpo_tabla_izq">ARGUIÑARIZ</td>
-<td class="cuerpo_tabla_der">4,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7112</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BIDAURRETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,17 DE NA-7110</td>
-<td class="cuerpo_tabla_der">0,49</td>
-<td class="cuerpo_tabla_izq">BIDAURRETA</td>
-<td class="cuerpo_tabla_der">0,49</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LERATE</td>
-<td class="cuerpo_tabla_der">11,87</td>
-<td class="cuerpo_tabla_izq">PK 11,86 DE NA-7040</td>
-<td class="cuerpo_tabla_der">16,42</td>
-<td class="cuerpo_tabla_izq">LERATE</td>
-<td class="cuerpo_tabla_der">4,55</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7122</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IRURRE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 15,75 DE NA-7120</td>
-<td class="cuerpo_tabla_der">1,59</td>
-<td class="cuerpo_tabla_izq">IRURRE</td>
-<td class="cuerpo_tabla_der">1,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7123</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GARISOAIN-ALLOZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 14,62 DE NA-7120</td>
-<td class="cuerpo_tabla_der">5,45</td>
-<td class="cuerpo_tabla_izq">PK 5,45 DE NA-7171</td>
-<td class="cuerpo_tabla_der">5,45</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7124</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IRURRE-NA-7123</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,63 DE NA-7123</td>
-<td class="cuerpo_tabla_der">0,84</td>
-<td class="cuerpo_tabla_izq">IRURRE</td>
-<td class="cuerpo_tabla_der">0,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7130</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AMESCOA ALTA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 16,65 DE NA-718</td>
-<td class="cuerpo_tabla_der">12,74</td>
-<td class="cuerpo_tabla_izq">Lte. ALAVA</td>
-<td class="cuerpo_tabla_der">12,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7131</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BARINDANO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,90 DE NA-718</td>
-<td class="cuerpo_tabla_der">0,37</td>
-<td class="cuerpo_tabla_izq">BARINDANO</td>
-<td class="cuerpo_tabla_der">0,37</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7133</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IBIRICU (YERRI)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,05 DE NA-120</td>
-<td class="cuerpo_tabla_der">0,28</td>
-<td class="cuerpo_tabla_izq">IBIRICU</td>
-<td class="cuerpo_tabla_der">0,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7134</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ECHAVARRI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,97 DE NA-718</td>
-<td class="cuerpo_tabla_der">1,60</td>
-<td class="cuerpo_tabla_izq">ECHAVARRI</td>
-<td class="cuerpo_tabla_der">1,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7135</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IRANZU (MONASTERIO)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,46 DE NA-120</td>
-<td class="cuerpo_tabla_der">3,39</td>
-<td class="cuerpo_tabla_izq">MONASTERIO IRANZU</td>
-<td class="cuerpo_tabla_der">3,39</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7136</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARTAVIA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,67 DE NA-718</td>
-<td class="cuerpo_tabla_der">1,19</td>
-<td class="cuerpo_tabla_izq">ARTAVIA</td>
-<td class="cuerpo_tabla_der">1,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7137</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GALDEANO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,80 DE NA-718</td>
-<td class="cuerpo_tabla_der">2,24</td>
-<td class="cuerpo_tabla_izq">GALDEANO</td>
-<td class="cuerpo_tabla_der">2,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7138</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LARRION-MUNETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,15 DE NA-718</td>
-<td class="cuerpo_tabla_der">3,26</td>
-<td class="cuerpo_tabla_izq">ARAMENDIA</td>
-<td class="cuerpo_tabla_der">3,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7139</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EULZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,25 DE NA-718</td>
-<td class="cuerpo_tabla_der">1,48</td>
-<td class="cuerpo_tabla_izq">EULZ</td>
-<td class="cuerpo_tabla_der">1,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7140</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">RIEZU-ITURGOYEN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 32,64 DE NA-7000</td>
-<td class="cuerpo_tabla_der">4,10</td>
-<td class="cuerpo_tabla_izq">ITURGOYEN</td>
-<td class="cuerpo_tabla_der">4,10</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7171</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LERATE-LORCA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 16,35 DE NA-7120</td>
-<td class="cuerpo_tabla_der">7,19</td>
-<td class="cuerpo_tabla_izq">PK 33,30 DE NA-1110</td>
-<td class="cuerpo_tabla_der">7,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7174</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LORCA-EL MOLINO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">LORCA</td>
-<td class="cuerpo_tabla_der">0,54</td>
-<td class="cuerpo_tabla_izq">PASO SUBTERRANEO</td>
-<td class="cuerpo_tabla_der">0,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7175</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALLOZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,93 DE NA-7171</td>
-<td class="cuerpo_tabla_der">1,35</td>
-<td class="cuerpo_tabla_izq">PK 2,82 DE NA-7320</td>
-<td class="cuerpo_tabla_der">1,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7179</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZUDAIRE (COLONIA ESCOLAR)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 16,03 DE NA-718</td>
-<td class="cuerpo_tabla_der">0,38</td>
-<td class="cuerpo_tabla_izq">COLONIA ESCOLAR</td>
-<td class="cuerpo_tabla_der">0,38</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7181</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ECALA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,38 DE NA-7130</td>
-<td class="cuerpo_tabla_der">0,81</td>
-<td class="cuerpo_tabla_izq">ECALA</td>
-<td class="cuerpo_tabla_der">0,81</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7183</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALTSASU/ALSASUA-URBASA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 31,80 DE NA-2410</td>
-<td class="cuerpo_tabla_der">2,34</td>
-<td class="cuerpo_tabla_izq">PK 36,40 DE NA-718</td>
-<td class="cuerpo_tabla_der">2,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7184</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALTSASU/ALSASUA (ESTACION FFCC.)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0.56 DE NA-8505</td>
-<td class="cuerpo_tabla_der">1,14</td>
-<td class="cuerpo_tabla_izq">ESTACION FFCC.</td>
-<td class="cuerpo_tabla_der">1,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7186</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARTAZA-URRA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,44 DE NA-7187</td>
-<td class="cuerpo_tabla_der">3,10</td>
-<td class="cuerpo_tabla_izq">URRA</td>
-<td class="cuerpo_tabla_der">3,10</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7187</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BAQUEDANO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,83 DE NA-718</td>
-<td class="cuerpo_tabla_der">2,21</td>
-<td class="cuerpo_tabla_izq">BAQUEDANO</td>
-<td class="cuerpo_tabla_der">2,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7188</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GOLLANO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,71 DE NA-7187</td>
-<td class="cuerpo_tabla_der">1,37</td>
-<td class="cuerpo_tabla_izq">GOLLANO</td>
-<td class="cuerpo_tabla_der">1,37</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7189</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ERAUL</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,36 DE NA-718</td>
-<td class="cuerpo_tabla_der">3,45</td>
-<td class="cuerpo_tabla_izq">ERAUL</td>
-<td class="cuerpo_tabla_der">3,45</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7191</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZUÑIGA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 25,73 DE NA-132A</td>
-<td class="cuerpo_tabla_der">0,57</td>
-<td class="cuerpo_tabla_izq">ZUÑIGA</td>
-<td class="cuerpo_tabla_der">0,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7200</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SANSOL-CABREDO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 62,72 DE NA-1110</td>
-<td class="cuerpo_tabla_der">19,23</td>
-<td class="cuerpo_tabla_izq">PK 3,14 DE NA-7430</td>
-<td class="cuerpo_tabla_der">19,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7201</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AZUELO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,00 DE NA-7200</td>
-<td class="cuerpo_tabla_der">0,35</td>
-<td class="cuerpo_tabla_izq">AZUELO</td>
-<td class="cuerpo_tabla_der">0,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7202</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CODES (SANTUARIO)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 8,63 DE NA-7200</td>
-<td class="cuerpo_tabla_der">3,31</td>
-<td class="cuerpo_tabla_izq">SANTUARIO CODES</td>
-<td class="cuerpo_tabla_der">3,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7203</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">NAZAR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,52 DE NA-129</td>
-<td class="cuerpo_tabla_der">3,45</td>
-<td class="cuerpo_tabla_izq">NAZAR (CEMENTERIO)</td>
-<td class="cuerpo_tabla_der">3,45</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7205</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SANSOL-DESOJO-ESPRONCEDA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 62,26 DE NA-1110</td>
-<td class="cuerpo_tabla_der">8,31</td>
-<td class="cuerpo_tabla_izq">PK 5,99 DE NA-7200</td>
-<td class="cuerpo_tabla_der">8,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7206</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BARGOTA SUR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 67,84 DE NA-1110</td>
-<td class="cuerpo_tabla_der">2,73</td>
-<td class="cuerpo_tabla_izq">BARGOTA</td>
-<td class="cuerpo_tabla_der">2,73</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7210</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MEANO-ALAVA (I)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">Lte. ALAVA</td>
-<td class="cuerpo_tabla_der">6,29</td>
-<td class="cuerpo_tabla_izq">Lte. ALAVA</td>
-<td class="cuerpo_tabla_der">6,29</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7211</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LA POBLACION-AGUILAR DE CODES</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,04 DE NA-7210</td>
-<td class="cuerpo_tabla_der">5,26</td>
-<td class="cuerpo_tabla_izq">PK 17,17 DE NA-7200</td>
-<td class="cuerpo_tabla_der">5,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7220</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VIANA-MOREDA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 80,63 DE N-111</td>
-<td class="cuerpo_tabla_der">1,78</td>
-<td class="cuerpo_tabla_izq">Lte. ALAVA</td>
-<td class="cuerpo_tabla_der">1,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7230</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VIANA-AGUILAR DE CODES</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 80,20 DE N-111</td>
-<td class="cuerpo_tabla_der">16,99</td>
-<td class="cuerpo_tabla_izq">PK 14,64 DE NA-7200</td>
-<td class="cuerpo_tabla_der">16,99</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7240</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VALLE DE LANA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 19,39 DE NA-132A</td>
-<td class="cuerpo_tabla_der">9,17</td>
-<td class="cuerpo_tabla_izq">GASTIAIN</td>
-<td class="cuerpo_tabla_der">9,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7242</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MEANO-ALAVA (III)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,94 DE NA-7210</td>
-<td class="cuerpo_tabla_der">4,21</td>
-<td class="cuerpo_tabla_izq">Lte. ALAVA</td>
-<td class="cuerpo_tabla_der">4,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7244</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MENDILIBARRI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 12,83 DE NA-132A</td>
-<td class="cuerpo_tabla_der">0,25</td>
-<td class="cuerpo_tabla_izq">MENDILABARRI</td>
-<td class="cuerpo_tabla_der">0,25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7251</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARMAÑANZAS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 62,94 DE NA-1110</td>
-<td class="cuerpo_tabla_der">1,70</td>
-<td class="cuerpo_tabla_izq">PK 1,67 DE NA-7200</td>
-<td class="cuerpo_tabla_der">1,70</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7252</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ASARTA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,05 DE NA-7203</td>
-<td class="cuerpo_tabla_der">0,68</td>
-<td class="cuerpo_tabla_izq">ASARTA</td>
-<td class="cuerpo_tabla_der">0,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7253</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">BARGOTA NORTE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 64,01 DE NA-1110</td>
-<td class="cuerpo_tabla_der">2,44</td>
-<td class="cuerpo_tabla_izq">BARGOTA</td>
-<td class="cuerpo_tabla_der">2,44</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7291</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">NARCUE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,37 DE NA-7240</td>
-<td class="cuerpo_tabla_der">1,60</td>
-<td class="cuerpo_tabla_izq">NARCUE</td>
-<td class="cuerpo_tabla_der">1,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7292</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ULIBARRI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,00 DE NA-7240</td>
-<td class="cuerpo_tabla_der">2,45</td>
-<td class="cuerpo_tabla_izq">ULIBARRI</td>
-<td class="cuerpo_tabla_der">2,45</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7293</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VILORIA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,63 DE NA-7240</td>
-<td class="cuerpo_tabla_der">1,33</td>
-<td class="cuerpo_tabla_izq">VILORIA</td>
-<td class="cuerpo_tabla_der">1,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7300</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MEANO-ALAVA (II)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,82 DE NA-7210</td>
-<td class="cuerpo_tabla_der">2,40</td>
-<td class="cuerpo_tabla_izq">Lte. ALAVA</td>
-<td class="cuerpo_tabla_der">2,40</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7310</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GANUZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,13 DE NA-132A</td>
-<td class="cuerpo_tabla_der">5,60</td>
-<td class="cuerpo_tabla_izq">GANUZA</td>
-<td class="cuerpo_tabla_der">5,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7311</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OLLOGOYEN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,72 DE NA-7310</td>
-<td class="cuerpo_tabla_der">1,41</td>
-<td class="cuerpo_tabla_izq">OLLOGOYEN</td>
-<td class="cuerpo_tabla_der">1,41</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7317</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">METAUTEN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,98 DE NA-7310</td>
-<td class="cuerpo_tabla_der">0,20</td>
-<td class="cuerpo_tabla_izq">METAUTEN</td>
-<td class="cuerpo_tabla_der">0,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7320</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LORCA-ABARZUZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 29,25 DE NA-1110</td>
-<td class="cuerpo_tabla_der">10,38</td>
-<td class="cuerpo_tabla_izq">PK 7,44 DE NA-120</td>
-<td class="cuerpo_tabla_der">10,38</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7321</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MURILLO DE YERRI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 32,16 DE NA-1110</td>
-<td class="cuerpo_tabla_der">2,19</td>
-<td class="cuerpo_tabla_izq">MURILLO DE YERRI</td>
-<td class="cuerpo_tabla_der">2,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7322</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AZCONA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 22,71 DE NA-7330</td>
-<td class="cuerpo_tabla_der">1,34</td>
-<td class="cuerpo_tabla_izq">AZCONA</td>
-<td class="cuerpo_tabla_der">1,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7323</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IRUÑELA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 8,91 DE NA-120</td>
-<td class="cuerpo_tabla_der">1,18</td>
-<td class="cuerpo_tabla_izq">IRUÑELA</td>
-<td class="cuerpo_tabla_der">1,18</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7324</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ESTELLA (CAMINEROS)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 37,02 DE NA-1110</td>
-<td class="cuerpo_tabla_der">0,34</td>
-<td class="cuerpo_tabla_izq">CAMINEROS</td>
-<td class="cuerpo_tabla_der">0,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7326</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ANDERAZ (COLEGIO)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 9,64 DE NA-7320</td>
-<td class="cuerpo_tabla_der">0,45</td>
-<td class="cuerpo_tabla_izq">COLEGIO ANDERAZ</td>
-<td class="cuerpo_tabla_der">0,45</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7327</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARANDIGOYEN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 32,20 DE NA-1110</td>
-<td class="cuerpo_tabla_der">0,33</td>
-<td class="cuerpo_tabla_izq">ARANDIGOYEN</td>
-<td class="cuerpo_tabla_der">0,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7330</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VILLANUEVA DE YERRI-LEZAUN</td>
-<td class="cuerpo_tabla_der">19,30</td>
-<td class="cuerpo_tabla_izq">VILLANUEVA DE YERRI</td>
-<td class="cuerpo_tabla_der">29,36</td>
-<td class="cuerpo_tabla_izq">PK 15,06 DE NA-120</td>
-<td class="cuerpo_tabla_der">10,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7331</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARIZALETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 24,00 DE NA-7330</td>
-<td class="cuerpo_tabla_der">0,26</td>
-<td class="cuerpo_tabla_izq">ARIZALETA</td>
-<td class="cuerpo_tabla_der">0,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7361</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARTEAGA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,86 DE NA-7310</td>
-<td class="cuerpo_tabla_der">2,89</td>
-<td class="cuerpo_tabla_izq">ARTEAGA</td>
-<td class="cuerpo_tabla_der">2,89</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7371</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZUFIA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,23 DE NA-7361</td>
-<td class="cuerpo_tabla_der">0,26</td>
-<td class="cuerpo_tabla_izq">ZUFIA</td>
-<td class="cuerpo_tabla_der">0,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7400</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ANCIN-URBIOLA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 14,42 DE NA-132A</td>
-<td class="cuerpo_tabla_der">16,65</td>
-<td class="cuerpo_tabla_izq">PK 3,60 DE NA-6340</td>
-<td class="cuerpo_tabla_der">16,65</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7401</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ETAYO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,71 DE NA-7400</td>
-<td class="cuerpo_tabla_der">1,19</td>
-<td class="cuerpo_tabla_izq">ETAYO</td>
-<td class="cuerpo_tabla_der">1,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7402</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">VILLAMAYOR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 44,43 DE NA-1110</td>
-<td class="cuerpo_tabla_der">0,94</td>
-<td class="cuerpo_tabla_izq">VILLAMAYOR</td>
-<td class="cuerpo_tabla_der">0,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7410</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OCO-OTIÑANO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,50 DE NA-7400</td>
-<td class="cuerpo_tabla_der">12,66</td>
-<td class="cuerpo_tabla_izq">OTIÑANO</td>
-<td class="cuerpo_tabla_der">12,66</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7411</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MENDAZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,64 DE NA-129</td>
-<td class="cuerpo_tabla_der">0,69</td>
-<td class="cuerpo_tabla_izq">MENDAZA</td>
-<td class="cuerpo_tabla_der">0,69</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7412</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SORLADA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,56 DE NA-7410</td>
-<td class="cuerpo_tabla_der">0,31</td>
-<td class="cuerpo_tabla_izq">SORLADA</td>
-<td class="cuerpo_tabla_der">0,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7413</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LEARZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,31 DE NA-7410</td>
-<td class="cuerpo_tabla_der">2,01</td>
-<td class="cuerpo_tabla_izq">LEARZA</td>
-<td class="cuerpo_tabla_der">2,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7414</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PIEDRAMILLERA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,22 DE NA-7410</td>
-<td class="cuerpo_tabla_der">0,27</td>
-<td class="cuerpo_tabla_izq">PIEDRAMILLERA</td>
-<td class="cuerpo_tabla_der">0,27</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7451</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MURIETA-OCO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,16 DE NA-7455</td>
-<td class="cuerpo_tabla_der">2,13</td>
-<td class="cuerpo_tabla_izq">PK 3,50 DE NA-7400</td>
-<td class="cuerpo_tabla_der">2,13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7452</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">LABEAGA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,98 DE NA-132A</td>
-<td class="cuerpo_tabla_der">1,07</td>
-<td class="cuerpo_tabla_izq">LABEAGA</td>
-<td class="cuerpo_tabla_der">1,07</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7453</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IGUZQUIZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 41,46 DE NA-1110</td>
-<td class="cuerpo_tabla_der">2,50</td>
-<td class="cuerpo_tabla_izq">PK 2,56 DE NA-132B</td>
-<td class="cuerpo_tabla_der">2,50</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7454</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARBEIZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,90 DE NA-132A</td>
-<td class="cuerpo_tabla_der">0,65</td>
-<td class="cuerpo_tabla_izq">ARBEIZA</td>
-<td class="cuerpo_tabla_der">0,65</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7455</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ABAIGAR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 11,42 DE NA-132A</td>
-<td class="cuerpo_tabla_der">1,33</td>
-<td class="cuerpo_tabla_izq">ABAIGAR</td>
-<td class="cuerpo_tabla_der">1,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7500</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IRURTZUN-MADOTZ-LEKUNBERRI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,08 DE NA-2410</td>
-<td class="cuerpo_tabla_der">14,49</td>
-<td class="cuerpo_tabla_izq">PK 0,66 DE NA-7510</td>
-<td class="cuerpo_tabla_der">14,49</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7501</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EGIARRETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,62 DE NA-7500</td>
-<td class="cuerpo_tabla_der">1,55</td>
-<td class="cuerpo_tabla_izq">EGIARRETA</td>
-<td class="cuerpo_tabla_der">1,55</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7502</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ETXEBERRI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,10 DE NA-2410</td>
-<td class="cuerpo_tabla_der">0,60</td>
-<td class="cuerpo_tabla_izq">ETXEBERRI</td>
-<td class="cuerpo_tabla_der">0,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7503</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">GOLDARATZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 4,07 DE NA-1300</td>
-<td class="cuerpo_tabla_der">2,48</td>
-<td class="cuerpo_tabla_izq">GOLDARATZ</td>
-<td class="cuerpo_tabla_der">2,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7504</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IRIBAS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 14,31 DE NA-7500</td>
-<td class="cuerpo_tabla_der">1,21</td>
-<td class="cuerpo_tabla_izq">IRIBAS</td>
-<td class="cuerpo_tabla_der">1,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7505</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">MUGUIRO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 11,79 DE NA-1300</td>
-<td class="cuerpo_tabla_der">0,93</td>
-<td class="cuerpo_tabla_izq">MUGIRO</td>
-<td class="cuerpo_tabla_der">0,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7510</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">SAN MIGEL DE ARALAR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,30 DE NA-1300</td>
-<td class="cuerpo_tabla_der">16,72</td>
-<td class="cuerpo_tabla_izq">SANTUARIO SAN MIGEL</td>
-<td class="cuerpo_tabla_der">16,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7511</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">AZKARATE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 26,07 DE NA-1300</td>
-<td class="cuerpo_tabla_der">2,73</td>
-<td class="cuerpo_tabla_izq">AZKARATE</td>
-<td class="cuerpo_tabla_der">2,73</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7512</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">UZTEGI-GAINTZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 24,87 DE NA-1300</td>
-<td class="cuerpo_tabla_der">3,24</td>
-<td class="cuerpo_tabla_izq">GAINTZA</td>
-<td class="cuerpo_tabla_der">3,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7513</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">INTZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 24,22 DE NA-1300</td>
-<td class="cuerpo_tabla_der">2,47</td>
-<td class="cuerpo_tabla_izq">INTZA</td>
-<td class="cuerpo_tabla_der">2,47</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7514</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ERRAZKIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 22,66 DE NA-1300</td>
-<td class="cuerpo_tabla_der">2,63</td>
-<td class="cuerpo_tabla_izq">ERRAZKIN</td>
-<td class="cuerpo_tabla_der">2,63</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7515</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">HATXUETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 16,37 DE NA-7510</td>
-<td class="cuerpo_tabla_der">1,38</td>
-<td class="cuerpo_tabla_izq">POSTE TV</td>
-<td class="cuerpo_tabla_der">1,38</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7517</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO A UHARTE-ARAKIL</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 14,02 DE NA-2410</td>
-<td class="cuerpo_tabla_der">1,11</td>
-<td class="cuerpo_tabla_izq">PK 11,48 DE A-10</td>
-<td class="cuerpo_tabla_der">1,11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7519</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">HIRIBERRI/VILLANUEVA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,45 DE NA-2410</td>
-<td class="cuerpo_tabla_der">0,22</td>
-<td class="cuerpo_tabla_izq">HIRIBERRI/VILLANUEVA</td>
-<td class="cuerpo_tabla_der">0,22</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7520</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ARBIZU-LIZARRAGABENGOA</td>
-<td class="cuerpo_tabla_der">7,11</td>
-<td class="cuerpo_tabla_izq">PK 19,32 DE NA-2410</td>
-<td class="cuerpo_tabla_der">9,03</td>
-<td class="cuerpo_tabla_izq">PK 41,77 DE NA-120</td>
-<td class="cuerpo_tabla_der">1,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7521</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ZIORDIA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 37,37 DE NA-2410</td>
-<td class="cuerpo_tabla_der">0,76</td>
-<td class="cuerpo_tabla_izq">ZIORDIA</td>
-<td class="cuerpo_tabla_der">0,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7561</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ALBIASU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 14,27 DE NA-1300</td>
-<td class="cuerpo_tabla_der">3,28</td>
-<td class="cuerpo_tabla_izq">ALBIASU</td>
-<td class="cuerpo_tabla_der">3,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">7563</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">IRAÑETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,46 DE N-2410</td>
-<td class="cuerpo_tabla_der">0,33</td>
-<td class="cuerpo_tabla_izq">IRAÑETA</td>
-<td class="cuerpo_tabla_der">0,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8100</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE GAZOLAZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,27 DE NA-7015</td>
-<td class="cuerpo_tabla_der">0,85</td>
-<td class="cuerpo_tabla_izq">PK 3,06 DE NA-7015</td>
-<td class="cuerpo_tabla_der">0,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8101</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE SORAUREN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 7,99 DE N-121A</td>
-<td class="cuerpo_tabla_der">1,01</td>
-<td class="cuerpo_tabla_izq">PK 8,91 DE N-121A</td>
-<td class="cuerpo_tabla_der">1,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8102</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE NOAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">Rtda. NOAIN PA-31</td>
-<td class="cuerpo_tabla_der">2,12</td>
-<td class="cuerpo_tabla_izq">PK 8,33 DE N-121</td>
-<td class="cuerpo_tabla_der">2,12</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8103</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE URROZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 12,44 DE NA-150</td>
-<td class="cuerpo_tabla_der">2,37</td>
-<td class="cuerpo_tabla_izq">PK 14,74 DE NA-150</td>
-<td class="cuerpo_tabla_der">2,37</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8104</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE OLAGÜE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 19,54 DE N-121A</td>
-<td class="cuerpo_tabla_der">1,84</td>
-<td class="cuerpo_tabla_izq">PK 21,29 DE N-121A</td>
-<td class="cuerpo_tabla_der">1,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8105</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE ENERIZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,02 DE NA-601</td>
-<td class="cuerpo_tabla_der">1,46</td>
-<td class="cuerpo_tabla_izq">PK 6,48 DE NA-601</td>
-<td class="cuerpo_tabla_der">1,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8106</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO DE NOAIN-A-21</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">Rtda. NOAIN PA-31</td>
-<td class="cuerpo_tabla_der">0,23</td>
-<td class="cuerpo_tabla_izq">ENLACE CON A-21</td>
-<td class="cuerpo_tabla_der">0,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8107</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE OLAZ (EGÜES)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 6,81 DE PA-30</td>
-<td class="cuerpo_tabla_der">1,05</td>
-<td class="cuerpo_tabla_izq">PK 7,27 DE PA-30</td>
-<td class="cuerpo_tabla_der">1,05</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8108</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE ZIZUR MAYOR</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,00 DE NA-6053</td>
-<td class="cuerpo_tabla_der">0,98</td>
-<td class="cuerpo_tabla_izq">PK 1,00 DE NA-7015</td>
-<td class="cuerpo_tabla_der">0,98</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8202</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE URDAITZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 17,42 DE N-135</td>
-<td class="cuerpo_tabla_der">0,56</td>
-<td class="cuerpo_tabla_izq">PK 18,00 DE N-135</td>
-<td class="cuerpo_tabla_der">0,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8203</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE BIZKARRETA/GERENDIAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 34,24 DE N-135</td>
-<td class="cuerpo_tabla_der">0,52</td>
-<td class="cuerpo_tabla_izq">PK 34,43 DE N-135</td>
-<td class="cuerpo_tabla_der">0,52</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8204</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE LARRASOAÑA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 15,49 DE N-135</td>
-<td class="cuerpo_tabla_der">0,60</td>
-<td class="cuerpo_tabla_izq">PK 16,05 DE N-135</td>
-<td class="cuerpo_tabla_der">0,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8205</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE LUMBIER</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 36,91 DE NA-150</td>
-<td class="cuerpo_tabla_der">1,06</td>
-<td class="cuerpo_tabla_izq">PK 37,84 DE NA-150</td>
-<td class="cuerpo_tabla_der">1,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8301</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE ALMANDOZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 12,88 DE NA-1210</td>
-<td class="cuerpo_tabla_der">0,57</td>
-<td class="cuerpo_tabla_izq">PK 13,20 DE NA-1210</td>
-<td class="cuerpo_tabla_der">0,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8302</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE ARRAIOZ</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 44,90 DE NA-121B</td>
-<td class="cuerpo_tabla_der">0,95</td>
-<td class="cuerpo_tabla_izq">PK 45,86 DE N-121B</td>
-<td class="cuerpo_tabla_der">0,95</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8303</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE MUGAIRI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 18,97 DE NA-1210</td>
-<td class="cuerpo_tabla_der">1,92</td>
-<td class="cuerpo_tabla_izq">PK 43,08 DE N-121B</td>
-<td class="cuerpo_tabla_der">1,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8304</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE BERA/VERA DE BIDASOA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 65,14 DE N-121A</td>
-<td class="cuerpo_tabla_der">1,84</td>
-<td class="cuerpo_tabla_izq">PK 66,96 DE N-121A</td>
-<td class="cuerpo_tabla_der">1,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8305</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE EUGI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 27,51 DE NA-138</td>
-<td class="cuerpo_tabla_der">0,80</td>
-<td class="cuerpo_tabla_izq">PK 28,10 DE NA-138</td>
-<td class="cuerpo_tabla_der">0,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8306</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE ERRATZU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 3,10 DE NA-2600</td>
-<td class="cuerpo_tabla_der">0,09</td>
-<td class="cuerpo_tabla_izq">PK 3,28 DE NA-2600</td>
-<td class="cuerpo_tabla_der">0,09</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8401</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE LOS ARCOS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 54,18 DE NA-1110</td>
-<td class="cuerpo_tabla_der">2,84</td>
-<td class="cuerpo_tabla_izq">PK 57,14 DE NA-1110</td>
-<td class="cuerpo_tabla_der">2,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8403</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE OTEIZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 5,64 DE NA-132</td>
-<td class="cuerpo_tabla_der">1,84</td>
-<td class="cuerpo_tabla_izq">PK 7,23 DE NA-132</td>
-<td class="cuerpo_tabla_der">1,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8404</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE SESMA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 27,72 DE NA-129</td>
-<td class="cuerpo_tabla_der">2,45</td>
-<td class="cuerpo_tabla_izq">PK 11,10 DE NA-666</td>
-<td class="cuerpo_tabla_der">2,45</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8405</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE AZQUETA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 42,43 DE NA-1110</td>
-<td class="cuerpo_tabla_der">0,34</td>
-<td class="cuerpo_tabla_izq">PK 43,03 DE NA-1110</td>
-<td class="cuerpo_tabla_der">0,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8406</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE LAZAGURRIA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,47 DE NA-6330</td>
-<td class="cuerpo_tabla_der">0,84</td>
-<td class="cuerpo_tabla_izq">PK 13,02 DE NA-6310</td>
-<td class="cuerpo_tabla_der">0,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8407</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE VIANA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 79,76 DE N-111</td>
-<td class="cuerpo_tabla_der">0,76</td>
-<td class="cuerpo_tabla_izq">PK 80,51 DE N-111</td>
-<td class="cuerpo_tabla_der">0,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8408</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE LORCA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 28,85 DE NA-1110</td>
-<td class="cuerpo_tabla_der">0,74</td>
-<td class="cuerpo_tabla_izq">PK 29,52 DE NA-1110</td>
-<td class="cuerpo_tabla_der">0,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8409</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE MAÑERU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 20,49 DE NA-1110</td>
-<td class="cuerpo_tabla_der">0,63</td>
-<td class="cuerpo_tabla_izq">PK 21,12 DE NA-1110</td>
-<td class="cuerpo_tabla_der">0,63</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8502</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE ARRUAZU</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 13,55 DE A-10</td>
-<td class="cuerpo_tabla_der">0,78</td>
-<td class="cuerpo_tabla_izq">PK 14,40 DE A-10</td>
-<td class="cuerpo_tabla_der">0,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8503</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE LAKUNTZA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 17,07 DE NA-2410</td>
-<td class="cuerpo_tabla_der">1,06</td>
-<td class="cuerpo_tabla_izq">PK 18,07 DE NA-2410</td>
-<td class="cuerpo_tabla_der">1,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8504</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE ITURMENDI</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 26,03 DE NA-2410</td>
-<td class="cuerpo_tabla_der">0,78</td>
-<td class="cuerpo_tabla_izq">PK 26,93 DE NA-2410</td>
-<td class="cuerpo_tabla_der">0,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8505</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE ALTSASU/ALSASUA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 30,52 DE NA-2410</td>
-<td class="cuerpo_tabla_der">1,63</td>
-<td class="cuerpo_tabla_izq">Rtda. DE NA-1000</td>
-<td class="cuerpo_tabla_der">1,63</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8601</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE BARASOAIN-GARINOAIN</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 24,69 DE N-121</td>
-<td class="cuerpo_tabla_der">1,60</td>
-<td class="cuerpo_tabla_izq">PK 26,47 DE N-121</td>
-<td class="cuerpo_tabla_der">1,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8602</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">ACCESO A OLITE</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 38,46 DE N-121</td>
-<td class="cuerpo_tabla_der">1,59</td>
-<td class="cuerpo_tabla_izq">OLITE</td>
-<td class="cuerpo_tabla_der">1,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8602</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">ACCESO A OLITE</td>
-<td class="cuerpo_tabla_der">1,63</td>
-<td class="cuerpo_tabla_izq">OLITE</td>
-<td class="cuerpo_tabla_der">2,89</td>
-<td class="cuerpo_tabla_izq">PK 42,92 DE N-121</td>
-<td class="cuerpo_tabla_der">1,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8603</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE SANGÜESA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 2,60 DE NA-127</td>
-<td class="cuerpo_tabla_der">3,05</td>
-<td class="cuerpo_tabla_izq">PK 5,63 DE NA-127</td>
-<td class="cuerpo_tabla_der">3,05</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8701</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE PERALTA (I)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 21,80 DE NA-115</td>
-<td class="cuerpo_tabla_der">3,80</td>
-<td class="cuerpo_tabla_izq">PK 1,10 DE NA-624</td>
-<td class="cuerpo_tabla_der">3,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8702</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE PERALTA (II)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 1,01 DE NA-8701</td>
-<td class="cuerpo_tabla_der">2,14</td>
-<td class="cuerpo_tabla_izq">PK 0,00 DE NA-624</td>
-<td class="cuerpo_tabla_der">2,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8704</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE FUSTIÑANA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 10,58 DE NA-126</td>
-<td class="cuerpo_tabla_der">0,99</td>
-<td class="cuerpo_tabla_izq">PK 11,33 DE NA-126</td>
-<td class="cuerpo_tabla_der">0,99</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8705</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">ACCESO A ARGUEDAS</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 14,14 DE NA-134</td>
-<td class="cuerpo_tabla_der">1,10</td>
-<td class="cuerpo_tabla_izq">PK 15,18 DE NA-134</td>
-<td class="cuerpo_tabla_der">1,10</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8706</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE AZAGRA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 43,62 DE NA-134</td>
-<td class="cuerpo_tabla_der">2,26</td>
-<td class="cuerpo_tabla_izq">PK 45,94 DE NA-134</td>
-<td class="cuerpo_tabla_der">2,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8708</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">ACCESO A CINTRUENIGO</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 88,79 DE N-113</td>
-<td class="cuerpo_tabla_der">2,04</td>
-<td class="cuerpo_tabla_izq">CINTRUENIGO</td>
-<td class="cuerpo_tabla_der">2,04</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8708</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">ACCESO A CINTRUENIGO</td>
-<td class="cuerpo_tabla_der">4,08</td>
-<td class="cuerpo_tabla_izq">CINTRUENIGO</td>
-<td class="cuerpo_tabla_der">4,84</td>
-<td class="cuerpo_tabla_izq">PK 93,63 DE N-113</td>
-<td class="cuerpo_tabla_der">0,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8709</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE SAN ADRIAN (I)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,71 DE NA-8710</td>
-<td class="cuerpo_tabla_der">0,45</td>
-<td class="cuerpo_tabla_izq">PK 1,22 DE NA-6531</td>
-<td class="cuerpo_tabla_der" colspan="2">0,45</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8710</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE SAN ADRIAN (II)</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 0,00 DE NA-6531</td>
-<td class="cuerpo_tabla_der">1,43</td>
-<td class="cuerpo_tabla_izq">SAN ADRIAN</td>
-<td class="cuerpo_tabla_der" colspan="2">1,43</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">8711</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TRAVESIA DE CADREITA</td>
-<td class="cuerpo_tabla_der">0,00</td>
-<td class="cuerpo_tabla_izq">PK 23,03 DE NA-134</td>
-<td class="cuerpo_tabla_der">1,76</td>
-<td class="cuerpo_tabla_izq">PK 24,71 DE NA-134</td>
-<td class="cuerpo_tabla_der">1,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="8">6 TOTAL CARRETERAS LOCALES</td>
-<td class="cuerpo_tabla_der">
+<td>NA</td>
+<td>1000</td>
+<td> </td>
+<td>ALTSASU/ALSASUA-Lte. GUIPUZCOA</td>
+<td>0,00</td>
+<td>PK 399,00 DE A-1</td>
+<td>6,60</td>
+<td>Lte. GUIPUZCOA</td>
+<td>6,60</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>1001</td>
+<td> </td>
+<td>ALTSASU/ALSASUA-ZEGAMA</td>
+<td>0,00</td>
+<td>PK 6,20 DE NA-1000</td>
+<td>0,69</td>
+<td>Lte. GUIPUZCOA</td>
+<td>0,69</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>1110</td>
+<td> </td>
+<td>GALAR-VIANA</td>
+<td>0,00</td>
+<td>PK 6,57 DE A-12</td>
+<td>74,55</td>
+<td>VIANA</td>
+<td>74,55</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>1210</td>
+<td>1</td>
+<td>PUERTO DE BELATE</td>
+<td>0,00</td>
+<td>PK 27,14 DE N-121A</td>
+<td>15,70</td>
+<td>PK 37,11 DE N-121A</td>
+<td>15,70</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>1210</td>
+<td>2</td>
+<td>PUERTO DE BELATE</td>
+<td>17,14</td>
+<td>PK 39,78 DE N-121A</td>
+<td>25,05</td>
+<td>PK 46,85 DE N-121A</td>
+<td>7,91</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>1210</td>
+<td>3</td>
+<td>PUERTO DE BELATE</td>
+<td>27,60</td>
+<td>PK 49,38 DE N-121A</td>
+<td>35,55</td>
+<td>PK 54,55 DE N-121A</td>
+<td>7,95</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>1240</td>
+<td> </td>
+<td>TRAIBUENAS-SANTACARA- CARCASTILLO</td>
+<td>0,00</td>
+<td>PK 53,51 DE N-121</td>
+<td>18,77</td>
+<td>CARCASTILLO</td>
+<td>18,77</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>1300</td>
+<td> </td>
+<td>IRURTZUN- Lte.GUIPUZCOA</td>
+<td>0,00</td>
+<td>PK 20,81 DE N-240A</td>
+<td>30,68</td>
+<td>Lte. GUIPUZCOA</td>
+<td>30,68</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>1310</td>
+<td> </td>
+<td>BERA/VERA DE BIDASOA-FRANCIA (IBARDIN)</td>
+<td>0,00</td>
+<td>PK 1,08 NA-8304</td>
+<td>6,47</td>
+<td>FRONTERA FRANCIA</td>
+<td>6,47</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>1320</td>
+<td> </td>
+<td>ARESO-MUGA DE GUIPUZCOA</td>
+<td>0,00</td>
+<td>PK 0,49 DE NA-170</td>
+<td>1,29</td>
+<td>Lte. GUIPUZCOA</td>
+<td>1,29</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>1700</td>
+<td> </td>
+<td>LEKUNBERRI-LEITZA</td>
+<td>0,00</td>
+<td>PK 15,09 DE NA-1300</td>
+<td>11,73</td>
+<td>PK 3,11 DE NA-170</td>
+<td>11,73</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>1720</td>
+<td> </td>
+<td>AOIZ-AURITZ/BURGUETE</td>
+<td>0,00</td>
+<td>PK 18,21 DE NA 150</td>
+<td>29,53</td>
+<td>PK 42,16 DE N-135</td>
+<td>29,53</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>1740</td>
+<td> </td>
+<td>IRURITA-EUGI</td>
+<td>0,00</td>
+<td>PK 47,40 N-121B</td>
+<td>22,43</td>
+<td>PK 32,60 DE NA-138</td>
+<td>22,43</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2000</td>
+<td> </td>
+<td>ISABA-ZURIZA</td>
+<td>0,00</td>
+<td>PK 3,17 DE NA-1370</td>
+<td>9,35</td>
+<td>Lte. HUESCA</td>
+<td>9,35</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2011</td>
+<td> </td>
+<td>SALAZAR-FRANCIA</td>
+<td>0,00</td>
+<td>PK 42,82 DE NA-140</td>
+<td>10,83</td>
+<td>FRONTERA FRANCIA</td>
+<td>10,83</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2012</td>
+<td> </td>
+<td>CUATRO BORDAS-IRATI</td>
+<td>0,00</td>
+<td>PK 34,21 DE NA-140</td>
+<td>23,56</td>
+<td>MONTE IRATI</td>
+<td>23,56</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2013</td>
+<td> </td>
+<td>MUSKILDA (ERMITA)</td>
+<td>0,00</td>
+<td>PK 34,93 DE NA-140</td>
+<td>4,10</td>
+<td>ERMITA</td>
+<td>4,10</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2021</td>
+<td> </td>
+<td>REMENDIA</td>
+<td>0,00</td>
+<td>PK 23,54 DE NA-140</td>
+<td>3,30</td>
+<td>REMENDIA</td>
+<td>3,30</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2022</td>
+<td> </td>
+<td>ABAURREPEA/ABAURREA BAJA</td>
+<td>0,00</td>
+<td>PK 15,48 DE NA-140</td>
+<td>0,98</td>
+<td>ABAURREPEA /ABAURREA BAJA</td>
+<td>0,98</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2023</td>
+<td> </td>
+<td>HIRIBERRI/VILLANUEVA DE AEZKOA</td>
+<td>0,00</td>
+<td>PK 9,58 DE NA-140</td>
+<td>3,26</td>
+<td>HIRIBERRI/VILLANUEVA DE AEZKOA</td>
+<td>3,26</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2030</td>
+<td> </td>
+<td>ARIBE-ORBAITZETAKO OLA/FABRICA DE ORBAITZETA</td>
+<td>0,00</td>
+<td>PK 9,00 DE NA-140</td>
+<td>10,97</td>
+<td>ORBAITZETAKO OLA/FARICA DE ORBAICETA</td>
+<td>10,97</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2031</td>
+<td> </td>
+<td>ARIA</td>
+<td>0,00</td>
+<td>PK 0,35 DE NA-2030</td>
+<td>1,76</td>
+<td>ARIA</td>
+<td>1,76</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2033</td>
+<td> </td>
+<td>ORTZANZURIETA</td>
+<td>0,00</td>
+<td>PK 48,77 DE N-135</td>
+<td>6,23</td>
+<td>TV ORTZANZURIETA</td>
+<td>6,23</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2040</td>
+<td> </td>
+<td>ITOIZ-GARRALDA</td>
+<td>0,00</td>
+<td>PK 15,27 DE NA-1720</td>
+<td>16,64</td>
+<td>PK 7,03 DE NA-140</td>
+<td>16,64</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2041</td>
+<td> </td>
+<td>EKAI DE LONGUIDA</td>
+<td>0,00</td>
+<td>PK 1,07 DE NA-1720</td>
+<td>0,62</td>
+<td>EKAI DE LONGUIDA</td>
+<td>0,62</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2042</td>
+<td> </td>
+<td>ARRIETA</td>
+<td>0,00</td>
+<td>PK 22,48 DE NA-1720</td>
+<td>1,27</td>
+<td>ARRIETA</td>
+<td>1,27</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2043</td>
+<td> </td>
+<td>VILLANUEVA DE ARCE</td>
+<td>0,00</td>
+<td>PK 0,10 DE NA-2042</td>
+<td>1,16</td>
+<td>VILLANUEVA DE ARCE</td>
+<td>1,16</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2045</td>
+<td> </td>
+<td>AZPARREN</td>
+<td>0,00</td>
+<td>PK 9,14 DE NA-2040</td>
+<td>3,33</td>
+<td>AZPARREN</td>
+<td>3,33</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2100</td>
+<td> </td>
+<td>VALLE DE URRAUL ALTO</td>
+<td>0,00</td>
+<td>PK 32,09 DE NA-150</td>
+<td>20,89</td>
+<td>ELCOAZ</td>
+<td>20,89</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2101</td>
+<td> </td>
+<td>SANSOAIN (RAMAL)</td>
+<td>0,00</td>
+<td>PK 27,90 DE NA-150</td>
+<td>2,37</td>
+<td>PK 4,38 DE NA-2100</td>
+<td>2,37</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2102</td>
+<td> </td>
+<td>OZCOIDI</td>
+<td>0,00</td>
+<td>PK 6,77 DE NA-2100</td>
+<td>0,66</td>
+<td>OZCOIDI</td>
+<td>0,66</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2103</td>
+<td> </td>
+<td>ADOAIN</td>
+<td>0,00</td>
+<td>PK 8,84 DE NA-2100</td>
+<td>12,25</td>
+<td>ADOAIN</td>
+<td>12,25</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2104</td>
+<td> </td>
+<td>ZABALZA (URRAUL ALTO)</td>
+<td>0,00</td>
+<td>PK 3,84 DE NA-2103</td>
+<td>0,75</td>
+<td>ZABALZA</td>
+<td>0,75</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2105</td>
+<td> </td>
+<td>AYECHU</td>
+<td>0,00</td>
+<td>PK 17,76 DE NA-2100</td>
+<td>2,01</td>
+<td>AYECHU</td>
+<td>2,01</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2110</td>
+<td> </td>
+<td>ARBONIES - MURILLO-BERROYA</td>
+<td>0,00</td>
+<td>PK 4,88 DE NA-178</td>
+<td>3,73</td>
+<td>MURILLO-BERROYA</td>
+<td>3,73</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2111</td>
+<td> </td>
+<td>ARBONIES (RAMAL)</td>
+<td>0,00</td>
+<td>PK 0,62 DE NA-2110</td>
+<td>0,15</td>
+<td>ARBONIES</td>
+<td>0,15</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2112</td>
+<td> </td>
+<td>ASPURZ</td>
+<td>0,00</td>
+<td>PK 17,36 DE NA-178</td>
+<td>1,12</td>
+<td>ASPURZ</td>
+<td>1,12</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2113</td>
+<td> </td>
+<td>LEYRE (MONASTERIO)</td>
+<td>0,00</td>
+<td>PK 46,69 DE N-240</td>
+<td>3,98</td>
+<td>MONASTERIO DE LEYRE</td>
+<td>3,98</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2114</td>
+<td> </td>
+<td>LEYRE (CLAUSURA)</td>
+<td>0,00</td>
+<td>PK 3,44 DE NA-2113</td>
+<td>0,57</td>
+<td>INTERIOR MONASTERIO</td>
+<td>0,57</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2121</td>
+<td> </td>
+<td>USCARRES-ICIZ</td>
+<td>0,00</td>
+<td>PK 30,61 DE NA-178</td>
+<td>1,28</td>
+<td>ICIZ</td>
+<td>1,28</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2122</td>
+<td> </td>
+<td>GALLUES-IZAL</td>
+<td>0,00</td>
+<td>PK 31,92 DE NA-178</td>
+<td>4,23</td>
+<td>IZAL</td>
+<td>4,23</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2123</td>
+<td> </td>
+<td>SARRIES-IBILCIETA</td>
+<td>0,00</td>
+<td>PK 38,19 DE NA-178</td>
+<td>0,35</td>
+<td>IBILCIETA</td>
+<td>0,35</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2124</td>
+<td> </td>
+<td>TRAVESIA DE USTES</td>
+<td>0,00</td>
+<td>PK 27,24 DE NA-178</td>
+<td>0,51</td>
+<td>PK 27,75 DE NA-178</td>
+<td>0,51</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2130</td>
+<td> </td>
+<td>GÜESA-VIDANGOZ-BURGUI</td>
+<td>0,00</td>
+<td>PK 34,25 DE NA-178</td>
+<td>18,52</td>
+<td>PK 15,47 DE NA-137</td>
+<td>18,52</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2131</td>
+<td> </td>
+<td>RONCAL (CEMENTERIO)</td>
+<td>0,00</td>
+<td>PK 26,08 DE NA-137</td>
+<td>0,73</td>
+<td>MAUSOLEO GARRAYE</td>
+<td>0,73</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2132</td>
+<td> </td>
+<td>ACCESO A VIDANGOZ</td>
+<td>0,00</td>
+<td>PK 8,54 DE NA-2130</td>
+<td>0,32</td>
+<td>VIDANGOZ</td>
+<td>0,32</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2151</td>
+<td> </td>
+<td>EPAROZ</td>
+<td>0,00</td>
+<td>PK 12,26 DE NA-2100</td>
+<td>0,57</td>
+<td>EPAROZ</td>
+<td>0,57</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2152</td>
+<td> </td>
+<td>NARDUES-ANDURRA</td>
+<td>0,00</td>
+<td>PK 3,30 DE NA-2100</td>
+<td>1,55</td>
+<td>NARDUES-ANDURRA</td>
+<td>1,55</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2161</td>
+<td> </td>
+<td>USUN</td>
+<td>0,00</td>
+<td>PK 5,97 DE NA-178</td>
+<td>2,61</td>
+<td>USUN</td>
+<td>2,61</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2162</td>
+<td> </td>
+<td>ORRADRE-NAPAL</td>
+<td>0,00</td>
+<td>PK 7,77 DE NA-178</td>
+<td>3,96</td>
+<td>NAPAL</td>
+<td>3,96</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2166</td>
+<td> </td>
+<td>ONGOZ</td>
+<td>0,00</td>
+<td>PK 16,07 DE NA-2100</td>
+<td>0,32</td>
+<td>ONGOZ</td>
+<td>0,32</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2200</td>
+<td> </td>
+<td>BIGÜEZAL-CASTILLO NUEVO</td>
+<td>0,00</td>
+<td>PK 14,29 DE NA-178</td>
+<td>15,41</td>
+<td>Lte. ZARAGOZA</td>
+<td>15,41</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2201</td>
+<td> </td>
+<td>ARANGOITI</td>
+<td>0,00</td>
+<td>PK 4,93 DE NA-2200</td>
+<td>9,29</td>
+<td>MONTE ARANGOITI</td>
+<td>9,29</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2220</td>
+<td> </td>
+<td>RONCAL (CAMINEROS)</td>
+<td>0,00</td>
+<td>PK 26,29 DE NA-137</td>
+<td>0,10</td>
+<td>CAMINEROS RONCAL</td>
+<td>0,10</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2300</td>
+<td> </td>
+<td>POLIGONO ARETA</td>
+<td>0,00</td>
+<td>PK 3,58 DE PA-30</td>
+<td>0,90</td>
+<td>POLIGONO DE ARETA</td>
+<td>0,90</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2303</td>
+<td> </td>
+<td>MENDILLORRI-BADOSTAIN</td>
+<td>0,00</td>
+<td>PK 1,80 DE N-135</td>
+<td>3,32</td>
+<td>BADOSTAIN</td>
+<td>3,32</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2304</td>
+<td> </td>
+<td>MUTILVA BAJA</td>
+<td>0,59</td>
+<td>PAMPLONA</td>
+<td>2,14</td>
+<td>MUTILVA BAJA</td>
+<td>1,55</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2305</td>
+<td> </td>
+<td>MUTILVA ALTA</td>
+<td>0,86</td>
+<td>PAMPLONA</td>
+<td>1,40</td>
+<td>MUTILVA ALTA</td>
+<td>0,54</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2306</td>
+<td> </td>
+<td>ACCESO A BURLADA</td>
+<td>0,00</td>
+<td>PK 0,76 DE NA-2300</td>
+<td>0,67</td>
+<td>BURLADA</td>
+<td>0,67</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2310</td>
+<td> </td>
+<td>VALLE DE ARANGUREN</td>
+<td>0,00</td>
+<td>PAMPLONA</td>
+<td>21,36</td>
+<td>PK 3,08 DE PA-30</td>
+<td>21,36</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2311</td>
+<td> </td>
+<td>TRAVESIA DE TAJONAR</td>
+<td>0,00</td>
+<td>PK 3,86 DE NA-2310</td>
+<td>1,39</td>
+<td>PK 5,09 DE NA-231</td>
+<td>1,39</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2312</td>
+<td> </td>
+<td>GONGORA</td>
+<td>0,00</td>
+<td>PK 11,33 DE NA-2310</td>
+<td>0,24</td>
+<td>GONGORA</td>
+<td>0,24</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2313</td>
+<td> </td>
+<td>LAQUIDAIN</td>
+<td>0,00</td>
+<td>PK 13,10 DE NA-2310</td>
+<td>1,20</td>
+<td>LAQUIDAIN</td>
+<td>1,20</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2314</td>
+<td> </td>
+<td>ARANGUREN</td>
+<td>0,00</td>
+<td>PK 14,80 DE NA-2310</td>
+<td>0,22</td>
+<td>ARANGUREN</td>
+<td>0,22</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2315</td>
+<td> </td>
+<td>ARDANAZ DE EGÜES</td>
+<td>0,00</td>
+<td>PK 18,06 DE NA-2310</td>
+<td>0,87</td>
+<td>ARDANAZ DE EGÜES</td>
+<td>0,87</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2316</td>
+<td> </td>
+<td>ZULUETA</td>
+<td>0,00</td>
+<td>PK 1,38 DE NA-2420</td>
+<td>0,68</td>
+<td>ZULUETA</td>
+<td>0,68</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2317</td>
+<td> </td>
+<td>LABIANO</td>
+<td>0,00</td>
+<td>PK 9,86 DE NA 2310</td>
+<td>0,24</td>
+<td>LABIANO</td>
+<td>0,24</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2318</td>
+<td> </td>
+<td>ELORZ</td>
+<td>0,00</td>
+<td>PK 3,12 DE NA-2420</td>
+<td>0,28</td>
+<td>ELORZ</td>
+<td>0,28</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2319</td>
+<td> </td>
+<td>TRAVESIA DE ZOLINA</td>
+<td>0,00</td>
+<td>PK 6,16 DE NA-2310</td>
+<td>0,90</td>
+<td>PK 6,97 DE NA-2310</td>
+<td>0,90</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2320</td>
+<td> </td>
+<td>TRAVESIA DE LABIANO</td>
+<td>0,00</td>
+<td>PK 9,55 DE NA-2310</td>
+<td>0,40</td>
+<td>PK 9,99 DE NA-2310</td>
+<td>0,40</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2321</td>
+<td> </td>
+<td>AZPA</td>
+<td>0,00</td>
+<td>PK 7,60 DE NA-150</td>
+<td>1,59</td>
+<td>AZPA</td>
+<td>1,59</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2322</td>
+<td> </td>
+<td>MENDIOROZ</td>
+<td>0,00</td>
+<td>PK 7,60 DE NA-150</td>
+<td>1,20</td>
+<td>MENDIOROZ</td>
+<td>1,20</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2323</td>
+<td> </td>
+<td>YELZ</td>
+<td>0,00</td>
+<td>PK 8,37 DE NA-150</td>
+<td>1,60</td>
+<td>YELZ</td>
+<td>1,60</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2324</td>
+<td> </td>
+<td>UROZ</td>
+<td>0,00</td>
+<td>PK 8,88 DE NA-150</td>
+<td>0,79</td>
+<td>UROZ</td>
+<td>0,79</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2325</td>
+<td> </td>
+<td>LIZOAIN-REDIN</td>
+<td>0,00</td>
+<td>PK 10,27 DE NA-150</td>
+<td>3,28</td>
+<td>REDIN</td>
+<td>3,28</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2326</td>
+<td> </td>
+<td>LERRUZ</td>
+<td>0,00</td>
+<td>PK 10,54 DE NA-150</td>
+<td>1,61</td>
+<td>LERRUZ</td>
+<td>1,61</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2327</td>
+<td> </td>
+<td>URROZ-ERRO (EMPALME)</td>
+<td>0,00</td>
+<td>PK 12,73 DE NA-150</td>
+<td>0,89</td>
+<td>PK 1,30 DE NA-2330</td>
+<td>0,89</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2328</td>
+<td> </td>
+<td>BEORTEGUI</td>
+<td>0,00</td>
+<td>PK 0,55 DE NA-2330</td>
+<td>3,17</td>
+<td>BEORTEGUI</td>
+<td>3,17</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2329</td>
+<td> </td>
+<td>IRURE</td>
+<td>0,00</td>
+<td>PK 0,66 DE NA-2337</td>
+<td>0,38</td>
+<td>IRURE</td>
+<td>0,38</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2330</td>
+<td> </td>
+<td>URROZ-ERRO</td>
+<td>0,23</td>
+<td>PK 13,76 DE NA-150</td>
+<td>20,30</td>
+<td>PK 29,81 DE N-135</td>
+<td>20,07</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2331</td>
+<td> </td>
+<td>ARDAITZ</td>
+<td>0,00</td>
+<td>PK 14,54 DE NA-2330</td>
+<td>1,67</td>
+<td>ARDAITZ</td>
+<td>1,67</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2332</td>
+<td> </td>
+<td>AINTZIOA</td>
+<td>0,00</td>
+<td>PK 19,83 DE NA-2330</td>
+<td>4,89</td>
+<td>AINTZIOA</td>
+<td>4,89</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2333</td>
+<td> </td>
+<td>ESNOTZ</td>
+<td>0,00</td>
+<td>PK 19,83 DE NA-2330</td>
+<td>2,74</td>
+<td>ESNOTZ</td>
+<td>2,74</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2334</td>
+<td> </td>
+<td>MEZKIRITZ</td>
+<td>0,00</td>
+<td>PK 36,10 DE N-135</td>
+<td>0,62</td>
+<td>MEZKIRITZ</td>
+<td>0,62</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2335</td>
+<td> </td>
+<td>OSTERITZ</td>
+<td>0,00</td>
+<td>PK 19,61 DE N-135</td>
+<td>1,66</td>
+<td>OSTERITZ</td>
+<td>1,66</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2336</td>
+<td> </td>
+<td>ILARRATZ</td>
+<td>0,00</td>
+<td>PK 17,70 DE N-135</td>
+<td>0,87</td>
+<td>ILARRATZ</td>
+<td>0,87</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2337</td>
+<td> </td>
+<td>SETOAIN-ERREA</td>
+<td>0,00</td>
+<td>PK 16,47 DE N-135</td>
+<td>6,85</td>
+<td>ERREA</td>
+<td>6,85</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2338</td>
+<td> </td>
+<td>AKERRETA</td>
+<td>0,00</td>
+<td>PK 14,34 DE N-135</td>
+<td>1,15</td>
+<td>AKERRETA</td>
+<td>1,15</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2339</td>
+<td> </td>
+<td>ILURDOTZ</td>
+<td>0,00</td>
+<td>PK 11,66 DE N-135</td>
+<td>3,09</td>
+<td>ILURDOTZ</td>
+<td>3,09</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2341</td>
+<td> </td>
+<td>CEMBORAIN</td>
+<td>0,00</td>
+<td>PK 10,84 DE NA-234</td>
+<td>1,05</td>
+<td>CEMBORAIN</td>
+<td>1,05</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2342</td>
+<td> </td>
+<td>UNCITI</td>
+<td>0,00</td>
+<td>PK 12,71 DE NA-234</td>
+<td>0,84</td>
+<td>UNCITI</td>
+<td>0,84</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2343</td>
+<td> </td>
+<td>NAJURIETA</td>
+<td>0,00</td>
+<td>PK 13,01 DE NA-234</td>
+<td>2,01</td>
+<td>NAJURIETA</td>
+<td>2,01</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2344</td>
+<td> </td>
+<td>LIZARRAGA DE IZAGAONDOA</td>
+<td>0,00</td>
+<td>PK 16,05 DE NA-234</td>
+<td>1,49</td>
+<td>LIZARRAGA DE IZAGAONDOA</td>
+<td>1,49</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2345</td>
+<td> </td>
+<td>IDOATE</td>
+<td>0,00</td>
+<td>PK 16,93 DE NA-234</td>
+<td>2,12</td>
+<td>IDOATE</td>
+<td>2,12</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2346</td>
+<td> </td>
+<td>ALZORRIZ</td>
+<td>0,00</td>
+<td>PK 20,26 DE N-240</td>
+<td>2,37</td>
+<td>ALZORRIZ</td>
+<td>2,37</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2347</td>
+<td> </td>
+<td>TURRILLAS</td>
+<td>0,00</td>
+<td>PK 10,64 DE NA-2400</td>
+<td>0,27</td>
+<td>TURRILLAS</td>
+<td>0,27</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2352</td>
+<td> </td>
+<td>OSCARIZ</td>
+<td>0,00</td>
+<td>PK 4,75 DE NA-2330</td>
+<td>0,55</td>
+<td>OSCARIZ</td>
+<td>0,55</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2355</td>
+<td> </td>
+<td>EKAI DE LONGUIDA-OLAVERRI</td>
+<td>0,00</td>
+<td>PK 1,20 DE NA-1720</td>
+<td>4,08</td>
+<td>OLAVERRI</td>
+<td>4,08</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2371</td>
+<td> </td>
+<td>VARIANTE DE ALZUZA</td>
+<td>0,17</td>
+<td>PK 0,17 DE NA-2373</td>
+<td>1,10</td>
+<td>PK 1,34 DE NA-2373</td>
+<td>0,93</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2372</td>
+<td> </td>
+<td>OLLOKI</td>
+<td>0,00</td>
+<td>PK 7,69 DE N-135</td>
+<td>0,58</td>
+<td>OLLOKI</td>
+<td>0,58</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2373</td>
+<td> </td>
+<td>ALZUZA</td>
+<td>0,00</td>
+<td>PK 1,08 DE NA-150</td>
+<td>2,07</td>
+<td>ALZUZA</td>
+<td>2,07</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2374</td>
+<td> </td>
+<td>ELCANO-SAGASETA</td>
+<td>0,00</td>
+<td>PK 1,52 DE NA-2377</td>
+<td>1,85</td>
+<td>SAGASETA</td>
+<td>1,85</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2375</td>
+<td> </td>
+<td>ELIA</td>
+<td>0,00</td>
+<td>PK 1,74 DE NA-2377</td>
+<td>2,47</td>
+<td>ELIA</td>
+<td>2,47</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2376</td>
+<td> </td>
+<td>USTARROZ</td>
+<td>0,00</td>
+<td>PK 6,40 DE NA-150</td>
+<td>0,87</td>
+<td>USTARROZ</td>
+<td>0,87</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2377</td>
+<td> </td>
+<td>EGÜES-IBIRICU</td>
+<td>0,00</td>
+<td>PK 2,43 DE NA-150</td>
+<td>2,22</td>
+<td>PK 4,58 DE NA-150</td>
+<td>2,22</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2379</td>
+<td> </td>
+<td>VILLAVETA (RAMAL)</td>
+<td>0,00</td>
+<td>PK 19,19 DE NA-150</td>
+<td>0,94</td>
+<td>PK 0,68 DE NA-1720</td>
+<td>0,94</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2381</td>
+<td> </td>
+<td>LOIZU</td>
+<td>0,00</td>
+<td>PK 2,80 DE NA-2332</td>
+<td>1,19</td>
+<td>LOIZU</td>
+<td>1,19</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2382</td>
+<td> </td>
+<td>SARAGÜETA</td>
+<td>0,00</td>
+<td>PK 21,07 DE NA-1720</td>
+<td>1,57</td>
+<td>SARAGÜETA</td>
+<td>1,57</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2400</td>
+<td> </td>
+<td>VALLE DE IZAGAONDOA</td>
+<td>0,00</td>
+<td>PK 15,00 DE NA-234</td>
+<td>21,50</td>
+<td>PK 38,14 DE NA-150</td>
+<td>21,50</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2401</td>
+<td> </td>
+<td>ZUAZU</td>
+<td>0,00</td>
+<td>PK 3,09 DE NA-2400</td>
+<td>0,48</td>
+<td>ZUAZU</td>
+<td>0,48</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2402</td>
+<td> </td>
+<td>ARDANAZ DE IZAGAONDOA</td>
+<td>0,00</td>
+<td>PK 5,68 DE NA-2400</td>
+<td>0,27</td>
+<td>ARDANAZ DE IZAGAONDOA</td>
+<td>0,27</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2404</td>
+<td> </td>
+<td>NARDUES-ALDUNATE</td>
+<td>0,00</td>
+<td>PK 32,21 DE N-240</td>
+<td>0,20</td>
+<td>NARDUES-ALDUNATE</td>
+<td>0,20</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2405</td>
+<td> </td>
+<td>SAN VICENTE</td>
+<td>0,00</td>
+<td>PK 33,05 DE NA-150</td>
+<td>2,02</td>
+<td>SAN VICENTE</td>
+<td>2,02</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2410</td>
+<td> </td>
+<td>BARRANCA</td>
+<td>0,00</td>
+<td>PK 20,83 DE N-240A</td>
+<td>37,36</td>
+<td>PK 392,07 DE A-1</td>
+<td>37,36</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2414</td>
+<td> </td>
+<td>MEOZ</td>
+<td>0,00</td>
+<td>PK 22,74 DE NA-150</td>
+<td>2,71</td>
+<td>MEOZ</td>
+<td>2,71</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2420</td>
+<td> </td>
+<td>TORRES DE ELORZ - A-21</td>
+<td>0,00</td>
+<td>Rtda. DE TORRES DE ELORZ</td>
+<td>7,49</td>
+<td>PK 16,94 DE N-240</td>
+<td>7,49</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2421</td>
+<td> </td>
+<td>TABAR</td>
+<td>0,00</td>
+<td>PK 18,11 DE NA-2400</td>
+<td>0,07</td>
+<td>TABAR</td>
+<td>0,07</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2451</td>
+<td> </td>
+<td>URBICAIN</td>
+<td>0,00</td>
+<td>PK 10,03 DE NA-2400</td>
+<td>1,35</td>
+<td>URBICAIN</td>
+<td>1,35</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2452</td>
+<td> </td>
+<td>INDURAIN</td>
+<td>0,00</td>
+<td>PK 14,07 DE NA-2400</td>
+<td>0,42</td>
+<td>INDURAIN</td>
+<td>0,42</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2454</td>
+<td> </td>
+<td>ALDUNATE</td>
+<td>0,00</td>
+<td>PK 31,76 DE N-240</td>
+<td>0,53</td>
+<td>ALDUNATE</td>
+<td>0,53</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2455</td>
+<td> </td>
+<td>GREZ</td>
+<td>0,00</td>
+<td>PK 29,25 DE NA-150</td>
+<td>1,83</td>
+<td>GREZ</td>
+<td>1,83</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2510</td>
+<td> </td>
+<td>BURUTAIN-ETSAIN</td>
+<td>0,00</td>
+<td>PK 17,19 DE N-121A</td>
+<td>3,80</td>
+<td>ETSAIN</td>
+<td>3,80</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2511</td>
+<td> </td>
+<td>OSACAIN</td>
+<td>0,00</td>
+<td>PK 0,69 DE NA-2512</td>
+<td>1,35</td>
+<td>OSACAIN</td>
+<td>1,35</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2512</td>
+<td> </td>
+<td>ZANDIO</td>
+<td>0,00</td>
+<td>PK 13,11 DE N-121A</td>
+<td>1,75</td>
+<td>ZANDIO</td>
+<td>1,75</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2513</td>
+<td> </td>
+<td>SARASIBAR</td>
+<td>0,00</td>
+<td>PK 13,97 DE N-135</td>
+<td>1,65</td>
+<td>SARASIBAR</td>
+<td>1,65</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2514</td>
+<td> </td>
+<td>ETULAIN</td>
+<td>0,00</td>
+<td>PK 18,73 DE N-121A</td>
+<td>0,57</td>
+<td>ETULAIN</td>
+<td>0,57</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2515</td>
+<td> </td>
+<td>INBULUZKETA</td>
+<td>0,00</td>
+<td>PK 16,75 DE N-135</td>
+<td>1,92</td>
+<td>INBULUZKETA</td>
+<td>1,92</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2516</td>
+<td> </td>
+<td>OLAVE</td>
+<td>0,00</td>
+<td>PK 10,52 DE N-121A</td>
+<td>0,23</td>
+<td>OLAVE</td>
+<td>0,23</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2517</td>
+<td> </td>
+<td>ARRE-ORICAIN</td>
+<td>0,00</td>
+<td>Rtda. Gasolinera en VILLAVA</td>
+<td>2,84</td>
+<td>PK 6,41 DE N-121A</td>
+<td>2,84</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2520</td>
+<td> </td>
+<td>OLAGÜE-ZUBIRI</td>
+<td>0,00</td>
+<td>PK 20,68 DE NA-8104</td>
+<td>13,30</td>
+<td>PK 25,36 DE NA-138</td>
+<td>13,30</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2521</td>
+<td> </td>
+<td>LEAZKUE</td>
+<td>0,00</td>
+<td>PK 0,43 DE NA-2520</td>
+<td>1,74</td>
+<td>LEAZKUE</td>
+<td>1,74</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2522</td>
+<td> </td>
+<td>ARITZU</td>
+<td>0,00</td>
+<td>PK 21,96 DE NA-8104</td>
+<td>1,21</td>
+<td>ARITZU</td>
+<td>1,21</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2523</td>
+<td> </td>
+<td>LANTZ</td>
+<td>0,00</td>
+<td>PK 23,31 DE N-121A</td>
+<td>2,23</td>
+<td>LANTZ</td>
+<td>2,23</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2530</td>
+<td> </td>
+<td>USETXI</td>
+<td>0,00</td>
+<td>PK 20,16 DE N-135</td>
+<td>4,57</td>
+<td>USETXI</td>
+<td>4,57</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2531</td>
+<td> </td>
+<td>LERANOTZ</td>
+<td>0,00</td>
+<td>PK 2,37 DE NA-2530</td>
+<td>0,22</td>
+<td>PK 2,66 DE NA-2530</td>
+<td>0,22</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2532</td>
+<td> </td>
+<td>ZILBETI</td>
+<td>0,00</td>
+<td>PK 24,97 DE N-135</td>
+<td>5,74</td>
+<td>ZILBETI</td>
+<td>5,74</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2540</td>
+<td> </td>
+<td>ALMANDOZ-IRURITA</td>
+<td>0,00</td>
+<td>PK 14,97 DE NA-1210</td>
+<td>9,15</td>
+<td>PK 0,33 DE NA-1740</td>
+<td>9,15</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2552</td>
+<td> </td>
+<td>ORICAIN</td>
+<td>0,00</td>
+<td>PK 7,53 DE N-121A</td>
+<td>0,64</td>
+<td>ORICAIN</td>
+<td>0,64</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2561</td>
+<td> </td>
+<td>IDOI</td>
+<td>0,00</td>
+<td>PK 0,27 DE NA-2513</td>
+<td>0,38</td>
+<td>IDOI</td>
+<td>0,38</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2584</td>
+<td> </td>
+<td>LINTZOAIN</td>
+<td>0,00</td>
+<td>PK 32,67 DE N-135</td>
+<td>0,35</td>
+<td>LINTZOAIN</td>
+<td>0,35</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2585</td>
+<td> </td>
+<td>LUZAIDE/VALCARLOS (PALOMERA)</td>
+<td>0,00</td>
+<td>PK 48,76 DE N-135</td>
+<td>1,01</td>
+<td>PISTA PALOMERAS</td>
+<td>1,01</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2591</td>
+<td> </td>
+<td>ZIGA</td>
+<td>0,00</td>
+<td>PK 4,80 DE NA-2540</td>
+<td>0,62</td>
+<td>ZIGA</td>
+<td>0,62</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2592</td>
+<td> </td>
+<td>BERROETA</td>
+<td>0,00</td>
+<td>PK 1,18 DE NA-2540</td>
+<td>0,34</td>
+<td>BERROETA</td>
+<td>0,34</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2594</td>
+<td> </td>
+<td>GARTZAIN</td>
+<td>0,00</td>
+<td>PK 48,99 DE N-121B</td>
+<td>1,19</td>
+<td>GARTZAIN</td>
+<td>1,19</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2595</td>
+<td> </td>
+<td>ARIZTEGI DE GARTZAIN</td>
+<td>0,00</td>
+<td>PK 0,12 DE NA-2594</td>
+<td>0,70</td>
+<td>BARRIO DE ARIZTEGI</td>
+<td>0,70</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2596</td>
+<td> </td>
+<td>ELIZONDO-BEARTZUN</td>
+<td>0,00</td>
+<td>PK 50,78 DE N-121B</td>
+<td>6,11</td>
+<td>BARRIO DE BEARTZUN</td>
+<td>6,11</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2600</td>
+<td> </td>
+<td>ERRATZU-FRANCIA</td>
+<td>0,00</td>
+<td>PK 55,53 DE N-121B</td>
+<td>11,90</td>
+<td>FRONTERA FRANCIA</td>
+<td>11,90</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2601</td>
+<td> </td>
+<td>ARIZKUN</td>
+<td>0,00</td>
+<td>PK 54,20 DE N-121B</td>
+<td>2,14</td>
+<td>PK 1,12 DE NA-2600</td>
+<td>2,14</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2602</td>
+<td> </td>
+<td>AINTZIALDE</td>
+<td>0,00</td>
+<td>PK 0,51 DE NA-2601</td>
+<td>1,51</td>
+<td>CASA UNAINEA</td>
+<td>1,51</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2651</td>
+<td> </td>
+<td>GOROSTAPOLO (BARRIO)</td>
+<td>0,00</td>
+<td>PK 3,19 DE NA-2600</td>
+<td>1,66</td>
+<td>BARRIO GOROSTAPOLO</td>
+<td>1,66</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2652</td>
+<td> </td>
+<td>IÑARBIL DE ERRATZU</td>
+<td>0,00</td>
+<td>PK 3,41 DE NA-2600</td>
+<td>1,37</td>
+<td>BARRIO IÑARBIL</td>
+<td>1,37</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2653</td>
+<td> </td>
+<td>AMAIUR DE BAZTAN</td>
+<td>0,00</td>
+<td>PK 57,75 DE N-121B</td>
+<td>0,64</td>
+<td>AMAIUR DE BAZTAN</td>
+<td>0,64</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>2655</td>
+<td> </td>
+<td>GORRAMENDI (REPETIDOR)</td>
+<td>0,00</td>
+<td>PK 63,19 DE N-121B</td>
+<td>10,75</td>
+<td>REPETIDOR TV</td>
+<td>10,75</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>3010</td>
+<td> </td>
+<td>TUDELA-ABLITAS</td>
+<td>0,00</td>
+<td>PK 2,44 DE N-121C</td>
+<td>7,87</td>
+<td>ABLITAS</td>
+<td>7,87</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>3040</td>
+<td> </td>
+<td>TULEBRAS-MALON</td>
+<td>0,00</td>
+<td>PK 11,67 DE N-121C</td>
+<td>2,42</td>
+<td>Lte. ZARAGOZA</td>
+<td>2,42</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>3041</td>
+<td> </td>
+<td>ABLITAS-BARILLAS</td>
+<td>0,00</td>
+<td>ABLITAS</td>
+<td>2,03</td>
+<td>BARILLAS</td>
+<td>2,03</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>3042</td>
+<td> </td>
+<td>CASCANTE-ABLITAS-RIBAFORADA</td>
+<td>0,00</td>
+<td>PK 9,89 DE N-121C</td>
+<td>13,35</td>
+<td>PK 105,31 DE A-68</td>
+<td>13,35</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4000</td>
+<td> </td>
+<td>LESAKA-OIARTZUN</td>
+<td>0,00</td>
+<td>PK 62,47 DE N-121A</td>
+<td>19,39</td>
+<td>Lte. GUIPUZCOA</td>
+<td>19,39</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4001</td>
+<td> </td>
+<td>LESAKA (VARIANTE)</td>
+<td>0,00</td>
+<td>PK 1,03 DE NA-4000</td>
+<td>0,95</td>
+<td>LAMINACIONES LESAKA</td>
+<td>0,95</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4011</td>
+<td> </td>
+<td>GORRITI</td>
+<td>0,00</td>
+<td>PK 4,20 DE NA-1700</td>
+<td>4,50</td>
+<td>GORRITI</td>
+<td>4,50</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4014</td>
+<td> </td>
+<td>ARESO</td>
+<td>0,00</td>
+<td>PK 0,34 DE NA-170</td>
+<td>1,53</td>
+<td>ARESO</td>
+<td>1,53</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4015</td>
+<td> </td>
+<td>GORRIZTARAN (BARRIO)</td>
+<td>0,00</td>
+<td>PK 4,55 DE NA-170</td>
+<td>2,05</td>
+<td>BARRIO GORRITZARAN</td>
+<td>2,05</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4016</td>
+<td> </td>
+<td>ARANO</td>
+<td>0,00</td>
+<td>PK 25,18 DE NA-4150</td>
+<td>3,05</td>
+<td>ARANO</td>
+<td>3,05</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4018</td>
+<td> </td>
+<td>ALDATZ</td>
+<td>0,00</td>
+<td>PK 11,88 DE NA-1300</td>
+<td>2,36</td>
+<td>ALDATZ</td>
+<td>2,36</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4019</td>
+<td> </td>
+<td>ARRUITZ</td>
+<td>0,00</td>
+<td>PK 11,12 DE NA-1300</td>
+<td>0,48</td>
+<td>ARRUITZ</td>
+<td>0,48</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4020</td>
+<td> </td>
+<td>ARANTZA</td>
+<td>0,00</td>
+<td>PK 58,61 DE N-121A</td>
+<td>7,20</td>
+<td>ARANTZA</td>
+<td>7,20</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4022</td>
+<td> </td>
+<td>LEITZA (ANTIGÜA ESTACION FFCC.)</td>
+<td>0,00</td>
+<td>PK 0,24 DE NA-1320</td>
+<td>0,56</td>
+<td>ANTIGÜA ESTACION FFCC.</td>
+<td>0,56</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4029</td>
+<td> </td>
+<td>SALDIAS</td>
+<td>0,00</td>
+<td>PK 19,19 DE NA-170</td>
+<td>2,44</td>
+<td>SALDIAS</td>
+<td>2,44</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4031</td>
+<td> </td>
+<td>ERATSUN</td>
+<td>0,00</td>
+<td>PK 16,25 DE NA-170</td>
+<td>2,58</td>
+<td>ERATSUN</td>
+<td>2,58</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4040</td>
+<td> </td>
+<td>DONEZTEBE/SANTESTEBAN-SALDIAS</td>
+<td>0,00</td>
+<td>PK 31,78 DE NA-170</td>
+<td>17,28</td>
+<td>SALDIAS</td>
+<td>17,28</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4041</td>
+<td> </td>
+<td>DONAMARIA-GAZTELU</td>
+<td>0,00</td>
+<td>PK 2,72 DE NA-4040</td>
+<td>2,47</td>
+<td>GAZTELU</td>
+<td>2,47</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4042</td>
+<td> </td>
+<td>IGURIN (BARRIO)</td>
+<td>0,00</td>
+<td>PK 1,40 DE NA-4041</td>
+<td>1,57</td>
+<td>BARRIO DE IGURIN</td>
+<td>1,57</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4044</td>
+<td> </td>
+<td>LEGASA</td>
+<td>0,00</td>
+<td>PK 23,33 DE NA-1210</td>
+<td>0,15</td>
+<td>LEGASA</td>
+<td>0,15</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4052</td>
+<td> </td>
+<td>IGANTZI</td>
+<td>0,00</td>
+<td>PK 2,00 DE NA-4020</td>
+<td>0,72</td>
+<td>IGANTZI</td>
+<td>0,72</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4061</td>
+<td> </td>
+<td>AZPIROTZ</td>
+<td>0,00</td>
+<td>PK 18,04 DE NA-1300</td>
+<td>0,33</td>
+<td>AZPIROTZ</td>
+<td>0,33</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4063</td>
+<td> </td>
+<td>ETXARRI (LARRAUN)</td>
+<td>0,00</td>
+<td>PK 13,32 DE NA-1300</td>
+<td>2,04</td>
+<td>ETXARRI</td>
+<td>2,04</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4093</td>
+<td> </td>
+<td>ARTZE (BARRIO)</td>
+<td>0,00</td>
+<td>PK 0,61 DE NA-4041</td>
+<td>1,06</td>
+<td>BARRIO DE ARTZE</td>
+<td>1,06</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4095</td>
+<td> </td>
+<td>ZOZAIA</td>
+<td>0,00</td>
+<td>PK 17,61 NA-1210</td>
+<td>0,96</td>
+<td>ZOZAIA</td>
+<td>0,96</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4100</td>
+<td> </td>
+<td>AIZOAIN-LIZASO</td>
+<td>0,00</td>
+<td>PK 5,70 DE PA-34</td>
+<td>16,74</td>
+<td>PK 19,60 DE NA-411</td>
+<td>16,74</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4101</td>
+<td> </td>
+<td>BALLARIAIN-ELCARTE</td>
+<td>0,00</td>
+<td>PK 2,67 DE NA-4100</td>
+<td>1,29</td>
+<td>ELCARTE</td>
+<td>1,29</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4102</td>
+<td> </td>
+<td>BELZUNCE-USI</td>
+<td>0,00</td>
+<td>PK 5,43 DE NA-4100</td>
+<td>3,10</td>
+<td>USI</td>
+<td>3,10</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4103</td>
+<td> </td>
+<td>NAVAZ (JUSLAPEÑA)</td>
+<td>0,00</td>
+<td>PK 0,67 DE NA-4102</td>
+<td>0,89</td>
+<td>NAVAZ</td>
+<td>0,89</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4104</td>
+<td> </td>
+<td>SARASA-ZUASTI</td>
+<td>0,00</td>
+<td>ZUASTI</td>
+<td>2,88</td>
+<td>SARASA</td>
+<td>2,88</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4105</td>
+<td> </td>
+<td>GARCIRIAIN</td>
+<td>0,00</td>
+<td>PK 5,69 DE NA-4100</td>
+<td>0,35</td>
+<td>GARCIRIAIN</td>
+<td>0,35</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4106</td>
+<td> </td>
+<td>BERRIOZAR</td>
+<td>0,00</td>
+<td>PK 4,23 DE N-240A</td>
+<td>1,13</td>
+<td>BERRIOZAR</td>
+<td>1,13</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4107</td>
+<td> </td>
+<td>BERRIOPLANO</td>
+<td>0,00</td>
+<td>PK 6,10 DE N-240A</td>
+<td>0,67</td>
+<td>BERRIOPLANO</td>
+<td>0,67</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4108</td>
+<td> </td>
+<td>BALLARIAIN</td>
+<td>0,00</td>
+<td>PK 0,66 DE NA-4101</td>
+<td>0,08</td>
+<td>BALLARIAIN</td>
+<td>0,08</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4109</td>
+<td> </td>
+<td>ARISTREGUI-OSINAGA</td>
+<td>0,00</td>
+<td>PK 11,04 DE N-240A</td>
+<td>4,46</td>
+<td>OSINAGA</td>
+<td>4,46</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4111</td>
+<td> </td>
+<td>ITSASO</td>
+<td>0,00</td>
+<td>PK 4,10 DE NA-411</td>
+<td>1,41</td>
+<td>ITSASO</td>
+<td>1,41</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4112</td>
+<td> </td>
+<td>BERUETE</td>
+<td>0,00</td>
+<td>PK 7,20 DE NA-411</td>
+<td>4,26</td>
+<td>BERUETE</td>
+<td>4,26</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4113</td>
+<td> </td>
+<td>ERBITI</td>
+<td>0,00</td>
+<td>PK 10,80 DE NA-411</td>
+<td>0,64</td>
+<td>ERBITI</td>
+<td>0,64</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4114</td>
+<td> </td>
+<td>OROKIETA-SALDIAS</td>
+<td>0,00</td>
+<td>PK10,90 DE NA-411</td>
+<td>14,19</td>
+<td>SALDIAS</td>
+<td>14,19</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4115</td>
+<td> </td>
+<td>SUARBE</td>
+<td>0,00</td>
+<td>PK 12,85 DE NA-411</td>
+<td>0,68</td>
+<td>SUARBE</td>
+<td>0,68</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4116</td>
+<td> </td>
+<td>ELTZABURU</td>
+<td>0,00</td>
+<td>PK 15,60 DE NA-411</td>
+<td>2,30</td>
+<td>ELTZABURU</td>
+<td>2,30</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4117</td>
+<td> </td>
+<td>GORRONTZ-OLANO</td>
+<td>0,00</td>
+<td>PK 19,10 DE NA-411</td>
+<td>2,13</td>
+<td>GORRONTZ-OLANO</td>
+<td>2,13</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4118</td>
+<td> </td>
+<td>GASCUE</td>
+<td>0,00</td>
+<td>PK 13,18 DE NA-4100</td>
+<td>0,42</td>
+<td>GASCUE</td>
+<td>0,42</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4119</td>
+<td> </td>
+<td>GARTZARON</td>
+<td>0,00</td>
+<td>PK 9,20 DE NA-411</td>
+<td>0,83</td>
+<td>GARTZARON</td>
+<td>0,83</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4120</td>
+<td> </td>
+<td>GULINA-AROSTEGUI</td>
+<td>0,00</td>
+<td>PK 18,37 DE N-240A</td>
+<td>13,74</td>
+<td>PK 11,89 DE NA-4100</td>
+<td>13,74</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4121</td>
+<td> </td>
+<td>SARASATE</td>
+<td>0,00</td>
+<td>PK 15,64 DE N-240A</td>
+<td>0,25</td>
+<td>SARASATE</td>
+<td>0,25</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4122</td>
+<td> </td>
+<td>LARUMBE</td>
+<td>0,00</td>
+<td>PK 17,06 DE N-240A</td>
+<td>2,79</td>
+<td>LARUMBE</td>
+<td>2,79</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4123</td>
+<td> </td>
+<td>MUSKITZ</td>
+<td>0,00</td>
+<td>PK 6,89 DE NA-4120</td>
+<td>0,28</td>
+<td>MUSKITZ</td>
+<td>0,28</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4130</td>
+<td> </td>
+<td>VALLE DE IMOTZ</td>
+<td>0,00</td>
+<td>PK 21,76 DE NA-1300</td>
+<td>9,14</td>
+<td>PK 6,89 DE NA-4120</td>
+<td>9,14</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4131</td>
+<td> </td>
+<td>ZARRANTZ</td>
+<td>0,00</td>
+<td>PK 1,83 DE NA-4130</td>
+<td>3,75</td>
+<td>ZARRANTZ</td>
+<td>3,75</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4133</td>
+<td> </td>
+<td>IRURTZUN (ANTIGÜA ESTACION FFCC.)</td>
+<td>0,00</td>
+<td>PK 20,18 DE N-240</td>
+<td>0,27</td>
+<td>ANTIGÜA ESTACION FFCC.</td>
+<td>0,27</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4140</td>
+<td> </td>
+<td>IHABEN-ETXALEKU</td>
+<td>0,00</td>
+<td>PK 5,70 DE NA-411</td>
+<td>4,57</td>
+<td>PK 4,41 DE NA-4130</td>
+<td>4,57</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4150</td>
+<td> </td>
+<td>LEITZA-GOIZUETA-HERNANI</td>
+<td>0,00</td>
+<td>PK 7,87 DE NA-170</td>
+<td>29,53</td>
+<td>Lte. GUIPUZCOA</td>
+<td>29,53</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4161</td>
+<td> </td>
+<td>LARRAINTZAR-IRAIZOTZ</td>
+<td>0,00</td>
+<td>PK 17,60 DE NA-411</td>
+<td>2,40</td>
+<td>PK 2,85 DE NA-4230</td>
+<td>2,40</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4171</td>
+<td> </td>
+<td>AIZKORBE</td>
+<td>0,00</td>
+<td>PK 18,84 DE N-240A</td>
+<td>0,40</td>
+<td>AIZKORBE</td>
+<td>0,40</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4172</td>
+<td> </td>
+<td>GULINA</td>
+<td>0,00</td>
+<td>PK 1,40 DE NA-4120</td>
+<td>0,51</td>
+<td>GULINA</td>
+<td>0,51</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4173</td>
+<td> </td>
+<td>AGUINAGA DE IZA</td>
+<td>0,00</td>
+<td>PK 2,04 DE NA-4120</td>
+<td>0,34</td>
+<td>AGUINAGA DE IZA</td>
+<td>0,34</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4175</td>
+<td> </td>
+<td>BEUNZA</td>
+<td>0,00</td>
+<td>PK 10,03 DE NA-4120</td>
+<td>2,82</td>
+<td>BEUNZA</td>
+<td>2,82</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4176</td>
+<td> </td>
+<td>EGUILLOR</td>
+<td>0,00</td>
+<td>PK 12,77 DE NA-4120</td>
+<td>2,05</td>
+<td>EGUILLOR</td>
+<td>2,05</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4177</td>
+<td> </td>
+<td>BERASAIN</td>
+<td>0,00</td>
+<td>PK 10,37 DE NA-4120</td>
+<td>0,36</td>
+<td>BERASAIN</td>
+<td>0,36</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4178</td>
+<td> </td>
+<td>CIGANDA</td>
+<td>0,00</td>
+<td>PK 1,40 DE NA-4176</td>
+<td>0,09</td>
+<td>CIGANDA</td>
+<td>0,09</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4179</td>
+<td> </td>
+<td>AROSTEGUI</td>
+<td>0,00</td>
+<td>PK 13,56 DE NA-4120</td>
+<td>0,26</td>
+<td>AROSTEGUI</td>
+<td>0,26</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4201</td>
+<td> </td>
+<td>ARTICA</td>
+<td>0,00</td>
+<td>PK 0,00 DE NA-4201</td>
+<td>1,58</td>
+<td>CAMINO SAN CRISTOBAL</td>
+<td>1,58</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4210</td>
+<td> </td>
+<td>VALLE DE EZCABARTE</td>
+<td>0,00</td>
+<td>PK 6,77 DE N-121A</td>
+<td>7,82</td>
+<td>PK 2,88 DE NA-4100</td>
+<td>7,82</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4211</td>
+<td> </td>
+<td>EUSA</td>
+<td>0,00</td>
+<td>PK 1,69 DE NA-4210</td>
+<td>0,67</td>
+<td>EUSA</td>
+<td>0,67</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4212</td>
+<td> </td>
+<td>OLAIZ</td>
+<td>0,00</td>
+<td>PK 10,49 DE N-121A</td>
+<td>1,14</td>
+<td>OLAIZ</td>
+<td>1,14</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4213</td>
+<td> </td>
+<td>ENDERIZ</td>
+<td>0,00</td>
+<td>PK 13,00 DE N-121A</td>
+<td>0,51</td>
+<td>ENDERIZ</td>
+<td>0,51</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4220</td>
+<td> </td>
+<td>NUIN</td>
+<td>0,00</td>
+<td>PK 4,91 DE NA-4100</td>
+<td>4,49</td>
+<td>NUIN</td>
+<td>4,49</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4221</td>
+<td> </td>
+<td>OSACAR</td>
+<td>0,00</td>
+<td>PK 4,31 DE NA-4220</td>
+<td>2,10</td>
+<td>OSACAR</td>
+<td>2,10</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4222</td>
+<td> </td>
+<td>BEORBURU</td>
+<td>0,00</td>
+<td>PK 0,61 DE NA-4221</td>
+<td>1,60</td>
+<td>BEORBURU</td>
+<td>1,60</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4230</td>
+<td> </td>
+<td>LIZASO-ARRAITZ</td>
+<td>0,00</td>
+<td>PK 20,19 DE NA-411</td>
+<td>7,41</td>
+<td>PK 24,98 DE N-121A</td>
+<td>7,41</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4231</td>
+<td> </td>
+<td>ELTSO</td>
+<td>0,00</td>
+<td>PK 0,32 DE NA-4230</td>
+<td>0,67</td>
+<td>ELTSO</td>
+<td>0,67</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4232</td>
+<td> </td>
+<td>GUENDULAIN</td>
+<td>0,00</td>
+<td>PK 24,90 DE NA-411</td>
+<td>0,56</td>
+<td>GUENDULAIN</td>
+<td>0,56</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4241</td>
+<td> </td>
+<td>ANOZ</td>
+<td>0,00</td>
+<td>PK 26,00 DE NA-411</td>
+<td>4,43</td>
+<td>ANOZ</td>
+<td>4,43</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4242</td>
+<td> </td>
+<td>URRITZOLA-GALAIN</td>
+<td>0,00</td>
+<td>PK 21,97 DE NA-411</td>
+<td>2,31</td>
+<td>URRITZOLA-GALAIN</td>
+<td>2,31</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4244</td>
+<td> </td>
+<td>ANSOAIN</td>
+<td>0,00</td>
+<td>PAMPLONA</td>
+<td>1,05</td>
+<td>ANSOAIN</td>
+<td>1,05</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4251</td>
+<td> </td>
+<td>AZOZ</td>
+<td>0,00</td>
+<td>PK 3,00 DE NA-2517</td>
+<td>1,06</td>
+<td>AZOZ</td>
+<td>1,06</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4271</td>
+<td> </td>
+<td>OLLACARIZQUETA</td>
+<td>0,00</td>
+<td>PK 0,20 DE NA-4220</td>
+<td>0,35</td>
+<td>OLLACARIZQUETA</td>
+<td>0,35</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4281</td>
+<td> </td>
+<td>ARRAITZ-ORKIN</td>
+<td>0,00</td>
+<td>PK 6,58 DE NA-4230</td>
+<td>0,46</td>
+<td>ORKIN</td>
+<td>0,46</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4300</td>
+<td> </td>
+<td>ARRARATS</td>
+<td>0,00</td>
+<td>PK 3,40 DE NA-4351</td>
+<td>1,67</td>
+<td>ARRARATS</td>
+<td>1,67</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4351</td>
+<td> </td>
+<td>IGOA</td>
+<td>0,00</td>
+<td>PK 9,05 DE NA-411</td>
+<td>4,33</td>
+<td>IGOA</td>
+<td>4,33</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4355</td>
+<td> </td>
+<td>ILARREGI</td>
+<td>0,00</td>
+<td>PK 12,80 DE NA-411</td>
+<td>0,24</td>
+<td>ILARREGI</td>
+<td>0,24</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4400</td>
+<td> </td>
+<td>ETXALAR-FRANCIA</td>
+<td>0,00</td>
+<td>PK 60,76 DE N-121A</td>
+<td>11,79</td>
+<td>FRONTERA FRANCIA</td>
+<td>11,79</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4401</td>
+<td> </td>
+<td>ZUGARRAMURDI</td>
+<td>0,00</td>
+<td>PK 72,75 DE N-121B</td>
+<td>4,23</td>
+<td>ZUGARRAMURDI</td>
+<td>4,23</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4402</td>
+<td> </td>
+<td>URDAZUBI/URDAX</td>
+<td>0,00</td>
+<td>PK 71,28 DE N-121B</td>
+<td>1,14</td>
+<td>URDAZUBI/URDAX</td>
+<td>1,14</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4403</td>
+<td> </td>
+<td>LEKAROZ</td>
+<td>0,00</td>
+<td>PK 49,08 DE N-121B</td>
+<td>1,55</td>
+<td>LEKAROZ</td>
+<td>1,55</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4404</td>
+<td> </td>
+<td>IRURITA (ESTACION)</td>
+<td>0,00</td>
+<td>PK 47,63 DE N-121B</td>
+<td>0,61</td>
+<td>ESTACION IRURITA</td>
+<td>0,61</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4405</td>
+<td> </td>
+<td>OHARRIZ (BARRIO)</td>
+<td>0,00</td>
+<td>PK 46,63 DE N-121B</td>
+<td>0,68</td>
+<td>BARRIO OHARRIZ</td>
+<td>0,68</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4406</td>
+<td> </td>
+<td>URRASUN</td>
+<td>0,00</td>
+<td>PK 56,82 DE N-121B</td>
+<td>0,45</td>
+<td>BARRIO URRASUN</td>
+<td>0,45</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4410</td>
+<td> </td>
+<td>BERA/VERA DE BIDASOA-FRANCIA (LIZUNIAGA)</td>
+<td>0,00</td>
+<td>PK 0,85 DE NA-1310</td>
+<td>5,00</td>
+<td>FRONTERA FRANCIA</td>
+<td>5,00</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4445</td>
+<td> </td>
+<td>ARRAZKAZAN (BARRIO)</td>
+<td>0,00</td>
+<td>PK 0,82 DE NA-4403</td>
+<td>1,48</td>
+<td>BARRIO ARRAZKAZAN</td>
+<td>1,48</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4453</td>
+<td> </td>
+<td>MUGAIRI-OTXONDO-ORABIDEA</td>
+<td>0,00</td>
+<td>PK 43,22 DE N-121B</td>
+<td>27,38</td>
+<td>PK 21,41 DE N-121B</td>
+<td>27,38</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4456</td>
+<td> </td>
+<td>ZUAZTOI</td>
+<td>0,00</td>
+<td>PK 0,05 DE NA-4457</td>
+<td>1,12</td>
+<td>ZUAZTOI</td>
+<td>1,12</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4457</td>
+<td> </td>
+<td>AZPILKUETA</td>
+<td>0,00</td>
+<td>PK 55,53 DE N-121B</td>
+<td>2,00</td>
+<td>AZPILKUETA</td>
+<td>2,00</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>4508</td>
+<td> </td>
+<td>OTEIZA (ANSOAIN)</td>
+<td>0,00</td>
+<td>PK 8,92 DE N-240A</td>
+<td>0,83</td>
+<td>OTEIZA</td>
+<td>0,83</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5001</td>
+<td> </td>
+<td>IMARCOAIN</td>
+<td>0,00</td>
+<td>PK 0,00 DE NA-6009</td>
+<td>1,48</td>
+<td>IMARCOAIN</td>
+<td>1,48</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5002</td>
+<td> </td>
+<td>ZABALEGUI</td>
+<td>0,00</td>
+<td>PK 2,10 DE NA-2420</td>
+<td>0,88</td>
+<td>ZABALEGUI</td>
+<td>0,88</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5003</td>
+<td> </td>
+<td>YARNOZ</td>
+<td>0,00</td>
+<td>PK 7,54 DE NA-234</td>
+<td>0,63</td>
+<td>YARNOZ</td>
+<td>0,63</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5004</td>
+<td> </td>
+<td>GUERENDIAIN</td>
+<td>0,00</td>
+<td>PK 2,40 DE NA-234</td>
+<td>0,70</td>
+<td>GUERENDIAIN</td>
+<td>0,70</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5005</td>
+<td> </td>
+<td>SALINAS DE IBARGOITI</td>
+<td>0,00</td>
+<td>PK 20,43 DE N-240</td>
+<td>0,19</td>
+<td>SALINAS IBARGOITI</td>
+<td>0,19</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5007</td>
+<td> </td>
+<td>NOAIN (CENT, HORTOFRUTICOLA)</td>
+<td>0,00</td>
+<td>PK 0,96 DE NA-5001</td>
+<td>0,96</td>
+<td>PK 9,25 DE N-121</td>
+<td>0,96</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5008</td>
+<td> </td>
+<td>TORRES DE ELORZ</td>
+<td>0,00</td>
+<td>PK 0,00 DE NA-2420</td>
+<td>1,55</td>
+<td>CAMINO DE ZABALEGUI</td>
+<td>1,55</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5010</td>
+<td> </td>
+<td>CARRASCAL-VERJA BARIAIN</td>
+<td>0,00</td>
+<td>PK 19,65 DE N-121</td>
+<td>7,04</td>
+<td>VERJA DE BARIAIN</td>
+<td>7,04</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5011</td>
+<td> </td>
+<td>OLORIZ</td>
+<td>0,00</td>
+<td>PK 3,19 DE NA-5010</td>
+<td>0,36</td>
+<td>OLORIZ</td>
+<td>0,36</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5020</td>
+<td> </td>
+<td>UNZUE</td>
+<td>0,00</td>
+<td>PK 1,03 DE NA-5010</td>
+<td>0,55</td>
+<td>UNZUE</td>
+<td>0,55</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5030</td>
+<td> </td>
+<td>ECHAGÜE</td>
+<td>0,00</td>
+<td>PK 1,81 DE NA-5010</td>
+<td>2,54</td>
+<td>ECHAGÜE</td>
+<td>2,54</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5040</td>
+<td> </td>
+<td>ORICIN</td>
+<td>0,00</td>
+<td>PK 1,91 DE NA-5010</td>
+<td>0,35</td>
+<td>ORICIN</td>
+<td>0,35</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5051</td>
+<td> </td>
+<td>TIEBAS</td>
+<td>0,00</td>
+<td>PK 0,90 DE NA-234</td>
+<td>1,19</td>
+<td>TIEBAS</td>
+<td>1,19</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5100</td>
+<td> </td>
+<td>GARINOAIN-LEOZ</td>
+<td>0,49</td>
+<td>PK 25,77 DE N-121</td>
+<td>14,14</td>
+<td>LEOZ</td>
+<td>13,65</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5101</td>
+<td> </td>
+<td>ABINZANO</td>
+<td>0,00</td>
+<td>PK 24,98 DE N-240</td>
+<td>1,30</td>
+<td>ABINZANO</td>
+<td>1,30</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5102</td>
+<td> </td>
+<td>IZCO</td>
+<td>0,00</td>
+<td>PK 27,04 DE N-240</td>
+<td>0,53</td>
+<td>IZCO</td>
+<td>0,53</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5110</td>
+<td> </td>
+<td>PUEYO-ALTO DE LERGA</td>
+<td>0,00</td>
+<td>PK 30,00 DE N-121</td>
+<td>14,97</td>
+<td>PK 49,50 DE NA-132</td>
+<td>14,97</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5113</td>
+<td> </td>
+<td>MAQUIRRIAIN</td>
+<td>0,00</td>
+<td>PK 6,16 DE NA-5110</td>
+<td>0,23</td>
+<td>MAQUIRRIAIN</td>
+<td>0,23</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5120</td>
+<td> </td>
+<td>LEACHE</td>
+<td>0,00</td>
+<td>PK 67,84 DE NA-132</td>
+<td>4,28</td>
+<td>LEACHE</td>
+<td>4,28</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5130</td>
+<td> </td>
+<td>SADA-MORIONES</td>
+<td>0,00</td>
+<td>PK 0,74 DE NA-5140</td>
+<td>3,18</td>
+<td>MORIONES</td>
+<td>3,18</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5140</td>
+<td> </td>
+<td>SADA DE SANGÜESA</td>
+<td>0,00</td>
+<td>PK 64,83 DE NA-132</td>
+<td>1,58</td>
+<td>PK 65,48 DE NA-132</td>
+<td>1,58</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5141</td>
+<td> </td>
+<td>AYESA</td>
+<td>0,00</td>
+<td>PK 61,35 DE NA-132</td>
+<td>1,95</td>
+<td>AYESA</td>
+<td>1,95</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5151</td>
+<td> </td>
+<td>SOLCHAGA</td>
+<td>0,00</td>
+<td>PK 1,60 DE NA-5100</td>
+<td>2,71</td>
+<td>SOLCHAGA</td>
+<td>2,71</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5152</td>
+<td> </td>
+<td>ORISOAIN</td>
+<td>0,00</td>
+<td>PK 4,63 DE NA-5100</td>
+<td>0,53</td>
+<td>ORISOAIN</td>
+<td>0,53</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5153</td>
+<td> </td>
+<td>LEOZ-SABAIZA</td>
+<td>13,71</td>
+<td>PK 13,71 DE NA-5100</td>
+<td>16,57</td>
+<td>VERJA DE SABAIZA</td>
+<td>2,86</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5154</td>
+<td> </td>
+<td>UZQUITA</td>
+<td>0,00</td>
+<td>PK 14,94 DE NA-5153</td>
+<td>0,62</td>
+<td>UZQUITA</td>
+<td>0,62</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5156</td>
+<td> </td>
+<td>IRACHETA</td>
+<td>0,00</td>
+<td>PK 11,06 DE NA-5100</td>
+<td>0,21</td>
+<td>IRACHETA</td>
+<td>0,21</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5161</td>
+<td> </td>
+<td>AMATRIAIN</td>
+<td>0,00</td>
+<td>PK 26,92 DE N-121</td>
+<td>7,51</td>
+<td>AMATRIAIN</td>
+<td>7,51</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5162</td>
+<td> </td>
+<td>BEZQUIZ</td>
+<td>0,00</td>
+<td>PK 4,55 DE NA-5161</td>
+<td>0,49</td>
+<td>BEZQUIZ</td>
+<td>0,49</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5163</td>
+<td> </td>
+<td>SANSOAIN</td>
+<td>0,00</td>
+<td>PK 2,99 DE NA-5110</td>
+<td>1,35</td>
+<td>SANSOAIN</td>
+<td>1,35</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5200</td>
+<td> </td>
+<td>RIBAFORADA-CORTES</td>
+<td>0,00</td>
+<td>PK 105,68 DE A-68</td>
+<td>17,15</td>
+<td>Lte. ZARAGOZA</td>
+<td>17,15</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5201</td>
+<td> </td>
+<td>RIBAFORADA (ACCESO ESTACION FFCC.)</td>
+<td>0,00</td>
+<td>PK 1,86 DE NA-5200</td>
+<td>0,32</td>
+<td>ESTACION FFCC.</td>
+<td>0,32</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5202</td>
+<td> </td>
+<td>FUSTIÑANA-RIBAFORADA</td>
+<td>0,00</td>
+<td>PK 10,50 DE NA-126</td>
+<td>3,57</td>
+<td>PK 2,39 DE NA-5200</td>
+<td>3,57</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5210</td>
+<td> </td>
+<td>BUÑUEL (ACCESOS A-68)</td>
+<td>0,00</td>
+<td>PK 5,72 DE NA-5200</td>
+<td>2,06</td>
+<td>PK 109,66 DE A-68</td>
+<td>2,06</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5211</td>
+<td> </td>
+<td>BUÑUEL (ACCESOS PUENTE)</td>
+<td>0,00</td>
+<td>PK 10,55 DE NA-5200</td>
+<td>2,70</td>
+<td>PK 19,20 DE NA-126</td>
+<td>2,70</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5221</td>
+<td> </td>
+<td>CORTES-NOVILLAS</td>
+<td>0,00</td>
+<td>PK 15,51 DE NA-5200</td>
+<td>1,25</td>
+<td>Lte. ZARAGOZA</td>
+<td>1,25</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5222</td>
+<td> </td>
+<td>CORTES (ACCESOS)</td>
+<td>0,00</td>
+<td>PK,116,66 DE N-232</td>
+<td>1,31</td>
+<td>PK 16,03 DE NA-5200</td>
+<td>1,31</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5230</td>
+<td> </td>
+<td>FONTELLAS</td>
+<td>0,00</td>
+<td>PK 98,83 DE A-68</td>
+<td>0,94</td>
+<td>FONTELLAS</td>
+<td>0,94</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5281</td>
+<td> </td>
+<td>EL BOCAL</td>
+<td>0,00</td>
+<td>PK 100,83 DE A-68</td>
+<td>2,16</td>
+<td>EL BOCAL</td>
+<td>2,16</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5300</td>
+<td> </td>
+<td>SAN MARTIN DE UNX-OLITE</td>
+<td>0,00</td>
+<td>PK 44,49 DE NA-132</td>
+<td>9,75</td>
+<td>PK 0,57 DE NA-5303</td>
+<td>9,75</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5301</td>
+<td> </td>
+<td>OLITE-BEIRE</td>
+<td>0,00</td>
+<td>PK 0,72 DE NA-5303</td>
+<td>3,68</td>
+<td>BEIRE</td>
+<td>3,68</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5302</td>
+<td> </td>
+<td>OLITE (ESTACION FFCC.)</td>
+<td>0,00</td>
+<td>PK 0,04 DE NA-5303</td>
+<td>0,24</td>
+<td>ESTACION FFCC.</td>
+<td>0,24</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5303</td>
+<td> </td>
+<td>VUELTA AL CASTILLO OLITE</td>
+<td>0,00</td>
+<td>PK 40,66 DE NA-8602</td>
+<td>0,82</td>
+<td>PK 41,27 DE NA-8602</td>
+<td>0,82</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5310</td>
+<td> </td>
+<td>UJUE</td>
+<td>0,00</td>
+<td>PK 45,40 DE NA-132</td>
+<td>7,44</td>
+<td>UJUE</td>
+<td>7,44</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5311</td>
+<td> </td>
+<td>UJUE-MURILLO EL FRUTO</td>
+<td>0,00</td>
+<td>PK 6,03 DE NA-5310</td>
+<td>20,84</td>
+<td>PK 16,51 DE NA-1240</td>
+<td>20,84</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5320</td>
+<td> </td>
+<td>GALLIPIENZO</td>
+<td>0,00</td>
+<td>PK 61,09 DE NA-132</td>
+<td>5,70</td>
+<td>GALLIPIENZO</td>
+<td>5,70</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5321</td>
+<td> </td>
+<td>CASEDA-GALLIPIENZO</td>
+<td>0,00</td>
+<td>PK 15,26 DE NA-5339</td>
+<td>4,97</td>
+<td>PK 2,10 DE NA-5320</td>
+<td>4,97</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5330</td>
+<td>1</td>
+<td>PITILLAS-SANTACARA-MELIDA</td>
+<td>0,00</td>
+<td>PK 47,05 DE N-121</td>
+<td>10,16</td>
+<td>PK 8,58 DE NA-1240</td>
+<td>10,16</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5330</td>
+<td>2</td>
+<td>PITILLAS-SANTACARA-MELIDA</td>
+<td>10,46</td>
+<td>PK 8,88 DE NA-1240</td>
+<td>12,15</td>
+<td>PK 23,55 DE NA-128</td>
+<td>1,69</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5331</td>
+<td> </td>
+<td>PITILLAS-BEIRE</td>
+<td>0,00</td>
+<td>PK 1,97 DE NA-5330</td>
+<td>3,54</td>
+<td>BEIRE</td>
+<td>3,54</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5332</td>
+<td> </td>
+<td>PITILLAS-MURILLO EL CUENDE</td>
+<td>0,00</td>
+<td>PK 1,74 DE NA-5330</td>
+<td>2,87</td>
+<td>MURILLO EL CUENDE</td>
+<td>2,87</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5340</td>
+<td> </td>
+<td>SANGÜESA-GABARDERAL-CASEDA</td>
+<td>0,00</td>
+<td>PK 6,44 DE NA-127</td>
+<td>8,90</td>
+<td>16,16 DE NA-5339</td>
+<td>8,90</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5341</td>
+<td> </td>
+<td>GABARDERAL-CASEDA</td>
+<td>3,94</td>
+<td>PK 1,42 DE NA-5342</td>
+<td>10,26</td>
+<td>PK 15,76 DE NA-5339</td>
+<td>6,32</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5342</td>
+<td> </td>
+<td>PEÑA</td>
+<td>0,00</td>
+<td>PK 2,70 DE NA-5340</td>
+<td>2,35</td>
+<td>PEÑA</td>
+<td>2,35</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5381</td>
+<td> </td>
+<td>MURILLO EL CUENDE</td>
+<td>0,00</td>
+<td>PK 50,08 DE N-121</td>
+<td>1,13</td>
+<td>MURILLO EL CUENDE</td>
+<td>1,13</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5390</td>
+<td> </td>
+<td>FIGAROL</td>
+<td>0,00</td>
+<td>PK 32,20 DE NA-5339</td>
+<td>10,31</td>
+<td>PK 40,23 DE NA-128</td>
+<td>10,31</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5391</td>
+<td> </td>
+<td>ACCESO A FIGAROL</td>
+<td>0,00</td>
+<td>PK 7,21 DE NA-5390</td>
+<td>0,17</td>
+<td>FIGAROL</td>
+<td>0,17</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5401</td>
+<td> </td>
+<td>ROCAFORTE</td>
+<td>0,00</td>
+<td>PK 1,68 DE NA-8603</td>
+<td>1,54</td>
+<td>ROCAFORTE</td>
+<td>1,54</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5410</td>
+<td> </td>
+<td>SANGÜESA-YESA</td>
+<td>0,00</td>
+<td>PK 4,80 DE NA-8603</td>
+<td>12,20</td>
+<td>PK 47,43 DE N-240</td>
+<td>12,20</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5411</td>
+<td> </td>
+<td>JAVIER</td>
+<td>0,00</td>
+<td>PK 7,54 DE NA-5410</td>
+<td>1,30</td>
+<td>JAVIER</td>
+<td>1,30</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5501</td>
+<td> </td>
+<td>CAPARROSO (RONDA)</td>
+<td>0,00</td>
+<td>PK 57,09 DE N-121</td>
+<td>0,78</td>
+<td>PK 1,33 DE NA-5500</td>
+<td>0,78</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5502</td>
+<td> </td>
+<td>ACCESO A CAPARROSO</td>
+<td>0,00</td>
+<td>CAPARROSO</td>
+<td>1,23</td>
+<td>PK 58,76 DE N-121</td>
+<td>1,23</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5510</td>
+<td> </td>
+<td>RADA</td>
+<td>0,00</td>
+<td>PK 18,77 DE NA-128</td>
+<td>2,48</td>
+<td>RADA</td>
+<td>2,48</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>5700</td>
+<td> </td>
+<td>PETILLA DE ARAGON</td>
+<td>5,30</td>
+<td>Lte. ZARAGOZA</td>
+<td>10,21</td>
+<td>PETILLA DE ARAGON</td>
+<td>4,91</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6000</td>
+<td> </td>
+<td>ECHAVACOIZ-CAMPANAS</td>
+<td>0,00</td>
+<td>PK 3,95 DE A-12</td>
+<td>13,68</td>
+<td>PK 14,79 DE N-121</td>
+<td>13,68</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6001</td>
+<td> </td>
+<td>ESQUIROZ-NOAIN</td>
+<td>0,00</td>
+<td>CARRETERA DEL SADAR</td>
+<td>6,67</td>
+<td>PK 0,00 NA-5001</td>
+<td>6,67</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6002</td>
+<td> </td>
+<td>SALINAS DE PAMPLONA</td>
+<td>0,00</td>
+<td>PK 6,50 DE NA-8102</td>
+<td>1,96</td>
+<td>NA-6008</td>
+<td>1,96</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6003</td>
+<td> </td>
+<td>CORDOVILLA</td>
+<td>0,00</td>
+<td>PK 0,58 DE NA-6001</td>
+<td>0,70</td>
+<td>A.I.N</td>
+<td>0,70</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6004</td>
+<td> </td>
+<td>GALAR</td>
+<td>0,00</td>
+<td>PK 0,38 DE NA-1110</td>
+<td>3,13</td>
+<td>GALAR</td>
+<td>3,13</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6005</td>
+<td> </td>
+<td>ZARIQUIEGUI</td>
+<td>0,00</td>
+<td>PK 3,13 DE NA-1110</td>
+<td>1,85</td>
+<td>ZARIQUIEGUI</td>
+<td>1,85</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6006</td>
+<td> </td>
+<td>AEROPUERTO NOAIN (VIEJA)</td>
+<td>0,00</td>
+<td>PK 0,04 DE NA-6002</td>
+<td>0,62</td>
+<td>AEROPUERTO</td>
+<td>0,62</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6007</td>
+<td> </td>
+<td>ARLEGUI-BERIAIN</td>
+<td>0,00</td>
+<td>PK 6,65 DE NA-6000</td>
+<td>3,80</td>
+<td>BERIAIN</td>
+<td>1,80</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6008</td>
+<td> </td>
+<td>SALINAS-ESPARZA DE GALAR</td>
+<td>0,00</td>
+<td>PK 1,96 DE NA-6002</td>
+<td>2,66</td>
+<td>PK 4,99 DE NA-6000</td>
+<td>2,66</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6009</td>
+<td> </td>
+<td>BERIAIN-SUBIZA</td>
+<td>0,00</td>
+<td>PK 8,45 DE N-121</td>
+<td>4,13</td>
+<td>PK 9,74 DE NA-6000</td>
+<td>4,13</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6010</td>
+<td> </td>
+<td>GALAR (VIEJA)</td>
+<td>0,00</td>
+<td>PK 5,73 DE A-12</td>
+<td>1,80</td>
+<td>GALAR</td>
+<td>1,80</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6011</td>
+<td> </td>
+<td>ADIOS</td>
+<td>0,00</td>
+<td>PK 7,22 DE NA-601</td>
+<td>1,55</td>
+<td>ADIOS</td>
+<td>1,55</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6012</td>
+<td> </td>
+<td>UCAR</td>
+<td>0,00</td>
+<td>PK 3,86 DE NA-601</td>
+<td>0,73</td>
+<td>UCAR</td>
+<td>0,73</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6013</td>
+<td> </td>
+<td>AÑORBE</td>
+<td>0,00</td>
+<td>PK 3,87 DE NA-601</td>
+<td>2,05</td>
+<td>AÑORBE</td>
+<td>2,05</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6014</td>
+<td> </td>
+<td>TIRAPU</td>
+<td>0,00</td>
+<td>PK 0,85 DE NA-6013</td>
+<td>0,61</td>
+<td>TIRAPU</td>
+<td>0,61</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6015</td>
+<td> </td>
+<td>ONDARRA (SANATORIO)</td>
+<td>0,00</td>
+<td>PK 0,27 DE NA-601</td>
+<td>4,23</td>
+<td>SANATORIO ONDARRA</td>
+<td>4,23</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6016</td>
+<td> </td>
+<td>UTERGA-MURUZABAL</td>
+<td>0,00</td>
+<td>PK 9,06 DE NA-1110</td>
+<td>5,00</td>
+<td>MURUZABAL</td>
+<td>5,00</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6017</td>
+<td> </td>
+<td>SUBIZA</td>
+<td>0,00</td>
+<td>PK 10,04 DE NA-6000</td>
+<td>0,38</td>
+<td>SUBIZA</td>
+<td>0,38</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6020</td>
+<td> </td>
+<td>CARRASCAL-MARCILLA (I)</td>
+<td>0,00</td>
+<td>PK 17,62 DE N-121</td>
+<td>19,95</td>
+<td>PK 22,39 DE NA-132</td>
+<td>19,95</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6021</td>
+<td> </td>
+<td>ARTAJONA (MURALLAS CERCO)</td>
+<td>0,00</td>
+<td>PK 12,11 DE NA-6020</td>
+<td>1,09</td>
+<td>CERCO DE ARTAJONA</td>
+<td>1,09</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6026</td>
+<td> </td>
+<td>AEROPUERTO</td>
+<td>0,00</td>
+<td>PK 3,33 DE PA-31</td>
+<td>0,50</td>
+<td>AEROPUERTO</td>
+<td>0,50</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6030</td>
+<td>1</td>
+<td>MENDIGORRIA-TAFALLA</td>
+<td>0,00</td>
+<td>PK 22,22 DE NA-601</td>
+<td>7,90</td>
+<td>PK 13,56 DE NA-6020</td>
+<td>7,90</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6030</td>
+<td>2</td>
+<td>MENDIGORRIA-TAFALLA</td>
+<td>8,15</td>
+<td>PK 13,31 DE NA-6020</td>
+<td>18,76</td>
+<td>PK 33,30 DE NA-132</td>
+<td>10,61</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6031</td>
+<td> </td>
+<td>MURUZABAL DE ANDION</td>
+<td>0,00</td>
+<td>PK 23,70 DE NA-601</td>
+<td>2,28</td>
+<td>MURUZABAL DE ANDION</td>
+<td>2,28</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6053</td>
+<td> </td>
+<td>ZIZUR MAYOR-CIZUR MENOR</td>
+<td>0,00</td>
+<td>ZIZUR MAYOR</td>
+<td>1,26</td>
+<td>PK 1,27 DE NA-6000</td>
+<td>1,26</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6056</td>
+<td> </td>
+<td>ALTO DEL PERDON (ERMITA)</td>
+<td>0,00</td>
+<td>PK 7,30 DE NA-1110</td>
+<td>6,46</td>
+<td>ERMITA SANTA CRUZ</td>
+<td>6,46</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6061</td>
+<td> </td>
+<td>OBANOS</td>
+<td>0,00</td>
+<td>PK 13,60 DE NA-1110</td>
+<td>1,25</td>
+<td>OBANOS</td>
+<td>1,25</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6062</td>
+<td> </td>
+<td>MURUZABAL</td>
+<td>0,00</td>
+<td>PK 10,45 DE NA-6064</td>
+<td>1,72</td>
+<td>MURUZABAL</td>
+<td>1,72</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6063</td>
+<td> </td>
+<td>EUNATE (ERMITA)</td>
+<td>0,00</td>
+<td>PK 8,62 DE NA-601</td>
+<td>0,20</td>
+<td>ERMITA EUNATE</td>
+<td>0,20</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6064</td>
+<td>1</td>
+<td>OBANOS-PUENTE LA REINA</td>
+<td>0,00</td>
+<td>PK 9,45 DE NA-601</td>
+<td>2,38</td>
+<td>PK 16,13 DE NA-1110</td>
+<td>2,38</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6064</td>
+<td>2</td>
+<td>OBANOS-PUENTE LA REINA</td>
+<td>3,71</td>
+<td>PK 17,47 DE NA-1110</td>
+<td>4,91</td>
+<td>PK 17,94 DE NA-601</td>
+<td>1,20</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6071</td>
+<td> </td>
+<td>MURUARTE DE RETA (VIEJA)</td>
+<td>0,00</td>
+<td>PK 0,42 DE NA-6020</td>
+<td>0,39</td>
+<td>MURUARTE DE RETA</td>
+<td>0,39</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6072</td>
+<td> </td>
+<td>MURUARTE DE RETA (NUEVA)</td>
+<td>0,00</td>
+<td>PK 0,81 DE NA-6020</td>
+<td>0,60</td>
+<td>MURUARTE DE RETA</td>
+<td>0,60</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6073</td>
+<td> </td>
+<td>OLCOZ</td>
+<td>0,00</td>
+<td>PK 1,74 DE NA-6021</td>
+<td>0,99</td>
+<td>OLCOZ</td>
+<td>0,99</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6091</td>
+<td> </td>
+<td>VILLATUERTA</td>
+<td>0,00</td>
+<td>PK 33,25 DE NA-1110</td>
+<td>0,44</td>
+<td>VILLATUERTA</td>
+<td>0,44</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6095</td>
+<td> </td>
+<td>ESTELLA (POLIGONO INDUSTRIAL)</td>
+<td>0,00</td>
+<td>PK 33,88 DE NA-1110</td>
+<td>0,84</td>
+<td>PK 1,00 DE NA-132</td>
+<td>0,84</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6100</td>
+<td> </td>
+<td>CARRASCAL-MARCILLA (II)</td>
+<td>19,95</td>
+<td>PK 22,39 DE NA-132</td>
+<td>41,69</td>
+<td>PK 18,10 DE NA-115</td>
+<td>21,74</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6111</td>
+<td> </td>
+<td>LERIN (RAMAL III)</td>
+<td>0,00</td>
+<td>PK 21,29 DE NA-122</td>
+<td>0,66</td>
+<td>PK 46,87 DE NA-601</td>
+<td>0,66</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6112</td>
+<td> </td>
+<td>ABERIN</td>
+<td>0,00</td>
+<td>PK 5,41 DE NA-122</td>
+<td>0,39</td>
+<td>ABERIN</td>
+<td>0,39</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6113</td>
+<td> </td>
+<td>LERIN (RAMAL II)</td>
+<td>0,12</td>
+<td>PK 0,12 DE NA-6114</td>
+<td>0,47</td>
+<td>LERIN</td>
+<td>0,35</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6114</td>
+<td> </td>
+<td>LERIN (VARIANTE)</td>
+<td>0,00</td>
+<td>PK 45,73 DE NA-601</td>
+<td>1,26</td>
+<td>PK 22,42 DE NA-122</td>
+<td>1,26</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6115</td>
+<td> </td>
+<td>MUNIAIN-MORENTIN</td>
+<td>0,00</td>
+<td>PK 4,94 DE NA-122</td>
+<td>1,90</td>
+<td>PK 6,74 DE NA-122</td>
+<td>1,90</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6120</td>
+<td> </td>
+<td>LERIN-BERBINZANA</td>
+<td>0,00</td>
+<td>PK 39,74 DE NA-601</td>
+<td>9,41</td>
+<td>PK 22,19 DE NA-6100</td>
+<td>9,41</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6130</td>
+<td> </td>
+<td>LARRAGA-BERBINZANA</td>
+<td>0,00</td>
+<td>PK 32,06 DE NA-601</td>
+<td>4,57</td>
+<td>PK 7,07 DE NA-6120</td>
+<td>4,57</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6140</td>
+<td> </td>
+<td>TAFALLA-MIRANDA DE ARGA</td>
+<td>0,00</td>
+<td>PK 32,16 DE NA-132</td>
+<td>17,35</td>
+<td>PK 4,46 DE NA-6120</td>
+<td>17,35</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6210</td>
+<td> </td>
+<td>VERGALADA-FALCES-NA-115</td>
+<td>0,00</td>
+<td>PK 13,55 DE NA-115</td>
+<td>24,50</td>
+<td>PK 23,81 DE NA-122</td>
+<td>24,50</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6221</td>
+<td> </td>
+<td>LODOSA-SARTAGUDA</td>
+<td>0,00</td>
+<td>PK 66,90 DE NA-134</td>
+<td>5,31</td>
+<td>SARTAGUDA</td>
+<td>5,31</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6222</td>
+<td> </td>
+<td>ACCESO PUENTE DE SARTAGUDA</td>
+<td>0,00</td>
+<td>PK 4,36 DE NA-6221</td>
+<td>2,25</td>
+<td>PK 5,11 DE NA-123</td>
+<td>2,25</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6230</td>
+<td> </td>
+<td>VENTAS DE CARCAR-CARCAR</td>
+<td>0,00</td>
+<td>PK 31,57 DE NA-122</td>
+<td>2,36</td>
+<td>PK 58,05 DE NA-134</td>
+<td>2,36</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6231</td>
+<td> </td>
+<td>ACCESO CARCAR</td>
+<td>0,00</td>
+<td>PK 58,70 DE NA-134</td>
+<td>0,89</td>
+<td>CARCAR</td>
+<td>0,89</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6310</td>
+<td> </td>
+<td>TORRES DEL RIO-LAZAGURRIA-MENDAVIA</td>
+<td>0,00</td>
+<td>PK 62,66 DE NA-1110</td>
+<td>15,02</td>
+<td>MENDAVIA</td>
+<td>15,02</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6311</td>
+<td> </td>
+<td>LODOSA (ESTACION FFCC.)</td>
+<td>0,00</td>
+<td>PK 4,68 DE NA-123</td>
+<td>0,21</td>
+<td>ESTACION FFCC.</td>
+<td>0,21</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6320</td>
+<td> </td>
+<td>VIANA-RECAJO</td>
+<td>0,00</td>
+<td>PK 79,77 DE N-111</td>
+<td>5,17</td>
+<td>PK 92,09 DE NA-134</td>
+<td>5,17</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6330</td>
+<td> </td>
+<td>LAZAGURRIA-NA-112</td>
+<td>0,00</td>
+<td>PK 10,38 DE NA-6310</td>
+<td>1,36</td>
+<td>PK 9,03 DE NA-112</td>
+<td>1,36</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6335</td>
+<td> </td>
+<td>ACCESO A LOS ARCOS</td>
+<td>0,00</td>
+<td>PK 0,89 DE NA-112</td>
+<td>0,85</td>
+<td>PK 2,11 DE NA-8401</td>
+<td>0,85</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6340</td>
+<td> </td>
+<td>URBIOLA-ALLO</td>
+<td>0,00</td>
+<td>PK 48,77 DE NA-1110</td>
+<td>9,95</td>
+<td>ALLO</td>
+<td>9,95</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6341</td>
+<td> </td>
+<td>DICASTILLO (I)</td>
+<td>0,00</td>
+<td>PK 8,74 DE NA-122</td>
+<td>7,19</td>
+<td>PK 3,32 DE NA-6660</td>
+<td>7,19</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6342</td>
+<td> </td>
+<td>ARELLANO</td>
+<td>0,00</td>
+<td>PK 7,90 DE NA-122</td>
+<td>3,80</td>
+<td>ARELLANO</td>
+<td>3,80</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6343</td>
+<td> </td>
+<td>ARRONIZ-NA-129</td>
+<td>0,00</td>
+<td>PK 15,96 DE NA-7400</td>
+<td>11,53</td>
+<td>PK 22,76 DE NA-129</td>
+<td>11,53</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6344</td>
+<td> </td>
+<td>ACCESO A SESMA</td>
+<td>0,00</td>
+<td>PK 25,62 DE NA-129</td>
+<td>1,02</td>
+<td>PK 1,71 DE NA-8404</td>
+<td>1,02</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6346</td>
+<td> </td>
+<td>DICASTILLO (II)</td>
+<td>0,00</td>
+<td>PK 1,43 DE NA-6341</td>
+<td>0,81</td>
+<td>PK 1,65 DE NA-6342</td>
+<td>0,81</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6347</td>
+<td> </td>
+<td>DICASTILLO (III)</td>
+<td>0,00</td>
+<td>PK 0,68 DE NA-6346</td>
+<td>0,23</td>
+<td>PK 2,03 DE NA-6342</td>
+<td>0,23</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6361</td>
+<td> </td>
+<td>MENDAVIA-LA BARCA</td>
+<td>0,00</td>
+<td>PK 79,22 DE NA-134</td>
+<td>3,16</td>
+<td>RIO EBRO</td>
+<td>3,16</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6362</td>
+<td> </td>
+<td>EL BUSTO</td>
+<td>0,00</td>
+<td>PK 59,90 DE NA-1110</td>
+<td>1,21</td>
+<td>EL BUSTO</td>
+<td>1,21</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6400</td>
+<td> </td>
+<td>PUEYO</td>
+<td>0,00</td>
+<td>PK 29,14 DE N-121</td>
+<td>0,92</td>
+<td>PUEYO</td>
+<td>0,92</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6451</td>
+<td> </td>
+<td>GARINOAIN (ESTACION FFCC.)</td>
+<td>0,00</td>
+<td>PK 0,00 ESTACION FFCC.</td>
+<td>0,34</td>
+<td>PK 25,77 DE N-121</td>
+<td>0,34</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6510</td>
+<td> </td>
+<td>AZAGRA-LA BARCA</td>
+<td>0,00</td>
+<td>PK 44,47 DE NA-134</td>
+<td>1,30</td>
+<td>RIO EBRO</td>
+<td>1,30</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6531</td>
+<td> </td>
+<td>SAN ADRIAN-CALAHORRA</td>
+<td>0,00</td>
+<td>PK 49,74 DE NA-134</td>
+<td>1,51</td>
+<td>Lte. LA RIOJA</td>
+<td>1,51</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6540</td>
+<td> </td>
+<td>LODOSA-ALCANADRE</td>
+<td>0,00</td>
+<td>PK 0,51 DE NA-123</td>
+<td>3,36</td>
+<td>Lte. LA RIOJA</td>
+<td>3,36</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6620</td>
+<td> </td>
+<td>OLITE-NA-115</td>
+<td>0,00</td>
+<td>OLITE</td>
+<td>3,15</td>
+<td>PK 4,00 DE NA-115</td>
+<td>3,15</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6630</td>
+<td> </td>
+<td>PERALTA-FUNES-MARCILLA</td>
+<td>0,00</td>
+<td>PK 0,20 DE NA-8702</td>
+<td>8,45</td>
+<td>PK 8,25 DE NA-128</td>
+<td>8,45</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6631</td>
+<td> </td>
+<td>FUNES-NA-115</td>
+<td>0,00</td>
+<td>PK 2,84 DE NA-6630</td>
+<td>2,60</td>
+<td>PK 27,75 DE NA-115</td>
+<td>2,60</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6710</td>
+<td> </td>
+<td>MURCHANTE-VIA ROMANA</td>
+<td>0,00</td>
+<td>PK 3,98 DE NA-6840</td>
+<td>3,61</td>
+<td>PK 5,30 DE NA-6830</td>
+<td>3,61</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6711</td>
+<td> </td>
+<td>CASCANTE-MURCHANTE</td>
+<td>0,00</td>
+<td>PK 0,48 DE NA-6830</td>
+<td>3,70</td>
+<td>PK 4,09 DE NA-6840</td>
+<td>3,70</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6801</td>
+<td> </td>
+<td>CINTRUENIGO (POLIGONO INDUSTRIAL)</td>
+<td>0,00</td>
+<td>PK 92,00 DE N-113</td>
+<td>2,33</td>
+<td>PK 15,03 DE NA-160</td>
+<td>2,33</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6802</td>
+<td> </td>
+<td>ACCESO A CASTEJON</td>
+<td>0,00</td>
+<td>PK 78,71 DE N-113</td>
+<td>0,38</td>
+<td>CASTEJON</td>
+<td>0,38</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6810</td>
+<td> </td>
+<td>MONTES DEL CIERZO-CORELLA</td>
+<td>0,00</td>
+<td>PK 6,97 DE NA-160</td>
+<td>8,51</td>
+<td>PK 4,17 DE NA-6920</td>
+<td>8,51</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6820</td>
+<td> </td>
+<td>ALFARO-GRAVALOS</td>
+<td>16,58</td>
+<td>Lte. LA RIOJA</td>
+<td>19,14</td>
+<td>Lte. LA RIOJA</td>
+<td>2,56</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6830</td>
+<td> </td>
+<td>VIA ROMANA</td>
+<td>0,00</td>
+<td>PK 9,10 DE N-121C</td>
+<td>10,72</td>
+<td>PK 2,42 DE NA-6810</td>
+<td>10,72</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6840</td>
+<td> </td>
+<td>TUDELA-MURCHANTE</td>
+<td>0,00</td>
+<td>PK 1,58 DE NA-160</td>
+<td>5,38</td>
+<td>PK 6,13 DE N-121C</td>
+<td>5,38</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6891</td>
+<td> </td>
+<td>CORELLA A GRAVALOS</td>
+<td>0,00</td>
+<td>PK 4,33 DE NA-161</td>
+<td>3,86</td>
+<td>PK 1,10 DE NA-6820</td>
+<td>3,86</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6900</td>
+<td> </td>
+<td>CASCANTE-FITERO</td>
+<td>0,00</td>
+<td>PK 9,61 DE N-121C</td>
+<td>19,59</td>
+<td>PK 23,46 DE NA-160</td>
+<td>19,59</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6911</td>
+<td> </td>
+<td>CORELLA (ESTACION FFCC.)</td>
+<td>0,00</td>
+<td>PK 8,08 DE NA-6810</td>
+<td>0,39</td>
+<td>ESTACION FFCC.</td>
+<td>0,39</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6920</td>
+<td> </td>
+<td>ALFARO-CINTRUENIGO</td>
+<td>0,00</td>
+<td>Lte. LA RIOJA</td>
+<td>6,59</td>
+<td>PK 1,30 DE NA-8708</td>
+<td>6,59</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6941</td>
+<td> </td>
+<td>FITERO (BAÑOS NUEVOS-BAÑOS VIEJOS)</td>
+<td>0,00</td>
+<td>PK 27,29 DE NA-160</td>
+<td>0,45</td>
+<td>BAÑOS DE FITERO</td>
+<td>0,45</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>6991</td>
+<td> </td>
+<td>FITERO-VALVERDE</td>
+<td>0,11</td>
+<td>PK 19,45 DE NA-6900</td>
+<td>7,36</td>
+<td>Lte. LA RIOJA</td>
+<td>7,25</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7001</td>
+<td> </td>
+<td>IZA</td>
+<td>0,00</td>
+<td>PK 5,72 DE NA-7000</td>
+<td>2,30</td>
+<td>IZA</td>
+<td>2,30</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7002</td>
+<td> </td>
+<td>ARAZURI</td>
+<td>0,00</td>
+<td>PK 5,52 DE NA-7000</td>
+<td>0,46</td>
+<td>ARAZURI</td>
+<td>0,46</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7003</td>
+<td> </td>
+<td>LOZA</td>
+<td>0,00</td>
+<td>PK 7,11 DE N-240A</td>
+<td>2,03</td>
+<td>LOZA</td>
+<td>2,03</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7004</td>
+<td> </td>
+<td>IZCUE-ARTAZCOZ</td>
+<td>0,00</td>
+<td>PK 11,02 DE NA-7000</td>
+<td>1,65</td>
+<td>ARTAZCOZ</td>
+<td>1,65</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7005</td>
+<td> </td>
+<td>VILLANUEVA-PUENTE DE MUEZ</td>
+<td>0,00</td>
+<td>VILLANUEVA DE YERRI</td>
+<td>2,03</td>
+<td>PK 31,45 DE NA-7000</td>
+<td>2,03</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7006</td>
+<td> </td>
+<td>UGAR</td>
+<td>0,00</td>
+<td>PK 36,06 DE NA-7000</td>
+<td>1,06</td>
+<td>UGAR</td>
+<td>1,06</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7007</td>
+<td> </td>
+<td>ARIZALA</td>
+<td>0,00</td>
+<td>PK 8,66 DE NA-7320</td>
+<td>0,31</td>
+<td>PK 37,54 DE NA-7000</td>
+<td>0,31</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7008</td>
+<td> </td>
+<td>GROCIN-ZURUCUAIN</td>
+<td>0,00</td>
+<td>PK 32,23 DE NA-1110</td>
+<td>5,30</td>
+<td>PK 42,02 DE NA-7000</td>
+<td>5,30</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7010</td>
+<td> </td>
+<td>ASTRAIN-IRURTZUN</td>
+<td>0,00</td>
+<td>PK 4,57 DE NA-1110</td>
+<td>22,89</td>
+<td>PK 20,32 DE N-240A</td>
+<td>22,89</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7011</td>
+<td> </td>
+<td>ARIZ</td>
+<td>0,00</td>
+<td>PK 12,17 DE N-240A</td>
+<td>3,20</td>
+<td>ARIZ</td>
+<td>3,20</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7012</td>
+<td> </td>
+<td>OCHOVI</td>
+<td>0,00</td>
+<td>PK 13,93 DE N-240A</td>
+<td>1,43</td>
+<td>OCHOVI</td>
+<td>1,43</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7013</td>
+<td> </td>
+<td>ECAY</td>
+<td>0,00</td>
+<td>PK 3,46 DE NA-2410</td>
+<td>0,29</td>
+<td>ECAY</td>
+<td>0,29</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7014</td>
+<td> </td>
+<td>UNDIANO</td>
+<td>0,00</td>
+<td>PK 0,33 DE NA-7010</td>
+<td>2,22</td>
+<td>UNDIANO</td>
+<td>2,22</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7015</td>
+<td> </td>
+<td>ZIZUR MAYOR-BELASCOAIN</td>
+<td>0,00</td>
+<td>PK 5,47 DE A-12</td>
+<td>15,49</td>
+<td>PK 6,85 DE NA-7110</td>
+<td>15,49</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7016</td>
+<td> </td>
+<td>SAGÜES</td>
+<td>0,00</td>
+<td>PK 2,95 DE NA-7015</td>
+<td>0,93</td>
+<td>SAGÜES</td>
+<td>0,93</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7017</td>
+<td> </td>
+<td>ZABALZA</td>
+<td>0,00</td>
+<td>PK 10,50 DE NA-7015</td>
+<td>0,78</td>
+<td>ZABALZA</td>
+<td>0,78</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7018</td>
+<td> </td>
+<td>IZU</td>
+<td>0,00</td>
+<td>PK 11,11 DE NA-7010</td>
+<td>0,47</td>
+<td>IZU</td>
+<td>0,47</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7019</td>
+<td> </td>
+<td>ERROZ</td>
+<td>0,00</td>
+<td>PK 20,13 DE NA-7010</td>
+<td>0,18</td>
+<td>ERROZ</td>
+<td>0,18</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7020</td>
+<td> </td>
+<td>VALLE DE GOÑI</td>
+<td>8,10</td>
+<td>PK 29,08 DE NA-7000</td>
+<td>34,78</td>
+<td>PK 16,42 DE NA-7010</td>
+<td>26,68</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7021</td>
+<td> </td>
+<td>ARGUIÑANO</td>
+<td>0,00</td>
+<td>PK 9,65 DE NA-7020</td>
+<td>0,53</td>
+<td>ARGUIÑANO</td>
+<td>0,53</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7022</td>
+<td> </td>
+<td>SALDISE</td>
+<td>0,00</td>
+<td>PK 32,51 DE NA-7020</td>
+<td>1,12</td>
+<td>SALDISE</td>
+<td>1,12</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7023</td>
+<td> </td>
+<td>ILZARBE</td>
+<td>0,00</td>
+<td>PK 33,54 DE NA-7020</td>
+<td>1,41</td>
+<td>ILZARBE</td>
+<td>1,41</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7024</td>
+<td> </td>
+<td>AZANZA</td>
+<td>0,00</td>
+<td>PK 24,50 DE NA-7020</td>
+<td>0,21</td>
+<td>AZANZA</td>
+<td>0,21</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7027</td>
+<td> </td>
+<td>CARRETERA DE LA UNIVERSIDAD</td>
+<td>0,00</td>
+<td>Lte. PAMPLONA</td>
+<td>1,21</td>
+<td>PK 0,52 DE NA-6000</td>
+<td>1,21</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7030</td>
+<td> </td>
+<td>ARTETA-AIZPUN</td>
+<td>0,00</td>
+<td>PK 32,51 DE NA-7020</td>
+<td>15,62</td>
+<td>PK 23,26 DE NA-7020</td>
+<td>15,62</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7031</td>
+<td> </td>
+<td>ULZURRUN</td>
+<td>0,00</td>
+<td>PK 0,86 DE NA-7030</td>
+<td>0,96</td>
+<td>ULZURRUN</td>
+<td>0,96</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7032</td>
+<td> </td>
+<td>OLLO</td>
+<td>0,00</td>
+<td>PK 1,53 DE NA-7030</td>
+<td>0,46</td>
+<td>OLLO</td>
+<td>0,46</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7033</td>
+<td> </td>
+<td>SENOSIAIN</td>
+<td>0,00</td>
+<td>PK 0,14 DE NA-7032</td>
+<td>0,39</td>
+<td>SENOSIAIN</td>
+<td>0,39</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7040</td>
+<td> </td>
+<td>PUENTE LA REINA-NA-7000</td>
+<td>0,00</td>
+<td>PK 17,79 DE NA-1110</td>
+<td>19,90</td>
+<td>PK 28,71 DE NA-7000</td>
+<td>19,90</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7041</td>
+<td> </td>
+<td>ECHARREN DE GUIRGUILLANO</td>
+<td>0,00</td>
+<td>PK 9,08 DE NA-7040</td>
+<td>1,58</td>
+<td>ECHARREN GUIRGUILLANO</td>
+<td>1,58</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7042</td>
+<td> </td>
+<td>ARZOZ</td>
+<td>0,00</td>
+<td>PK 16,57 DE NA-7040</td>
+<td>2,09</td>
+<td>ARZOZ</td>
+<td>2,09</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7059</td>
+<td> </td>
+<td>MUNIAIN DE GÜESALAZ</td>
+<td>0,00</td>
+<td>PK 21,09 DE NA-7000</td>
+<td>1,60</td>
+<td>MUNIAIN DE GÜESALAZ</td>
+<td>1,60</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7061</td>
+<td> </td>
+<td>LIZASOAIN-OLZA</td>
+<td>0,00</td>
+<td>PK 9,86 DE NA-7010</td>
+<td>2,67</td>
+<td>OLZA</td>
+<td>2,67</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7062</td>
+<td> </td>
+<td>BEASOAIN</td>
+<td>0,00</td>
+<td>PK 0,67 DE NA-7063</td>
+<td>0,23</td>
+<td>BEASOAIN</td>
+<td>0,23</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7063</td>
+<td> </td>
+<td>EGUILLOR</td>
+<td>0,00</td>
+<td>PK 13,81 DE NA-7010</td>
+<td>1,00</td>
+<td>EGUILLOR</td>
+<td>1,00</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7064</td>
+<td> </td>
+<td>LETE</td>
+<td>0,00</td>
+<td>PK 15,26 DE NA-7010</td>
+<td>0,97</td>
+<td>LETE</td>
+<td>0,97</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7065</td>
+<td> </td>
+<td>URRIZOLA</td>
+<td>0,00</td>
+<td>PK 20,07 DE NA-7010</td>
+<td>1,49</td>
+<td>URRIZOLA</td>
+<td>1,49</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7066</td>
+<td> </td>
+<td>LARRAGUETA</td>
+<td>0,00</td>
+<td>PK 9,33 DE N-240A</td>
+<td>1,29</td>
+<td>LARRAGUETA</td>
+<td>1,29</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7067</td>
+<td> </td>
+<td>ALDABA</td>
+<td>0,00</td>
+<td>PK 1,43 DE NA-7011</td>
+<td>1,58</td>
+<td>ALDABA</td>
+<td>1,58</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7068</td>
+<td> </td>
+<td>ZUHATZU (ARAKIL)</td>
+<td>0,00</td>
+<td>PK 4,50 DE NA-2410</td>
+<td>0,11</td>
+<td>ZUHATZU</td>
+<td>0,11</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7069</td>
+<td> </td>
+<td>SATRUSTEGUI</td>
+<td>0,00</td>
+<td>PK 5,12 DE NA-2410</td>
+<td>0,17</td>
+<td>SATRUSTEGUI</td>
+<td>0,17</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7071</td>
+<td> </td>
+<td>ATONDO</td>
+<td>0,00</td>
+<td>PK 17,60 DE NA-7010</td>
+<td>0,58</td>
+<td>ATONDO</td>
+<td>0,58</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7091</td>
+<td> </td>
+<td>VIGURIA</td>
+<td>0,00</td>
+<td>PK 18,59 DE NA-7040</td>
+<td>1,10</td>
+<td>VIGURIA</td>
+<td>1,10</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7100</td>
+<td> </td>
+<td>PUERTO DE LIZARRAGA-ARBIZU</td>
+<td>0,00</td>
+<td>PK 31,64 DE NA-120</td>
+<td>7,11</td>
+<td>PK 19,33 DE NA-2410</td>
+<td>7,11</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7101</td>
+<td> </td>
+<td>DORRAO</td>
+<td>0,00</td>
+<td>PK 2,10 DE NA-7100</td>
+<td>0,78</td>
+<td>DORRAO</td>
+<td>0,78</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7102</td>
+<td> </td>
+<td>UNANU</td>
+<td>0,00</td>
+<td>PK 4,63 DE NA-7100</td>
+<td>1,45</td>
+<td>UNANU</td>
+<td>1,45</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7103</td>
+<td> </td>
+<td>ACCESO A ARRUAZU</td>
+<td>0,00</td>
+<td>PK 15,83 DE NA-2410</td>
+<td>0,24</td>
+<td>PK 35,20 DE NA-8502</td>
+<td>0,24</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7110</td>
+<td> </td>
+<td>ETXAURI-ORENDAIN</td>
+<td>0,00</td>
+<td>PK 13,25 DE NA-7000</td>
+<td>15,36</td>
+<td>PK 6,36 DE NA-7040</td>
+<td>15,36</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7111</td>
+<td> </td>
+<td>ARGUINARIZ</td>
+<td>0,00</td>
+<td>PK 7,21 DE NA-7110</td>
+<td>4,59</td>
+<td>ARGUIÑARIZ</td>
+<td>4,59</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7112</td>
+<td> </td>
+<td>BIDAURRETA</td>
+<td>0,00</td>
+<td>PK 4,17 DE NA-7110</td>
+<td>0,49</td>
+<td>BIDAURRETA</td>
+<td>0,49</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7120</td>
+<td> </td>
+<td>LERATE</td>
+<td>11,87</td>
+<td>PK 11,86 DE NA-7040</td>
+<td>16,42</td>
+<td>LERATE</td>
+<td>4,55</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7122</td>
+<td> </td>
+<td>IRURRE</td>
+<td>0,00</td>
+<td>PK 15,75 DE NA-7120</td>
+<td>1,59</td>
+<td>IRURRE</td>
+<td>1,59</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7123</td>
+<td> </td>
+<td>GARISOAIN-ALLOZ</td>
+<td>0,00</td>
+<td>PK 14,62 DE NA-7120</td>
+<td>5,45</td>
+<td>PK 5,45 DE NA-7171</td>
+<td>5,45</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7124</td>
+<td> </td>
+<td>IRURRE-NA-7123</td>
+<td>0,00</td>
+<td>PK 1,63 DE NA-7123</td>
+<td>0,84</td>
+<td>IRURRE</td>
+<td>0,84</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7130</td>
+<td> </td>
+<td>AMESCOA ALTA</td>
+<td>0,00</td>
+<td>PK 16,65 DE NA-718</td>
+<td>12,74</td>
+<td>Lte. ALAVA</td>
+<td>12,74</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7131</td>
+<td> </td>
+<td>BARINDANO</td>
+<td>0,00</td>
+<td>PK 13,90 DE NA-718</td>
+<td>0,37</td>
+<td>BARINDANO</td>
+<td>0,37</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7133</td>
+<td> </td>
+<td>IBIRICU (YERRI)</td>
+<td>0,00</td>
+<td>PK 10,05 DE NA-120</td>
+<td>0,28</td>
+<td>IBIRICU</td>
+<td>0,28</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7134</td>
+<td> </td>
+<td>ECHAVARRI</td>
+<td>0,00</td>
+<td>PK 4,97 DE NA-718</td>
+<td>1,60</td>
+<td>ECHAVARRI</td>
+<td>1,60</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7135</td>
+<td> </td>
+<td>IRANZU (MONASTERIO)</td>
+<td>0,00</td>
+<td>PK 7,46 DE NA-120</td>
+<td>3,39</td>
+<td>MONASTERIO IRANZU</td>
+<td>3,39</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7136</td>
+<td> </td>
+<td>ARTAVIA</td>
+<td>0,00</td>
+<td>PK 5,67 DE NA-718</td>
+<td>1,19</td>
+<td>ARTAVIA</td>
+<td>1,19</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7137</td>
+<td> </td>
+<td>GALDEANO</td>
+<td>0,00</td>
+<td>PK 4,80 DE NA-718</td>
+<td>2,24</td>
+<td>GALDEANO</td>
+<td>2,24</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7138</td>
+<td> </td>
+<td>LARRION-MUNETA</td>
+<td>0,00</td>
+<td>PK 4,15 DE NA-718</td>
+<td>3,26</td>
+<td>ARAMENDIA</td>
+<td>3,26</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7139</td>
+<td> </td>
+<td>EULZ</td>
+<td>0,00</td>
+<td>PK 3,25 DE NA-718</td>
+<td>1,48</td>
+<td>EULZ</td>
+<td>1,48</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7140</td>
+<td> </td>
+<td>RIEZU-ITURGOYEN</td>
+<td>0,00</td>
+<td>PK 32,64 DE NA-7000</td>
+<td>4,10</td>
+<td>ITURGOYEN</td>
+<td>4,10</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7171</td>
+<td> </td>
+<td>LERATE-LORCA</td>
+<td>0,00</td>
+<td>PK 16,35 DE NA-7120</td>
+<td>7,19</td>
+<td>PK 33,30 DE NA-1110</td>
+<td>7,19</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7174</td>
+<td> </td>
+<td>LORCA-EL MOLINO</td>
+<td>0,00</td>
+<td>LORCA</td>
+<td>0,54</td>
+<td>PASO SUBTERRANEO</td>
+<td>0,54</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7175</td>
+<td> </td>
+<td>ALLOZ</td>
+<td>0,00</td>
+<td>PK 1,93 DE NA-7171</td>
+<td>1,35</td>
+<td>PK 2,82 DE NA-7320</td>
+<td>1,35</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7179</td>
+<td> </td>
+<td>ZUDAIRE (COLONIA ESCOLAR)</td>
+<td>0,00</td>
+<td>PK 16,03 DE NA-718</td>
+<td>0,38</td>
+<td>COLONIA ESCOLAR</td>
+<td>0,38</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7181</td>
+<td> </td>
+<td>ECALA</td>
+<td>0,00</td>
+<td>PK 3,38 DE NA-7130</td>
+<td>0,81</td>
+<td>ECALA</td>
+<td>0,81</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7183</td>
+<td> </td>
+<td>ALTSASU/ALSASUA-URBASA</td>
+<td>0,00</td>
+<td>PK 31,80 DE NA-2410</td>
+<td>2,34</td>
+<td>PK 36,40 DE NA-718</td>
+<td>2,34</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7184</td>
+<td> </td>
+<td>ALTSASU/ALSASUA (ESTACION FFCC.)</td>
+<td>0,00</td>
+<td>PK 0.56 DE NA-8505</td>
+<td>1,14</td>
+<td>ESTACION FFCC.</td>
+<td>1,14</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7186</td>
+<td> </td>
+<td>ARTAZA-URRA</td>
+<td>0,00</td>
+<td>PK 0,44 DE NA-7187</td>
+<td>3,10</td>
+<td>URRA</td>
+<td>3,10</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7187</td>
+<td> </td>
+<td>BAQUEDANO</td>
+<td>0,00</td>
+<td>PK 13,83 DE NA-718</td>
+<td>2,21</td>
+<td>BAQUEDANO</td>
+<td>2,21</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7188</td>
+<td> </td>
+<td>GOLLANO</td>
+<td>0,00</td>
+<td>PK 0,71 DE NA-7187</td>
+<td>1,37</td>
+<td>GOLLANO</td>
+<td>1,37</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7189</td>
+<td> </td>
+<td>ERAUL</td>
+<td>0,00</td>
+<td>PK 1,36 DE NA-718</td>
+<td>3,45</td>
+<td>ERAUL</td>
+<td>3,45</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7191</td>
+<td> </td>
+<td>ZUÑIGA</td>
+<td>0,00</td>
+<td>PK 25,73 DE NA-132A</td>
+<td>0,57</td>
+<td>ZUÑIGA</td>
+<td>0,57</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7200</td>
+<td> </td>
+<td>SANSOL-CABREDO</td>
+<td>0,00</td>
+<td>PK 62,72 DE NA-1110</td>
+<td>19,23</td>
+<td>PK 3,14 DE NA-7430</td>
+<td>19,23</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7201</td>
+<td> </td>
+<td>AZUELO</td>
+<td>0,00</td>
+<td>PK 10,00 DE NA-7200</td>
+<td>0,35</td>
+<td>AZUELO</td>
+<td>0,35</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7202</td>
+<td> </td>
+<td>CODES (SANTUARIO)</td>
+<td>0,00</td>
+<td>PK 8,63 DE NA-7200</td>
+<td>3,31</td>
+<td>SANTUARIO CODES</td>
+<td>3,31</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7203</td>
+<td> </td>
+<td>NAZAR</td>
+<td>0,00</td>
+<td>PK 2,52 DE NA-129</td>
+<td>3,45</td>
+<td>NAZAR (CEMENTERIO)</td>
+<td>3,45</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7205</td>
+<td> </td>
+<td>SANSOL-DESOJO-ESPRONCEDA</td>
+<td>0,00</td>
+<td>PK 62,26 DE NA-1110</td>
+<td>8,31</td>
+<td>PK 5,99 DE NA-7200</td>
+<td>8,31</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7206</td>
+<td> </td>
+<td>BARGOTA SUR</td>
+<td>0,00</td>
+<td>PK 67,84 DE NA-1110</td>
+<td>2,73</td>
+<td>BARGOTA</td>
+<td>2,73</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7210</td>
+<td> </td>
+<td>MEANO-ALAVA (I)</td>
+<td>0,00</td>
+<td>Lte. ALAVA</td>
+<td>6,29</td>
+<td>Lte. ALAVA</td>
+<td>6,29</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7211</td>
+<td> </td>
+<td>LA POBLACION-AGUILAR DE CODES</td>
+<td>0,00</td>
+<td>PK 4,04 DE NA-7210</td>
+<td>5,26</td>
+<td>PK 17,17 DE NA-7200</td>
+<td>5,26</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7220</td>
+<td> </td>
+<td>VIANA-MOREDA</td>
+<td>0,00</td>
+<td>PK 80,63 DE N-111</td>
+<td>1,78</td>
+<td>Lte. ALAVA</td>
+<td>1,78</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7230</td>
+<td> </td>
+<td>VIANA-AGUILAR DE CODES</td>
+<td>0,00</td>
+<td>PK 80,20 DE N-111</td>
+<td>16,99</td>
+<td>PK 14,64 DE NA-7200</td>
+<td>16,99</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7240</td>
+<td> </td>
+<td>VALLE DE LANA</td>
+<td>0,00</td>
+<td>PK 19,39 DE NA-132A</td>
+<td>9,17</td>
+<td>GASTIAIN</td>
+<td>9,17</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7242</td>
+<td> </td>
+<td>MEANO-ALAVA (III)</td>
+<td>0,00</td>
+<td>PK 1,94 DE NA-7210</td>
+<td>4,21</td>
+<td>Lte. ALAVA</td>
+<td>4,21</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7244</td>
+<td> </td>
+<td>MENDILIBARRI</td>
+<td>0,00</td>
+<td>PK 12,83 DE NA-132A</td>
+<td>0,25</td>
+<td>MENDILABARRI</td>
+<td>0,25</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7251</td>
+<td> </td>
+<td>ARMAÑANZAS</td>
+<td>0,00</td>
+<td>PK 62,94 DE NA-1110</td>
+<td>1,70</td>
+<td>PK 1,67 DE NA-7200</td>
+<td>1,70</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7252</td>
+<td> </td>
+<td>ASARTA</td>
+<td>0,00</td>
+<td>PK 1,05 DE NA-7203</td>
+<td>0,68</td>
+<td>ASARTA</td>
+<td>0,68</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7253</td>
+<td> </td>
+<td>BARGOTA NORTE</td>
+<td>0,00</td>
+<td>PK 64,01 DE NA-1110</td>
+<td>2,44</td>
+<td>BARGOTA</td>
+<td>2,44</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7291</td>
+<td> </td>
+<td>NARCUE</td>
+<td>0,00</td>
+<td>PK 7,37 DE NA-7240</td>
+<td>1,60</td>
+<td>NARCUE</td>
+<td>1,60</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7292</td>
+<td> </td>
+<td>ULIBARRI</td>
+<td>0,00</td>
+<td>PK 6,00 DE NA-7240</td>
+<td>2,45</td>
+<td>ULIBARRI</td>
+<td>2,45</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7293</td>
+<td> </td>
+<td>VILORIA</td>
+<td>0,00</td>
+<td>PK 5,63 DE NA-7240</td>
+<td>1,33</td>
+<td>VILORIA</td>
+<td>1,33</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7300</td>
+<td> </td>
+<td>MEANO-ALAVA (II)</td>
+<td>0,00</td>
+<td>PK 2,82 DE NA-7210</td>
+<td>2,40</td>
+<td>Lte. ALAVA</td>
+<td>2,40</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7310</td>
+<td> </td>
+<td>GANUZA</td>
+<td>0,00</td>
+<td>PK 7,13 DE NA-132A</td>
+<td>5,60</td>
+<td>GANUZA</td>
+<td>5,60</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7311</td>
+<td> </td>
+<td>OLLOGOYEN</td>
+<td>0,00</td>
+<td>PK 3,72 DE NA-7310</td>
+<td>1,41</td>
+<td>OLLOGOYEN</td>
+<td>1,41</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7317</td>
+<td> </td>
+<td>METAUTEN</td>
+<td>0,00</td>
+<td>PK 2,98 DE NA-7310</td>
+<td>0,20</td>
+<td>METAUTEN</td>
+<td>0,20</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7320</td>
+<td> </td>
+<td>LORCA-ABARZUZA</td>
+<td>0,00</td>
+<td>PK 29,25 DE NA-1110</td>
+<td>10,38</td>
+<td>PK 7,44 DE NA-120</td>
+<td>10,38</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7321</td>
+<td> </td>
+<td>MURILLO DE YERRI</td>
+<td>0,00</td>
+<td>PK 32,16 DE NA-1110</td>
+<td>2,19</td>
+<td>MURILLO DE YERRI</td>
+<td>2,19</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7322</td>
+<td> </td>
+<td>AZCONA</td>
+<td>0,00</td>
+<td>PK 22,71 DE NA-7330</td>
+<td>1,34</td>
+<td>AZCONA</td>
+<td>1,34</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7323</td>
+<td> </td>
+<td>IRUÑELA</td>
+<td>0,00</td>
+<td>PK 8,91 DE NA-120</td>
+<td>1,18</td>
+<td>IRUÑELA</td>
+<td>1,18</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7324</td>
+<td> </td>
+<td>ESTELLA (CAMINEROS)</td>
+<td>0,00</td>
+<td>PK 37,02 DE NA-1110</td>
+<td>0,34</td>
+<td>CAMINEROS</td>
+<td>0,34</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7326</td>
+<td> </td>
+<td>ANDERAZ (COLEGIO)</td>
+<td>0,00</td>
+<td>PK 9,64 DE NA-7320</td>
+<td>0,45</td>
+<td>COLEGIO ANDERAZ</td>
+<td>0,45</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7327</td>
+<td> </td>
+<td>ARANDIGOYEN</td>
+<td>0,00</td>
+<td>PK 32,20 DE NA-1110</td>
+<td>0,33</td>
+<td>ARANDIGOYEN</td>
+<td>0,33</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7330</td>
+<td> </td>
+<td>VILLANUEVA DE YERRI-LEZAUN</td>
+<td>19,30</td>
+<td>VILLANUEVA DE YERRI</td>
+<td>29,36</td>
+<td>PK 15,06 DE NA-120</td>
+<td>10,06</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7331</td>
+<td> </td>
+<td>ARIZALETA</td>
+<td>0,00</td>
+<td>PK 24,00 DE NA-7330</td>
+<td>0,26</td>
+<td>ARIZALETA</td>
+<td>0,26</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7361</td>
+<td> </td>
+<td>ARTEAGA</td>
+<td>0,00</td>
+<td>PK 0,86 DE NA-7310</td>
+<td>2,89</td>
+<td>ARTEAGA</td>
+<td>2,89</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7371</td>
+<td> </td>
+<td>ZUFIA</td>
+<td>0,00</td>
+<td>PK 0,23 DE NA-7361</td>
+<td>0,26</td>
+<td>ZUFIA</td>
+<td>0,26</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7400</td>
+<td> </td>
+<td>ANCIN-URBIOLA</td>
+<td>0,00</td>
+<td>PK 14,42 DE NA-132A</td>
+<td>16,65</td>
+<td>PK 3,60 DE NA-6340</td>
+<td>16,65</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7401</td>
+<td> </td>
+<td>ETAYO</td>
+<td>0,00</td>
+<td>PK 5,71 DE NA-7400</td>
+<td>1,19</td>
+<td>ETAYO</td>
+<td>1,19</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7402</td>
+<td> </td>
+<td>VILLAMAYOR</td>
+<td>0,00</td>
+<td>PK 44,43 DE NA-1110</td>
+<td>0,94</td>
+<td>VILLAMAYOR</td>
+<td>0,94</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7410</td>
+<td> </td>
+<td>OCO-OTIÑANO</td>
+<td>0,00</td>
+<td>PK 3,50 DE NA-7400</td>
+<td>12,66</td>
+<td>OTIÑANO</td>
+<td>12,66</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7411</td>
+<td> </td>
+<td>MENDAZA</td>
+<td>0,00</td>
+<td>PK 3,64 DE NA-129</td>
+<td>0,69</td>
+<td>MENDAZA</td>
+<td>0,69</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7412</td>
+<td> </td>
+<td>SORLADA</td>
+<td>0,00</td>
+<td>PK 5,56 DE NA-7410</td>
+<td>0,31</td>
+<td>SORLADA</td>
+<td>0,31</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7413</td>
+<td> </td>
+<td>LEARZA</td>
+<td>0,00</td>
+<td>PK 1,31 DE NA-7410</td>
+<td>2,01</td>
+<td>LEARZA</td>
+<td>2,01</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7414</td>
+<td> </td>
+<td>PIEDRAMILLERA</td>
+<td>0,00</td>
+<td>PK 3,22 DE NA-7410</td>
+<td>0,27</td>
+<td>PIEDRAMILLERA</td>
+<td>0,27</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7451</td>
+<td> </td>
+<td>MURIETA-OCO</td>
+<td>0,00</td>
+<td>PK 0,16 DE NA-7455</td>
+<td>2,13</td>
+<td>PK 3,50 DE NA-7400</td>
+<td>2,13</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7452</td>
+<td> </td>
+<td>LABEAGA</td>
+<td>0,00</td>
+<td>PK 6,98 DE NA-132A</td>
+<td>1,07</td>
+<td>LABEAGA</td>
+<td>1,07</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7453</td>
+<td> </td>
+<td>IGUZQUIZA</td>
+<td>0,00</td>
+<td>PK 41,46 DE NA-1110</td>
+<td>2,50</td>
+<td>PK 2,56 DE NA-132B</td>
+<td>2,50</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7454</td>
+<td> </td>
+<td>ARBEIZA</td>
+<td>0,00</td>
+<td>PK 2,90 DE NA-132A</td>
+<td>0,65</td>
+<td>ARBEIZA</td>
+<td>0,65</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7455</td>
+<td> </td>
+<td>ABAIGAR</td>
+<td>0,00</td>
+<td>PK 11,42 DE NA-132A</td>
+<td>1,33</td>
+<td>ABAIGAR</td>
+<td>1,33</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7500</td>
+<td> </td>
+<td>IRURTZUN-MADOTZ-LEKUNBERRI</td>
+<td>0,00</td>
+<td>PK 1,08 DE NA-2410</td>
+<td>14,49</td>
+<td>PK 0,66 DE NA-7510</td>
+<td>14,49</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7501</td>
+<td> </td>
+<td>EGIARRETA</td>
+<td>0,00</td>
+<td>PK 0,62 DE NA-7500</td>
+<td>1,55</td>
+<td>EGIARRETA</td>
+<td>1,55</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7502</td>
+<td> </td>
+<td>ETXEBERRI</td>
+<td>0,00</td>
+<td>PK 1,10 DE NA-2410</td>
+<td>0,60</td>
+<td>ETXEBERRI</td>
+<td>0,60</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7503</td>
+<td> </td>
+<td>GOLDARATZ</td>
+<td>0,00</td>
+<td>PK 4,07 DE NA-1300</td>
+<td>2,48</td>
+<td>GOLDARATZ</td>
+<td>2,48</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7504</td>
+<td> </td>
+<td>IRIBAS</td>
+<td>0,00</td>
+<td>PK 14,31 DE NA-7500</td>
+<td>1,21</td>
+<td>IRIBAS</td>
+<td>1,21</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7505</td>
+<td> </td>
+<td>MUGUIRO</td>
+<td>0,00</td>
+<td>PK 11,79 DE NA-1300</td>
+<td>0,93</td>
+<td>MUGIRO</td>
+<td>0,93</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7510</td>
+<td> </td>
+<td>SAN MIGEL DE ARALAR</td>
+<td>0,00</td>
+<td>PK 13,30 DE NA-1300</td>
+<td>16,72</td>
+<td>SANTUARIO SAN MIGEL</td>
+<td>16,72</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7511</td>
+<td> </td>
+<td>AZKARATE</td>
+<td>0,00</td>
+<td>PK 26,07 DE NA-1300</td>
+<td>2,73</td>
+<td>AZKARATE</td>
+<td>2,73</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7512</td>
+<td> </td>
+<td>UZTEGI-GAINTZA</td>
+<td>0,00</td>
+<td>PK 24,87 DE NA-1300</td>
+<td>3,24</td>
+<td>GAINTZA</td>
+<td>3,24</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7513</td>
+<td> </td>
+<td>INTZA</td>
+<td>0,00</td>
+<td>PK 24,22 DE NA-1300</td>
+<td>2,47</td>
+<td>INTZA</td>
+<td>2,47</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7514</td>
+<td> </td>
+<td>ERRAZKIN</td>
+<td>0,00</td>
+<td>PK 22,66 DE NA-1300</td>
+<td>2,63</td>
+<td>ERRAZKIN</td>
+<td>2,63</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7515</td>
+<td> </td>
+<td>HATXUETA</td>
+<td>0,00</td>
+<td>PK 16,37 DE NA-7510</td>
+<td>1,38</td>
+<td>POSTE TV</td>
+<td>1,38</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7517</td>
+<td> </td>
+<td>ACCESO A UHARTE-ARAKIL</td>
+<td>0,00</td>
+<td>PK 14,02 DE NA-2410</td>
+<td>1,11</td>
+<td>PK 11,48 DE A-10</td>
+<td>1,11</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7519</td>
+<td> </td>
+<td>HIRIBERRI/VILLANUEVA</td>
+<td>0,00</td>
+<td>PK 6,45 DE NA-2410</td>
+<td>0,22</td>
+<td>HIRIBERRI/VILLANUEVA</td>
+<td>0,22</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7520</td>
+<td> </td>
+<td>ARBIZU-LIZARRAGABENGOA</td>
+<td>7,11</td>
+<td>PK 19,32 DE NA-2410</td>
+<td>9,03</td>
+<td>PK 41,77 DE NA-120</td>
+<td>1,92</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7521</td>
+<td> </td>
+<td>ZIORDIA</td>
+<td>0,00</td>
+<td>PK 37,37 DE NA-2410</td>
+<td>0,76</td>
+<td>ZIORDIA</td>
+<td>0,76</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7561</td>
+<td> </td>
+<td>ALBIASU</td>
+<td>0,00</td>
+<td>PK 14,27 DE NA-1300</td>
+<td>3,28</td>
+<td>ALBIASU</td>
+<td>3,28</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>7563</td>
+<td> </td>
+<td>IRAÑETA</td>
+<td>0,00</td>
+<td>PK 10,46 DE N-2410</td>
+<td>0,33</td>
+<td>IRAÑETA</td>
+<td>0,33</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8100</td>
+<td> </td>
+<td>TRAVESIA DE GAZOLAZ</td>
+<td>0,00</td>
+<td>PK 2,27 DE NA-7015</td>
+<td>0,85</td>
+<td>PK 3,06 DE NA-7015</td>
+<td>0,85</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8101</td>
+<td> </td>
+<td>TRAVESIA DE SORAUREN</td>
+<td>0,00</td>
+<td>PK 7,99 DE N-121A</td>
+<td>1,01</td>
+<td>PK 8,91 DE N-121A</td>
+<td>1,01</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8102</td>
+<td> </td>
+<td>TRAVESIA DE NOAIN</td>
+<td>0,00</td>
+<td>Rtda. NOAIN PA-31</td>
+<td>2,12</td>
+<td>PK 8,33 DE N-121</td>
+<td>2,12</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8103</td>
+<td> </td>
+<td>TRAVESIA DE URROZ</td>
+<td>0,00</td>
+<td>PK 12,44 DE NA-150</td>
+<td>2,37</td>
+<td>PK 14,74 DE NA-150</td>
+<td>2,37</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8104</td>
+<td> </td>
+<td>TRAVESIA DE OLAGÜE</td>
+<td>0,00</td>
+<td>PK 19,54 DE N-121A</td>
+<td>1,84</td>
+<td>PK 21,29 DE N-121A</td>
+<td>1,84</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8105</td>
+<td> </td>
+<td>TRAVESIA DE ENERIZ</td>
+<td>0,00</td>
+<td>PK 5,02 DE NA-601</td>
+<td>1,46</td>
+<td>PK 6,48 DE NA-601</td>
+<td>1,46</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8106</td>
+<td> </td>
+<td>ACCESO DE NOAIN-A-21</td>
+<td>0,00</td>
+<td>Rtda. NOAIN PA-31</td>
+<td>0,23</td>
+<td>ENLACE CON A-21</td>
+<td>0,23</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8107</td>
+<td> </td>
+<td>TRAVESIA DE OLAZ (EGÜES)</td>
+<td>0,00</td>
+<td>PK 6,81 DE PA-30</td>
+<td>1,05</td>
+<td>PK 7,27 DE PA-30</td>
+<td>1,05</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8108</td>
+<td> </td>
+<td>TRAVESIA DE ZIZUR MAYOR</td>
+<td>0,00</td>
+<td>PK 0,00 DE NA-6053</td>
+<td>0,98</td>
+<td>PK 1,00 DE NA-7015</td>
+<td>0,98</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8202</td>
+<td> </td>
+<td>TRAVESIA DE URDAITZ</td>
+<td>0,00</td>
+<td>PK 17,42 DE N-135</td>
+<td>0,56</td>
+<td>PK 18,00 DE N-135</td>
+<td>0,56</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8203</td>
+<td> </td>
+<td>TRAVESIA DE BIZKARRETA/GERENDIAIN</td>
+<td>0,00</td>
+<td>PK 34,24 DE N-135</td>
+<td>0,52</td>
+<td>PK 34,43 DE N-135</td>
+<td>0,52</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8204</td>
+<td> </td>
+<td>TRAVESIA DE LARRASOAÑA</td>
+<td>0,00</td>
+<td>PK 15,49 DE N-135</td>
+<td>0,60</td>
+<td>PK 16,05 DE N-135</td>
+<td>0,60</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8205</td>
+<td> </td>
+<td>TRAVESIA DE LUMBIER</td>
+<td>0,00</td>
+<td>PK 36,91 DE NA-150</td>
+<td>1,06</td>
+<td>PK 37,84 DE NA-150</td>
+<td>1,06</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8301</td>
+<td> </td>
+<td>TRAVESIA DE ALMANDOZ</td>
+<td>0,00</td>
+<td>PK 12,88 DE NA-1210</td>
+<td>0,57</td>
+<td>PK 13,20 DE NA-1210</td>
+<td>0,57</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8302</td>
+<td> </td>
+<td>TRAVESIA DE ARRAIOZ</td>
+<td>0,00</td>
+<td>PK 44,90 DE NA-121B</td>
+<td>0,95</td>
+<td>PK 45,86 DE N-121B</td>
+<td>0,95</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8303</td>
+<td> </td>
+<td>TRAVESIA DE MUGAIRI</td>
+<td>0,00</td>
+<td>PK 18,97 DE NA-1210</td>
+<td>1,92</td>
+<td>PK 43,08 DE N-121B</td>
+<td>1,92</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8304</td>
+<td> </td>
+<td>TRAVESIA DE BERA/VERA DE BIDASOA</td>
+<td>0,00</td>
+<td>PK 65,14 DE N-121A</td>
+<td>1,84</td>
+<td>PK 66,96 DE N-121A</td>
+<td>1,84</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8305</td>
+<td> </td>
+<td>TRAVESIA DE EUGI</td>
+<td>0,00</td>
+<td>PK 27,51 DE NA-138</td>
+<td>0,80</td>
+<td>PK 28,10 DE NA-138</td>
+<td>0,80</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8306</td>
+<td> </td>
+<td>TRAVESIA DE ERRATZU</td>
+<td>0,00</td>
+<td>PK 3,10 DE NA-2600</td>
+<td>0,09</td>
+<td>PK 3,28 DE NA-2600</td>
+<td>0,09</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8401</td>
+<td> </td>
+<td>TRAVESIA DE LOS ARCOS</td>
+<td>0,00</td>
+<td>PK 54,18 DE NA-1110</td>
+<td>2,84</td>
+<td>PK 57,14 DE NA-1110</td>
+<td>2,84</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8403</td>
+<td> </td>
+<td>TRAVESIA DE OTEIZA</td>
+<td>0,00</td>
+<td>PK 5,64 DE NA-132</td>
+<td>1,84</td>
+<td>PK 7,23 DE NA-132</td>
+<td>1,84</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8404</td>
+<td> </td>
+<td>TRAVESIA DE SESMA</td>
+<td>0,00</td>
+<td>PK 27,72 DE NA-129</td>
+<td>2,45</td>
+<td>PK 11,10 DE NA-666</td>
+<td>2,45</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8405</td>
+<td> </td>
+<td>TRAVESIA DE AZQUETA</td>
+<td>0,00</td>
+<td>PK 42,43 DE NA-1110</td>
+<td>0,34</td>
+<td>PK 43,03 DE NA-1110</td>
+<td>0,34</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8406</td>
+<td> </td>
+<td>TRAVESIA DE LAZAGURRIA</td>
+<td>0,00</td>
+<td>PK 0,47 DE NA-6330</td>
+<td>0,84</td>
+<td>PK 13,02 DE NA-6310</td>
+<td>0,84</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8407</td>
+<td> </td>
+<td>TRAVESIA DE VIANA</td>
+<td>0,00</td>
+<td>PK 79,76 DE N-111</td>
+<td>0,76</td>
+<td>PK 80,51 DE N-111</td>
+<td>0,76</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8408</td>
+<td> </td>
+<td>TRAVESIA DE LORCA</td>
+<td>0,00</td>
+<td>PK 28,85 DE NA-1110</td>
+<td>0,74</td>
+<td>PK 29,52 DE NA-1110</td>
+<td>0,74</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8409</td>
+<td> </td>
+<td>TRAVESIA DE MAÑERU</td>
+<td>0,00</td>
+<td>PK 20,49 DE NA-1110</td>
+<td>0,63</td>
+<td>PK 21,12 DE NA-1110</td>
+<td>0,63</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8502</td>
+<td> </td>
+<td>TRAVESIA DE ARRUAZU</td>
+<td>0,00</td>
+<td>PK 13,55 DE A-10</td>
+<td>0,78</td>
+<td>PK 14,40 DE A-10</td>
+<td>0,78</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8503</td>
+<td> </td>
+<td>TRAVESIA DE LAKUNTZA</td>
+<td>0,00</td>
+<td>PK 17,07 DE NA-2410</td>
+<td>1,06</td>
+<td>PK 18,07 DE NA-2410</td>
+<td>1,06</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8504</td>
+<td> </td>
+<td>TRAVESIA DE ITURMENDI</td>
+<td>0,00</td>
+<td>PK 26,03 DE NA-2410</td>
+<td>0,78</td>
+<td>PK 26,93 DE NA-2410</td>
+<td>0,78</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8505</td>
+<td> </td>
+<td>TRAVESIA DE ALTSASU/ALSASUA</td>
+<td>0,00</td>
+<td>PK 30,52 DE NA-2410</td>
+<td>1,63</td>
+<td>Rtda. DE NA-1000</td>
+<td>1,63</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8601</td>
+<td> </td>
+<td>TRAVESIA DE BARASOAIN-GARINOAIN</td>
+<td>0,00</td>
+<td>PK 24,69 DE N-121</td>
+<td>1,60</td>
+<td>PK 26,47 DE N-121</td>
+<td>1,60</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8602</td>
+<td>1</td>
+<td>ACCESO A OLITE</td>
+<td>0,00</td>
+<td>PK 38,46 DE N-121</td>
+<td>1,59</td>
+<td>OLITE</td>
+<td>1,59</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8602</td>
+<td>2</td>
+<td>ACCESO A OLITE</td>
+<td>1,63</td>
+<td>OLITE</td>
+<td>2,89</td>
+<td>PK 42,92 DE N-121</td>
+<td>1,26</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8603</td>
+<td> </td>
+<td>TRAVESIA DE SANGÜESA</td>
+<td>0,00</td>
+<td>PK 2,60 DE NA-127</td>
+<td>3,05</td>
+<td>PK 5,63 DE NA-127</td>
+<td>3,05</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8701</td>
+<td> </td>
+<td>TRAVESIA DE PERALTA (I)</td>
+<td>0,00</td>
+<td>PK 21,80 DE NA-115</td>
+<td>3,80</td>
+<td>PK 1,10 DE NA-624</td>
+<td>3,80</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8702</td>
+<td> </td>
+<td>TRAVESIA DE PERALTA (II)</td>
+<td>0,00</td>
+<td>PK 1,01 DE NA-8701</td>
+<td>2,14</td>
+<td>PK 0,00 DE NA-624</td>
+<td>2,14</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8704</td>
+<td> </td>
+<td>TRAVESIA DE FUSTIÑANA</td>
+<td>0,00</td>
+<td>PK 10,58 DE NA-126</td>
+<td>0,99</td>
+<td>PK 11,33 DE NA-126</td>
+<td>0,99</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8705</td>
+<td> </td>
+<td>ACCESO A ARGUEDAS</td>
+<td>0,00</td>
+<td>PK 14,14 DE NA-134</td>
+<td>1,10</td>
+<td>PK 15,18 DE NA-134</td>
+<td>1,10</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8706</td>
+<td> </td>
+<td>TRAVESIA DE AZAGRA</td>
+<td>0,00</td>
+<td>PK 43,62 DE NA-134</td>
+<td>2,26</td>
+<td>PK 45,94 DE NA-134</td>
+<td>2,26</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8708</td>
+<td>1</td>
+<td>ACCESO A CINTRUENIGO</td>
+<td>0,00</td>
+<td>PK 88,79 DE N-113</td>
+<td>2,04</td>
+<td>CINTRUENIGO</td>
+<td>2,04</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8708</td>
+<td>2</td>
+<td>ACCESO A CINTRUENIGO</td>
+<td>4,08</td>
+<td>CINTRUENIGO</td>
+<td>4,84</td>
+<td>PK 93,63 DE N-113</td>
+<td>0,76</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8709</td>
+<td> </td>
+<td>TRAVESIA DE SAN ADRIAN (I)</td>
+<td>0,00</td>
+<td>PK 0,71 DE NA-8710</td>
+<td>0,45</td>
+<td>PK 1,22 DE NA-6531</td>
+<td colspan="2">0,45</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8710</td>
+<td> </td>
+<td>TRAVESIA DE SAN ADRIAN (II)</td>
+<td>0,00</td>
+<td>PK 0,00 DE NA-6531</td>
+<td>1,43</td>
+<td>SAN ADRIAN</td>
+<td colspan="2">1,43</td>
+</tr>
+<tr>
+<td>NA</td>
+<td>8711</td>
+<td> </td>
+<td>TRAVESIA DE CADREITA</td>
+<td>0,00</td>
+<td>PK 23,03 DE NA-134</td>
+<td>1,76</td>
+<td>PK 24,71 DE NA-134</td>
+<td>1,76</td>
+</tr>
+<tr>
+<td colspan="8">6 TOTAL CARRETERAS LOCALES</td>
+<td>
 <strong>2.202,78</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="8">7 TOTAL KM RED DE CARRETERAS DE NAVARRA</td>
-<td class="cuerpo_tabla_der">
+<td colspan="8">7 TOTAL KM RED DE CARRETERAS DE NAVARRA</td>
+<td>
 <strong>3.886,44</strong>
 </td>
 </tr>
@@ -9213,67 +9202,62 @@ LISTADO DE TRAVESÍAS
 | 2 | Distancia para carreteras de altas prestaciones, carreteras de interés general y carreteras de interés de la Comunidad Foral. |
 | 3 | Distancia para carreteras locales. |
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">DISTANCIAS EN METROS</th>
+<th colspan="3">DISTANCIAS EN METROS</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">A</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">8 mts</td>
+<td rowspan="3">A</td>
+<td>1</td>
+<td>8 mts</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3 mts</td>
+<td>2</td>
+<td rowspan="2">3 mts</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">B</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">17 mts</td>
+<td rowspan="3">B</td>
+<td>1</td>
+<td>17 mts</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5 mts</td>
+<td>2</td>
+<td rowspan="2">5 mts</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">C</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">50 mts</td>
+<td rowspan="3">C</td>
+<td>1</td>
+<td>50 mts</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">25 mts</td>
+<td>2</td>
+<td>25 mts</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">18 mts</td>
+<td>3</td>
+<td>18 mts</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">D</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">100 mts</td>
+<td rowspan="3">D</td>
+<td>1</td>
+<td>100 mts</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">50 mts</td>
+<td>2</td>
+<td>50 mts</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">30 mts</td>
+<td>3</td>
+<td>30 mts</td>
 </tr>
 </tbody>
 </table>

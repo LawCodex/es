@@ -983,59 +983,55 @@ Para ello, en función de ese máximo anual de días asignados, se podrá increm
 
 ## ANEXO II — Relación de censos homólogos a efectos de intercambios y cambios de censo
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Censo de origen por modalidad y caladero</th>
-<th class="cabeza_tabla">Censo de destino por modalidad y caladero</th>
+<th>Censo de origen por modalidad y caladero</th>
+<th>Censo de destino por modalidad y caladero</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">PALANGRE DE FONDO CANTÁBRICO Y NOROESTE.</td>
-<td class="cuerpo_tabla_izq">VOLANTA CANTÁBRICO Y NOROESTE, RASCO CANTÁBRICO Y NOROESTE Y ARTES MENORES CANTÁBRICO Y NOROESTE.</td>
+<td>PALANGRE DE FONDO CANTÁBRICO Y NOROESTE.</td>
+<td>VOLANTA CANTÁBRICO Y NOROESTE, RASCO CANTÁBRICO Y NOROESTE Y ARTES MENORES CANTÁBRICO Y NOROESTE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VOLANTA CANTÁBRICO Y NOROESTE.</td>
-<td class="cuerpo_tabla_izq">PALANGRE DE FONDO CANTÁBRICO Y NOROESTE, RASCO CANTÁBRICO Y NOROESTE Y ARTES MENORES CANTÁBRICO Y NOROESTE.</td>
+<td>VOLANTA CANTÁBRICO Y NOROESTE.</td>
+<td>PALANGRE DE FONDO CANTÁBRICO Y NOROESTE, RASCO CANTÁBRICO Y NOROESTE Y ARTES MENORES CANTÁBRICO Y NOROESTE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RASCO CANTÁBRICO Y NOROESTE.</td>
-<td class="cuerpo_tabla_izq">VOLANTA CANTÁBRICO Y NOROESTE, PALANGRE DE FONDO CANTÁBRICO Y NOROESTE Y ARTES MENORES CANTÁBRICO Y NOROESTE.</td>
+<td>RASCO CANTÁBRICO Y NOROESTE.</td>
+<td>VOLANTA CANTÁBRICO Y NOROESTE, PALANGRE DE FONDO CANTÁBRICO Y NOROESTE Y ARTES MENORES CANTÁBRICO Y NOROESTE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ARTES MENORES CANTÁBRICO Y NOROESTE.</td>
-<td class="cuerpo_tabla_izq">VOLANTA CANTÁBRICO Y NOROESTE, RASCO CANTÁBRICO Y NOROESTE Y PALANGRE DE FONDO CANTÁBRICO Y NOROESTE.</td>
+<td>ARTES MENORES CANTÁBRICO Y NOROESTE.</td>
+<td>VOLANTA CANTÁBRICO Y NOROESTE, RASCO CANTÁBRICO Y NOROESTE Y PALANGRE DE FONDO CANTÁBRICO Y NOROESTE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ARTES MENORES MEDITERRÁNEO.</td>
-<td class="cuerpo_tabla_izq">PALANGRE DE FONDO MEDITERRÁNEO.</td>
+<td>ARTES MENORES MEDITERRÁNEO.</td>
+<td>PALANGRE DE FONDO MEDITERRÁNEO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PALANGRE DE FONDO DEL MEDITERRÁNEO.</td>
-<td class="cuerpo_tabla_izq">ARTES MENORES MEDITERRÁNEO.</td>
+<td>PALANGRE DE FONDO DEL MEDITERRÁNEO.</td>
+<td>ARTES MENORES MEDITERRÁNEO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ARTES MENORES CANARIAS.</td>
-<td class="cuerpo_tabla_izq">ATUNEROS CAÑEROS CANARIAS.</td>
+<td>ARTES MENORES CANARIAS.</td>
+<td>ATUNEROS CAÑEROS CANARIAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ATUNEROS CAÑEROS CANARIAS.</td>
-<td class="cuerpo_tabla_izq">ARTES MENORES CANARIAS.</td>
+<td>ATUNEROS CAÑEROS CANARIAS.</td>
+<td>ARTES MENORES CANARIAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ARRASTRE DE FONDO CANTÁBRICO Y NOROESTE O GOLFO DE CÁDIZ O MEDITERRÁNEO*.</td>
-<td class="cuerpo_tabla_izq">ARRASTRE DE FONDO CANTÁBRICO Y NOROESTE O GOLFO DE CÁDIZ O MEDITERRÁNEO*.</td>
+<td>ARRASTRE DE FONDO CANTÁBRICO Y NOROESTE O GOLFO DE CÁDIZ O MEDITERRÁNEO*.</td>
+<td>ARRASTRE DE FONDO CANTÁBRICO Y NOROESTE O GOLFO DE CÁDIZ O MEDITERRÁNEO*.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">* Únicamente tendrán la consideración de homólogos a efectos de intercambio de censo</p>
+<p>* Únicamente tendrán la consideración de homólogos a efectos de intercambio de censo</p>
 </td>
 </tr>
 </tfoot>
@@ -1351,79 +1347,69 @@ La anchura del seno corresponderá a la mayor distancia horizontal desde la part
 
 2\. Los tamaños de los anzuelos utilizados en el caladero del Cantábrico y Noroeste, tanto en longitud como en seno, no podrán ser inferiores a las dimensiones que a continuación se señalan, según las especies a las que se dirijan:
 
-<table class="tabla">
-<colgroup>
-<col width="60%">
-<col width="20%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Tamaño mínimo de los anzuelos a utilizar por los buques censados en el Cantábrico y Noroeste, según las especies objetivo</th>
+<th colspan="3">Tamaño mínimo de los anzuelos a utilizar por los buques censados en el Cantábrico y Noroeste, según las especies objetivo</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Especies</th>
-<th class="cabeza_tabla">Largo del anzuelo (cm)</th>
-<th class="cabeza_tabla">Ancho del seno (cm)</th>
+<th>Especies</th>
+<th>Largo del anzuelo (cm)</th>
+<th>Ancho del seno (cm)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">a) Congrio grande, cherna, mero.</td>
-<td class="cuerpo_tabla_centro">6,00 +/- 1,50</td>
-<td class="cuerpo_tabla_centro">2,30 +/- 0,50</td>
+<td>a) Congrio grande, cherna, mero.</td>
+<td>6,00 +/- 1,50</td>
+<td>2,30 +/- 0,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">b) Merluza, congrio, mero, palometa, besugo, caballa.</td>
-<td class="cuerpo_tabla_centro">3,85 +/- 1,15</td>
-<td class="cuerpo_tabla_centro">1,60 +/- 0,40</td>
+<td>b) Merluza, congrio, mero, palometa, besugo, caballa.</td>
+<td>3,85 +/- 1,15</td>
+<td>1,60 +/- 0,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">c) Brótola, pargo, sargo.</td>
-<td class="cuerpo_tabla_centro">2,70 +/- 0,07</td>
-<td class="cuerpo_tabla_centro">1,05 +/- 0,15</td>
+<td>c) Brótola, pargo, sargo.</td>
+<td>2,70 +/- 0,07</td>
+<td>1,05 +/- 0,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">d) Salmonete y peces de roca, maragota, faneca.</td>
-<td class="cuerpo_tabla_centro">2,05 +/- 0,05</td>
-<td class="cuerpo_tabla_centro">0,80 +/- 0,10</td>
+<td>d) Salmonete y peces de roca, maragota, faneca.</td>
+<td>2,05 +/- 0,05</td>
+<td>0,80 +/- 0,10</td>
 </tr>
 </tbody>
 </table>
 
 3\. Los tamaños de los anzuelos utilizados en el caladero del Golfo de Cádiz, tanto en longitud como en seno, no podrán ser inferiores a las dimensiones que a continuación se señalan, según las especies a las que se dirijan:
 
-<table class="tabla">
-<colgroup>
-<col width="60%">
-<col width="20%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Tamaño mínimo de los anzuelos a utilizar por los buques censados en el Golfo de Cádiz, según las especies objetivo</th>
+<th colspan="3">Tamaño mínimo de los anzuelos a utilizar por los buques censados en el Golfo de Cádiz, según las especies objetivo</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Especies</th>
-<th class="cabeza_tabla">Largo del anzuelo (cm)</th>
-<th class="cabeza_tabla">Ancho del seno (cm)</th>
+<th>Especies</th>
+<th>Largo del anzuelo (cm)</th>
+<th>Ancho del seno (cm)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">a) Congrio grande, cherna, corvina, cazón.</td>
-<td class="cuerpo_tabla_centro">6,00 +/- 0,50</td>
-<td class="cuerpo_tabla_centro">2,30 +/- 0,50</td>
+<td>a) Congrio grande, cherna, corvina, cazón.</td>
+<td>6,00 +/- 0,50</td>
+<td>2,30 +/- 0,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">b) Merluza, congrio, mero, palometa, besugo, caballa.</td>
-<td class="cuerpo_tabla_centro">3,85 +/- 1,15</td>
-<td class="cuerpo_tabla_centro">1,60 +/- 0,40</td>
+<td>b) Merluza, congrio, mero, palometa, besugo, caballa.</td>
+<td>3,85 +/- 1,15</td>
+<td>1,60 +/- 0,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">c) Resto de las especies.</td>
-<td class="cuerpo_tabla_centro">3,35 +/- 0,05</td>
-<td class="cuerpo_tabla_centro">1,60 +/- 0,40</td>
+<td>c) Resto de las especies.</td>
+<td>3,35 +/- 0,05</td>
+<td>1,60 +/- 0,40</td>
 </tr>
 </tbody>
 </table>

@@ -265,76 +265,71 @@ Para la concesión de los subsidios no se atenderá a la renta ni al patrimonio 
 
 3\. Los componentes y cuantías de las ayudas y subsidios para el alumnado con discapacidad en grado igual o superior al 25 por ciento, trastorno grave de la conducta, trastorno grave de la comunicación y del lenguaje y TEA serán durante el curso 2025-2026 los siguientes:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Componentes</th>
-<th class="cabeza_tabla">Educación Primaria, ESO y Ciclos Formativos de Grado Básico</th>
-<th class="cabeza_tabla">Resto de niveles educativos</th>
+<th rowspan="2">Componentes</th>
+<th>Educación Primaria, ESO y Ciclos Formativos de Grado Básico</th>
+<th>Resto de niveles educativos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">Cuantías</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th colspan="2">
+<p>Cuantías</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda de enseñanza.</td>
-<td class="cuerpo_tabla_centro">Hasta 862</td>
-<td class="cuerpo_tabla_centro">Hasta 862</td>
+<td>Ayuda de enseñanza.</td>
+<td>Hasta 862</td>
+<td>Hasta 862</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda o subsidio de transporte escolar.</td>
-<td class="cuerpo_tabla_centro">Hasta 617</td>
-<td class="cuerpo_tabla_centro">Hasta 617</td>
+<td>Ayuda o subsidio de transporte escolar.</td>
+<td>Hasta 617</td>
+<td>Hasta 617</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda o subsidio de comedor escolar.</td>
-<td class="cuerpo_tabla_centro">Hasta 574</td>
-<td class="cuerpo_tabla_centro">Hasta 574</td>
+<td>Ayuda o subsidio de comedor escolar.</td>
+<td>Hasta 574</td>
+<td>Hasta 574</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda de residencia escolar.</td>
-<td class="cuerpo_tabla_centro">Hasta 1.795</td>
-<td class="cuerpo_tabla_centro">Hasta 1.795</td>
+<td>Ayuda de residencia escolar.</td>
+<td>Hasta 1.795</td>
+<td>Hasta 1.795</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda para transporte de fin de semana.</td>
-<td class="cuerpo_tabla_centro">Hasta 442</td>
-<td class="cuerpo_tabla_centro">Hasta 442</td>
+<td>Ayuda para transporte de fin de semana.</td>
+<td>Hasta 442</td>
+<td>Hasta 442</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda para transporte urbano.</td>
-<td class="cuerpo_tabla_centro">Hasta 308</td>
-<td class="cuerpo_tabla_centro">Hasta 308</td>
+<td>Ayuda para transporte urbano.</td>
+<td>Hasta 308</td>
+<td>Hasta 308</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda para material escolar.</td>
-<td class="cuerpo_tabla_centro">Hasta 105</td>
-<td class="cuerpo_tabla_centro">Hasta 204</td>
+<td>Ayuda para material escolar.</td>
+<td>Hasta 105</td>
+<td>Hasta 204</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda para reeducación pedagógica.</td>
-<td class="cuerpo_tabla_centro">Hasta 913</td>
-<td class="cuerpo_tabla_centro">Hasta 913</td>
+<td>Ayuda para reeducación pedagógica.</td>
+<td>Hasta 913</td>
+<td>Hasta 913</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda para reeducación del lenguaje.</td>
-<td class="cuerpo_tabla_centro">Hasta 913</td>
-<td class="cuerpo_tabla_centro">Hasta 913</td>
+<td>Ayuda para reeducación del lenguaje.</td>
+<td>Hasta 913</td>
+<td>Hasta 913</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subsidio de cuantía fija para gastos adicionales de carácter general asociados a la escolarización.</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">400</td>
+<td>Subsidio de cuantía fija para gastos adicionales de carácter general asociados a la escolarización.</td>
+<td>400</td>
+<td>400</td>
 </tr>
 </tbody>
 </table>
@@ -351,132 +346,123 @@ No se concederán las ayudas reguladas en este artículo, ni los subsidios para 
 
 1\. Los umbrales de renta para el curso 2025-2026 en las convocatorias a las que se refiere el artículo 2 serán los contenidos en tabla siguiente:
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="3">N.º de miembros de la familia</th>
-<th class="cabeza_tabla" colspan="5">Convocatoria de becas y ayudas al estudio de carácter general dirigidas a enseñanzas postobligatorias (artículo 2.1)</th>
-<th class="cabeza_tabla">Convocatoria de ayudas al estudio para estudiantes con NEAE (artículo 2.2)</th>
+<th rowspan="3">N.º de miembros de la familia</th>
+<th colspan="5">Convocatoria de becas y ayudas al estudio de carácter general dirigidas a enseñanzas postobligatorias (artículo 2.1)</th>
+<th>Convocatoria de ayudas al estudio para estudiantes con NEAE (artículo 2.2)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">Umbral 1: intervalo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th colspan="2">
+<p>Umbral 1: intervalo</p>
+<p>–</p>
+<p>Euros</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Umbral 2</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th rowspan="2">
+<p>Umbral 2</p>
+<p>–</p>
+<p>Euros</p>
 </th>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">Umbral 3: intervalo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th colspan="2">
+<p>Umbral 3: intervalo</p>
+<p>–</p>
+<p>Euros</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Umbral 1</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th rowspan="2">
+<p>Umbral 1</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Extremo inferior</th>
-<th class="cabeza_tabla">Extremo superior</th>
-<th class="cabeza_tabla">Extremo inferior</th>
-<th class="cabeza_tabla">Extremo superior</th>
+<th>Extremo inferior</th>
+<th>Extremo superior</th>
+<th>Extremo inferior</th>
+<th>Extremo superior</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_coma">8.843</td>
-<td class="cuerpo_tabla_coma">9.315</td>
-<td class="cuerpo_tabla_coma">13.898</td>
-<td class="cuerpo_tabla_coma">14.818</td>
-<td class="cuerpo_tabla_coma">15.567</td>
-<td class="cuerpo_tabla_coma">12.534</td>
+<td>1</td>
+<td>8.843</td>
+<td>9.315</td>
+<td>13.898</td>
+<td>14.818</td>
+<td>15.567</td>
+<td>12.534</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_coma">13.264</td>
-<td class="cuerpo_tabla_coma">13.971</td>
-<td class="cuerpo_tabla_coma">23.724</td>
-<td class="cuerpo_tabla_coma">25.293</td>
-<td class="cuerpo_tabla_coma">26.573</td>
-<td class="cuerpo_tabla_coma">20.416</td>
+<td>2</td>
+<td>13.264</td>
+<td>13.971</td>
+<td>23.724</td>
+<td>25.293</td>
+<td>26.573</td>
+<td>20.416</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_coma">17.685</td>
-<td class="cuerpo_tabla_coma">18.629</td>
-<td class="cuerpo_tabla_coma">32.201</td>
-<td class="cuerpo_tabla_coma">34.332</td>
-<td class="cuerpo_tabla_coma">36.070</td>
-<td class="cuerpo_tabla_coma">26.811</td>
+<td>3</td>
+<td>17.685</td>
+<td>18.629</td>
+<td>32.201</td>
+<td>34.332</td>
+<td>36.070</td>
+<td>26.811</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_coma">22.107</td>
-<td class="cuerpo_tabla_coma">23.286</td>
-<td class="cuerpo_tabla_coma">38.242</td>
-<td class="cuerpo_tabla_coma">40.773</td>
-<td class="cuerpo_tabla_coma">42.836</td>
-<td class="cuerpo_tabla_coma">31.801</td>
+<td>4</td>
+<td>22.107</td>
+<td>23.286</td>
+<td>38.242</td>
+<td>40.773</td>
+<td>42.836</td>
+<td>31.801</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_coma">25.644</td>
-<td class="cuerpo_tabla_coma">27.012</td>
-<td class="cuerpo_tabla_coma">42.743</td>
-<td class="cuerpo_tabla_coma">45.572</td>
-<td class="cuerpo_tabla_coma">47.878</td>
-<td class="cuerpo_tabla_coma">36.089</td>
+<td>5</td>
+<td>25.644</td>
+<td>27.012</td>
+<td>42.743</td>
+<td>45.572</td>
+<td>47.878</td>
+<td>36.089</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">29.181</td>
-<td class="cuerpo_tabla_coma">30.738</td>
-<td class="cuerpo_tabla_coma">46.142</td>
-<td class="cuerpo_tabla_coma">49.196</td>
-<td class="cuerpo_tabla_coma">51.685</td>
-<td class="cuerpo_tabla_coma">40.229</td>
+<td>6</td>
+<td>29.181</td>
+<td>30.738</td>
+<td>46.142</td>
+<td>49.196</td>
+<td>51.685</td>
+<td>40.229</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_coma">32.718</td>
-<td class="cuerpo_tabla_coma">34.463</td>
-<td class="cuerpo_tabla_coma">49.503</td>
-<td class="cuerpo_tabla_coma">52.780</td>
-<td class="cuerpo_tabla_coma">55.451</td>
-<td class="cuerpo_tabla_coma">44.143</td>
+<td>7</td>
+<td>32.718</td>
+<td>34.463</td>
+<td>49.503</td>
+<td>52.780</td>
+<td>55.451</td>
+<td>44.143</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_coma">36.255</td>
-<td class="cuerpo_tabla_coma">38.190</td>
-<td class="cuerpo_tabla_coma">52.850</td>
-<td class="cuerpo_tabla_coma">56.348</td>
-<td class="cuerpo_tabla_coma">59.199</td>
-<td class="cuerpo_tabla_coma">48.031</td>
+<td>8</td>
+<td>36.255</td>
+<td>38.190</td>
+<td>52.850</td>
+<td>56.348</td>
+<td>59.199</td>
+<td>48.031</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Cada miembro adicional al 8.º</td>
-<td class="cuerpo_tabla_coma">3.536</td>
-<td class="cuerpo_tabla_coma">3.725</td>
-<td class="cuerpo_tabla_coma">3.340</td>
-<td class="cuerpo_tabla_coma">3.561</td>
-<td class="cuerpo_tabla_coma">3.740</td>
-<td class="cuerpo_tabla_coma">3.856</td>
+<td>Cada miembro adicional al 8.º</td>
+<td>3.536</td>
+<td>3.725</td>
+<td>3.340</td>
+<td>3.561</td>
+<td>3.740</td>
+<td>3.856</td>
 </tr>
 </tbody>
 </table>

@@ -1,0 +1,265 @@
+---
+title: "Orden ECO/734/2004, de 11 de marzo, sobre los departamentos y servicios de atención al cliente y el defensor del cliente de las entidades financieras"
+identifier: "BOE-A-2004-5290"
+eli: "https://www.boe.es/eli/es/o/2004/03/11/eco734"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía"
+date: 2004-03-11
+published: 2004-03-24
+in_force_from: 2004-07-24
+last_amended: 2025-12-27
+consolidated: 2025-12-29
+gazette: "Boletín Oficial del Estado núm. 72"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-5290"
+retrieved: 2026-10-11
+---
+
+# Orden ECO/734/2004, de 11 de marzo, sobre los departamentos y servicios de atención al cliente y el defensor del cliente de las entidades financieras
+
+La confianza de los inversores es una de las piezas fundamentales del engranaje de los mercados financieros. La aplicación de las nuevas tecnologías de la información está favoreciendo, de una parte, la aparición de productos financieros cada vez más innovadores, y de otra, el crecimiento de la prestación de servicios a distancia. Estas nuevas posibilidades de comercialización financiera justifican la adopción de nuevas medidas tendentes a preservar la confianza de los inversores en el funcionamiento y capacidad de los mercados financieros. En efecto, para asegurar que este mayor dinamismo en la prestación de servicios financieros beneficia a los inversores es necesario que el marco legal regulador de los servicios financieros ofrezca a estos clientes un nivel de protección adecuado, que preserve su confianza en el funcionamiento de los mercados.
+
+La Ley 44/2002, de 22 de noviembre, de medidas de reforma del sistema financiero, adopta en su capítulo V una serie de medidas protectoras de los clientes de servicios financieros. En primer lugar, se establece la obligación para las entidades financieras, de atender y resolver las quejas y reclamaciones que sus clientes puedan presentar, relacionadas con sus intereses y derechos legalmente reconocidos. A estos efectos, las entidades de crédito, empresas de servicios de inversión y entidades aseguradoras deberán contar con un departamento o servicio de atención al cliente. Además podrán designar un defensor del cliente, a quien corresponderá atender y resolver los tipos de reclamaciones que determine en cada caso su reglamento de funcionamiento, y que habrá de ser una entidad o experto independiente. El artículo 48 de la Ley 35/2003, de 4 de noviembre, de instituciones de inversión colectiva, extiende este tratamiento a las sociedades gestoras de instituciones de inversión colectiva.
+
+En segundo lugar, una vez que se haya formulado previamente la queja o reclamación, y ésta no se haya resuelto o se haya denegado la admisión o se hubiere desestimado, los encargados de atenderla serán unos órganos de nueva creación, los Comisionados para la Defensa de los Clientes de Servicios Financieros, en cuyo Reglamento, aprobado por Real Decreto 303/2004, de 20 de febrero, se establece, en efecto, que tendrán por objeto la protección de los derechos del usuario de servicios financieros, siendo competentes para atender las quejas o reclamaciones que formulen los usuarios de los servicios prestados por: las entidades de crédito, las sociedades de tasación y los establecimientos de cambio de moneda autorizados para realizar operaciones de venta de billetes extranjeros y cheques de viajero o gestión de transferencias en el exterior; por las empresas de servicios de inversión y las sociedades gestoras de instituciones de inversión colectiva en relación con los partícipes en fondos de inversión y los accionistas de sociedades de inversión que hayan delegado la gestión en aquéllas; y por las entidades aseguradoras, salvo en los supuestos de contratos por grandes riesgos, y las entidades gestoras de fondos de pensiones, así como en relación con la actividad de los mediadores de seguros conforme a lo establecido en su legislación específica. El Reglamento de los Comisionados para la Defensa del Cliente de Servicios Financieros habilita al Ministro de Economía para dictar sus disposiciones de desarrollo.
+
+Por todo ello, será imprescindible para la admisión y tramitación de quejas o reclamaciones ante el Comisionado para la Defensa del Cliente de Servicios Financieros correspondiente, acreditar haberlas formulado previamente ante las entidades financieras obligadas a atenderlas y resolverlas a través de un servicio o unidad equivalente encargado de la realización de dicha función.
+
+El artículo 31 de la Ley 44/2002, de 22 de noviembre, habilita al Ministro de Economía para regular los requisitos a respetar por el departamento o servicio de atención al cliente y el defensor del cliente, así como el procedimiento a que someta la resolución de las reclamaciones. A estos efectos, la Ley permite que el Ministro exija la adopción de las adecuadas medidas de separación respecto de los restantes servicios comerciales u operativos de las entidades. También se prevé la posibilidad de someter a verificación administrativa los reglamentos de funcionamiento o cualesquiera otras características del servicio, así como la de exigir la inclusión, en una memoria anual de las entidades, de un resumen con los aspectos más destacables de la actuación del departamento o servicio de atención al cliente y el defensor del cliente durante el ejercicio que corresponda.
+
+En su virtud, de acuerdo con el Consejo de Estado, dispongo:
+
+## CAPÍTULO I — Objeto y ámbito de aplicación
+
+### Artículo 1. Objeto.
+
+La presente Orden tiene por objeto regular los requisitos y procedimientos que deben cumplir los departamentos y servicios de atención al cliente así como el defensor del cliente de las entidades relacionadas en el artículo 2 de esta norma.
+
+### Artículo 2. Ámbito de aplicación.
+
+1\. Estarán sujetas a cuanto se dispone en esta Orden las siguientes entidades:
+
+a) las entidades de crédito,
+
+b) los establecimientos financieros de crédito,
+
+c) las entidades de pago, y las entidades acogidas a lo establecido en los artículos 14 y 15 del Real Decreto-ley 19/2018, de 23 de noviembre, de servicios de pago y otras medidas urgentes en materia financiera,
+
+d) las entidades de dinero electrónico,
+
+e) las empresas de servicios de inversión,
+
+f) las sociedades gestoras de instituciones de inversión colectiva,
+
+g) las entidades aseguradoras,
+
+h) las entidades gestoras de fondos de pensiones, con las precisiones establecidas en la disposición adicional primera,
+
+i) las sociedades de correduría de seguros,
+
+j) las sucursales en España de las entidades enumeradas en los párrafos anteriores con domicilio social en otro Estado.
+
+Las entidades señaladas en los párrafos anteriores que hayan sido autorizadas en otros Estados miembros del Espacio Económico Europeo, cuando ejerzan su actividad en España en régimen de libre prestación de servicios, deberán ajustarse a lo previsto en los artículos 3, 9 y 10.3.
+
+> Se modifica, con efectos de 1 de julio de 2020, por la disposición final 2.1 del la Orden ECE/1263/2019, de 26 de diciembre. [Ref. BOE-A-2019-18677](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18677)
+
+## CAPÍTULO II — Requisitos y deberes del departamento o servicio de atención al cliente y del defensor del cliente
+
+### Artículo 3. Deber de atender y resolver las quejas y reclamaciones.
+
+Las entidades a que se refiere el apartado 1 del artículo 2 de la presente Orden (en adelante, las entidades) estarán obligadas a atender y resolver las quejas y reclamaciones que sus clientes les presenten, relacionadas con sus intereses y derechos legalmente reconocidos.
+
+### Artículo 4. Estructura organizativa para el tratamiento de quejas y reclamaciones.
+
+1\. Las entidades deberán disponer de un departamento o servicio especializado de atención al cliente, que tenga por objeto atender y resolver las quejas y reclamaciones que presenten sus clientes.
+
+Las entidades que formen parte del mismo grupo económico podrán disponer de un departamento o servicio de atención al cliente único para todo el grupo.
+
+A los efectos de lo establecido en el párrafo anterior se entenderá que existe grupo cuando se den las condiciones establecidas en el artículo 4 de la Ley 24/1988, de 28 de julio, del mercado de valores.
+
+2\. Las entidades podrán designar un defensor del cliente, al que corresponderá atender y resolver los tipos de reclamaciones que se sometan a su decisión en el marco de lo que disponga el reglamento de funcionamiento a que se refiere el artículo 8 de la presente Orden, así como promover el cumplimiento de la normativa de transparencia y protección de la clientela y de las buenas prácticas y usos financieros.
+
+La designación del defensor del cliente podrá efectuarse conjuntamente con otras entidades, de manera que aquél atienda y resuelva las reclamaciones de los clientes de todas ellas, de acuerdo con lo que disponga su reglamento de funcionamiento.
+
+### Artículo 5. Designación del titular del departamento o servicio de atención al cliente y del defensor del cliente.
+
+1\. Los titulares del departamento o servicio de atención al cliente y del defensor del cliente deberán ser personas con honorabilidad comercial y profesional, y con conocimiento y experiencia adecuados para ejercer sus funciones.
+
+Concurre honorabilidad comercial y profesional en quienes hayan venido observando una trayectoria personal de respeto a las leyes mercantiles u otras que regulan la actividad económica y la vida de los negocios, así como las buenas prácticas comerciales y financieras.
+
+Poseen conocimientos y experiencia adecuados a los efectos previstos en esta Orden, quienes hayan desempeñado funciones relacionadas con la actividad financiera propia de la entidad o entidades de que se trate.
+
+2\. Los titulares del departamento o servicio de atención al cliente y del defensor del cliente, en su caso, serán designados por el consejo de administración u órgano equivalente de la entidad, o la dirección general de la sucursal, en su caso. Tratándose del defensor del cliente dicha designación podrá ser, de conformidad con lo que dispongan los estatutos de cada entidad, posteriormente ratificada por la junta o asamblea general u órgano equivalente.
+
+3\. La designación del titular del departamento o servicio de atención al cliente y, en su caso, del defensor del cliente, será comunicada al Comisionado o Comisionados para la Defensa del Cliente de Servicios Financieros y a la autoridad o autoridades supervisoras que correspondan por razón de su actividad.
+
+### Artículo 6. Departamento o servicio de atención al cliente.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 10/2025, de 26 de diciembre. [Ref. BOE-A-2025-26698](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26698)
+
+### Artículo 7. Defensor del cliente.
+
+1\. El defensor del cliente actuará con independencia respecto de la entidad y con total autonomía en cuanto a los criterios y directrices a aplicar en el ejercicio de sus funciones.
+
+2\. A tal fin, el defensor del cliente será una persona o entidad de reconocido prestigio en el ámbito jurídico, económico o financiero, ajena a la organización de la entidad o entidades a que presta sus servicios.
+
+3\. Las decisiones del defensor del cliente favorables al reclamante vincularán a la entidad. Esta vinculación no será obstáculo a la plenitud de la tutela judicial, al recurso a otros mecanismos de solución de conflictos ni a la protección administrativa.
+
+### Artículo 8. Reglamento de funcionamiento.
+
+1\. Cada entidad o grupo aprobará un Reglamento para la Defensa del Cliente, que regulará la actividad del departamento o servicio de atención al cliente y, en su caso, del defensor del cliente, así como las relaciones entre ambos.
+
+2\. El reglamento será aprobado por el consejo de administración u órgano equivalente de cada entidad, y, en su caso, por la dirección general de la sucursal, y podrá ser, de acuerdo con lo que prevean los estatutos de cada entidad, posteriormente ratificado por la junta o asamblea general u órgano equivalente.
+
+3\. El reglamento deberá contener, al menos, los siguientes elementos:
+
+a) Duración del mandato, en su caso, y posibilidad de renovación.
+
+b) Causas de incompatibilidad, inelegibilidad y cese.
+
+c) Relación clara y precisa de asuntos cuyo conocimiento, por razón del fondo, la cuantía o cualquier otro criterio, se atribuye al defensor del cliente, en su caso, con indicación expresa de que aquellos que no le correspondan serán competencia del departamento o servicio de atención al cliente ; si ambas instancias tuvieran atribuido el conocimiento del mismo tipo de reclamación se deberá especificar si tras la decisión del departamento o servicio de atención al cliente el reclamante puede acudir al defensor del cliente como segunda instancia, sin perjuicio del plazo de dos meses para dictar una decisión definitiva para el reclamante a los efectos de lo establecido en el artículo 10.3 de esta Orden.
+
+d) Deber de todos los departamentos y servicios de la entidad de facilitar al departamento o servicio de atención al cliente y al defensor del cliente, cuantas informaciones éstos soliciten en relación con el ejercicio de sus funciones.
+
+e) Plazo para la presentación de las reclamaciones, a contar desde la fecha en que el cliente tuviera conocimiento de los hechos causantes de la queja o reclamación, sin que pueda ser inferior a dos años.
+
+f) Concreción de los trámites internos en la entidad o grupo en aplicación del procedimiento establecido en el capítulo III.
+
+g) Los demás previstos en esta Orden.
+
+4\. Corresponderá al organismo que tenga legalmente atribuidas las competencias de control e inspección de la entidad de que se trate, verificar, dentro de los tres meses siguientes a la presentación de la solicitud, que el reglamento contiene la regulación necesaria y que se ajusta a lo dispuesto en la normativa aplicable.
+
+En particular, esta función corresponderá:
+
+a) En el caso de las entidades de crédito, así como sus sucursales en España, al Banco de España, salvo que se trate de cajas de ahorros, así como de cooperativas de crédito de competencia autonómica, con arreglo a lo dispuesto en el artículo 104 de la Ley 27/1999, de 16 de julio, de cooperativas, en cuyo caso corresponderá al órgano competente de la Comunidad Autónoma donde radique el domicilio social de la entidad.
+
+b) En el caso de empresas de servicios de inversión y sociedades gestoras de instituciones de inversión colectiva, así como sus sucursales en España, a la Comisión Nacional del Mercado de Valores.
+
+c) En el caso de entidades aseguradoras, entidades gestoras de fondos de pensiones, sociedades de correduría de seguros y sus sucursales en España, a la Dirección General de Seguros y Fondos de Pensiones del Ministerio de Economía, salvo que se trate de entidades de competencia autonómica, de conformidad con lo establecido en el artículo 69 de la Ley 30/1995, de 8 de noviembre, de ordenación y supervisión de los seguros privados, en cuyo caso corresponderá al órgano competente de la Comunidad Autónoma en donde radique el domicilio social de la entidad.
+
+En el supuesto de que un mismo reglamento se aplicara a todas las entidades de un mismo grupo, la verificación correrá a cargo de la autoridad competente que, de acuerdo con los párrafos anteriores, corresponda a la entidad dominante, previo informe de las restantes autoridades competentes.
+
+En todos los casos, las autoridades citadas podrán solicitar informe de los Comisionados que correspondan por razón de las entidades a los que los reglamentos resulten de aplicación.
+
+### Artículo 9. Deberes de información.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 10/2025, de 26 de diciembre. [Ref. BOE-A-2025-26698](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26698)
+
+## CAPÍTULO III — Procedimiento para la presentación, tramitación y resolución de las quejas y reclamaciones
+
+### Artículo 10. Alcance del procedimiento.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 10/2025, de 26 de diciembre. [Ref. BOE-A-2025-26698](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26698)
+
+### Artículo 11. Forma, contenido y lugar de la presentación de las quejas y reclamaciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 10/2025, de 26 de diciembre. [Ref. BOE-A-2025-26698](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26698)
+
+### Artículo 12. Admisión a trámite.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 10/2025, de 26 de diciembre. [Ref. BOE-A-2025-26698](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26698)
+
+### Artículo 13. Tramitación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 10/2025, de 26 de diciembre. [Ref. BOE-A-2025-26698](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26698)
+
+### Artículo 14. Allanamiento y desistimiento.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 10/2025, de 26 de diciembre. [Ref. BOE-A-2025-26698](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26698)
+
+### Artículo 15. Finalización y notificación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 10/2025, de 26 de diciembre. [Ref. BOE-A-2025-26698](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26698)
+
+### Artículo 16. Relación con los Comisionados.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 10/2025, de 26 de diciembre. [Ref. BOE-A-2025-26698](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26698)
+
+## CAPÍTULO IV — Informe anual
+
+### Artículo 17. Contenido.
+
+1\. Dentro del primer trimestre de cada año, los departamentos y servicios de atención al cliente y, en su caso, los defensores del cliente, presentarán ante el consejo de administración u órgano equivalente o ante la dirección general de la sucursal, en su caso, un informe explicativo del desarrollo de su función durante el ejercicio precedente, que habrá de tener el contenido mínimo siguiente:
+
+a) resumen estadístico de las quejas y reclamaciones atendidas, con información sobre su número, admisión a trámite y razones de inadmisión, motivos y cuestiones planteadas en las quejas y reclamaciones, y cuantías e importes afectados,
+
+b) resumen de las decisiones dictadas, con indicación del carácter favorable o desfavorable para el reclamante,
+
+c) criterios generales contenidos en las decisiones,
+
+d) recomendaciones o sugerencias derivadas de su experiencia, con vistas a una mejor consecución de los fines que informan su actuación.
+
+2\. Al menos un resumen del informe se integrará en la memoria anual de las entidades.
+
+### Disposición adicional primera. Defensor del partícipe.
+
+1\. El defensor del cliente previsto en esta Orden podrá asumir, cuando así lo decidan la entidad o entidades promotoras, las funciones del defensor del partícipe contemplado en el artículo 7 del texto refundido de la Ley de regulación de los planes y fondos de pensiones, aprobado por el Real Decreto Legislativo 1/2002, de 29 de noviembre, siempre que cumpla los requisitos allí previstos, debiendo comunicarse esta circunstancia a la Dirección General de Seguros y Fondos de Pensiones.
+
+2\. El procedimiento de presentación, tramitación y terminación de las quejas y reclamaciones regulado en esta Orden se aplicará a las que se presenten ante los defensores del partícipe de los planes de pensiones individuales a los que se refiere la Ley de regulación de los planes y fondos de pensiones.
+
+3\. Los departamentos y servicios de atención al cliente o los defensores del cliente de las entidades gestoras de fondos de pensiones atenderán y resolverán las quejas y reclamaciones que se presenten por los partícipes y beneficiarios de los planes de pensiones, cuya tramitación no esté reservada a las competencias del defensor del partícipe por la normativa de planes y fondos de pensiones.
+
+### Disposición adicional segunda. Régimen aplicable a otras entidades.
+
+1\. En virtud de lo establecido en los artículos 1 y 8 del Reglamento de los Comisionados para la Defensa del Cliente de Servicios Financieros, aprobado por el Real Decreto 303/2004, de 20 de febrero, las siguientes entidades deberán atender y resolver las quejas y reclamaciones que, ajustándose a los requisitos previstos en el artículo 2.2 de esta Orden, sean presentadas por sus clientes, a través de un servicio o unidad equivalente para la realización de dicha función:
+
+a) las sociedades de tasación,
+
+b) los establecimientos abiertos al público para el cambio de moneda extranjera autorizados para operaciones de venta de billetes extranjeros o gestión de transferencias con el exterior.
+
+2\. Las entidades enumeradas en el apartado anterior podrán designar un defensor del cliente en los términos previstos en el artículo 4.2, a quienes serán de aplicación los requisitos establecidos en los artículos 5 y 7 de esta norma.
+
+En el supuesto contemplado en el párrafo anterior, las citadas entidades estarán obligadas a aprobar un Reglamento para la Defensa del Cliente, en los términos del artículo 8, que será objeto de verificación por el Banco de España, y se ajustarán al procedimiento establecido en el capítulo III.
+
+3\. Las entidades referidas en el apartado 1 anterior comunicarán la designación de los titulares de los servicios o unidades equivalentes para el tratamiento de las quejas y reclamaciones de sus clientes, así como, en su caso, de su defensor del cliente, al Comisionado para la Defensa del Cliente de Servicios Bancarios.
+
+4\. Las citadas entidades se someterán a los deberes de información recogidos en el artículo 9, así como al plazo previsto en el artículo 10.3 de esta Orden.
+
+### Disposición adicional tercera. Modulación de las obligaciones.
+
+Se habilita al Banco de España para modular las obligaciones recogidas en esta orden ministerial, atendiendo al tamaño y estructura de las entidades recogidas en el artículo 2.1, así como a su naturaleza, dimensión y complejidad de las actividades que desarrollan.
+
+> Se añade, con efectos de 1 de julio de 2020, por la disposición final 2.2 del la Orden ECE/1263/2019, de 26 de diciembre. [Ref. BOE-A-2019-18677](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18677)
+
+### Disposición transitoria primera. Expedientes en tramitación.
+
+Los expedientes de quejas y reclamaciones que se encuentren en tramitación a la entrada en vigor de esta norma, por parte de los departamentos o servicios de atención al cliente o defensores del cliente de las entidades del artículo 2.1 de esta norma, continuarán sustanciándose conforme al procedimiento establecido en la normativa anteriormente aplicable.
+
+### Disposición transitoria segunda. Cargos vigentes.
+
+Se entenderá que las personas que, con anterioridad a la entrada en vigor de esta norma, vinieran desarrollando funciones equivalentes a las aquí previstas para los titulares del departamento o servicio de atención al cliente y el defensor del cliente, cumplen los requisitos generales previstos para el desempeño de tales cargos.
+
+### Disposición final primera. Carácter básico.
+
+Esta Orden tiene carácter básico al amparo de lo previsto en el artículo 149.1.11.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre las bases de la ordenación del crédito, banca y seguros.
+
+### Disposición final segunda. Entrada en vigor.
+
+Esta norma entrará en vigor a los cuatro meses de su publicación en el Boletín Oficial del Estado.
+
+Madrid, 11 de marzo de 2004.
+
+DE RATO Y FIGAREDO
+
+Excmo. Sr. Gobernador del Banco de España e Ilmos. Sres. Presidente de la Comisión Nacional del Mercado de Valores, Director general de Seguros y Fondos de Pensiones y Directora general del Tesoro y Política Financiera.

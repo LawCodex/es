@@ -1,0 +1,569 @@
+---
+title: "Resolución de 14 de septiembre de 2021, conjunta de la Intervención General de la Administración del Estado y de la Dirección General del Tesoro y Política Financiera, por la que se regula el procedimiento de pagos a través del Cajero de Pagos en el exterior y de Pagos en divisas"
+identifier: "BOE-A-2021-15176"
+eli: "https://www.boe.es/eli/es/res/2021/09/14/(1)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Asuntos Económicos y Transformación Digital"
+date: 2021-09-14
+published: 2021-09-20
+in_force_from: 2021-09-21
+last_amended: 2021-09-20
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 225"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2021-15176"
+retrieved: 2026-10-11
+---
+
+# Resolución de 14 de septiembre de 2021, conjunta de la Intervención General de la Administración del Estado y de la Dirección General del Tesoro y Política Financiera, por la que se regula el procedimiento de pagos a través del Cajero de Pagos en el exterior y de Pagos en divisas
+
+Incluye la corrección de errores publicada en BOE núm. 238, de 5 de octubre de 2021. [Ref. BOE-A-2021-16143](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16143)
+
+La aprobación de la Orden PCM/917/2021, de 1 de septiembre, por la que se regula el procedimiento para el pago en el exterior y el pago en divisas de las obligaciones de la Administración General del Estado, conlleva la necesidad de actualizar su desarrollo y de aprobar una nueva resolución para adaptar los procedimientos a la coyuntura actual adecuando la normativa a la misma. La principal razón para la aprobación de dicha Orden, como se recoge en su preámbulo, ha sido la de tratar de adaptarla a los cambios producidos por la normativa aplicable a la Zona Única de Pagos en Euros, conocida bajo el acrónimo SEPA (Single Euro Payments Area) y recogida en el Reglamento (UE) n.º 260/2012, del Parlamento Europeo y del Consejo, de 14 de marzo de 2012, por el que se establecen requisitos técnicos y empresariales para las transferencias y los adeudos domiciliados en euros, y se modifica el Reglamento (CE) n.º 924/2009.
+
+La disposición final segunda de la Orden PCM/917/2021, de 1 de septiembre, habilita a la Dirección General del Tesoro y Política Financiera y a la Intervención General de la Administración del Estado para desarrollar, conjuntamente, las disposiciones para la aplicación y ejecución de lo dispuesto en la misma.
+
+Además, la letra e) del punto 2 del apartado séptimo de la Orden PRE/1576/2002, de 19 de junio, por la que se regula el procedimiento para el pago de obligaciones de la Administración General del Estado, permite la realización de pagos a través de Agente mediador, estando la Intervención General de la Administración del Estado y la Dirección General del Tesoro y Política Financiera habilitadas por la disposición final de dicha Orden PRE/1576/2002, de 19 de junio, para dictar las normas complementarias, en el ámbito de sus respectivas competencias, que requiera la ejecución de la misma.
+
+En virtud de dichas habilitaciones, la Intervención General de la Administración del Estado y la Dirección General del Tesoro y Política Financiera disponen:
+
+## Primero. Ámbito de aplicación.
+
+Los pagos en el exterior y los pagos en divisas que haya de efectuar la Administración General del Estado se realizarán conforme a lo dispuesto en la Orden PCM/917/2021, de 1 de septiembre, por la que se regula el procedimiento para el pago en el exterior y el pago en divisas de las obligaciones de la Administración General del Estado, y en esta resolución.
+
+Quedan dentro del ámbito de aplicación de esta resolución los siguientes pagos:
+
+– Pagos en euros a realizar fuera de España.
+
+– Pagos a realizar en divisas.
+
+– Pagos en euros que deriven de un derecho único de cobro, cuando se hagan efectivos parte en una cuenta ubicada en España y parte en otra ubicada en el exterior.
+
+Todos estos pagos se tramitarán a través del Cajero de Pagos en el exterior y de Pagos en divisas de la Dirección General del Tesoro y Política Financiera (NIF S2800817E) distinguiéndose los siguientes procedimientos:
+
+– Pagos en firme.
+
+– Pagos a Justificar.
+
+– Pagos para reposiciones de Anticipos de Caja Fija.
+
+## Segundo. Pagos en firme a través del Cajero de Pagos en el exterior y de Pagos en divisas.
+
+1\. Para los pagos de obligaciones contraídas en euros a acreedores directos o a través de agente mediador distinto de los «Pagos a justificar» y «Anticipos de caja fija», propuestas de mandamiento de pago por devolución de ingresos o propuestas no presupuestarias contraídas en euros distintas de la constitución o ampliación de «anticipos de caja fija» (en adelante «pagos en firme»), el centro gestor expedirá los correspondientes documentos ADOK, OK o PMP, en los que figurará como interesado el tercero «DGTPF. Cajero de Pagos en el exterior y de Pagos en divisas» y como tipo de pago el 30 «Pagos en el exterior. Obligaciones contraídas en euros».
+
+2\. Para los pagos en firme de obligaciones contraídas en divisas, propuestas de mandamiento de pago por devolución de ingresos o propuestas no presupuestarias contraídas en divisas distintas de la constitución o ampliación de «anticipos de caja fija», los centros gestores expedirán los correspondientes documentos ADOK, OK o PMP, en los que figurará como el mismo interesado el tercero «DGTPF. Cajero de Pagos en el exterior y de Pagos en divisas» y como tipo de pago el 33 «Pagos en el exterior. Obligaciones contraídas en divisas».
+
+La cuantificación en euros de la obligación se realizará aplicando al importe en divisas el último tipo de cambio vendedor del Banco de España publicado en el «Boletín Oficial del Estado», el día en que se formula la propuesta al órgano competente para reconocer la obligación.
+
+## Tercero. Pagos «a justificar» a través del Cajero de Pagos en el exterior y de Pagos en divisas.
+
+1\. Para los pagos de libramientos de «Pagos a justificar» acordados en euros, los centros gestores expedirán los correspondientes documentos ADOK u OK en los que figurará como interesado el Cajero pagador o Habilitado, como cesionario el tercero «DGTPF. Cajero de Pagos en el exterior y de Pagos en divisas», y como tipo de pago el 31 «Pagos en el exterior. Libramientos a justificar acordados en euros».
+
+2\. Para los pagos de libramientos de «Pagos a justificar» acordados en divisas, los centros gestores expedirán los correspondientes documentos ADOK u OK en los que figurará como interesado el Cajero pagador o Habilitado, como cesionario el tercero «DGTPF. Cajero de Pagos en el exterior y de Pagos en divisas», y como tipo de pago el 34 «Pagos en el exterior. Libramientos a justificar acordados en divisas».
+
+La cuantificación en euros del libramiento se realizará aplicando al importe en moneda distinta del euro el último tipo de cambio vendedor del Banco de España publicado en el Boletín Oficial del Estado, el día en que se expida la propuesta de pago del libramiento a justificar.
+
+## Cuarto. Pagos derivados de anticipos de caja fija a través del Cajero de Pagos en el exterior y de Pagos en divisas.
+
+1\. Para los pagos de libramientos para la reposición de «Anticipos de caja fija» aprobados en euros, los centros gestores expedirán los correspondientes documentos ADOK u OK en los que figurará como interesado el Cajero pagador o Habilitado, como cesionario el tercero «DGTPF. Cajero de Pagos en el exterior y de Pagos en divisas», y como tipo de pago el 32 «Pagos en el exterior. Acuerdos de caja fija aprobados en euros».
+
+Para los pagos de libramientos para la constitución o ampliación de «Anticipos de caja fija» aprobados en euros, los centros gestores expedirán los correspondientes documentos PMP con los mismos requisitos del párrafo anterior.
+
+2\. Para los pagos de libramientos para la reposición de «Anticipos de caja fija» aprobados en divisas, los centros gestores expedirán los correspondientes documentos ADOK u OK en los que figurará como interesado el Cajero pagador o Habilitado, como cesionario el tercero «DGTPF. Cajero de Pagos en el exterior y de Pagos en divisas», y como tipo de pago el 35 «Pagos en el exterior. Acuerdos de caja fija aprobados en divisas».
+
+Para los pagos de libramientos para la constitución o ampliación de «anticipos de caja fija» aprobados en divisas, los centros gestores expedirán los correspondientes documentos PMP con los mismos requisitos del párrafo anterior.
+
+La cuantificación en euros del libramiento se realizará aplicando al importe en divisas el último tipo de cambio vendedor del Banco de España publicado en el «Boletín Oficial del Estado», el día en que se expida la propuesta de pago relativa a la constitución, ampliación o reposición del anticipo de caja fija.
+
+## Quinto. Remisión de los documentos contables a la oficina de contabilidad.
+
+Los documentos contables a los que se refieren los apartados anteriores deberán remitirse por el centro gestor a la respectiva oficina de contabilidad acompañados de un fichero informático con los datos del perceptor o perceptores elaborado con las especificaciones técnicas que figuran en el anexo I a esta resolución (en adelante, fichero de perceptores).
+
+Dicho fichero de perceptores deberá ir firmado electrónicamente por el responsable del centro gestor. El formato de la firma electrónica se ajustará a la especificación ETSI TS 101 903 (XAdES), de acuerdo con lo establecido en la Política de Firma Electrónica y de Certificados de la Administración General del Estado, aprobada mediante Resolución de 29 de noviembre de 2012, de la Secretaría de Estado de Administraciones Públicas, o en la vigente en cada momento.
+
+La Intervención General de la Administración del Estado pondrá a disposición de los centros gestores una solución informática para la generación del fichero de perceptores.
+
+## Sexto. Procedimiento a seguir por la oficina de contabilidad.
+
+La oficina de contabilidad registrará el documento contable en el Sistema de Información Contable (SIC) e incorporará en el mismo el fichero informático de perceptores. La captura del fichero de perceptores en el SIC se efectúa a los solos efectos de su transmisión al Cajero de Pagos en el exterior y de Pagos en divisas.
+
+Sin perjuicio de lo previsto en la regla 2.2 de la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado, aprobada por Orden del Ministerio de Economía y Hacienda de 1 de febrero de 1996, cuando el fichero de perceptores no supere las validaciones establecidas en el SIC, la oficina de contabilidad no tomará razón de la operación y devolverá al centro gestor el documento contable y el fichero de perceptores, acompañados de una comunicación con el detalle de los errores que se han producido al pasar dichas validaciones.
+
+## Séptimo. Ordenación y pago a favor del Cajero de Pagos en el exterior y de Pagos en divisas.
+
+Recibidas las propuestas de pago a que se refieren los apartados anteriores, el Servicio de Ordenación de Pagos de la Dirección General del Tesoro y Política Financiera ordenará las transferencias a favor del Cajero de Pagos en el exterior y de Pagos en divisas de acuerdo con el procedimiento general establecido en la Orden PRE/1576/2002, de 19 de junio, por la que se regula el procedimiento para el pago de obligaciones de la Administración General del Estado.
+
+## Octavo. Actuaciones del Cajero de Pagos en el exterior y de Pagos en divisas.
+
+1\. Una vez abonado el importe de las propuestas ordenadas en la cuenta del Cajero de Pagos en el exterior y de Pagos en divisas, éste generará un fichero de órdenes de transferencia que firmarán electrónicamente de forma mancomunada dos personas designadas por la Dirección General del Tesoro y Política Financiera.
+
+2\. El Cajero de Pagos en el exterior y de Pagos en divisas remitirá al Banco de España el fichero de órdenes de transferencia firmado para que sean ejecutadas contra su cuenta, de acuerdo con las normas para el intercambio de soportes entre el Banco de España y la Dirección General del Tesoro y Política Financiera sobre operaciones con el exterior.
+
+3\. El importe de las transferencias ordenadas por el Banco de España que no hubieran podido ser abonadas en la cuenta designada por los perceptores se abonará en la cuenta del Cajero de Pagos en el exterior y de Pagos en divisas del Banco de España. Transcurridos tres meses desde su abono en cuenta sin que se hayan podido hacer efectivas, su importe deberá ser transferido por el Cajero de Pagos en el exterior y de Pagos en divisas a la cuenta operativa del Tesoro Público.
+
+## Noveno. Contabilización de las diferencias de cambio y de las comisiones cargadas por el Banco de España.
+
+1\. En los casos en que el tipo de pago sea 33, 34 o 35, deberá seguirse el siguiente procedimiento para la contabilización de las diferencias del tipo de cambio:
+
+a) La Dirección General del Tesoro y Política Financiera imputará las diferencias de cambio negativas al concepto no presupuestario 3.11.420 «Diferencias de cambio negativas por operaciones ordinarias» y las diferencias positivas al concepto no presupuestario 3.21.420 «Diferencias de cambio positivas por operaciones ordinarias».
+
+b) En todo caso, a fin de ejercicio deberá imputarse presupuestariamente el saldo neto de las diferencias producidas durante el período. Excepcionalmente podrá realizarse dicha imputación presupuestaria durante el ejercicio.
+
+Si las diferencias de cambio negativas hubiesen sido superiores a las positivas, el saldo neto se imputará a la partida presupuestaria de otros gastos financieros de los créditos del Presupuesto de gastos correspondientes a la Secretaría General del Tesoro y Financiación Internacional.
+
+Si las diferencias positivas hubiesen sido superiores a las negativas, el saldo neto se imputará al concepto contable 100.385 «Diferencias de cambio operaciones no deuda» del Presupuesto de ingresos.
+
+2\. Una vez recibida del Banco de España la información relativa a las comisiones cargadas por éste en relación con el servicio prestado de pagos en el exterior, la Dirección General del Tesoro y Política Financiera expedirá los documentos contables necesarios para su imputación a la partida presupuestaria del Presupuesto de gastos que corresponda, que deberán ser remitidos a la Intervención delegada para su registro en el SIC.
+
+## Décimo. Justificación de los pagos.
+
+Para la justificación de los pagos, el Cajero de Pagos en el exterior y de Pagos en divisas formará mensualmente la correspondiente cuenta justificativa según el modelo del anexo II a esta resolución que será remitida, dentro de los dos meses siguientes al justificado, por medios electrónicos a la Intervención delegada en la Secretaría General del Tesoro y Financiación internacional para su verificación, junto con los justificantes de los pagos y de la ejecución de las incidencias. La Intervención delegada, una vez verificada la cuenta, la remitirá a la Dirección General del Tesoro y Política Financiera para su aprobación y archivo a disposición del Tribunal de Cuentas.
+
+La cuenta justificativa mencionada en el párrafo anterior contendrá, al menos, la siguiente información:
+
+a) Título de la cuenta justificativa y periodo al que se refiere, código de la cuenta bancaria y fecha de formación.
+
+b) En el debe de la cuenta justificativa figurarán cada uno de los libramientos recibidos en el período, las transferencias devueltas por el Banco de España al no haberse podido hacer efectivo el pago, enlazándolas con su libramiento de origen y número de transferencia inicial fallida, el saldo inicial que anotará tanto los libramientos percibidos en períodos anteriores por el importe no cancelado al inicio del actual como las transferencias devueltas pendientes al inicio del mes de rendición, detallando, para todos ellos, la información recogida en el anexo II.
+
+c) En el haber de la cuenta justificativa se detallarán cada uno de los pagos efectuados a los perceptores enlazándolos con su libramiento de origen, señalando aquellos en los que se hayan producido incidencias en el pago sin devolución de los fondos, así como los pagos de transferencias inicialmente devueltas y los reintegros a los que se refiere el punto 3 del apartado octavo, en su caso, detallando, para todos ellos, la información recogida en el anexo II.
+
+d) El saldo final de la cuenta registrará los libramientos pendientes de pago por su número de operación, así como las órdenes de transferencia devueltas y pendientes de pago o reintegro, siguiendo el criterio de anotación de libramiento, detallando, en todos los casos, la información recogida en el anexo II.
+
+## Disposición adicional única. Regulación para Organismos autónomos.
+
+Las normas y criterios contenidos en esta resolución serán de aplicación en los Organismos autónomos del Estado para el pago de las obligaciones a su cargo, adecuando su realización a su propia estructura administrativa y organización contable y aspectos procedimentales de acuerdo con la normativa que les sea de aplicación. No obstante, los pagos en euros a países de la zona SEPA podrán realizarse por el procedimiento ordinario de pagos.
+
+## Disposición derogatoria. Derogación normativa.
+
+Queda derogada la Resolución de 22 de febrero de 2011, conjunta de la Intervención General de la Administración del Estado y de la Dirección General del Tesoro y Política Financiera, por la que se regula el procedimiento de pagos en divisas.
+
+## Disposición final única. Entrada en vigor.
+
+Esta resolución entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 14 de septiembre de 2021.–El Interventor General de la Administración del Estado, Pablo Arellano Pardo.–El Director General del Tesoro y Política Financiera, Pablo de Ramón-Laca Clausen.
+
+## ANEXO I — Especificaciones informáticas del fichero de perceptores
+
+Diseño Registro
+
+Existirán dos tipos de registros. Los dos serán de la misma longitud: 1.000 caracteres.
+
+En la columna «FMT» (formato) se especifica para cada campo en primer lugar su formato y tamaño, y en segundo lugar su posición en el registro.
+
+Se usa «A» para indicar formato alfanumérico y «N» para formato numérico. A continuación de dicha letra se indica el número de caracteres. En los formatos numéricos con decimales se indican dos números separados por una coma, donde el número a continuación de la coma indica las posiciones decimales. No se debe incluir la coma o punto decimal en el contenido de la información, solo los dígitos. Por ejemplo, un formato «N5,2» indica siete dígitos de los cuales los dos últimos serán decimales, representándose el importe 10 325,15 en este formato (N5,2) como 1032515.
+
+En segundo lugar, se especifica la posición del campo en el registro, indicando las posiciones de inicio y fin en la cuenta de caracteres del registro separadas por un guion. Por ejemplo «2-18» indica que este campo comenzará en el segundo carácter del registro y termina en el carácter de posición 18 (ambos incluidos).
+
+– Registro de cabecera: Será único. Su diseño es el siguiente:
+
+| FMT | Nombre | Observaciones/Valor del campo |
+|---|---|---|
+| A1<br>1-1 | Código Registro. | Tendrá el valor fijo de 1. |
+| A17<br>2-18 | Número de Propuesta. | Este campo quedará sin cumplimentar. |
+| A14<br>19-32 | Ordenante NIF. | NIF del organismo que efectúa el Pago. Su formato es ES000 + NIF. |
+| N7<br>33-39 | Número de Registros. | Número de registros de detalle presentes en el fichero. |
+| N9<br>40-48 | Total Clave Autenticación. | Suma del campo clave autenticación de cada uno de los registros de detalle. |
+| N14,2<br>49-64 | Total Importe Divisas. | Suma del campo Importe en divisas de cada uno de los registros de detalle. El importe vendrá sin punto decimal. No se admitirán valores negativos. |
+| N14,2<br>65-80 | Total Importe en Euros. | Suma del campo Importe en euros de cada uno de los registros de detalle. El importe vendrá sin punto decimal. No se admitirán valores negativos. |
+| A5<br>81-85 | Código de Centro Gestor. | Código asignado por la Dirección General del Tesoro y Política Financiera que identificará el Centro Gestor del fichero de pagos en divisas. |
+| N8<br>86-93 | Fecha. | Su formato será: DDMMAAAA. |
+| N5<br>94-98 | Número secuencial. | Número secuencial del fichero de pagos en divisas para el Centro Gestor en el ejercicio. |
+| A5<br>99-103 | Versión. | Tendrá el valor fijo de: 1.0 |
+| A897<br>104-1000 | FILLER. | Disponible para uso futuro. |
+
+– Registro de detalle: Existirá uno por cada pago a realizar.
+
+<table>
+<thead>
+<tr>
+<th>FMT</th>
+<th>Nombre</th>
+<th colspan="2">Observaciones/Valor del campo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>A1</p>
+<p>1-1</p>
+</td>
+<td>Código Registro.</td>
+<td colspan="2">Tendrá siempre el valor de 2.</td>
+</tr>
+<tr>
+<td>
+<p>A1</p>
+<p>2-2</p>
+</td>
+<td>Marca del Beneficiario.</td>
+<td colspan="2">
+<p>Los valores posibles son:</p>
+<p>– « «: Cuando el beneficiario sea un particular.</p>
+<p>– «B»: Cuando el beneficiario sea un banco.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A70</p>
+<p>3-72</p>
+</td>
+<td>Beneficiario.</td>
+<td colspan="2">Nombre del Beneficiario a quién hay que realizar el pago. Titular de la Cuenta Bancaria.</td>
+</tr>
+<tr>
+<td>
+<p>A11</p>
+<p>73-83</p>
+</td>
+<td>Código BIC/SWIFT Beneficiario.</td>
+<td colspan="2">Campo Opcional. Código BIC/SWIFT del Beneficiario, si se trata de un Banco.</td>
+</tr>
+<tr>
+<td>
+<p>A35</p>
+<p>84-118</p>
+</td>
+<td>Domicilio Beneficiario.</td>
+<td colspan="2">Campo Opcional. Dirección (Calle) del Beneficiario.</td>
+</tr>
+<tr>
+<td>
+<p>A35</p>
+<p>119-153</p>
+</td>
+<td>Ciudad Beneficiario.</td>
+<td colspan="2">Campo Opcional. Ciudad del Beneficiario.</td>
+</tr>
+<tr>
+<td>
+<p>A35</p>
+<p>154-188</p>
+</td>
+<td>País Beneficiario.</td>
+<td colspan="2">Campo Opcional. País del Beneficiario.</td>
+</tr>
+<tr>
+<td>
+<p>A2</p>
+<p>189-190</p>
+</td>
+<td>Código País Beneficiario.</td>
+<td colspan="2">Código del País del Beneficiario según la codificación ISO 3166-1 alfa-2.</td>
+</tr>
+<tr>
+<td>
+<p>A1</p>
+<p>191-191</p>
+</td>
+<td>Forma de pago.</td>
+<td colspan="2">Tendrá siempre el valor de ‘T’ → Transferencia.</td>
+</tr>
+<tr>
+<td>
+<p>A70</p>
+<p>192-261</p>
+</td>
+<td>Nombre del Banco.</td>
+<td colspan="2">Nombre del Banco del Beneficiario donde se realizará el Pago.</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>A33</p>
+<p>262-294</p>
+</td>
+<td rowspan="5">Banco del beneficiario. Código doméstico.</td>
+<td colspan="2">Campo opcional. Será el código de identificación del banco en su sistema doméstico de compensación. Se admitirán los siguientes valores en función del país del banco del beneficiario:</td>
+</tr>
+<tr>
+<td>Código del país</td>
+<td>Valores admitidos</td>
+</tr>
+<tr>
+<td>US</td>
+<td>
+<p>9 dígitos</p>
+<p>//FW seguido de 9 dígitos</p>
+<p>FW seguido de 9 dígitos</p>
+</td>
+</tr>
+<tr>
+<td>DE</td>
+<td>
+<p>8 dígitos</p>
+<p>//BL seguido de 8 dígitos</p>
+<p>BL seguido de 8 dígitos</p>
+</td>
+</tr>
+<tr>
+<td>GB</td>
+<td>
+<p>6 dígitos</p>
+<p>//SC seguido de 6 dígitos</p>
+<p>SC seguido de 6 dígitos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A11</p>
+<p>295-305</p>
+</td>
+<td>Banco del beneficiario. Código BIC/SWIFT.</td>
+<td colspan="2">BIC/SWIFT en vigor. Hay que grabar dicho código, excepto cuando el banco del beneficiario haya comunicado que no dispone de él.</td>
+</tr>
+<tr>
+<td>
+<p>A35</p>
+<p>306-340</p>
+</td>
+<td>Domicilio Banco Beneficiario.</td>
+<td colspan="2">Opcional. Dirección (Calle) del Banco del Beneficiario.</td>
+</tr>
+<tr>
+<td>
+<p>A35</p>
+<p>341-375</p>
+</td>
+<td>Ciudad Banco Beneficiario.</td>
+<td colspan="2">Opcional. Ciudad del Banco del Beneficiario.</td>
+</tr>
+<tr>
+<td>
+<p>A35</p>
+<p>376-410</p>
+</td>
+<td>País Banco Beneficiario.</td>
+<td colspan="2">Opcional. País del Banco del Beneficiario.</td>
+</tr>
+<tr>
+<td>
+<p>A2</p>
+<p>411-412</p>
+</td>
+<td>Código País Banco Beneficiario.</td>
+<td colspan="2">Código del País del Banco del Beneficiario según la codificación ISO 3166-1 alfa-2.</td>
+</tr>
+<tr>
+<td>
+<p>A34</p>
+<p>413-446</p>
+</td>
+<td>Número de cuenta del beneficiario.</td>
+<td colspan="2">
+<p>Identificación de la cuenta que el beneficiario mantiene en el banco del beneficiario. En pagos realizados en España será obligatorio el formato IBAN.</p>
+<p>Cuando se trate de un formato en código IBAN su estructura está formada por un conjunto máximo de 34 caracteres alfanuméricos contiguos que contienen los siguientes elementos consecutivos:</p>
+<p>– Código de país: código de dos letras especificado en la norma ISO 3166 del país en el que se encuentra el banco/sucursal que utiliza el IBAN. En España, será siempre ES.</p>
+<p>– Dígitos de Control, serán dos dígitos de control calculados según lo especificado.</p>
+<p>– Código Básico de Cuenta Bancaria (BBAN), hasta 30 caracteres alfanuméricos, del 0 al 9, de la A a la Z (únicamente mayúsculas), sin espacios de separación. El BBAN posee un número de caracteres específico por país, y la identificación de la Entidad y Oficina que tienen la cuenta, se recogen en posiciones fijas.</p>
+<p>En el caso de España, serán los 20 dígitos del Código Cuenta Cliente (C.C.C.). Por lo tanto, el IBAN español estará formado por 24 posiciones alfanuméricas.</p>
+<p>Ejemplo: ES0700120345030000067890</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A1</p>
+<p>447-447</p>
+</td>
+<td>Marca IBAN.</td>
+<td colspan="2">
+<p>Los valores posibles son:</p>
+<p>– I: El número de cuenta del beneficiario es un IBAN.</p>
+<p>– N: El número de cuenta del beneficiario no es un IBAN.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A70</p>
+<p>448-517</p>
+</td>
+<td>Nombre del Banco Intermediario.</td>
+<td colspan="2">Campo Opcional. Nombre del Banco Intermediario del Beneficiario donde se realizará el Pago.</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>A33</p>
+<p>518-550</p>
+</td>
+<td rowspan="5">Banco Intermediario del beneficiario. Código doméstico.</td>
+<td colspan="2">Campo opcional. Será el código de identificación del banco en su sistema doméstico de compensación. Se admitirán los siguientes valores en función del país del banco del beneficiario:</td>
+</tr>
+<tr>
+<td>Código del país</td>
+<td>Valores admitidos</td>
+</tr>
+<tr>
+<td>US</td>
+<td>
+<p>9 dígitos</p>
+<p>//FW seguido de 9 dígitos</p>
+<p>FW seguido de 9 dígitos</p>
+</td>
+</tr>
+<tr>
+<td>DE</td>
+<td>
+<p>8 dígitos</p>
+<p>//BL seguido de 8 dígitos</p>
+<p>BL seguido de 8 dígitos</p>
+</td>
+</tr>
+<tr>
+<td>GB</td>
+<td>
+<p>6 dígitos</p>
+<p>//SC seguido de 6 dígitos</p>
+<p>SC seguido de 6 dígitos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A11</p>
+<p>551-561</p>
+</td>
+<td>Banco Intermediario del beneficiario. Código BIC/SWIFT.</td>
+<td colspan="2">Campo opcional. Cuando tenga contenido deberá ser un BIC/SWIFT en vigor.</td>
+</tr>
+<tr>
+<td>
+<p>A35</p>
+<p>562-596</p>
+</td>
+<td>Domicilio Banco Intermediario Beneficiario.</td>
+<td colspan="2">Campo Opcional. Dirección (Calle) del Banco Intermediario del Beneficiario.</td>
+</tr>
+<tr>
+<td>
+<p>A35</p>
+<p>597-631</p>
+</td>
+<td>Ciudad Banco Intermediario Beneficiario.</td>
+<td colspan="2">Campo Opcional. Ciudad del Banco Intermediario del Beneficiario.</td>
+</tr>
+<tr>
+<td>
+<p>A35</p>
+<p>632-666</p>
+</td>
+<td>País Banco Intermediario Beneficiario.</td>
+<td colspan="2">Campo Opcional. País del Banco Intermediario del Beneficiario.</td>
+</tr>
+<tr>
+<td>
+<p>A2</p>
+<p>667-668</p>
+</td>
+<td>Código País Banco Intermediario Beneficiario.</td>
+<td colspan="2">Campo Opcional Código del País del Banco Intermediario del Beneficiario según la codificación ISO 3166-1 alfa-2.</td>
+</tr>
+<tr>
+<td>
+<p>A34</p>
+<p>669-702</p>
+</td>
+<td>Número de cuenta en Banco Intermediario.</td>
+<td colspan="2">Campo opcional. Identifica la cuenta que el banco del beneficiario mantiene en el banco intermediario. No se dará este dato si no se utiliza el banco intermediario.</td>
+</tr>
+<tr>
+<td>
+<p>A3</p>
+<p>703-705</p>
+</td>
+<td>Moneda.</td>
+<td colspan="2">Código de la Moneda en la que se efectuará el pago. Será una de las incluidas en las Normas para el intercambio de soportes entre el Banco de España y la Dirección General del Tesoro y Política Financiera.–Operaciones con el Exterior.</td>
+</tr>
+<tr>
+<td>
+<p>N13,2</p>
+<p>706-720</p>
+</td>
+<td>Importe en divisas.</td>
+<td colspan="2">
+<p>Importe del pago en la divisa establecida en el campo Moneda.</p>
+<p>El importe vendrá sin punto decimal. Será 0 para las propuestas cuyos Tipos de pago sean 30, 31 o 32. Y vendrá relleno para propuestas cuyos Tipos de pago sean 33, 34 o 35, excepto cuando se trate de multianexos y de la moneda 978.</p>
+<p>No se admiten valores negativos.</p>
+<p>No todas las monedas permiten el empleo de decimales; en la mayoría se aceptan hasta dos, pero en algunas no se acepta ninguno. Cuando la moneda no permita decimales las dos últimas posiciones deben ser cero. Se comprobará la coherencia entre los decimales distintos de cero de este campo y la moneda. Ejemplo: no se admitiría que un importe en yenes japoneses (moneda 392) presente alguna cifra decimal distinta de cero.</p>
+<p>Se comprobará la coherencia con el Tipo de Cambio.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>N13,2</p>
+<p>721-735</p>
+</td>
+<td>Importe en euros.</td>
+<td colspan="2">
+<p>Importe del pago en la moneda doméstica (euros).</p>
+<p>El importe vendrá sin punto decimal.</p>
+<p>No se admiten valores negativos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>N6,6</p>
+<p>736-747</p>
+</td>
+<td>Tipo de Cambio.</td>
+<td colspan="2">
+<p>Obligatorio si el importe Divisas está relleno.</p>
+<p>El importe vendrá sin punto decimal.</p>
+<p>No se admite valores negativos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>N7</p>
+<p>748-754</p>
+</td>
+<td>Clave de autenticación.</td>
+<td colspan="2">Se determina según lo establecido por el algoritmo y las claves que se suministran por la Dirección General de Tesoro y Política Financiera a cada entidad usuaria del sistema.</td>
+</tr>
+<tr>
+<td>
+<p>N5</p>
+<p>755-759</p>
+</td>
+<td>Número de secuencia.</td>
+<td colspan="2">Se exigirá que este número sea consecutivo comenzando por el número 1.</td>
+</tr>
+<tr>
+<td>
+<p>A1</p>
+<p>760-760</p>
+</td>
+<td>Órgano AGE.</td>
+<td colspan="2">
+<p>Los valores posibles son:</p>
+<p>– S: El beneficiario es un órgano de la A.G.E.</p>
+<p>– N: En caso contrario.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A14</p>
+<p>761-774</p>
+</td>
+<td>NIF beneficiario.</td>
+<td colspan="2">
+<p>Su formato es ES000 + NIF</p>
+<p>Obligatorio para personas físicas o jurídicas que tengan NIF/NIE español.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A226</p>
+<p>775-1000</p>
+</td>
+<td>FILLER.</td>
+<td colspan="2">Disponible para uso futuro.</td>
+</tr>
+</tbody>
+</table>
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 238, de 5 de octubre de 2021. [Ref. BOE-A-2021-16143](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16143)
+
+## ANEXO II — Modelo de cuenta justificativa
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/225/15176_10340009_1.png)

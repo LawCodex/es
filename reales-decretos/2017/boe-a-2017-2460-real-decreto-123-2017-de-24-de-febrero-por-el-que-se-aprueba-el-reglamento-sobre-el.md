@@ -1804,191 +1804,184 @@ c) A la distancia mínima a la que podrán instalarse transmisores radioeléctri
 
 En el siguiente cuadro se establecen las limitaciones máximas exigibles en distancia entre las antenas transmisoras de estaciones radioeléctricas y las antenas receptoras de la estación a proteger:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_7">
-<col class="row_column_8">
-<col class="row_column_9">
-<col class="row_column_10">
-<col class="row_column_11">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_12">
+<tr>
 <td>
-<p class="cabeza_tabla">Gama de</p>
-<p class="cabeza_tabla">frecuencias (f)</p>
+<p>Gama de</p>
+<p>frecuencias (f)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Servicio</p>
-<p class="cabeza_tabla">perturbador</p>
+<p>Servicio</p>
+<p>perturbador</p>
 </td>
 <td>
-<p class="cabeza_tabla">Rango de potencia radiada aparente (P) del transmisor en dirección a la estación a proteger</p>
+<p>Rango de potencia radiada aparente (P) del transmisor en dirección a la estación a proteger</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Distancia mínima entre la antena del transmisor y la estación a proteger</p>
+<p>Distancia mínima entre la antena del transmisor y la estación a proteger</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_13">
+<tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">f ≤ 30 MHz</p>
+<p>f ≤ 30 MHz</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">Radiodifusión</p>
+<p>Radiodifusión</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,01 kW &lt; P ≤ 1 kW</p>
+<p>0,01 kW &lt; P ≤ 1 kW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2 km</p>
+<p>2 km</p>
 </td>
 <td rowspan="3"> </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1 kW &lt; P ≤ 10 kW</p>
+<p>1 kW &lt; P ≤ 10 kW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10 km</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_centro">10 kW &lt; P</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20 km</p>
+<p>10 km</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
+<td>
+<p>10 kW &lt; P</p>
+</td>
+<td>
+<p>20 km</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Otros servicios</p>
+<p>Otros servicios</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,01 kW &lt; P ≤ 1 kW</p>
+<p>0,01 kW &lt; P ≤ 1 kW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2 km</p>
+<p>2 km</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1 km con CRE</p>
+<p>1 km con CRE</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1 kW &lt; P</p>
+<p>1 kW &lt; P</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10 km</p>
+<p>10 km</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5 km con CRE</p>
+<p>5 km con CRE</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">30 MHz &lt; f ≤ 3 GHz</p>
+<p>30 MHz &lt; f ≤ 3 GHz</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">Radiodifusión</p>
-<p class="cuerpo_tabla_centro">Radiolocalización</p>
-<p class="cuerpo_tabla_centro">Investigación espacial (T-e)</p>
+<p>Radiodifusión</p>
+<p>Radiolocalización</p>
+<p>Investigación espacial (T-e)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,01 kW &lt; P ≤ 1 kW</p>
+<p>0,01 kW &lt; P ≤ 1 kW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1 km</p>
+<p>1 km</p>
 </td>
 <td rowspan="3"> </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1 kW &lt; P ≤ 10 kW</p>
+<p>1 kW &lt; P ≤ 10 kW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2 km</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_centro">10 kW &lt; P</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5 km</p>
+<p>2 km</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
+<td>
+<p>10 kW &lt; P</p>
+</td>
+<td>
+<p>5 km</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Otros servicios</p>
+<p>Otros servicios</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,01 kW &lt; P ≤ 1 kW</p>
+<p>0,01 kW &lt; P ≤ 1 kW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1 km</p>
+<p>1 km</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,3 km con CRE</p>
+<p>0,3 km con CRE</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1 kW &lt; P</p>
+<p>1 kW &lt; P</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2 km</p>
+<p>2 km</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1 km con CRE</p>
+<p>1 km con CRE</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">3 GHz &lt; f</p>
+<p>3 GHz &lt; f</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">Radiolocalización</p>
-<p class="cuerpo_tabla_centro">Investigación espacial (T-e)</p>
+<p>Radiolocalización</p>
+<p>Investigación espacial (T-e)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,001 kW &lt; P ≤ 1 kW</p>
+<p>0,001 kW &lt; P ≤ 1 kW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1 km</p>
+<p>1 km</p>
 </td>
 <td rowspan="3"> </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1 kW &lt; P ≤ 10 kW</p>
+<p>1 kW &lt; P ≤ 10 kW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2 km</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_centro">10 kW &lt; P</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5 km</p>
+<p>2 km</p>
 </td>
 </tr>
-<tr class="row_column_13">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Otros servicios</p>
+<p>10 kW &lt; P</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,001 kW &lt; P</p>
+<p>5 km</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Otros servicios</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1 km</p>
+<p>0,001 kW &lt; P</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,2 km con CRE</p>
+<p>1 km</p>
+</td>
+<td>
+<p>0,2 km con CRE</p>
 </td>
 </tr>
 </tbody>

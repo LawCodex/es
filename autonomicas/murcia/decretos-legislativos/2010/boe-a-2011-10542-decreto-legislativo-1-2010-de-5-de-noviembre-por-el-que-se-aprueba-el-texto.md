@@ -1747,66 +1747,66 @@ Cuando la base liquidable sea superior a 60.000,00 euros la cuota íntegra será
 
 1\. En el período impositivo 2020 se aplicarán las siguientes cuotas fijas reducidas de la tasa fiscal sobre los juegos de suerte, envite o azar y apuestas:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Máquinas tipo ''B'' o recreativas con premio en especie, llamadas grúas, cascadas o similares, así como las expendedoras que incluyan algún elemento de juego, apuesta, envite, azar o habilidad del jugador que condicione la obtención del premio.</td>
-<td class="cuerpo_tabla_izq">Cuota anual: 3.000,00 euros.</td>
+<td>Máquinas tipo ''B'' o recreativas con premio en especie, llamadas grúas, cascadas o similares, así como las expendedoras que incluyan algún elemento de juego, apuesta, envite, azar o habilidad del jugador que condicione la obtención del premio.</td>
+<td>Cuota anual: 3.000,00 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máquinas tipo ''B'' o recreativas con premio en metálico.</td>
+<td colspan="2">Máquinas tipo ''B'' o recreativas con premio en metálico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En general.</td>
-<td class="cuerpo_tabla_izq">Cuota anual: 3.000,00 euros.</td>
+<td>En general.</td>
+<td>Cuota anual: 3.000,00 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máquinas de tipo ''B'' en las que puedan intervenir dos o más jugadores de forma simultánea, y siempre que el juego de cada uno de ellos sea independiente del realizado por los otros jugadores.</td>
-<td class="cuerpo_tabla_izq">Cuota anual: 3.000 euros, más un incremento del 15% de esta cantidad por cada nuevo jugador a partir del primero.</td>
+<td>Máquinas de tipo ''B'' en las que puedan intervenir dos o más jugadores de forma simultánea, y siempre que el juego de cada uno de ellos sea independiente del realizado por los otros jugadores.</td>
+<td>Cuota anual: 3.000 euros, más un incremento del 15% de esta cantidad por cada nuevo jugador a partir del primero.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máquinas tipo ''C'' o de azar.</td>
+<td colspan="2">Máquinas tipo ''C'' o de azar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En general.</td>
-<td class="cuerpo_tabla_izq">Cuota anual: 4.400 euros, por cada máquina y jugador.</td>
+<td>En general.</td>
+<td>Cuota anual: 4.400 euros, por cada máquina y jugador.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="1">Máquinas de tipo ''C'' en las que puedan intervenir dos o más jugadores de forma simultánea, y siempre que el juego de cada uno de ellos sea independiente del realizado por los otros jugadores, será de aplicación la cuota siguiente.</td>
-<td class="cuerpo_tabla_izq">Cuota anual: 4.400 euros, más un incremento del 15% de esta cantidad por cada nuevo jugador a partir del primero.</td>
+<td>Máquinas de tipo ''C'' en las que puedan intervenir dos o más jugadores de forma simultánea, y siempre que el juego de cada uno de ellos sea independiente del realizado por los otros jugadores, será de aplicación la cuota siguiente.</td>
+<td>Cuota anual: 4.400 euros, más un incremento del 15% de esta cantidad por cada nuevo jugador a partir del primero.</td>
 </tr>
 </tbody>
 </table>
 
 2\. En el período impositivo 2021 se aplicarán las siguientes cuotas fijas reducidas de la tasa fiscal sobre los juegos de suerte, envite o azar y apuestas:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Máquinas tipo ''B'' o recreativas con premio en especie, llamadas grúas, cascadas o similares, así como las expendedoras que incluyan algún elemento de juego, apuesta, envite, azar o habilidad del jugador que condicione la obtención del premio.</td>
-<td class="cuerpo_tabla_izq">Cuota anual: 3.200,00 euros.</td>
+<td>Máquinas tipo ''B'' o recreativas con premio en especie, llamadas grúas, cascadas o similares, así como las expendedoras que incluyan algún elemento de juego, apuesta, envite, azar o habilidad del jugador que condicione la obtención del premio.</td>
+<td>Cuota anual: 3.200,00 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máquinas tipo ''B'' o recreativas con premio en metálico.</td>
+<td colspan="2">Máquinas tipo ''B'' o recreativas con premio en metálico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En general.</td>
-<td class="cuerpo_tabla_izq">Cuota anual: 3.200,00 euros.</td>
+<td>En general.</td>
+<td>Cuota anual: 3.200,00 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máquinas de tipo ''B'' en las que puedan intervenir dos o más jugadores de forma simultánea, y siempre que el juego de cada uno de ellos sea independiente del realizado por los otros jugadores.</td>
-<td class="cuerpo_tabla_izq">Cuota anual: 3.200 euros, más un incremento del 18% de esta cantidad por cada nuevo jugador a partir del primero.</td>
+<td>Máquinas de tipo ''B'' en las que puedan intervenir dos o más jugadores de forma simultánea, y siempre que el juego de cada uno de ellos sea independiente del realizado por los otros jugadores.</td>
+<td>Cuota anual: 3.200 euros, más un incremento del 18% de esta cantidad por cada nuevo jugador a partir del primero.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máquinas tipo ''C'' o de azar.</td>
+<td colspan="2">Máquinas tipo ''C'' o de azar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En general.</td>
-<td class="cuerpo_tabla_izq">Cuota anual: 4.700 euros, por cada máquina y jugador.</td>
+<td>En general.</td>
+<td>Cuota anual: 4.700 euros, por cada máquina y jugador.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="1">Máquinas de tipo ''C'' en las que puedan intervenir dos o más jugadores de forma simultánea, y siempre que el juego de cada uno de ellos sea independiente del realizado por los otros jugadores, será de aplicación la cuota siguiente.</td>
-<td class="cuerpo_tabla_izq">Cuota anual: 4.700 euros, más un incremento del 18% de esta cantidad por cada nuevo jugador a partir del primero.</td>
+<td>Máquinas de tipo ''C'' en las que puedan intervenir dos o más jugadores de forma simultánea, y siempre que el juego de cada uno de ellos sea independiente del realizado por los otros jugadores, será de aplicación la cuota siguiente.</td>
+<td>Cuota anual: 4.700 euros, más un incremento del 18% de esta cantidad por cada nuevo jugador a partir del primero.</td>
 </tr>
 </tbody>
 </table>

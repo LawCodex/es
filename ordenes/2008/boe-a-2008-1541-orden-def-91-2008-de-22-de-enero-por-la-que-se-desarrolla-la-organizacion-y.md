@@ -420,101 +420,101 @@ V: Viviendas.
 
 Sede: Vitoria
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Estructura de la DD</p>
+<p>Estructura de la DD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Organización de la SDD</p>
+<p>Organización de la SDD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ámbito Territorial</p>
+<p>Ámbito Territorial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Secretaría General</p>
+<p>Secretaría General</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">ASEJU</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SDD en Vitoria</p>
+<p>ASEJU</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Vitoria</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">SDD en San Sebastián</p>
+<p>SDD en San Sebastián</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">País Vasco</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SDD en Bilbao</p>
+<p>Área de Patrimonio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>País Vasco</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>PA, PD y V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Bilbao</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -524,137 +524,137 @@ Sede: Vitoria
 
 Sede: Barcelona
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Estructura de la DD</p>
+<p>Estructura de la DD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Organización de la SDD</p>
+<p>Organización de la SDD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ámbito Territorial</p>
+<p>Ámbito Territorial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Secretaría General</p>
+<p>Secretaría General</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">ASEJU</p>
+<p>ASEJU</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">SDD en Barcelona</p>
+<p>SDD en Barcelona</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Barcelona</p>
+<p>Provincia de Barcelona</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Barcelona</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cataluña</p>
+<p>Provincia de Barcelona</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Inspección Industrial</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cataluña</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Con CSEL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SDD en Girona</p>
+<p>Área de Patrimonio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Cataluña</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>PA, PD y V</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SDD en Lleida</p>
+<p>Área de Inspección Industrial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Cataluña</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SDD en Tarragona</p>
+<p>SDD en Girona</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Lleida</p>
+</td>
+<td>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Tarragona</p>
+</td>
+<td>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -664,206 +664,206 @@ Sede: Barcelona
 
 Sede: A Coruña
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Estructura de la DD</p>
+<p>Estructura de la DD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Organización de la SDD</p>
+<p>Organización de la SDD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ámbito Territorial</p>
+<p>Ámbito Territorial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Secretaría General</p>
+<p>Secretaría General</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">ASEJU</p>
+<p>ASEJU</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">SDD en A Coruña</p>
+<p>SDD en A Coruña</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de A Coruña, excepto Ferrol</p>
+<p>Provincia de A Coruña, excepto Ferrol</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de A Coruña</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de A Coruña excepto Ferrol, y provincia de Lugo</p>
+<p>Provincia de A Coruña</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p>Con CSEL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Inspección Industrial</p>
+<p>Área de Patrimonio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Galicia, Cantabria y provincia de Vizcaya</p>
+<p>Provincia de A Coruña excepto Ferrol, y provincia de Lugo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>PA, PD y V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Inspección Industrial</p>
+</td>
+<td>
+<p>Galicia, Cantabria y provincia de Vizcaya</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">OFDEL en Ferrol</p>
+<p>OFDEL en Ferrol</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">El Ferrol</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Inspección Industrial</p>
+<p>Área de Patrimonio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincias de A Coruña, Lugo y Ourense; Cantabria y provincia de Vizcaya</p>
+<p>El Ferrol</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SDD en Lugo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>PA, PD y V</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SDD en Ourense</p>
+<p>Área de Inspección Industrial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Provincias de A Coruña, Lugo y Ourense; Cantabria y provincia de Vizcaya</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Lugo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Ourense</p>
+</td>
+<td>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">SDD en Pontevedra</p>
+<p>SDD en Pontevedra</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Pontevedra</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Pontevedra</p>
+<p>Provincia de Pontevedra</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincias de Pontevedra y Ourense</p>
+<p>Provincia de Pontevedra</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p>Con CSEL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Patrimonio</p>
+</td>
+<td>
+<p>Provincias de Pontevedra y Ourense</p>
+</td>
+<td>
+<p>PA, PD y V</p>
 </td>
 </tr>
 </tbody>
@@ -873,375 +873,375 @@ Sede: A Coruña
 
 Sede: Sevilla
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Estructura de la DD</p>
+<p>Estructura de la DD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Organización de la SDD</p>
+<p>Organización de la SDD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ámbito Territorial</p>
+<p>Ámbito Territorial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Secretaría General</p>
+<p>Secretaría General</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">ASEJU</p>
+<p>ASEJU</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">SDD en Sevilla</p>
+<p>SDD en Sevilla</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Sevilla</p>
+<p>Provincia de Sevilla</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Sevilla</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincias de Sevilla y Huelva</p>
+<p>Provincia de Sevilla</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p>Con CSEL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Inspección Industrial</p>
+<p>Área de Patrimonio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Andalucía</p>
+<p>Provincias de Sevilla y Huelva</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>PA, PD y V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Inspección Industrial</p>
+</td>
+<td>
+<p>Andalucía</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">SDD en Almería</p>
+<p>SDD en Almería</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Patrimonio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Almería</p>
+<p>Provincia de Almería</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">SDD en Cádiz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Cádiz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Cádiz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OFDEL en Algeciras</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Campo de Gibraltar</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p>PA, PD y V</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">OFDEL en San Fernando</p>
+<p>SDD en Cádiz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Cádiz excepto Campo de Gibraltar</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Inspección Industrial</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Cádiz</p>
+<p>Provincia de Cádiz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Reclutamiento</p>
+</td>
+<td>
+<p>Provincia de Cádiz</p>
+</td>
+<td>
+<p>Con CSEL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OFDEL en Algeciras</p>
+</td>
+<td>
+<p>Área de Patrimonio</p>
+</td>
+<td>
+<p>Campo de Gibraltar</p>
+</td>
+<td>
+<p>PA, PD y V</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>OFDEL en San Fernando</p>
+</td>
+<td>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Patrimonio</p>
+</td>
+<td>
+<p>Provincia de Cádiz excepto Campo de Gibraltar</p>
+</td>
+<td>
+<p>PA, PD y V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Inspección Industrial</p>
+</td>
+<td>
+<p>Provincia de Cádiz</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">SDD en Córdoba</p>
+<p>SDD en Córdoba</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Córdoba</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Córdoba</p>
+<p>Provincia de Córdoba</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincias de Córdoba y Jaén</p>
+<p>Provincia de Córdoba</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p>Con CSEL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Patrimonio</p>
+</td>
+<td>
+<p>Provincias de Córdoba y Jaén</p>
+</td>
+<td>
+<p>PA, PD y V</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">SDD en Granada</p>
+<p>SDD en Granada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Granada</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Granada</p>
+<p>Provincia de Granada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincias de Granada y Málaga</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Inspección Industrial</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincias de Granada, Córdoba, Jaén y Málaga y Ciudades de Ceuta y Melilla</p>
+<p>Provincia de Granada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SDD en Huelva</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Con CSEL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SDD en Jaén</p>
+<p>Área de Patrimonio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Provincias de Granada y Málaga</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>PA, PD y V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Inspección Industrial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Provincias de Granada, Córdoba, Jaén y Málaga y Ciudades de Ceuta y Melilla</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Huelva</p>
+</td>
+<td>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Jaén</p>
+</td>
+<td>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">SDD en Málaga</p>
+<p>SDD en Málaga</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Málaga</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Málaga</p>
+<p>Provincia de Málaga</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Reclutamiento</p>
+</td>
+<td>
+<p>Provincia de Málaga</p>
+</td>
+<td>
+<p>Con CSEL</p>
 </td>
 </tr>
 </tbody>
@@ -1251,59 +1251,59 @@ Sede: Sevilla
 
 Sede: Oviedo
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Estructura de la DD</p>
+<p>Estructura de la DD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Organización de la SDD</p>
+<p>Organización de la SDD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ámbito Territorial</p>
+<p>Ámbito Territorial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Secretaría General</p>
+<p>Secretaría General</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">SDD en Oviedo</p>
+<p>SDD en Oviedo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Patrimonio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Principado de Asturias y Cantabria</p>
+<p>Principado de Asturias y Cantabria</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p>PA, PD y V</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Inspección Industrial</p>
+<p>Área de Inspección Industrial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Principado de Asturias, Cantabria y provincia de Vizcaya</p>
+<p>Principado de Asturias, Cantabria y provincia de Vizcaya</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -1331,109 +1331,109 @@ Sede: Logroño
 
 Sede: Murcia
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Estructura de la DD</p>
+<p>Estructura de la DD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Organización de la SDD</p>
+<p>Organización de la SDD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ámbito Territorial</p>
+<p>Ámbito Territorial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Secretaría General</p>
+<p>Secretaría General</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">ASEJU</p>
+<p>ASEJU</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">SDD en Murcia</p>
+<p>SDD en Murcia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Región de Murcia</p>
+<p>Región de Murcia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Región de Murcia</p>
+<p>Región de Murcia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p>Con CSEL</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">OFDEL en Cartagena</p>
+<p>OFDEL en Cartagena</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Región de Murcia</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Inspección Industrial</p>
+<p>Área de Patrimonio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Región de Murcia, Alicante e Illes Balears</p>
+<p>Región de Murcia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>PA, PD y V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Inspección Industrial</p>
+</td>
+<td>
+<p>Región de Murcia, Alicante e Illes Balears</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -1443,123 +1443,123 @@ Sede: Murcia
 
 Sede: Valencia
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Estructura de la DD</p>
+<p>Estructura de la DD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Organización de la SDD</p>
+<p>Organización de la SDD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ámbito Territorial</p>
+<p>Ámbito Territorial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Secretaría General</p>
+<p>Secretaría General</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">ASEJU</p>
+<p>ASEJU</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">SDD en Valencia</p>
+<p>SDD en Valencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Valencia</p>
+<p>Provincia de Valencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Valencia</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comunidad Valenciana</p>
+<p>Provincia de Valencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p>Con CSEL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Patrimonio</p>
+</td>
+<td>
+<p>Comunidad Valenciana</p>
+</td>
+<td>
+<p>PA, PD y V</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">SDD en Alicante</p>
+<p>SDD en Alicante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Alicante</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SDD en Castellón de la Plana</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Provincia de Alicante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Con CSEL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Castellón de la Plana</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -1569,135 +1569,135 @@ Sede: Valencia
 
 Sede: Zaragoza
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Estructura de la DD</p>
+<p>Estructura de la DD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Organización de la SDD</p>
+<p>Organización de la SDD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ámbito Territorial</p>
+<p>Ámbito Territorial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Secretaría General</p>
+<p>Secretaría General</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">ASEJU</p>
+<p>ASEJU</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">SDD en Zaragoza</p>
+<p>SDD en Zaragoza</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Zaragoza</p>
+<p>Provincia de Zaragoza</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Zaragoza</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aragón</p>
+<p>Provincia de Zaragoza</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Inspección Industrial</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Aragón y provincias de Lleida y Tarragona</p>
-<p class="cuerpo_tabla_izq">La Rioja, Comunidad Foral de Navarra y País Vasco</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Con CSEL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CIDEF</p>
+<p>Área de Patrimonio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Aragón</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SDD en Huesca</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>PA, PD y V</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SDD en Teruel</p>
+<p>Área de Inspección Industrial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Aragón y provincias de Lleida y Tarragona</p>
+<p>La Rioja, Comunidad Foral de Navarra y País Vasco</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CIDEF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Huesca</p>
+</td>
+<td>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Teruel</p>
+</td>
+<td>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -1707,21 +1707,15 @@ Sede: Zaragoza
 
 Sede: Toledo
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Estructura de la DD</th>
-<th class="cabeza_tabla">Organización de la SDD.</th>
-<th class="cabeza_tabla">Ámbito Territorial</th>
-<th class="cabeza_tabla">Observaciones</th>
+<th>Estructura de la DD</th>
+<th>Organización de la SDD.</th>
+<th>Ámbito Territorial</th>
+<th>Observaciones</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
 <td>Secretaría General</td>
@@ -1797,131 +1791,131 @@ Sede: Toledo
 
 Sede: Las Palmas de Gran Canaria
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Estructura de la DD</p>
+<p>Estructura de la DD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Organización de la SDD</p>
+<p>Organización de la SDD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ámbito Territorial</p>
+<p>Ámbito Territorial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Secretaría General</p>
+<p>Secretaría General</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">ASEJU</p>
+<p>ASEJU</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">SDD en Las Palmas de Gran Canaria</p>
+<p>SDD en Las Palmas de Gran Canaria</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Las Palmas</p>
+<p>Provincia de Las Palmas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Las Palmas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Las Palmas</p>
+<p>Provincia de Las Palmas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p>Con CSEL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Patrimonio</p>
+</td>
+<td>
+<p>Provincia de Las Palmas</p>
+</td>
+<td>
+<p>PA, PD y V</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">SDD en Santa Cruz de Tenerife</p>
+<p>SDD en Santa Cruz de Tenerife</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Tenerife</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Tenerife</p>
+<p>Provincia de Tenerife</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Tenerife</p>
+<p>Provincia de Tenerife</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p>Con CSEL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Patrimonio</p>
+</td>
+<td>
+<p>Provincia de Tenerife</p>
+</td>
+<td>
+<p>PA, PD y V</p>
 </td>
 </tr>
 </tbody>
@@ -1940,84 +1934,84 @@ Sede: Pamplona
 
 Sede: Badajoz
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Estructura de la DD</p>
+<p>Estructura de la DD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Organización de la SDD</p>
+<p>Organización de la SDD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ámbito Territorial</p>
+<p>Ámbito Territorial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Secretaría General</p>
+<p>Secretaría General</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">SDD en Badajoz</p>
+<p>SDD en Badajoz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Badajoz</p>
+<p>Provincia de Badajoz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Badajoz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Extremadura</p>
+<p>Provincia de Badajoz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p>Con CSEL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SDD en Cáceres</p>
+<p>Área de Patrimonio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Extremadura</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>PA, PD y V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Cáceres</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -2027,70 +2021,70 @@ Sede: Badajoz
 
 Sede: Palma
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Estructura de la DD</p>
+<p>Estructura de la DD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Organización de la SDD</p>
+<p>Organización de la SDD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ámbito Territorial</p>
+<p>Ámbito Territorial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Secretaría General</p>
+<p>Secretaría General</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">SDD en Palma</p>
+<p>SDD en Palma</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Illes Balears</p>
+<p>Illes Balears</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Illes Balears</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Illes Balears</p>
+<p>Illes Balears</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p>Con CSEL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Patrimonio</p>
+</td>
+<td>
+<p>Illes Balears</p>
+</td>
+<td>
+<p>PA, PD y V</p>
 </td>
 </tr>
 </tbody>
@@ -2100,117 +2094,117 @@ Sede: Palma
 
 Sede: Madrid
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Estructura de la DD</p>
+<p>Estructura de la DD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Organización de la SDD</p>
+<p>Organización de la SDD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ámbito Territorial</p>
+<p>Ámbito Territorial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Secretaría General</p>
+<p>Secretaría General</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">SDD en Madrid</p>
+<p>SDD en Madrid</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comunidad de Madrid</p>
+<p>Comunidad de Madrid</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Comunidad de Madrid</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CIDEF</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Comunidad de Madrid</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Centro</p>
+<p>Con CSEL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CIDEF</p>
+<p>CIDEF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Periferia</p>
+<p>Centro</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CIDEF</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Periferia</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">OFDEL en Alcalá de Henares</p>
+<p>OFDEL en Alcalá de Henares</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alcalá de Henares y Torrejón</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcalá de Henares y Torrejón</p>
+<p>Alcalá de Henares y Torrejón</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PD y V</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Patrimonio</p>
+</td>
+<td>
+<p>Alcalá de Henares y Torrejón</p>
+</td>
+<td>
+<p>PD y V</p>
 </td>
 </tr>
 </tbody>
@@ -2220,273 +2214,273 @@ Sede: Madrid
 
 Sede: Valladolid
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Estructura de la DD</p>
+<p>Estructura de la DD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Organización de la SDD</p>
+<p>Organización de la SDD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ámbito Territorial</p>
+<p>Ámbito Territorial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Secretaría General</p>
+<p>Secretaría General</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">ASEJU</p>
+<p>ASEJU</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">SDD en Valladolid</p>
+<p>SDD en Valladolid</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Valladolid</p>
+<p>Provincia de Valladolid</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Valladolid</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincias de Valladolid, Ávila, Palencia, Salamanca, Segovia y Zamora</p>
+<p>Provincia de Valladolid</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p>Con CSEL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SDD en Ávila</p>
+<p>Área de Patrimonio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Provincias de Valladolid, Ávila, Palencia, Salamanca, Segovia y Zamora</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>PA, PD y V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Ávila</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">SDD en Burgos</p>
+<p>SDD en Burgos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de Burgos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de Burgos</p>
+<p>Provincia de Burgos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincias de Burgos y Soria</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Inspección Industrial</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comunidad de Castilla y León y País Vasco</p>
+<p>Provincia de Burgos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Con CSEL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Patrimonio</p>
+</td>
+<td>
+<p>Provincias de Burgos y Soria</p>
+</td>
+<td>
+<p>PA, PD y V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Inspección Industrial</p>
+</td>
+<td>
+<p>Comunidad de Castilla y León y País Vasco</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">SDD en León</p>
+<p>SDD en León</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de León</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia de León</p>
+<p>Provincia de León</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provincia de León</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SDD en Palencia</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Provincia de León</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Con CSEL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SDD en Salamanca</p>
+<p>Área de Patrimonio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Provincia de León</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>PA, PD y V</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SDD en Segovia</p>
+<p>SDD en Palencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SDD en Soria</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SDD en Zamora</p>
+<p>SDD en Salamanca</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgano de Apoyo</p>
+<p>Órgano de Apoyo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Segovia</p>
+</td>
+<td>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Soria</p>
+</td>
+<td>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SDD en Zamora</p>
+</td>
+<td>
+<p>Órgano de Apoyo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -2496,70 +2490,70 @@ Sede: Valladolid
 
 Sede: Ceuta
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Estructura de la DD</p>
+<p>Estructura de la DD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Organización de la SDD</p>
+<p>Organización de la SDD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ámbito Territorial</p>
+<p>Ámbito Territorial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Secretaría General</p>
+<p>Secretaría General</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">SDD en Ceuta</p>
+<p>SDD en Ceuta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ciudad de Ceuta</p>
+<p>Ciudad de Ceuta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ciudad de Ceuta</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ciudad de Ceuta</p>
+<p>Ciudad de Ceuta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p>Con CSEL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Patrimonio</p>
+</td>
+<td>
+<p>Ciudad de Ceuta</p>
+</td>
+<td>
+<p>PA, PD y V</p>
 </td>
 </tr>
 </tbody>
@@ -2569,70 +2563,70 @@ Sede: Ceuta
 
 Sede: Melilla
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Estructura de la DD</p>
+<p>Estructura de la DD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Organización de la SDD</p>
+<p>Organización de la SDD</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ámbito Territorial</p>
+<p>Ámbito Territorial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Secretaría General</p>
+<p>Secretaría General</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">SDD en Melilla</p>
+<p>SDD en Melilla</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Área de Personal y apoyo social</p>
+<p>Área de Personal y apoyo social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ciudad de Melilla</p>
+<p>Ciudad de Melilla</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Área de Reclutamiento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ciudad de Melilla</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Con CSEL</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Área de Patrimonio</p>
+<p>Área de Reclutamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ciudad de Melilla</p>
+<p>Ciudad de Melilla</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PA, PD y V</p>
+<p>Con CSEL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Área de Patrimonio</p>
+</td>
+<td>
+<p>Ciudad de Melilla</p>
+</td>
+<td>
+<p>PA, PD y V</p>
 </td>
 </tr>
 </tbody>

@@ -313,121 +313,116 @@ SARA AAGESEN MUÑOZ
 
 ## ANEXO — Tipos de inscripción (listado no exhaustivo)
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="12%">
-<col width="28%">
-<col width="60%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tipo Inscripción</th>
-<th class="cabeza_tabla">Denominación</th>
-<th class="cabeza_tabla">Descripción</th>
+<th>Tipo Inscripción</th>
+<th>Denominación</th>
+<th>Descripción</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_coma">A01</td>
-<td class="cuerpo_tabla_izq">Agente de residuos peligrosos.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde la entidad tenga su sede social de conformidad con el artículo 35.2 de la Ley 7/2022, de 8 de abril.</td>
+<td>A01</td>
+<td>Agente de residuos peligrosos.</td>
+<td rowspan="2">Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde la entidad tenga su sede social de conformidad con el artículo 35.2 de la Ley 7/2022, de 8 de abril.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">A02</td>
-<td class="cuerpo_tabla_izq">Agente de residuos no peligrosos.</td>
+<td>A02</td>
+<td>Agente de residuos no peligrosos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">E01</td>
-<td class="cuerpo_tabla_izq">Gestor de tratamiento de residuos peligrosos.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Inscripción de la autorización por parte de la comunidad o ciudad autónoma donde la entidad tenga su domicilio o sede social de conformidad con el artículo 33.2 de la Ley 7/2022, de 8 de abril.</td>
+<td>E01</td>
+<td>Gestor de tratamiento de residuos peligrosos.</td>
+<td rowspan="2">Inscripción de la autorización por parte de la comunidad o ciudad autónoma donde la entidad tenga su domicilio o sede social de conformidad con el artículo 33.2 de la Ley 7/2022, de 8 de abril.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">E02</td>
-<td class="cuerpo_tabla_izq">Gestor de tratamiento de residuos no peligrosos.</td>
+<td>E02</td>
+<td>Gestor de tratamiento de residuos no peligrosos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">G01</td>
-<td class="cuerpo_tabla_izq">Centro gestor de residuos peligrosos.</td>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">Inscripción de la autorización de instalaciones de recogida y tratamiento de residuos donde esté ubicada dicha instalación y de instalaciones móviles de tratamiento de residuos donde resida la sede social de la persona física o jurídica propietaria de dicha instalación de conformidad con los artículos 33.1 y 33.5 de la Ley 7/2022, de 8 de abril, respectivamente.</p>
-<p class="cuerpo_tabla_izq">Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde se ubique la operación de valorización o eliminación de residuos, de conformidad con el artículo 33.4 de la Ley 7/2022, de 8 de abril.</p>
-<p class="cuerpo_tabla_izq">Para el tipo de inscripción G04, también se incluirán las comunicaciones previas de operaciones de valorización de materiales naturales excavados para su reutilización en operaciones de relleno y obras de conformidad con la Orden APM/1007/2017, de 10 de octubre.</p>
+<td>G01</td>
+<td>Centro gestor de residuos peligrosos.</td>
+<td rowspan="4">
+<p>Inscripción de la autorización de instalaciones de recogida y tratamiento de residuos donde esté ubicada dicha instalación y de instalaciones móviles de tratamiento de residuos donde resida la sede social de la persona física o jurídica propietaria de dicha instalación de conformidad con los artículos 33.1 y 33.5 de la Ley 7/2022, de 8 de abril, respectivamente.</p>
+<p>Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde se ubique la operación de valorización o eliminación de residuos, de conformidad con el artículo 33.4 de la Ley 7/2022, de 8 de abril.</p>
+<p>Para el tipo de inscripción G04, también se incluirán las comunicaciones previas de operaciones de valorización de materiales naturales excavados para su reutilización en operaciones de relleno y obras de conformidad con la Orden APM/1007/2017, de 10 de octubre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">G02</td>
-<td class="cuerpo_tabla_izq">Centro gestor intermedio de residuos peligrosos (almacenamiento).</td>
+<td>G02</td>
+<td>Centro gestor intermedio de residuos peligrosos (almacenamiento).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">G04</td>
-<td class="cuerpo_tabla_izq">Centro gestor de residuos no peligrosos.</td>
+<td>G04</td>
+<td>Centro gestor de residuos no peligrosos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">G05</td>
-<td class="cuerpo_tabla_izq">Centro gestor intermedio de residuos no peligrosos (almacenamiento).</td>
+<td>G05</td>
+<td>Centro gestor intermedio de residuos no peligrosos (almacenamiento).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">G06</td>
-<td class="cuerpo_tabla_izq">Plataforma logística de la distribución.</td>
-<td class="cuerpo_tabla_izq">Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde esté ubicada la plataforma logística de la distribución que almacena residuos como consecuencia de la logística inversa de conformidad con el artículo 35.1.f) de la Ley 7/2022, de 8 de abril.</td>
+<td>G06</td>
+<td>Plataforma logística de la distribución.</td>
+<td>Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde esté ubicada la plataforma logística de la distribución que almacena residuos como consecuencia de la logística inversa de conformidad con el artículo 35.1.f) de la Ley 7/2022, de 8 de abril.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">N01</td>
-<td class="cuerpo_tabla_izq">Negociante de residuos peligrosos.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde la entidad tenga su sede social de conformidad con el artículo 35.2 de la Ley 7/2022, de 8 de abril.</td>
+<td>N01</td>
+<td>Negociante de residuos peligrosos.</td>
+<td rowspan="2">Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde la entidad tenga su sede social de conformidad con el artículo 35.2 de la Ley 7/2022, de 8 de abril.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">N02</td>
-<td class="cuerpo_tabla_izq">Negociante de residuos no peligrosos.</td>
+<td>N02</td>
+<td>Negociante de residuos no peligrosos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">P01</td>
-<td class="cuerpo_tabla_izq">Productor de residuos peligrosos.</td>
-<td class="cuerpo_tabla_izq">Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde esté ubicado el centro productor de residuos de conformidad con el artículo 35.1.a) de la Ley 7/2022, de 8 de abril.</td>
+<td>P01</td>
+<td>Productor de residuos peligrosos.</td>
+<td>Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde esté ubicado el centro productor de residuos de conformidad con el artículo 35.1.a) de la Ley 7/2022, de 8 de abril.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">P02</td>
-<td class="cuerpo_tabla_izq">Pequeño productor de residuos peligrosos.</td>
-<td class="cuerpo_tabla_izq">Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde esté ubicado el centro productor de residuos de conformidad con el artículo 35.1.a) de la Ley 7/2022, de 8 de abril. Se procede a diferenciar a los productores de residuos peligrosos que generen menos de 10 toneladas al año y que se encuentran exentos de plan de minimización y suscripción de seguro u otra garantía financiera de conformidad con los artículos 18.7 y 20.6 de la Ley 7/2022, de 8 de abril, respectivamente.</td>
+<td>P02</td>
+<td>Pequeño productor de residuos peligrosos.</td>
+<td>Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde esté ubicado el centro productor de residuos de conformidad con el artículo 35.1.a) de la Ley 7/2022, de 8 de abril. Se procede a diferenciar a los productores de residuos peligrosos que generen menos de 10 toneladas al año y que se encuentran exentos de plan de minimización y suscripción de seguro u otra garantía financiera de conformidad con los artículos 18.7 y 20.6 de la Ley 7/2022, de 8 de abril, respectivamente.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">P03</td>
-<td class="cuerpo_tabla_izq">Productor de residuos no peligrosos.</td>
-<td class="cuerpo_tabla_izq">Inscripción de la comunicación previa por parte de la comunidad o ciudad autónomas donde esté ubicado el centro productor de residuos de conformidad con el artículo 35.1.b) de la Ley 7/2022, de 8 de abril.</td>
+<td>P03</td>
+<td>Productor de residuos no peligrosos.</td>
+<td>Inscripción de la comunicación previa por parte de la comunidad o ciudad autónomas donde esté ubicado el centro productor de residuos de conformidad con el artículo 35.1.b) de la Ley 7/2022, de 8 de abril.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">P04</td>
-<td class="cuerpo_tabla_izq">Actividad productora de residuos no peligrosos en cantidad de 1000 toneladas anuales o inferior no sometida al régimen de comunicación previa.</td>
-<td class="cuerpo_tabla_izq">Inscripción de la información por parte de la comunidad o ciudad autónoma donde esté ubicado el centro productor de residuos de conformidad con la disposición adicional primera.</td>
+<td>P04</td>
+<td>Actividad productora de residuos no peligrosos en cantidad de 1000 toneladas anuales o inferior no sometida al régimen de comunicación previa.</td>
+<td>Inscripción de la información por parte de la comunidad o ciudad autónoma donde esté ubicado el centro productor de residuos de conformidad con la disposición adicional primera.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">P05</td>
-<td class="cuerpo_tabla_izq">Poseedor de residuos no sometido a régimen de autorización o comunicación previa.</td>
-<td class="cuerpo_tabla_izq">Inscripción de la información por parte de la comunidad o ciudad autónoma donde esté ubicado el centro poseedor de residuos de conformidad con la disposición adicional primera.</td>
+<td>P05</td>
+<td>Poseedor de residuos no sometido a régimen de autorización o comunicación previa.</td>
+<td>Inscripción de la información por parte de la comunidad o ciudad autónoma donde esté ubicado el centro poseedor de residuos de conformidad con la disposición adicional primera.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">PM</td>
-<td class="cuerpo_tabla_izq">Instalación móvil de tratamiento de residuos.</td>
-<td class="cuerpo_tabla_izq">Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde se vayan a realizar operaciones de tratamiento de residuos a través de una instalación móvil de conformidad con el artículo 35.1.e) de la Ley 7/2022, de 8 de abril.</td>
+<td>PM</td>
+<td>Instalación móvil de tratamiento de residuos.</td>
+<td>Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde se vayan a realizar operaciones de tratamiento de residuos a través de una instalación móvil de conformidad con el artículo 35.1.e) de la Ley 7/2022, de 8 de abril.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">T01</td>
-<td class="cuerpo_tabla_izq">Transportista de residuos peligrosos con carácter profesional.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde la entidad tenga su sede social de conformidad con el artículo 35.2 de la Ley 7/2022, de 8 de abril.</td>
+<td>T01</td>
+<td>Transportista de residuos peligrosos con carácter profesional.</td>
+<td rowspan="2">Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde la entidad tenga su sede social de conformidad con el artículo 35.2 de la Ley 7/2022, de 8 de abril.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">T02</td>
-<td class="cuerpo_tabla_izq">Transportista de residuos no peligrosos con carácter profesional.</td>
+<td>T02</td>
+<td>Transportista de residuos no peligrosos con carácter profesional.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">SIR</td>
-<td class="cuerpo_tabla_izq">Sistema individual de responsabilidad ampliada.</td>
-<td class="cuerpo_tabla_izq">Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde la entidad tenga su sede social de conformidad con el artículo 49 de la Ley 7/2022, de 8 de abril.</td>
+<td>SIR</td>
+<td>Sistema individual de responsabilidad ampliada.</td>
+<td>Inscripción de la comunicación previa por parte de la comunidad o ciudad autónoma donde la entidad tenga su sede social de conformidad con el artículo 49 de la Ley 7/2022, de 8 de abril.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">SCR</td>
-<td class="cuerpo_tabla_izq">Sistema colectivo de responsabilidad ampliada.</td>
-<td class="cuerpo_tabla_izq">Inscripción de la autorización por parte de la comunidad o ciudad autónoma donde tenga su sede social de conformidad con el artículo 50.2 de la Ley 7/2022, de 8 de abril.</td>
+<td>SCR</td>
+<td>Sistema colectivo de responsabilidad ampliada.</td>
+<td>Inscripción de la autorización por parte de la comunidad o ciudad autónoma donde tenga su sede social de conformidad con el artículo 50.2 de la Ley 7/2022, de 8 de abril.</td>
 </tr>
 </tbody>
 </table>

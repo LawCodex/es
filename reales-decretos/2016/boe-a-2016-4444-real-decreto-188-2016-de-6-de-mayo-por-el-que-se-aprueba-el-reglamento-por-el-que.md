@@ -1036,8 +1036,6 @@ Contenido y formato de la etiqueta
 
 3\. El aspecto de la etiqueta puede presentar distintas variaciones (por ejemplo, el color, ser sólida o hueca, el grosor de la línea), siempre que siga siendo visible y legible. Si la etiqueta se reduce o amplía se mantendrán las proporciones establecidas en el dibujo del punto 1 de la presente Parte. La dimensión “a” mencionada en el punto 1 de la presente Parte será igual o superior a 7 mm, independientemente de la variación.
 
-> Téngase en cuenta que el Real Decreto 442/2024, de 30 de abril, por el que se añade este Anexo I bis, será de aplicación a partir del día 28 de diciembre de 2024 para las categorías o clases de equipos radioeléctricos a que se refiere la parte I, apartado 1, puntos 1.1 a 1.12, y a partir del día 28 de abril de 2026 para las categorías o clases de equipos radioeléctricos a que se refiere la parte I, punto 1.13, según establece la disposición final 3.2 del mismo. [Ref. BOE-A-2024-8714](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-8714)
-
 > Se añade por el art. único.9 del Real Decreto 442/2024, de 30 de abril. [Ref. BOE-A-2024-8714](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-8714)
 
 > Téngase en cuenta para su aplicación la disposición final 3.2 del citado Real Decreto.

@@ -658,53 +658,39 @@ Y para que conste a los efectos oportunos, firma la presente declaración, a fec
 
 [Firma electrónica del titular]
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="8%">
-<col width="5%">
-<col width="5%">
-<col width="10%">
-<col width="8%">
-<col width="10%">
-<col width="6%">
-<col width="8%">
-<col width="8%">
-<col width="10%">
-<col width="10%">
-<col width="12%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Periodo</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Proveedor registrado (PR)</th>
-<th class="cabeza_tabla">NIF (PR)</th>
-<th class="cabeza_tabla">Procedencia</th>
-<th class="cabeza_tabla">Alias</th>
-<th class="cabeza_tabla">Tipo mensaje</th>
-<th class="cabeza_tabla">Motivo bloqueo</th>
-<th class="cabeza_tabla">Mensajes bloqueados</th>
-<th class="cabeza_tabla">Mensajes no bloqueados</th>
-<th class="cabeza_tabla">Observaciones</th>
+<th>Periodo</th>
+<th> </th>
+<th> </th>
+<th>Proveedor registrado (PR)</th>
+<th>NIF (PR)</th>
+<th>Procedencia</th>
+<th>Alias</th>
+<th>Tipo mensaje</th>
+<th>Motivo bloqueo</th>
+<th>Mensajes bloqueados</th>
+<th>Mensajes no bloqueados</th>
+<th>Observaciones</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <p> </p>
 <p> </p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>

@@ -1597,534 +1597,534 @@ G. EQUIPAMIENTO ELÉCTRICO
 
 Como consecuencia de la inspección realizada sobre el vehículo, y cuyo detalle figura en la parte II de este documento, se ha determinado que los siguientes elementos del vehículo respecto de los requerimientos establecidos en los correspondientes apartados del ADR y reglamentación vigente (véase Nota 1 al final de esta parte I): cumplen (S), No cumplen (N) o no le son de aplicación (NA).
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cabeza_tabla">APARTADOS ADR</p>
+<p>APARTADOS ADR</p>
 </td>
 <td>
-<p class="cabeza_tabla">REQUERIMIENTOS</p>
+<p>REQUERIMIENTOS</p>
 </td>
 <td>
-<p class="cabeza_tabla">S/N/NA</p>
+<p>S/N/NA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="22">
-<p class="cuerpo_tabla_centro">H</p>
+<p>H</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">SOBRE VEHÍCULO</p>
+<p>SOBRE VEHÍCULO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">EQUIPAMIENTO ELÉCTRICO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.2.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">CANALIZACIONES</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.2.2.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">DESCONECTADOR DE BATERÍAS</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.2.2.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BATERÍAS</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.2.2.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">CIRCUITOS CON ALIMENTACIÓN PERMANENTE</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.2.2.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">INSTALACIÓN ELÉCTRICA COLOCADA EN LA PARTE POSTERIOR DE LA CABINA DE CONDUCCIÓN.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">EQUIPAMIENTO DE FRENADO</p>
+<p>EQUIPAMIENTO ELÉCTRICO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.2.3.1</p>
+<p>9.2.2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">REGLAMENTO ECE N.° 130 DIRECTIVA 71/320/CEE, DE ACUERDO CON LAS FECHAS DE APLICACIÓN QUE FIGURAN EN EL REAL DECRETO 2028/1986, DE 6 DE JUNIO</p>
+<p>CANALIZACIONES</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.2.3.1</p>
+<p>9.2.2.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DISPOSITIVO DE FRENADO ANTIBLOQUEO</p>
+<p>DESCONECTADOR DE BATERÍAS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.2.3.1</p>
+<p>9.2.2.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DISPOSITIVO DE FRENADO DE RESISTENCIA</p>
+<p>BATERÍAS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.2.3.2</p>
+<p>9.2.2.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(SIN CONTENIDO)</p>
+<p>CIRCUITOS CON ALIMENTACIÓN PERMANENTE</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">PREVENCIÓN DE LOS RIESGOS DE INCENDIO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.2.4.2</p>
+<p>9.2.2.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CABINA</p>
+<p>INSTALACIÓN ELÉCTRICA COLOCADA EN LA PARTE POSTERIOR DE LA CABINA DE CONDUCCIÓN.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.2.4.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">DEPÓSITOS DE CARBURANTE</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.2.4.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">MOTOR</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.2.4.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">DISPOSITIVO DE ESCAPE</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.2.4.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">FRENO DE RESISTENCIA DEL VEHÍCULO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.2.4.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">CALEFACCIONES A COMBUSTIÓN</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">OTROS EQUIPOS</p>
+<p>EQUIPAMIENTO DE FRENADO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.2.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">DISPOSITIVO DE LIMITACIÓN DE VELOCIDAD</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.2.6</p>
+<p>9.2.3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DISPOSITIVO DE ENGANCHE DEL REMOLQUE</p>
+<p>REGLAMENTO ECE N.° 130 DIRECTIVA 71/320/CEE, DE ACUERDO CON LAS FECHAS DE APLICACIÓN QUE FIGURAN EN EL REAL DECRETO 2028/1986, DE 6 DE JUNIO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.2.3.1</p>
+</td>
+<td>
+<p>DISPOSITIVO DE FRENADO ANTIBLOQUEO</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.2.3.1</p>
+</td>
+<td>
+<p>DISPOSITIVO DE FRENADO DE RESISTENCIA</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.2.3.2</p>
+</td>
+<td>
+<p>(SIN CONTENIDO)</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>PREVENCIÓN DE LOS RIESGOS DE INCENDIO</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.2.4.2</p>
+</td>
+<td>
+<p>CABINA</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.2.4.3</p>
+</td>
+<td>
+<p>DEPÓSITOS DE CARBURANTE</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.2.4.4</p>
+</td>
+<td>
+<p>MOTOR</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.2.4.5</p>
+</td>
+<td>
+<p>DISPOSITIVO DE ESCAPE</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.2.4.6</p>
+</td>
+<td>
+<p>FRENO DE RESISTENCIA DEL VEHÍCULO</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.2.4.7</p>
+</td>
+<td>
+<p>CALEFACCIONES A COMBUSTIÓN</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>OTROS EQUIPOS</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.2.5</p>
+</td>
+<td>
+<p>DISPOSITIVO DE LIMITACIÓN DE VELOCIDAD</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.2.6</p>
+</td>
+<td>
+<p>DISPOSITIVO DE ENGANCHE DEL REMOLQUE</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="8">
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">EN SU CASO, SOBRE VEHÍCULOS EX/II O EX/III COMPLETOS O COMPLETADOS</p>
+<p>EN SU CASO, SOBRE VEHÍCULOS EX/II O EX/III COMPLETOS O COMPLETADOS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.3.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">MATERIALES A UTILIZAR PARA LA CONSTRUCCIÓN DE LA CAJA DE LOS VEHÍCULOS</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.3.2</p>
+<p>9.3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CALEFACCIONES A COMBUSTIÓN</p>
+<p>MATERIALES A UTILIZAR PARA LA CONSTRUCCIÓN DE LA CAJA DE LOS VEHÍCULOS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.3.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">DISEÑO, CONSTRUCCIÓN Y EQUIPAMIENTO DE VEHÍCULOS EX/II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.3.4</p>
+<p>9.3.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DISEÑO, CONSTRUCCIÓN Y EQUIPAMIENTO DE VEHÍCULOS EX/III</p>
+<p>CALEFACCIONES A COMBUSTIÓN</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.3.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">COMPARTIMENTO DE CARGA Y MOTOR DE VEHÍCULOS EX/II Y EX/III</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.3.6</p>
+<p>9.3.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FUENTES EXTERNAS DE CALOR Y COMPARTIMENTO DE CARGA DE VEHÍCULOS EX/II Y EX/III</p>
+<p>DISEÑO, CONSTRUCCIÓN Y EQUIPAMIENTO DE VEHÍCULOS EX/II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.3.7</p>
+<p>9.3.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EQUIPAMIENTO ELÉCTRICO</p>
+<p>DISEÑO, CONSTRUCCIÓN Y EQUIPAMIENTO DE VEHÍCULOS EX/III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.3.5</p>
+</td>
+<td>
+<p>COMPARTIMENTO DE CARGA Y MOTOR DE VEHÍCULOS EX/II Y EX/III</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.3.6</p>
+</td>
+<td>
+<p>FUENTES EXTERNAS DE CALOR Y COMPARTIMENTO DE CARGA DE VEHÍCULOS EX/II Y EX/III</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.3.7</p>
+</td>
+<td>
+<p>EQUIPAMIENTO ELÉCTRICO</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="8">
-<p class="cuerpo_tabla_centro">J</p>
+<p>J</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">EN SU CASO, SOBRE VEHÍCULOS CISTERNA (CISTERNAS FIJAS) VEHÍCULOS BATERÍA Y VEHÍCULOS COMPLETOS O COMPLETADOS UTILIZADOS PARA EL TRANSPORTE DE MERCANCÍAS PELIGROSAS EN CISTERNAS DESMONTABLES CON CAPACIDAD SUPERIOR A 1 METRO CÚBICO O CONTENEDORES CISTERNA, CISTERNAS PORTÁTILES O CGEM DE UNA CAPACIDAD SUPERIOR A 3 METROS CÚBICOS (VEHÍCULOS FL, OX Y AT)</p>
+<p>EN SU CASO, SOBRE VEHÍCULOS CISTERNA (CISTERNAS FIJAS) VEHÍCULOS BATERÍA Y VEHÍCULOS COMPLETOS O COMPLETADOS UTILIZADOS PARA EL TRANSPORTE DE MERCANCÍAS PELIGROSAS EN CISTERNAS DESMONTABLES CON CAPACIDAD SUPERIOR A 1 METRO CÚBICO O CONTENEDORES CISTERNA, CISTERNAS PORTÁTILES O CGEM DE UNA CAPACIDAD SUPERIOR A 3 METROS CÚBICOS (VEHÍCULOS FL, OX Y AT)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.7.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN EL CASO DE CISTERNAS FIJAS METÁLICAS, DE LOS ELEMENTOS DE LOS VEHÍCULOS BATERÍA, DE LAS CISTERNAS FIJAS DE PLÁSTICO REFORZADO, DE LAS CISTERNAS FIJAS DE RESIDUOS QUE OPERAN AL VACÍO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.7.3</p>
+<p>9.7.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MEDIOS DE FIJACIÓN</p>
+<p>EN EL CASO DE CISTERNAS FIJAS METÁLICAS, DE LOS ELEMENTOS DE LOS VEHÍCULOS BATERÍA, DE LAS CISTERNAS FIJAS DE PLÁSTICO REFORZADO, DE LAS CISTERNAS FIJAS DE RESIDUOS QUE OPERAN AL VACÍO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.7.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PUESTA A TIERRA DE VEHÍCULOS FL</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.7.5</p>
+<p>9.7.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ESTABILIDAD DE LOS VEHÍCULOS CISTERNA</p>
+<p>MEDIOS DE FIJACIÓN</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.7.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PROTECCIÓN POSTERIOR DE LOS VEHÍCULOS</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.7.7</p>
+<p>9.7.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CALEFACCIONES A COMBUSTIÓN</p>
+<p>PUESTA A TIERRA DE VEHÍCULOS FL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.7.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EQUIPAMIENTO ELÉCTRICO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">K</p>
+<p>9.7.5</p>
+</td>
+<td>
+<p>ESTABILIDAD DE LOS VEHÍCULOS CISTERNA</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.7.6</p>
+</td>
+<td>
+<p>PROTECCIÓN POSTERIOR DE LOS VEHÍCULOS</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.7.7</p>
+</td>
+<td>
+<p>CALEFACCIONES A COMBUSTIÓN</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.7.8</p>
+</td>
+<td>
+<p>EQUIPAMIENTO ELÉCTRICO</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>K</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">EN SU CASO, SOBRE VEHÍCULOS MEMU COMPLETOS O COMPLETADOS</p>
+<p>EN SU CASO, SOBRE VEHÍCULOS MEMU COMPLETOS O COMPLETADOS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">9.8.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">LAS CISTERNAS, CONTENEDORES PARA GRANEL Y COMPARTIMENTOS ESPECIALES PARA EXPLOSIVOS</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">9.8.3</p>
+<p>9.8.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PUESTA TIERRA DE LOS VEHÍCULOS</p>
+<p>LAS CISTERNAS, CONTENEDORES PARA GRANEL Y COMPARTIMENTOS ESPECIALES PARA EXPLOSIVOS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">9.8.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ESTABILIDAD DE LOS VEHÍCULOS</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">9.8.5</p>
+<p>9.8.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PROTECCIÓN POSTERIOR DE LOS VEHÍCULOS</p>
+<p>PUESTA TIERRA DE LOS VEHÍCULOS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">9.8.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">CALEFACCIÓN A COMBUSTIÓN</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">9.8.7</p>
+<p>9.8.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DISPOSICIONES SUPLEMENTARIAS DE SEGURIDAD</p>
+<p>ESTABILIDAD DE LOS VEHÍCULOS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">9.8.8</p>
+<p>9.8.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DISPOSICIONES SUPLEMENTARIAS DE PROTECCIÓN</p>
+<p>PROTECCIÓN POSTERIOR DE LOS VEHÍCULOS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>9.8.6</p>
+</td>
+<td>
+<p>CALEFACCIÓN A COMBUSTIÓN</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>9.8.7</p>
+</td>
+<td>
+<p>DISPOSICIONES SUPLEMENTARIAS DE SEGURIDAD</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>9.8.8</p>
+</td>
+<td>
+<p>DISPOSICIONES SUPLEMENTARIAS DE PROTECCIÓN</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </table>

@@ -174,38 +174,6 @@ Lo dispuesto en el párrafo anterior decaerá en el supuesto de suscripción de 
 
 **(Derogado).**
 
-> Téngase en cuenta que este artículo se deroga, con efectos de 1 de mayo de 2019, por la disposición derogatoria 2 de la Ley 11/2018, de 21 de diciembre. [Ref. BOE-A-2019-1632](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1632):
-
-> "1. La jornada ordinaria del personal al servicio de instituciones sanitarias del Servicio Cántabro de Salud, que perciba sus retribuciones de conformidad con el Real Decreto-Ley 3/1987, de 11 de septiembre, se incrementará en cómputo anual en relación con la prevista en el Acuerdo del Consejo de Gobierno de 18 de diciembre de 2003, por el que se fija la jornada del personal de Instituciones Sanitarias del Servicio Cántabro de Salud, en los siguientes términos:
-
-> a) 112 horas efectivas en el turno diurno.
-
-> b) 50 horas efectivas en el turno rotatorio.
-
-> c) 70 horas efectivas en el turno nocturno.
-
-> En el caso de personal con jornada en turno diurno, dicho incremento, que se realizará en módulos de duración no inferior a 2,5 horas, podrá hacerse efectivo en horario de mañana, tarde y/o en sábados no festivos en función de las necesidades del servicio.
-
-> 2\. La jornada ordinaria en cómputo del personal que desempeñe sus funciones en los Servicios de Urgencia de Atención Primaria (SUAP) se incrementará en cómputo anual en relación con la prevista en el Acuerdo del Consejo de Gobierno de 30 de diciembre de 2004 por el que se aprueba el «Acuerdo sobre actuaciones en materia de atención primaria» en los siguientes términos:
-
-> – SUAP modelo ordinario [horario de 17 horas a 9 horas (lunes a viernes) y de 9 horas a 9 horas (sábados, domingos y festivos)]: 90 horas efectivas año.
-
-> – SUAP modelo especial [abierto 24 horas todos los días del año]:
-
-> a) Para personal médico y enfermería: 94 horas efectivas.
-
-> b) Para personal celador en el SUAP de Campoo: 92 horas efectivas.
-
-> c) Para personal celador en el SUAP de Castro: 90 horas efectivas.
-
-> 3\. La jornada ordinaria del personal sanitario que desempeñe sus funciones en el Centro Coordinador de Urgencias y en las Unidades Móviles de Emergencias vinculadas al teléfono de emergencias 061 se incrementará en cómputo anual en relación con la prevista en el Acuerdo del Consejo de Gobierno de 23 de diciembre de 2009 en 94 horas efectivas anuales.
-
-> 4\. La jornada ordinaria del personal con relación laboral especial de residencia para la formación especializada en ciencias de la salud se incrementará en cómputo anual en relación con la prevista en el Acuerdo del Consejo de Gobierno de 15 de enero de 2007 en los mismos términos que los previstos en el apartado 1.a) del presente artículo.
-
-> 5\. El incremento de jornada previsto en el presente artículo así como su aplicación en horario de mañana, tarde y/o en sábados no festivos no conllevará en ningún caso el reconocimiento de complemento económico alguno.
-
-> 6\. Mediante Orden de la Consejería competente en materia de sanidad se establecerán los criterios generales para la implantación efectiva de la jornada, previa negociación en el seno de la Mesa Sectorial de Personal de Instituciones Sanitarias."
-
 > Se deroga, con efectos de 1 de mayo de 2019, por la disposición derogatoria 2 de la por Ley 11/2018, de 21 de diciembre. [Ref. BOE-A-2019-1632](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1632)
 
 ### CAPÍTULO VI — Medidas en el ámbito del sector público empresarial y fundacional

@@ -1,0 +1,541 @@
+---
+title: "Orden CUD/769/2018, de 17 de julio, por la que se establecen las bases reguladoras de las ayudas previstas en el Capítulo III de la Ley 55/2007, de 28 de diciembre, del Cine, y se determina la estructura del Registro Administrativo de Empresas Cinematográficas y Audiovisuales"
+identifier: "BOE-A-2018-10176"
+eli: "https://www.boe.es/eli/es/o/2018/07/17/cud769"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Cultura y Deporte"
+date: 2018-07-17
+published: 2018-07-19
+in_force_from: 2018-07-20
+last_amended: 2025-03-05
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 174"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-10176"
+retrieved: 2026-10-11
+---
+
+# Orden CUD/769/2018, de 17 de julio, por la que se establecen las bases reguladoras de las ayudas previstas en el Capítulo III de la Ley 55/2007, de 28 de diciembre, del Cine, y se determina la estructura del Registro Administrativo de Empresas Cinematográficas y Audiovisuales
+
+Incluye corrección de erratas publicada en BOE núm. 180, de 26 de julio de 2018. [Ref. BOE-A-2018-10559](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10559) y corrección de errores publicada por Orden CUD/939/2018, de 10 de septiembre. [Ref. BOE-A-2018-12504](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-12504)
+
+La industria cinematográfica y audiovisual es una de las principales manifestaciones artísticas y de expresión creativa que conforman la entidad cultural de un país y, por ende, elementos constituyentes de su propio imaginario colectivo. Como sector estratégico en el contexto de una economía digital y global, contribuye al avance y a la innovación tecnológica, al desarrollo económico y a la creación de empleo de calidad, junto a su aportación al mantenimiento de la diversidad cultural, tan característica de la propia cultura española. Además, en los últimos años el sector cinematográfico y audiovisual ha contribuido intensamente a fortalecer la Marca España más allá de nuestras fronteras en el marco de recuperación económica actual, reforzando nuestra capacidad exportadora y mejorando así el nivel de vida y bienestar social del conjunto de la ciudadanía española.
+
+El sector cinematográfico y audiovisual está sujeto a numerosos cambios, gran parte de ellos determinados por causas de índole tecnológica y debido a nuevos hábitos de consumo que aconsejan incorporar las nuevas necesidades de fomento del sector.
+
+Esta orden nace desde el consenso con los agentes del sector y recoge la gran mayoría de sus demandas. Supone un nuevo desarrollo del modelo recogido en la anterior Orden ECD/2796/2015, aprobada tras la publicación del Real Decreto-ley 6/2015, de 14 de mayo, por el que se modifica la Ley 55/2007, de 28 de diciembre, del Cine, y la aprobación posterior del Real Decreto 1084/2015, de 4 de diciembre, adecuando la normativa interna en materia de ayudas a la cinematografía y al audiovisual a los principios establecidos en la «Comunicación de la Comisión sobre la Ayuda estatal a las obras cinematográficas y otras producciones del sector audiovisual», publicada en el «Diario Oficial de la Unión Europea» de 15 de noviembre de 2013.
+
+En el contexto del presente marco normativo, se introducen mejoras y novedades en la mayoría de las ayudas, con la intención de crear un sistema de ayudas más armonizado y adaptado a las necesidades que van surgiendo en los diversos ámbitos de la creación, producción, distribución y promoción que aglutinan al sector cinematográfico y audiovisual.
+
+En cuanto a las bases reguladoras comunes a todas las ayudas, contenidas en el capítulo II, las mejoras consisten, entre otras, en clarificar la documentación general que deben presentar los solicitantes en función del tipo de ayuda de que se trate; en establecer la notificación de todos los actos mediante comparecencia en la sede electrónica o a través de la dirección electrónica habilitada única, y en el establecimiento de una nueva manera de difundir la financiación del Gobierno de España en la realización de la actividad, así como la inclusión del sello «Cine Español» como una nueva obligación para los beneficiarios de las ayudas.
+
+En el capítulo III se regulan las bases específicas de las ayudas generales y selectivas para la producción de largometrajes sobre proyecto para cuya obtención debe acreditarse el carácter cultural de los mismos. En este aspecto se da una nueva redacción a los criterios de culturalidad que deben cumplirse como requisito necesario para el acceso a las ayudas y, por otra parte, se equipara la valoración del carácter cultural de los proyectos en ambas modalidades de ayudas, otorgándose puntuación únicamente por el empleo del castellano o lengua cooficial en la versión original de la obra.
+
+Se establece, como novedad, el número máximo de procedimientos selectivos a los que puede concurrir un proyecto, y, asimismo, se establece la posibilidad de que en las convocatorias se limite el número máximo de ayudas que cada productora o sus empresas vinculadas pueden obtener en un ejercicio para fomentar un mejor reparto de las ayudas.
+
+En cuanto a las medidas específicas para las ayudas generales, destaca como novedad el fomento de los largometrajes de carácter documental y de las coproducciones internacionales con países iberoamericanos, al rebajar el coste mínimo exigido para acceder a estas ayudas. Por otra parte, se suavizan ciertos requisitos relativos a la financiación garantizada que debe tener el proyecto para obtener ayuda y se flexibilizan otros de los requisitos de acceso a la misma.
+
+Respecto a los posibles beneficiarios de las ayudas se clarifica quienes pueden serlo, y se establece que cuando sean varias las empresas productoras, únicamente podrán resultar beneficiarias las que ejecuten el gasto y exclusivamente en el porcentaje de su ejecución.
+
+Se aclara y sistematiza la figura del productor-gestor, así como la valoración de la solvencia de la empresa solicitante de la ayuda, tanto en el caso de que se trate de valorar la una empresa productora, de un productor-gestor o de una agrupación de interés económico. A este respecto, también se incluye de manera precisa y sistemática el procedimiento a seguir para efectuar dicha valoración.
+
+Por otra parte se aumenta la puntuación total mínima necesaria para poder acceder a las ayudas, que pasa de 35 puntos a 50, pero como contrapartida se aumenta el porcentaje de la ayuda a percibir en función de lo solicitado, permitiendo que cómo mínimo se pueda acceder al 75% de la ayuda solicitada.
+
+Respecto a las ayudas selectivas, se incluye como novedad una línea específica para proyectos de carácter experimental, con particularidades respecto a su presupuesto máximo y mínimo, requisitos de acceso y valoración de los proyectos.
+
+Para el resto de los proyectos que concurran a las ayudas selectivas, las novedades consisten en facilitar el acceso a los proyectos de animación, para los que se aumenta el límite del coste máximo permitido; y a determinadas coproducciones internacionales con participación española mayoritaria y director español de reconocido prestigio, en cuyo caso no se aplica dicho límite.
+
+Por otra parte, si bien se aumenta el porcentaje de financiación mínima garantizada exigido para el acceso a las ayudas, se matizan del mismo modo que en el caso de las ayudas generales los requisitos de los contratos y aportaciones computables al efecto, así como el resto de obligaciones relativas al estreno en salas de exhibición, que se reducen para el caso de documentales y empleo de lenguas cooficiales distintas del castellano, y, finalmente, se incluye expresamente la posibilidad de valoración de la solvencia en el caso de que el solicitante sea una agrupación de interés económico.
+
+En cuanto a las novedades relativas a los criterios de valoración para otorgar las ayudas, se valora específicamente la trayectoria de los directores de los proyectos, en cuanto a su participación en festivales o en la obtención de premios, para lo cual se amplía sustancialmente el listado de los festivales, premios y honores puntuables. En el caso de las ayudas generales, además se tiene en cuenta a los directores noveles, que también pueden obtener puntuación; y en el caso de las ayudas selectivas, se puntúa a las empresas cuya sede radique en las Islas Canarias.
+
+Por último, en cuanto al fomento de la igualdad de género, se modifican los criterios de valoración de todas las ayudas a la producción, incluyendo las ayudas a cortometrajes, de tal manera que, además de otorgar puntuación a la dirección, al guion y a la producción ejecutiva desempeñada por mujeres, se puntúa por contar con, al menos, un 40% de mujeres en los puestos de dirección de 10 de las categorías más relevantes en la producción de una película. Asimismo se prevé que en caso de que exista coparticipación masculina, la puntuación será proporcional al número de mujeres siempre que se acredite que tienen el mismo nivel de responsabilidad, lo que debe reflejarse expresamente en los títulos de crédito.
+
+El capítulo V es el dedicado a las ayudas a la distribución. En estas ayudas se destaca como novedad la inclusión como gasto subvencionable de las medidas adoptadas contra la piratería, tales como sistemas de prevención y protección contra accesos y descargas ilegales o no autorizados, seguimiento y vigilancia en redes sociales, etc.
+
+También se produce un ajuste en las puntuaciones otorgadas a los diversos criterios de valoración de estas ayudas a la distribución, como de las ayudas para la participación de películas españolas en festivales y para la organización de festivales y certámenes reguladas en los capítulos VI y VII, respectivamente.
+
+Por último, cabe destacar la inclusión en la orden de las ayudas para la conservación del patrimonio cinematográfico y las ayudas a proyectos culturales y de formación no reglada, que se actualizan en los nuevos capítulos VIII y IX. Asimismo, se incluyen los nuevos órganos colegiados correspondientes en el capítulo X que los regula, y se mejora y actualiza la regulación de la estructura del Registro administrativo de empresas cinematográficas y audiovisuales.
+
+En la parte final de la orden, destaca la disposición adicional única, en la que se establece el procedimiento para la obtención del certificado cultural para la aplicación de incentivos fiscales. Asimismo, tras la disposición transitoria primera que prevé la vigencia provisional de las ayudas a la amortización hasta el 31 de diciembre de 2018, la disposición derogatoria única establece la derogación total de la Orden ECD/2796/2015, de 18 de diciembre, y la derogación parcial de la Orden CUL/2834/2009, de 19 de octubre.
+
+En la elaboración de esta norma han sido consultadas las entidades representativas de los sectores afectados y las Comunidades Autónomas.
+
+La gestión centralizada de estas ayudas estatales viene determinada por el especial carácter e interés de las mismas, que justificó su regulación en el capítulo III de la Ley 55/2007, de 28 de diciembre, del Cine como un conjunto de medidas de fomento e incentivos a la cinematografía y al audiovisual fundamentadas en la responsabilidad que asume el Estado de preservar el patrimonio cultural común. En este sentido, y de acuerdo con la jurisprudencia consolidada del Tribunal Constitucional en materia de subvenciones, corresponde al Estado la gestión en los casos en que resulte imprescindible para asegurar su plena efectividad dentro de la ordenación básica del sector. Hay que tener en cuenta que en el ámbito de la cinematografía y del audiovisual, el abanico de sujetos que operan es muy amplio, desde creadores, productores, personal técnico y artístico, industrias técnicas, distribuidores, exhibidores y prestadores del servicio de comunicación audiovisual. Se trata de un sector de características especiales en el que es clave la articulación de medidas que conjuguen, desde una visión general y amplia, las relaciones y los intereses de tan amplio espectro de agentes. Asimismo, la desigual implantación en el territorio de este sector tan heterogéneo hace que resulte necesaria la gestión centralizada de las ayudas para garantizar iguales posibilidades de obtención y disfrute por parte de sus potenciales destinatarios en todo el territorio nacional. Todo ello sin perjuicio de las medidas de fomento que las Comunidades Autónomas puedan establecer de acuerdo con su normativa propia.
+
+La presente norma se adecua a los principios de buena regulación contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Es necesaria y eficaz ya que es el medio más adecuado para actualizar, favorecer y sistematizar las ayudas al sector del cine. Es proporcional porque contiene la regulación necesaria que exige la normativa sobre subvenciones e impone las obligaciones necesarias de acuerdo con dicha normativa. Dota al ordenamiento de seguridad jurídica ya que es coherente, y completa el ordenamiento jurídico de mayor rango normativo con la necesaria aprobación de bases reguladoras mediante orden ministerial de acuerdo con la normativa de subvenciones; asimismo viene a sustituir e integrar la anterior normativa facilitando así su conocimiento y comprensión y, por tanto, la toma de decisiones de personas y empresas. Es transparente porque quedan claros los objetivos de esta iniciativa como se refleja en este preámbulo y porque se ha posibilitado a los destinatarios de la norma su participación activa. Y, por último, es eficiente al evitar cargas administrativas accesorias y racionalizar la regulación y la gestión de los recursos públicos que se destinan al sector del cine.
+
+En cumplimiento de lo previsto en el artículo 17.1 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, esta orden ha sido informada por la Abogacía del Estado y por la Intervención Delegada en el Departamento.
+
+En su virtud, con la aprobación previa de la Ministra de Política Territorial y Función Pública, dispongo:
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Objeto y ámbito.
+
+1\. Esta orden establece las bases reguladoras comunes de las ayudas estatales previstas como medidas de fomento e incentivos a la cinematografía y al audiovisual en el capítulo III de la Ley 55/2007, de 28 de diciembre, del Cine, así como las bases reguladoras específicas de las ayudas generales y selectivas para la producción de largometrajes sobre proyecto, ayudas para la producción de cortometrajes sobre proyecto y realizados, ayudas para la distribución, ayudas para la participación de películas españolas en festivales, ayudas para la organización de festivales y certámenes, ayudas a proyectos culturales y de formación no reglada, y ayudas para la conservación del patrimonio cinematográfico.
+
+2\. Asimismo, regula la estructura del Registro Administrativo de Empresas Cinematográficas y Audiovisuales.
+
+#### Artículo 2. Marco normativo.
+
+Además de por estas bases reguladoras y por el capítulo III de la Ley 55/2007, de 28 de diciembre, del Cine, las ayudas se regirán por lo dispuesto en el capítulo III del Real Decreto 1084/2015, de 4 de diciembre, por el que se desarrolla la Ley 55/2007, de 28 de diciembre, del Cine, por la Ley 38/2003, de 17 de noviembre, General de Subvenciones, por el Real Decreto 887/2006, de 21 de julio, por el que se aprueba el Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, por la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y por las restantes disposiciones de general aplicación, así como por la normativa comunitaria aplicable en la materia.
+
+#### Artículo 3. Principios generales.
+
+1\. Las ayudas reguladas en esta orden son compatibles con la percepción de otras para la misma finalidad, siempre que su importe conjunto no supere los límites de intensidad establecidos para cada tipo de actividad subvencionada en los artículos 21 del Real Decreto 1084/2015, de 4 de diciembre y 36 de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades, y sin perjuicio de la incompatibilidad prevista en el artículo 11.2.
+
+2\. Las ayudas son intransmisibles.
+
+3\. Las películas cinematográficas u otras obras audiovisuales, incluidas las realizadas en régimen de coproducción con empresas extranjeras, que sean objeto de cualquiera de estas ayudas, deben tener nacionalidad española o, en los casos que así se prevea en esta orden, estar en disposición de obtenerla por cumplir los requisitos que para el acceso a la misma establece el artículo 5 de la Ley 55/2007, de 28 de diciembre.
+
+Quedan exceptuadas del requisito de la nacionalidad las obras objeto de las ayudas para la distribución de largometrajes y conjuntos de cortometrajes españoles, comunitarios e iberoamericanos, reguladas en los artículos 40 y siguientes de esta orden.
+
+4\. En el caso de obras realizadas en régimen de coproducción con empresas extranjeras, únicamente podrá acceder a las ayudas el coproductor español o con domicilio o establecimiento permanente en España, por la participación española en las mismas.
+
+## CAPÍTULO II — Bases reguladoras comunes a todas las ayudas
+
+#### Artículo 4. Procedimiento de concesión y convocatorias.
+
+1\. El procedimiento de concesión de las ayudas se tramitará en régimen de concurrencia competitiva, dentro de los créditos anuales destinados a las mismas, salvo las ayudas para la participación de películas españolas en festivales y las ayudas a la conservación del patrimonio cinematográfico reguladas en los capítulos VI y VIII, respectivamente.
+
+Se iniciará, para cada tipo de ayuda, de oficio mediante convocatoria publicada en la Base de Datos Nacional de Subvenciones, de acuerdo con el procedimiento establecido en el artículo 20.8 de la Ley 38/2003, de 17 de noviembre y con el contenido necesario que exige su artículo 23. El extracto de la convocatoria se publicará en el «Boletín Oficial del Estado».
+
+Las convocatorias, en atención al objeto de las ayudas, contendrán la cuantía individualizada de las mismas o, cuando no resultara posible su determinación, los criterios objetivos para su concreción que, en todo caso, tendrán en cuenta las disponibilidades presupuestarias, el importe de los gastos subvencionables, el de la máxima ayuda posible a conceder, la evaluación de las solicitudes realizada, en su caso, por el órgano colegiado correspondiente y, cuando proceda, la cantidad solicitada. En cada convocatoria se podrán establecer criterios de reparto de las dotaciones presupuestarias anuales en función de las puntuaciones obtenidas por los proyectos o películas cinematográficas. Asimismo podrá determinarse una puntuación mínima necesaria para poder acceder a las ayudas.
+
+2\. El procedimiento se llevará a cabo, en función de la línea de ayudas de que se trate, mediante convocatoria única o mediante convocatoria abierta con varios procedimientos de selección a lo largo del año, en este caso, de acuerdo con los requisitos previstos en el artículo 59 del Real Decreto 887/2006, de 21 de julio.
+
+La convocatoria abierta deberá establecer un calendario con los diversos plazos de presentación de solicitudes correspondientes a los respectivos procedimientos de selección a realizar en el ejercicio. Cuando a la finalización de un procedimiento de selección se hayan concedido las ayudas correspondientes y no se haya agotado el importe máximo a otorgar, se podrá trasladar íntegramente la cantidad no aplicada al procedimiento de selección siguiente.
+
+3\. Las convocatorias podrán referirse a uno o a varios de los supuestos contemplados dentro del objeto de cada una de las modalidades de ayuda, atendiendo a las concretas políticas de fomento que se considere necesario acometer en cada ejercicio.
+
+#### Artículo 5. Requisitos generales para obtener la condición de beneficiario.
+
+1\. Además de encontrarse en la situación concreta que fundamente la concesión de las ayudas, quienes las soliciten deberán cumplir los siguientes requisitos generales:
+
+a) No haber sido objeto de la sanción consistente en la pérdida de la posibilidad de obtener subvenciones por el incumplimiento de la normativa en materia de igualdad entre mujeres y hombres de acuerdo con lo previsto en el Real Decreto Legislativo 5/2000, de 4 de agosto, por el que se aprueba el texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social.
+
+b) No incurrir en ninguno de los supuestos previstos en el artículo 13.2 de la Ley 38/2003, de 17 de noviembre.
+
+2\. Cuando la actividad subvencionable se vaya a realizar de manera conjunta por varias personas jurídicas, para obtener la condición de beneficiarias deberán constituir una agrupación de empresas que actuará a través de la entidad representante designada y con capacidad de representación para actuar en nombre y por cuenta de la totalidad de miembros de la agrupación, a los efectos de la presentación de la solicitud de la ayuda y de su documentación acreditativa, del cumplimiento de las obligaciones derivadas del otorgamiento de la subvención y de su justificación.
+
+Para la constitución de la agrupación de empresas se utilizará el modelo de acuerdo normalizado, que estará disponible en la sede electrónica del Ministerio de Cultura y Deporte. En la solicitud de la ayuda deberán hacerse constar expresamente los compromisos de ejecución asumidos por cada miembro de la agrupación, así como el importe de la ayuda que, en su caso, corresponda a cada uno de ellos, que tendrán igualmente la condición de beneficiarios.
+
+No podrá disolverse la agrupación hasta que hayan transcurrido los plazos de prescripción para el reintegro y las infracciones, en su caso, previstos en los artículos 39 y 65 de la Ley 38/2003, de 17 de noviembre.
+
+> Se modifica por el art. 2.1 de la Orden CUD/426/2019, de 11 de abril. [Ref. BOE-A-2019-5551](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5551)
+
+#### Artículo 6. Forma y plazo de presentación de las solicitudes.
+
+1\. De acuerdo con los apartados 2 y 3 del artículo 14 de la Ley 39/2015, de 1 de octubre, las solicitudes se presentarán obligatoriamente a través de la sede electrónica del Ministerio de Cultura y Deporte, mediante los modelos normalizados disponibles en la misma.
+
+2\. La presentación de las solicitudes conllevará la autorización de los solicitantes para que el órgano instructor obtenga de forma directa las acreditaciones del cumplimiento de las obligaciones tributarias y con la seguridad social. No obstante, el solicitante podrá denegar expresamente dicho consentimiento, en cuyo caso deberá aportar las correspondientes certificaciones, de acuerdo con lo que se establece en el artículo siguiente.
+
+3\. El plazo máximo de presentación de las solicitudes será de treinta días a contar desde el día siguiente al de su publicación de acuerdo con lo previsto en el artículo 4.1.
+
+4\. Cuando la solicitud o alguno de los documentos que la acompañen adolezca de algún defecto se requerirá al interesado para que, en un plazo de diez días, subsane la falta, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, de lo que se dejará constancia en la resolución a la que se refiere el artículo 8.6.
+
+#### Artículo 7. Documentación general.
+
+Además de la documentación específica exigible para cada tipo de ayuda, que se precisará en las correspondientes convocatorias, junto con la solicitud deberá presentarse:
+
+a) En el supuesto en que el solicitante se encuentre dado de alta en el Registro Administrativo de Empresas Cinematográficas y Audiovisuales del Instituto de la Cinematografía y de las Artes Audiovisuales, manifestación expresa de que los datos que constan en el mismo no han sufrido modificación respecto de los existentes o, en otro caso, documentación suficiente que acredite las modificaciones efectuadas.
+
+b) En el caso de que el solicitante no esté inscrito en el citado Registro, el Instituto de la Cinematografía y de las Artes Audiovisuales requerirá la documentación necesaria para realizar dicha inscripción, que es la establecida en el artículo 31 del Real Decreto 1084/2015, de 4 de diciembre.
+
+c) Declaración responsable de estar al corriente en el pago de obligaciones por reintegro y de comprometerse a mantener su cumplimiento durante el periodo de tiempo inherente al procedimiento de concesión de la ayuda.
+
+d) Si el solicitante deniega expresamente el consentimiento al Instituto de la Cinematografía y de las Artes Audiovisuales para que éste obtenga de forma directa la acreditación del cumplimiento de estar al corriente en el pago de sus obligaciones tributarias y con la seguridad social, deberá aportar las correspondientes certificaciones administrativas positivas, a efectos de subvenciones, expedidas por los órganos competentes.
+
+Si la validez de dichas certificaciones hubiera caducado, deberán renovarse con anterioridad a dictarse la propuesta de resolución y al pago de la ayuda.
+
+e) Declaración responsable de no haber sido sancionado con la pérdida de la posibilidad de obtener subvenciones por incumplimiento de la normativa que resulte de aplicación en materia de igualdad entre mujeres y hombres.
+
+f) Declaración responsable de no estar incurso en ninguno de los supuestos del artículo 13.2 de la Ley 38/2003, de 17 de noviembre.
+
+g) Declaración responsable sobre cualesquiera otras ayudas o subvenciones públicas, nacionales o internacionales obtenidas para la realización de la misma actividad o proyecto.
+
+#### Artículo 8. Ordenación, instrucción, resolución y pago.
+
+1\. El Instituto de la Cinematografía y de las Artes Audiovisuales procederá a la convocatoria pública de las ayudas mediante resolución de la persona titular de su Dirección General, publicada en la forma señalada en el artículo 4.1.
+
+2\. La instrucción se llevará a cabo por el órgano que se indique para cada tipo de ayuda en la respectiva convocatoria, el cual realizará todas las actuaciones necesarias para la determinación, conocimiento y comprobación de los datos en virtud de los cuales habrá de formular la propuesta de resolución.
+
+3\. Los criterios de valoración de las ayudas son los que se determinan en las bases reguladoras específicas de cada modalidad y serán evaluados, cuando así se establezca, por los órganos colegiados de asesoramiento que se constituyan a estos efectos, regulados en el artículo 70.
+
+4\. La valoración efectuada por los órganos colegiados deberá ser motivada y se incorporará a la correspondiente acta, de la que se dará traslado al órgano instructor.
+
+5\. En las ayudas generales y selectivas para la producción de largometrajes sobre proyecto, ayudas para la producción de cortometrajes, ayudas a proyectos culturales y de formación no reglada y ayudas para la conservación del patrimonio cinematográfico, el órgano instructor, a la vista del expediente, formulará la propuesta de resolución provisional, debidamente motivada, y la notificará a los interesados en la forma que establezca la convocatoria, concediéndoles un plazo de 10 días para formular alegaciones.
+
+Examinadas las alegaciones presentadas, en su caso, por los interesados, se formulará la propuesta de resolución definitiva, en la que se incluirá la relación de solicitantes para los que se propone la concesión de la ayuda y la cuantía de la misma, especificando su evaluación y los criterios de valoración seguidos para efectuarla.
+
+6\. La resolución definitiva, que pondrá fin a la vía administrativa, se dictará por la persona titular de la Dirección General del Instituto de la Cinematografía y de las Artes Audiovisuales, deberá ser motivada y hacer alusión, en su caso, a las valoraciones realizadas por el correspondiente órgano colegiado, a cuyas actas podrán acceder los solicitantes interesados, y determinará los beneficiarios, la cuantía de la ayuda y, en su caso, de manera expresa, la desestimación del resto de las solicitudes.
+
+Asimismo, podrá incluir una relación ordenada de todas las solicitudes que, cumpliendo con las condiciones para adquirir la condición de beneficiario, no hayan sido estimadas por rebasarse la cuantía máxima del crédito fijado en la convocatoria, con indicación de la puntuación otorgada a cada una de ellas en función de los criterios de valoración previstos en la misma.
+
+En la resolución se indicarán los recursos que procedan y los plazos para su interposición.
+
+En el caso de renuncia por parte de alguno de los beneficiarios, y siempre que se hubiera liberado crédito suficiente para atender, al menos, una de las solicitudes de la relación ordenada de solicitudes no estimadas a la que se ha hecho referencia anteriormente, se podrá acordar, sin necesidad de nueva convocatoria, la concesión de la subvención al solicitante o solicitantes siguientes en orden de su puntuación. Para ello, se comunicará la opción a los interesados a fin de que manifiesten su aceptación en el plazo improrrogable de diez días hábiles. Una vez aceptada la propuesta por parte del solicitante o solicitantes, la persona titular de la Dirección General del Instituto de la Cinematografía y de las Artes Audiovisuales dictará el acto de concesión.
+
+7\. Todos los actos y trámites relativos al procedimiento de gestión de las ayudas serán notificados a los interesados mediante comparecencia en la sede electrónica del Ministerio de Cultura y Deporte o, a través de la dirección electrónica habilitada única, a los efectos previstos en el artículo 43 de la Ley 39/2015, de 1 de octubre.
+
+8\. El vencimiento de los plazos máximos previstos en esta orden para la notificación de la resolución sin que se haya practicado, faculta a los interesados para entender desestimada su solicitud a efectos de la interposición de los recursos que procedan.
+
+9\. En la líneas de ayudas en las que se contemplan pagos anticipados a la justificación de la actividad, no será exigible a los beneficiarios la prestación de las garantías a las que se refieren los artículos 17.3.k) y 34.4 de la Ley 38/2003, de 17 de noviembre.
+
+> Se modifica el último párrafo del apartado 6 por el art. 2.2 de la Orden CUD/426/2019, de 11 de abril. [Ref. BOE-A-2019-5551](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5551)
+
+#### Artículo 9. Obligaciones generales de los beneficiarios.
+
+Además de las obligaciones específicas que se establezcan para cada modalidad de ayudas, todos los beneficiarios quedarán obligados con carácter general a:
+
+a) Acreditar la realización de la actividad, así como aportar los documentos que les sean requeridos por el Instituto de la Cinematografía y de las Artes Audiovisuales para justificar la aplicación de los fondos recibidos, en especial la documentación acreditativa de la inversión realizada en la actividad objeto de la ayuda.
+
+b) Tener residencia legal o establecimiento en España en el momento de la percepción efectiva de las ayudas.
+
+c) Poner a disposición del Instituto de la Cinematografía y de las Artes Audiovisuales y, en su caso, a efectos del control financiero que corresponda a la Intervención General de la Administración del Estado y al Tribunal de Cuentas, los libros contables, registros y demás documentos debidamente auditados en los términos exigidos por la legislación aplicable, así como conservar los documentos justificativos de la aplicación de los fondos recibidos en tanto puedan ser objeto de dichas actuaciones y, en todo caso, durante cuatro años desde la fecha de concesión de la ayuda.
+
+d) Estar al corriente en el cumplimiento de sus obligaciones tributarias y frente a la seguridad social así como no ser deudor por resolución de procedencia de reintegro o reembolso, con anterioridad a dictarse la propuesta de resolución y a la realización del pago. La acreditación de estos extremos se efectuará conforme a lo establecido en los apartados c) y d) del artículo 7.
+
+No podrá realizarse el pago sin la acreditación del cumplimiento por el beneficiario de dichos requisitos, cuya ausencia ocasionará la pérdida del derecho al cobro de la ayuda.
+
+e) Comunicar al Instituto de la Cinematografía y de las Artes Audiovisuales la obtención de cualesquiera subvenciones o ayudas, nacionales o internacionales, que financien la actividad subvencionada tan pronto como se conozca, a los efectos de comprobar que se cumple con la normativa comunitaria en cuanto a la acumulación de ayudas de acuerdo con las intensidades máximas permitidas.
+
+El exceso de subvenciones recibidas, de acuerdo con las intensidades máximas previstas en el artículo 36 de la Ley 27/2014, de 27 de noviembre, y en el artículo 21 del Real Decreto 1084/2015, de 4 de diciembre dará lugar a la minoración de la ayuda en lo que exceda de dicho límite.
+
+El Instituto de la Cinematografía y de las Artes Audiovisuales aplicará dicha minoración cuando en el ejercicio de sus competencias compruebe que las ayudas directas a una película, otorgadas por las Administraciones Públicas, superan la intensidad máxima que en cada caso corresponda.
+
+Los rendimientos financieros que se generen por los fondos librados a los beneficiarios incrementarán el importe de las subvenciones concedidas, y se aplicarán igualmente a la actividad subvencionada.
+
+f) Difundir la colaboración del Gobierno de España/Ministerio de Cultura y Deporte/Instituto de la Cinematografía y de las Artes Audiovisuales en la realización de la actividad objeto de la ayuda, mediante la inserción de la siguiente frase: “Con la financiación del Gobierno de España” seguido del logotipo del Instituto de la Cinematografía y de las Artes Audiovisuales, facilitado por el mismo. La difusión se realizará de forma tal que sea claramente legible por el público; y en el caso de las ayudas a la producción de los capítulos III y IV de esta orden, se realizará, además, en cartela única, de manera independiente al resto de posibles colaboraciones en la actividad.
+
+g) En las películas en las que la participación española sea mayoritaria, incluir antes de los títulos de crédito de cabecera el sello “Es cine español”, conforme al modelo que figura en la página web del Instituto de la Cinematografía y de las Artes Audiovisuales.
+
+> Se modifica la letra f) por el art. 2.3 de la Orden CUD/426/2019, de 11 de abril. [Ref. BOE-A-2019-5551](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5551)
+
+> Redactado conforme a la corrección de errores publicada por Orden CUD/939/2018, de 10 de septiembre. [Ref. BOE-A-2018-12504](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-12504)
+
+#### Artículo 10. Reintegro y graduación de incumplimientos. Devolución a iniciativa del beneficiario.
+
+1\. Procederá el reintegro de las cantidades percibidas y la exigencia del interés de demora desde el momento del pago de la subvención en los supuestos y conforme al procedimiento establecido en la Ley 38/2003, de 17 de noviembre.
+
+En todo caso, la obligación de reintegro será independiente de la imposición de las sanciones que conforme a la Ley resulten exigibles.
+
+2\. En el caso de incumplimiento parcial, la fijación de la cantidad que deba ser reintegrada se determinará en aplicación del principio de proporcionalidad y teniendo en cuenta el hecho de que el citado incumplimiento se aproxime significativamente al cumplimiento total y se acredite por los beneficiarios una actuación inequívocamente tendente a la satisfacción de sus compromisos.
+
+3\. Se entenderá por devolución a iniciativa del beneficiario la devolución voluntaria de la cantidad percibida por el mismo sin previo requerimiento por parte del Instituto de la Cinematografía y de las Artes Audiovisuales. En este caso, se calcularán los intereses de demora a satisfacer por el beneficiario de acuerdo con lo previsto en el artículo 38 de la Ley 38/2003, de 17 de noviembre, desde la fecha de pago de la ayuda hasta el momento en que se produzca la devolución efectiva por parte del aquél.
+
+## CAPÍTULO III — Bases reguladoras específicas de las ayudas generales y selectivas para la producción de largometrajes sobre proyecto
+
+### Sección 1.ª Normas comunes
+
+#### Artículos 11 a 13.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única de la Orden CUD/582/2020, de 26 de junio. [Ref. BOE-A-2020-6921](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6921)
+
+### Sección 2.ª Ayudas generales para la producción de largometrajes sobre proyecto
+
+#### Artículos 14 a 21.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única de la Orden CUD/582/2020, de 26 de junio. [Ref. BOE-A-2020-6921](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6921)
+
+### Sección 3.ª *Ayudas selectivas para la producción de largometrajes sobre proyecto*
+
+> Se deroga por la disposición derogatoria única de la Orden CUD/582/2020, de 26 de junio. [Ref. BOE-A-2020-6921](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6921)
+
+> Se modifica por el art. 2.12 de la Orden CUD/426/2019, de 11 de abril. [Ref. BOE-A-2019-5551](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5551)
+
+#### Artículos 22 a 30.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única de la Orden CUD/582/2020, de 26 de junio. [Ref. BOE-A-2020-6921](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6921)
+
+## CAPÍTULO IV — Ayudas a la producción de cortometrajes
+
+#### Artículo 31. Principios, requisitos y obligaciones generales.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única de la Orden CUD/582/2020, de 26 de junio. [Ref. BOE-A-2020-6921](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6921)
+
+### Sección 1.ª Ayudas a la producción de cortometrajes sobre proyecto
+
+#### Artículos 32 a 35.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única de la Orden CUD/582/2020, de 26 de junio. [Ref. BOE-A-2020-6921](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6921)
+
+### Sección 2.ª Ayudas a la producción de cortometrajes realizados
+
+#### Artículos 36 a 39.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única de la Orden CUD/582/2020, de 26 de junio. [Ref. BOE-A-2020-6921](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6921)
+
+## CAPÍTULO V — Ayudas para la distribución de películas
+
+#### Artículos 40 a 46.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única de la Orden CUD/508/2021, de 25 de mayo. [Ref. BOE-A-2021-8863](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8863)
+
+## CAPÍTULO VI — Ayudas para la participación de películas españolas en festivales
+
+#### Artículos 47 a 53.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a) de la Orden CLT/207/2025, de 24 de febrero. [Ref. BOE-A-2025-4395](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4395)
+
+## CAPÍTULO VII — Ayudas para la organización de festivales y certámenes
+
+#### Artículos 54 a 59.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única de la Orden CUD/888/2021, de 5 de agosto. [Ref. BOE-A-2021-14030](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14030)
+
+## CAPÍTULO VIII — Ayudas a la conservación del patrimonio cinematográfico
+
+#### Artículo 60. Objeto.
+
+1\. El objeto de estas ayudas es la obtención de soportes de obras cinematográficas y audiovisuales, ya sea en formato analógico o digital, adecuados para la conservación del patrimonio cinematográfico a largo plazo. Podrán solicitar estas ayudas los productores o propietarios de obras cinematográficas y audiovisuales y de su soporte original que, cumpliendo los requisitos generales para obtener la condición de beneficiario establecidas en el artículo 5, se comprometan a no exportar dicho soporte original durante un periodo mínimo de diez años y realicen las duplicaciones necesarias para garantizar la preservación de la obra, según las especificaciones técnicas que se señalarán anualmente en la correspondiente convocatoria.
+
+2\. Las convocatorias de estas ayudas deberán indicar, atendiendo a la evolución tecnológica, qué características debe reunir el soporte de la obra para tener consideración de soporte original, a los efectos del apartado anterior.
+
+#### Artículo 61. Cuantía.
+
+Dentro de las disponibilidades presupuestarias, en la correspondiente convocatoria se determinará la cuantía total destinada a estas ayudas, que no podrá superar el 50% del coste de realización de las duplicaciones a las que se refiere el artículo anterior, con el límite de 6.000 euros.
+
+#### Artículo 62. Solicitudes y documentación.
+
+En las solicitudes, además de lo indicado en el artículo 7, deberá constar la información siguiente, acompañada en su caso de la documentación que corresponda:
+
+a) Declaración responsable mediante la que el productor o titular de los derechos sobre la película adquiera el compromiso de conservar en la Filmoteca Española el soporte original de la misma, o un duplicado de éste en el caso de coproducciones con participación española minoritaria. Cuando sean varios los productores o titulares de los derechos, el compromiso debe efectuarse de forma solidaria. En el supuesto de que este compromiso quedara invalidado por circunstancias sobrevenidas con posterioridad a la percepción de la ayuda, el beneficiario deberá notificarlo al Instituto de la Cinematografía y de las Artes Audiovisuales.
+
+b) Facturas acreditativas del coste de obtención de la copia de conservación, de conformidad con las especificaciones técnicas recogidas en la convocatoria.
+
+c) Declaración responsable de que el solicitante es titular de los derechos sobre el soporte original de la película, o de los derechos de explotación en caso de que aquéllos no estén acreditados.
+
+d) Declaración responsable de que se ha efectuado el depósito de los elementos de preservación de la obra en la Filmoteca Española. Los materiales depositados a estos efectos no podrán ser retirados, ni transferidos para el depósito en otras instituciones para el cumplimiento de las obligaciones de depósito que aquéllas pudieran imponer.
+
+e) Declaración sobre otras ayudas solicitadas o concedidas para la misma actividad.
+
+#### Artículo 63. Resolución y pago de las ayudas.
+
+1\. El plazo máximo para dictar y notificar la resolución será de tres meses desde el día siguiente al de la publicación del extracto de la convocatoria, salvo que la misma posponga sus efectos a una fecha posterior.
+
+2\. La ayuda se hará efectiva mediante un único pago tras la resolución de concesión.
+
+## CAPÍTULO IX — Ayudas a la realización de proyectos culturales y formación no reglada
+
+#### Artículo 64. Objeto y beneficiarios.
+
+1\. El objeto de estas ayudas es la realización de proyectos susceptibles de enriquecer el panorama audiovisual español desde una perspectiva cultural: investigaciones o publicaciones cuyos contenidos sean de especial relevancia para los sectores cinematográfico y audiovisual españoles, con especial consideración al cine español, así como programas específicos dirigidos a la formación de públicos.
+
+Las subvenciones a proyectos de investigación podrán revestir la modalidad de ayudas para la investigación y de premios a trabajos de investigación inéditos.
+
+2\. Podrán solicitar estas ayudas las personas físicas y jurídicas que reúnan los requisitos generales para obtener la condición de beneficiario establecidos en el artículo 5 y los requisitos específicos exigidos en la correspondiente convocatoria.
+
+> Se modifica el apartado 2 por el art. 2.19 de la Orden CUD/426/2019, de 11 de abril. [Ref. BOE-A-2019-5551](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5551)
+
+#### Artículo 65. Cuantía de las ayudas.
+
+1\. Dentro de las disponibilidades presupuestarias, en la correspondiente convocatoria se determinará la cuantía total destinada a estas ayudas. Asimismo, la convocatoria determinará la cuantía máxima de cada ayuda individualizada, de acuerdo con las solicitudes recibidas en convocatorias anteriores y las disponibilidades presupuestarias, siempre que ese importe no supere el 60% del presupuesto.
+
+2\. La percepción de estas ayudas será compatible con otras ayudas o subvenciones públicas y se harán efectivas en un pago único.
+
+#### Artículo 66. Solicitudes y documentación.
+
+El plazo de presentación de solicitudes, que será como máximo de 30 días, así como la documentación a adjuntar a las mismas, se establecerá en la respectiva convocatoria.
+
+#### Artículo 67. Valoración de los proyectos.
+
+El Comité asesor de ayudas a proyectos culturales y de formación no reglada valorará los proyectos de acuerdo con los principios de concurrencia, objetividad y no discriminación, en particular en materia de igualdad de género, atendiendo a los siguientes criterios y de acuerdo con las ponderaciones que se establezcan en la convocatoria:
+
+En las ayudas para el desarrollo de un proyecto de investigación:
+
+a) El expediente académico correspondiente a alguna de las titulaciones relacionadas con el campo teórico descrito en la convocatoria.
+
+b) Títulos, diplomas o programas formativos realizados en el campo teórico descrito en la convocatoria, así como investigaciones o publicaciones realizadas en la materia, y la participación o experiencia desarrollada en proyectos similares.
+
+c) La originalidad y carácter innovador del objeto de la investigación, y la relevancia de su aportación al campo teórico descrito en la convocatoria.
+
+En los premios para trabajos de investigación:
+
+a) El interés y carácter innovador del contenido, y la relevancia de su aportación al campo teórico descrito en la convocatoria.
+
+b) La calidad científico-técnica, el rigor analítico y la coherencia en las conclusiones.
+
+c) La corrección y claridad de la expresión escrita, la exposición y la presentación del trabajo.
+
+En los programas dirigidos a la formación de públicos se valorarán especialmente aquellos orientados a la captación de público joven y la educación audiovisual, atendiendo a la calidad del proyecto presentado y la consistencia de las actuaciones propuestas para la consecución de los objetivos declarados.
+
+#### Artículo 68. Resolución y pago de las ayudas.
+
+1\. El plazo máximo para resolver y notificar la resolución será de 4 meses desde el día siguiente al de la publicación del extracto de la convocatoria, salvo que la misma posponga sus efectos a una fecha posterior.
+
+2\. La ayuda se hará efectiva mediante un único pago tras la notificación de la resolución de concesión.
+
+#### Artículo 69. Obligaciones del beneficiario.
+
+1\. Además de las obligaciones generales establecidas en el artículo 9 de esta Orden, el beneficiario deberá justificar el destino de la ayuda en el plazo de tres meses a contar desde la finalización de la actividad o, si la ayuda se concede una vez finalizada aquélla desde la fecha del pago de la ayuda, presentando la documentación que se establezca en la respectiva convocatoria.
+
+2\. En las ayudas para el desarrollo de un proyecto de investigación, el beneficiario deberá entregar el resultado de la misma en el plazo de 12 meses desde la concesión de la ayuda. El trabajo presentado será nuevamente valorado por el comité para verificar que se han cumplido los objetivos propuestos.
+
+3\. El beneficiario se compromete a ceder al ICAA los derechos de publicación de la obra, sin perjuicio de los derechos de propiedad intelectual que le correspondan.
+
+## CAPÍTULO X — Órganos colegiados
+
+#### Artículo 70. Órganos de asesoramiento en la concesión de ayudas.
+
+1\. Con la finalidad de asesorar a la Dirección General del Instituto de la Cinematografía y de las Artes Audiovisuales en la concesión de las ayudas a las que se refiere esta orden, dependerán del Instituto los siguientes órganos colegiados:
+
+a) **(Derogada).**
+
+b) **(Derogada).**
+
+c) El Comité asesor de ayudas a la promoción, integrado por cuatro vocales, designados entre profesionales con conocimiento del sector, que realizará las siguientes funciones:
+
+1.º **(Derogado).**
+
+2.º **(Derogado).**
+
+d) El Comité asesor de ayudas a proyectos culturales y de formación no reglada, integrado por un mínimo de cinco y un máximo de ocho Vocales nombrados entre personas de acreditada trayectoria en el ámbito cultural y educativo.
+
+2\. La presidencia de dichos órganos corresponderá a la persona titular de la Dirección General del Instituto de la Cinematografía y de las Artes Audiovisuales quien designará, para cada órgano, como vicepresidente a uno de los subdirectores generales y nombrará un secretario de entre el personal del citado Instituto.
+
+3\. El nombramiento de los vocales de los citados órganos colegiados se efectuará mediante resolución de la persona titular de la Dirección General del Instituto de la Cinematografía y de las Artes Audiovisuales, que será publicada en el «Boletín Oficial del Estado».
+
+4\. Los vocales integrantes de dichos órganos estarán obligados a realizar un informe motivado de cada una de las valoraciones que realicen en la forma y con los requisitos que se establezcan en la correspondiente resolución de convocatoria de las ayudas en la que participen.
+
+5\. A estos órganos colegiados les serán de aplicación las normas de funcionamiento que establece la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público; así como los motivos de abstención y posibilidad de recusación establecidos en su sección 4.ª La composición se ajustará al principio de presencia equilibrada de mujeres y hombres que establece el artículo 54 de la Ley Orgánica 3/2007, de 22 de marzo para la igualdad efectiva de hombres y mujeres. Asimismo, les serán de aplicación las normas generales establecidas en el artículo 34 del Real Decreto 1084/2015, de 28 de diciembre.
+
+> Se deroga el apartado 1.c).1º por la disposición derogatoria única.a) de la Orden CLT/207/2025, de 24 de febrero. [Ref. BOE-A-2025-4395](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4395)
+
+> Se deroga el apartado 1.c).2º por la disposición derogatoria única de la Orden CUD/888/2021, de 5 de agosto. [Ref. BOE-A-2021-14030](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14030)
+
+> Se deroga la letra b) por la disposición derogatoria única de la Orden CUD/508/2021, de 25 de mayo. [Ref. BOE-A-2021-8863](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8863)
+
+> Se deroga la letra a) del apartado 1 por la disposición derogatoria única de la Orden CUD/582/2020, de 26 de junio. [Ref. BOE-A-2020-6921](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6921)
+
+> Se modifica el apartado 5 por el art. 2.20 de la Orden CUD/426/2019, de 11 de abril. [Ref. BOE-A-2019-5551](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5551)
+
+## CAPÍTULO XI — Registro administrativo de empresas cinematográficas y audiovisuales
+
+#### Artículo 71. Estructura.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única de la Orden CUD/582/2020, de 26 de junio. [Ref. BOE-A-2020-6921](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6921)
+
+#### Disposición adicional única. Certificado cultural para la aplicación de incentivos fiscales.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria única de la Orden CUD/582/2020, de 26 de junio. [Ref. BOE-A-2020-6921](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6921)
+
+#### Disposición transitoria primera. Vigencia provisional de las ayudas a la amortización.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria única de la Orden CUD/582/2020, de 26 de junio. [Ref. BOE-A-2020-6921](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6921)
+
+#### Disposición transitoria segunda. Largometrajes producidos por agrupaciones de interés económico constituidas con anterioridad a la entrada en vigor de esta orden.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria única de la Orden CUD/582/2020, de 26 de junio. [Ref. BOE-A-2020-6921](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6921)
+
+#### Disposición transitoria tercera. Plazos para ayudas otorgadas con anterioridad a la entrada en vigor de esta orden.
+
+Las empresas productoras de largometrajes que hayan resultado beneficiarias de las ayudas generales y selectivas para la producción de largometrajes sobre proyecto conforme a las bases establecidas en la Orden ECD/2796/2015, de 18 de diciembre, podrán acogerse, a su solicitud, a los nuevos plazos para el cumplimiento de sus obligaciones de justificación que se establecen en esta orden.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+A la entrada en vigor de esta orden, y sin perjuicio de lo establecido en la disposición transitoria primera, quedarán derogadas total o parcialmente las siguientes normas:
+
+a) La Orden ECD/2796/2015, de 18 de diciembre, por la que se establecen las bases reguladoras de las ayudas previstas en el capítulo III de la Ley 55/2007, de 28 de diciembre, del Cine, y se determina la estructura del Registro Administrativo de Empresas Cinematográficas y Audiovisuales.
+
+b) Los artículos 32 a 37; 78 a 81; 104.1.c) y 104.3.b) de la Orden CUL/2834/2009, de 19 de octubre, por la que se dictan normas de aplicación del Real Decreto 2062/2008, de 12 de diciembre, por el que se desarrolla la Ley 55/2007, de 28 de diciembre, del Cine, en las materias de reconocimiento del coste de una película e inversión del productor, establecimiento de las bases reguladoras de las ayudas estatales y estructura del Registro Administrativo de Empresas Cinematográficas y Audiovisuales.
+
+> Redactado conforme a la corrección de errores publicada por Orden CUD/939/2018, de 10 de septiembre. [Ref. BOE-A-2018-12504](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-12504)
+
+#### Disposición final primera. Modificación del artículo 5.2 de la Orden ECD/2784/2015, de 18 de diciembre, por la que se regula el reconocimiento de coste de una película y la inversión del productor.
+
+El artículo 5.2 de la Orden ECD/2784/2015, de 18 de diciembre, por la que se regula el reconocimiento de coste de una película y la inversión del productor, queda redactado de la siguiente manera:
+
+«2. El plazo máximo para la presentación de la solicitud será de seis meses a partir de la notificación del certificado de nacionalidad española en el caso de largometrajes, y de tres meses desde la misma fecha si se trata de cortometrajes. Estos plazos podrán ampliarse en las convocatorias cuando concurran causas que así lo justifiquen.
+
+Las solicitudes presentadas fuera de los citados plazos serán inadmitidas. No obstante, en el caso de que la película a la que se refiera la solicitud hubiera resultado beneficiaria de alguna ayuda se realizará el reconocimiento de coste a los únicos efectos de la justificación de dicha ayuda, sin que dicho reconocimiento le habilite para la percepción de futuras ayudas.»
+
+#### Disposición final segunda. Habilitación competencial.
+
+La presente orden se dicta al amparo del artículo 149.1.13.ª de la Constitución que atribuye la competencia exclusiva al Estado en bases y coordinación de la planificación general de la actividad económica y del artículo 149.2 de la Constitución que dispone que, sin perjuicio de las competencias que podrán asumir las Comunidades Autónomas, el Estado considerará el servicio de la cultura como deber y atribución esencial y facilitará la comunicación cultural entre las Comunidades Autónomas, de acuerdo con ellas.
+
+#### Disposición final tercera. Desarrollo y aplicación.
+
+Se autoriza a la persona titular de la Dirección General del Instituto de la Cinematografía y de las Artes Audiovisuales para dictar las resoluciones que sean precisas para el desarrollo y aplicación de lo dispuesto en esta orden, para actualizar los importes máximos de las ayudas, para establecer los modelos oficiales de solicitudes y para modificar los anexos de esta orden.
+
+#### Disposición final cuarta. Entrada en vigor.
+
+Esta orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 17 de julio de 2018.–El Ministro de Cultura y Deporte, José Guirao Cabrera.
+
+## ANEXO I
+
+## Baremo para la evaluación de las ayudas generales para la producción de largometrajes sobre proyecto
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden CUD/582/2020, de 26 de junio. [Ref. BOE-A-2020-6921](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6921)
+
+> Se modifica por el art. 2.21 de la Orden CUD/426/2019, de 11 de abril. [Ref. BOE-A-2019-5551](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5551)
+
+> Redactado conforme a la corrección de errores publicada por Orden CUD/939/2018, de 10 de septiembre. [Ref. BOE-A-2018-12504](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-12504)
+
+## ANEXO II
+
+## Baremo para la evaluación de la primera fase de las ayudas selectivas a la producción de largometrajes sobre proyecto
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden CUD/582/2020, de 26 de junio. [Ref. BOE-A-2020-6921](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6921)
+
+> Se modifica por el art. 2.22 de la Orden CUD/426/2019, de 11 de abril. [Ref. BOE-A-2019-5551](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5551)
+
+> Redactado conforme a la corrección de errores publicada por Orden CUD/939/2018, de 10 de septiembre. [Ref. BOE-A-2018-12504](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-12504)
+
+## ANEXO III
+
+**III.A Valoración festivales, premios y honores. Ayudas generales**
+
+**(Derogado)**
+
+**III.B Valoración festivales premios y honores. Ayudas selectivas**
+
+**(Derogado)**
+
+**III.C Valoración festivales, premios y honores. Ayudas a cortometrajes**
+
+**(Derogado)**
+
+> Se derogan por la disposición derogatoria única de la Orden CUD/582/2020, de 26 de junio. [Ref. BOE-A-2020-6921](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6921)
+
+> Se modifica por el art. 2.23 de la Orden CUD/426/2019, de 11 de abril. [Ref. BOE-A-2019-5551](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5551)
+
+> Redactado conforme a la corrección de errores publicada por Orden CUD/939/2018, de 10 de septiembre. [Ref. BOE-A-2018-12504](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-12504)
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 180, de 26 de julio de 2018. [Ref. BOE-A-2018-10559](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10559)

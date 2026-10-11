@@ -354,68 +354,63 @@ Madrid, 31 de enero de 2017.–El Ministro de Energía, Turismo y Agenda Digital
 
 ## ANEXO — Valores del coeficiente de calidad
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td> </td>
 <td colspan="2">
-<p class="cabeza_tabla">Contenido en azufre (%)</p>
+<p>Contenido en azufre (%)</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cabeza_tabla">Densidad (grados API)</p>
+<p>Densidad (grados API)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Inferior o igual al 1%</p>
+<p>Inferior o igual al 1%</p>
 </td>
 <td>
-<p class="cabeza_tabla">Superior al 1%</p>
+<p>Superior al 1%</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Superior a 31,1	</p>
+<p>Superior a 31,1	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,97</p>
+<p>0,97</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Entre 22,3 y 31,1	</p>
+<p>Entre 22,3 y 31,1	</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">0,96</p>
+<p>0,96</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Inferior a 31,1	</p>
+<p>Inferior a 31,1	</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">0,89</p>
+<p>0,89</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Inferior a 20	</p>
+<p>Inferior a 20	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,8</p>
+<p>0,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,7</p>
+<p>0,7</p>
 </td>
 </tr>
 </tbody>

@@ -103,65 +103,60 @@ En el caso de las islas Canarias, los datos son concluyentes. Entre noviembre de
 
 Ese crecimiento no se detiene y continúa evolucionando a un ritmo significativo, tal y como se puede verificar en los datos a 17 de julio de 2024:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Isla</th>
-<th class="cabeza_tabla">Establecimiento</th>
-<th class="cabeza_tabla">Plazas</th>
+<th>Isla</th>
+<th>Establecimiento</th>
+<th>Plazas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Lanzarote.</td>
-<td class="cuerpo_tabla_coma">8.815</td>
-<td class="cuerpo_tabla_coma">39.346</td>
+<td>Lanzarote.</td>
+<td>8.815</td>
+<td>39.346</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fuerteventura.</td>
-<td class="cuerpo_tabla_coma">7.620</td>
-<td class="cuerpo_tabla_coma">30.400</td>
+<td>Fuerteventura.</td>
+<td>7.620</td>
+<td>30.400</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gran Canaria.</td>
-<td class="cuerpo_tabla_coma">14.457</td>
-<td class="cuerpo_tabla_coma">61.001</td>
+<td>Gran Canaria.</td>
+<td>14.457</td>
+<td>61.001</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tenerife.</td>
-<td class="cuerpo_tabla_coma">25.769</td>
-<td class="cuerpo_tabla_coma">104.427</td>
+<td>Tenerife.</td>
+<td>25.769</td>
+<td>104.427</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">La Gomera.</td>
-<td class="cuerpo_tabla_coma">1.179</td>
-<td class="cuerpo_tabla_coma">3.922</td>
+<td>La Gomera.</td>
+<td>1.179</td>
+<td>3.922</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">La Palma.</td>
-<td class="cuerpo_tabla_coma">1.731</td>
-<td class="cuerpo_tabla_coma">6.459</td>
+<td>La Palma.</td>
+<td>1.731</td>
+<td>6.459</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El Hierro.</td>
-<td class="cuerpo_tabla_coma">575</td>
-<td class="cuerpo_tabla_coma">1.996</td>
+<td>El Hierro.</td>
+<td>575</td>
+<td>1.996</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total.</td>
-<td class="cuerpo_tabla_coma">60.146</td>
-<td class="cuerpo_tabla_coma">247.551</td>
+<td> Total.</td>
+<td>60.146</td>
+<td>247.551</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">Fuente: Intur.</p>
+<p>Fuente: Intur.</p>
 </td>
 </tr>
 </tfoot>

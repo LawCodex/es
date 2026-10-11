@@ -1,0 +1,161 @@
+---
+title: "Resolución de 13 de enero de 2021, de la Presidencia de la Agencia Estatal de Administración Tributaria, sobre organización y funciones del Área de Informática Tributaria"
+identifier: "BOE-A-2021-710"
+eli: "https://www.boe.es/eli/es/res/2021/01/13/(6)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda"
+date: 2021-01-13
+published: 2021-01-18
+in_force_from: 2021-01-19
+last_amended: 2024-02-08
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 15"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2021-710"
+retrieved: 2026-10-11
+---
+
+# Resolución de 13 de enero de 2021, de la Presidencia de la Agencia Estatal de Administración Tributaria, sobre organización y funciones del Área de Informática Tributaria
+
+En el marco de las competencias atribuidas a la Agencia Tributaria, corresponden al Departamento de Informática Tributaria las funciones que le atribuye la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias.
+
+El desempeño de estas funciones se lleva a cabo mediante los Servicios Centrales del Departamento, articulados en cinco Subdirecciones Generales, y mediante los correspondientes Servicios Territoriales, organizados en Dependencias Regionales de Informática Tributaria.
+
+La Resolución de 10 de marzo de 2004, de la Presidencia de la Agencia Estatal de Administración Tributaria, sobre organización y funciones del área de Informática Tributaria, establece funciones y competencias para los servicios territoriales de Informática Tributaria que no han sido objeto de revisión en la citada Orden PRE/3581/2007.
+
+Por otra parte, se han producido una serie de transformaciones tecnológicas en los últimos años, entre las que se pueden citar la simplificación técnica de los puestos de trabajo de los usuarios finales, de forma que requieran una menor atención informática, y la centralización de servidores informáticos en el Departamento de Informática Tributaria, con la consiguiente disminución de la necesidad de atender dichos servidores en las oficinas.
+
+Asimismo, se está haciendo un especial hincapié en mejorar la calidad de las declaraciones presentadas por los obligados tributarios en origen, de forma que disminuyan las tareas de depuración que se tenían que llevar a cabo en las oficinas, especialmente a cargo del personal asignado al área de Informática.
+
+Por otra parte, en la Agencia Tributaria existe una agrupación de puestos de trabajo por tramos, ordenados de forma gradual respecto a la complejidad de las tareas, su dificultad técnica y la supervisión que requieren.
+
+La actualización de los tramos de los puestos de trabajo de los funcionarios del área de Informática permite la revisión de las tareas que les son encomendadas y, en consecuencia, la asignación de tareas más complejas o de un ámbito territorial más amplio.
+
+Todos estos motivos aconsejan adoptar medidas organizativas orientadas a la nacionalización o regionalización de determinadas funciones y contar con una nueva Resolución que tenga en cuenta los aspectos anteriormente expuestos.
+
+En virtud de lo expuesto y en uso de la habilitación conferida por el apartado decimoquinto de la Orden de 2 de junio de 1994, dictada en desarrollo del número 5 del apartado once del artículo 103 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, dispongo:
+
+## Primero. Órganos de Informática Tributaria.
+
+Son órganos de Informática Tributaria de la Agencia Estatal de Administración Tributaria:
+
+1\. En los Servicios Centrales, y respecto de todo el territorio nacional, el Departamento de Informática Tributaria.
+
+Bajo la dependencia directa de la dirección del Departamento de Informática Tributaria, el Centro de Ciberseguridad y Protección de Datos de la AEAT, al que corresponden las funciones realizadas por el Administrador de Seguridad del Departamento de Informática Tributaria en calidad de responsable de Seguridad según el Esquema Nacional de Seguridad, de acuerdo con la Resolución de 8 de noviembre de 2012, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se aprueba la política de seguridad de la información de la Agencia Estatal de Administración Tributaria, así como de Delegado de Protección de Datos, de acuerdo al nombramiento en calidad de Secretario de la Comisión de Seguridad y Control de Informática Tributaria.
+
+El Centro de Ciberseguridad y Protección de Datos desempeña, además, las siguientes funciones y competencias:
+
+a) La definición, implantación y mantenimiento actualizado de los planes de actuación que garanticen la recuperación de los servicios informáticos, dentro de los plazos establecidos, en caso de fallo total o parcial de la infraestructura tecnológica que utilizan.
+
+b) La definición, implantación y mantenimiento de los procedimientos operativos de seguridad de los sistemas de información, estableciendo las medidas de seguridad física y lógica, que forman parte del Sistema de Gestión de la Seguridad de la Información, Protección de Datos y Continuidad del Servicio de la Agencia Tributaria.
+
+c) El mantenimiento actualizado del registro de funcionarios de la Agencia habilitados para la identificación y autenticación de los ciudadanos para la realización de operaciones por medios electrónicos, en colaboración con los restantes órganos de la Agencia Estatal de Administración Tributaria.
+
+d) La gestión de la identidad y las autorizaciones de los empleados públicos, así como la gestión de las credenciales utilizadas por el personal al servicio de la Agencia para su identificación y autenticación electrónica.
+
+e) El impulso de iniciativas de formación y concienciación en materia de ciberseguridad y protección de datos para todos los usuarios de los sistemas de información de la Agencia Tributaria.
+
+f) La certificación de los trámites electrónicos realizados en la Sede Electrónica de la Agencia Tributaria para asegurar su validez y legalidad, con especial atención en la autenticación en los trámites tributarios en línea.
+
+g) La gestión del centro de operaciones de ciberseguridad de la Agencia Tributaria para monitorizar, evaluar y responder a las amenazas de seguridad en tiempo real, asegurando la protección continua de la infraestructura de información tributaria.
+
+h) La gestión de los incidentes relacionados con la ciberseguridad, protección de datos y la continuidad del servicio, coordinando las acciones efectivas para su mitigación, la restauración de los sistemas afectados y asegurando la continuidad de los servicios tributarios.
+
+i) La colaboración y compartición de información de amenazas de ciberseguridad, incidentes y mejores prácticas de seguridad, colaborando con las autoridades de referencia en materia de ciberseguridad, protección de datos e infraestructuras críticas, así como con el resto de organismos de las Administraciones Públicas.
+
+j) La coordinación de las actuaciones de adecuación proactiva de los sistemas de información de la Agencia Estatal de Administración Tributaria a la regulación en materia de protección de datos.
+
+k) El apoyo al Delegado de Protección de Datos en el ejercicio de sus funciones. En particular, en la tramitación de las reclamaciones y requerimientos relacionados con los derechos digitales de los ciudadanos.
+
+Del mismo modo, con dependencia directa de la dirección del Departamento de Informática Tributaria, la Unidad Central de Sistemas de Atención al Contribuyente, que refuerza el ejercicio de las siguientes funciones y competencias:
+
+a) El desarrollo, implantación y mantenimiento de los sistemas de información necesarios para la gestión interna de la Agencia Estatal de Administración Tributaria, así como los programas de ayuda y de su Sede electrónica, de acuerdo con los Departamentos y demás órganos responsables.
+
+b) El desarrollo, implantación y mantenimiento de los sistemas de información necesarios para el adecuado desempeño de sus funciones de información y asistencia por los órganos de la Agencia Estatal de Administración Tributaria, sin perjuicio de la función de coordinación de los elementos comunes de las funciones de información y asistencia prestadas por las áreas atribuida al Servicio de Planificación y Relaciones Institucionales, así como la colaboración, a estos efectos, con las Entidades Locales, las Comunidades Autónomas, la Unión Europea y otros organismos y entidades.
+
+c) El análisis y aplicación de la evolución tecnológica en el software desarrollado, de acuerdo con las posibilidades ofrecidas por las nuevas tecnologías.
+
+d) En su ámbito de competencias y funciones, velar por la integridad, veracidad y actualización de la información y los servicios a los que puede accederse a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria, así como definir las especificaciones correspondientes a la actuación automatizada de la Agencia.
+
+2\. En la Administración territorial, las Dependencias Regionales de Informática Tributaria respecto de la demarcación territorial de cada Delegación Especial de la Agencia Tributaria, sin perjuicio de las competencias que específicamente se atribuyan al Delegado Especial, al Delegado y a los Administradores de la Agencia Tributaria por ésta u otras disposiciones normativas.
+
+3\. Los citados órganos de Informática Tributaria en la Administración territorial ejercerán sus competencias sin perjuicio de las que tienen atribuidas los Delegados Especiales, Delegados y Administradores de la Agencia Tributaria en relación con la superior jefatura y coordinación entre las distintas áreas de las Delegaciones Especiales, Delegaciones y Administraciones de la Agencia Tributaria, respectivamente.
+
+> Se modifica el apartado 1 por el apartado único de la Resolución de 1 de febrero de 2024. [Ref. BOE-A-2024-2322](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2322)
+
+## Segundo. Dependencias Regionales de Informática Tributaria.
+
+1\. En las Delegaciones Especiales de la Agencia Estatal de Administración Tributaria existirá una Dependencia Regional de Informática Tributaria que, bajo la dependencia del titular de la Delegación Especial, y de acuerdo con los criterios de actuación del Departamento de Informática Tributaria, ejercerá en su ámbito territorial, en los términos establecidos en la presente resolución, las funciones correspondientes a informática.
+
+2\. Las Dependencias Regionales de Informática Tributaria podrán contar, en los términos que establezca la relación de puestos de trabajo, con unidades especializadas en materias que sean objeto de su competencia.
+
+3\. La dirección, supervisión y coordinación de todas las funciones desarrolladas en la Dependencia Regional de Informática Tributaria corresponden al Jefe de Dependencia Regional.
+
+4\. En caso de ausencia, vacante o enfermedad, el Delegado Especial designará al sustituto del Jefe de la Dependencia Regional.
+
+## Tercero. Funciones de las Dependencias Regionales de Informática Tributaria.
+
+Corresponde a las Dependencias Regionales de Informática Tributaria el ejercicio de las funciones que en su ámbito territorial se les encomienden en materia de informática, y en particular las siguientes:
+
+a) La aplicación y el control del cumplimiento de los criterios y directrices emanados de la Dirección General de la Agencia Tributaria y del Departamento de Informática Tributaria que sean de aplicación en su correspondiente ámbito territorial.
+
+b) La elaboración y el desarrollo de los planes de actuación regional en materia de informática.
+
+c) La planificación y supervisión de las actuaciones informáticas que se llevan a cabo en el ámbito de la Delegación Especial.
+
+d) La dirección y coordinación de las actividades de las unidades administrativas en que se organiza, de forma que aseguren el cumplimiento de los objetivos relativos al área de informática, en coordinación con las demás Dependencias Regionales.
+
+e) El análisis de necesidades, la gestión, el control y el mantenimiento de los sistemas y recursos informáticos y de comunicaciones en sus respectivos ámbitos.
+
+f) El apoyo en el uso de los sistemas y tecnologías informáticos en el ámbito de la Delegación Especial, en las actividades de las Unidades de Auditoría Informática y, en su caso, en las actividades del Administrador de Seguridad.
+
+g) La supervisión del cumplimiento de la normativa de seguridad informática y protección de datos y de las directrices emanadas de la Comisión de Seguridad y Control de Informática Tributaria, y la aplicación de los procedimientos operativos de seguridad comunicados por el Departamento de Informática Tributaria.
+
+h) La detección, evaluación de las necesidades y, en su caso, colaboración en la creación, modificación o utilización de aplicaciones corporativas y herramientas de análisis de la información.
+
+i) En materia de calidad de la información: colaboración en las campañas de incentivación para el cumplimiento voluntario, gestión de la entrada de declaraciones tributarias y depuración de sus errores, y resolución de las incidencias censales.
+
+j) Cualquier otra función que se atribuya normativamente a los órganos territoriales de Informática Tributaria.
+
+## Cuarto. Competencia territorial de las Dependencias Regionales de Informática Tributaria.
+
+1\. La Dependencia Regional de Informática Tributaria extenderá su competencia al ámbito territorial de la correspondiente Delegación Especial, y las unidades en las que aquélla se organiza, cualquiera que sea su sede, podrán desarrollar sus actuaciones en todo este ámbito territorial.
+
+2\. Excepcionalmente, por acuerdo del titular del Departamento de Informática Tributaria, las funciones enumeradas en la presente resolución podrán ejercerse fuera del ámbito territorial de la Delegación Especial.
+
+3\. El Departamento de Informática Tributaria podrá ejercer las funciones que determine llevar a cabo de forma centralizada, en base a razones tecnológicas, de mayor eficacia o que persigan mayores economías de escala.
+
+## Quinto. Sedes desconcentradas de las Dependencias Regionales de Informática Tributaria.
+
+1\. Podrán existir sedes desconcentradas de las Dependencias Regionales de Informática ubicadas en las Delegaciones de la Agencia Tributaria, y les corresponderá el ejercicio de funciones de la Dependencia Regional de Informática en la Delegación y en las Administraciones de la misma, o de aquellas que disponga expresamente el Jefe de la Dependencia Regional.
+
+2\. La dirección, supervisión y coordinación de las unidades de informática tributaria y del personal perteneciente a las mismas existentes en las Delegaciones de la Agencia Tributaria estará a cargo del Jefe de Dependencia Regional de Informática Tributaria Adjunto o Técnico Jefe de Informática Tributaria que determine el Jefe de la Dependencia Regional, sin perjuicio de la superior coordinación de este último y de las competencias que correspondan a los Delegados Especiales y Delegados de la Agencia Tributaria.
+
+## Sexto. Unidades de Informática Tributaria en las Administraciones de la Agencia Tributaria y en las Administraciones de Aduanas e Impuestos Especiales.
+
+1\. En las Administraciones de la Agencia Tributaria podrán existir unidades de Informática Tributaria que, bajo la jefatura del titular de la Administración y la coordinación del Jefe de Dependencia Regional o el Jefe de Dependencia Regional de Informática Tributaria Adjunto o Técnico Jefe de Informática Tributaria que determine, podrán ejercer funciones correspondientes a la Dependencia Regional de Informática, de acuerdo con las instrucciones que al efecto determinen el Jefe o Jefe Adjunto de dicha Dependencia Regional o el Técnico Jefe de Informática Tributaria.
+
+2\. En aquellas Administraciones en las que no exista personal de Informática, las funciones relacionadas con la interlocución para las actuaciones relativas a esta materia, tales como la recepción de equipos, la comunicación de averías, la gestión del inventario informático, la supervisión de actuaciones informáticas por parte de terceros y otras que sean necesarias para el funcionamiento informático de la Administración, serán llevadas a cabo por el Administrador o persona a quien éste designe.
+
+## Disposición transitoria. Régimen transitorio del personal afectado.
+
+Hasta tanto se adapte la relación de puestos de trabajo de la Agencia Tributaria a lo establecido en la presente resolución, las funciones de los órganos y unidades de Informática Tributaria contemplados en la misma serán desempeñados por los actualmente existentes.
+
+Los puestos de trabajo afectados continuarán subsistentes hasta que se apruebe la relación de puestos de trabajo adaptada a la nueva estructura orgánica.
+
+## Disposición derogatoria. Normas que quedan sin efecto.
+
+Queda derogada la Resolución de 10 de marzo de 2004, de la Presidencia de la Agencia Estatal de Administración Tributaria, sobre organización y funciones del área de Informática Tributaria.
+
+## Disposición final primera. Ausencia de gasto público.
+
+La aprobación de la presente resolución no implica aumento del gasto público en los presupuestos de la Agencia Estatal de Administración Tributaria.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente resolución entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 13 de enero de 2021.–La Presidenta de la Agencia Estatal de Administración Tributaria, Inés María Bardón Rafael.

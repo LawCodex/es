@@ -2216,12 +2216,6 @@ i) Evaluación de las prestaciones y servicios del Sistema Vasco de Garantía de
 
 j) Designación de la persona titular del Órgano de evaluación de las políticas de empleo e inclusión.
 
-> Téngase en cuenta que la modificación de la letra j) del apartado 1, establecida por la disposición final 1.1 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899), entra en vigor el 29 de junio de 2024, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "j) Designación de la persona titular del Órgano de Evaluación, Investigación e Innovación en materia de Inclusión."
-
 k) Las que deriven del establecimiento del convenio para la asunción por la Comunidad Autónoma del País Vasco de la gestión de la prestación no contributiva del ingreso mínimo vital.
 
 l) Cualquier otra que se establezca en esta ley y en su normativa de desarrollo.
@@ -2390,12 +2384,6 @@ e) Ser informado por el conjunto de las administraciones públicas vascas con re
 
 f) Emisión de informe preceptivo sobre la propuesta de designación de la persona titular del Órgano de evaluación de las políticas de empleo e inclusión y de las personas que la sustituyan, así como de su cese o remoción en los supuestos contemplados en el artículo 150 de la ley.
 
-> Téngase en cuenta que la modificación de la letra f) del apartado 1, establecida por la disposición final 1.2 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899), entra en vigor el 29 de junio de 2024, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "f) Emisión de informe preceptivo sobre la propuesta de designación de la persona titular del Órgano de Evaluación, Investigación e Innovación en materia de Inclusión y de las personas que la sustituyan, así como de su cese o remoción en los supuestos contemplados en el artículo 150 de la ley."
-
 g) Cualquier otra que se le atribuya legal o reglamentariamente.
 
 2\. En el desarrollo de las funciones deberá tener en cuenta el resultado de la evaluación a que se refiere el artículo siguiente y, en su caso, motivar el apartamiento de sus recomendaciones.
@@ -2405,12 +2393,6 @@ g) Cualquier otra que se le atribuya legal o reglamentariamente.
 > Esta modificación tiene efectos desde el 29 de junio de 2024, según establece la disposición final 5.
 
 ## TÍTULO IX — Evaluación del Sistema Vasco de Garantía de Ingresos y para la Inclusión y Órgano de evaluación de las políticas de empleo e inclusión
-
-> Téngase en cuenta que esta modificación del título, establecida por la disposición final 1.3 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899), entra en vigor el 29 de junio de 2024, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> **"Evaluación del Sistema Vasco de Garantía de Ingresos y para la inclusión y órgano de evaluación, investigación e innovación en materia de inclusión"**
 
 > Se modifica por la disposición final 1.3 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899)
 
@@ -2430,23 +2412,11 @@ La evaluación será pública y estará disponible en las sedes electrónicas de
 
 3\. La elaboración de la evaluación corresponderá al Órgano de evaluación de las políticas de empleo e inclusión.
 
-> Téngase en cuenta que la modificación del apartado 3, establecida por la disposición final 1.4 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899), entra en vigor el 29 de junio de 2024, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "3. La elaboración de la evaluación corresponderá al Órgano de Evaluación, Investigación e Innovación en materia de Inclusión."
-
 > Se modifica el apartado 3 por la disposición final 1.4 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899)
 
 > Esta modificación tiene efectos desde el 29 de junio de 2024, según establece la disposición final 5.
 
 ### CAPÍTULO II — Órgano de evaluación de las políticas de empleo e inclusión
-
-> Téngase en cuenta que esta modificación del título, establecida por la disposición final 1.5 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899), entra en vigor el 29 de junio de 2024, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Órgano de evaluación, investigación e innovación en materia de inclusión"
 
 > Se modifica por la disposición final 1.5 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899)
 
@@ -2460,16 +2430,6 @@ La evaluación será pública y estará disponible en las sedes electrónicas de
 
 Se adscribe, sin integrarse en la estructura jerárquica de la Administración de la Comunidad Autónoma de Euskadi, al departamento competente en materia de inclusión.
 
-> Téngase en cuenta que esta modificación, establecida por la disposición final 1.6 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899), entra en vigor el 29 de junio de 2024, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "1. Se crea el Órgano de Evaluación, Investigación e Innovación en materia de Inclusión como órgano administrativo especializado que tiene como ámbito de competencia la evaluación, la promoción de la innovación y de la investigación en el Sistema Vasco de Garantía de Ingresos y para la Inclusión, como instrumentos de desarrollo y mejora continua de las capacidades de intervención en la prevención y erradicación de la exclusión.
-
-> 2\. El Órgano de Evaluación, Investigación e Innovación en materia de Inclusión se crea como órgano unipersonal. El titular o la titular se nombrará de entre personas de reconocido prestigio y experiencia mínima de quince años de ejercicio profesional en materias de análisis y evaluación de las políticas de inclusión.
-
-> Se adscribe, sin integrarse en la estructura jerárquica de la Administración de la Comunidad Autónoma de Euskadi, al departamento competente en materia de garantía de ingresos e inclusión."
-
 > Se modifica por la disposición final 1.6 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899)
 
 > Esta modificación tiene efectos desde el 29 de junio de 2024, según establece la disposición final 5.
@@ -2479,14 +2439,6 @@ Se adscribe, sin integrarse en la estructura jerárquica de la Administración d
 El Órgano de evaluación de las políticas de empleo e inclusión actuará en el desarrollo de sus funciones con plena independencia funcional y objetividad.
 
 La persona titular y el personal adscrito al citado órgano no podrán solicitar o aceptar instrucciones de entidades públicas o privadas.
-
-> Téngase en cuenta que esta modificación, establecida por la disposición final 1.7 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899), entra en vigor el 29 de junio de 2024, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "El Órgano de Evaluación, Investigación e Innovación en materia de Inclusión actuará en el desarrollo de sus funciones con plena independencia funcional y objetividad.
-
-> La persona titular y el personal adscrito al citado órgano no podrán solicitar o aceptar instrucciones de entidades públicas o privadas."
 
 > Se modifica por la disposición final 1.7 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899)
 
@@ -2511,44 +2463,6 @@ f) Promocionar y difundir la evaluación y establecer estándares de calidad par
 g) Realizar actividades de formación sobre evaluación de políticas públicas o participar en programas de formación de otros organismos que versen sobre la misma materia.
 
 2\. Asimismo, promoverá la investigación sobre las necesidades sociales que atienden el Sistema Vasco de Garantía de Ingresos y para la Inclusión y la Red Vasca de Empleo; sobre las prestaciones y servicios recogidos en esta ley y en la legislación de empleo en términos de gestión, coste y calidad; así como sobre nuevas posibilidades de intervención en las citadas áreas.
-
-> Téngase en cuenta que esta modificación, establecida por la disposición final 1.8 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899), entra en vigor el 29 de junio de 2024, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "El Órgano de Evaluación, Investigación e Innovación en materia de Inclusión tiene atribuidas las siguientes funciones
-
-> a) En el ámbito de la evaluación:
-
-> 1.º realizar la evaluación del Sistema Vasco de Garantía de Ingresos y para la Inclusión a que se refiere el artículo 146,
-
-> 2.º diseñar, actualizar periódicamente y publicar los indicadores de calidad del Sistema Vasco de Garantía de Ingresos y para la Inclusión,
-
-> 3.º difundir la información sobre el Sistema Vasco de Garantía de Ingresos y para la Inclusión, garantizando la mayor transparencia en lo referido a su alcance y funcionamiento, e
-
-> 4.º impulsar la elaboración y la aplicación de protocolos y estándares de calidad que puedan ser de aplicación para la mejora de los programas para la inclusión social y para la mejora de la empleabilidad.
-
-> b) En el ámbito de la investigación:
-
-> 1.º impulsar la investigación sobre las necesidades sociales que atiende el Sistema Vasco de Garantía de Ingresos y para la Inclusión y sobre la demanda de servicios y prestaciones,
-
-> 2.º estudiar las causas y factores que determinan las situaciones de inclusión y exclusión social y su evolución en la Comunidad Autónoma de Euskadi,
-
-> 3.º analizar los servicios en términos de gestión, coste y calidad de la atención, al objeto de promover su mejora continuada y de orientar su desarrollo y evolución,
-
-> 4.º evaluar la tasa de cobertura de las prestaciones económicas recogidas en esta ley sobre el conjunto de la población y su suficiencia económica, y
-
-> 5.º realizar investigaciones relativas a cualquiera de los elementos del Sistema Vasco de Garantía de Ingresos y para la Inclusión, las necesidades que aborda o los perfiles poblacionales que atiende.
-
-> c) En el ámbito de la innovación:
-
-> 1.º impulsar la realización de proyectos experimentales, desde la perspectiva de la práctica basada en la evidencia, que tras su correspondiente evaluación de impacto y en caso de resultar efectivos pueden extenderse al conjunto del Sistema Vasco de Garantía de Ingresos y para Inclusión,
-
-> 2.º analizar las demandas sociales existentes en materia de inserción y plantear propuestas innovadoras de intervención, e
-
-> 3.º identificar, analizar y difundir buenas prácticas desarrolladas tanto en el ámbito de la Comunidad Autónoma de Euskadi, como en el ámbito estatal o internacional, en materia de políticas de inclusión y de garantía de ingresos.
-
-> d) En el ámbito de la formación, colaborar con las administraciones públicas vascas en la formación de agentes y profesionales que intervienen en el Sistema Vasco de Garantía de Ingresos y para la Inclusión y, singularmente, en los ámbitos relacionados con Lanbide-Servicio Vasco de Empleo y el Sistema Vasco de Servicios Sociales."
 
 > Se modifica por la disposición final 1.8 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899)
 
@@ -2586,34 +2500,6 @@ f) Incapacidad sobrevenida para el ejercicio de su función.
 
 El cese o remoción se formalizará mediante decreto acordado en Consejo de Gobierno y se publicará en el Boletín Oficial del País Vasco. La remoción por las causas previstas en las letras d), e) –cuando se trate de inhabilitación especial– y f) será acordada por el Gobierno Vasco previo expediente instruido al efecto, con audiencia de la persona interesada, y previo informe del Consejo Vasco para la Inclusión y del Consejo Vasco de Políticas Públicas de Empleo.
 
-> Téngase en cuenta que la modifcación del título, y de los apartados 1.a) y 2, establecida por la disposición final 1.9 y 10 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899), entra en vigor el 29 de junio de 2024, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 150. Estatuto personal del titular o de la titular del Órgano de Evaluación, Investigación e Innovación en materia de Inclusión.
-
-> 1\. El estatuto personal del titular o de la titular del Órgano de Evaluación, Investigación e Innovación en materia de Inclusión será el siguiente:
-
-> a) Su designación se realizará por el Gobierno Vasco mediante decreto acordado en Consejo de Gobierno a propuesta motivada de la persona titular del departamento competente en materia de garantía ingresos e inclusión, previo informe favorable del Consejo Vasco para la Inclusión.
-
-> El decreto de nombramiento designará la persona o personas que estén llamadas a sustituir en caso de vacante, ausencia o enfermedad a la titular del Órgano de Evaluación, Investigación e Innovación en materia de Inclusión. Deberá reunir los mismos requisitos exigidos para la persona titular y contar con informe favorable del Consejo Vasco de Inclusión."
-
-> "2. La persona titular del Órgano de Evaluación, Investigación e Innovación en materia de Inclusión solo podrá ser removida de su puesto por las causas siguientes:
-
-> a) Fallecimiento.
-
-> b) Expiración de su mandato.
-
-> c) Renuncia formalizada por escrito.
-
-> d) Incumplimiento grave de sus obligaciones.
-
-> e) Condena a pena privativa de libertad o de inhabilitación absoluta o especial para empleo o cargo público.
-
-> f) Incapacidad sobrevenida para el ejercicio de su función.
-
-> El cese o remoción se formalizará mediante decreto acordado en Consejo de Gobierno y se publicará en el Boletín Oficial del País Vasco. La remoción por las causas previstas en las letras d), e), cuando se trate de inhabilitación especial, y f) será acordada por el Gobierno Vasco previo expediente instruido al efecto, con audiencia de la persona interesada, y previo informe del Consejo Vasco para la Inclusión."
-
 > Se modifica el título y los apartados 1.a) y 2 por la disposición final 1.9 y 10 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899)
 
 > Esta modificación tiene efectos desde el 29 de junio de 2024, según establece la disposición final 5.
@@ -2622,12 +2508,6 @@ El cese o remoción se formalizará mediante decreto acordado en Consejo de Gobi
 
 La Administración de la Comunidad Autónoma de Euskadi garantizará la disponibilidad de los medios personales y materiales que el Órgano de evaluación de las políticas de empleo e inclusión precise para su adecuado funcionamiento.
 
-> Téngase en cuenta que esta modificación, establecida por la disposición final 1.11 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899), entra en vigor el 29 de junio de 2024, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "La Administración de la Comunidad Autónoma de Euskadi garantizará la disponibilidad de los medios personales y materiales que el Órgano de Evaluación, Investigación e Innovación en materia de Inclusión precise para su adecuado funcionamiento."
-
 > Se modifica por la disposición final 1.11 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899)
 
 > Esta modificación tiene efectos desde el 29 de junio de 2024, según establece la disposición final 5.
@@ -2635,8 +2515,6 @@ La Administración de la Comunidad Autónoma de Euskadi garantizará la disponib
 ##### Artículo 152. Colaboración del Eustat-Instituto Vasco de Estadística.
 
 El Eustat-Instituto Vasco de Estadística colaborará con el Órgano de evaluación de las políticas de empleo e inclusión en el desarrollo de la actividad de evaluación.
-
-> Téngase en cuenta que este artículo, añadido por la disposición final 1.12 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899), entra en vigor el 29 de junio de 2024, según determina su disposición final 5.
 
 > Se añade por la disposición final 1.12 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899)
 
@@ -2669,14 +2547,6 @@ En el plazo de un año desde la publicación de la presente ley, el Gobierno Vas
 ##### Disposición adicional quinta. Inicio de la actividad del Órgano de evaluación de las políticas de empleo e inclusión.
 
 El Órgano de evaluación de las políticas de empleo e inclusión iniciará su actividad al día siguiente de la publicación del nombramiento de la persona titular.
-
-> Téngase en cuenta que esta modificación, establecida por la disposición final 1.13 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899), entra en vigor el 29 de junio de 2024, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Disposición adicional quinta. Inicio de la actividad del Órgano de Evaluación, Investigación e Innovación en materia de Inclusión.
-
-> El Órgano de Evaluación, Investigación e Innovación en materia de Inclusión iniciará su actividad al día siguiente de la publicación del nombramiento de la persona titular."
 
 > Se modifica por la disposición final 1.13 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899)
 

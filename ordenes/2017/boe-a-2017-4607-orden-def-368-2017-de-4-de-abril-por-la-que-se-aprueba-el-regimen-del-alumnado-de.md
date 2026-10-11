@@ -652,22 +652,6 @@ c) En caso de alumnos menores de edad, la comunicación se realizará a los tuto
 
 6\. Utilizarán responsablemente las nuevas tecnologías, evitando cualquier difusión que pueda constituir falta disciplinaria.
 
-> Téngase en cuenta que esta última actualización establecida por el art. único.1 de la Orden DEF/648/2026, de 23 de junio, [Ref. BOE-A-2026-13945](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13945), entra en vigor el 1 de julio de 2026, según determina su disposición final.
-
-> Redacción anterior:
-
-> "**Artículo 16. Deberes.**
-
-> 1\. Los alumnos de la enseñanza de formación están sujetos a los deberes establecidos en la Constitución, en la Ley Orgánica de derechos y deberes de los miembros de las Fuerzas Armadas, en las Reales Ordenanzas y en el resto del ordenamiento jurídico.
-
-> 2\. Estarán sometidos a las leyes penales y disciplinarias militares y a lo dispuesto en el presente Régimen del Alumnado.
-
-> 3\. Deberán conocer y cumplir exactamente las obligaciones contenidas en la Constitución, en las Reales Ordenanzas, tanto las de las Fuerzas Armadas como las específicas de su Ejército, así como las de su condición de alumno de la enseñanza de formación en un centro docente militar establecidas en esta orden ministerial y en el régimen interior del centro docente.
-
-> 4\. Observarán las reglas de disciplina, jerarquía y unidad, características indispensables para conseguir la máxima eficacia de las Fuerzas Armadas y se comportarán con lealtad y compañerismo, como expresión de la voluntad de asumir solidariamente con los demás miembros, el cumplimiento de sus misiones.
-
-> 5\. Utilizarán responsablemente las nuevas tecnologías, evitando cualquier difusión que pueda constituir falta disciplinaria."
-
 > Se modifica, con efectos de 1 de julio de 2026, por el art. único.1 de la Orden DEF/648/2026, de 23 de junio. [Ref. BOE-A-2026-13945](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13945)
 
 > Se modifica por el art. único.1 de la Orden DEF/231/2026, de 16 de marzo. [Ref. BOE-A-2026-6640](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6640)
@@ -729,38 +713,6 @@ k) Cooperar con los responsables, profesores y demás personal del centro, al lo
 l) Participar de forma activa y responsable en las reuniones de los órganos para los que haya sido elegido.
 
 m) Cualesquiera otros que, en relación con su condición de alumnos, se deriven de este Régimen del Alumnado.
-
-> Téngase en cuenta que esta última actualización establecida por el art. único.2 de la Orden DEF/648/2026, de 23 de junio, [Ref. BOE-A-2026-13945](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13945), entra en vigor el 1 de julio de 2026, según determina su disposición final.
-
-> Redacción anterior:
-
-> "**Artículo 18. Deberes académicos.**
-
-> Son deberes de los alumnos de la enseñanza de formación, inherentes a su condición de alumnos:
-
-> a) Seguir las actividades docentes con diligencia y aprovechamiento y aplicarse, de igual modo, a las tareas de investigación que les correspondan.
-
-> b) Dedicarse a la formación que reciba en el centro docente militar y realizar el trabajo intelectual y físico que se espera de ellos.
-
-> c) Atender las orientaciones de los profesores y tutores respecto de su aprendizaje.
-
-> d) Participar activamente en las clases teóricas y prácticas, en la instrucción y adiestramiento y en las demás actividades orientadas a su formación.
-
-> e) Tomar parte en las actividades escolares de transmisión, adquisición y comprobación de los saberes, conocimientos, aptitudes y habilidades profesionales, procurando que se realicen de la forma más adecuada y con arreglo a las instrucciones recibidas.
-
-> f) Cooperar en la formación de sus compañeros, incluso mediante el empleo, en su caso, del ascendiente derivado de su antigüedad o experiencia.
-
-> g) Cuidar y usar debidamente los bienes, equipos, instalaciones o recinto del centro y de las unidades, buques, centros y organismos que colaboren en la formación.
-
-> h) Abstenerse de la utilización o cooperación en procedimientos fraudulentos en las pruebas de evaluación, en los trabajos que se realicen o en documentos oficiales del centro.
-
-> i) Abstenerse de la realización de novatadas o trato desconsiderado con otros alumnos.
-
-> j) Cooperar con los responsables, profesores y demás personal del centro, al logro de la mayor calidad y eficacia de la enseñanza.
-
-> k) Participar de forma activa y responsable en las reuniones de los órganos para los que haya sido elegido.
-
-> l) Cualesquiera otros que, en relación con su condición de alumnos, se deriven de este Régimen del Alumnado."
 
 > Se modifica, con efectos de 1 de julio de 2026, por el art. único.2 de la Orden DEF/648/2026, de 23 de junio. [Ref. BOE-A-2026-13945](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13945)
 
@@ -1049,12 +1001,6 @@ Los alumnos de la enseñanza de formación causarán baja en los centros docente
 ### Artículo 40. Baja por ingreso en un centro docente militar de formación.
 
 1\. Los alumnos de la enseñanza de formación que ingresen en otro centro docente militar causarán baja en el de origen según lo especificado en artículo 31.3.a).
-
-> Téngase en cuenta que esta última actualización del apartado 1 establecida por el art. único.3 de la Orden DEF/648/2026, de 23 de junio, [Ref. BOE-A-2026-13945](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13945), entra en vigor el 1 de julio de 2026, según determina su disposición final.
-
-> Redacción anterior:
-
-> "1. Los alumnos de la enseñanza de formación que ingresen en otro centro docente militar causarán baja en el de origen según lo especificado en el artículo 31.2.i)."
 
 2\. Con la finalidad de agilizar los trámites correspondientes se seguirá un procedimiento abreviado que consistirá en:
 

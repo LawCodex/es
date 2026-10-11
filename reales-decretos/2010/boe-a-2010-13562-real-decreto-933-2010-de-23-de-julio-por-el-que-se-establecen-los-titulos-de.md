@@ -6242,36 +6242,30 @@ Espacios: Ciclo inicial
 | Aula polivalente. | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común y específico del ciclo inicial. |
 | Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | MED-C101:Bases del comportamiento deportivo.<br>MED-C102: Primeros auxilios.<br>MED-C105: Actividad físico-deportiva para personas con discapacidad. |
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">Espacio formativo</p>
+<th colspan="3">
+<p>Espacio formativo</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_izq">Pista exterior cercada de un mínimo de 4.000 m<sup>2</sup>.</p>
-<p class="cuerpo_tabla_izq">Espacio libre en campo para un recorrido de cross de unos 2.000 m. de longitud.</p>
-<p class="cuerpo_tabla_izq">Espacio acondicionado para trabajos a la cuerda.</p>
-<p class="cuerpo_tabla_izq">Instalaciones básicas para estabulación y manejo de un mínimo de 30 caballos, que constarán de: cuadra individual o vallas de separación para cada caballo, guadarnés, almacén de piensos, zona de estabulación y manejo de un mínimo de 30 caballos.</p>
+<td colspan="3">
+<p>Pista exterior cercada de un mínimo de 4.000 m<sup>2</sup>.</p>
+<p>Espacio libre en campo para un recorrido de cross de unos 2.000 m. de longitud.</p>
+<p>Espacio acondicionado para trabajos a la cuerda.</p>
+<p>Instalaciones básicas para estabulación y manejo de un mínimo de 30 caballos, que constarán de: cuadra individual o vallas de separación para cada caballo, guadarnés, almacén de piensos, zona de estabulación y manejo de un mínimo de 30 caballos.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-HIHI102: Transporte y mantenimiento físico del caballo pie a tierra.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI104: Metodología de la enseñanza de la hípica.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI105: Acompañamiento por itinerarios a caballo.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI106: Eventos hípicos.</p>
+<td>
+<p>MED-HIHI102: Transporte y mantenimiento físico del caballo pie a tierra.</p>
+<p>MED-HIHI104: Metodología de la enseñanza de la hípica.</p>
+<p>MED-HIHI105: Acompañamiento por itinerarios a caballo.</p>
+<p>MED-HIHI106: Eventos hípicos.</p>
 </td>
 </tr>
 </tbody>
@@ -6308,36 +6302,30 @@ Espacios: Ciclo final
 | Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | MED-C201: Bases del aprendizaje deportivo.<br>MED-C202: Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad.<br>MED-HIHI204: Preparación física del jinete. |
 | Pista polideportiva 44 x ×22 mts. |  |  | MED-C201: Bases del aprendizaje deportivo.<br>MED-C202: Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad. |
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Espacio formativo</th>
-<th class="cabeza_tabla" colspan="2">Módulo de enseñanza deportiva</th>
+<th colspan="2">Espacio formativo</th>
+<th colspan="2">Módulo de enseñanza deportiva</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Pista exterior cercada de un mínimo de 4.000 m<sup>2</sup>.</p>
-<p class="cuerpo_tabla_izq">Espacio libre en campo para un recorrido de cross de unos 2.000 m. de longitud.</p>
-<p class="cuerpo_tabla_izq">Espacio acondicionado para trabajos a la cuerda.</p>
-<p class="cuerpo_tabla_izq">Instalaciones básicas para estabulación y manejo de un mínimo de 30 caballos, que constarán de: cuadra individual o vallas de separación para cada caballo, guadarnés, almacén de piensos, zona de estabulación y manejo de un mínimo de 30 caballos.</p>
+<td colspan="2">
+<p>Pista exterior cercada de un mínimo de 4.000 m<sup>2</sup>.</p>
+<p>Espacio libre en campo para un recorrido de cross de unos 2.000 m. de longitud.</p>
+<p>Espacio acondicionado para trabajos a la cuerda.</p>
+<p>Instalaciones básicas para estabulación y manejo de un mínimo de 30 caballos, que constarán de: cuadra individual o vallas de separación para cada caballo, guadarnés, almacén de piensos, zona de estabulación y manejo de un mínimo de 30 caballos.</p>
 </td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">MED-HIHI202: Enseñanza y tecnificación hípica.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI203: Bases del entrenamiento deportivo del caballo.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI204: Preparación física del jinete.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI205: Para-ecuestre.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI206: Organización de eventos hípicos.</p>
-<p class="cuerpo_tabla_izq">MED-HISD207: Perfeccionamiento técnico en salto.</p>
-<p class="cuerpo_tabla_izq">MED-HISD208: Perfeccionamiento técnico en doma.</p>
-<p class="cuerpo_tabla_izq">MED-HISD209: Perfeccionamiento técnico en concurso completo.</p>
+<td colspan="2">
+<p>MED-HIHI202: Enseñanza y tecnificación hípica.</p>
+<p>MED-HIHI203: Bases del entrenamiento deportivo del caballo.</p>
+<p>MED-HIHI204: Preparación física del jinete.</p>
+<p>MED-HIHI205: Para-ecuestre.</p>
+<p>MED-HIHI206: Organización de eventos hípicos.</p>
+<p>MED-HISD207: Perfeccionamiento técnico en salto.</p>
+<p>MED-HISD208: Perfeccionamiento técnico en doma.</p>
+<p>MED-HISD209: Perfeccionamiento técnico en concurso completo.</p>
 </td>
 </tr>
 </tbody>
@@ -6372,33 +6360,27 @@ Espacios: Ciclo final
 | Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | MED-C201: Bases del aprendizaje deportivo.<br>MED-C202: Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad. |
 | Pista polideportiva 44 × 22 mts. |  |  | MED-C201: Bases del aprendizaje deportivo.<br>MED-C202: Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad. |
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Espacio formativo</th>
-<th class="cabeza_tabla" colspan="2">Módulo de enseñanza deportiva</th>
+<th colspan="2">Espacio formativo</th>
+<th colspan="2">Módulo de enseñanza deportiva</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Pista exterior cercada de un mínimo de 4.000 m<sup>2</sup>.</p>
-<p class="cuerpo_tabla_izq">Espacio libre en campo de unos 2.000 m. de longitud.</p>
-<p class="cuerpo_tabla_izq">Espacio acondicionado para trabajos a la cuerda.</p>
-<p class="cuerpo_tabla_izq">Instalaciones básicas para estabulación y manejo de un mínimo de 30 caballos.</p>
-<p class="cuerpo_tabla_izq">Acceso a sendas, caminos, cañadas y vías pecuarias en el medio natural.</p>
+<td colspan="2">
+<p>Pista exterior cercada de un mínimo de 4.000 m<sup>2</sup>.</p>
+<p>Espacio libre en campo de unos 2.000 m. de longitud.</p>
+<p>Espacio acondicionado para trabajos a la cuerda.</p>
+<p>Instalaciones básicas para estabulación y manejo de un mínimo de 30 caballos.</p>
+<p>Acceso a sendas, caminos, cañadas y vías pecuarias en el medio natural.</p>
 </td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">MED-HITE211: Perfeccionamiento técnico en raid.</p>
-<p class="cuerpo_tabla_izq">MED-HITE212: Perfeccionamiento técnico en trec.</p>
-<p class="cuerpo_tabla_izq">MED-HITE213: Organización de itinerarios ecuestres.</p>
-<p class="cuerpo_tabla_izq">MED-HITE214: Medio natural.</p>
+<td colspan="2">
+<p>MED-HITE211: Perfeccionamiento técnico en raid.</p>
+<p>MED-HITE212: Perfeccionamiento técnico en trec.</p>
+<p>MED-HITE213: Organización de itinerarios ecuestres.</p>
+<p>MED-HITE214: Medio natural.</p>
 </td>
 </tr>
 </tbody>
@@ -6791,107 +6773,102 @@ Equipamientos:
 
 Serán impartidas por quienes posean la especialidad que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Módulo de enseñanza deportiva</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Ciclo inicial</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101: Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C101: Bases del comportamiento deportivo.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-C102: Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física.</p>
-<p class="cuerpo_tabla_izq">Procesos sanitarios.</p>
+<td rowspan="2">MED-C102: Primeros auxilios.</td>
+<td>
+<p>Educación física.</p>
+<p>Procesos sanitarios.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Procedimientos sanitarios y asistenciales.</td>
-<td class="cuerpo_tabla_izq">Profesores Técnicos de Formación Profesional.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-104: Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>Procedimientos sanitarios y asistenciales.</td>
+<td>Profesores Técnicos de Formación Profesional.</td>
+</tr>
+<tr>
+<td>MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td>MED-104: Organización deportiva.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
 <em>Ciclo final</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C201: Bases del aprendizaje deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C201: Bases del aprendizaje deportivo.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C202: Bases del entrenamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C202: Bases del entrenamiento deportivo.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C206: Iniciación deportiva para personas con discapacidad.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-204: Organización y legislación deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-204: Organización y legislación deportiva.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C205. Deporte y género.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C205. Deporte y género.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 </tbody>
@@ -6903,312 +6880,307 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Módulo de enseñanza deportiva</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Ciclo inicial</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI102: Transporte y mantenimiento físico del caballo pie a tierra.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Hípica</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td rowspan="2">MED-HIHI102: Transporte y mantenimiento físico del caballo pie a tierra.</td>
+<td>
+<p>Educación física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Hípica</p>
+<p>• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI103: Hipología.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Hípica.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td rowspan="2">MED-HIHI103: Hipología.</td>
+<td>
+<p>Educación física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Hípica.</p>
+<p>• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI104: Metodología de la enseñanza de la hípica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Hípica.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td rowspan="2">MED-HIHI104: Metodología de la enseñanza de la hípica.</td>
+<td>
+<p>Educación física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Hípica.</p>
+<p>• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI105: Acompañamiento por itinerarios a caballo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Hípica</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td rowspan="2">MED-HIHI105: Acompañamiento por itinerarios a caballo.</td>
+<td>
+<p>Educación física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Hípica</p>
+<p>• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI106: Eventos hípicos.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Hípica.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td rowspan="2">MED-HIHI106: Eventos hípicos.</td>
+<td>
+<p>Educación física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Hípica.</p>
+<p>• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI107: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Hípica.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td rowspan="2">MED-HIHI107: Formación práctica.</td>
+<td>
+<p>Educación física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Hípica.</p>
+<p>• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Ciclo final</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI202: Enseñanza y tecnificación hípica.</td>
-<td class="cuerpo_tabla_izq">Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
+<td rowspan="2">MED-HIHI202: Enseñanza y tecnificación hípica.</td>
+<td>Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI203: Bases del entrenamiento deportivo del caballo.</td>
-<td class="cuerpo_tabla_izq">Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
+<td rowspan="2">MED-HIHI203: Bases del entrenamiento deportivo del caballo.</td>
+<td>Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI204: Preparación física del jinete.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
+<td rowspan="2">MED-HIHI204: Preparación física del jinete.</td>
+<td>Educación física.</td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor/a especialista.</td>
+<td>Profesor/a especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI205: Para-ecuestre.</td>
-<td class="cuerpo_tabla_izq">Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
+<td rowspan="2">MED-HIHI205: Para-ecuestre.</td>
+<td>Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI206: Organización de eventos hípicos.</td>
-<td class="cuerpo_tabla_izq">Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
+<td rowspan="2">MED-HIHI206: Organización de eventos hípicos.</td>
+<td>Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HISD207: Perfeccionamiento técnico en salto.</td>
-<td class="cuerpo_tabla_izq">Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
+<td rowspan="2">MED-HISD207: Perfeccionamiento técnico en salto.</td>
+<td>Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HISD208: Perfeccionamiento técnico en doma.</td>
-<td class="cuerpo_tabla_izq">Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
+<td rowspan="2">MED-HISD208: Perfeccionamiento técnico en doma.</td>
+<td>Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HISD209: Perfeccionamiento técnico en concurso completo.</td>
-<td class="cuerpo_tabla_izq">Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
+<td rowspan="2">MED-HISD209: Perfeccionamiento técnico en concurso completo.</td>
+<td>Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HISD210: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
+<td rowspan="2">MED-HISD210: Formación práctica.</td>
+<td>Educación física con el título de Técnico Deportivo Superior en Hípica.</td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HITE211: Perfeccionamiento técnico en raid.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Hípica</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td rowspan="2">MED-HITE211: Perfeccionamiento técnico en raid.</td>
+<td>
+<p>Educación física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Hípica</p>
+<p>• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HITE212: Perfeccionamiento técnico en trec.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Hípica</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td rowspan="2">MED-HITE212: Perfeccionamiento técnico en trec.</td>
+<td>
+<p>Educación física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Hípica</p>
+<p>• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HITE213: Organización de itinerarios ecuestres.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Hípica</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td rowspan="2">MED-HITE213: Organización de itinerarios ecuestres.</td>
+<td>
+<p>Educación física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Hípica</p>
+<p>• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HITE214: Medio natural.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Hípica</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td rowspan="2">MED-HITE214: Medio natural.</td>
+<td>
+<p>Educación física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Hípica</p>
+<p>• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HITE215: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Hípica</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td rowspan="2">MED-HITE215: Formación práctica.</td>
+<td>
+<p>Educación física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Hípica</p>
+<p>• Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
 <td> </td>
 </tr>
 </tbody>
@@ -7233,240 +7205,233 @@ La Real Federación Hípica Española emitirá la correspondiente certificación
 
 Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia.
 
-<table class="tabla" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Módulos del bloque común: Ciclo inicial y ciclos finales</p>
+<p>Módulos del bloque común: Ciclo inicial y ciclos finales</p>
 </caption>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulos comunes de enseñanza deportiva</th>
-<th class="cabeza_tabla">Titulaciones</th>
+<th>Módulos comunes de enseñanza deportiva</th>
+<th>Titulaciones</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Ciclo inicial</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101. Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Psicología.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C101. Bases del comportamiento deportivo.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado o Graduado en Psicología.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C102 Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Medicina.</p>
-<p class="cuerpo_tabla_izq">Diplomado o Graduado en Enfermería.</p>
-<p class="cuerpo_tabla_izq">Diplomado o Graduado en Fisioterapia.</p>
+<td>MED-C102 Primeros auxilios.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado o Graduado en Medicina.</p>
+<p>Diplomado o Graduado en Enfermería.</p>
+<p>Diplomado o Graduado en Fisioterapia.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C104: Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+<td>MED-C104: Organización deportiva.</td>
+<td>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Ciclo final</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C201 Bases del aprendizaje deportivo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Psicología.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C201 Bases del aprendizaje deportivo.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado o Graduado en Psicología.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C202: Bases del entrenamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+<td>MED-C202: Bases del entrenamiento deportivo.</td>
+<td>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+<td>MED-C206: Iniciación deportiva para personas con discapacidad.</td>
+<td>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C204: Organización y legislación deportiva.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Derecho.</p>
+<td>MED-C204: Organización y legislación deportiva.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado o Graduado en Derecho.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C205. Deporte y género.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C205. Deporte y género.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Módulos del bloque específico: Ciclo inicial y ciclos finales</p>
+<p>Módulos del bloque específico: Ciclo inicial y ciclos finales</p>
 </caption>
-<colgroup>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo específico de enseñanza deportiva</th>
-<th class="cabeza_tabla">Titulaciones</th>
+<th>Módulo específico de enseñanza deportiva</th>
+<th>Titulaciones</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Ciclo inicial</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HIHI102: Transporte y mantenimiento físico del caballo pie a tierra.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td>MED-HIHI102: Transporte y mantenimiento físico del caballo pie a tierra.</td>
+<td>
+<p>Técnico Deportivo Superior en Hípica.</p>
+<p>Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HIHI103: Hipología.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Veterinaria.</p>
+<td>MED-HIHI103: Hipología.</td>
+<td>
+<p>Técnico Deportivo Superior en Hípica.</p>
+<p>Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<p>Licenciado o Graduado en Veterinaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HIHI104: Metodología de la enseñanza de la hípica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td>MED-HIHI104: Metodología de la enseñanza de la hípica.</td>
+<td>
+<p>Técnico Deportivo Superior en Hípica.</p>
+<p>Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HIHI105: Acompañamiento por itinerarios a caballo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td>MED-HIHI105: Acompañamiento por itinerarios a caballo.</td>
+<td>
+<p>Técnico Deportivo Superior en Hípica.</p>
+<p>Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HIHI106: Eventos hípicos.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td>MED-HIHI106: Eventos hípicos.</td>
+<td>
+<p>Técnico Deportivo Superior en Hípica.</p>
+<p>Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HIHI107: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td>MED-HIHI107: Formación práctica.</td>
+<td>
+<p>Técnico Deportivo Superior en Hípica.</p>
+<p>Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Ciclo final de grado medio en las disciplinas hípicas de salto, doma y concurso completo</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HIHI202: Enseñanza y tecnificación hípica.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</td>
+<td>MED-HIHI202: Enseñanza y tecnificación hípica.</td>
+<td>Técnico Deportivo Superior en Hípica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HIHI203: Bases del entrenamiento deportivo del caballo.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</td>
+<td>MED-HIHI203: Bases del entrenamiento deportivo del caballo.</td>
+<td>Técnico Deportivo Superior en Hípica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HIHI204: Preparación física del jinete.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</p>
+<td>MED-HIHI204: Preparación física del jinete.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Técnico Deportivo Superior en Hípica.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HIHI205: Para-ecuestre.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</td>
+<td>MED-HIHI205: Para-ecuestre.</td>
+<td>Técnico Deportivo Superior en Hípica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HIHI206: Organización de eventos hípicos.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</td>
+<td>MED-HIHI206: Organización de eventos hípicos.</td>
+<td>Técnico Deportivo Superior en Hípica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HISD207: Perfeccionamiento técnico en salto.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</td>
+<td>MED-HISD207: Perfeccionamiento técnico en salto.</td>
+<td>Técnico Deportivo Superior en Hípica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HISD208: Perfeccionamiento técnico en doma.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</td>
+<td>MED-HISD208: Perfeccionamiento técnico en doma.</td>
+<td>Técnico Deportivo Superior en Hípica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HISD209: Perfeccionamiento técnico en concurso completo.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</td>
+<td>MED-HISD209: Perfeccionamiento técnico en concurso completo.</td>
+<td>Técnico Deportivo Superior en Hípica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HISD210: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</td>
+<td>MED-HISD210: Formación práctica.</td>
+<td>Técnico Deportivo Superior en Hípica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Ciclo final de grado medio en las disciplinas hípicas de resistencia, orientación y turismo ecuestre</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HITE211: Perfeccionamiento técnico en raid.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td>MED-HITE211: Perfeccionamiento técnico en raid.</td>
+<td>
+<p>Técnico Deportivo Superior en Hípica.</p>
+<p>Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HITE212: Perfeccionamiento técnico en trec.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td>MED-HITE212: Perfeccionamiento técnico en trec.</td>
+<td>
+<p>Técnico Deportivo Superior en Hípica.</p>
+<p>Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HITE213: Organización de itinerarios ecuestres.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td>MED-HITE213: Organización de itinerarios ecuestres.</td>
+<td>
+<p>Técnico Deportivo Superior en Hípica.</p>
+<p>Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HITE214: Medio natural.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td>MED-HITE214: Medio natural.</td>
+<td>
+<p>Técnico Deportivo Superior en Hípica.</p>
+<p>Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HITE215: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Hípica.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
+<td>MED-HITE215: Formación práctica.</td>
+<td>
+<p>Técnico Deportivo Superior en Hípica.</p>
+<p>Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre.</p>
 </td>
 </tr>
 </tbody>
@@ -7480,108 +7445,104 @@ Serán impartidos por quienes acrediten los títulos que a continuación se deta
 
 ## ANEXO XIII A — Correspondencia de los módulos de enseñanza deportiva con las unidades de competencia para su acreditación
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Módulos de enseñanza deportiva superados</p>
+<p>Módulos de enseñanza deportiva superados</p>
 </th>
 <th>
-<p class="cabeza_tabla">Unidades de competencia del CNCP acreditables</p>
+<p>Unidades de competencia del CNCP acreditables</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">El módulo de:</p>
-<p class="cuerpo_tabla_izq">• Prueba RAE-HIHI101, de carácter específico para el acceso a las enseñanzas de ciclo inicial de grado medio en hípica.</p>
+<p>El módulo de:</p>
+<p>• Prueba RAE-HIHI101, de carácter específico para el acceso a las enseñanzas de ciclo inicial de grado medio en hípica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreditan la unidad de competencia de:</p>
-<p class="cuerpo_tabla_izq">• UC1080_2: Dominar las técnicas básicas de monta a caballo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Los módulos de:</p>
-<p class="cuerpo_tabla_izq">• Prueba RAE-HIHI101, de carácter específico para el acceso a las enseñanzas de ciclo inicial de grado medio en hípica.</p>
-<p class="cuerpo_tabla_izq">• MED-HIHI102: Transporte y mantenimiento físico del caballo pie a tierra.</p>
-<p class="cuerpo_tabla_izq">• MED-HIHI103: Hipología.</p>
-<p class="cuerpo_tabla_izq">• MED-HIHI107: Formación práctica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Acreditan las unidades de competencia de:</p>
-<p class="cuerpo_tabla_izq">• UC0719_2: Alimentar y realizar el manejo general y los primeros auxilios al ganado equino.</p>
-<p class="cuerpo_tabla_izq">• UC0720_2: Efectuar la higiene, cuidados y mantenimiento físico del ganado equino.</p>
+<p>Acreditan la unidad de competencia de:</p>
+<p>• UC1080_2: Dominar las técnicas básicas de monta a caballo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Los módulos de:</p>
-<p class="cuerpo_tabla_izq">• MED-C101: Bases del comportamiento deportivo.</p>
-<p class="cuerpo_tabla_izq">• MED-HIHI104: Metodología de la enseñanza de la hípica.</p>
-<p class="cuerpo_tabla_izq">• MED-HIHI107: Formación práctica.</p>
+<p>Los módulos de:</p>
+<p>• Prueba RAE-HIHI101, de carácter específico para el acceso a las enseñanzas de ciclo inicial de grado medio en hípica.</p>
+<p>• MED-HIHI102: Transporte y mantenimiento físico del caballo pie a tierra.</p>
+<p>• MED-HIHI103: Hipología.</p>
+<p>• MED-HIHI107: Formación práctica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreditan la unidad de competencia de:</p>
-<p class="cuerpo_tabla_izq">• UC1646_2: Concretar, dirigir y dinamizar sesiones secuenciadas de iniciación deportiva hípica y ecuestre.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Los módulos de:</p>
-<p class="cuerpo_tabla_izq">• MED-HIHI104: Metodología de la enseñanza de la hípica.</p>
-<p class="cuerpo_tabla_izq">• MED-HIHI106: Eventos hípicos.</p>
-<p class="cuerpo_tabla_izq">• MED-HIHI107: Formación práctica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Acreditan la unidad de competencia de:</p>
-<p class="cuerpo_tabla_izq">• UC1647_2: Dinamizar acciones de promoción y acompañamiento a jinetes/amazonas en eventos y competiciones de hípica y ecuestres.</p>
+<p>Acreditan las unidades de competencia de:</p>
+<p>• UC0719_2: Alimentar y realizar el manejo general y los primeros auxilios al ganado equino.</p>
+<p>• UC0720_2: Efectuar la higiene, cuidados y mantenimiento físico del ganado equino.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Los módulos de:</p>
-<p class="cuerpo_tabla_izq">• MED-HIHI104: Metodología de la enseñanza de la hípica.</p>
-<p class="cuerpo_tabla_izq">• MED-HIHI105: Acompañamiento por itinerarios a caballo.</p>
-<p class="cuerpo_tabla_izq">• MED-HIHI106: Eventos hípicos.</p>
-<p class="cuerpo_tabla_izq">• MED-HIHI107: Formación práctica.</p>
-<p class="cuerpo_tabla_izq">• MED-HITE213: Organización de itinerarios ecuestres.</p>
+<p>Los módulos de:</p>
+<p>• MED-C101: Bases del comportamiento deportivo.</p>
+<p>• MED-HIHI104: Metodología de la enseñanza de la hípica.</p>
+<p>• MED-HIHI107: Formación práctica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreditan la unidad de competencia de:</p>
-<p class="cuerpo_tabla_izq">• UC1081_2: Guiar y dinamizar a personas por itinerarios a caballo.</p>
+<p>Acreditan la unidad de competencia de:</p>
+<p>• UC1646_2: Concretar, dirigir y dinamizar sesiones secuenciadas de iniciación deportiva hípica y ecuestre.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Los módulos de:</p>
-<p class="cuerpo_tabla_izq">• MED-C101: Bases del comportamiento deportivo.</p>
-<p class="cuerpo_tabla_izq">• MED-HIHI104: Metodología de la enseñanza de la hípica.</p>
-<p class="cuerpo_tabla_izq">• MED-HIHI205: Para-ecuestre.</p>
-<p class="cuerpo_tabla_izq">• MED-HITE213: Organización de itinerarios ecuestres.</p>
-<p class="cuerpo_tabla_izq">• MED-HITE214: Medio natural.</p>
-<p class="cuerpo_tabla_izq">• MED-HITE215: Formación práctica.</p>
+<p>Los módulos de:</p>
+<p>• MED-HIHI104: Metodología de la enseñanza de la hípica.</p>
+<p>• MED-HIHI106: Eventos hípicos.</p>
+<p>• MED-HIHI107: Formación práctica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreditan la unidad de competencia de:</p>
-<p class="cuerpo_tabla_izq">• UC1079_2: Determinar y organizar itinerarios a caballo por terrenos variados.</p>
+<p>Acreditan la unidad de competencia de:</p>
+<p>• UC1647_2: Dinamizar acciones de promoción y acompañamiento a jinetes/amazonas en eventos y competiciones de hípica y ecuestres.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Los módulos de:</p>
-<p class="cuerpo_tabla_izq">• MED-C102: Primeros auxilios.</p>
-<p class="cuerpo_tabla_izq">• MED-HIHI107: Formación práctica.</p>
+<p>Los módulos de:</p>
+<p>• MED-HIHI104: Metodología de la enseñanza de la hípica.</p>
+<p>• MED-HIHI105: Acompañamiento por itinerarios a caballo.</p>
+<p>• MED-HIHI106: Eventos hípicos.</p>
+<p>• MED-HIHI107: Formación práctica.</p>
+<p>• MED-HITE213: Organización de itinerarios ecuestres.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreditan la unidad de competencia de:</p>
-<p class="cuerpo_tabla_izq">• UC0272_2: Asistir como primer interviniente en caso de accidente o situación de emergencia.</p>
+<p>Acreditan la unidad de competencia de:</p>
+<p>• UC1081_2: Guiar y dinamizar a personas por itinerarios a caballo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Los módulos de:</p>
+<p>• MED-C101: Bases del comportamiento deportivo.</p>
+<p>• MED-HIHI104: Metodología de la enseñanza de la hípica.</p>
+<p>• MED-HIHI205: Para-ecuestre.</p>
+<p>• MED-HITE213: Organización de itinerarios ecuestres.</p>
+<p>• MED-HITE214: Medio natural.</p>
+<p>• MED-HITE215: Formación práctica.</p>
+</td>
+<td>
+<p>Acreditan la unidad de competencia de:</p>
+<p>• UC1079_2: Determinar y organizar itinerarios a caballo por terrenos variados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Los módulos de:</p>
+<p>• MED-C102: Primeros auxilios.</p>
+<p>• MED-HIHI107: Formación práctica.</p>
+</td>
+<td>
+<p>Acreditan la unidad de competencia de:</p>
+<p>• UC0272_2: Asistir como primer interviniente en caso de accidente o situación de emergencia.</p>
 </td>
 </tr>
 </tbody>
@@ -7646,75 +7607,71 @@ La experiencia laboral se acreditará mediante la certificación de la empresa d
 
 ## ANEXO XV — Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia docente
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulos de Enseñanza Deportiva</th>
-<th class="cabeza_tabla">Experiencia docente</th>
+<th>Módulos de Enseñanza Deportiva</th>
+<th>Experiencia docente</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Ciclo inicial de grado medio en hípica</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-HIHI102: Transporte y mantenimiento físico del caballo pie a tierra.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI103: Hipología.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI104: Metodología de la enseñanza de la hípica.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI105: Acompañamiento por itinerarios a caballo.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI106: Eventos hípicos.</p>
+<td>
+<p>MED-HIHI102: Transporte y mantenimiento físico del caballo pie a tierra.</p>
+<p>MED-HIHI103: Hipología.</p>
+<p>MED-HIHI104: Metodología de la enseñanza de la hípica.</p>
+<p>MED-HIHI105: Acompañamiento por itinerarios a caballo.</p>
+<p>MED-HIHI106: Eventos hípicos.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Experiencia como profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre.</p>
-<p class="cuerpo_tabla_izq">La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro" colspan="2">C<em>iclo final de grado medio en saltos, doma y concurso completo</em></td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-HIHI202: Enseñanza y tecnificación hípica.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI203: Bases del entrenamiento deportivo del caballo.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI204: Preparación física del jinete.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI205: Para-ecuestre.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI206: Organización de eventos hípicos.</p>
-<p class="cuerpo_tabla_izq">MED-HISD207: Perfeccionamiento técnico en salto.</p>
-<p class="cuerpo_tabla_izq">MED-HISD208: Perfeccionamiento técnico en doma.</p>
-<p class="cuerpo_tabla_izq">MED-HISD209: Perfeccionamiento técnico en concurso completo.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Experiencia como profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre.</p>
-<p class="cuerpo_tabla_izq">La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
+<td>
+<p>Experiencia como profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre.</p>
+<p>La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">C<em>iclo final de grado medio en saltos, doma y concurso completo</em></td>
+</tr>
+<tr>
+<td>
+<p>MED-HIHI202: Enseñanza y tecnificación hípica.</p>
+<p>MED-HIHI203: Bases del entrenamiento deportivo del caballo.</p>
+<p>MED-HIHI204: Preparación física del jinete.</p>
+<p>MED-HIHI205: Para-ecuestre.</p>
+<p>MED-HIHI206: Organización de eventos hípicos.</p>
+<p>MED-HISD207: Perfeccionamiento técnico en salto.</p>
+<p>MED-HISD208: Perfeccionamiento técnico en doma.</p>
+<p>MED-HISD209: Perfeccionamiento técnico en concurso completo.</p>
+</td>
+<td>
+<p>Experiencia como profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre.</p>
+<p>La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
 <em>Ciclo final de grado medio en resistencia, orientación y turismo ecuestre</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-HIHI202: Enseñanza y tecnificación hípica.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI203: Bases del entrenamiento deportivo del caballo.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI204: Preparación física del jinete.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI205: Para-ecuestre.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI206: Organización de eventos hípicos.</p>
-<p class="cuerpo_tabla_izq">MED-HITE211: Perfeccionamiento técnico en raid.</p>
-<p class="cuerpo_tabla_izq">MED-HITE212: Perfeccionamiento técnico en trec.</p>
-<p class="cuerpo_tabla_izq">MED-HITE213: Organización de itinerarios ecuestres.</p>
-<p class="cuerpo_tabla_izq">MED-HITE214: Medio natural.</p>
+<td>
+<p>MED-HIHI202: Enseñanza y tecnificación hípica.</p>
+<p>MED-HIHI203: Bases del entrenamiento deportivo del caballo.</p>
+<p>MED-HIHI204: Preparación física del jinete.</p>
+<p>MED-HIHI205: Para-ecuestre.</p>
+<p>MED-HIHI206: Organización de eventos hípicos.</p>
+<p>MED-HITE211: Perfeccionamiento técnico en raid.</p>
+<p>MED-HITE212: Perfeccionamiento técnico en trec.</p>
+<p>MED-HITE213: Organización de itinerarios ecuestres.</p>
+<p>MED-HITE214: Medio natural.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Experiencia como profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre.</p>
-<p class="cuerpo_tabla_izq">La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
+<td>
+<p>Experiencia como profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre.</p>
+<p>La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
 </td>
 </tr>
 </tbody>
@@ -7724,45 +7681,41 @@ La experiencia docente se acreditará mediante certificado expedido por la Comun
 
 ## ANEXO XVI — Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia deportiva
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulos de Enseñanza Deportiva</th>
-<th class="cabeza_tabla">Experiencia deportiva</th>
+<th>Módulos de Enseñanza Deportiva</th>
+<th>Experiencia deportiva</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Ciclo inicial de grado medio en hípica</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-HIHI102: Transporte y mantenimiento físico del caballo pie a tierra.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Deportista de alto nivel en hípica.</p>
-<p class="cuerpo_tabla_izq">Deportista de alto rendimiento en hípica.</p>
-<p class="cuerpo_tabla_izq">Componentes de selecciones hípicas españolas en las categorías absoluta y jóvenes jinetes.</p>
+<td>MED-HIHI102: Transporte y mantenimiento físico del caballo pie a tierra.</td>
+<td>
+<p>Deportista de alto nivel en hípica.</p>
+<p>Deportista de alto rendimiento en hípica.</p>
+<p>Componentes de selecciones hípicas españolas en las categorías absoluta y jóvenes jinetes.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Ciclo final de grado medio en salto, doma y concurso completo, y ciclo final de grado medio en las disciplinas hípicas de resistencia, orientación y turismo ecuestre</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-HISD207: Perfeccionamiento técnico en salto.</p>
-<p class="cuerpo_tabla_izq">MED-HISD208: Perfeccionamiento técnico en doma.</p>
-<p class="cuerpo_tabla_izq">MED-HISD209: Perfeccionamiento técnico en concurso completo.</p>
-<p class="cuerpo_tabla_izq">MED-HITE211: Perfeccionamiento técnico en raid.</p>
-<p class="cuerpo_tabla_izq">MED-HITE212: Perfeccionamiento técnico en trec.</p>
+<td>
+<p>MED-HISD207: Perfeccionamiento técnico en salto.</p>
+<p>MED-HISD208: Perfeccionamiento técnico en doma.</p>
+<p>MED-HISD209: Perfeccionamiento técnico en concurso completo.</p>
+<p>MED-HITE211: Perfeccionamiento técnico en raid.</p>
+<p>MED-HITE212: Perfeccionamiento técnico en trec.</p>
 </td>
-<td class="cuerpo_tabla_izq">Jinete o amazona con la condición de deportistas de alto nivel, por resultados obtenidos en la disciplina hípica correspondiente al módulo de enseñanza deportiva.</td>
+<td>Jinete o amazona con la condición de deportistas de alto nivel, por resultados obtenidos en la disciplina hípica correspondiente al módulo de enseñanza deportiva.</td>
 </tr>
 </tbody>
 </table>
@@ -7773,53 +7726,48 @@ La experiencia deportiva en hípica, se acreditará mediante certificado expedid
 
 ## ANEXO XVII — Formación a distancia
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="2">Grado medio</th>
+<th rowspan="2"> </th>
+<th colspan="2">Grado medio</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Ciclo inicial</th>
-<th class="cabeza_tabla">Ciclo final</th>
+<th>Ciclo inicial</th>
+<th>Ciclo final</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Módulos bloque común.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-C101: Bases del comportamiento deportivo.</p>
-<p class="cuerpo_tabla_izq">MED-C102: Primeros auxilios.</p>
-<p class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</p>
-<p class="cuerpo_tabla_izq">MED-C104: Organización deportiva.</p>
+<td>Módulos bloque común.</td>
+<td>
+<p>MED-C101: Bases del comportamiento deportivo.</p>
+<p>MED-C102: Primeros auxilios.</p>
+<p>MED-C105: Actividad físico-deportiva para personas con discapacidad.</p>
+<p>MED-C104: Organización deportiva.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-C201: Bases del aprendizaje deportivo.</p>
-<p class="cuerpo_tabla_izq">MED-C202: Bases del entrenamiento deportivo.</p>
-<p class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</p>
-<p class="cuerpo_tabla_izq">MED-C204: Organización y legislación deportiva.</p>
-<p class="cuerpo_tabla_izq">MED-C205. Deporte y género.</p>
+<td>
+<p>MED-C201: Bases del aprendizaje deportivo.</p>
+<p>MED-C202: Bases del entrenamiento deportivo.</p>
+<p>MED-C206: Iniciación deportiva para personas con discapacidad.</p>
+<p>MED-C204: Organización y legislación deportiva.</p>
+<p>MED-C205. Deporte y género.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Módulos bloque específico.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-HIHI102: Transporte y mantenimiento físico del caballo pie a tierra.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI103: Hipología.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI106: Eventos hípicos.</p>
+<td>Módulos bloque específico.</td>
+<td>
+<p>MED-HIHI102: Transporte y mantenimiento físico del caballo pie a tierra.</p>
+<p>MED-HIHI103: Hipología.</p>
+<p>MED-HIHI106: Eventos hípicos.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-HIHI202: Enseñanza y tecnificación hípica.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI203: Bases del entrenamiento deportivo del caballo.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI204: Preparación física del jinete.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI205: Para-ecuestre.</p>
-<p class="cuerpo_tabla_izq">MED-HIHI206: Organización de eventos hípicos.</p>
-<p class="cuerpo_tabla_izq">MED-HITE214: Medio natural.</p>
+<td>
+<p>MED-HIHI202: Enseñanza y tecnificación hípica.</p>
+<p>MED-HIHI203: Bases del entrenamiento deportivo del caballo.</p>
+<p>MED-HIHI204: Preparación física del jinete.</p>
+<p>MED-HIHI205: Para-ecuestre.</p>
+<p>MED-HIHI206: Organización de eventos hípicos.</p>
+<p>MED-HITE214: Medio natural.</p>
 </td>
 </tr>
 </tbody>

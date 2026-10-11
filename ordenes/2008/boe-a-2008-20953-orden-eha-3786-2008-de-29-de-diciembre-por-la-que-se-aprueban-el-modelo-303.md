@@ -104,12 +104,6 @@ d) Aquellos que tengan la consideración de Ente público o de establecimiento p
 
 2\. No obstante lo dispuesto en el apartado anterior, los sujetos pasivos diferentes a los previstos en el artículo 2.a).1.º de la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones, declaraciones informativas, declaraciones censales, comunicaciones y solicitudes de devolución, de naturaleza tributaria, podrán efectuar el pago en una entidad colaboradora utilizando el documento de ingreso que se facilitará con el justificante de la presentación, que deberán imprimir y proceder a efectuar dicho pago.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 2.1 de la Orden HFP/1124/2022, de 18 de noviembre [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290), entra en vigor el 1 de enero de 2023, según determina su disposición final única.
-
-> Redacciçon anterior:
-
-> "La presentación de este modelo se efectuará de acuerdo con lo previsto en los artículos 2 a 4, 6 a 9 y 11, ambos inclusive, de la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones y declaraciones informativas de naturaleza tributaria."
-
 > Se modifica por el art. 2.1 de la Orden HFP/1124/2022, de 18 de noviembre. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290)
 
 > Esta modificación se aplicará por primera vez a las autoliquidaciones del Impuesto sobre el Valor Añadido correspondientes a los periodos de liquidación que se inicien a partir del 1 de enero de 2023, según establece la disposición final única de la citada Orden.

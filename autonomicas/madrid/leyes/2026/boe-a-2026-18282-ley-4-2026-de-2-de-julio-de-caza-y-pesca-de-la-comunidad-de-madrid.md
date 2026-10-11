@@ -3543,138 +3543,130 @@ Madrid, 2 de julio de 2026.–La Presidenta, Isabel Díaz Ayuso.
 
 a) Aves.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="30%">
-<col width="60%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Especie</th>
+<th colspan="2">Especie</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Codorniz común.</td>
-<td class="cuerpo_tabla_izq"><em>Coturnix coturnix </em>(Linnaeus, 1758).</td>
+<td>Codorniz común.</td>
+<td><em>Coturnix coturnix </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tórtola común o europea.</td>
-<td class="cuerpo_tabla_izq"><em>Streptopelia turtur </em>(Linnaeus, 1758).</td>
+<td>Tórtola común o europea.</td>
+<td><em>Streptopelia turtur </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Becada.</td>
-<td class="cuerpo_tabla_izq"><em>Scolopax rusticola </em>(Linnaeus, 1758).</td>
+<td>Becada.</td>
+<td><em>Scolopax rusticola </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Perdiz roja.</td>
-<td class="cuerpo_tabla_izq"><em>Alectoris rufa </em>(Linnaeus, 1758).</td>
+<td>Perdiz roja.</td>
+<td><em>Alectoris rufa </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Faisán.</td>
-<td class="cuerpo_tabla_izq"><em>Phasianus colchicus </em>(Linnaeus, 1758).</td>
+<td>Faisán.</td>
+<td><em>Phasianus colchicus </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Urraca.</td>
-<td class="cuerpo_tabla_izq"><em>Pica pica </em>(Linnaeus, 1758).</td>
+<td>Urraca.</td>
+<td><em>Pica pica </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Corneja.</td>
-<td class="cuerpo_tabla_izq"><em>Corvus corone </em>(Linnaeus, 1758).</td>
+<td>Corneja.</td>
+<td><em>Corvus corone </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ánsar o ganso común.</td>
-<td class="cuerpo_tabla_izq"><em>Anser anser </em>(Linnaeus, 1758).</td>
+<td>Ánsar o ganso común.</td>
+<td><em>Anser anser </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Agachadiza chica.</td>
-<td class="cuerpo_tabla_izq"><em>Lymnocryptes minimus </em>(Brunnich, 1764).</td>
+<td>Agachadiza chica.</td>
+<td><em>Lymnocryptes minimus </em>(Brunnich, 1764).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Focha común.</td>
-<td class="cuerpo_tabla_izq"><em>Fulica atra </em>(Linnaeus, 1758).</td>
+<td>Focha común.</td>
+<td><em>Fulica atra </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pato cuchara.</td>
-<td class="cuerpo_tabla_izq"><em>Spatula clypeata</em> (Linnaeus, 1758).</td>
+<td>Pato cuchara.</td>
+<td><em>Spatula clypeata</em> (Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ánade silbón.</td>
-<td class="cuerpo_tabla_izq"><em>Mareca penelope </em>(Linnaeus, 1758).</td>
+<td>Ánade silbón.</td>
+<td><em>Mareca penelope </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ánade real o azulón.</td>
-<td class="cuerpo_tabla_izq"><em>Anas platyrhynchos </em>(Linnaeus, 1758).</td>
+<td>Ánade real o azulón.</td>
+<td><em>Anas platyrhynchos </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Agachadiza común.</td>
-<td class="cuerpo_tabla_izq"><em>Gallinago gallinago </em>(Linnaeus, 1758).</td>
+<td>Agachadiza común.</td>
+<td><em>Gallinago gallinago </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Paloma bravía.</td>
-<td class="cuerpo_tabla_izq"><em>Columba livia </em>(Gmelin, 1789).</td>
+<td>Paloma bravía.</td>
+<td><em>Columba livia </em>(Gmelin, 1789).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Paloma zurita.</td>
-<td class="cuerpo_tabla_izq"><em>Columba oenas </em>(Linnaeus, 1758).</td>
+<td>Paloma zurita.</td>
+<td><em>Columba oenas </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Paloma torcaz.</td>
-<td class="cuerpo_tabla_izq"><em>Columba palumbus </em>(Linnaeus, 1758).</td>
+<td>Paloma torcaz.</td>
+<td><em>Columba palumbus </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estornino pinto.</td>
-<td class="cuerpo_tabla_izq"><em>Sturnus vulgaris </em>(Linnaeus, 1758).</td>
+<td>Estornino pinto.</td>
+<td><em>Sturnus vulgaris </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zorzal real.</td>
-<td class="cuerpo_tabla_izq"><em>Turdus pilaris </em>(Linnaeus, 1758).</td>
+<td>Zorzal real.</td>
+<td><em>Turdus pilaris </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zorzal alirrojo.</td>
-<td class="cuerpo_tabla_izq"><em>Turdus iliacus </em>(Linnaeus, 1758).</td>
+<td>Zorzal alirrojo.</td>
+<td><em>Turdus iliacus </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zorzal común.</td>
-<td class="cuerpo_tabla_izq"><em>Turdus philomelos </em>(Brehm, 1831).</td>
+<td>Zorzal común.</td>
+<td><em>Turdus philomelos </em>(Brehm, 1831).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zorzal charlo.</td>
-<td class="cuerpo_tabla_izq"><em>Turdus viscivorus </em>(Linnaeus, 1758).</td>
+<td>Zorzal charlo.</td>
+<td><em>Turdus viscivorus </em>(Linnaeus, 1758).</td>
 </tr>
 </tbody>
 </table>
 
 b) Mamíferos.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="30%">
-<col width="60%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Especie</th>
+<th colspan="2">Especie</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Zorro*.</td>
-<td class="cuerpo_tabla_izq"><em>Vulpes vulpes</em> (Linnaeus, 1758).</td>
+<td>Zorro*.</td>
+<td><em>Vulpes vulpes</em> (Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Liebre ibérica*.</td>
-<td class="cuerpo_tabla_izq"><em>Lepus granatensis </em>(Rosenhauer, 1856).</td>
+<td>Liebre ibérica*.</td>
+<td><em>Lepus granatensis </em>(Rosenhauer, 1856).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conejo*.</td>
-<td class="cuerpo_tabla_izq"><em>Oryctolagus cuniculus </em>(Linnaeus, 1758).</td>
+<td>Conejo*.</td>
+<td><em>Oryctolagus cuniculus </em>(Linnaeus, 1758).</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">* Especies de caza menor de pelo.</p>
+<p>* Especies de caza menor de pelo.</p>
 </td>
 </tr>
 </tfoot>
@@ -3682,40 +3674,36 @@ b) Mamíferos.
 
 2\. Relación de especies de caza mayor: mamíferos.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="30%">
-<col width="60%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Especie</th>
+<th colspan="2">Especie</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Jabalí.</td>
-<td class="cuerpo_tabla_izq"><em>Sus scrofa </em>(Linnaeus, 1758).</td>
+<td>Jabalí.</td>
+<td><em>Sus scrofa </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciervo o venado.</td>
-<td class="cuerpo_tabla_izq"><em>Cervus elaphus </em>(Linnaeus, 1758).</td>
+<td>Ciervo o venado.</td>
+<td><em>Cervus elaphus </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gamo.</td>
-<td class="cuerpo_tabla_izq"><em>Dama dama </em>(Linnaeus, 1758).</td>
+<td>Gamo.</td>
+<td><em>Dama dama </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Corzo.</td>
-<td class="cuerpo_tabla_izq"><em>Capreolus capreolus </em>(Linnaeus, 1758).</td>
+<td>Corzo.</td>
+<td><em>Capreolus capreolus </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cabra montés.</td>
-<td class="cuerpo_tabla_izq"><em>Capra pyrenaica</em> (Schinz, 1838).</td>
+<td>Cabra montés.</td>
+<td><em>Capra pyrenaica</em> (Schinz, 1838).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Muflón.</td>
-<td class="cuerpo_tabla_izq"><em>Ovis orientalis </em>(Pallas, 1811).</td>
+<td>Muflón.</td>
+<td><em>Ovis orientalis </em>(Pallas, 1811).</td>
 </tr>
 </tbody>
 </table>
@@ -3814,96 +3802,88 @@ m) Cetrería: modalidad de caza consistente en la utilización de aves rapaces a
 
 1\. Relación de especies autóctonas o alóctonas objeto de pesca:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="30%">
-<col width="60%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Especie</th>
+<th colspan="2">Especie</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Trucha común.</td>
-<td class="cuerpo_tabla_izq"><em>Salmo trutta</em> (Linnaeus, 1758).</td>
+<td>Trucha común.</td>
+<td><em>Salmo trutta</em> (Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Barbo común.</td>
-<td class="cuerpo_tabla_izq"><em>Luciobarbus bocagei</em> (Steindachner, 1864).</td>
+<td>Barbo común.</td>
+<td><em>Luciobarbus bocagei</em> (Steindachner, 1864).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Boga de río.</td>
-<td class="cuerpo_tabla_izq"><em>Pseudochondrostoma polylepis</em> (Steindachner, 1865).</td>
+<td>Boga de río.</td>
+<td><em>Pseudochondrostoma polylepis</em> (Steindachner, 1865).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cacho.</td>
-<td class="cuerpo_tabla_izq"><em>Squalius pyrenaicus </em>(Günther, 1868).</td>
+<td>Cacho.</td>
+<td><em>Squalius pyrenaicus </em>(Günther, 1868).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carpín.</td>
-<td class="cuerpo_tabla_izq"><em>Carassius </em>spp.</td>
+<td>Carpín.</td>
+<td><em>Carassius </em>spp.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gobio.</td>
-<td class="cuerpo_tabla_izq"><em>Gobio lozanoi </em>(Doadrio y Madeira, 2004).</td>
+<td>Gobio.</td>
+<td><em>Gobio lozanoi </em>(Doadrio y Madeira, 2004).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tenca.</td>
-<td class="cuerpo_tabla_izq"><em>Tinca tinca </em>(Linnaeus, 1758).</td>
+<td>Tenca.</td>
+<td><em>Tinca tinca </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carpín sin madre.</td>
-<td class="cuerpo_tabla_izq"><em>Leucaspius delineatus </em>(Heckel, 1843).</td>
+<td>Carpín sin madre.</td>
+<td><em>Leucaspius delineatus </em>(Heckel, 1843).</td>
 </tr>
 </tbody>
 </table>
 
 2\. Relación de especies exóticas invasoras objeto de pesca:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="30%">
-<col width="60%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Especie</th>
+<th colspan="2">Especie</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Alburno.</td>
-<td class="cuerpo_tabla_izq"><em>Alburnus alburnus </em>(Linnaeus, 1758).</td>
+<td>Alburno.</td>
+<td><em>Alburnus alburnus </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Black-bass.</td>
-<td class="cuerpo_tabla_izq"><em>Micropterus salmoides</em> (Lacépède, 1802).</td>
+<td>Black-bass.</td>
+<td><em>Micropterus salmoides</em> (Lacépède, 1802).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carpa.</td>
-<td class="cuerpo_tabla_izq"><em>Cyprinus carpio </em>(Linnaeus, 1758).</td>
+<td>Carpa.</td>
+<td><em>Cyprinus carpio </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lucio.</td>
-<td class="cuerpo_tabla_izq"><em>Esox lucius </em>(Linnaeus, 1758).</td>
+<td>Lucio.</td>
+<td><em>Esox lucius </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lucioperca.</td>
-<td class="cuerpo_tabla_izq"><em>Sander lucioperca </em>(Linnaeus, 1758).</td>
+<td>Lucioperca.</td>
+<td><em>Sander lucioperca </em>(Linnaeus, 1758).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trucha arcoíris.</td>
-<td class="cuerpo_tabla_izq"><em>Oncorhynchus mykiss </em>(Walbaum, 1792).</td>
+<td>Trucha arcoíris.</td>
+<td><em>Oncorhynchus mykiss </em>(Walbaum, 1792).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cangrejo señal.</td>
-<td class="cuerpo_tabla_izq"><em>Pacifastacus leniusculus </em>(Dana, 1852).</td>
+<td>Cangrejo señal.</td>
+<td><em>Pacifastacus leniusculus </em>(Dana, 1852).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cangrejo rojo.</td>
-<td class="cuerpo_tabla_izq"><em>Procambarus clarkii </em>(Girard, 1852).</td>
+<td>Cangrejo rojo.</td>
+<td><em>Procambarus clarkii </em>(Girard, 1852).</td>
 </tr>
 </tbody>
 </table>

@@ -360,12 +360,6 @@ c) Transcurridos 10 años desde la emisión o última renovación de la autoriza
 
 2\. Los centros integrados por unidades físicamente independientes entre sí se registrarán como un único centro, a menos que tengan un funcionamiento y una organización independientes, se localicen en municipios diferentes o que ello determine la competencia de distintos órganos.
 
-> Téngase en cuenta que la actualización del apartado 2, establecida por el art. único.1 del Real Decreto 1083/2025, de 2 de diciembre, [Ref. BOE-A-2025-24547](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24547), entra en vigor el 5 de junio de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "2. Los centros integrados por unidades físicamente independientes entre sí se registrarán como un único centro, a menos que tengan un funcionamiento y una organización independientes, o que ello determine la competencia de distintos órganos competentes."
-
 3\. Cuando se simultaneen actividades de cría, suministro o utilización de animales en procedimientos, en el registro se especificarán todas y cada una de ellas.
 
 4\. Cualquier modificación de los datos que figuren inscritos, derivada de ampliaciones, reducciones, traslados, cambios del personal responsable u otras circunstancias, así como en el caso de suspensión o cese de la actividad, o de cambio de titularidad, deberá ser comunicada al órgano competente en el plazo máximo de un mes desde que dicha modificación se haya producido, para que se efectúe la correspondiente modificación en el registro. En particular debe comunicarse el cambio de cualquiera de las personas a las que se refiere el artículo 14.4.
@@ -692,8 +686,6 @@ b) La demostración del cumplimiento del requisito de reemplazo, reducción y re
 
 5\. Los órganos competentes para la autorización de proyectos podrán exigir que, en la evaluación de estos, se compruebe su coherencia con el respectivo resumen no técnico del proyecto.
 
-> Téngase en cuenta que el apartado 5, añadido por el art. único.2 del Real Decreto 1083/2025, de 2 de diciembre, [Ref. BOE-A-2025-24547](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24547), entra en vigor el 5 de junio de 2026, según determina su disposición final 3.
-
 > Se añade el apartado 5, con efectos desde el 5 de junio de 2026, por el art. único.2 del Real Decreto 1083/2025, de 2 de diciembre. [Ref. BOE-A-2025-24547](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24547)
 
 > Se modifica por el art. único.2 del Real Decreto 118/2021, de 23 de febrero. [Ref. BOE-A-2021-2845](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2845)
@@ -825,26 +817,6 @@ El programa será revisado cada cinco años.
 7\. El Ministerio de Agricultura, Pesca y Alimentación publicará anualmente, información estadística relativa a la utilización de animales, que incluirá información sobre la severidad real de los procedimientos, y sobre las especies y el origen de los primates utilizados en los procedimientos.
 
 8\. El Ministerio de Agricultura, Pesca y Alimentación y el Ministerio de Ciencia, Innovación y Universidades coordinarán con los órganos competentes las actuaciones precisas para la aplicación de este real decreto.
-
-> Téngase en cuenta que la actualización del artículo, establecida por el art. único.4 del Real Decreto 1083/2025, de 2 de diciembre, [Ref. BOE-A-2025-24547](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24547), entra en vigor el 5 de junio de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 41. Coordinación, deber de información y publicidad de la información.
-
-> 1\. Los criadores, suministradores y usuarios comunicarán a los órganos competentes, en los plazos y forma que éstas establezcan, los datos necesarios para que se puedan cumplir las obligaciones establecidas en la normativa nacional y de la Unión Europea.
-
-> 2\. El Ministerio de Agricultura, Alimentación y Medio Ambiente es el punto de contacto a efectos del cumplimiento de este real decreto y a efectos de asesoramiento sobre la pertinencia normativa y conveniencia de los planteamientos alternativos propuestos para su validación, que establecen, respectivamente, los artículos 59.2 y 47.5 de la Directiva 2010/63/UE, de 22 de septiembre, relativa a la protección de los animales utilizados para fines científicos.
-
-> 3\. Las comunidades autónomas y ciudades de Ceuta y Melilla establecerán un punto de contacto a efectos del cumplimiento de este real decreto, que comunicarán al Ministerio de Agricultura, Alimentación y Medio Ambiente.
-
-> 4\. Los puntos de contacto establecidos en el apartado anterior, a efectos del cumplimiento de la obligación de comunicación de información a la Comisión Europea, elaborarán informes con la frecuencia, el formato y el contenido que establezca la Comisión Europea o, en su caso, el Ministerio de Agricultura, Pesca y Alimentación, en coordinación con las comunidades autónomas y las ciudades de Ceuta y Melilla. Dichos informes se remitirán anualmente al citado Ministerio, fijándose como fecha límite el 31 de marzo.
-
-> 5\. Con la información suministrada, el Ministerio de Agricultura, Alimentación y Medio Ambiente confeccionará los pertinentes informes para su remisión en plazo a la Comisión Europea a través del cauce correspondiente.
-
-> 6\. El Ministerio de Agricultura, Alimentación y Medio Ambiente publicará anualmente, en el modelo establecido por la Comisión Europea, información estadística relativa a la utilización de animales, que incluirá información sobre la severidad real de los procedimientos, y sobre las especies y el origen de los primates utilizados en los procedimientos.
-
-> 7\. El Ministerio de Agricultura, Alimentación y Medio Ambiente coordinará con los órganos competentes las actuaciones precisas para la aplicación de este real decreto."
 
 > Se modifica, con efectos desde el 5 de junio de 2026, por el art. único.4 del Real Decreto 118/2021, de 23 de febrero. [Ref. BOE-A-2021-2845](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2845)
 
@@ -1304,93 +1276,85 @@ A la hora de planificar los procedimientos hay que tener en cuenta el crecimient
 
 Cuadro 1.1 Ratones
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="23%">
-<col width="15%">
-<col width="21%">
-<col width="13%">
-<col width="12%">
-<col width="16%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Peso corporal</p>
-<p class="cabeza_tabla">(g)</p>
+<th> </th>
+<th>
+<p>Peso corporal</p>
+<p>(g)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie del suelo por animal</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie del suelo por animal</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima del recinto</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima del recinto</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6.2</th>
+<th>Fecha a que se refiere el artículo 6.2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">En reserva y durante los procedimientos.</td>
-<td class="cuerpo_tabla_izq">Hasta 20.</td>
-<td class="cuerpo_tabla_centro">330</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro" rowspan="7">1 de enero de 2017</td>
+<td rowspan="4">En reserva y durante los procedimientos.</td>
+<td>Hasta 20.</td>
+<td>330</td>
+<td>60</td>
+<td>12</td>
+<td rowspan="7">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 20 a 25.</td>
-<td class="cuerpo_tabla_centro">330</td>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>De más de 20 a 25.</td>
+<td>330</td>
+<td>70</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 25 a 30.</td>
-<td class="cuerpo_tabla_centro">330</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>De más de 25 a 30.</td>
+<td>330</td>
+<td>80</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 30.</td>
-<td class="cuerpo_tabla_centro">330</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>Más de 30.</td>
+<td>330</td>
+<td>100</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reproducción.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">330</p>
-<p class="cuerpo_tabla_izq">Para una pareja monógama (no consanguínea/consanguínea) o un trío (consanguíneo). Por cada hembra suplementaria y su camada deben añadirse otros 180 cm².</p>
+<td>Reproducción.</td>
+<td> </td>
+<td>
+<p>330</p>
+<p>Para una pareja monógama (no consanguínea/consanguínea) o un trío (consanguíneo). Por cada hembra suplementaria y su camada deben añadirse otros 180 cm².</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">12</td>
+<td> </td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En reserva en criadores*.</td>
-<td class="cuerpo_tabla_izq">Menos de 20.</td>
-<td class="cuerpo_tabla_centro">950</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>En reserva en criadores*.</td>
+<td>Menos de 20.</td>
+<td>950</td>
+<td>40</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En reserva en criadores*.</td>
-<td class="cuerpo_tabla_izq">Menos de 20.</td>
-<td class="cuerpo_tabla_centro">1.500</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>En reserva en criadores*.</td>
+<td>Menos de 20.</td>
+<td>1.500</td>
+<td>30</td>
+<td>12</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">* Los ratones, una vez destetados, pueden permanecer con esas densidades de ocupación más elevadas, en el corto período comprendido entre el destete y la expedición, siempre que estén alojados en recintos más amplios con un enriquecimiento adecuado y esas condiciones de alojamiento no produzcan ninguna merma de bienestar, como, por ejemplo, mayor agresividad, morbilidad o mortalidad, estereotipias y otras anomalías de comportamiento, pérdida de peso u otras respuestas fisiológicas o conductuales al estrés.</p>
+<p>* Los ratones, una vez destetados, pueden permanecer con esas densidades de ocupación más elevadas, en el corto período comprendido entre el destete y la expedición, siempre que estén alojados en recintos más amplios con un enriquecimiento adecuado y esas condiciones de alojamiento no produzcan ninguna merma de bienestar, como, por ejemplo, mayor agresividad, morbilidad o mortalidad, estereotipias y otras anomalías de comportamiento, pérdida de peso u otras respuestas fisiológicas o conductuales al estrés.</p>
 </td>
 </tr>
 </tfoot>
@@ -1398,136 +1362,128 @@ Cuadro 1.1 Ratones
 
 Cuadro 1.2 Ratas
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="23%">
-<col width="15%">
-<col width="21%">
-<col width="13%">
-<col width="12%">
-<col width="16%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Peso corporal</p>
-<p class="cabeza_tabla">(g)</p>
+<th> </th>
+<th>
+<p>Peso corporal</p>
+<p>(g)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie del suelo por animal</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie del suelo por animal</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima del recinto</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima del recinto</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">En reserva y durante los procedimientos*.</td>
-<td class="cuerpo_tabla_izq">Hasta 200.</td>
-<td class="cuerpo_tabla_centro">800</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro" rowspan="13">1 de enero de 2017</td>
+<td rowspan="5">En reserva y durante los procedimientos*.</td>
+<td>Hasta 200.</td>
+<td>800</td>
+<td>200</td>
+<td>18</td>
+<td rowspan="13">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 200 a 300.</td>
-<td class="cuerpo_tabla_centro">800</td>
-<td class="cuerpo_tabla_centro">250</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>De más de 200 a 300.</td>
+<td>800</td>
+<td>250</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 300 a 400.</td>
-<td class="cuerpo_tabla_centro">800</td>
-<td class="cuerpo_tabla_centro">350</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>De más de 300 a 400.</td>
+<td>800</td>
+<td>350</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 400 a 600.</td>
-<td class="cuerpo_tabla_centro">800</td>
-<td class="cuerpo_tabla_centro">450</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>De más de 400 a 600.</td>
+<td>800</td>
+<td>450</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 600.</td>
-<td class="cuerpo_tabla_centro">1.500</td>
-<td class="cuerpo_tabla_centro">600</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>Más de 600.</td>
+<td>1.500</td>
+<td>600</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reproducción.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">800</p>
-<p class="cuerpo_tabla_izq">Madre y camada. Por cada animal adulto adicional, introducido de forma permanente en el recinto, deben añadirse otros 400 cm².</p>
+<td>Reproducción.</td>
+<td> </td>
+<td>
+<p>800</p>
+<p>Madre y camada. Por cada animal adulto adicional, introducido de forma permanente en el recinto, deben añadirse otros 400 cm².</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">18</td>
+<td> </td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">Reserva en criadores**.</p>
-<p class="cuerpo_tabla_izq">Dimensión del recinto 1 500 cm².</p>
+<td rowspan="4">
+<p>Reserva en criadores**.</p>
+<p>Dimensión del recinto 1 500 cm².</p>
 </td>
-<td class="cuerpo_tabla_izq">Hasta 50.</td>
-<td class="cuerpo_tabla_centro">1.500</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>Hasta 50.</td>
+<td>1.500</td>
+<td>100</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 50 a 100.</td>
-<td class="cuerpo_tabla_centro">1.500</td>
-<td class="cuerpo_tabla_centro">125</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>De más de 50 a 100.</td>
+<td>1.500</td>
+<td>125</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 100 a 150.</td>
-<td class="cuerpo_tabla_centro">1.500</td>
-<td class="cuerpo_tabla_centro">150</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>De más de 100 a 150.</td>
+<td>1.500</td>
+<td>150</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 150 a 200.</td>
-<td class="cuerpo_tabla_centro">1.500</td>
-<td class="cuerpo_tabla_centro">175</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>De más de 150 a 200.</td>
+<td>1.500</td>
+<td>175</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">Reserva en criadores**.</p>
-<p class="cuerpo_tabla_izq">Dimensión del recinto 2 500 cm².</p>
+<td rowspan="3">
+<p>Reserva en criadores**.</p>
+<p>Dimensión del recinto 2 500 cm².</p>
 </td>
-<td class="cuerpo_tabla_izq">Hasta 100.</td>
-<td class="cuerpo_tabla_centro">2.500</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>Hasta 100.</td>
+<td>2.500</td>
+<td>100</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 100 a 150.</td>
-<td class="cuerpo_tabla_centro">2.500</td>
-<td class="cuerpo_tabla_centro">125</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>De más de 100 a 150.</td>
+<td>2.500</td>
+<td>125</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 150 a 200.</td>
-<td class="cuerpo_tabla_centro">2.500</td>
-<td class="cuerpo_tabla_centro">150</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>De más de 150 a 200.</td>
+<td>2.500</td>
+<td>150</td>
+<td>18</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">* En los estudios a largo plazo, si el espacio mínimo disponible para cada animal es inferior al indicado más arriba hacia el final de dichos estudios, debe darse prioridad al mantenimiento de estructuras sociales estables.</p>
-<p class="cita">** Las ratas, una vez destetadas, pueden permanecer con esas densidades de ocupación más elevadas en el corto período comprendido entre el destete y la expedición, siempre que estén alojadas en recintos más amplios con un enriquecimiento adecuado y esas condiciones de alojamiento no produzcan ninguna merma de bienestar como, por ejemplo, mayor agresividad, morbilidad o mortalidad, estereotipias y otras anomalías de comportamiento, pérdida de peso u otras respuestas fisiológicas o conductuales al estrés.</p>
+<p>* En los estudios a largo plazo, si el espacio mínimo disponible para cada animal es inferior al indicado más arriba hacia el final de dichos estudios, debe darse prioridad al mantenimiento de estructuras sociales estables.</p>
+<p>** Las ratas, una vez destetadas, pueden permanecer con esas densidades de ocupación más elevadas en el corto período comprendido entre el destete y la expedición, siempre que estén alojadas en recintos más amplios con un enriquecimiento adecuado y esas condiciones de alojamiento no produzcan ninguna merma de bienestar como, por ejemplo, mayor agresividad, morbilidad o mortalidad, estereotipias y otras anomalías de comportamiento, pérdida de peso u otras respuestas fisiológicas o conductuales al estrés.</p>
 </td>
 </tr>
 </tfoot>
@@ -1535,141 +1491,125 @@ Cuadro 1.2 Ratas
 
 Cuadro 1.3 Jerbos
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="23%">
-<col width="15%">
-<col width="21%">
-<col width="13%">
-<col width="12%">
-<col width="16%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Peso corporal</p>
-<p class="cabeza_tabla">(g)</p>
+<th> </th>
+<th>
+<p>Peso corporal</p>
+<p>(g)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie del suelo por animal</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie del suelo por animal</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima del recinto</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima del recinto</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">En reserva y durante los procedimientos.</td>
-<td class="cuerpo_tabla_izq">Hasta 40.</td>
-<td class="cuerpo_tabla_centro">1.200</td>
-<td class="cuerpo_tabla_centro">150</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+<td rowspan="2">En reserva y durante los procedimientos.</td>
+<td>Hasta 40.</td>
+<td>1.200</td>
+<td>150</td>
+<td>18</td>
+<td rowspan="3">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 40.</td>
-<td class="cuerpo_tabla_centro">1.200</td>
-<td class="cuerpo_tabla_centro">250</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>Más de 40.</td>
+<td>1.200</td>
+<td>250</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reproducción.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">1.200</p>
-<p class="cuerpo_tabla_izq">Pareja monógama o trío con descendencia.</p>
+<td>Reproducción.</td>
+<td> </td>
+<td>
+<p>1.200</p>
+<p>Pareja monógama o trío con descendencia.</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">18</td>
+<td> </td>
+<td>18</td>
 </tr>
 </tbody>
 </table>
 
 Cuadro 1.4 Hámsteres
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="23%">
-<col width="15%">
-<col width="21%">
-<col width="13%">
-<col width="12%">
-<col width="16%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Peso corporal</p>
-<p class="cabeza_tabla">(g)</p>
+<th> </th>
+<th>
+<p>Peso corporal</p>
+<p>(g)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie del suelo por animal</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie del suelo por animal</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima del recinto</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima del recinto</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">En reserva y durante los procedimientos.</td>
-<td class="cuerpo_tabla_izq">Hasta 60.</td>
-<td class="cuerpo_tabla_centro">800</td>
-<td class="cuerpo_tabla_centro">150</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro" rowspan="5">1 de enero de 2017</td>
+<td rowspan="3">En reserva y durante los procedimientos.</td>
+<td>Hasta 60.</td>
+<td>800</td>
+<td>150</td>
+<td>14</td>
+<td rowspan="5">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 60 a 100.</td>
-<td class="cuerpo_tabla_centro">800</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">14</td>
+<td>De más de 60 a 100.</td>
+<td>800</td>
+<td>200</td>
+<td>14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 100.</td>
-<td class="cuerpo_tabla_centro">800</td>
-<td class="cuerpo_tabla_centro">250</td>
-<td class="cuerpo_tabla_centro">14</td>
+<td>Más de 100.</td>
+<td>800</td>
+<td>250</td>
+<td>14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reproducción.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">800</p>
-<p class="cuerpo_tabla_izq">Madre o pareja monógama con camada.</p>
+<td>Reproducción.</td>
+<td> </td>
+<td>
+<p>800</p>
+<p>Madre o pareja monógama con camada.</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">14</td>
+<td> </td>
+<td>14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En reserva en criadores*.</td>
-<td class="cuerpo_tabla_izq">Menos de 60.</td>
-<td class="cuerpo_tabla_centro">1.500</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">14</td>
+<td>En reserva en criadores*.</td>
+<td>Menos de 60.</td>
+<td>1.500</td>
+<td>100</td>
+<td>14</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">* Los hámsteres, una vez destetados, pueden permanecer con esas densidades de ocupación más elevadas, en el corto período comprendido entre el destete y la expedición, siempre que estén alojados en recintos más amplios con un enriquecimiento adecuado y esas condiciones de alojamiento no produzcan ninguna merma de bienestar, como, por ejemplo, mayor agresividad, morbilidad o mortalidad, estereotipias y otras anomalías de comportamiento, pérdida de peso u otras respuestas fisiológicas o conductuales al estrés.</p>
+<p>* Los hámsteres, una vez destetados, pueden permanecer con esas densidades de ocupación más elevadas, en el corto período comprendido entre el destete y la expedición, siempre que estén alojados en recintos más amplios con un enriquecimiento adecuado y esas condiciones de alojamiento no produzcan ninguna merma de bienestar, como, por ejemplo, mayor agresividad, morbilidad o mortalidad, estereotipias y otras anomalías de comportamiento, pérdida de peso u otras respuestas fisiológicas o conductuales al estrés.</p>
 </td>
 </tr>
 </tfoot>
@@ -1677,79 +1617,71 @@ Cuadro 1.4 Hámsteres
 
 Cuadro 1.5 Cobayas
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="23%">
-<col width="15%">
-<col width="21%">
-<col width="13%">
-<col width="12%">
-<col width="16%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Peso corporal</p>
-<p class="cabeza_tabla">(g)</p>
+<th> </th>
+<th>
+<p>Peso corporal</p>
+<p>(g)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie del suelo por animal</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie del suelo por animal</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima del recinto</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima del recinto</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">En reserva y durante los procedimientos.</td>
-<td class="cuerpo_tabla_izq">Hasta 200.</td>
-<td class="cuerpo_tabla_centro">1.800</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro" rowspan="6">1 de enero de 2017</td>
+<td rowspan="5">En reserva y durante los procedimientos.</td>
+<td>Hasta 200.</td>
+<td>1.800</td>
+<td>200</td>
+<td>23</td>
+<td rowspan="6">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 200 a 300.</td>
-<td class="cuerpo_tabla_centro">1.800</td>
-<td class="cuerpo_tabla_centro">350</td>
-<td class="cuerpo_tabla_centro">23</td>
+<td>De más de 200 a 300.</td>
+<td>1.800</td>
+<td>350</td>
+<td>23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 300 a 450.</td>
-<td class="cuerpo_tabla_centro">1.800</td>
-<td class="cuerpo_tabla_centro">500</td>
-<td class="cuerpo_tabla_centro">23</td>
+<td>De más de 300 a 450.</td>
+<td>1.800</td>
+<td>500</td>
+<td>23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 450 a 700.</td>
-<td class="cuerpo_tabla_centro">2.500</td>
-<td class="cuerpo_tabla_centro">700</td>
-<td class="cuerpo_tabla_centro">23</td>
+<td>De más de 450 a 700.</td>
+<td>2.500</td>
+<td>700</td>
+<td>23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 700.</td>
-<td class="cuerpo_tabla_centro">2.500</td>
-<td class="cuerpo_tabla_centro">900</td>
-<td class="cuerpo_tabla_centro">23</td>
+<td>Más de 700.</td>
+<td>2.500</td>
+<td>900</td>
+<td>23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reproducción.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">2.500</p>
-<p class="cuerpo_tabla_izq">Pareja con camada. Por cada hembra reproductora suplementaria, deben añadirse otros 1.000 cm².</p>
+<td>Reproducción.</td>
+<td> </td>
+<td>
+<p>2.500</p>
+<p>Pareja con camada. Por cada hembra reproductora suplementaria, deben añadirse otros 1.000 cm².</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">23</td>
+<td> </td>
+<td>23</td>
 </tr>
 </tbody>
 </table>
@@ -1762,100 +1694,87 @@ Cuadro 2.1 Conejos de más de 10 semanas
 
 El cuadro 2.1 se refiere tanto a las jaulas como a los cercados. La superficie de suelo suplementaria es, como mínimo, de 3 000 cm<sup>2</sup> por conejo para el tercero, el cuarto, el quinto y el sexto animal, mientras que deben añadirse, como mínimo, 2 500 cm<sup>2</sup> por cada conejo que se introduzca por encima de seis.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="50%">
-<col width="10%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Peso corporal final</p>
-<p class="cabeza_tabla">(kg)</p>
+<th>
+<p>Peso corporal final</p>
+<p>(kg)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima de suelo para uno o dos animales socialmente armoniosos</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie mínima de suelo para uno o dos animales socialmente armoniosos</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Menos de 3.</td>
-<td class="cuerpo_tabla_centro">3 500</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+<td>Menos de 3.</td>
+<td>3 500</td>
+<td>45</td>
+<td rowspan="3">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entre 3 y 5.</td>
-<td class="cuerpo_tabla_centro">4 200</td>
-<td class="cuerpo_tabla_centro">45</td>
+<td>Entre 3 y 5.</td>
+<td>4 200</td>
+<td>45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 5.</td>
-<td class="cuerpo_tabla_centro">5 400</td>
-<td class="cuerpo_tabla_centro">60</td>
+<td>Más de 5.</td>
+<td>5 400</td>
+<td>60</td>
 </tr>
 </tbody>
 </table>
 
 Cuadro 2.2 Conejas con camada
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="25%">
-<col width="25%">
-<col width="10%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Peso de la coneja</p>
-<p class="cabeza_tabla">(kg)</p>
+<th>
+<p>Peso de la coneja</p>
+<p>(kg)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima del recinto</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie mínima del recinto</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Suplemento para las cajas nido</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Suplemento para las cajas nido</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Menos de 3.</td>
-<td class="cuerpo_tabla_centro">3.500</td>
-<td class="cuerpo_tabla_centro">1.000</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de.2017</td>
+<td>Menos de 3.</td>
+<td>3.500</td>
+<td>1.000</td>
+<td>45</td>
+<td rowspan="3">1 de enero de.2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entre 3 y 5.</td>
-<td class="cuerpo_tabla_centro">4.200</td>
-<td class="cuerpo_tabla_centro">1.200</td>
-<td class="cuerpo_tabla_centro">45</td>
+<td>Entre 3 y 5.</td>
+<td>4.200</td>
+<td>1.200</td>
+<td>45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 5.</td>
-<td class="cuerpo_tabla_centro">5.400</td>
-<td class="cuerpo_tabla_centro">1.400</td>
-<td class="cuerpo_tabla_centro">60</td>
+<td>Más de 5.</td>
+<td>5.400</td>
+<td>1.400</td>
+<td>60</td>
 </tr>
 </tbody>
 </table>
@@ -1864,94 +1783,80 @@ Cuadro 2.3 Conejos de menos de 10 semanas
 
 El cuadro 2.3 se refiere tanto a las jaulas como a los cercados.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="25%">
-<col width="25%">
-<col width="10%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Edad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima del recinto</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>Edad</th>
+<th>
+<p>Superficie mínima del recinto</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima de suelo por animal</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie mínima de suelo por animal</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Entre el destete y 7 semanas.</td>
-<td class="cuerpo_tabla_centro">4.000</td>
-<td class="cuerpo_tabla_centro"> 800</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1 de enero de 2017</td>
+<td>Entre el destete y 7 semanas.</td>
+<td>4.000</td>
+<td> 800</td>
+<td>40</td>
+<td rowspan="2">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entre 7 y 10 semanas.</td>
-<td class="cuerpo_tabla_centro">4.000</td>
-<td class="cuerpo_tabla_centro">1.200</td>
-<td class="cuerpo_tabla_centro">40</td>
+<td>Entre 7 y 10 semanas.</td>
+<td>4.000</td>
+<td>1.200</td>
+<td>40</td>
 </tr>
 </tbody>
 </table>
 
 Cuadro 2.4 Conejos: dimensiones óptimas de las plataformas para los recintos que tienen las dimensiones indicadas en el cuadro 2.1
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="25%">
-<col width="25%">
-<col width="10%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Edad en semanas</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Peso corporal final</p>
-<p class="cabeza_tabla">(kg)</p>
+<th>Edad en semanas</th>
+<th>
+<p>Peso corporal final</p>
+<p>(kg)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión óptima</p>
-<p class="cabeza_tabla">(cm x cm)</p>
+<th>
+<p>Dimensión óptima</p>
+<p>(cm x cm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura óptima desde el suelo del recinto</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura óptima desde el suelo del recinto</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Más de 10.</td>
-<td class="cuerpo_tabla_izq">Menos de 3.</td>
-<td class="cuerpo_tabla_centro">55 x 25</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+<td rowspan="3">Más de 10.</td>
+<td>Menos de 3.</td>
+<td>55 x 25</td>
+<td>25</td>
+<td rowspan="3">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entre 3 y 5.</td>
-<td class="cuerpo_tabla_centro">55 x 30</td>
-<td class="cuerpo_tabla_centro">25</td>
+<td>Entre 3 y 5.</td>
+<td>55 x 30</td>
+<td>25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 5.</td>
-<td class="cuerpo_tabla_centro">60 x 35</td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>Más de 5.</td>
+<td>60 x 35</td>
+<td>30</td>
 </tr>
 </tbody>
 </table>
@@ -1964,51 +1869,44 @@ El espacio mínimo en el que se puede mantener a una gata y a su camada es el de
 
 Las zonas para la comida y para las bandejas sanitarias no deben estar a una distancia inferior a 0,5 metros y no deben intercambiarse.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="20%">
-<col width="25%">
-<col width="10%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Suelo*</p>
-<p class="cabeza_tabla">(m²)</p>
+<th> </th>
+<th>
+<p>Suelo*</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Plataformas</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Plataformas</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura</p>
-<p class="cabeza_tabla">(m)</p>
+<th>
+<p>Altura</p>
+<p>(m)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo para un animal adulto.</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1 de enero de 2017</td>
+<td>Mínimo para un animal adulto.</td>
+<td>1,5</td>
+<td>0,5</td>
+<td>2</td>
+<td rowspan="2">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Por cada animal adicional.</td>
-<td class="cuerpo_tabla_centro">0,75</td>
-<td class="cuerpo_tabla_centro">0,25</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Por cada animal adicional.</td>
+<td>0,75</td>
+<td>0,25</td>
+<td>–</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita">* Superficie de suelo con exclusión de las plataformas.</p>
+<p>* Superficie de suelo con exclusión de las plataformas.</p>
 </td>
 </tr>
 </tfoot>
@@ -2026,121 +1924,106 @@ Los perros alojados en parejas o en grupo se pueden ver confinados, cada uno de 
 
 Una perra lactante y su camada deben disponer del mismo espacio que una perra sola de peso equivalente. El recinto de cría debe estar diseñado de tal manera que la perra pueda desplazarse a un compartimento anejo o a una plataforma separada de los cachorros.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="11%">
-<col width="16%">
-<col width="20%">
-<col width="18%">
-<col width="10%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Peso</p>
-<p class="cabeza_tabla">(kg)</p>
+<th>
+<p>Peso</p>
+<p>(kg)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima de suelo para uno o dos animales</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Superficie mínima de suelo para uno o dos animales</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Para cada animal adicional, añadir un mínimo de</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Para cada animal adicional, añadir un mínimo de</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima</p>
-<p class="cabeza_tabla">(m)</p>
+<th>
+<p>Altura mínima</p>
+<p>(m)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 20.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1 de enero de 2017</td>
+<td>Hasta 20.</td>
+<td>4</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td rowspan="2">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 20.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Más de 20.</td>
+<td>8</td>
+<td>8</td>
+<td>4</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>
 
 Cuadro 4.2 Perros: Espacio disponible después del destete
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="18%">
-<col width="20%">
-<col width="20%">
-<col width="17%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Peso del perro</p>
-<p class="cabeza_tabla">(kg)</p>
+<th>
+<p>Peso del perro</p>
+<p>(kg)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima de suelo/animal</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Superficie mínima de suelo/animal</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima</p>
-<p class="cabeza_tabla">(m)</p>
+<th>
+<p>Altura mínima</p>
+<p>(m)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 5.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro" rowspan="5">1 de enero de 2017</td>
+<td>Hasta 5.</td>
+<td>4</td>
+<td>0,5</td>
+<td>2</td>
+<td rowspan="5">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 5 a 10.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1,0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>De más de 5 a 10.</td>
+<td>4</td>
+<td>1,0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 10 a 15.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>De más de 10 a 15.</td>
+<td>4</td>
+<td>1,5</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 15 a 20.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>De más de 15 a 20.</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 20.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>De más de 20.</td>
+<td>8</td>
+<td>4</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>
@@ -2149,57 +2032,50 @@ Cuadro 4.2 Perros: Espacio disponible después del destete
 
 Cuadro 5. Hurones
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="18%">
-<col width="20%">
-<col width="20%">
-<col width="17%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th> </th>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima de suelo por animal</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie mínima de suelo por animal</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Animales de hasta 600 g.</td>
-<td class="cuerpo_tabla_centro">4.500</td>
-<td class="cuerpo_tabla_centro">1.500</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro" rowspan="4">1.de.enero de.2017</td>
+<td>Animales de hasta 600 g.</td>
+<td>4.500</td>
+<td>1.500</td>
+<td>50</td>
+<td rowspan="4">1.de.enero de.2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Animales de más de 600 g.</td>
-<td class="cuerpo_tabla_centro">4.500</td>
-<td class="cuerpo_tabla_centro">3.000</td>
-<td class="cuerpo_tabla_centro">50</td>
+<td>Animales de más de 600 g.</td>
+<td>4.500</td>
+<td>3.000</td>
+<td>50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Machos adultos.</td>
-<td class="cuerpo_tabla_centro">6.000</td>
-<td class="cuerpo_tabla_centro">6.000</td>
-<td class="cuerpo_tabla_centro">50</td>
+<td>Machos adultos.</td>
+<td>6.000</td>
+<td>6.000</td>
+<td>50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hembra y camada.</td>
-<td class="cuerpo_tabla_centro">5.400</td>
-<td class="cuerpo_tabla_centro">5.400</td>
-<td class="cuerpo_tabla_centro">50</td>
+<td>Hembra y camada.</td>
+<td>5.400</td>
+<td>5.400</td>
+<td>50</td>
 </tr>
 </tbody>
 </table>
@@ -2210,52 +2086,45 @@ El entorno debe permitir a los primates desarrollar un complejo programa diario 
 
 Cuadro 6.1 Titíes y tamarinos
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="10%">
-<col width="25%">
-<col width="25%">
-<col width="15%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima de suelo de los recintos para 1* o 2 animales, más crías de hasta 5 meses</p>
-<p class="cabeza_tabla">(m²)</p>
+<th> </th>
+<th>
+<p>Superficie mínima de suelo de los recintos para 1* o 2 animales, más crías de hasta 5 meses</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Volumen mínimo por animal adicional de más de 5 meses</p>
-<p class="cabeza_tabla">(m³)</p>
+<th>
+<p>Volumen mínimo por animal adicional de más de 5 meses</p>
+<p>(m³)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima del recinto</p>
-<p class="cabeza_tabla">(m)**</p>
+<th>
+<p>Altura mínima del recinto</p>
+<p>(m)**</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Titíes.</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1 de enero de 2017</td>
+<td>Titíes.</td>
+<td>0,5</td>
+<td>0,2</td>
+<td>1,5</td>
+<td rowspan="2">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tamarinos.</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">1,5</td>
+<td>Tamarinos.</td>
+<td>1,5</td>
+<td>0,2</td>
+<td>1,5</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita">* Los animales sólo se alojarán individualmente en circunstancias excepcionales.</p>
-<p class="cita">** El límite superior del recinto debe estar al menos a 1,8 m del suelo.</p>
+<p>* Los animales sólo se alojarán individualmente en circunstancias excepcionales.</p>
+<p>** El límite superior del recinto debe estar al menos a 1,8 m del suelo.</p>
 </td>
 </tr>
 </tfoot>
@@ -2265,42 +2134,36 @@ Los jóvenes titíes y tamarinos no deben ser separados de la madre antes de los
 
 Cuadro 6.2 Saimiris
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="25%">
-<col width="25%">
-<col width="25%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima de suelo para 1* o 2 animales</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Superficie mínima de suelo para 1* o 2 animales</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Volumen mínimo por cada animal adicional de más de 6 meses</p>
-<p class="cabeza_tabla">(m³)</p>
+<th>
+<p>Volumen mínimo por cada animal adicional de más de 6 meses</p>
+<p>(m³)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima del recinto</p>
-<p class="cabeza_tabla">(m)</p>
+<th>
+<p>Altura mínima del recinto</p>
+<p>(m)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">1,8</td>
-<td class="cuerpo_tabla_centro">1 de enero de 2017</td>
+<td>2,0</td>
+<td>0,5</td>
+<td>1,8</td>
+<td>1 de enero de 2017</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">* Los animales sólo se alojarán individualmente en circunstancias excepcionales.</p>
+<p>* Los animales sólo se alojarán individualmente en circunstancias excepcionales.</p>
 </td>
 </tr>
 </tfoot>
@@ -2310,68 +2173,60 @@ Los jóvenes saimiris no deben ser separados de la madre antes de los seis meses
 
 Cuadro 6.3 Macacos y monos verdes*
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="25%">
-<col width="13%">
-<col width="13%">
-<col width="13%">
-<col width="11%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(m²)</p>
+<th> </th>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Volumen mínimo del recinto</p>
-<p class="cabeza_tabla">(m³)</p>
+<th>
+<p>Volumen mínimo del recinto</p>
+<p>(m³)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Volumen mínimo por animal</p>
-<p class="cabeza_tabla">(m³)</p>
+<th>
+<p>Volumen mínimo por animal</p>
+<p>(m³)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima del recinto</p>
-<p class="cabeza_tabla">(m)</p>
+<th>
+<p>Altura mínima del recinto</p>
+<p>(m)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Animales de menos de 3 años de edad**.</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">3,6</td>
-<td class="cuerpo_tabla_centro">1,0</td>
-<td class="cuerpo_tabla_centro">1,8</td>
-<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+<td>Animales de menos de 3 años de edad**.</td>
+<td>2,0</td>
+<td>3,6</td>
+<td>1,0</td>
+<td>1,8</td>
+<td rowspan="3">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Animales a partir de los 3 años de edad***.</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">3,6</td>
-<td class="cuerpo_tabla_centro">1,8</td>
-<td class="cuerpo_tabla_centro">1,8</td>
+<td>Animales a partir de los 3 años de edad***.</td>
+<td>2,0</td>
+<td>3,6</td>
+<td>1,8</td>
+<td>1,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Animales para reproducción****.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">2,0</td>
+<td>Animales para reproducción****.</td>
+<td> </td>
+<td> </td>
+<td>3,5</td>
+<td>2,0</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">* Los animales sólo se alojarán individualmente en circunstancias excepcionales.</p>
-<p class="cita">** En un recinto de las dimensiones mínimas se pueden alojar hasta tres animales.</p>
-<p class="cita">*** En un recinto de las dimensiones mínimas se pueden alojar hasta dos animales.</p>
-<p class="cita">**** En las colonias reproductoras no hace falta espacio/volumen suplementario para los animales jóvenes de hasta 2 años alojados con su madre.</p>
+<p>* Los animales sólo se alojarán individualmente en circunstancias excepcionales.</p>
+<p>** En un recinto de las dimensiones mínimas se pueden alojar hasta tres animales.</p>
+<p>*** En un recinto de las dimensiones mínimas se pueden alojar hasta dos animales.</p>
+<p>**** En las colonias reproductoras no hace falta espacio/volumen suplementario para los animales jóvenes de hasta 2 años alojados con su madre.</p>
 </td>
 </tr>
 </tfoot>
@@ -2381,67 +2236,59 @@ Los jóvenes macacos y monos verdes no deben ser separados de la madre antes de 
 
 Cuadro 6.4 Babuinos*
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="25%">
-<col width="13%">
-<col width="13%">
-<col width="13%">
-<col width="11%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(m²)</p>
+<th> </th>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Volumen mínimo del recinto</p>
-<p class="cabeza_tabla">(m³)</p>
+<th>
+<p>Volumen mínimo del recinto</p>
+<p>(m³)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Volumen mínimo por animal</p>
-<p class="cabeza_tabla">(m³)</p>
+<th>
+<p>Volumen mínimo por animal</p>
+<p>(m³)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima del recinto</p>
-<p class="cabeza_tabla">(m)</p>
+<th>
+<p>Altura mínima del recinto</p>
+<p>(m)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Animales** de menos de 4 años de edad.</td>
-<td class="cuerpo_tabla_centro">4,0</td>
-<td class="cuerpo_tabla_centro">7,2</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">1,8</td>
-<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+<td>Animales** de menos de 4 años de edad.</td>
+<td>4,0</td>
+<td>7,2</td>
+<td>3,0</td>
+<td>1,8</td>
+<td rowspan="3">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Animales** a partir de los 4 años de edad.</td>
-<td class="cuerpo_tabla_centro">7,0</td>
-<td class="cuerpo_tabla_centro">12,6</td>
-<td class="cuerpo_tabla_centro">6,0</td>
-<td class="cuerpo_tabla_centro">1,8</td>
+<td>Animales** a partir de los 4 años de edad.</td>
+<td>7,0</td>
+<td>12,6</td>
+<td>6,0</td>
+<td>1,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Animales para reproducción***.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">12,0</td>
-<td class="cuerpo_tabla_centro">2,0</td>
+<td>Animales para reproducción***.</td>
+<td> </td>
+<td> </td>
+<td>12,0</td>
+<td>2,0</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">* Los animales sólo se alojarán individualmente en circunstancias excepcionales.</p>
-<p class="cita">** En un recinto de las dimensiones mínimas se pueden alojar hasta 2 animales.</p>
-<p class="cita">*** En las colonias reproductoras no hace falta espacio/volumen suplementario para los animales jóvenes de hasta 2 años alojados con su madre.</p>
+<p>* Los animales sólo se alojarán individualmente en circunstancias excepcionales.</p>
+<p>** En un recinto de las dimensiones mínimas se pueden alojar hasta 2 animales.</p>
+<p>*** En las colonias reproductoras no hace falta espacio/volumen suplementario para los animales jóvenes de hasta 2 años alojados con su madre.</p>
 </td>
 </tr>
 </tfoot>
@@ -2453,257 +2300,233 @@ Los jóvenes babuinos no deben separarse de la madre antes de los ocho meses de 
 
 Cuadro 7.1 Ganado bovino
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="14%">
-<col width="15%">
-<col width="20%">
-<col width="20%">
-<col width="16%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Peso corporal</p>
-<p class="cabeza_tabla">(kg)</p>
+<th>
+<p>Peso corporal</p>
+<p>(kg)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima de suelo/animal</p>
-<p class="cabeza_tabla">(m²/animal)</p>
+<th>
+<p>Superficie mínima de suelo/animal</p>
+<p>(m²/animal)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud de comedero para la alimentación <em>ad libitum</em> de bovinos descornados</p>
-<p class="cabeza_tabla">(m/animal)</p>
+<th>
+<p>Longitud de comedero para la alimentación <em>ad libitum</em> de bovinos descornados</p>
+<p>(m/animal)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud de comedero para la alimentación restringida de bovinos descornados</p>
-<p class="cabeza_tabla">(m/animal)</p>
+<th>
+<p>Longitud de comedero para la alimentación restringida de bovinos descornados</p>
+<p>(m/animal)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 100.</td>
-<td class="cuerpo_tabla_coma">2,50</td>
-<td class="cuerpo_tabla_coma">2,30</td>
-<td class="cuerpo_tabla_centro">0,10</td>
-<td class="cuerpo_tabla_centro">0,30</td>
-<td class="cuerpo_tabla_centro" rowspan="6">1 de enero de 2017</td>
+<td>Hasta 100.</td>
+<td>2,50</td>
+<td>2,30</td>
+<td>0,10</td>
+<td>0,30</td>
+<td rowspan="6">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 100 a 200.</td>
-<td class="cuerpo_tabla_coma">4,25</td>
-<td class="cuerpo_tabla_coma">3,40</td>
-<td class="cuerpo_tabla_centro">0,15</td>
-<td class="cuerpo_tabla_centro">0,50</td>
+<td>De más de 100 a 200.</td>
+<td>4,25</td>
+<td>3,40</td>
+<td>0,15</td>
+<td>0,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 200 a 400.</td>
-<td class="cuerpo_tabla_coma">6,00</td>
-<td class="cuerpo_tabla_coma">4,80</td>
-<td class="cuerpo_tabla_centro">0,18</td>
-<td class="cuerpo_tabla_centro">0,60</td>
+<td>De más de 200 a 400.</td>
+<td>6,00</td>
+<td>4,80</td>
+<td>0,18</td>
+<td>0,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 400 a 600.</td>
-<td class="cuerpo_tabla_coma">9,00</td>
-<td class="cuerpo_tabla_coma">7,50</td>
-<td class="cuerpo_tabla_centro">0,21</td>
-<td class="cuerpo_tabla_centro">0,70</td>
+<td>De más de 400 a 600.</td>
+<td>9,00</td>
+<td>7,50</td>
+<td>0,21</td>
+<td>0,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 600 a 800.</td>
-<td class="cuerpo_tabla_coma">11,00</td>
-<td class="cuerpo_tabla_coma">8,75</td>
-<td class="cuerpo_tabla_centro">0,24</td>
-<td class="cuerpo_tabla_centro">0,80</td>
+<td>De más de 600 a 800.</td>
+<td>11,00</td>
+<td>8,75</td>
+<td>0,24</td>
+<td>0,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 800.</td>
-<td class="cuerpo_tabla_coma">16,00</td>
-<td class="cuerpo_tabla_coma">10,00</td>
-<td class="cuerpo_tabla_centro">0,30</td>
-<td class="cuerpo_tabla_centro">1,00</td>
+<td>Más de 800.</td>
+<td>16,00</td>
+<td>10,00</td>
+<td>0,30</td>
+<td>1,00</td>
 </tr>
 </tbody>
 </table>
 
 Cuadro 7.2 Ovinos y caprinos
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="12%">
-<col width="12%">
-<col width="15%">
-<col width="15%">
-<col width="15%">
-<col width="16%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Peso corporal</p>
-<p class="cabeza_tabla">(kg)</p>
+<th>
+<p>Peso corporal</p>
+<p>(kg)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima de suelo/animal</p>
-<p class="cabeza_tabla">(m²/animal)</p>
+<th>
+<p>Superficie mínima de suelo/animal</p>
+<p>(m²/animal)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima de las separaciones entre recintos</p>
-<p class="cabeza_tabla">(m)</p>
+<th>
+<p>Altura mínima de las separaciones entre recintos</p>
+<p>(m)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud de comedero para la alimentación <em>ad libitum</em></p>
-<p class="cabeza_tabla">(m/animal)</p>
+<th>
+<p>Longitud de comedero para la alimentación <em>ad libitum</em></p>
+<p>(m/animal)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud de comedero para la alimentación restringida</p>
-<p class="cabeza_tabla">(m/animal)</p>
+<th>
+<p>Longitud de comedero para la alimentación restringida</p>
+<p>(m/animal)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Menos de 20.</td>
-<td class="cuerpo_tabla_centro">1,0</td>
-<td class="cuerpo_tabla_centro">0,7</td>
-<td class="cuerpo_tabla_centro">1,0</td>
-<td class="cuerpo_tabla_centro">0,10</td>
-<td class="cuerpo_tabla_centro">0,25</td>
-<td class="cuerpo_tabla_centro" rowspan="4">1 de enero de 2017</td>
+<td>Menos de 20.</td>
+<td>1,0</td>
+<td>0,7</td>
+<td>1,0</td>
+<td>0,10</td>
+<td>0,25</td>
+<td rowspan="4">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 20 a 35.</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">1,0</td>
-<td class="cuerpo_tabla_centro">1,2</td>
-<td class="cuerpo_tabla_centro">0,10</td>
-<td class="cuerpo_tabla_centro">0,30</td>
+<td>De más de 20 a 35.</td>
+<td>1,5</td>
+<td>1,0</td>
+<td>1,2</td>
+<td>0,10</td>
+<td>0,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 35 a 60.</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">1,2</td>
-<td class="cuerpo_tabla_centro">0,12</td>
-<td class="cuerpo_tabla_centro">0,40</td>
+<td>De más de 35 a 60.</td>
+<td>2,0</td>
+<td>1,5</td>
+<td>1,2</td>
+<td>0,12</td>
+<td>0,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 60.</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">1,8</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">0,12</td>
-<td class="cuerpo_tabla_centro">0,50</td>
+<td>Más de 60.</td>
+<td>3,0</td>
+<td>1,8</td>
+<td>1,5</td>
+<td>0,12</td>
+<td>0,50</td>
 </tr>
 </tbody>
 </table>
 
 Cuadro 7.3 Cerdos y cerdos enanos
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Peso en vivo</p>
-<p class="cabeza_tabla">(kg)</p>
+<th>
+<p>Peso en vivo</p>
+<p>(kg)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto*</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Dimensión mínima del recinto*</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima de suelo por animal</p>
-<p class="cabeza_tabla">(m²/animal)</p>
+<th>
+<p>Superficie mínima de suelo por animal</p>
+<p>(m²/animal)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Zona de reposo mínima por animal (en condiciones térmicamente neutras)</p>
-<p class="cabeza_tabla">(m²/animal)</p>
+<th>
+<p>Zona de reposo mínima por animal (en condiciones térmicamente neutras)</p>
+<p>(m²/animal)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 5.</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">0,20</td>
-<td class="cuerpo_tabla_centro">0,10</td>
-<td class="cuerpo_tabla_centro" rowspan="10">1 de enero de 2017</td>
+<td>Hasta 5.</td>
+<td>2,0</td>
+<td>0,20</td>
+<td>0,10</td>
+<td rowspan="10">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 5 a 10.</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">0,25</td>
-<td class="cuerpo_tabla_centro">0,11</td>
+<td>De más de 5 a 10.</td>
+<td>2,0</td>
+<td>0,25</td>
+<td>0,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 10 a 20.</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">0,35</td>
-<td class="cuerpo_tabla_centro">0,18</td>
+<td>De más de 10 a 20.</td>
+<td>2,0</td>
+<td>0,35</td>
+<td>0,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 20 a 30.</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">0,50</td>
-<td class="cuerpo_tabla_centro">0,24</td>
+<td>De más de 20 a 30.</td>
+<td>2,0</td>
+<td>0,50</td>
+<td>0,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 30 a 50.</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">0,70</td>
-<td class="cuerpo_tabla_centro">0,33</td>
+<td>De más de 30 a 50.</td>
+<td>2,0</td>
+<td>0,70</td>
+<td>0,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 50 a 70.</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">0,80</td>
-<td class="cuerpo_tabla_centro">0,41</td>
+<td>De más de 50 a 70.</td>
+<td>3,0</td>
+<td>0,80</td>
+<td>0,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 70 a 100.</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">1,00</td>
-<td class="cuerpo_tabla_centro">0,53</td>
+<td>De más de 70 a 100.</td>
+<td>3,0</td>
+<td>1,00</td>
+<td>0,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 100 a 150.</td>
-<td class="cuerpo_tabla_centro">4,0</td>
-<td class="cuerpo_tabla_centro">1,35</td>
-<td class="cuerpo_tabla_centro">0,70</td>
+<td>De más de 100 a 150.</td>
+<td>4,0</td>
+<td>1,35</td>
+<td>0,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 150.</td>
-<td class="cuerpo_tabla_centro">5,0</td>
-<td class="cuerpo_tabla_centro">2,50</td>
-<td class="cuerpo_tabla_centro">0,95</td>
+<td>Más de 150.</td>
+<td>5,0</td>
+<td>2,50</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Verracos adultos (convencionales).</td>
-<td class="cuerpo_tabla_centro">7,5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1,30</td>
+<td>Verracos adultos (convencionales).</td>
+<td>7,5</td>
+<td> </td>
+<td>1,30</td>
 </tr>
 </tbody>
 </table>
@@ -2714,59 +2537,51 @@ Cuadro 7.4 Équidos
 
 El lado más corto debe medir, como mínimo, 1,5 veces la altura a la cruz del animal. La altura de los recintos interiores debe ser tal que los animales puedan ponerse de pie sobre sus patas traseras.
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Altura a la cruz (m)</th>
-<th class="cabeza_tabla" colspan="3">Superficie mínima de suelo/animal (m²/animal)</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Altura mínima del recinto</p>
-<p class="cabeza_tabla">(m)</p>
+<th rowspan="2">Altura a la cruz (m)</th>
+<th colspan="3">Superficie mínima de suelo/animal (m²/animal)</th>
+<th rowspan="2">
+<p>Altura mínima del recinto</p>
+<p>(m)</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th rowspan="2">Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Por cada animal alojado individualmente o en grupos de 3 animales como máximo</th>
-<th class="cabeza_tabla">Por cada animal alojado en grupos de 4 animales o más</th>
-<th class="cabeza_tabla">Caballeriza de cría/yegua con potro</th>
+<th>Por cada animal alojado individualmente o en grupos de 3 animales como máximo</th>
+<th>Por cada animal alojado en grupos de 4 animales o más</th>
+<th>Caballeriza de cría/yegua con potro</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 1,40.</td>
-<td class="cuerpo_tabla_coma">9,0</td>
-<td class="cuerpo_tabla_centro">6,0</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">3,00</td>
-<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+<td>Hasta 1,40.</td>
+<td>9,0</td>
+<td>6,0</td>
+<td>16</td>
+<td>3,00</td>
+<td rowspan="3">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 1,40 a 1,60.</td>
-<td class="cuerpo_tabla_coma">12,0</td>
-<td class="cuerpo_tabla_centro">9,0</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">3,00</td>
+<td>De más de 1,40 a 1,60.</td>
+<td>12,0</td>
+<td>9,0</td>
+<td>20</td>
+<td>3,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 1,60.</td>
-<td class="cuerpo_tabla_coma">16,0</td>
-<td class="cuerpo_tabla_centro">(2 x AC)² *</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">3,00</td>
+<td>Más de 1,60.</td>
+<td>16,0</td>
+<td>(2 x AC)² *</td>
+<td>20</td>
+<td>3,00</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">* Con el fin de garantizar un espacio suficiente, las necesidades mínima de espacio para cada animal individual deben calcularse en función de la altura a la cruz (AC).</p>
+<p>* Con el fin de garantizar un espacio suficiente, las necesidades mínima de espacio para cada animal individual deben calcularse en función de la altura a la cruz (AC).</p>
 </td>
 </tr>
 </tfoot>
@@ -2780,90 +2595,82 @@ Cuadro 8.1 Gallinas
 
 Si por razones científicas no pudieran proporcionarse estas dimensiones mínimas, el experimentador debe justificar la duración del confinamiento, en consulta con el personal veterinario. En esas circunstancias, las aves pueden alojarse en recintos más pequeños, convenientemente enriquecidos, y con una superficie mínima de suelo de 0,75 m<sup>2</sup>.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="15%">
-<col width="15%">
-<col width="15%">
-<col width="15%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Masa corporal</p>
-<p class="cabeza_tabla">(g)</p>
+<th>
+<p>Masa corporal</p>
+<p>(g)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima por ave</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Superficie mínima por ave</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud mínima de comedero por ave</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Longitud mínima de comedero por ave</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 200.</td>
-<td class="cuerpo_tabla_centro">1,00</td>
-<td class="cuerpo_tabla_coma">0,025</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro" rowspan="7">1 de enero de 2017</td>
+<td>Hasta 200.</td>
+<td>1,00</td>
+<td>0,025</td>
+<td>30</td>
+<td>3</td>
+<td rowspan="7">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 200 a 300.</td>
-<td class="cuerpo_tabla_centro">1,00</td>
-<td class="cuerpo_tabla_coma">0,03</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>De más de 200 a 300.</td>
+<td>1,00</td>
+<td>0,03</td>
+<td>30</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 300 a 600.</td>
-<td class="cuerpo_tabla_centro">1,00</td>
-<td class="cuerpo_tabla_coma">0,05</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td>De más de 300 a 600.</td>
+<td>1,00</td>
+<td>0,05</td>
+<td>40</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 600 a 1 200.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_coma">0,09</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>De más de 600 a 1 200.</td>
+<td>2,00</td>
+<td>0,09</td>
+<td>50</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 1 200 a 1 800.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_coma">0,11</td>
-<td class="cuerpo_tabla_centro">75</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>De más de 1 200 a 1 800.</td>
+<td>2,00</td>
+<td>0,11</td>
+<td>75</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 1 800 a 2 400.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_coma">0,13</td>
-<td class="cuerpo_tabla_centro">75</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>De más de 1 800 a 2 400.</td>
+<td>2,00</td>
+<td>0,13</td>
+<td>75</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 2 400.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_coma">0,21</td>
-<td class="cuerpo_tabla_centro">75</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>Más de 2 400.</td>
+<td>2,00</td>
+<td>0,21</td>
+<td>75</td>
+<td>15</td>
 </tr>
 </tbody>
 </table>
@@ -2872,166 +2679,149 @@ Cuadro 8.2 Pavos domésticos
 
 Todos los lados del recinto deben medir, al menos, 1,5 m de largo. Si por razones científicas no pudieran proporcionarse estas dimensiones mínimas, el experimentador debe justificar la duración del confinamiento, en consulta con el personal veterinario. En esas circunstancias, las aves pueden alojarse en recintos más pequeños, convenientemente enriquecidos, y con una superficie mínima de suelo de 0,75 m<sup>2</sup> y una altura mínima de 50 cm en el caso de aves de menos de 0,6 kg, de 75 cm en el caso de aves de menos de 4 kg, y de 100 cm en el caso de aves de más de 4 kg. Esos recintos pueden utilizarse para alojar pequeños grupos de aves de acuerdo con el espacio mínimo disponible indicado en el cuadro 8.2.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="15%">
-<col width="15%">
-<col width="15%">
-<col width="15%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Masa corporal</p>
-<p class="cabeza_tabla">(kg)</p>
+<th>
+<p>Masa corporal</p>
+<p>(kg)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima por ave</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Superficie mínima por ave</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud mínima de comedero por ave</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Longitud mínima de comedero por ave</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 0,3.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_coma">0,13</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro" rowspan="9">1 de enero de 2017</td>
+<td>Hasta 0,3.</td>
+<td>2,00</td>
+<td>0,13</td>
+<td>50</td>
+<td>3</td>
+<td rowspan="9">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 0,3 a 0,6.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_coma">0,17</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td>De más de 0,3 a 0,6.</td>
+<td>2,00</td>
+<td>0,17</td>
+<td>50</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 0,6 a 1.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_coma">0,30</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>De más de 0,6 a 1.</td>
+<td>2,00</td>
+<td>0,30</td>
+<td>100</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 1 a 4.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_coma">0,35</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>De más de 1 a 4.</td>
+<td>2,00</td>
+<td>0,35</td>
+<td>100</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 4 a 8.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_coma">0,40</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>De más de 4 a 8.</td>
+<td>2,00</td>
+<td>0,40</td>
+<td>100</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 8 a 12.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_coma">0,50</td>
-<td class="cuerpo_tabla_centro">150</td>
-<td class="cuerpo_tabla_centro">20</td>
+<td>De más de 8 a 12.</td>
+<td>2,00</td>
+<td>0,50</td>
+<td>150</td>
+<td>20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 12 a 16.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_coma">0,55</td>
-<td class="cuerpo_tabla_centro">150</td>
-<td class="cuerpo_tabla_centro">20</td>
+<td>De más de 12 a 16.</td>
+<td>2,00</td>
+<td>0,55</td>
+<td>150</td>
+<td>20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 16 a 20.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_coma">0,60</td>
-<td class="cuerpo_tabla_centro">150</td>
-<td class="cuerpo_tabla_centro">20</td>
+<td>De más de 16 a 20.</td>
+<td>2,00</td>
+<td>0,60</td>
+<td>150</td>
+<td>20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 20.</td>
-<td class="cuerpo_tabla_centro">3,00</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_centro">150</td>
-<td class="cuerpo_tabla_centro">20</td>
+<td>Más de 20.</td>
+<td>3,00</td>
+<td>1,00</td>
+<td>150</td>
+<td>20</td>
 </tr>
 </tbody>
 </table>
 
 Cuadro 8.3 Codornices
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Masa corporal</p>
-<p class="cabeza_tabla">(g)</p>
+<th>
+<p>Masa corporal</p>
+<p>(g)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie por ave alojada en pareja</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Superficie por ave alojada en pareja</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie por ave adicional alojada en grupo</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Superficie por ave adicional alojada en grupo</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud mínima de comedero por ave</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Longitud mínima de comedero por ave</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 150.</td>
-<td class="cuerpo_tabla_centro">1,00.</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">0,10</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1 de enero de 2017</td>
+<td>Hasta 150.</td>
+<td>1,00.</td>
+<td>0,5</td>
+<td>0,10</td>
+<td>20</td>
+<td>4</td>
+<td rowspan="2">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 150.</td>
-<td class="cuerpo_tabla_centro">1,00.</td>
-<td class="cuerpo_tabla_centro">0,6</td>
-<td class="cuerpo_tabla_centro">0,15</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td>Más de 150.</td>
+<td>1,00.</td>
+<td>0,6</td>
+<td>0,15</td>
+<td>30</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>
@@ -3040,107 +2830,99 @@ Cuadro 8.4 Patos y ocas
 
 Si por razones científicas no pudieran proporcionarse estas dimensiones mínimas, el experimentador debe justificar la duración del confinamiento, en consulta con el personal veterinario. En esas circunstancias, las aves pueden alojarse en recintos más pequeños, convenientemente enriquecidos, y con una superficie mínima de suelo de 0,75 m<sup>2</sup>. Esos recintos pueden utilizarse para alojar pequeños grupos de aves de acuerdo con el espacio mínimo disponible indicado en el cuadro 8.4.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="15%">
-<col width="15%">
-<col width="15%">
-<col width="15%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Masa corporal</p>
-<p class="cabeza_tabla">(g)</p>
+<th>
+<p>Masa corporal</p>
+<p>(g)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie por ave</p>
-<p class="cabeza_tabla">(m²)*</p>
+<th>
+<p>Superficie por ave</p>
+<p>(m²)*</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud mínima de comedero por ave</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Longitud mínima de comedero por ave</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">
+<td colspan="5">
 <em>Patos</em>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="9">1 de enero de 2017</td>
+<td rowspan="9">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 300.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_centro">0,10</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>Hasta 300.</td>
+<td>2,00</td>
+<td>0,10</td>
+<td>50</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 300 a 1 200**.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_centro">0,20</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>De más de 300 a 1 200**.</td>
+<td>2,00</td>
+<td>0,20</td>
+<td>200</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 1 200 a 3 500.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_centro">0,25</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>De más de 1 200 a 3 500.</td>
+<td>2,00</td>
+<td>0,25</td>
+<td>200</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 3 500.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_centro">0,50</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>Más de 3 500.</td>
+<td>2,00</td>
+<td>0,50</td>
+<td>200</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">
+<td colspan="5">
 <em>Ocas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 500.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_centro">0,20</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>Hasta 500.</td>
+<td>2,00</td>
+<td>0,20</td>
+<td>200</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 500 a 2 000.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>De más de 500 a 2 000.</td>
+<td>2,00</td>
+<td>0,33</td>
+<td>200</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 2 000.</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_centro">0,50</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>Más de 2 000.</td>
+<td>2,00</td>
+<td>0,50</td>
+<td>200</td>
+<td>15</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita"> * En esta superficie debe incluirse un estanque que tenga como mínimo una superficie de 0,5 m² por cada 2 m² de recinto y una profundidad mínima de 30 cm. El estanque puede ocupar hasta un 50 por cien de la superficie mínima del recinto.</p>
-<p class="cita">** Las aves que aún no tienen plumas pueden alojarse en recintos con una altura mínima de 75 cm.</p>
+<p> * En esta superficie debe incluirse un estanque que tenga como mínimo una superficie de 0,5 m² por cada 2 m² de recinto y una profundidad mínima de 30 cm. El estanque puede ocupar hasta un 50 por cien de la superficie mínima del recinto.</p>
+<p>** Las aves que aún no tienen plumas pueden alojarse en recintos con una altura mínima de 75 cm.</p>
 </td>
 </tr>
 </tfoot>
@@ -3148,35 +2930,30 @@ Si por razones científicas no pudieran proporcionarse estas dimensiones mínima
 
 Cuadro 8.5 Patos y ocas: Dimensiones mínimas de los estanques*
 
-<table class="tabla">
-<colgroup>
-<col width="20%">
-<col width="25%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Superficie (m²)</th>
-<th class="cabeza_tabla">Profundidad (cm)</th>
+<th> </th>
+<th>Superficie (m²)</th>
+<th>Profundidad (cm)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Patos.</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>Patos.</td>
+<td>0,5</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ocas.</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">Entre 10 y 30</td>
+<td>Ocas.</td>
+<td>0,5</td>
+<td>Entre 10 y 30</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">* Estas dimensiones corresponden a 2 m² de recinto. El estanque puede ocupar hasta un 50 por cien de la superficie mínima del recinto.</p>
+<p>* Estas dimensiones corresponden a 2 m² de recinto. El estanque puede ocupar hasta un 50 por cien de la superficie mínima del recinto.</p>
 </td>
 </tr>
 </tfoot>
@@ -3186,59 +2963,51 @@ Cuadro 8.6 Palomas
 
 Los recintos deben ser largos y estrechos (por ejemplo, 2 m por 1 m), más que cuadrados, para que las aves puedan realizar vuelos breves.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="15%">
-<col width="15%">
-<col width="15%">
-<col width="15%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tamaño del grupo</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>Tamaño del grupo</th>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud mínima de comedero por ave</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Longitud mínima de comedero por ave</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud mínima de percha por ave</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Longitud mínima de percha por ave</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 6.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+<td>Hasta 6.</td>
+<td>2</td>
+<td>200</td>
+<td>5</td>
+<td>30</td>
+<td rowspan="3">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entre 7 y 12.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>Entre 7 y 12.</td>
+<td>3</td>
+<td>200</td>
+<td>5</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Por ave adicional más allá de 12.</td>
-<td class="cuerpo_tabla_coma">0,15</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>Por ave adicional más allá de 12.</td>
+<td>0,15</td>
+<td> </td>
+<td>5</td>
+<td>30</td>
 </tr>
 </tbody>
 </table>
@@ -3247,54 +3016,47 @@ Cuadro 8.7 Diamantes mandarín
 
 Los recintos deben ser largos y estrechos (por ejemplo, 2 m por 1 m) para que las aves puedan realizar vuelos breves. Para la realización de estudios de reproducción, pueden alojarse parejas en recintos más pequeños, adecuadamente enriquecidos, con una superficie mínima de suelo de 0,5 m<sup>2</sup> y una altura mínima de 40 cm. El experimentador debe justificar la duración del confinamiento, en consulta con el personal veterinario.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tamaño del grupo</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto</p>
-<p class="cabeza_tabla">(m²)</p>
+<th>Tamaño del grupo</th>
+<th>
+<p>Dimensión mínima del recinto</p>
+<p>(m²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Número mínimo de comederos</th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Número mínimo de comederos</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 6.</td>
-<td class="cuerpo_tabla_coma">1,0</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro" rowspan="4">1 de enero de 2017</td>
+<td>Hasta 6.</td>
+<td>1,0</td>
+<td>100</td>
+<td>2</td>
+<td rowspan="4">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entre 7 y 12.</td>
-<td class="cuerpo_tabla_coma">1,5</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Entre 7 y 12.</td>
+<td>1,5</td>
+<td>200</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entre 13 y 20.</td>
-<td class="cuerpo_tabla_coma">2,0</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Entre 13 y 20.</td>
+<td>2,0</td>
+<td>200</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Por ave adicional más allá de 20.</td>
-<td class="cuerpo_tabla_coma">0,05</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1 por cada 6 aves</td>
+<td>Por ave adicional más allá de 20.</td>
+<td>0,05</td>
+<td> </td>
+<td>1 por cada 6 aves</td>
 </tr>
 </tbody>
 </table>
@@ -3314,47 +3076,40 @@ Los recintos deben ser largos y estrechos (por ejemplo, 2 m por 1 m) para que la
 | 21 a 30. | 36 a 60. | 7,3 | 180 |
 | Por ave suplementaria más allá de 30. | Por ave suplementaria más allá de 60. | 0,11 |  |
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Cuadro 8.10 Carboneros comunes y herrerillos comunes</p>
+<p>Cuadro 8.10 Carboneros comunes y herrerillos comunes</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col width="20%">
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tamaño del grupo</th>
-<th class="cabeza_tabla">Dimensión mínima del recinto por ave (m²)</th>
-<th class="cabeza_tabla">Altura mínima (cm)</th>
-<th class="cabeza_tabla">Número mínimo de comederos</th>
-<th class="cabeza_tabla">Longitud mínima de la percha por ave (cm)</th>
+<th>Tamaño del grupo</th>
+<th>Dimensión mínima del recinto por ave (m²)</th>
+<th>Altura mínima (cm)</th>
+<th>Número mínimo de comederos</th>
+<th>Longitud mínima de la percha por ave (cm)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">180</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">100</td>
+<td>1.</td>
+<td>3</td>
+<td>180</td>
+<td>1</td>
+<td>100</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2-10(*) (del mismo sexo).</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">180</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">40</td>
+<td>2-10(*) (del mismo sexo).</td>
+<td>1</td>
+<td>180</td>
+<td>2</td>
+<td>40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1 hembra + 1 macho.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">180</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">100</td>
+<td>1 hembra + 1 macho.</td>
+<td>2</td>
+<td>180</td>
+<td>2</td>
+<td>100</td>
 </tr>
 </tbody>
 <tfoot>
@@ -3368,66 +3123,59 @@ Los recintos deben ser largos y estrechos (por ejemplo, 2 m por 1 m) para que la
 
 Cuadro 9.1 Urodelos acuáticos
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="18%">
-<col width="19%">
-<col width="24%">
-<col width="19%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud corporal*</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Longitud corporal*</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima de agua</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie mínima de agua</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima de agua por animal adicional alojado en grupo</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie mínima de agua por animal adicional alojado en grupo</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Profundidad mínima del agua</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Profundidad mínima del agua</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 10.</td>
-<td class="cuerpo_tabla_coma">262,5</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_centro" rowspan="5">1 de enero de 2017</td>
+<td>Hasta 10.</td>
+<td>262,5</td>
+<td>50</td>
+<td>13</td>
+<td rowspan="5">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 10 a 15.</td>
-<td class="cuerpo_tabla_coma">525</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_coma">13</td>
+<td>De más de 10 a 15.</td>
+<td>525</td>
+<td>110</td>
+<td>13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 15 a 20.</td>
-<td class="cuerpo_tabla_coma">875</td>
-<td class="cuerpo_tabla_coma">200</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td>De más de 15 a 20.</td>
+<td>875</td>
+<td>200</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 20 a 30.</td>
-<td class="cuerpo_tabla_coma">1.837,5</td>
-<td class="cuerpo_tabla_coma">440</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td>De más de 20 a 30.</td>
+<td>1.837,5</td>
+<td>440</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 30.</td>
-<td class="cuerpo_tabla_coma">3.150</td>
-<td class="cuerpo_tabla_coma">800</td>
-<td class="cuerpo_tabla_coma">20</td>
+<td>Más de 30.</td>
+<td>3.150</td>
+<td>800</td>
+<td>20</td>
 </tr>
 </tbody>
 <tfoot>
@@ -3439,67 +3187,60 @@ Cuadro 9.1 Urodelos acuáticos
 
 Cuadro 9.2 Anuros acuáticos*
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="18%">
-<col width="19%">
-<col width="24%">
-<col width="19%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud corporal **</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Longitud corporal **</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima de agua</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie mínima de agua</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima de agua por animal adicional alojado en grupo</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie mínima de agua por animal adicional alojado en grupo</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Profundidad mínima del agua</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Profundidad mínima del agua</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Menos de 6.</td>
-<td class="cuerpo_tabla_coma">160</td>
-<td class="cuerpo_tabla_coma">40</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_centro" rowspan="4">1 de enero de 2017</td>
+<td>Menos de 6.</td>
+<td>160</td>
+<td>40</td>
+<td>6</td>
+<td rowspan="4">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entre 6 y 9.</td>
-<td class="cuerpo_tabla_coma">300</td>
-<td class="cuerpo_tabla_coma">75</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Entre 6 y 9.</td>
+<td>300</td>
+<td>75</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 9 a 12.</td>
-<td class="cuerpo_tabla_coma">600</td>
-<td class="cuerpo_tabla_coma">150</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td>De más de 9 a 12.</td>
+<td>600</td>
+<td>150</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 12.</td>
-<td class="cuerpo_tabla_coma">920</td>
-<td class="cuerpo_tabla_coma">230</td>
-<td class="cuerpo_tabla_coma">12,5</td>
+<td>Más de 12.</td>
+<td>920</td>
+<td>230</td>
+<td>12,5</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita">* Estas condiciones se aplican a los acuarios de mantenimiento, pero por razones de eficacia no se aplican a los acuarios utilizados para el apareamiento natural y la superovulación, ya que estos últimos procedimientos requieren acuarios más pequeños. Los espacios mínimos del cuadro corresponden a adultos de los tamaños indicados; los animales jóvenes y los renacuajos deben mantenerse aparte o modificarse las dimensiones del acuario proporcionalmente a la escala de tamaños.</p>
-<p class="cita">** Medida del extremo anterior de la cabeza a la cloaca.</p>
+<p>* Estas condiciones se aplican a los acuarios de mantenimiento, pero por razones de eficacia no se aplican a los acuarios utilizados para el apareamiento natural y la superovulación, ya que estos últimos procedimientos requieren acuarios más pequeños. Los espacios mínimos del cuadro corresponden a adultos de los tamaños indicados; los animales jóvenes y los renacuajos deben mantenerse aparte o modificarse las dimensiones del acuario proporcionalmente a la escala de tamaños.</p>
+<p>** Medida del extremo anterior de la cabeza a la cloaca.</p>
 </td>
 </tr>
 </tfoot>
@@ -3507,70 +3248,62 @@ Cuadro 9.2 Anuros acuáticos*
 
 Cuadro 9.3 Anuros semiacuáticos
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="18%">
-<col width="15%">
-<col width="17%">
-<col width="15%">
-<col width="15%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud corporal*</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Longitud corporal*</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto**</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Dimensión mínima del recinto**</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima por animal adicional alojado en grupo</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie mínima por animal adicional alojado en grupo</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima del recinto***</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima del recinto***</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Profundidad mínima del agua</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Profundidad mínima del agua</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 5,0.</td>
-<td class="cuerpo_tabla_centro">1.500</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+<td>Hasta 5,0.</td>
+<td>1.500</td>
+<td>200</td>
+<td>20</td>
+<td>10</td>
+<td rowspan="3">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 5,0 a 7,5.</td>
-<td class="cuerpo_tabla_centro">3.500</td>
-<td class="cuerpo_tabla_centro">500</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>De más de 5,0 a 7,5.</td>
+<td>3.500</td>
+<td>500</td>
+<td>30</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 7,5.</td>
-<td class="cuerpo_tabla_centro">4.000</td>
-<td class="cuerpo_tabla_centro">700</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>Más de 7,5.</td>
+<td>4.000</td>
+<td>700</td>
+<td>30</td>
+<td>15</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">* Medida del extremo anterior de la cabeza a la cloaca.</p>
-<p class="cita">** Una tercera parte de tierra y dos terceras partes de agua donde los animales puedan sumergirse.</p>
-<p class="cita">*** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura de los recintos debe estar adaptada al equipamiento interior.</p>
+<p>* Medida del extremo anterior de la cabeza a la cloaca.</p>
+<p>** Una tercera parte de tierra y dos terceras partes de agua donde los animales puedan sumergirse.</p>
+<p>*** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura de los recintos debe estar adaptada al equipamiento interior.</p>
 </td>
 </tr>
 </tfoot>
@@ -3578,70 +3311,62 @@ Cuadro 9.3 Anuros semiacuáticos
 
 Cuadro 9.4 Anuros semiterrestres
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="18%">
-<col width="15%">
-<col width="17%">
-<col width="15%">
-<col width="15%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud corporal*</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Longitud corporal*</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto**</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Dimensión mínima del recinto**</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima por animal adicional alojado en grupo</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie mínima por animal adicional alojado en grupo</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima del recinto***</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima del recinto***</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Profundidad mínima del agua</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Profundidad mínima del agua</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 5,0.</td>
-<td class="cuerpo_tabla_centro">1.500</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro" rowspan="3">1 de enero de 2017</td>
+<td>Hasta 5,0.</td>
+<td>1.500</td>
+<td>200</td>
+<td>20</td>
+<td>10</td>
+<td rowspan="3">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 5,0 a 7,5.</td>
-<td class="cuerpo_tabla_centro">3.500</td>
-<td class="cuerpo_tabla_centro">500</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>De más de 5,0 a 7,5.</td>
+<td>3.500</td>
+<td>500</td>
+<td>30</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 7,5.</td>
-<td class="cuerpo_tabla_centro">4.000</td>
-<td class="cuerpo_tabla_centro">700</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>Más de 7,5.</td>
+<td>4.000</td>
+<td>700</td>
+<td>30</td>
+<td>15</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">* Medida del extremo anterior de la cabeza a la cloaca.</p>
-<p class="cita">** Dos terceras partes de tierra y una tercera parte de agua donde los animales puedan sumergirse.</p>
-<p class="cita">*** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura de los recintos debe estar adaptada al equipamiento interior.</p>
+<p>* Medida del extremo anterior de la cabeza a la cloaca.</p>
+<p>** Dos terceras partes de tierra y una tercera parte de agua donde los animales puedan sumergirse.</p>
+<p>*** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura de los recintos debe estar adaptada al equipamiento interior.</p>
 </td>
 </tr>
 </tfoot>
@@ -3649,56 +3374,49 @@ Cuadro 9.4 Anuros semiterrestres
 
 Cuadro 9.5 Anuros arborícolas
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="18%">
-<col width="19%">
-<col width="24%">
-<col width="19%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud corporal*</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Longitud corporal*</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Dimensión mínima del recinto**</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Dimensión mínima del recinto**</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima por animal adicional alojado en grupo</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie mínima por animal adicional alojado en grupo</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima del recinto***</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima del recinto***</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 3,0.</td>
-<td class="cuerpo_tabla_coma"> 900</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1 de enero de 2017</td>
+<td>Hasta 3,0.</td>
+<td> 900</td>
+<td>100</td>
+<td>30</td>
+<td rowspan="2">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 3,0.</td>
-<td class="cuerpo_tabla_coma">1.500</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>Más de 3,0.</td>
+<td>1.500</td>
+<td>200</td>
+<td>30</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita">* Medida del extremo anterior de la cabeza a la cloaca.</p>
-<p class="cita">** Dos terceras partes de tierra y una tercera parte de agua donde los animales puedan sumergirse.</p>
-<p class="cita">*** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura de los recintos debe estar adaptada al equipamiento interior.</p>
+<p>* Medida del extremo anterior de la cabeza a la cloaca.</p>
+<p>** Dos terceras partes de tierra y una tercera parte de agua donde los animales puedan sumergirse.</p>
+<p>*** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura de los recintos debe estar adaptada al equipamiento interior.</p>
 </td>
 </tr>
 </tfoot>
@@ -3708,77 +3426,70 @@ Cuadro 9.5 Anuros arborícolas
 
 Cuadro 10.1 Tortugas acuáticas
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="18%">
-<col width="19%">
-<col width="24%">
-<col width="19%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud corporal*</p>
+<th>
+<p>Longitud corporal*</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie de agua mínima</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie de agua mínima</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie de agua mínima por animal adicional alojado en grupo</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie de agua mínima por animal adicional alojado en grupo</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Profundidad mínima del agua</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Profundidad mínima del agua</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 5.</td>
-<td class="cuerpo_tabla_coma">600</td>
-<td class="cuerpo_tabla_coma">100</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_centro" rowspan="6">1 de enero de 2017</td>
+<td>Hasta 5.</td>
+<td>600</td>
+<td>100</td>
+<td>10</td>
+<td rowspan="6">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 5 a 10.</td>
-<td class="cuerpo_tabla_coma">1.600</td>
-<td class="cuerpo_tabla_coma">300</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td>De más de 5 a 10.</td>
+<td>1.600</td>
+<td>300</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 10 a 15.</td>
-<td class="cuerpo_tabla_coma">3.500</td>
-<td class="cuerpo_tabla_coma">600</td>
-<td class="cuerpo_tabla_coma">20</td>
+<td>De más de 10 a 15.</td>
+<td>3.500</td>
+<td>600</td>
+<td>20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 15 a 20.</td>
-<td class="cuerpo_tabla_coma">6.000</td>
-<td class="cuerpo_tabla_coma">1.200</td>
-<td class="cuerpo_tabla_coma">30</td>
+<td>De más de 15 a 20.</td>
+<td>6.000</td>
+<td>1.200</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 20 a 30.</td>
-<td class="cuerpo_tabla_coma">10.000</td>
-<td class="cuerpo_tabla_coma">2.000</td>
-<td class="cuerpo_tabla_coma">35</td>
+<td>De más de 20 a 30.</td>
+<td>10.000</td>
+<td>2.000</td>
+<td>35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 30.</td>
-<td class="cuerpo_tabla_coma">20.000</td>
-<td class="cuerpo_tabla_coma">5.000</td>
-<td class="cuerpo_tabla_coma">40</td>
+<td>Más de 30.</td>
+<td>20.000</td>
+<td>5.000</td>
+<td>40</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita">* Medida en línea recta desde la parte delantera a la parte trasera del caparazón.</p>
+<p>* Medida en línea recta desde la parte delantera a la parte trasera del caparazón.</p>
 </td>
 </tr>
 </tfoot>
@@ -3786,73 +3497,66 @@ Cuadro 10.1 Tortugas acuáticas
 
 Cuadro 10.2 Serpientes terrestres
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="18%">
-<col width="19%">
-<col width="24%">
-<col width="19%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Longitud corporal*</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Longitud corporal*</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima de suelo</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie mínima de suelo</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie mínima por animal adicional alojado en grupo</p>
-<p class="cabeza_tabla">(cm²)</p>
+<th>
+<p>Superficie mínima por animal adicional alojado en grupo</p>
+<p>(cm²)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Altura mínima del recinto**</p>
-<p class="cabeza_tabla">(cm)</p>
+<th>
+<p>Altura mínima del recinto**</p>
+<p>(cm)</p>
 </th>
-<th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+<th>Fecha a que se refiere el artículo 6, apartado 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 30.</td>
-<td class="cuerpo_tabla_coma">300</td>
-<td class="cuerpo_tabla_coma">150</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_centro" rowspan="5">1 de enero de 2017</td>
+<td>Hasta 30.</td>
+<td>300</td>
+<td>150</td>
+<td>10</td>
+<td rowspan="5">1 de enero de 2017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 30 a 40.</td>
-<td class="cuerpo_tabla_coma">400</td>
-<td class="cuerpo_tabla_coma">200</td>
-<td class="cuerpo_tabla_coma">12</td>
+<td>De más de 30 a 40.</td>
+<td>400</td>
+<td>200</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 40 a 50.</td>
-<td class="cuerpo_tabla_coma">600</td>
-<td class="cuerpo_tabla_coma">300</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td>De más de 40 a 50.</td>
+<td>600</td>
+<td>300</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 50 a 75.</td>
-<td class="cuerpo_tabla_coma">1.200</td>
-<td class="cuerpo_tabla_coma">600</td>
-<td class="cuerpo_tabla_coma">20</td>
+<td>De más de 50 a 75.</td>
+<td>1.200</td>
+<td>600</td>
+<td>20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 75.</td>
-<td class="cuerpo_tabla_coma">2.500</td>
-<td class="cuerpo_tabla_coma">1.200</td>
-<td class="cuerpo_tabla_coma">28</td>
+<td>Más de 75.</td>
+<td>2.500</td>
+<td>1.200</td>
+<td>28</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita">* Medida del extremo anterior de la cabeza a la cola.</p>
-<p class="cita">** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura del recinto debe estar adaptada al equipamiento interior.</p>
+<p>* Medida del extremo anterior de la cabeza a la cola.</p>
+<p>** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura del recinto debe estar adaptada al equipamiento interior.</p>
 </td>
 </tr>
 </tfoot>
@@ -3890,44 +3594,40 @@ Siempre que sea posible, los peces deben manipularse sin extraerlos del agua. Se
 
 11.6.1 Calidad del agua.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Cuadro 11.1 Requisitos aplicables a los parámetros del agua en los sistemas de alojamiento de peces cebra</p>
+<p>Cuadro 11.1 Requisitos aplicables a los parámetros del agua en los sistemas de alojamiento de peces cebra</p>
 </caption>
-<colgroup>
-<col width="35%">
-<col width="65%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Parámetros del agua</th>
-<th class="cabeza_tabla">Requisitos mínimo y máximo</th>
+<th>Parámetros del agua</th>
+<th>Requisitos mínimo y máximo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Temperatura.</td>
-<td class="cuerpo_tabla_centro">24-29 °C</td>
+<td>Temperatura.</td>
+<td>24-29 °C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conductividad.</td>
-<td class="cuerpo_tabla_centro">150-1700 μS/cm²</td>
+<td>Conductividad.</td>
+<td>150-1700 μS/cm²</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dureza total.</td>
-<td class="cuerpo_tabla_centro">40-250 mg/L CaCO<sub>3</sub></td>
+<td>Dureza total.</td>
+<td>40-250 mg/L CaCO<sub>3</sub></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">pH.</td>
-<td class="cuerpo_tabla_centro">6,5-8</td>
+<td>pH.</td>
+<td>6,5-8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Compuestos nitrogenados.</td>
-<td class="cuerpo_tabla_centro">NH<sub>3</sub>/NH<sub>4</sub><sup>+</sup>&lt; 0,1(*), NO<sub>2</sub>- &lt; 0,3 mg/L, NO<sub>3</sub>- &lt; 25 mg/L</td>
+<td>Compuestos nitrogenados.</td>
+<td>NH<sub>3</sub>/NH<sub>4</sub><sup>+</sup>&lt; 0,1(*), NO<sub>2</sub>- &lt; 0,3 mg/L, NO<sub>3</sub>- &lt; 25 mg/L</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Oxígeno disuelto.</td>
-<td class="cuerpo_tabla_centro">&gt; 5 mg/L</td>
+<td>Oxígeno disuelto.</td>
+<td>&gt; 5 mg/L</td>
 </tr>
 </tbody>
 <tfoot>
@@ -3971,131 +3671,123 @@ Se debe proporcionar a los cefalópodos un nivel suficiente y adecuado de estím
 
 Siempre que sea posible, los cefalópodos deben manipularse sin extraerlos del agua. Se deben mantener las manipulaciones de los cefalópodos, tanto dentro como fuera del agua, en un nivel mínimo, y se humedecerán los equipos que vayan a entrar en contacto directo con ellos.
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_redonda">Cuadro 12.1 Cefalópodos</p>
+<p>Cuadro 12.1 Cefalópodos</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Familia</th>
-<th class="cabeza_tabla">Grupo</th>
-<th class="cabeza_tabla">Longitud corporal (*) (cm)</th>
-<th class="cabeza_tabla">Superficie de agua mínima (cm²)</th>
-<th class="cabeza_tabla">Superficie de agua mínima por animal suplementario alojado en grupo (cm²)</th>
-<th class="cabeza_tabla">Profundidad mínima del agua (cm)</th>
+<th>Familia</th>
+<th>Grupo</th>
+<th>Longitud corporal (*) (cm)</th>
+<th>Superficie de agua mínima (cm²)</th>
+<th>Superficie de agua mínima por animal suplementario alojado en grupo (cm²)</th>
+<th>Profundidad mínima del agua (cm)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
+<td rowspan="4">
 <em>Sepiidae.</em>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="4">Sepias.</td>
-<td class="cuerpo_tabla_izq">Hasta 2.</td>
-<td class="cuerpo_tabla_coma">100</td>
-<td class="cuerpo_tabla_coma">40</td>
-<td class="cuerpo_tabla_coma">7</td>
+<td rowspan="4">Sepias.</td>
+<td>Hasta 2.</td>
+<td>100</td>
+<td>40</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">&gt; 2 hasta 6.</td>
-<td class="cuerpo_tabla_coma">600</td>
-<td class="cuerpo_tabla_coma">200</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td>&gt; 2 hasta 6.</td>
+<td>600</td>
+<td>200</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">&gt; 6 hasta 12.</td>
-<td class="cuerpo_tabla_coma">1 200</td>
-<td class="cuerpo_tabla_coma">400</td>
-<td class="cuerpo_tabla_coma">20</td>
+<td>&gt; 6 hasta 12.</td>
+<td>1 200</td>
+<td>400</td>
+<td>20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">&gt; 12.</td>
-<td class="cuerpo_tabla_coma">2 500</td>
-<td class="cuerpo_tabla_coma">1 000</td>
-<td class="cuerpo_tabla_coma">25</td>
+<td>&gt; 12.</td>
+<td>2 500</td>
+<td>1 000</td>
+<td>25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
+<td rowspan="3">
 <em>Sepiolidae.</em>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="3">Sepiólidos (**).</td>
-<td class="cuerpo_tabla_izq">Hasta 1.</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">5</td>
+<td rowspan="3">Sepiólidos (**).</td>
+<td>Hasta 1.</td>
+<td>50</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">&gt; 1 hasta 3.</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>&gt; 1 hasta 3.</td>
+<td>120</td>
+<td>50</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">&gt; 3.</td>
-<td class="cuerpo_tabla_coma">150</td>
-<td class="cuerpo_tabla_coma">100</td>
-<td class="cuerpo_tabla_coma">12</td>
+<td>&gt; 3.</td>
+<td>150</td>
+<td>100</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
+<td rowspan="3">
 <em>Loliginidae.</em>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="3">Calamares (***)(****).</td>
-<td class="cuerpo_tabla_izq">Hasta 15.</td>
-<td class="cuerpo_tabla_coma">2 000</td>
-<td class="cuerpo_tabla_coma">400</td>
-<td class="cuerpo_tabla_coma">60</td>
+<td rowspan="3">Calamares (***)(****).</td>
+<td>Hasta 15.</td>
+<td>2 000</td>
+<td>400</td>
+<td>60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">&gt; 15 hasta 25.</td>
-<td class="cuerpo_tabla_coma">4 500</td>
-<td class="cuerpo_tabla_coma">900</td>
-<td class="cuerpo_tabla_coma">90</td>
+<td>&gt; 15 hasta 25.</td>
+<td>4 500</td>
+<td>900</td>
+<td>90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">&gt; 25.</td>
-<td class="cuerpo_tabla_coma">6 000</td>
-<td class="cuerpo_tabla_coma">1 200</td>
-<td class="cuerpo_tabla_coma">90</td>
+<td>&gt; 25.</td>
+<td>6 000</td>
+<td>1 200</td>
+<td>90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
+<td rowspan="3">
 <em>Octopodidae.</em>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="3">Pulpos (****).</td>
-<td class="cuerpo_tabla_izq">Hasta 10.</td>
-<td class="cuerpo_tabla_coma">2 000</td>
-<td class="cuerpo_tabla_coma">600</td>
-<td class="cuerpo_tabla_coma">40</td>
+<td rowspan="3">Pulpos (****).</td>
+<td>Hasta 10.</td>
+<td>2 000</td>
+<td>600</td>
+<td>40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">&gt; 10 hasta 20.</td>
-<td class="cuerpo_tabla_coma">2 600</td>
-<td class="cuerpo_tabla_coma">700</td>
-<td class="cuerpo_tabla_coma">50</td>
+<td>&gt; 10 hasta 20.</td>
+<td>2 600</td>
+<td>700</td>
+<td>50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">&gt; 20.</td>
-<td class="cuerpo_tabla_coma">4 000</td>
-<td class="cuerpo_tabla_coma">1 200</td>
-<td class="cuerpo_tabla_coma">50</td>
+<td>&gt; 20.</td>
+<td>4 000</td>
+<td>1 200</td>
+<td>50</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="parrafo">(*) Longitud del manto dorsal.</p>
-<p class="parrafo">(**) Grupo de hasta 40 individuos.</p>
-<p class="parrafo">(***) Se usarán preferentemente viveros cilíndricos. Para los viveros que no sean cilíndricos, los valores mínimos han de aumentarse en un 5 %.</p>
-<p class="parrafo">(****) Durante la fase juvenil y para larvaria, los calamares y pulpos deben alojarse en viveros cilíndricos con una ocupación máxima de veinte individuos recién nacidos por litro de agua, y se deben tomar medidas para limitar la interacción visual.</p>
+<p>(*) Longitud del manto dorsal.</p>
+<p>(**) Grupo de hasta 40 individuos.</p>
+<p>(***) Se usarán preferentemente viveros cilíndricos. Para los viveros que no sean cilíndricos, los valores mínimos han de aumentarse en un 5 %.</p>
+<p>(****) Durante la fase juvenil y para larvaria, los calamares y pulpos deben alojarse en viveros cilíndricos con una ocupación máxima de veinte individuos recién nacidos por litro de agua, y se deben tomar medidas para limitar la interacción visual.</p>
 </td>
 </tr>
 </tfoot>
@@ -4131,54 +3823,47 @@ Siempre que sea posible, los cefalópodos deben manipularse sin extraerlos del a
 
 > Los recintos deben ser largos y estrechos (por ejemplo, 2 m por 1 m) para que las aves puedan realizar vuelos breves. Para la realización de estudios de reproducción, pueden alojarse parejas en recintos más pequeños, adecuadamente enriquecidos, con una superficie mínima de suelo de 0,5 m<sup>2</sup> y una altura mínima de 40 cm. El experimentador debe justificar la duración del confinamiento, en consulta con el personal veterinario.
 
-> <table class="tabla_ancha">
-> <colgroup>
-> <col width="20%">
-> <col width="20%">
-> <col width="20%">
-> <col width="20%">
-> <col width="20%">
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Tamaño del grupo</th>
-> <th class="cabeza_tabla">
-> <p class="cabeza_tabla">Dimensión mínima del recinto</p>
-> <p class="cabeza_tabla">(m²)</p>
+> <th>Tamaño del grupo</th>
+> <th>
+> <p>Dimensión mínima del recinto</p>
+> <p>(m²)</p>
 > </th>
-> <th class="cabeza_tabla">
-> <p class="cabeza_tabla">Altura mínima</p>
-> <p class="cabeza_tabla">(cm)</p>
+> <th>
+> <p>Altura mínima</p>
+> <p>(cm)</p>
 > </th>
-> <th class="cabeza_tabla">Número mínimo de comederos</th>
-> <th class="cabeza_tabla">Fecha a que se refiere el artículo 6, apartado 2</th>
+> <th>Número mínimo de comederos</th>
+> <th>Fecha a que se refiere el artículo 6, apartado 2</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq">Hasta 6.</td>
-> <td class="cuerpo_tabla_coma">1,0</td>
-> <td class="cuerpo_tabla_centro">100</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro" rowspan="4">1 de enero de 2017"</td>
+> <td>Hasta 6.</td>
+> <td>1,0</td>
+> <td>100</td>
+> <td>2</td>
+> <td rowspan="4">1 de enero de 2017"</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Entre 7 y 12.</td>
-> <td class="cuerpo_tabla_coma">1,5</td>
-> <td class="cuerpo_tabla_centro">200</td>
-> <td class="cuerpo_tabla_centro">2</td>
+> <td>Entre 7 y 12.</td>
+> <td>1,5</td>
+> <td>200</td>
+> <td>2</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Entre 13 y 20.</td>
-> <td class="cuerpo_tabla_coma">2,0</td>
-> <td class="cuerpo_tabla_centro">200</td>
-> <td class="cuerpo_tabla_centro">3</td>
+> <td>Entre 13 y 20.</td>
+> <td>2,0</td>
+> <td>200</td>
+> <td>3</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Por ave adicional más allá de 20.</td>
-> <td class="cuerpo_tabla_coma">0,05</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1 por cada 6 aves</td>
+> <td>Por ave adicional más allá de 20.</td>
+> <td>0,05</td>
+> <td> </td>
+> <td>1 por cada 6 aves</td>
 > </tr>
 > </tbody>
 > </table>

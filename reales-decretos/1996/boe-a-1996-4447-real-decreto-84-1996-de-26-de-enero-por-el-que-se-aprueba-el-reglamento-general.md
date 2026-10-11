@@ -248,22 +248,6 @@ También tienen la consideración de empresarios a efectos de la inclusión en e
 
 6.º El órgano, centro o unidad administrativa a la que se dirige.
 
-> Téngase en cuenta que esta redacción del apartado 1, establecida por la disposición final 3.1 del Real Decreto 453/2022, de 14 de junio, [Ref. BOE-A-2022-9850](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9850), producirá efectos desde el día 2 de enero de 2023, según determina su disposición final 10.2.
-
-> Redacción anterior:
-
-> "1. La solicitud de inscripción del empresario deberá contener:
-
-> 1.º El nombre y apellidos del interesado y, en su caso, de la persona que lo represente, así como la identificación del medio preferente y del lugar que se señale a efectos de notificaciones.
-
-> 2.º Los datos relativos a la denominación, domicilio y actividad económica principal de la empresa así como, en su caso, a otras actividades concurrentes con ella que impliquen la producción de bienes y servicios que no se integren en el proceso productivo de la principal, y si precisa o no que se le asignen diversos códigos de cuenta de cotización. También indicará el código o los códigos de convenio colectivo aplicables, en su caso, en la empresa y cuantos otros datos resulten necesarios para la gestión del sistema de la Seguridad Social.
-
-> 3.º El lugar y la fecha de la solicitud de inscripción.
-
-> 4.º La firma del solicitante o la acreditación de la autenticidad de su voluntad expresada por cualquier medio.
-
-> 5.º El órgano, centro o unidad administrativa a la que se dirige."
-
 2\. A la solicitud de inscripción se acompañará la siguiente documentación:
 
 1.º Cuando el empresario fuere una persona física, documento nacional de identidad o, si se tratare de un extranjero, pasaporte o documento que lo sustituya o fotocopias de los mismos.
@@ -405,24 +389,6 @@ La infracción de lo dispuesto en los artículos 5 y 14 de este Reglamento, por 
 6.º Cambio de actividad económica y, en general, cualquier otra variación que afecte a los datos declarados con anterioridad respecto a la inscripción de la empresa y apertura de cuentas de cotización.
 
 7.º Apertura y cierre de centros de trabajo.
-
-> Téngase en cuenta que esta redacción del apartado 1, establecida por la disposición final 3.2 del Real Decreto 453/2022, de 14 de junio, [Ref. BOE-A-2022-9850](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9850), producirá efectos desde el día 2 de enero de 2023, según determina su disposición final 10.2.
-
-> Redacción anterior:
-
-> "1. La comunicación de variaciones en los datos consignados al formular la solicitud de inscripción o en las comunicaciones a que se refiere el artículo 5.3 de este reglamento será obligatoria para los empresarios en los siguientes casos:
-
-> 1.º Cambio de nombre de la persona física o de denominación de la persona jurídica inscritas con anterioridad.
-
-> 2.º Cambio del domicilio legal del empresario.
-
-> 3.º Cambio de la entidad que cubra las contingencias de accidentes de trabajo y enfermedades profesionales y, en su caso, la prestación económica por incapacidad temporal derivada de contingencias comunes.
-
-> 4.º En los supuestos en que los empresarios contratistas y subcontratistas tengan el deber de informar a la Tesorería General de la Seguridad Social conforme a lo establecido en el artículo 42 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo, y en las normas que lo desarrollan.
-
-> 5.º Cambio de convenio o convenios colectivos aplicables en la empresa.
-
-> 6.º Cambio de actividad económica y, en general, cualquier otra variación que afecte a los datos declarados con anterioridad respecto a la inscripción de la empresa y apertura de cuentas de cotización."
 
 2\. La comunicación de variaciones irá dirigida a la dirección provincial de la Tesorería General de la Seguridad Social o administración de la Seguridad Social en la provincia en que se formuló la inscripción, pudiendo presentarse en los registros y lugares señalados en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, y en la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, y se efectuará en el modelo oficial, dentro del plazo de tres días naturales, contados a partir de la fecha en que se produzcan, salvo en el caso a que se refiere el apartado 1.3.º anterior, en que el documento o declaración acreditativo de la nueva opción y la comunicación del cese de la anterior se presentarán con una antelación de diez días naturales a su efectividad, indicando la nueva entidad por la que se hubiera optado para la protección de las contingencias profesionales y, en su caso, de la prestación económica por incapacidad temporal derivada de contingencias comunes, dentro de los límites establecidos en el artículo 14.4 de este reglamento y de acuerdo con lo dispuesto al respecto en la normativa reguladora de las mutuas colaboradoras con la Seguridad Social.
 
@@ -615,30 +581,6 @@ Las solicitudes de alta por el trabajador por cuenta ajena deberán ir firmadas 
 Los solicitantes podrán firmar a través de cualquier medio que permita acreditar la autenticidad de su voluntad y consentimiento.
 
 5\. Las altas y bajas instrumentadas por medios electrónicos gozarán de plena validez y eficacia, siempre que quede garantizada su autenticidad, integridad y conservación, así como su recepción por la Tesorería General de la Seguridad Social, en los términos que determine el Ministerio de Inclusión, Seguridad Social y Migraciones.
-
-> Téngase en cuenta que esta última actualización, establecida por el art. 1.1 del Real Decreto 504/2022, de 27 de junio. [Ref. BOE-A-2022-10677](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10677) y por el art. 4 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entran en vigor el 1 de enero de 2023, según determinan sus disposiciones finales 4 y 5 respectivamente.
-
-> Redacción anterior:
-
-> "1. La comunicación de iniciación de la prestación de servicios o de la actividad o la del cese en las mismas efectuadas en los modelos oficiales de alta o de baja, o por los sistemas especialmente establecidos al efecto, implicará la solicitud en regla del alta o de la baja en la Seguridad Social.
-
-> 2\. La solicitud de alta contendrá los datos relativos al ejercicio de la actividad que faciliten una información completa a las entidades gestoras y a la Tesorería General de la Seguridad Social y, en especial, los siguientes:
-
-> 1.º En el documento para el alta de los trabajadores por cuenta ajena figurarán, respecto del empresario, su nombre o razón social, código de cuenta de cotización y régimen de Seguridad Social aplicable, y respecto del trabajador, su nombre y apellidos, su número de la Seguridad Social y, en tanto este no fuera exigible, su número de afiliación a la Seguridad Social, así como el del documento nacional de identidad o equivalente, domicilio, fecha de iniciación de la actividad, grupo de cotización, condiciones especiales de esta y, a efectos de la correspondiente a accidentes de trabajo y enfermedades profesionales, la actividad económica u ocupación desempeñada, con arreglo a la tarifa de primas vigente.
-
-> En el documento para el alta también figurarán el código o los códigos de convenio colectivo que, en su caso, resulten aplicables al trabajador por cuenta ajena, que deberán coincidir con el correspondiente al código de cuenta de cotización en el que vaya a producirse el alta o, de haberse declarado de aplicación en la empresa más de un convenio, con aquel o aquellos que le correspondan de entre los que figuren vinculados a esa cuenta de cotización.
-
-> 2.º El documento para el alta de los trabajadores por cuenta propia, además de los datos indicados en el párrafo primero del ordinal anterior relativos a los trabajadores por cuenta ajena, contendrá los referidos a su actividad económica u ocupación, sede de esta, si fuera distinta al domicilio del titular, régimen de Seguridad Social en el que se solicita la inclusión y, en su caso, los relativos a las peculiaridades en materia de cotización y acción protectora.
-
-> 3\. En las solicitudes o procedimientos especiales para la baja de los trabajadores, además de los datos de identificación del trabajador, incluido el número de la Seguridad Social, figurará la fecha de la baja, su causa y los datos relativos a las peculiaridades en materia de cotización y acción protectora y, tratándose de trabajador por cuenta ajena, deberán constar los datos de identificación del empresario, incluido el código de cuenta de cotización al que figure adscrito el trabajador cuya baja se solicita y, en su caso, la fecha de finalización de las vacaciones anuales devengadas y no disfrutadas y que sean retribuidas a la finalización de la relación laboral.
-
-> 4\. Las solicitudes de alta y la baja de los trabajadores deberán ir firmadas por el empresario o, en su caso, por el trabajador autónomo.
-
-> Las solicitudes del alta por el trabajador por cuenta ajena deberán ir firmadas en todo caso por el trabajador.
-
-> Cuando las altas y bajas se instrumenten por medios técnicos, cualquiera que sea su soporte, gozarán de la validez y eficacia de las solicitudes presentadas mediante documentos, siempre que quede garantizada su autenticidad, integridad y conservación y, en su caso, la recepción por las Direcciones Provinciales de la Tesorería General de la Seguridad Social y por los interesados, en los términos que determine el Ministerio de Trabajo y Seguridad Social.
-
-> 5\. Los datos indicados en los apartados 2, 3 y 4 anteriores, que ya figuren en el documento identificativo del trabajador a que se refiere el artículo 22 de este Reglamento, podrán acreditarse a efectos de las solicitudes de alta o baja en la Seguridad Social mediante la sola presentación de dicho documento."
 
 > Se modifica, con efectos de 1 de enero de 2023, el apartado 2.b).9 por el art. 4 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -890,18 +832,6 @@ En todo caso, si una de las actividades determinase la inclusión en el Sistema 
 
 La Tesorería General de la Seguridad Social podrá pedir, a estos efectos, informe del Organismo Estatal Inspección de Trabajo y Seguridad Social.
 
-> Téngase en cuenta que esta última actualización del apartado 1, establecida por el art. 1.2 del Real Decreto 504/2022, de 27 de junio. [Ref. BOE-A-2022-10677](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10677), entra en vigor el 1 de enero de 2023, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "1. Deberán solicitarse tantas altas y bajas de quienes se hallen en la situación de pluriactividad que se determina en el artículo 7.4.1.º cuantos sean los regímenes en que se encuentren comprendidos, realizándose por las personas y en las formas y condiciones generales establecidas en los artículos 29 y siguientes de este Reglamento.
-
-> En el supuesto de realización simultánea de dos o más actividades que den lugar a la inclusión en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos, el alta en dicho Régimen, así como la cotización a éste, serán únicas y se practicarán en los términos indicados por los artículos 46.3 y 47.4.4.ª de este Reglamento.
-
-> En todo caso, si una de las actividades determinase la inclusión en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios, el alta se practicará por dicha actividad.
-
-> Las Direcciones Provinciales de la Tesorería General de la Seguridad Social y las Administraciones de la Seguridad Social de ellas dependientes podrán pedir, a estos efectos, informe de la Inspección de Trabajo y Seguridad Social."
-
 2\. Los empresarios que conozcan la situación de pluriempleo de sus trabajadores que se determina en el apartado 4.2.º del artículo 7 de este Reglamento comunicarán las altas y las bajas de los mismos, con mención expresa de la existencia de dicha situación y declaración de las retribuciones del trabajador para que por parte de las entidades gestoras y la Tesorería General de la Seguridad Social se realicen de oficio las actuaciones que procedan a efectos de cotización y de protección.
 
 Los propios trabajadores en situación de pluriempleo están asimismo obligados a comunicar tal situación a los respectivos empresarios y a la Dirección Provincial de la Tesorería General de la Seguridad Social o Administración de la misma para que por ésta se inicien de oficio las actuaciones que procedan.
@@ -947,20 +877,6 @@ La exclusión de dicho censo supondrá, por su parte, la baja automática del pr
 3.ª Respecto de los funcionarios públicos incluidos en el campo de aplicación del Régimen General de la Seguridad Social, las altas y bajas de los mismos en los casos de cambio de destino obtenido por medio de concurso o libre designación y en los demás supuestos en que el organismo o centro de trabajo en el que se desempeñe el nuevo puesto o al que se adscriban o asignen los funcionarios deba asumir las retribuciones de los mismos y las obligaciones correspondientes en materia de Seguridad Social, surtirán efectos, por lo que se refiere a las altas, desde el día primero del mes siguiente a aquel en que se produzca el cese y, en lo que afecta a las bajas, desde el último día del mes en que se produzca dicho cese.
 
 2\. En las solicitudes de alta formuladas con respecto a los trabajadores incluidos en el Sistema Especial para Empleados de Hogar establecido en el Régimen General de la Seguridad Social deberán figurar, además de los datos establecidos con carácter general, el código de la cuenta de la entidad financiera en la que ha de domiciliarse el pago de la cotización y los datos correspondientes al tipo de contrato de trabajo y al contenido mínimo del mismo, consistente en el número de horas de trabajo mensuales y semanales, en el importe del salario pactado, tanto por hora realizada como mensual, incluida la parte proporcional de las pagas extraordinarias, así como, en su caso, en el importe del salario mensual acordado en especie y en la existencia o no de pacto de horas de presencia y/o de horas de pernocta, junto con la retribución por hora pactada.
-
-> Téngase en cuenta que esta modificación del apartado 2,establecida por el art. 6 del Real Decreto-ley 16/2022, de 6 de septiembre. [Ref. BOE-A-2022-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14680), entra en vigor el 1 de enero de 2023, según determina su disposición final 7.2.
-
-> Redacción anterior:
-
-> "2. Los trabajadores incluidos en el Sistema Especial para Empleados de Hogar establecido en el Régimen General de la Seguridad Social que presten sus servicios durante menos de 60 horas mensuales por empleador, deberán formular directamente su afiliación, altas, bajas y variaciones de datos cuando así lo acuerden con tales empleadores. No obstante, estos últimos también podrán presentar la solicitud de baja en caso de extinción de la relación laboral.
-
-> En el supuesto previsto en el párrafo anterior, los trabajadores deberán formalizar, asimismo, la cobertura de las contingencias profesionales con la entidad gestora o colaboradora de la Seguridad Social de su elección, salvo que sus empleadores ya tuvieran aseguradas dichas contingencias respecto a otros empleados incluidos en este sistema especial, en cuyo caso la citada cobertura correspondería a la entidad gestora o colaboradora elegida por el titular del hogar familiar.
-
-> Las solicitudes de alta, baja y variaciones de datos presentadas por los empleados de hogar que hayan asumido la obligación de formular esos actos de encuadramiento también deberán ir firmadas, en todo caso, por sus empleadores.
-
-> Las variaciones de datos que determinen o permitan un cambio del sujeto responsable del cumplimiento de las obligaciones a que se refiere este apartado, y de la consiguiente obligación de cotizar al Sistema Especial para Empleados de Hogar, surtirán efecto a partir del día primero del mes siguiente a aquel en que se efectúe su comunicación.
-
-> En las solicitudes de alta en este sistema especial, ya se formulen por el empleador o por el propio empleado de hogar, deberán figurar, además de los datos establecidos con carácter general, el código de la cuenta de la entidad financiera en la que ha de domiciliarse el pago de la cotización y los datos correspondientes al tipo de contrato de trabajo y al contenido mínimo del mismo, consistente en el número de horas de trabajo semanales, en el importe del salario pactado, tanto por hora realizada como mensual, incluida la parte proporcional de las pagas extraordinarias, así como, en su caso, en el importe del salario mensual acordado en especie y en la existencia o no de pacto de horas de presencia y/o de horas de pernocta, junto con la retribución por hora pactada."
 
 3\. La afiliación, altas, bajas y variaciones de datos relativas a trabajadores incluidos en los demás sistemas especiales de los distintos regímenes de la Seguridad Social se sujetarán a las formalidades, plazos y demás condiciones establecidos en sus normas específicas.
 
@@ -1080,52 +996,6 @@ e) Documentos que acrediten la participación del trabajador autónomo en socied
 
 f) Declaración responsable del interesado y cualesquiera otros documentos que le sean requeridos, a estos efectos, por la Tesorería General de la Seguridad Social.
 
-> Téngase en cuenta que esta última actualización, establecida por el art. 1.3 del Real Decreto 504/2022, de 27 de junio. [Ref. BOE-A-2022-10677](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10677), entra en vigor el 1 de enero de 2023, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "1. La afiliación, altas, bajas y variaciones de datos de los trabajadores comprendidos en el campo de aplicación del Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos se efectuarán con arreglo a las peculiaridades señaladas en los apartados siguientes, sin perjuicio de las establecidas específicamente en el artículo 47 bis respecto a los que estén incluidos en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios.
-
-> 2\. Las afiliaciones y las altas, iniciales o sucesivas, serán obligatorias y producirán los siguientes efectos en orden a la cotización y a la acción protectora:
-
-> a) La afiliación y hasta tres altas dentro de cada año natural tendrán efectos desde el día en que concurran en la persona de que se trate los requisitos y condiciones determinantes de su inclusión en el campo de aplicación de este régimen especial, siempre que se hayan solicitado en los términos establecidos, respectivamente, por los artículos 27.2 y 32.3.1.º de este reglamento.
-
-> b) El resto de las altas que, en su caso, se produzcan dentro de cada año natural tendrán efectos desde el día primero del mes natural en que se reúnan los requisitos para la inclusión en este régimen especial, siempre que se hayan solicitado en los términos establecidos por el artículo 32.3.1.º de este reglamento.
-
-> c) Las altas solicitadas fuera del plazo reglamentario tendrán, asimismo, efectos desde el día primero del mes natural en que se reúnan los requisitos para la inclusión en este régimen especial.
-
-> En tales supuestos y sin perjuicio de las sanciones administrativas que procedan por su ingreso fuera de plazo, las cotizaciones correspondientes a períodos anteriores a la formalización del alta serán exigibles y producirán efectos en orden a las prestaciones una vez hayan sido ingresadas, con los recargos e intereses que legalmente correspondan, salvo que por aplicación de la prescripción no fuesen exigibles dichas cuotas ni por ello válidas a efectos de prestaciones.
-
-> La Tesorería General de la Seguridad Social dará cuenta de las altas solicitadas fuera del plazo reglamentario a la Inspección de Trabajo y Seguridad Social.
-
-> d) Procederán la afiliación y el alta de oficio en este régimen especial por la Tesorería General de la Seguridad Social en los supuestos que resultan de los artículos 26 y 29.1.3.º de este reglamento, surtiendo igualmente efectos desde el día primero del mes natural en que resulte acreditada la concurrencia de los requisitos para la inclusión en este régimen especial, en los términos y con el alcance previstos en el párrafo c).
-
-> 3\. Cuando los trabajadores autónomos realicen simultáneamente dos o más actividades que den lugar a la inclusión en este régimen especial, su alta en él será única, debiendo declarar todas sus actividades en la solicitud de alta o, de producirse la pluriactividad después de ella, mediante la correspondiente variación de datos, en los términos y con los efectos señalados en los artículos 28 y 37 de este reglamento. Del mismo modo se procederá en caso de que varíe o finalice su situación de pluriactividad.
-
-> En función de dichas declaraciones, la Tesorería General de la Seguridad Social dará cuenta de las actividades desempeñadas en cada momento a la mutua colaboradora con la Seguridad Social con la que el trabajador haya formalizado la cobertura de la prestación económica por incapacidad temporal y, en su caso, de las contingencias de accidentes de trabajo y enfermedades profesionales.
-
-> 4\. Las bajas de los trabajadores en este régimen especial producirán los siguientes efectos en orden a la cotización y a la acción protectora:
-
-> a) Hasta tres bajas dentro de cada año natural tendrán efectos desde el día en que el trabajador autónomo hubiese cesado en la actividad determinante de su inclusión en el campo de aplicación de este régimen especial, siempre que se hayan solicitado en los términos establecidos por el artículo 32 de este reglamento.
-
-> b) El resto de las bajas que, en su caso, se produzcan dentro de cada año natural surtirán efectos al vencimiento del último día del mes natural en que el trabajador autónomo hubiese cesado en la actividad determinante de su inclusión en el campo de aplicación de este régimen especial, siempre que se hayan solicitado en los términos establecidos por el artículo 32 de este reglamento.
-
-> c) Cuando, no obstante haber dejado de reunir los requisitos y condiciones determinantes de la inclusión en este régimen especial, el trabajador no solicitara la baja o la solicitase en forma y plazo distintos a los establecidos al efecto, o bien la baja se practicase de oficio, el alta así mantenida surtirá efectos en cuanto a la obligación de cotizar en los términos que se determinan en el artículo 35.2 de este reglamento y no será considerado en situación de alta en cuanto al derecho a las prestaciones.
-
-> La Tesorería General de la Seguridad Social dará cuenta de las bajas solicitadas o practicadas fuera del plazo reglamentario a la Inspección de Trabajo y Seguridad Social.
-
-> 5\. A las solicitudes de alta y baja de trabajadores en este régimen especial deberán acompañarse los documentos y medios de prueba determinantes de la procedencia de una u otra. A tales efectos podrán acompañarse alguno o algunos de los que a continuación se especifican:
-
-> a) Documento que acredite que el solicitante ostenta la titularidad de cualquier empresa individual o familiar o de un establecimiento abierto al público como propietario, arrendatario, usufructuario y otro concepto análogo o documento acreditativo del cese en dicha titularidad.
-
-> b) Justificante de abonar el Impuesto sobre Actividades Económicas o cualquier otro impuesto por la actividad desempeñada o certificación de no abonar dicho impuesto, uno y otra referidos, como máximo, a los últimos cuatro años.
-
-> c) Copia de las licencias, permisos o autorizaciones administrativas, que sean necesarios para el ejercicio de la actividad de que se trate y, en su defecto, indicación del organismo o administración que las hubiese concedido o copia de la documentación acreditativa de su extinción o cese.
-
-> d) Copia del contrato celebrado entre el trabajador autónomo económicamente dependiente y su cliente, una vez registrado en el Servicio Público de Empleo Estatal y copia de la comunicación al Servicio Público de Empleo Estatal de la terminación del contrato registrado.
-
-> e) Declaración responsable del interesado y cualesquiera otros, propuestos o no por el solicitante, que le sean requeridos a estos efectos por la Tesorería General de la Seguridad Social."
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.3 del Real Decreto 504/2022, de 27 de junio. [Ref. BOE-A-2022-10677](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10677)
 
 > Téngase en cuenta que se modifica la entrada en vigor del citado Real Decreto por el art. 6.2 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/act.php?id=BOE-A-2022-12482#as-2)
@@ -1188,60 +1058,6 @@ d) La cobertura de la prestación por incapacidad temporal, se encuentren o no a
 
 4\. La cobertura de las contingencias a que se refiere este artículo no será obligatoria para los socios de cooperativas que dispongan de un sistema intercooperativo de prestaciones sociales, complementario al sistema público, a que se refiere la disposición adicional vigésima octava del texto refundido de la Ley General de la Seguridad Social, ni para los miembros de institutos de vida consagrada de la Iglesia Católica, cuando en ambos casos figuren incluidos en este régimen especial.
 
-> Téngase en cuenta que esta última actualización, establecida por el art. 1.4 del Real Decreto 504/2022, de 27 de junio. [Ref. BOE-A-2022-10677](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10677), entra en vigor el 1 de enero de 2023, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "1. La protección de la incapacidad temporal derivada de contingencias comunes y de las contingencias de accidentes de trabajo y enfermedades profesionales por los trabajadores comprendidos en el campo de aplicación de este Régimen Especial se efectuará con arreglo a las peculiaridades señaladas en los apartados siguientes, sin perjuicio de las establecidas especialmente en el artículo 47 bis respecto a los que estén incluidos en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios.
-
-> 2\. La cobertura de la prestación económica por incapacidad temporal derivada de contingencias comunes en este Régimen Especial tendrá carácter obligatorio, sin perjuicio de lo previsto en el apartado siguiente, y se deberá formalizar con una mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, que estará obligada a aceptar toda propuesta de adhesión que se le formule a tal efecto, conforme a lo previsto en los artículos 74 y 75 del Reglamento general sobre colaboración de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, aprobado por el Real Decreto 1993/1995, de 7 de diciembre.
-
-> 3\. Los trabajadores autónomos que tengan cubierta la prestación por incapacidad temporal en otro régimen del sistema de la Seguridad Social en el que también se encuentren en alta podrán, en tanto se mantenga su situación de pluriactividad, acogerse voluntariamente a la cobertura de dicha prestación en este Régimen Especial así como, en su caso, renunciar a ella.
-
-> Lo indicado en el párrafo anterior no será de aplicación a los trabajadores autónomos que, aun encontrándose en situación de pluriactividad con alta en otro régimen, tengan la condición de económicamente dependientes o desempeñen actividades en que la cobertura de las contingencias profesionales resulte obligatoria por su mayor riesgo de siniestralidad.
-
-> La opción y la renuncia a la protección de la incapacidad temporal se efectuarán con arreglo a las siguientes normas:
-
-> 1.ª La opción en favor de dicha cobertura, que habrá de formalizarse con una mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social en los términos señalados en el apartado 2, podrá realizarse en el momento de causar alta en este Régimen Especial y sus efectos coincidirán con los de dicha alta.
-
-> De no ejercitarse la opción a que se refiere el párrafo anterior, estos trabajadores podrán optar por acogerse a dicha protección mediante solicitud por escrito que deberá formularse antes del 1 de octubre de cada año, con efectos desde el día 1 de enero del año siguiente.
-
-> Los derechos y obligaciones derivados de la opción en favor de la cobertura de la prestación por incapacidad temporal serán exigibles durante el período de un año natural, que se prorrogará automáticamente por períodos de igual duración.
-
-> 2.ª La renuncia a la cobertura de la prestación de incapacidad temporal podrá realizarse, mediante solicitud por escrito, en los siguientes supuestos:
-
-> a) Con carácter general, antes del 1 de octubre de cada año, con efectos desde el día 1 de enero del año siguiente.
-
-> b) Cuando la situación de pluriactividad se produzca con posterioridad al alta en este Régimen Especial, dentro de los 30 días siguientes al del alta por la nueva actividad, con efectos desde el día primero del mes siguiente al de la renuncia. En otro caso, será de aplicación lo dispuesto en el apartado a).
-
-> c) Cuando los trabajadores dejen de reunir los requisitos para ostentar la condición de económicamente dependientes o de desempeñar una actividad con alto riesgo de siniestralidad, permaneciendo en alta en este Régimen Especial, con efectos desde el primer día del mes siguiente a aquel en que se haya extinguido el respectivo contrato o en que haya finalizado la referida actividad, siempre que la variación de datos correspondiente se comunique dentro de plazo; en otro caso, la cobertura se mantendrá hasta el último día del mes en que produzca efectos la referida variación, en los términos previstos por el artículo 37.3 de este Reglamento.
-
-> La renuncia realizada en los supuestos anteriores no impedirá ejercer nuevamente la opción por esta cobertura, siempre que haya transcurrido, como mínimo, un año natural desde que tuvo efectos la renuncia anterior.
-
-> 3.ª En los supuestos de cambio de mutua de accidentes de trabajo y enfermedades profesionales, los efectos de la opción por esta cobertura o de la renuncia a ella tendrán lugar desde el día primero del mes de enero del año siguiente al de la formulación de la correspondiente opción o al de presentación de la renuncia.
-
-> Cuando en la fecha de efectos de la opción y de la renuncia a que se refieren las reglas anteriores, o bien del cambio de mutua a que se refiere el párrafo anterior, el trabajador se encontrase en situación de incapacidad temporal, tales efectos se demorarán al día primero del mes siguiente a aquel en que se produzca el alta médica.
-
-> 4.ª La cobertura de la prestación por incapacidad temporal, se encuentren o no acogidos los trabajadores a ella, pasará a ser obligatoria en los siguientes supuestos:
-
-> a) Cuando finalice la situación de pluriactividad con mantenimiento del alta en este Régimen Especial, con efectos desde el día primero del mes en que cese la pluriactividad.
-
-> b) Cuando los trabajadores pasen a ostentar la condición de económicamente dependientes o a desempeñar una actividad profesional con elevado riesgo de siniestralidad, con efectos desde el día primero del mes en que se reúna tal condición o se haya iniciado la referida actividad profesional.
-
-> 4\. La cobertura de las contingencias de accidentes de trabajo y enfermedades profesionales en este Régimen Especial se efectuará con arreglo a las siguientes normas:
-
-> 1.ª La protección tendrá carácter voluntario, excepto para los trabajadores autónomos económicamente dependientes y para aquellos que estén obligados a formalizar su cobertura por desempeñar una actividad profesional con un elevado riesgo de siniestralidad.
-
-> La formalización de esta cobertura habrá de efectuarse con la misma mutua con la que se haya formalizado o se formalice la protección de la prestación económica por incapacidad temporal.
-
-> 2.ª La opción en favor de esta cobertura, la renuncia a ella y, en su caso, su conversión en obligatoria tendrán lugar en la forma, plazos y con los efectos establecidos en el apartado 3 respecto a la prestación económica por incapacidad temporal, a excepción de las normas 2.ª b) y 4.ª a) de dicho apartado.
-
-> 3.ª En los supuestos en que, de conformidad con el apartado 3, se opte por la protección de la prestación por incapacidad temporal también se podrá optar por la de las contingencias profesionales, cuyos efectos coincidirán con los de la cobertura de dicha prestación. De no haberse ejercido simultáneamente ambas opciones, la protección de las contingencias profesionales se podrá solicitar antes del 1 de octubre de cada año, con efectos desde el día 1 de enero del año siguiente.
-
-> En estos casos, la renuncia a la cobertura de la prestación por incapacidad temporal supondrá en todo caso la renuncia a la de las contingencias profesionales, sin que la renuncia a ésta implique la renuncia a la protección por incapacidad temporal, salvo que así se solicite expresamente.
-
-> 4.ª En el caso de trabajadores que realicen varias actividades que den lugar a una única inclusión en este Régimen Especial, a que se refiere el artículo 46.3, la cobertura de los accidentes de trabajo y enfermedades profesionales se practicará por aquella de sus actividades a la que resulte aplicable el tipo de cotización más alto entre los recogidos en la tarifa de primas vigente."
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.4 del Real Decreto 504/2022, de 27 de junio. [Ref. BOE-A-2022-10677](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10677)
 
 > Téngase en cuenta que se modifica la entrada en vigor del citado Real Decreto por el art. 6.2 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/act.php?id=BOE-A-2022-12482#as-2)
@@ -1255,60 +1071,6 @@ d) La cobertura de la prestación por incapacidad temporal, se encuentren o no a
 ##### Artículo 47 bis. En el Sistema Especial para Trabajadores por Cuenta Propia Agrarios establecido dentro del Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos.
 
 **(Suprimido)**
-
-> Téngase en cuenta que este artículo se suprime con efectos de 1 de enero de 2023, por el art. 1.5 del Real Decreto 504/2022, de 27 de junio. [Ref. BOE-A-2022-10677](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10677), según establece su disposición final cuarta.
-
-> Redacción anterior:
-
-> 1\. La inclusión en este Sistema Especial como consecuencia de la afiliación y el alta, inicial o sucesiva, en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos, se ajustará a lo dispuesto en el artículo 46.2 de este Reglamento.
-
-> La inclusión solicitada por trabajadores que ya estuvieran en alta en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos tendrá efectos desde el día primero del mes siguiente a aquel en que se presente la respectiva solicitud.
-
-> 2\. A efectos de acreditar los requisitos exigidos para la inclusión en este Sistema Especial por el artículo 2 de la Ley 18/2007, de 4 de julio, los interesados, en el momento de presentar su solicitud de incorporación, deberán cumplimentar una declaración justificativa del cumplimiento de aquéllos.
-
-> La solicitud habrá de ir acompañada, asimismo, por la siguiente documentación:
-
-> 1.º Documentación que acredite la titularidad de, al menos, una explotación agraria.
-
-> 2.º Declaración del Impuesto sobre la Renta de las Personas Físicas correspondiente al ejercicio anterior al de la petición de inclusión en este Sistema Especial, a menos que el interesado no hubiera estado obligado a presentarla. Esta documentación no se exigirá en los supuestos de inclusión en este Sistema Especial por inicio de la actividad agraria.
-
-> 3\. La comprobación por parte de la Tesorería General de la Seguridad Social del cumplimiento de los referidos requisitos, a la que quedará condicionada la validez de la inclusión en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios, así como la revisión de ésta, se realizará con arreglo a las siguientes normas:
-
-> 1.ª De conformidad con lo previsto en los artículos 36.6 de la Ley General de la Seguridad Social y 95.1.c) de la Ley 58/2003, de 17 de diciembre, General Tributaria, las Administraciones Tributarias suministrarán a la Tesorería General de la Seguridad Social, con periodicidad anual, información sobre los datos de las declaraciones del Impuesto sobre la Renta de las Personas Físicas correspondientes a los trabajadores incluidos en este Sistema Especial que permitan determinar su renta total y la parte de renta procedente de la actividad agraria, a las que se refiere el artículo 2.1.a) de la Ley 18/2007, de 4 de julio.
-
-> A tales efectos, se considerarán renta total y renta agraria del titular de una explotación las determinadas por el artículo 5 de la Orden de 13 de diciembre de 1995, por la que se desarrolla el apartado 1 del artículo 16 y la disposición final sexta de la Ley 19/1995, de 4 de julio, de modernización de las explotaciones agrarias.
-
-> 2.ª La base máxima de cotización en el Régimen General a considerar para la comprobación del cumplimiento del requisito establecido en el artículo 2.1.b) de la Ley 18/2007, de 4 de julio, será la vigente en el ejercicio económico en el que se efectúe tal comprobación.
-
-> 3.ª La Tesorería General de la Seguridad Social comprobará periódicamente el número de trabajadores por cuenta ajena fijos, incluidos los fijos-discontinuos, que figuren en alta al servicio de los trabajadores incluidos en este Sistema Especial, así como el número de jornales satisfechos a los trabajadores eventuales a su servicio, a que se refiere el artículo 2.1.c) de la Ley 18/2007, de 4 de julio.
-
-> 4.ª En los supuestos de solicitudes iniciales de inclusión en este Sistema Especial, la comprobación del incumplimiento de los requisitos para ella determinará la exclusión de oficio del Sistema, con efectos desde el día en que haya tenido lugar la incorporación condicionada en él.
-
-> En los supuestos en que, con posterioridad a la inclusión inicial en este Sistema Especial, se compruebe que se han dejado de reunir los requisitos para estar comprendido en él, los efectos de la exclusión de oficio que practique la Tesorería General de la Seguridad Social se producirán:
-
-> a) Desde el día primero del año natural siguiente a aquel en que se hayan dejado de cumplir los requisitos establecidos en los apartados a) y b) del artículo 2.1 de la Ley 18/2007, de 4 de julio.
-
-> b) Desde el día primero del mes siguiente a aquel en el que se hayan dejado de cumplir los requisitos relativos a los trabajadores por cuenta ajena al servicio de los incluidos en este Sistema Especial, establecidos en el artículo 2.1.c) de la Ley 18/2007, de 4 de julio.
-
-> 5.ª Sin perjuicio de lo señalado en las normas anteriores, la Tesorería General de la Seguridad Social solicitará a la Inspección de Trabajo y Seguridad Social la realización de cuantas comprobaciones estime oportunas sobre la concurrencia de los requisitos de inclusión en este Sistema Especial, que, en su caso, determinarán las revisiones que procedan con los efectos previstos con carácter general en este Reglamento.
-
-> 6.ª Los interesados podrán instar su exclusión de este Sistema Especial por el incumplimiento sobrevenido de los requisitos para quedar comprendidos en él, con los efectos señalados en la norma 4.ª
-
-> A tales efectos, si las solicitudes de exclusión se presentasen dentro del mes siguiente a aquel en que se hubieran dejado de reunir los requisitos exigidos por el artículo 2.1.c) de la Ley 18/2007, de 4 de julio, o a aquel en que hubiera finalizado el plazo de presentación de la declaración del Impuesto sobre la Renta de las Personas Físicas correspondiente al ejercicio anterior, de no cumplir los requisitos establecidos en los apartados a) y b) del artículo 2.1 de la citada ley, el plazo para ingresar las cuotas devengadas y no ingresadas en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos será el señalado en el artículo 56.1.c).5.º del Reglamento general de recaudación de la Seguridad Social.
-
-> 4\. Los trabajadores incluidos en este Sistema Especial podrán acogerse voluntariamente a la cobertura de la prestación económica por incapacidad temporal. La opción a favor de dicha cobertura y, en su caso, la renuncia a ella se realizará en la forma, plazos y con los efectos establecidos en el artículo 47.3 de este Reglamento, con las siguientes peculiaridades:
-
-> 1.ª Cuando los trabajadores que soliciten su inclusión en este Sistema Especial ya estuvieran de alta en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos, teniendo cubierta obligatoriamente la prestación económica por incapacidad temporal, podrán renunciar a dicha cobertura en la respectiva solicitud, con efectos desde el día primero del mes siguiente al de su presentación.
-
-> Si en la fecha de efectos de la renuncia los trabajadores se encontrasen en situación de incapacidad temporal, dichos efectos se demorarán al día primero del mes siguiente a aquel en que se produzca su alta médica.
-
-> 2.ª Cuando los trabajadores que no se hubieran acogido a la prestación por incapacidad temporal queden excluidos de este Sistema Especial, permaneciendo en alta en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos por la misma o distinta actividad, la cobertura de dicha prestación será obligatoria desde la fecha de efectos de la exclusión en el Sistema, salvo que se tuviera derecho a ella en virtud de la actividad realizada en otro régimen de la Seguridad Social, en cuyo caso se estará a lo dispuesto en el artículo 47.3 de este Reglamento.
-
-> 5\. La cobertura de los accidentes de trabajo y las enfermedades profesionales en este Sistema Especial resultará obligatoria respecto a las contingencias de invalidez y muerte y supervivencia, sin perjuicio de la posibilidad de proteger voluntariamente la totalidad de dichas contingencias en los términos señalados en el párrafo siguiente.
-
-> Los trabajadores comprendidos en este Sistema Especial que hayan optado por incluir la prestación económica por incapacidad temporal dentro del ámbito de su acción protectora podrán optar también por incorporar en ella la cobertura de la totalidad de las contingencias de accidentes de trabajo y enfermedades profesionales, siendo de aplicación lo establecido al respecto en las normas 1.ª a 3.ª del artículo 47.4 de este Reglamento.
-
-> Si el trabajador comprendido en este Sistema Especial realizase otra actividad que diera lugar a su inclusión en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos y que determinara la protección obligatoria de las contingencias profesionales, estará obligado a la cobertura de la prestación económica por incapacidad temporal así como de las referidas contingencias, con aplicación de lo indicado en la norma 4.ª del artículo 47.4 de este Reglamento."
 
 > Se suprime, con efectos de 1 de enero de 2023, por el art. 1.5 del Real Decreto 504/2022, de 27 de junio. [Ref. BOE-A-2022-10677](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10677)
 
@@ -1356,26 +1118,6 @@ Si en la fecha de efectos de la renuncia a la cobertura de la incapacidad tempor
 
 6\. Si el trabajador comprendido en este sistema especial realizase otra actividad que diera lugar a su inclusión en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos, el alta única en dicho régimen se practicará por la actividad agraria, quedando obligado a proteger las prestaciones por incapacidad temporal y por cese de actividad y la totalidad de las contingencias de accidentes de trabajo y enfermedades profesionales en ese sistema.
 
-> Téngase en cuenta que esta última actualización, establecida por el art. 1.6 del Real Decreto 504/2022, de 27 de junio. [Ref. BOE-A-2022-10677](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10677), entra en vigor el 1 de enero de 2023, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "Artículo 48. En el Régimen Especial de los Trabajadores del Mar.
-
-> 1\. En el Régimen Especial de los Trabajadores del Mar, cada embarcación tendrá la consideración de un centro de trabajo, al que se asignará un código de cuenta de cotización propio del que se tomará razón en el Registro de Empresarios y que será anotado, asimismo, en el rol o licencia de la embarcación.
-
-> La justificación de haber sido inscrita la empresa e identificada la embarcación en el Registro constituirá un requisito necesario para que la autoridad marítima competente autorice su despacho para salir a la mar.
-
-> 2\. La afiliación y las altas, bajas y variaciones de datos de trabajadores en este régimen especial se ajustarán a lo establecido con carácter general en este reglamento respecto a los plazos y condiciones para su formalización.
-
-> Respecto a los trabajadores por cuenta propia incluidos en este régimen especial, los efectos de las altas y de las bajas se regirán por lo dispuesto en el artículo 46 de este reglamento para el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos, a excepción de lo previsto en el segundo párrafo de su apartado 2.c) respecto a los efectos de las altas fuera de plazo en orden a las prestaciones.
-
-> 3\. Las Direcciones Provinciales de la Tesorería General de la Seguridad Social o las Administraciones de las mismas y, como colaboradoras de éstas, las Direcciones Provinciales y Locales del Instituto Social de la Marina entregarán a la empresa o al interesado un documento acreditativo de la presentación de la solicitud de afiliación y alta.
-
-> El número de la Seguridad Social o, en su caso, el de afiliación a la misma será reseñado en las libretas de inscripción marítima de los interesados, cuando se trate de trabajadores que presten servicios en embarcaciones de cualquier clase. La existencia de este requisito será comprobada por las autoridades de marina al autorizar los enrolamientos de los interesados.
-
-> 4\. Los trabajadores por cuenta propia y los armadores a que se refiere el artículo 3 del Real Decreto 1867/1970, de 9 de julio, están obligados a concertar con el Instituto Social de la Marina o con una mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social la protección de las contingencias de accidentes de trabajo y enfermedades profesionales por lo que se refiere a sí mismos, además de como empresarios de los trabajadores por cuenta ajena que empleen, aunque la formalización del correspondiente documento de asociación se instrumente conforme a lo establecido en el artículo 14 de este Reglamento."
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.6 del Real Decreto 504/2022, de 27 de junio. [Ref. BOE-A-2022-10677](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10677)
 
 > Téngase en cuenta que se modifica la entrada en vigor del citado Real Decreto por el art. 6.2 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/act.php?id=BOE-A-2022-12482#as-2)
@@ -1403,8 +1145,6 @@ El período de vigencia y la prórroga de la cobertura de dichas contingencias, 
 Resultará también aplicable el artículo 47.3, cuando los trabajadores por cuenta propia incluidos en este régimen especial tengan cubierta la incapacidad temporal derivada de contingencias comunes en otro régimen del sistema de la Seguridad Social en el que también se encuentren en alta, en tanto se mantenga su situación de pluriactividad.
 
 En el supuesto de alta de oficio en este régimen especial, la cobertura de las contingencias a que se refiere este artículo se formalizará con el Instituto Social de la Marina, salvo que el trabajador afectado opte expresamente por una mutua colaboradora con la Seguridad Social.
-
-> Téngase en cuenta que esta última actualización, añadida por el art. 1.7 del Real Decreto 504/2022, de 27 de junio. [Ref. BOE-A-2022-10677](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10677), entra en vigor el 1 de enero de 2023, según determina su disposición final cuarta.
 
 > Se añade, con efectos de 1 de enero de 2023, por el art. 1.7 del Real Decreto 504/2022, de 27 de junio. [Ref. BOE-A-2022-10677](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10677)
 
@@ -1623,14 +1363,6 @@ En relación con lo dispuesto en el artículo 14, en su apartado 4, de este Regl
 1\. Lo dispuesto en los artículos 27.2 y 32.3.1.º de este reglamento, respecto de los plazos para solicitar la afiliación y las altas iniciales o sucesivas, no será aplicable a los profesionales taurinos ni a los colectivos incluidos en los Sistemas Especiales de Frutas y Hortalizas, de la Industria de Conservas Vegetales y de las Empresas de Exhibición Cinematográfica, Salas de Baile, Discotecas y Salas de Fiesta, todos ellos del Régimen General de la Seguridad Social, para los cuales, hasta que las posibilidades de gestión permitan la aplicación de los plazos establecidos en este reglamento, seguirán aplicándose los plazos establecidos en sus normas específicas.
 
 2\. La concurrencia de tal posibilidad se determinará por la Secretaría de Estado de la Seguridad Social, a propuesta de la Dirección General de la Tesorería General de la Seguridad Social.
-
-> Téngase en cuenta que esta última actualización de la disposición establecida por la disposición final 1.4 de la Ley 6/2017, de 24 de octubre. [Ref. BOE-A-2017-12207](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207) entra en vigor el 1 de enero de 2018, según determina la disposición final 13 a) de la citada ley.
-
-> Redacción anterior:
-
-> "1. Lo dispuesto en los artículos 27, en su apartado 2, y 32, en su apartado 3.1.º, de este Reglamento, respecto de los plazos para solicitar la afiliación y altas iniciales o sucesivas, no será aplicable a los profesionales taurinos, ni a los colectivos incluidos en los Sistemas Especiales del Régimen General, ni a los trabajadores por cuenta propia o autónomos, para los cuales, hasta que las posibilidades de gestión permitan la aplicación de los plazos establecidos en este Reglamento, seguirán aplicándose los plazos establecidos en sus normas específicas y, en el Régimen Especial de Trabajadores Autónomos, el de los treinta días naturales siguientes a aquel en que hayan nacido dichas obligaciones.
-
-> 2\. La concurrencia de tal posibilidad se determinará por la Secretaría General para la Seguridad Social, a propuesta de la Dirección General de la Tesorería General de la Seguridad Social."
 
 > Se modifica, con efectos de 1 de enero de 2018, por la disposición final 1.4 de la Ley 6/2017, de 24 de octubre. [Ref. BOE-A-2017-12207](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207)
 

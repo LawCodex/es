@@ -227,28 +227,28 @@ a) Se partirá de las cuantías de la base imponible general sumada a la base im
 
 b) Los ingresos familiares máximos vendrán referidos a los ingresos familiares ponderados de la unidad familiar que se determinarán aplicando los siguientes coeficientes multiplicadores:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Unidad familiar</th>
-<th class="cabeza_tabla">Coeficiente</th>
+<th>Unidad familiar</th>
+<th>Coeficiente</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Formada por 1 a 3 personas.</td>
-<td class="cuerpo_tabla_centro">0,75</td>
+<td>Formada por 1 a 3 personas.</td>
+<td>0,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formada por 4 o más personas/familias numerosas</td>
-<td class="cuerpo_tabla_centro">0,70</td>
+<td>Formada por 4 o más personas/familias numerosas</td>
+<td>0,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuando haya una o más personas con enfermedad mental o con discapacidad intelectual o del desarrollo, con un grado de discapacidad reconocido igual o superior al 33%.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">0,60</td>
+<td>Cuando haya una o más personas con enfermedad mental o con discapacidad intelectual o del desarrollo, con un grado de discapacidad reconocido igual o superior al 33%.</td>
+<td rowspan="2">0,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuando haya una o más personas con discapacidad física o sensorial, con un grado de discapacidad reconocido igual o superior al 65%.</td>
+<td>Cuando haya una o más personas con discapacidad física o sensorial, con un grado de discapacidad reconocido igual o superior al 65%.</td>
 </tr>
 </tbody>
 </table>

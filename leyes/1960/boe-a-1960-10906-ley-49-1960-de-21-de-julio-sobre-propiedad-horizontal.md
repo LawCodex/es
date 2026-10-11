@@ -140,8 +140,6 @@ Si la sentencia fuese estimatoria podrá disponer, además de la cesación defin
 
 El presidente de la comunidad, a iniciativa propia o de cualquiera de los propietarios u ocupantes, requerirá a quien realice la actividad del apartado anterior, sin que haya sido aprobada expresamente, la inmediata cesación de las mismas, bajo apercibimiento de iniciar las acciones judiciales procedentes, siendo de aplicación lo dispuesto en el apartado anterior.
 
-> Téngase en cuenta que este apartado 3, añadido por la disposición final 4.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
 > Se añade el apartado 3, con efectos de 3 de abril de 2025 por la disposición final 1 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica el párrafo tercero del apartado 2 por la disposición final 1 de la Ley 1/2000, de 7 de enero. [Ref. BOE-A-2000-323](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-323)
@@ -623,8 +621,6 @@ Al inicio del siguiente ejercicio presupuestario se efectuarán las aportaciones
 ### Disposición adicional segunda.
 
 Aquel propietario de una vivienda que esté ejerciendo la actividad a que se refiere la letra e) del artículo 5 de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, con anterioridad a la entrada en vigor de la Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia, que se haya acogido previamente a la normativa sectorial turística, podrá seguir ejerciendo la actividad con las condiciones y plazos establecidos en la misma.
-
-> Téngase en cuenta que esta disposición, añadida por la disposición final 4.3 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
 
 > Se añade, con efectos de 3 de abril de 2025, por la disposición final 4.3 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 

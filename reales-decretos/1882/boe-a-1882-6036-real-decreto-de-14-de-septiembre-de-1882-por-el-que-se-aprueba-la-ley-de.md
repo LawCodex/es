@@ -226,34 +226,6 @@ d) La emisión y la ejecución de los instrumentos de reconocimiento mutuo de re
 
 7\. En caso de que los hechos objeto de instrucción por la Sección de Violencia contra la Infancia y Adolescencia también pudieran ser conocidos por la Sección de Violencia sobre la Mujer, la competencia le corresponderá en todo caso a la segunda.
 
-> Téngase en cuenta que la actualización de este artículo, establecida por el art. 20.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de octubre de 2025, según determina su disposición final 38.3.
-
-> **Redacción anterior:**
-
-> "Fuera de los casos que expresa y limitadamente atribuyen la Constitución y las leyes a Jueces y Tribunales determinados, serán competentes:
-
-> 1\. Para el conocimiento y fallo de los juicios por delito leve, el Juez de Instrucción, salvo que la competencia corresponda al Juez de Violencia sobre la Mujer de conformidad con el número 5 de este artículo.
-
-> 2\. Para la instrucción de las causas, el Juez de Instrucción del partido en que el delito se hubiere cometido, o el Juez de Violencia sobre la Mujer, o el Juez Central de Instrucción respecto de los delitos que la Ley determine.
-
-> 3\. Para el conocimiento y fallo de las causas por delitos a los que la ley señale pena privativa de libertad de duración no superior a cinco años o pena de multa cualquiera que sea su cuantía, o cualesquiera otras de distinta naturaleza, bien sean únicas, conjuntas o alternativas, siempre que la duración de estas no exceda de diez años, así como por delitos leves, sean o no incidentales, imputables a los autores de estos delitos o a otras personas, cuando la comisión del delito leve o su prueba estuviesen relacionadas con aquellos, el Juez de lo Penal de la circunscripción donde el delito fue cometido, o el Juez de lo Penal correspondiente a la circunscripción del Juzgado de Violencia sobre la Mujer, en su caso, o el Juez Central de lo Penal en el ámbito que le es propio, sin perjuicio de la competencia del Juez de Instrucción de Guardia del lugar de comisión del delito para dictar sentencia de conformidad, del Juez de Violencia sobre la Mujer competente, en su caso, en los términos establecidos en el artículo 801, así como de los Juzgados de Instrucción competentes para dictar sentencia.
-
-> No obstante, en los delitos comprendidos en el Título VIII del Libro II del Código Penal, a los solos efectos de determinar la competencia para el enjuiciamiento, se tendrán en cuenta únicamente las penas de prisión o de multa, correspondiendo al Juez de lo Penal de la circunscripción donde el delito fue cometido, o al Juez de lo Penal correspondiente a la circunscripción del Juzgado de Violencia sobre la Mujer, en su caso, el conocimiento y fallo de los delitos para los que la ley señale pena privativa de libertad de duración no superior a cinco años o pena de multa cualquiera que sea su cuantía.
-
-> 4\. Para el conocimiento y fallo de las causas en los demás casos la Audiencia Provincial de la circunscripción donde el delito se haya cometido, o la Audiencia Provincial correspondiente a la circunscripción del Juzgado de Violencia sobre la Mujer en su caso, o la Sala de lo Penal de la Audiencia Nacional.
-
-> No obstante, en los supuestos de competencia de la Audiencia Provincial, si el delito fuere de los atribuidos al Tribunal de Jurado, el conocimiento y fallo corresponderá a éste.
-
-> 5\. Los Juzgados de Violencia sobre la Mujer serán competentes en las siguientes materias, en todo caso de conformidad con los procedimientos y recursos previstos en esta Ley:
-
-> a) De la instrucción de los procesos para exigir responsabilidad penal por los delitos recogidos en los títulos del Código Penal relativos a homicidio, aborto, lesiones, lesiones al feto, delitos contra la libertad, delitos contra la integridad moral, contra la libertad e indemnidad sexuales o cualquier otro delito cometido con violencia o intimidación, siempre que se hubiesen cometido contra quien sea o haya sido su esposa, o mujer que esté o haya estado ligada al autor por análoga relación de afectividad, aun sin convivencia, así como de los cometidos sobre los descendientes, propios o de la esposa o conviviente, o sobre los menores o incapaces que con él convivan o que se hallen sujetos a la potestad, tutela, curatela, acogimiento o guarda de hecho de la esposa o conviviente, cuando también se haya producido un acto de violencia de género.
-
-> b) De la instrucción de los procesos para exigir responsabilidad penal por cualquier delito contra los derechos y deberes familiares, cuando la víctima sea alguna de las personas señaladas como tales en la letra anterior.
-
-> c) De la adopción de las correspondientes órdenes de protección a las víctimas, sin perjuicio de las competencias atribuidas al Juez de Guardia.
-
-> d) Del conocimiento y fallo de los juicios por las infracciones tipificadas en el párrafo segundo del apartado 7 del artículo 171, párrafo segundo del apartado 3 del artículo 172 y en el apartado 4 del artículo 173 de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, cuando la víctima sea alguna de las personas señaladas como tales en la letra a) de este apartado."
-
 > Se modifica por el art. 20.1 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Téngase en cuenta que esta modificación entra en vigor el 3 de octubre de 2025, según establece su disposición final 38.3
@@ -1003,18 +975,6 @@ d) La persona con discapacidad pueda estar acompañada de una persona de su elec
 Fuera de los casos previstos en los dos párrafos anteriores, no se hará a los interesados en las acciones civiles o penales notificación alguna que prolongue o detenga el curso de la causa, lo cual no obsta para que el letrado o letrada de la Administración de Justicia procure instruir de aquel derecho al ofendido ausente.
 
 En cualquier caso, en los procesos que se sigan por delitos comprendidos en el artículo 57 del Código Penal, el letrado o letrada de la Administración de Justicia asegurará la comunicación a la víctima de los actos procesales que puedan afectar a su seguridad.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 101.1 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> **Redacción anterior:**
-
-> "En el acto de recibirse declaración por el Juez al ofendido que tuviese la capacidad legal necesaria, el Secretario judicial le instruirá del derecho que le asiste para mostrarse parte en el proceso y renunciar o no a la restitución de la cosa, reparación del daño e indemnización del perjuicio causado por el hecho punible. Asimismo le informará de los derechos recogidos en la legislación vigente, pudiendo delegar esta función en personal especializado en la asistencia a víctimas.
-
-> Si fuera menor o tuviera la capacidad judicialmente modificada, se practicará igual diligencia con su representante legal o la persona que le asista.
-
-> Fuera de los casos previstos en los dos párrafos anteriores, no se hará a los interesados en las acciones civiles o penales notificación alguna que prolongue o detenga el curso de la causa, lo cual no obsta para que el Secretario judicial procure instruir de aquel derecho al ofendido ausente.
-
-> En cualquier caso, en los procesos que se sigan por delitos comprendidos en el artículo 57 del Código Penal, el Secretario judicial asegurará la comunicación a la víctima de los actos procesales que puedan afectar a su seguridad."
 
 > Se modifica por el art. 101.1 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -2102,12 +2062,6 @@ Los tribunales remitirán, a través de procedimientos electrónicos, al Registr
 
 En los procedimientos de cancelación de la inscripción de antecedentes penales en el Registro Central de Penados iniciados a instancia del interesado, una vez transcurrido el plazo máximo establecido sin que se haya dictado y notificado resolución expresa, la solicitud se entenderá desestimada.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 101.2 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> **Redacción anterior:**
-
-> "Los Tribunales remitirán directamente al Registro Central de Procesados y Penados, establecido en el Ministerio de Gracia y Justicia, notas autorizadas de las sentencias firmes en las que se imponga alguna pena por delito y de los autos en que se declare la rebeldía de los procesados, con arreglo a los modelos que se les envíen al efecto."
-
 > Se modifica por el art. 101.2 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -2146,8 +2100,6 @@ Sin perjuicio de las correcciones especiales que establece esta Ley para casos d
 
 ### TÍTULO XIV — De los actos procesales mediante presencia telemática
 
-> Téngase en cuenta que la adición de este título, establecida por el art. 101.3 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
 > Se añade por el art. 101.3 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -2177,8 +2129,6 @@ b) Cuando el testigo o perito comparezca en su condición de Autoridad o funcion
 4\. Lo dispuesto en este artículo será de aplicación igualmente a las actuaciones que se celebren ante los letrados o letradas de la Administración de Justicia o ante el Ministerio fiscal.
 
 5\. En las citaciones se informará de la posibilidad de declarar de forma telemática en las condiciones establecidas en este artículo.
-
-> Téngase en cuenta que la adición de este artículo, establecida por el art. 101.3 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
 
 > Se añade por el art. 101.3 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -2258,12 +2208,6 @@ El denunciador no contraerá en ningún caso otra responsabilidad que la corresp
 
 Igualmente, si fueran conocidas, contendrá la identificación de las personas que lo hayan cometido y de quienes lo hayan presenciado o tengan información sobre él. También indicará la existencia de cualquier fuente de conocimiento de la que el denunciante tenga noticia, que pueda servir para esclarecer el hecho denunciado.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 101.4 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> **Redacción anterior:**
-
-> "Las denuncias podrán hacerse por escrito o de palabra, personalmente o por medio de mandatario con poder especial."
-
 > Se modifica por el art. 101.4 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -2273,12 +2217,6 @@ Igualmente, si fueran conocidas, contendrá la identificación de las personas q
 La denuncia que se haga por escrito deberá estar firmada por el denunciante de forma autógrafa o manuscrita, si es presencial, y si no pudiere hacerlo, por otra persona a su ruego; o si se interpone por vía telemática, con firma electrónica conforme a lo establecido en artículo 10 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y en el Reglamento (UE) n.º 910/2014 del Parlamento Europeo y del Consejo, de 23 de julio de 2014, relativo a la identificación electrónica y los servicios de confianza para las transacciones electrónicas en el mercado interior y por la que se deroga la Directiva 1999/93/CE. En el caso de las personas jurídicas, se firmará con certificado electrónico cualificado con atributo de representante o los medios previstos en la regulación de firma digital que permitan identificar la persona jurídica, así como la persona física que formula la denuncia.
 
 No se podrán denunciar por vía telemática aquellos hechos que se hayan producido con violencia o intimidación, ni si tienen autor conocido, ni si existen testigos, ni si el denunciante es menor de edad, ni si se ha cometido delito flagrante, ni aquellos hechos de naturaleza violenta o sexual.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 20.2 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "La denuncia que se haga por escrito deberá estar firmada por el denunciante de forma autógrafa o manuscrita, si es presencial, y si no pudiere hacerlo, por otra persona a su ruego; o si se interpone por vía telemática, con firma electrónica conforme a lo establecido en artículo 10 de la Ley 39/015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y en el Reglamento (UE) n.º 910/2014 del Parlamento Europeo y del Consejo, de 23 de julio de 2014, relativo a la identificación electrónica y los servicios de confianza para las transacciones electrónicas en el mercado interior y por la que se deroga la Directiva 1999/93/CE. En el caso de las personas jurídicas, se firmará con certificado electrónico cualificado con atributo de representante, o los medios previstos en la regulación de firma digital que permitan identificar la persona jurídica, así como la persona física que formula la denuncia."
 
 > Se modifica, con efectos de 3 de abril de 2025, por el art. 20.2 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -4292,12 +4230,6 @@ En el mandamiento se consignarán los datos personales que consten del investiga
 
 Si el presunto reo no fuere habido en su domicilio y se ignorase su paradero, el juez o jueza acordará que sea buscado por requisitorias que se enviarán al Sistema de Registros Administrativos de Apoyo a la Administración de Justicia (SIRAJ) y se publicarán en el Tablón Edictal Judicial Único, dando las órdenes oportunas a las Fuerzas y Cuerpos de Seguridad del Estado y a los Cuerpos de Policía Autonómica de aquellas comunidades autónomas con competencias en materia de seguridad pública; y, en todo caso, el Sistema de Registros Administrativos de Apoyo a la Administración de Justicia compartirá la información para su publicación en el Tablón Edictal Judicial Único, garantizándose la interoperabilidad entre ambas plataformas.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 20.3 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "Si el presunto reo no fuere habido en su domicilio y se ignorase su paradero, el juez o jueza acordará que sea buscado por requisitorias que se enviarán al Sistema de Registros Administrativos de Apoyo a la Administración de Justicia (SIRAJ), dando las órdenes oportunas a las Fuerzas y Cuerpos de Seguridad del Estado y a los Cuerpos de Policía Autonómica de aquellas Comunidades Autónomas con competencias en materia de seguridad pública; y, en todo caso, el Sistema de Registros Administrativos de Apoyo a la Administración de Justicia remitirá la información para su publicación en el Tablón Edictal Judicial Único, garantizándose la interoperabilidad entre ambas plataformas."
-
 > Se modifica, con efectos de 3 de abril de 2025, por el art. 20.3 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica por el art. 101.6 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
@@ -4313,12 +4245,6 @@ En la requisitoria se expresarán el nombre y apellidos, cargo, profesión u ofi
 ###### Artículo 514.
 
 La requisitoria original y el justificante del envío realizado al Sistema de Registros Administrativos de Apoyo a la Administración de Justicia y de la remisión al Tablón Edictal Judicial único se unirán a la causa.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 101.7 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> **Redacción anterior:**
-
-> "La requisitoria original y un ejemplar de cada periódico en que se hubiese publicado se unirán a la causa."
 
 > Se modifica por el art. 101.7 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -5838,14 +5764,6 @@ Cuando en el caso a que se refiere el artículo anterior fuere desconocido el pa
 
 Transcurrido el término de emplazamiento sin comparecer los interesados, se procederá como previene el artículo anterior.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 101.8 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> **Redacción anterior:**
-
-> "Cuando en el caso a que se refiere el artículo anterior fuere desconocido el paradero de los interesados en el ejercicio de la acción penal, se les llamará por edictos que se publicarán a las puertas del Tribunal mismo, en los periódicos de la localidad o en los de la capital de la provincia, y podrán publicarse también en la Gaceta de Madrid.
-
-> Transcurrido el término de emplazamiento sin comparecer los interesados, se procederá como previene el artículo anterior."
-
 > Se modifica por el art. 101.8 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -5967,20 +5885,6 @@ Si ésta no fuese la procedente según dicha calificación, sino otra mayor, aco
 También continuará el juicio si fuesen varios los procesados y no todos manifestaren igual conformidad.
 
 Cuando el procesado o procesados disintiesen únicamente respecto de la responsabilidad civil, se limitará el juicio a la prueba y discusión de los puntos relativos a dicha responsabilidad.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 20.4 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "Si la pena pedida por las partes acusadoras fuese de carácter correccional, al evacuar la representación del procesado el traslado de calificación podrá manifestar su conformidad absoluta con aquella que más gravemente hubiere calificado, si hubiere más de una, y con la pena que se le pida; expresándose además por el Letrado defensor si, esto no obstante, conceptúa necesaria la continuación del juicio.
-
-> Si no la conceptúa necesaria, el Tribunal, previa ratificación del procesado, dictará sin más trámites la sentencia que proceda según la calificación mutuamente aceptada, sin que pueda imponer pena mayor que la solicitada.
-
-> Si ésta no fuese la procedente según dicha calificación, sino otra mayor, acordará el Tribunal la continuación del juicio.
-
-> También continuará el juicio si fuesen varios los procesados y no todos manifestaren igual conformidad.
-
-> Cuando el procesado o procesados disintiesen únicamente respecto de la responsabilidad civil, se limitará el juicio a la prueba y discusión de los puntos relativos a dicha responsabilidad."
 
 > Se modifica, con efectos de 3 de abril de 2025, por el art. 20.4 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -6260,14 +6164,6 @@ En el día señalado para dar principio a las sesiones, el letrado o la letrada 
 
 Preguntará el Presidente a cada uno de los acusados si se confiesa reo del delito que se le haya imputado en el escrito de calificación y responsable civilmente a la restitución de la cosa o al pago de la cantidad fijada en dicho escrito por razón de daños y perjuicios.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 20.5 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "En el día señalado para dar principio a las sesiones, el Secretario judicial velará por que se encuentren en el local del Tribunal las piezas de convicción que se hubieren recogido, y el Presidente, en el momento oportuno, declarará abierta la sesión.
-
-> Si la causa que haya de verse fuese por delito para cuyo castigo se pida la imposición de pena correccional, preguntará el Presidente a cada uno de los acusados si se confiesa reo del delito que se le haya imputado en el escrito de calificación, y responsable civilmente a la restitución de la cosa o al pago de la cantidad fijada en dicho escrito por razón de daños y perjuicios."
-
 > Se modifica, con efectos de 3 de abril de 2025, por el art. 20.5 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica el párrafo primero por el art. 2.89 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493).
@@ -6341,22 +6237,6 @@ Lo mismo se hará cuando el procesado, después de haber confesado su responsabi
 Cuando el juicio deba continuar, por falta de conformidad de los acusados con la acusación, se procederá del modo siguiente: Se dará cuenta del hecho que haya motivado la formación del sumario y del día en que éste se comenzó a instruir, expresando además si el procesado está en prisión o en libertad provisional, con o sin fianza. Se dará lectura a los escritos de calificación y a las listas de peritos y testigos que se hubiesen presentado oportunamente, haciendo relación de las pruebas propuestas y admitidas. Acto continuo se pasará a la práctica de las diligencias de prueba y al examen de los testigos, empezando por la que hubiere ofrecido el Ministerio Fiscal, continuando con la propuesta por los demás actores, y por último con la de los procesados.
 
 Las pruebas de cada parte se practicarán según el orden con que hayan sido propuestas en el escrito correspondiente. Los testigos serán examinados también por el orden con que figuren sus nombres en las listas. No obstante lo anterior, si a propuesta de su defensa el acusado solicitara declarar en último lugar, el Presidente así lo acordará expresamente. Sin perjuicio de lo previsto en el párrafo anterior, el Presidente, podrá alterar el orden a instancia de parte y aun de oficio cuando así lo considere conveniente para el mayor esclarecimiento de los hechos o para el más seguro descubrimiento de la verdad, sin revocar el derecho del acusado a testificar en último lugar.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 20.6 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "Cuando el juicio deba continuar, ya por falta de conformidad de los acusados con la acusación, ya por tratarse de delito para cuyo castigo se haya pedido pena aflictiva, se procederá del modo siguiente:
-
-> Se dará cuenta del hecho que haya motivado la formación del sumario y del día en que éste se comenzó a instruir, expresando además si el procesado está en prisión o en libertad provisional, con o sin fianza.
-
-> Se dará lectura a los escritos de calificación y a las listas de peritos y testigos que se hubiesen presentado oportunamente, haciendo relación de las pruebas propuestas y admitidas.
-
-> Acto continuo se pasará a la práctica de las diligencias de prueba y al examen de los testigos, empezando por la que hubiere ofrecido el Ministerio Fiscal, continuando con la propuesta por los demás actores, y por último con la de los procesados.
-
-> Las pruebas de cada parte se practicarán según el orden con que hayan sido propuestas en el escrito correspondiente. Los testigos serán examinados también por el orden con que figuren sus nombres en las listas.
-
-> El Presidente, sin embargo, podrá alterar este orden a instancia de parte y aun de oficio cuando así lo considere conveniente para el mayor esclarecimiento de los hechos o para el más seguro descubrimiento de la verdad."
 
 > Se modifica, con efectos de 3 de abril de 2025, por el art. 20.6 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -6656,14 +6536,6 @@ Las partes podrán pedir a su costa copia o, en su caso, acceso electrónico de 
 
 '2. Siempre que se cuente con los medios tecnológicos necesarios, estos garantizarán la autenticidad e integridad de lo grabado o reproducido. A tal efecto, el letrado o letrada de la Administración de Justicia hará uso de la firma electrónica u otro sistema de seguridad que conforme a la ley ofrezca tales garantías. En este caso, la celebración del acto no requerirá la presencia en la sala del letrado o letrada de la Administración de Justicia salvo que lo hubieran solicitado las partes, al menos dos días antes de la celebración de la vista, o que excepcionalmente lo considere necesario el letrado o letrada de la Administración de Justicia atendiendo a la complejidad del asunto, al número y naturaleza de las pruebas a practicar, al número de intervinientes, a la posibilidad de que se produzcan incidencias que no pudieran registrarse, o a la concurrencia de otras circunstancias igualmente excepcionales que lo justifiquen. En estos casos, el letrado o letrada de la Administración de Justicia extenderá acta sucinta en los términos previstos.
 
-> Téngase en cuenta que esta actualización de los apartados 1 y 2, establecida por el art. 101.9 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> **Redacción anterior:**
-
-> "1. El desarrollo de las sesiones del juicio oral se registrará en soporte apto para la grabación y reproducción del sonido y de la imagen. El Secretario judicial deberá custodiar el documento electrónico que sirva de soporte a la grabación. Las partes podrán pedir, a su costa, copia de las grabaciones originales.
-
-> 2\. Siempre que se cuente con los medios tecnológicos necesarios el Secretario judicial garantizará la autenticidad e integridad de lo grabado o reproducido mediante la utilización de la firma electrónica reconocida u otro sistema de seguridad que conforme a la ley ofrezca tales garantías. En este caso, la celebración del acto no requerirá la presencia en la sala del Secretario judicial salvo que lo hubieran solicitado las partes, al menos dos días antes de la celebración de la vista, o que excepcionalmente lo considere necesario el Secretario judicial, atendiendo a la complejidad del asunto, al número y naturaleza de las pruebas a practicar, al número de intervinientes, a la posibilidad de que se produzcan incidencias que no pudieran registrarse, o a la concurrencia de otras circunstancias igualmente excepcionales que lo justifiquen, supuesto en el cual el Secretario judicial extenderá acta sucinta en los términos previstos en el apartado siguiente."
-
 3\. Si los mecanismos de garantía previstos en el apartado anterior no se pudiesen utilizar el Secretario judicial deberá consignar en el acta, al menos, los siguientes datos: número y clase de procedimiento; lugar y fecha de celebración; tiempo de duración, asistentes al acto; peticiones y propuestas de las partes; en caso de proposición de pruebas, declaración de pertinencia y orden en la práctica de las mismas; resoluciones que adopte el Juez o Tribunal; así como las circunstancias e incidencias que no pudieran constar en aquel soporte.
 
 4\. Cuando los medios de registro previstos en este artículo no se pudiesen utilizar por cualquier causa, el Secretario judicial extenderá acta de cada sesión, recogiendo en ella, con la extensión y detalle necesarios, el contenido esencial de la prueba practicada, las incidencias y reclamaciones producidas y las resoluciones adoptadas.
@@ -6715,36 +6587,6 @@ No se suspenderá el juicio por la enfermedad o incomparecencia de alguno de los
 Cuando el procesado sea una persona jurídica, se estará a lo dispuesto en el artículo 786 bis de esta Ley.
 
 7.º Si se trata de un proceso en el que la persona profesional de la abogacía ha sido designada por el turno de oficio, solo se suspenderá el procedimiento por el tiempo que demore el Colegio profesional correspondiente en proveer la designación de nuevo profesional para evitar causar indefensión a la parte. Si la suspensión se solicita por haberse producido o iniciado el parto de manera repentina, o sin tiempo suficiente como para que otro abogado o abogada pueda hacerse cargo del asunto y prepararlo, se suspenderá el señalamiento por el tiempo mínimo imprescindible en atención a su complejidad.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 223.1 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "Procederá además la suspensión del juicio oral en los casos siguientes:
-
-> 1.º Cuando el Tribunal tuviere que resolver durante los debates alguna cuestión incidental que por cualquier causa fundada no pueda decidirse en el acto.
-
-> 2.º Cuando con arreglo a este Código el Tribunal o alguno de sus individuos tuviere que practicar alguna diligencia fuera del lugar de las sesiones y no pudiere verificarse en el tiempo intermedio entre una y otra sesión.
-
-> 3.º Cuando no comparezcan los testigos de cargo y de descargo ofrecidos por las partes y el Tribunal considere necesaria la declaración de los mismos.
-
-> Podrá, sin embargo, el Tribunal acordar en este caso la continuación del juicio y la práctica de las demás pruebas; y después que se hayan hecho, suspenderlo hasta que comparezcan los testigos ausentes.
-
-> Si la no comparecencia del testigo fuere por el motivo expuesto en el artículo 718, se procederá como se determina en el mismo y en los dos siguientes.
-
-> 4.º Cuando algún individuo del Tribunal o el defensor de cualquiera de las partes enfermare repentinamente hasta el punto de que no pueda continuar tomando parte en el juicio ni pueda ser reemplazado el último sin grave inconveniente para la defensa del interesado.
-
-> Lo dispuesto en este número respecto a los defensores de las partes se entiende aplicable al Fiscal.
-
-> 5.º Cuando alguno de los procesados se halle en el caso del número anterior, en términos de que no pueda estar presente en el juicio.
-
-> La suspensión no se acordará por esta causa sino después de haber oído a los facultativos nombrados de oficio para el reconocimiento del enfermo.
-
-> 6.º Cuando revelaciones o retractaciones inesperadas produzcan alteraciones sustanciales en los juicios, haciendo necesarios nuevos elementos de prueba o alguna sumaria instrucción suplementaria.
-
-> No se suspenderá el juicio por la enfermedad o incomparecencia de alguno de los procesados citados personalmente, siempre que el Tribunal estimare, con audiencia de las partes y haciendo constar en el acta del juicio las razones de la decisión, que existen elementos suficientes para juzgarles con independencia.
-
-> Cuando el procesado sea una persona jurídica, se estará a lo dispuesto en el artículo 786 bis de esta Ley."
 
 > Se modifica por el art. 223.1 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
@@ -7040,8 +6882,6 @@ La información de derechos al ofendido o perjudicado regulada en este artículo
 
 2.ª Informará en la forma más comprensible al investigado no detenido de cuáles son los hechos que se le atribuyen y de los derechos que le asisten. En particular, le instruirá de los derechos reconocidos en los apartados a), b), c) y e) del artículo 520.2.
 
-> Téngase en cuenta que esta actualización, que añade el párrafo segundo a la diligencia 1º, establecida por el art. 20.7 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
 > Se añade un párrafo segundo en la diligencia 1ª, con efectos de 3 de abril de 2025, por el art. 20.7 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se sustituye el término "imputado" por "investigado" por el art. único.21.1 de la Ley Orgánica 13/2015, de 5 de octubre. [Ref. BOE-A-2015-10725](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10725).
@@ -7127,14 +6967,6 @@ Esta información podrá ser facilitada mediante una exposición sucinta que res
 Cuando la Policía Judicial hubiera efectuado esta información, el letrado o la letrada de la Administración de Justicia notificarán al ofendido o al perjudicado el número del procedimiento a que hubiera dado lugar y el juzgado que lo tramita y las posibles vías de contacto con el mismo, sin que sea precisa su comparecencia en el Juzgado de Instrucción para realizar un nuevo ofrecimiento de acciones, sin perjuicio del derecho de la víctima a la información actualizada del estado en el que se encuentra el proceso, en los términos previstos en la Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito.
 
 2\. La imposibilidad de practicar esta información por la Policía Judicial o por el letrado o la letrada de la Administración de Justicia en comparecencia no impedirá la continuación del procedimiento, sin perjuicio de que se proceda a realizarla por el medio más rápido posible, incluidos los medios del artículo 162 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, cuando se trate de personas obligadas a su utilización o que hubieran optado por estos.
-
-> Téngase en cuenta que esta actualización de los apartados 1 y 2, establecida por el art. 20.8 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> 1\. El secretario judicial informará al ofendido y al perjudicado de sus derechos, en los términos previstos en los artículos 109 y 110, cuando previamente no lo hubiera hecho la Policía Judicial. En particular, se instruirá de las medidas de asistencia a las víctimas que prevé la legislación vigente y de los derechos mencionados en la regla 1.ª del artículo 771.
-
-> 2\. La imposibilidad de practicar esta información por la Policía Judicial o por el secretario judicial en comparecencia no impedirá la continuación del procedimiento, sin perjuicio de que se proceda a realizarla por el medio más rápido posible.
 
 3\. Los que se personaren podrán desde entonces tomar conocimiento de lo actuado e instar la práctica de diligencias y cuanto a su derecho convenga, acordando el Juez lo procedente en orden a la práctica de estas diligencias.
 
@@ -7308,12 +7140,6 @@ Dicha conformidad podrá ser también prestada con el nuevo escrito de calificac
 
 ### Capítulo V — De la audiencia preliminar, del juicio oral y de la sentencia
 
-> Téngase en cuenta que esta actualización de la rúbrica, establecida por el art. 20.9 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "Del juicio oral y de la sentencia"
-
 > Se modifica, con efectos de 3 de abril de 2025, por el art. 20.9 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se añade por el art. 1 de la Ley 38/2002, de 24 de octubre. [Ref. BOE-A-2002-20823](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-20823).
@@ -7356,30 +7182,6 @@ El letrado o la letrada facilitará por escrito a la persona a quien defiende la
 
 12\. La comparecencia se registrará en el modo previsto en el artículo 743.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 20.10 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1. En cuanto las actuaciones se encontraren a disposición del órgano competente para el enjuiciamiento, el Juez o Tribunal examinará las pruebas propuestas e inmediatamente dictará auto admitiendo las que considere pertinentes y rechazando las demás, y prevendrá lo necesario para la práctica de la prueba anticipada.
-
-> Contra los autos de admisión o inadmisión de pruebas no cabrá recurso alguno, sin perjuicio de que la parte a la que fue denegada pueda reproducir su petición al inicio de las sesiones del juicio oral, momento hasta el cual podrán incorporarse a la causa los informes, certificaciones y demás documentos que el Ministerio Fiscal y las partes estimen oportuno y el Juez o Tribunal admitan.
-
-> 2\. A la vista de este auto, el Secretario judicial establecerá el día y hora en que deban comenzar las sesiones del juicio oral con sujeción a lo establecido al artículo 182 de la Ley de Enjuiciamiento Civil.
-
-> Los criterios generales y las concretas y específicas instrucciones que fijen los Presidentes de Sala o Sección, con arreglo a los cuales se realizará el señalamiento, tendrán asimismo en cuenta:
-
-> 1.º La prisión del acusado;
-
-> 2.º El aseguramiento de su presencia a disposición judicial;
-
-> 3.º Las demás medidas cautelares personales adoptadas;
-
-> 4.º La prioridad de otras causas;
-
-> 5.º La complejidad de la prueba propuesta o cualquier circunstancia modificativa, según hayan podido determinar una vez estudiado el asunto o pleito de que se trate.
-
-> 3\. Cuando la víctima lo haya solicitado, aunque no sea parte en el proceso ni deba intervenir, el Secretario judicial deberá informarle, por escrito y sin retrasos innecesarios, de la fecha, hora y lugar del juicio, así como del contenido de la acusación dirigida contra el infractor."
-
 > Se modifica, con efectos de 3 de abril de 2025, por el art. 20.10 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica el apartado 3 por la disposición final 1.24 de la Ley 4/2015, de 27 de abril. [Ref. BOE-A-2015-4606](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4606).
@@ -7410,18 +7212,6 @@ En el caso de que el juez, la jueza o el tribunal no hubiera resuelto oralmente,
 
 3\. Cuando la víctima lo haya solicitado, aunque no sea parte en el proceso ni deba intervenir, el letrado o letrada de la Administración de Justicia deberá informarle, por escrito y sin retrasos innecesarios, de la fecha, hora y lugar del juicio, así como del contenido de la acusación dirigida contra la persona infractora.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 20.11 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1. La celebración del juicio oral requiere preceptivamente la asistencia del acusado y del abogado defensor. No obstante, si hubiere varios acusados y alguno de ellos deja de comparecer sin motivo legítimo, apreciado por el Juez o Tribunal, podrá éste acordar, oídas las partes, la continuación del juicio para los restantes.
-
-> La ausencia injustificada del acusado que hubiera sido citado personalmente, o en el domicilio o en la persona a que se refiere el artículo 775, no será causa de suspensión del juicio oral si el Juez o Tribunal, a solicitud del Ministerio Fiscal o de la parte acusadora, y oída la defensa, estima que existen elementos suficientes para el enjuiciamiento, cuando la pena solicitada no exceda de dos años de privación de libertad o, si fuera de distinta naturaleza, cuando su duración no exceda de seis años.
-
-> La ausencia injustificada del tercero responsable civil citado en debida forma no será por sí misma causa de suspensión del juicio.
-
-> 2\. El Juicio oral comenzará con la lectura de los escritos de acusación y de defensa. Seguidamente, a instancia de parte, el Juez o Tribunal abrirá un turno de intervenciones para que puedan las partes exponer lo que estimen oportuno acerca de la competencia del órgano judicial, vulneración de algún derecho fundamental, existencia de artículos de previo pronunciamiento, causas de la suspensión de juicio oral, nulidad de actuaciones, así como sobre el contenido y finalidad de la pruebas propuestas o que se propongan para practicarse en el acto. El Juez o Tribunal resolverá en el mismo acto lo procedente sobre las cuestiones planteadas. Frente a la decisión adoptada no cabrá recurso alguno, sin perjuicio de la pertinente protesta y de que la cuestión pueda ser reproducida, en su caso, en el recurso frente a la sentencia."
-
 > Se modifica, con efectos de 3 de abril de 2025, por el art. 20.11 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica el apartado 2 por el art. 2.106 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493).
@@ -7445,28 +7235,6 @@ Las acusaciones particular o popular podrán ser representadas en el acto de jui
 2\. El juicio oral comenzará con la lectura de los escritos de acusación y de defensa.
 
 3\. Al inicio de las sesiones del juicio, únicamente podrá solicitarse la incorporación de informes, certificaciones y otros documentos. También podrá proponerse la práctica de pruebas de las que las partes no hubieran tenido conocimiento al momento de celebrar la comparecencia prevista en el artículo 785.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 20.12 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1. Antes de iniciarse la práctica de la prueba, la defensa, con la conformidad del acusado presente, podrá pedir al Juez o Tribunal que proceda a dictar sentencia de conformidad con el escrito de acusación que contenga pena de mayor gravedad, o con el que se presentara en ese acto, que no podrá referirse a hecho distinto, ni contener calificación más grave que la del escrito de acusación anterior. Si la pena no excediere de seis años de prisión, el Juez o Tribunal dictará sentencia de conformidad con la manifestada por la defensa, si concurren los requisitos establecidos en los apartados siguientes.
-
-> 2\. Si a partir de la descripción de los hechos aceptada por todas las partes, el Juez o Tribunal entendiere que la calificación aceptada es correcta y que la pena es procedente según dicha calificación, dictará sentencia de conformidad. El Juez o Tribunal habrá oído en todo caso al acusado acerca de si su conformidad ha sido prestada libremente y con conocimiento de sus consecuencias.
-
-> 3\. En caso de que el Juez o Tribunal considerare incorrecta la calificación formulada o entendiere que la pena solicitada no procede legalmente, requerirá a la parte que presentó el escrito de acusación más grave para que manifieste si se ratifica o no en él. Sólo cuando la parte requerida modificare su escrito de acusación en términos tales que la calificación sea correcta y la pena solicitada sea procedente y el acusado preste de nuevo su conformidad, podrá el Juez o Tribunal dictar sentencia de conformidad. En otro caso, ordenará la continuación del juicio.
-
-> 4\. Una vez que la defensa manifieste su conformidad, el Juez o Presidente del Tribunal informará al acusado de sus consecuencias y a continuación le requerirá a fin de que manifieste si presta su conformidad. Cuando el Juez o Tribunal albergue dudas sobre si el acusado ha prestado libremente su conformidad, acordará la continuación del juicio.
-
-> También podrá acordar la continuación del juicio cuando, no obstante la conformidad del acusado, su defensor lo considere necesario y el Juez o Tribunal estime fundada su petición.
-
-> 5\. No vinculan al Juez o Tribunal las conformidades sobre la adopción de medidas protectoras en los casos de limitación de la responsabilidad penal.
-
-> 6\. La sentencia de conformidad se dictará oralmente y documentará conforme a lo previsto en el apartado 2 del artículo 789, sin perjuicio de su ulterior redacción. Si el fiscal y las partes, conocido el fallo, expresaran su decisión de no recurrir, el juez, en el mismo acto, declarará oralmente la firmeza de la sentencia, y se pronunciará, previa audiencia de las partes, sobre la suspensión o la sustitución de la pena impuesta.
-
-> 7\. Únicamente serán recurribles las sentencias de conformidad cuando no hayan respetado los requisitos o términos de la conformidad, sin que el acusado pueda impugnar por razones de fondo su conformidad libremente prestada.
-
-> 8\. Cuando el acusado sea una persona jurídica, la conformidad deberá prestarla su representante especialmente designado, siempre que cuente con poder especial. Dicha conformidad, que se sujetará a los requisitos enunciados en los apartados anteriores, podrá realizarse con independencia de la posición que adopten los demás acusados, y su contenido no vinculará en el juicio que se celebre en relación con éstos."
 
 > Se modifica, con efectos de 3 de abril de 2025, por el art. 20.12 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -7513,8 +7281,6 @@ El letrado o la letrada facilitará por escrito a la persona a quien defiende la
 7\. Únicamente serán recurribles las sentencias de conformidad cuando no hayan respetado los requisitos o términos de la conformidad, sin que la persona acusada pueda impugnar por razones de fondo su conformidad libremente prestada.
 
 8\. Cuando la persona acusada sea una persona jurídica, la conformidad deberá prestarla su representante especialmente designado, siempre que cuente con poder especial. Dicha conformidad, que se sujetará a los requisitos enunciados en los apartados anteriores, podrá realizarse con independencia de la posición que adopten las demás personas acusadas, y su contenido no vinculará en el juicio que se celebre en relación con estas.
-
-> Téngase en cuenta que este artículo, añadido por el art. 20.14 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
 
 > Se añade, con efectos de 3 de abril de 2025, por el art. 20.14 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -7703,8 +7469,6 @@ h) Delitos flagrantes relativos a la propiedad intelectual e industrial previsto
 i) Delitos de allanamiento de morada del artículo 202 del Código Penal.
 
 j) Delitos de usurpación del artículo 245 del Código Penal.
-
-> Téngase en cuenta que esta actualización, que añade las letras i) y j), establecida por el art. 20.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
 
 3.ª Que se trate de un hecho punible cuya instrucción sea presumible que será sencilla.
 
@@ -7925,16 +7689,6 @@ También se acordará la práctica de las citaciones propuestas por el Ministeri
 2\. En el caso de que, por motivo justo valorado por el juez o la jueza, no pueda celebrarse el juicio oral en el día señalado, o de que no pueda concluirse en un solo acto, señalará fecha para su celebración o continuación el día más inmediato posible y, en todo caso, dentro de los quince siguientes, teniendo en cuenta las necesidades de la agenda programada de señalamientos y las demás circunstancias contenidas en el artículo 182 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, y en el artículo 786 de la presente ley, lo que se hará saber a las personas interesadas.
 
 3\. La sentencia se dictará dentro de los tres días siguientes a la terminación de la vista, en los términos previstos por el artículo 789.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 20.16 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1. El juicio oral se desarrollará en los términos previstos por los artículos 786 a 788.
-
-> 2\. En el caso de que, por motivo justo valorado por el Juez, no pueda celebrarse el juicio oral en el día señalado, o de que no pueda concluirse en un solo acto, señalará fecha para su celebración o continuación el día más inmediato posible y, en todo caso, dentro de los quince siguientes, teniendo en cuenta las necesidades de la agenda programada de señalamientos y las demás circunstancias contenidas en el artículo 182.4 de la Ley de Enjuiciamiento Civil y artículo 785 de la presente Ley, lo que se hará saber a los interesados.
-
-> 3\. La sentencia se dictará dentro de los tres días siguientes a la terminación de la vista, en los términos previstos por el artículo 789."
 
 > Se modifica, con efectos de 3 de abril de 2025, por el art. 20.16 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -8742,16 +8496,6 @@ Cuando el recurrente se proponga fundar el recurso en el número 2.º del artíc
 
 Si se propusiere utilizar el de quebrantamiento de forma, designará también, sin razonamiento alguno, la falta o faltas que se supongan cometidas, y, en su caso, la reclamación practicada para subsanarlas y su fecha.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 223.2 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "El que se proponga interponer recurso de casación pedirá, ante el Tribunal que haya dictado la resolución definitiva, un testimonio de la misma, y manifestará la clase o clases de recurso que trate de utilizar.
-
-> Cuando el recurrente se proponga fundar el recurso en el núme­ro 2.º del artículo 849, deberá designar, sin razonamiento alguno, los particulares del documento que muestren el error en la apreciación de la prueba.
-
-> Si se propusiere utilizar el de quebrantamiento de forma, designará también, sin razonamiento alguno, la falta o faltas que se supongan cometidas, y, en su caso, la reclamación practicada para subsanarlas y su fecha."
-
 > Se modifica por el art. 223.2 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
 > Esta modificación entra en vigor el 29 de julio de 2023, según establece la disposición final 9 del citado Real Decreto-ley.
@@ -8775,12 +8519,6 @@ El Tribunal, dentro de los tres días siguientes, sin oír a las partes, tendrá
 Cuando se trate de recurso de casación contra sentencia dictada en apelación por una Audiencia Provincial o la Sala de lo Penal de la Audiencia Nacional, el Tribunal denegará, por auto motivado, la preparación cuando se aleguen motivos distintos al previsto en el artículo 849.1, no se identifique un precepto sustantivo supuestamente infringido, no se consigne el breve extracto exigido, o su contenido se aparte del ámbito del artículo 849.1.º
 
 De los autos que se deniegue tener por preparada la resolución, se dará copia certificada en el acto de la notificación a la parte recurrente.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 223.3 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "El Tribunal, dentro de los tres días siguientes, sin oír a las partes, tendrá por preparado el recurso si la resolución reclamada es recurrible en casación y se han cumplido todos los requisitos exigidos en los artículos anteriores, y, en el caso contrario, lo denegará por auto motivado, del que se dará copia certificada en el acto de la notificación a la parte recurrente."
 
 > Se modifica por el art. 223.3 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
@@ -8990,14 +8728,6 @@ Dentro del término señalado para formación de la nota por el artículo 880, e
 
 Si la impugnaren, acompañarán con el escrito de impugnación tantas copias del mismo cuantas sean las demás partes a quienes el letrado o letrada de la Administración de Justicia hará inmediatamente entrega.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 223.4 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "Dentro del término señalado para formación de la nota por el artículo 880, el Fiscal y las partes se instruirán y podrán impugnar la admisión del recurso o la adhesión al mismo.
-
-> Si la impugnaren, acompañarán con el escrito de impugnación tantas copias del mismo cuantas sean las demás partes a quienes el Secretario hará inmediatamente entrega para que, dentro de término de tres días, expongan lo que se estime pertinente."
-
 > Se modifica por el art. 223.4 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
 > Esta modificación entra en vigor el 29 de julio de 2023, según establece la disposición final 9 del citado Real Decreto-ley.
@@ -9069,14 +8799,6 @@ Para denegar la admisión del recurso será necesario que el acuerdo se adopte p
 La inadmisión a trámite del recurso de casación en el supuesto previsto en el artículo 847.1.b) podrá acordarse por providencia sucintamente motivada siempre que haya unanimidad por carencia de interés casacional.
 
 La inadmisión a trámite del recurso de casación en el supuesto previsto en el artículo 847.1.a) podrá acordarse por providencia sucintamente motivada siempre que haya unanimidad por carencia de relevancia casacional y la pena privativa de libertad impuesta, o la suma de las penas privativas de libertad impuestas, no sea superior a cinco años, o bien se hayan impuesto cualesquiera otras penas de distinta naturaleza bien sean únicas, conjuntas o alternativas, cualquiera que sea su cuantía o duración.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 223.5 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "Para denegar la admisión del recurso será necesario que el acuerdo se adopte por unanimidad.
-
-> La inadmisión a trámite del recurso de casación en el supuesto previsto en el artículo 847.1.b) podrá acordarse por providencia sucintamente motivada siempre que haya unanimidad por carencia de interés casacional."
 
 > Se modifica por el art. 223.5 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
@@ -9281,14 +9003,6 @@ En este supuesto, la revisión solo podrá ser solicitada por quien, estando leg
 En estos supuestos, salvo en aquellos procedimientos en que alguna de las partes esté representada y defendida por el abogado o abogada del Estado, el letrado o letrada de la Administración de Justicia dará traslado a la Abogacía General del Estado de la presentación de la demanda de revisión, así como de la decisión sobre su admisión. La Abogacía del Estado podrá intervenir, sin tener la condición de parte, por propia iniciativa o a instancia del órgano judicial, mediante la aportación de información o presentación de observaciones escritas sobre cuestiones relativas a la ejecución de la Sentencia del Tribunal Europeo de Derechos Humanos.
 
 El letrado o letrada de la Administración de Justicia notificará igualmente la decisión de la revisión a la Abogacía General del Estado. Del mismo modo, en caso de estimarse la revisión, los letrados o letradas de la Administración de Justicia de los tribunales correspondientes informarán a la Abogacía General del Estado de las principales actuaciones que se lleven a cabo como consecuencia de la revisión.
-
-> Téngase en cuenta que esta actualización del apartado 3, establecida por el art. 101.10 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> **Redacción anterior:**
-
-> "3. Se podrá solicitar la revisión de una resolución judicial firme cuando el Tribunal Europeo de Derechos Humanos haya declarado que dicha resolución fue dictada en violación de alguno de los derechos reconocidos en el Convenio Europeo para la Protección de los Derechos Humanos y Libertades Fundamentales y sus Protocolos, siempre que la violación, por su naturaleza y gravedad, entrañe efectos que persistan y no puedan cesar de ningún otro modo que no sea mediante esta revisión.
-
-> En este supuesto, la revisión sólo podrá ser solicitada por quien, estando legitimado para interponer este recurso, hubiera sido demandante ante el Tribunal Europeo de Derechos Humanos. La solicitud deberá formularse en el plazo de un año desde que adquiera firmeza la sentencia del referido Tribunal."
 
 > Se modifica el apartado 3 por el art. 101.10 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -9614,8 +9328,6 @@ De dichas liquidaciones, que se notificarán personalmente al condenado, se dar�
 
 Si fueran impugnadas por alguna de las partes, se dará traslado al resto para alegaciones por de dos días. Transcurrido el mismo, hubieren o no presentado escrito las demás partes, el juez, la jueza o el tribunal resolverá mediante auto, que será dictado en el plazo de dos días. Una vez firme éste, si corrigiere la liquidación de condena será notificado personalmente al condenado.
 
-> Téngase en cuenta que este artículo, añadido por el art. 20.17 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
 > Se añade, con efectos desde el 3 de abril de 2025, por el art. 20.17 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 ###### Artículo 989.
@@ -9625,16 +9337,6 @@ Si fueran impugnadas por alguna de las partes, se dará traslado al resto para a
 2\. En todo lo que no estuviera regulado en el Código Penal o en otra norma penal, sustantiva o procesal, para la ejecución de la responsabilidad civil derivada del delito se aplicarán las disposiciones sobre ejecución de la Ley 1/2000, de 7 de enero. El letrado de la Administración de Justicia podrá encomendar a la Agencia Estatal de Administración Tributaria o, en su caso, a los organismos tributarios de las Haciendas forales, las actuaciones de investigación patrimonial necesarias para poner de manifiesto las rentas y el patrimonio presente y los que vaya adquiriendo el condenado hasta tanto no se haya satisfecho la responsabilidad civil determinada en sentencia.
 
 Cuando dichas entidades alegaren razones legales o de respeto a los derechos fundamentales para no realizar la entrega o atender a la colaboración que les hubiese sido requerida por el letrado de la Administración de Justicia, éste dará cuenta al juez o tribunal para resolver lo que proceda.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 20.18 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1. Los pronunciamientos sobre responsabilidad civil serán susceptibles de ejecución provisional con arreglo a lo dispuesto en la Ley de Enjuiciamiento Civil.
-
-> 2\. A efectos de ejecutar la responsabilidad civil derivada del delito o falta y sin perjuicio de la aplicación de las disposiciones de la Ley de Enjuiciamiento Civil, el Secretario judicial podrá encomendar a la Agencia Estatal de Administración Tributaria o, en su caso, a los organismos tributarios de las haciendas forales las actuaciones de investigación patrimonial necesarias para poner de manifiesto las rentas y el patrimonio presente y los que vaya adquiriendo el condenado hasta tanto no se haya satisfecho la responsabilidad civil determinada en sentencia.
-
-> Cuando dichas entidades alegaren razones legales o de respeto a los derechos fundamentales para no realizar la entrega o atender a la colaboración que les hubiese sido requerida por el Secretario judicial, éste dará cuenta al Juez o Tribunal para resolver lo que proceda."
 
 > Se modifica, con efectos desde el 3 de abril de 2025, por el art. 20.18 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -9786,8 +9488,6 @@ Sin perjuicio de lo establecido para los procesos especiales, los delitos que al
 
 Los procesos penales en los que esté involucrado como víctima una persona menor de edad, serán de tramitación preferente.
 
-> Téngase en cuenta que esta disposición añadida por el art. 20.19 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
 > Se añade, con efectos desde el 3 de abril de 2025, por el art. 20.19 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 ###### Disposición adicional novena. Justicia restaurativa.
@@ -9819,8 +9519,6 @@ c) Si la causa estuviera en el órgano de instrucción, acordará la conclusión
 d) Si la causa estuviese en el órgano de enjuiciamiento, se seguirá por los trámites del juicio de conformidad. La sentencia de conformidad incluirá los acuerdos alcanzados por las partes.
 
 e) Resolver sobre la suspensión de la ejecución de la pena privativa de libertad, valorando el resultado del procedimiento restaurativo para el establecimiento de las condiciones, medidas u obligaciones de la suspensión; o, en su caso, sobre el contenido de los trabajos en beneficio de la comunidad.
-
-> Téngase en cuenta que esta disposición añadida por el art. 20.20 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
 
 > Se añade, con efectos desde el 3 de abril de 2025, por el art. 20.20 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 

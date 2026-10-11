@@ -757,66 +757,59 @@ Se declaran de interés general las infraestructuras utilizadas en la Comunitat 
 
 Aplicación presupuestaria 12.03.03. PROGRAMA 512.10 – GESTIÓN E INFRAESTRUCTURAS DE RECURSOS HIDRÁULICOS, SANEAMIENTO Y DEPURACIÓN De AIGÜES.
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">CÓDIGO LÍNEA:</td>
+<td>CÓDIGO LÍNEA:</td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">DENOMINACIÓN:</p>
-<p class="cuerpo_tabla_izq">Conexión de las redes de agua potable de Cheste, Chiva y Godelleta al sistema básico metropolitano de agua potable</p>
+<p>DENOMINACIÓN:</p>
+<p>Conexión de las redes de agua potable de Cheste, Chiva y Godelleta al sistema básico metropolitano de agua potable</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">IMPORTE 2022</p>
-<p class="cuerpo_tabla_izq">100,00</p>
+<p>IMPORTE 2022</p>
+<p>100,00</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">BENEFICIARIOS PREVISTOS:</p>
-<p class="cuerpo_tabla_izq">Entidad Metropolitana de Servicios Hidráulicos (EMSHI)</p>
+<p>BENEFICIARIOS PREVISTOS:</p>
+<p>Entidad Metropolitana de Servicios Hidráulicos (EMSHI)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">MODO DE CONCESIÓN:</p>
-<p class="cuerpo_tabla_izq">Concesión directa art. 168 a)</p>
+<p>MODO DE CONCESIÓN:</p>
+<p>Concesión directa art. 168 a)</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">DESCRIPCIÓN Y FINALIDADES:</p>
-<p class="cuerpo_tabla_izq">REDACCIÓN DEL PROYECTO DE CONSTRUCCIÓN DE LA CONEXIÓN DE LAS REDES DE AGUA POTABLE DE CHESTE, CHIVA Y GODELLETA AL SISTEMA BÁSICO METROPOLITANO DE AGUA POTABLE (VALÈNCIA)</p>
+<p>DESCRIPCIÓN Y FINALIDADES:</p>
+<p>REDACCIÓN DEL PROYECTO DE CONSTRUCCIÓN DE LA CONEXIÓN DE LAS REDES DE AGUA POTABLE DE CHESTE, CHIVA Y GODELLETA AL SISTEMA BÁSICO METROPOLITANO DE AGUA POTABLE (VALÈNCIA)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PUBLICAR DATOS: (SI/NO)</td>
-<td class="cuerpo_tabla_izq" colspan="4">COD. CONTABLE</td>
+<td>PUBLICAR DATOS: (SI/NO)</td>
+<td colspan="4">COD. CONTABLE</td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">APORTACIÓN G.V.</p>
-<p class="cuerpo_tabla_izq">NO CONDICIONADA APORTACIÓN EXTERNA:</p>
+<p>APORTACIÓN G.V.</p>
+<p>NO CONDICIONADA APORTACIÓN EXTERNA:</p>
 </td>
-<td class="cuerpo_tabla_izq" colspan="4">100,00 IMPORTE APORT. COND. GV</td>
+<td colspan="4">100,00 IMPORTE APORT. COND. GV</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">2022</td>
-<td class="cuerpo_tabla_centro">2023</td>
-<td class="cuerpo_tabla_izq">2024</td>
-<td class="cuerpo_tabla_centro">2025</td>
+<td> </td>
+<td>2022</td>
+<td>2023</td>
+<td>2024</td>
+<td>2025</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">IMPORTE COMPROMETIDO</td>
-<td class="cuerpo_tabla_centro">100,00</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>IMPORTE COMPROMETIDO</td>
+<td>100,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -825,62 +818,62 @@ Aplicación presupuestaria 12.03.03. PROGRAMA 512.10 – GESTIÓN E INFRAESTRUCT
 
 Aplicación presupuestaria: 21.02.01. Programa 542.50 INVESTIGACIÓN, DESARROLLO TECNOLÓGICO E INNOVACIÓN (I+D+I)
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">CÓDIGO LÍNEA:</td>
+<td>CÓDIGO LÍNEA:</td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Promoción de líderes</p>
-<p class="cuerpo_tabla_izq">DENOMINACIÓN: Científicos CAPÍTULO VII</p>
+<p>Promoción de líderes</p>
+<p>DENOMINACIÓN: Científicos CAPÍTULO VII</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">IMPORTE 2022 40,00</td>
+<td>IMPORTE 2022 40,00</td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">BENEFICIARIOS PREVISTOS:</p>
-<p class="cuerpo_tabla_izq">Universidad Politécnica de valencia</p>
+<p>BENEFICIARIOS PREVISTOS:</p>
+<p>Universidad Politécnica de valencia</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">MODO DE</p>
-<p class="cuerpo_tabla_izq">CONCESIÓN: concesión directa Art 168 a)</p>
-<p class="cuerpo_tabla_izq">PUBLICAR DATOS: (SI/NO)</p>
+<p>MODO DE</p>
+<p>CONCESIÓN: concesión directa Art 168 a)</p>
+<p>PUBLICAR DATOS: (SI/NO)</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">DESCRIPCIÓN Y FINALIDADES:</p>
-<p class="cuerpo_tabla_izq">desarrollo de un programa innovador para la promoción de científicos valencianos en el contexto internacional</p>
-<p class="cuerpo_tabla_izq">COD. CONTABLE</p>
+<p>DESCRIPCIÓN Y FINALIDADES:</p>
+<p>desarrollo de un programa innovador para la promoción de científicos valencianos en el contexto internacional</p>
+<p>COD. CONTABLE</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="5">APORTACIÓN G.V. NO CONDICIONADA 40,00 APORTACIÓN EXTERNA:</td>
+<td colspan="5">APORTACIÓN G.V. NO CONDICIONADA 40,00 APORTACIÓN EXTERNA:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">2022</td>
-<td class="cuerpo_tabla_centro">2023</td>
-<td class="cuerpo_tabla_centro">2024</td>
-<td class="cuerpo_tabla_centro">2025</td>
+<td> </td>
+<td>2022</td>
+<td>2023</td>
+<td>2024</td>
+<td>2025</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe comprometido</td>
-<td class="cuerpo_tabla_centro">100,00</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Importe comprometido</td>
+<td>100,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td colspan="5">
-<p class="cuerpo_tabla_izq">RAZONES QUE JUSTIFICAN LA SUBVENCIÓN: CÁLCULO DE LA SUBVENCIÓN:</p>
-<p class="cuerpo_tabla_izq">MODO DE CONCESIÓN:</p>
+<p>RAZONES QUE JUSTIFICAN LA SUBVENCIÓN: CÁLCULO DE LA SUBVENCIÓN:</p>
+<p>MODO DE CONCESIÓN:</p>
 </td>
 </tr>
 </tbody>

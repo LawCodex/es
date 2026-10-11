@@ -202,16 +202,6 @@ Las resoluciones administrativas relativas al reconocimiento de la condición de
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo, efectuada por la disposición derogatoria única.b) del Real Decreto-ley 16/2022, de 6 de septiembre, [Ref. BOE-A-2022-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14680), produce efectos cuando entre en vigor el desarrollo reglamentario previsto en los apartados 2 y 3 y el párrafo segundo del apartado 4 de su disposición adicional 1 y, en todo caso, el 1 de abril de 2024, según determina su disposición final 7.4, en la redacción dada por la disposición final 11.1 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
-
-> Redacción anterior:
-
-> "La contratación de cuidadores en familias numerosas dará derecho a una bonificación del 45 por ciento de las cuotas a la Seguridad Social a cargo del empleador en las condiciones que legal o reglamentariamente se establezcan, siempre que los dos ascendientes o el ascendiente, en caso de familia monoparental, definidos en los términos previstos en el apartado 3 del artículo 2, ejerzan una actividad profesional por cuenta ajena o propia fuera del hogar o estén incapacitados para trabajar.
-
-> Cuando la familia numerosa ostente la categoría de especial, para la aplicación de este beneficio no será necesario que los dos progenitores desarrollen cualquier actividad retribuida fuera del hogar.
-
-> En cualquier caso, el beneficio indicado en el primer párrafo de este artículo sólo será aplicable por la contratación de un único cuidador por cada unidad familiar que tenga reconocida oficialmente la condición de familia numerosa."
-
 > Se modifican los efectos de la derogación, hasta que entre en vigor el desarrollo reglamentario previsto en los apartados 2 y 3 y el párrafo segundo del apartado 4 de la disposición adicional 1 del Real Decreto-ley 16/2022 y, en todo caso, el 1 de abril de 2024, según establece la disposición final 7.4 del Real Decreto-ley 16/2022, de 6 de septiembre, [Ref. BOE-A-2022-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14680), en la redacción dada por la disposición final 11.1 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
 
 > Se deroga por la disposición derogatoria única.b) del Real Decreto-ley 16/2022, de 6 de septiembre. [Ref. BOE-A-2022-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14680)

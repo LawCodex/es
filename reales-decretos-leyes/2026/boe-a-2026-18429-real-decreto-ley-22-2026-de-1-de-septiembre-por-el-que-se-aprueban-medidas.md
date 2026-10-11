@@ -781,128 +781,116 @@ Sección 14: Ministerio de Defensa
 
 Suplementos de crédito que se conceden
 
-<table class="tabla">
-<colgroup>
-<col width="8%">
-<col width="47%">
-<col width="28%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="4">Servicio 01 Ministerio y Subsecretaría</th>
+<th colspan="4">Servicio 01 Ministerio y Subsecretaría</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">Aplicación</th>
-<th class="cabeza_tabla">Denominación</th>
-<th class="cabeza_tabla">Importe (euros)</th>
+<th colspan="2">Aplicación</th>
+<th>Denominación</th>
+<th>Importe (euros)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">121M</td>
-<td class="cuerpo_tabla_izq">Artículo 15.</td>
-<td class="cuerpo_tabla_izq">Incentivos al rendimiento.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td rowspan="3">121M</td>
+<td>Artículo 15.</td>
+<td>Incentivos al rendimiento.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Concepto 150.</td>
-<td class="cuerpo_tabla_izq">Productividad.</td>
-<td class="cuerpo_tabla_coma">9.000.000,00</td>
+<td>Concepto 150.</td>
+<td>Productividad.</td>
+<td>9.000.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Concepto 151.</td>
-<td class="cuerpo_tabla_izq">Gratificaciones.</td>
-<td class="cuerpo_tabla_coma">21.533.475,00</td>
+<td>Concepto 151.</td>
+<td>Gratificaciones.</td>
+<td>21.533.475,00</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
-<colgroup>
-<col width="8%">
-<col width="47%">
-<col width="28%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="4">Servicio 03 Secretaría de Estado de Defensa</th>
+<th colspan="4">Servicio 03 Secretaría de Estado de Defensa</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">Aplicación</th>
-<th class="cabeza_tabla">Denominación</th>
-<th class="cabeza_tabla">Importe (euros)</th>
+<th colspan="2">Aplicación</th>
+<th>Denominación</th>
+<th>Importe (euros)</th>
 </tr>
 </thead>
 <tbody>
-<tr data-partir-fila="true">
-<td class="cuerpo_tabla_centro" rowspan="10">122M</td>
-<td class="cuerpo_tabla_izq">Artículo 22.</td>
-<td class="cuerpo_tabla_izq">Material, suministros y otros.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<tr>
+<td rowspan="10">122M</td>
+<td>Artículo 22.</td>
+<td>Material, suministros y otros.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Concepto 221.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Concepto 221.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">03 Combustible.</td>
-<td class="cuerpo_tabla_coma">1.900.000,00</td>
+<td> </td>
+<td>03 Combustible.</td>
+<td>1.900.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">04 Vestuario.</td>
-<td class="cuerpo_tabla_coma">800.000,00</td>
+<td> </td>
+<td>04 Vestuario.</td>
+<td>800.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">05 Alimentación.</td>
-<td class="cuerpo_tabla_coma">2.160.000,00</td>
+<td> </td>
+<td>05 Alimentación.</td>
+<td>2.160.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">99 Otros suministros.</td>
-<td class="cuerpo_tabla_coma">2.140.000,00</td>
+<td> </td>
+<td>99 Otros suministros.</td>
+<td>2.140.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Concepto 222.</td>
-<td class="cuerpo_tabla_izq">Comunicaciones.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Concepto 222.</td>
+<td>Comunicaciones.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">01 Servicios de telecomunicaciones.</td>
-<td class="cuerpo_tabla_coma">1.000.000,00</td>
+<td> </td>
+<td>01 Servicios de telecomunicaciones.</td>
+<td>1.000.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Artículo 66.</td>
-<td class="cuerpo_tabla_izq">Inversiones militares asociadas al funcionamiento operativo de los servicios.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Artículo 66.</td>
+<td>Inversiones militares asociadas al funcionamiento operativo de los servicios.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Concepto 660.</td>
-<td class="cuerpo_tabla_izq">Inversiones militares asociadas al funcionamiento operativo de los servicios.</td>
-<td class="cuerpo_tabla_coma">25.000.000,00</td>
+<td>Concepto 660.</td>
+<td>Inversiones militares asociadas al funcionamiento operativo de los servicios.</td>
+<td>25.000.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">122N</td>
-<td class="cuerpo_tabla_izq">Artículo 21.</td>
-<td class="cuerpo_tabla_izq">Reparaciones mantenimiento y conservación.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td rowspan="2">122N</td>
+<td>Artículo 21.</td>
+<td>Reparaciones mantenimiento y conservación.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Concepto 212.</td>
-<td class="cuerpo_tabla_izq">Edificios y otras construcciones.</td>
-<td class="cuerpo_tabla_coma">500.000,00</td>
+<td>Concepto 212.</td>
+<td>Edificios y otras construcciones.</td>
+<td>500.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">000X</td>
-<td class="cuerpo_tabla_izq">Artículo 737.</td>
-<td class="cuerpo_tabla_izq">Al Centro Nacional de Inteligencia.</td>
-<td class="cuerpo_tabla_coma">10.000.000,00</td>
+<td>000X</td>
+<td>Artículo 737.</td>
+<td>Al Centro Nacional de Inteligencia.</td>
+<td>10.000.000,00</td>
 </tr>
 </tbody>
 </table>

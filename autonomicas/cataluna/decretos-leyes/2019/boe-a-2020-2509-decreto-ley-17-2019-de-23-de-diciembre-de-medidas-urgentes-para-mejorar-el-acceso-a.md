@@ -946,54 +946,47 @@ b) Cuando la Administración competente haya programado su promoción pública o
 
 1\. Cuando, de conformidad con la disposición transitoria quinta, es de aplicación el sistema de determinación de los precios máximos de venta y de rentas con arreglo al régimen anterior, las viviendas con protección oficial se sujetan a los precios y rentas máximos por metro cuadrado de superficie útil siguientes:
 
-<table class="tabla">
-<colgroup>
-<col width="24%">
-<col width="19%">
-<col width="19%">
-<col width="19%">
-<col width="19%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Régimen</th>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">Venta</p>
-<p class="cabeza_tabla">(€/m<sup>2</sup>)</p>
+<th rowspan="2">Régimen</th>
+<th colspan="2">
+<p>Venta</p>
+<p>(€/m<sup>2</sup>)</p>
 </th>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">Alquiler/cesión de uso</p>
-<p class="cabeza_tabla">(€/m<sup>2</sup>)</p>
+<th colspan="2">
+<p>Alquiler/cesión de uso</p>
+<p>(€/m<sup>2</sup>)</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Vivienda</th>
-<th class="cabeza_tabla">Anexos</th>
-<th class="cabeza_tabla">Vivienda</th>
-<th class="cabeza_tabla">Anexos</th>
+<th>Vivienda</th>
+<th>Anexos</th>
+<th>Vivienda</th>
+<th>Anexos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Régimen general.</td>
-<td class="cuerpo_tabla_coma">2.836,59</td>
-<td class="cuerpo_tabla_coma">1.418,29</td>
-<td class="cuerpo_tabla_coma">10,65</td>
-<td class="cuerpo_tabla_coma">5,33</td>
+<td>Régimen general.</td>
+<td>2.836,59</td>
+<td>1.418,29</td>
+<td>10,65</td>
+<td>5,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Régimen especial.</td>
-<td class="cuerpo_tabla_coma">2.493,10</td>
-<td class="cuerpo_tabla_coma">1.246,55</td>
-<td class="cuerpo_tabla_coma">9,35</td>
-<td class="cuerpo_tabla_coma">4,67</td>
+<td>Régimen especial.</td>
+<td>2.493,10</td>
+<td>1.246,55</td>
+<td>9,35</td>
+<td>4,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Precio concertado.</td>
-<td class="cuerpo_tabla_coma">3.001,68</td>
-<td class="cuerpo_tabla_coma">1.200,67</td>
-<td class="cuerpo_tabla_coma">10,65</td>
-<td class="cuerpo_tabla_coma">4,26</td>
+<td>Precio concertado.</td>
+<td>3.001,68</td>
+<td>1.200,67</td>
+<td>10,65</td>
+<td>4,26</td>
 </tr>
 </tbody>
 </table>

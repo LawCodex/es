@@ -88,272 +88,260 @@ Todas las condiciones y términos previstos en los Acuerdos de Consejo de Minist
 
 Adicionalmente a las anteriores, se establecen las siguientes condiciones, que serán incorporadas en el contrato marco que las entidades hayan formalizado con ICO.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="80%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Importe total del tramo de la línea de avales</td>
-<td class="cuerpo_tabla_izq">Hasta 2.500 millones de euros, aportados por el Ministerio de Asuntos Económicos y Transformación Digital para renovaciones y nuevos préstamos concedidos a autónomos y empresas que reúnan la condición de pyme.</td>
+<td>Importe total del tramo de la línea de avales</td>
+<td>Hasta 2.500 millones de euros, aportados por el Ministerio de Asuntos Económicos y Transformación Digital para renovaciones y nuevos préstamos concedidos a autónomos y empresas que reúnan la condición de pyme.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Empresas destinatarias</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Pymes y autónomos del sector turístico y actividades conexas que desarrollen su actividad en alguno de los CNAE indicados a continuación:</p>
-<p class="cuerpo_tabla_centro">
+<td>Empresas destinatarias</td>
+<td>
+<p>Pymes y autónomos del sector turístico y actividades conexas que desarrollen su actividad en alguno de los CNAE indicados a continuación:</p>
+<p>
 <strong>Sector Turístico y actividades conexas</strong>
 </p>
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">CNAE</th>
-<th class="cabeza_tabla">Actividad CNAE</th>
+<th>CNAE</th>
+<th>Actividad CNAE</th>
 </tr>
 </thead>
-<colgroup>
-<col width="10%">
-<col width="90%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">493</td>
-<td class="cuerpo_tabla_izq">Otro transporte terrestre de pasajeros</td>
+<td>493</td>
+<td>Otro transporte terrestre de pasajeros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4931</td>
-<td class="cuerpo_tabla_izq">Transporte terrestre urbano y suburbano de pasajeros</td>
+<td>4931</td>
+<td>Transporte terrestre urbano y suburbano de pasajeros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4932</td>
-<td class="cuerpo_tabla_izq">Transporte por taxi</td>
+<td>4932</td>
+<td>Transporte por taxi</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4939</td>
-<td class="cuerpo_tabla_izq">Otros tipos de transporte terrestre de pasajeros n.c.o.p.</td>
+<td>4939</td>
+<td>Otros tipos de transporte terrestre de pasajeros n.c.o.p.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">511</td>
-<td class="cuerpo_tabla_izq">Transporte aéreo de pasajeros</td>
+<td>511</td>
+<td>Transporte aéreo de pasajeros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5110</td>
-<td class="cuerpo_tabla_izq">Transporte aéreo de pasajeros</td>
+<td>5110</td>
+<td>Transporte aéreo de pasajeros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5221</td>
-<td class="cuerpo_tabla_izq">Actividades anexas al transporte terrestre</td>
+<td>5221</td>
+<td>Actividades anexas al transporte terrestre</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5222</td>
-<td class="cuerpo_tabla_izq">Actividades anexas al transporte marítimo y por vías navegables interiores</td>
+<td>5222</td>
+<td>Actividades anexas al transporte marítimo y por vías navegables interiores</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5223</td>
-<td class="cuerpo_tabla_izq">Actividades anexas al transporte aéreo</td>
+<td>5223</td>
+<td>Actividades anexas al transporte aéreo</td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<table class="tabla">
+<td> </td>
+<td>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">CNAE</th>
-<th class="cabeza_tabla">Actividad CNAE</th>
+<th>CNAE</th>
+<th>Actividad CNAE</th>
 </tr>
 </thead>
-<colgroup>
-<col width="10%">
-<col width="90%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">551</td>
-<td class="cuerpo_tabla_izq">Hoteles y alojamientos similares</td>
+<td>551</td>
+<td>Hoteles y alojamientos similares</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5510</td>
-<td class="cuerpo_tabla_izq">Hoteles y alojamientos similares</td>
+<td>5510</td>
+<td>Hoteles y alojamientos similares</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">552</td>
-<td class="cuerpo_tabla_izq">Alojamientos turísticos y otros alojamientos de corta estancia</td>
+<td>552</td>
+<td>Alojamientos turísticos y otros alojamientos de corta estancia</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5520</td>
-<td class="cuerpo_tabla_izq">Alojamientos turísticos y otros alojamientos de corta estancia</td>
+<td>5520</td>
+<td>Alojamientos turísticos y otros alojamientos de corta estancia</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">553</td>
-<td class="cuerpo_tabla_izq">Camping y aparcamiento para caravanas</td>
+<td>553</td>
+<td>Camping y aparcamiento para caravanas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5530</td>
-<td class="cuerpo_tabla_izq">Campings y aparcamientos para caravanas</td>
+<td>5530</td>
+<td>Campings y aparcamientos para caravanas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">559</td>
-<td class="cuerpo_tabla_izq">Otros alojamientos</td>
+<td>559</td>
+<td>Otros alojamientos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5590</td>
-<td class="cuerpo_tabla_izq">Otros alojamientos</td>
+<td>5590</td>
+<td>Otros alojamientos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">56</td>
-<td class="cuerpo_tabla_izq">Servicios de comidas y bebidas</td>
+<td>56</td>
+<td>Servicios de comidas y bebidas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">561</td>
-<td class="cuerpo_tabla_izq">Restaurantes y puestos de comidas</td>
+<td>561</td>
+<td>Restaurantes y puestos de comidas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5610</td>
-<td class="cuerpo_tabla_izq">Restaurantes y puestos de comidas</td>
+<td>5610</td>
+<td>Restaurantes y puestos de comidas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5621</td>
-<td class="cuerpo_tabla_izq">Provisión de comidas preparadas para eventos</td>
+<td>5621</td>
+<td>Provisión de comidas preparadas para eventos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5629</td>
-<td class="cuerpo_tabla_izq">Otros servicios de comidas</td>
+<td>5629</td>
+<td>Otros servicios de comidas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5630</td>
-<td class="cuerpo_tabla_izq">Establecimientos de bebidas</td>
+<td>5630</td>
+<td>Establecimientos de bebidas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7711</td>
-<td class="cuerpo_tabla_izq">Alquiler de automóviles y vehículos de motor ligeros</td>
+<td>7711</td>
+<td>Alquiler de automóviles y vehículos de motor ligeros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7721</td>
-<td class="cuerpo_tabla_izq">Alquiler de artículos de ocio y deportivos</td>
+<td>7721</td>
+<td>Alquiler de artículos de ocio y deportivos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7734</td>
-<td class="cuerpo_tabla_izq">Alquiler de medios de navegación</td>
+<td>7734</td>
+<td>Alquiler de medios de navegación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7911</td>
-<td class="cuerpo_tabla_izq">Actividades de las agencias de viajes</td>
+<td>7911</td>
+<td>Actividades de las agencias de viajes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7912</td>
-<td class="cuerpo_tabla_izq">Actividades de los operadores turísticos</td>
+<td>7912</td>
+<td>Actividades de los operadores turísticos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">799</td>
-<td class="cuerpo_tabla_izq">Otros servicios de reservas y actividades relacionadas con los mismos</td>
+<td>799</td>
+<td>Otros servicios de reservas y actividades relacionadas con los mismos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7990</td>
-<td class="cuerpo_tabla_izq">Otros servicios de reservas y actividades relacionadas con los mismos</td>
+<td>7990</td>
+<td>Otros servicios de reservas y actividades relacionadas con los mismos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8230</td>
-<td class="cuerpo_tabla_izq">Organización de convenciones y ferias de muestras</td>
+<td>8230</td>
+<td>Organización de convenciones y ferias de muestras</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8299</td>
-<td class="cuerpo_tabla_izq">Otras actividades de apoyo a las empresas n.c.o.p.</td>
+<td>8299</td>
+<td>Otras actividades de apoyo a las empresas n.c.o.p.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">855</td>
-<td class="cuerpo_tabla_izq">Otra educación</td>
+<td>855</td>
+<td>Otra educación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8551</td>
-<td class="cuerpo_tabla_izq">Educación deportiva y recreativa</td>
+<td>8551</td>
+<td>Educación deportiva y recreativa</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8552</td>
-<td class="cuerpo_tabla_izq">Educación cultural</td>
+<td>8552</td>
+<td>Educación cultural</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8553</td>
-<td class="cuerpo_tabla_izq">Actividades de las escuelas de conducción y pilotaje</td>
+<td>8553</td>
+<td>Actividades de las escuelas de conducción y pilotaje</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8559</td>
-<td class="cuerpo_tabla_izq">Otra educación n.c.o.p.</td>
+<td>8559</td>
+<td>Otra educación n.c.o.p.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8560</td>
-<td class="cuerpo_tabla_izq">Actividades auxiliares a la educación</td>
+<td>8560</td>
+<td>Actividades auxiliares a la educación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9004</td>
-<td class="cuerpo_tabla_izq">Gestión de salas de espectáculos</td>
+<td>9004</td>
+<td>Gestión de salas de espectáculos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">91</td>
-<td class="cuerpo_tabla_izq">Actividades de bibliotecas, archivos, museos y otras actividades culturales</td>
+<td>91</td>
+<td>Actividades de bibliotecas, archivos, museos y otras actividades culturales</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9102</td>
-<td class="cuerpo_tabla_izq">Actividades de museos</td>
+<td>9102</td>
+<td>Actividades de museos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9103</td>
-<td class="cuerpo_tabla_izq">Gestión de lugares y edificios históricos</td>
+<td>9103</td>
+<td>Gestión de lugares y edificios históricos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9104</td>
-<td class="cuerpo_tabla_izq">Actividades jardines botánicos, parques zoológicos y reservas naturales</td>
+<td>9104</td>
+<td>Actividades jardines botánicos, parques zoológicos y reservas naturales</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9311</td>
-<td class="cuerpo_tabla_izq">Gestión de instalaciones deportivas</td>
+<td>9311</td>
+<td>Gestión de instalaciones deportivas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9319</td>
-<td class="cuerpo_tabla_izq">Otras actividades deportivas</td>
+<td>9319</td>
+<td>Otras actividades deportivas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9321</td>
-<td class="cuerpo_tabla_izq">Actividades de los parques de atracciones y los parques temáticos</td>
+<td>9321</td>
+<td>Actividades de los parques de atracciones y los parques temáticos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9329</td>
-<td class="cuerpo_tabla_izq">Otras actividades recreativas y de entretenimiento</td>
+<td>9329</td>
+<td>Otras actividades recreativas y de entretenimiento</td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cobertura del aval, importe máximo del préstamo por cliente, remuneración y ampliación de la finalidad</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">La cobertura del aval será de hasta el 80% del principal del préstamo.</p>
-<p class="cuerpo_tabla_izq">Con cargo a este tramo, el importe nominal del préstamo a avalar no podrá superar 1.500.000 euros por empresa o autónomo.</p>
-<p class="cuerpo_tabla_izq">La finalidad de la financiación podrá ser además de la cobertura de las necesidades de liquidez, la financiación de los gastos o inversiones necesarios para la mejora, ampliación o adaptación de las instalaciones, equipos y servicios prestados por las pymes y autónomos.</p>
+<td>Cobertura del aval, importe máximo del préstamo por cliente, remuneración y ampliación de la finalidad</td>
+<td>
+<p>La cobertura del aval será de hasta el 80% del principal del préstamo.</p>
+<p>Con cargo a este tramo, el importe nominal del préstamo a avalar no podrá superar 1.500.000 euros por empresa o autónomo.</p>
+<p>La finalidad de la financiación podrá ser además de la cobertura de las necesidades de liquidez, la financiación de los gastos o inversiones necesarios para la mejora, ampliación o adaptación de las instalaciones, equipos y servicios prestados por las pymes y autónomos.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plazo de solicitud de los avales</td>
-<td class="cuerpo_tabla_izq">Los avales de este tramo podrán solicitarse hasta el 30 de septiembre de 2020. El plazo podrá ampliarse, siempre en línea con la normativa de Ayudas de Estado de la UE, por Acuerdo de Consejo de Ministros.</td>
+<td>Plazo de solicitud de los avales</td>
+<td>Los avales de este tramo podrán solicitarse hasta el 30 de septiembre de 2020. El plazo podrá ampliarse, siempre en línea con la normativa de Ayudas de Estado de la UE, por Acuerdo de Consejo de Ministros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <strong>Otros trámites</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros trámites</td>
-<td class="cuerpo_tabla_izq">No son necesarios trámites adicionales a este Acuerdo de Consejo de Ministros.</td>
+<td>Otros trámites</td>
+<td>No son necesarios trámites adicionales a este Acuerdo de Consejo de Ministros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayudas de Estado</td>
-<td class="cuerpo_tabla_izq">La línea está sujeta a la normativa sobre ayudas de Estado de la Unión Europea.</td>
+<td>Ayudas de Estado</td>
+<td>La línea está sujeta a la normativa sobre ayudas de Estado de la Unión Europea.</td>
 </tr>
 </tbody>
 </table>
@@ -376,11 +364,7 @@ Todas las condiciones y términos previstos en los Acuerdos de Consejo de Minist
 
 Adicionalmente a las anteriores, se establecen las siguientes condiciones, que serán incorporadas en el contrato marco que las entidades hayan formalizado con ICO.
 
-<table class="tabla">
-<colgroup>
-<col width="20%">
-<col width="80%">
-</colgroup>
+<table>
 <tbody>
 <tr>
 <td>Importe total del tramo de la línea de avales</td>
@@ -400,7 +384,7 @@ Adicionalmente a las anteriores, se establecen las siguientes condiciones, que s
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">
+<p>
 <strong>Otros trámites</strong>
 </p>
 </td>
@@ -428,184 +412,174 @@ El importe de la línea de avales se aplicará a los operadores a demanda.
 
 Los límites autorizados en el Acuerdo de Consejo de Ministros de 24 de marzo de 2020, para adquirir compromisos de gasto con cargo a ejercicios futuros en aplicación de lo dispuesto en el artículo 47.3 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, para financiar por parte del Ministerio de Asuntos Económicos y Transformación Digital los gastos de gestión y administración incurridos por ICO en la implementación del primer tramo de la línea de avales prevista en el artículo 29 del Real Decreto-ley 8/2020, de 17 de marzo, con cargo a la partida presupuestaria 27.03.931M.359 «Otros gastos financieros», y que fueron ampliados en los Acuerdos de Consejo de Ministros de 10 de abril, 5 de mayo y 19 de mayo de 2020, se consideran asimismo ampliados y adaptados proporcionalmente y en plazo al tramo adicional previsto en este Acuerdo.
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="8">
-<p class="cabeza_tabla">Ministerio de Asuntos Económicos y Transformación Digital: Techo máximo de gasto</p>
-<p class="cabeza_tabla">Millones de euros</p>
+<th colspan="8">
+<p>Ministerio de Asuntos Económicos y Transformación Digital: Techo máximo de gasto</p>
+<p>Millones de euros</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla"> </p>
+<th>
+<p> </p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tramo I</p>
-<p class="cabeza_tabla">ACM</p>
-<p class="cabeza_tabla">24.03.2020</p>
+<th>
+<p>Tramo I</p>
+<p>ACM</p>
+<p>24.03.2020</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tramo II</p>
-<p class="cabeza_tabla">ACM</p>
-<p class="cabeza_tabla">10.04.2020</p>
+<th>
+<p>Tramo II</p>
+<p>ACM</p>
+<p>10.04.2020</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tramo III</p>
-<p class="cabeza_tabla">ACM</p>
-<p class="cabeza_tabla">05.05.2020</p>
+<th>
+<p>Tramo III</p>
+<p>ACM</p>
+<p>05.05.2020</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tramo IV</p>
-<p class="cabeza_tabla">ACM</p>
-<p class="cabeza_tabla">19.05.2020</p>
+<th>
+<p>Tramo IV</p>
+<p>ACM</p>
+<p>19.05.2020</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tramo MARF</p>
-<p class="cabeza_tabla">ACM</p>
-<p class="cabeza_tabla">05.05.2020</p>
+<th>
+<p>Tramo MARF</p>
+<p>ACM</p>
+<p>05.05.2020</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tramo V</p>
-<p class="cabeza_tabla">ACM</p>
-<p class="cabeza_tabla">16.06.2020</p>
-<p class="cabeza_tabla">incluidos subtramos turismo y vehículos</p>
+<th>
+<p>Tramo V</p>
+<p>ACM</p>
+<p>16.06.2020</p>
+<p>incluidos subtramos turismo y vehículos</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Total<sup>i</sup></p>
+<th>
+<p>Total<sup>i</sup></p>
 </th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">Importe avales</td>
-<td class="cuerpo_tabla_centro">20.000</td>
-<td class="cuerpo_tabla_centro">20.000</td>
-<td class="cuerpo_tabla_centro">20.000</td>
-<td class="cuerpo_tabla_centro">20.000</td>
-<td class="cuerpo_tabla_centro">4.000</td>
-<td class="cuerpo_tabla_centro">15.500</td>
-<td class="cuerpo_tabla_centro">99.500</td>
+<td>Importe avales</td>
+<td>20.000</td>
+<td>20.000</td>
+<td>20.000</td>
+<td>20.000</td>
+<td>4.000</td>
+<td>15.500</td>
+<td>99.500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Años</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Años</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2020</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
+<td>2020</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2021</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
+<td>2021</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2022</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">1,55</td>
-<td class="cuerpo_tabla_centro">9,95</td>
+<td>2022</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>0,4</td>
+<td>1,55</td>
+<td>9,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2023</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">1,55</td>
-<td class="cuerpo_tabla_centro">9,95</td>
+<td>2023</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>0,4</td>
+<td>1,55</td>
+<td>9,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2024</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">1,55</td>
-<td class="cuerpo_tabla_centro">9,95</td>
+<td>2024</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>0,4</td>
+<td>1,55</td>
+<td>9,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2025</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">1,55</td>
-<td class="cuerpo_tabla_centro">9,95</td>
+<td>2025</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>0,4</td>
+<td>1,55</td>
+<td>9,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2026</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">1,55</td>
-<td class="cuerpo_tabla_centro">9,95</td>
+<td>2026</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>0,4</td>
+<td>1,55</td>
+<td>9,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2027</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
+<td>2027</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
+<td>2028</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Total</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">7,75</td>
-<td class="cuerpo_tabla_centro">49,75</td>
+<td>Total</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>2</td>
+<td>7,75</td>
+<td>49,75</td>
 </tr>
 </tbody>
 </table>

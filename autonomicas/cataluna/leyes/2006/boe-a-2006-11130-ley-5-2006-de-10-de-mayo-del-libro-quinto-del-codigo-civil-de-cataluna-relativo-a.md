@@ -966,12 +966,6 @@ Los propietarios de una finca pueden cortar las ramas o raíces de un árbol o d
 
 Las inmisiones de humo, ruido, gases, fibras de amianto, vapores, olor, calor, temblor, ondas electromagnéticas y luz y demás similares producidas por actos ilegítimos del vecindario y que causan daños a la finca o a las personas que habitan en la misma están prohibidas y generan responsabilidad por el daño causado.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 3 de la Ley 8/2026, de 2 de julio, [Ref. BOE-A-2026-17836](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17836), entra en vigor el 3 de octubre de 2026, según determina su disposición final 7.
-
-> Redacción anterior:
-
-> "Las inmisiones de humo, ruido, gases, vapores, olor, calor, temblor, ondas electromagnéticas y luz y demás similares producidas por actos ilegítimos de vecinos y que causan daños a la finca o a las personas que habitan en la misma quedan prohibidas y generan responsabilidad por el daño causado.
-
 > Se modifica, con efectos de 3 de octubre de 2026, por la disposición final 3 de la Ley 8/2026, de 2 de julio. [Ref. BOE-A-2026-17836](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17836)
 
 ###### Artículo 546-14. Inmisiones legítimas.

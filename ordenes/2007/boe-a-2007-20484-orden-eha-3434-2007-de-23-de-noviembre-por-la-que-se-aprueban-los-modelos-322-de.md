@@ -158,12 +158,6 @@ El procedimiento de transmisión telemática de las declaraciones con solicitud 
 
 La presentación de las autoliquidaciones correspondientes a los modelos 322 y 353, así como, en su caso, el ingreso de la cantidad resultante del modelo de autoliquidación 353, se efectuará en los treinta días naturales del mes siguiente al correspondiente periodo de liquidación mensual, o hasta el último día del mes de febrero en el caso de la declaración-liquidación mensual correspondiente al mes de enero.
 
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 2.2 de la Orden HFP/417/2017, de 12 de mayo, [Ref. BOE-A-2017-5312](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5312), entra en vigor el 1 de julio de 2017.
-
-> Redacción anterior:
-
-> "La presentación de las autoliquidaciones correspondientes a los modelos 322 y 353, así como, en su caso, el ingreso de la cantidad resultante del modelo de autoliquidación 353, se efectuará en los veinte primeros días naturales del mes siguiente a la finalización del correspondiente período de liquidación mensual, excepto la correspondiente al último período de liquidación del año, que deberá presentarse durante los treinta primeros días naturales del mes de enero siguiente, junto con la declaración resumen anual que deberán presentar individualmente todas las entidades integrantes del grupo."
-
 > Se modifica, con efectos de 1 de julio de 2017, por la disposición final 2.2 de la Orden HFP/417/2017, de 12 de mayo. [Ref. BOE-A-2017-5312](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5312)
 
 > Se modifica por el art. 1.3 de la Orden HAP/1222/2014, de 9 de julio. [Ref. BOE-A-2014-7469](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7469).

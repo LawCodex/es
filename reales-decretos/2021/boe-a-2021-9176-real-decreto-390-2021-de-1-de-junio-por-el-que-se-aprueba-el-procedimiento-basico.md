@@ -128,20 +128,6 @@ Tampoco se considerará superficie útil la ocupada por los espacios exteriores 
 
 u) Sistema de automatización y control de edificios: se define como aquel sistema que incluya todos los productos, programas informáticos y servicios de ingeniería que puedan apoyar el funcionamiento eficiente energéticamente, económico y seguro de las instalaciones técnicas del edificio mediante controles automatizados y facilitando su gestión manual de dichas instalaciones técnicas del edificio.
 
-> Téngase en cuenta que la supresión de las actuales letras u), v) y la reordenación de la w) como u), establecida por el art. único.1 del Real Decreto 659/2025, de 22 de julio, [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230), entra en vigor el 23 de julio de 2026, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "u) Técnico competente: técnico que esté en posesión de cualquiera de las titulaciones académicas y profesionales habilitantes para la redacción de cualquiera de los proyectos de edificación o para la dirección de obras y dirección de ejecución de obras de edificación, según lo establecido en la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación, o para la suscripción de certificados de eficiencia energética. Asimismo, se consideran competentes los técnicos que estén en posesión de alguna titulación universitaria que cuente con la habilitación para el ejercicio de las profesiones reguladas descritas en este apartado, en virtud de lo dispuesto en el artículo 12.9 del Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales.
-
-> A los efectos de acreditar el cumplimiento de los requisitos exigidos para ser considerado técnico competente, se aceptarán los documentos procedentes de otro Estado miembro de los que se desprenda que se cumplen tales requisitos, en los términos previstos en el artículo 17.2 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
-
-> v) Técnico ayudante del proceso de certificación energética de edificios: técnico que esté en posesión de un título de formación profesional, entre cuyas competencias se encuentran la colaboración como ayudante del técnico competente en el proceso de certificación energética de edificios. Asimismo, un técnico competente podrá también actuar como técnico ayudante.
-
-> Los técnicos ayudantes del proceso de certificación podrán colaborar en el proceso de certificación energética de edificios, en función de su formación y titulación, tanto para la toma de datos, el empleo de herramientas y programas informáticos reconocidos para la calificación energética, o la definición de medidas de mejora de la eficiencia energética, como para gestionar los trámites administrativos y la documentación relacionada con los procesos de inspección y certificación energética.
-
-> w) Sistema de automatización y control de edificios: se define como aquel sistema que incluya todos los productos, programas informáticos y servicios de ingeniería que puedan apoyar el funcionamiento eficiente energéticamente, económico y seguro de las instalaciones técnicas del edificio mediante controles automatizados y facilitando su gestión manual de dichas instalaciones técnicas del edificio."
-
 > Se suprimen las letras u), v) y se reordena la w) como u), con efectos desde el 23 de julio de 2026, por el art. único.1 del Real Decreto 659/2025, de 22 de julio. [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230)
 
 ### Artículo 3. Ámbito de aplicación.
@@ -201,12 +187,6 @@ d) Edificios independientes, es decir, que no estén en contacto con otros edifi
 e) Edificios que se compren para su demolición o para la realización de las reformas definidas en el apartado d) del artículo 3.1. Estos edificios estarán exentos de la obtención del certificado de eficiencia energética de edificio existente de acuerdo con el artículo 10, sin perjuicio, en su caso, del cumplimiento del artículo 9 una vez se vaya a acometer la reforma, según lo referido en el apartado d) del artículo 3.1.
 
 Para hacer efectiva la exclusión recogida en este apartado e), el propietario del edificio o de parte del edificio, según corresponda, realizará una declaración responsable ante el órgano competente de la comunidad autónoma o de la ciudad de Ceuta o Melilla en materia de certificación energética de edificios. No obstante, el órgano competente de la comunidad autónoma o de la ciudad de Ceuta o Melilla podrá regular un procedimiento más exigente.
-
-> Téngase en cuenta que la actualización del párrafo segundo del apartado 2.e), establecida por el art. único.2 del Real Decreto 659/2025, de 22 de julio, [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230), entra en vigor el 23 de julio de 2026, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "Para hacer efectiva la exclusión recogida en este apartado f), el propietario del edificio o de parte del edificio, según corresponda, realizará una declaración responsable ante el órgano competente de la comunidad autónoma en materia de certificación energética de edificios. No obstante, el órgano competente de la comunidad autónoma podrá regular un procedimiento más exigente."
 
 > Se modifica el párrafo segundo del apartado 2.e), con efectos desde el 23 de julio de 2026, por el art. único.2 del Real Decreto 659/2025, de 22 de julio. [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230)
 
@@ -286,8 +266,6 @@ En el caso de que el certificado se refiera únicamente a uno de los dos apartad
 
 4\. En caso de titulaciones obtenidas en el extranjero, se deberá estar en posesión de la correspondiente credencial de homologación o, en su caso, del correspondiente certificado de equivalencia, antes de presentar la declaración responsable a la que se refiere el artículo 4 ter.1. Este requisito no será de aplicación a los profesionales que hubieran obtenido el reconocimiento de su cualificación profesional, en el ámbito de las profesiones reguladas, al amparo de las disposiciones del Derecho de la Unión Europea.
 
-> Téngase en cuenta que este artículo, añadido por el art. único.3 del Real Decreto 659/2025, de 22 de julio, [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230), entra en vigor el 23 de julio de 2026, según determina su disposición final única.
-
 > Se añade, con efectos desde el 23 de julio de 2026, por el art. único.3 del Real Decreto 659/2025, de 22 de julio. [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230)
 
 ### Artículo 4 ter. Acreditación como técnico competente para la certificación de la eficiencia energética de los edificios.
@@ -297,8 +275,6 @@ En el caso de que el certificado se refiera únicamente a uno de los dos apartad
 2\. La declaración responsable podrá presentarse por medios electrónicos de conformidad con lo previsto en la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio. Habilitará para el ejercicio de la actividad en todo el territorio nacional, sin necesidad de trámites o requisitos adicionales. Será eficaz hasta que los órganos competentes de las Comunidades Autónomas o ciudades de Ceuta y Melilla den de baja al declarante como técnico competente, bien a solicitud suya, bien como consecuencia de la constatación del incumplimiento de las condiciones necesarias para su acreditación.
 
 3\. De conformidad con el artículo 69.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la inexactitud, falsedad u omisión, de carácter esencial, de cualquier dato o información que se incorpore a la declaración responsable o la no presentación ante la Administración competente de la declaración responsable, o la documentación que sea en su caso requerida para acreditar el cumplimiento de lo declarado, determinará la imposibilidad de actuar como técnico competente en la actividad de certificación desde el momento en que se tenga constancia de tales hechos.
-
-> Téngase en cuenta que este artículo, añadido por el art. único.4 del Real Decreto 659/2025, de 22 de julio, [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230), entra en vigor el 23 de julio de 2026, según determina su disposición final única.
 
 > Se añade, con efectos desde el 23 de julio de 2026, por el art. único.4 del Real Decreto 659/2025, de 22 de julio. [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230)
 
@@ -321,8 +297,6 @@ En el caso de realizar una baja del registro desde una comunidad autónoma difer
 4\. A partir de la información de los registros, actualizados periódicamente, la Dirección General de Planificación y Coordinación Energética del Ministerio para la Transición Ecológica y el Reto Demográfico pondrá a disposición del público el nombre, apellidos, provincia y datos de contacto de técnicos competentes. Los datos personales deberán ser tratados conforme a lo dispuesto en el Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la circulación de estos datos y por el que se deroga la Directiva 95/46/CE, y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
 
 5\. Todas las actividades derivadas de la creación, aplicación y desarrollo del Registro Administrativo Centralizado de Técnicos Competentes, que incidan en el personal del órgano competente de la comunidad autónoma o de la ciudad de Ceuta o Melilla, se ajustarán a las normas básicas sobre gastos de personal que sean de aplicación.
-
-> Téngase en cuenta que este artículo, añadido por el art. único.5 del Real Decreto 659/2025, de 22 de julio,[Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230), entra en vigor el 23 de julio de 2026, según determina su disposición final única.
 
 > Se añade, con efectos desde el 23 de julio de 2026, por el art. único.5 del Real Decreto 659/2025, de 22 de julio. [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230)
 
@@ -354,12 +328,6 @@ Para el cálculo de los indicadores de eficiencia energética se tomarán en con
 
 El citado registro permitirá realizar las labores de control técnico y administrativo e inspección recogidas en los artículos 11 y 12 y servirá de acceso a la información sobre los certificados a los ciudadanos.
 
-> Téngase en cuenta que la actualización del párrafo segundo del apartado 6, establecida por el art. único.6 del Real Decreto 659/2025, de 22 de julio, [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230), entra en vigor el 23 de julio de 2026, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "El citado registro permitirá realizar las labores de control técnico y administrativo e inspección recogidas en los artículos 11 y 12. Asimismo, el órgano competente de la comunidad autónoma en materia de certificación energética de edificios podrá poner a disposición del público registros actualizados periódicamente de técnicos competentes o de empresas que ofrezcan los servicios de expertos de este tipo y servirá de acceso a la información sobre los certificados a los ciudadanos. Estos registros deberán incluir mención expresa de que la calificación energética podrá realizarse por técnicos competentes o empresas incluidas en los registros de los respectivos órganos competentes de otras comunidades autónomas."
-
 7\. Las bases de datos en las que se registran los certificados de eficiencia energética deben permitir la recopilación de datos sobre consumo de energía medido o calculado, cumplimentándose estos campos cuando se registre un certificado desde la entrada en vigor de lo dispuesto en el presente real decreto.
 
 Estos datos estarán disponibles, previa solicitud, para el propietario del edificio. Los datos agregados y anonimizados cumpliendo con los requisitos de protección de datos nacionales y de la Unión Europea estarán disponibles para uso estadístico y de investigación.
@@ -381,8 +349,6 @@ Con objeto de que los ministerios competentes en materia de eficiencia energéti
 2\. El Registro Administrativo Centralizado al que se refiere este artículo incluirá los datos indicados en el apartado 1 del anexo IV del presente real decreto, de tal modo que permita, a los órganos competentes de las comunidades autónomas y de la ciudad de Ceuta o Melilla, identificar a los técnicos competentes acreditados en materia de certificación energética de edificios, con el fin de facilitar a la administración competente la realización de tareas de inspección.
 
 3\. El órgano competente de la comunidad autónoma y de la ciudad de Ceuta o Melilla que decida utilizar este registro gestionará las altas y bajas del registro de aquellos técnicos competentes acreditados cuyo domicilio fiscal se encuentre en su ámbito territorial de competencia e introducirá los datos a los que se refiere el apartado 2 de este artículo.
-
-> Téngase en cuenta que este artículo, añadido por el art. único.7 del Real Decreto 659/2025, de 22 de julio, [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230), entra en vigor el 23 de julio de 2026, según determina su disposición final única.
 
 > Se añade, con efectos desde el 23 de julio de 2026, por el art. único.7 del Real Decreto 659/2025, de 22 de julio. [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230)
 
@@ -438,12 +404,6 @@ g) Fecha de la visita al inmueble y descripción de las pruebas y comprobaciones
 
 1\. La certificación de eficiencia energética de los edificios incluidos en los artículos 3.1.a) y 3.1.d), constará de dos fases denominadas: “certificación de eficiencia energética de proyecto” y “certificación de eficiencia energética de obra terminada”. Ambos certificados serán suscritos por un técnico competente, de acuerdo con lo dispuesto en los artículos 4 bis, 4 ter y 4 quáter.
 
-> Téngase en cuenta que la actualización del apartado 1, establecida por el art. único.8 del Real Decreto 659/2025, de 22 de julio, [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230), entra en vigor el 23 de julio de 2026, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "La certificación de eficiencia energética de los edificios incluidos en los artículos 3.1.a) y 3.1.d), constará de dos fases: la certificación de eficiencia energética de proyecto y la certificación de eficiencia energética de obra terminada. Ambos certificados serán suscritos por un técnico competente, de acuerdo con lo dispuesto en el artículo 2.u)."
-
 2\. El certificado de eficiencia energética de proyecto se obtiene a partir de las características especificadas en el proyecto de ejecución y quedará incorporado al mismo.
 
 3\. El certificado de eficiencia energética de obra terminada se obtiene a partir de las características efectivas del edificio terminado o, en su caso, de la reforma o ampliación realizada en un edificio existente, lo que permite la comparación con la calificación alcanzada en el certificado de eficiencia energética de proyecto.
@@ -457,14 +417,6 @@ g) Fecha de la visita al inmueble y descripción de las pruebas y comprobaciones
 ### Artículo 10. Certificación de eficiencia energética de un edificio existente.
 
 La certificación de eficiencia energética de los edificios incluidos en los artículos 3.1.b), 3.1.c), 3.1.e) y 3.1.f) consta de una única fase denominada: “certificación de eficiencia energética de edificio existente”. Este certificado será suscrito por un técnico competente, de acuerdo con lo dispuesto en los artículos 4 bis, 4 ter y 4 quáter.
-
-> Téngase en cuenta que esta actualización, establecida por el art. único.9 del Real Decreto 659/2025, de 22 de julio, [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230), entra en vigor el 23 de julio de 2026, según determina su disposición final única.
-
-> Redacción anterior:
-
-> **Artículo 10. Certificación de eficiencia energética de un edificio existente.**
-
-> "La certificación de eficiencia energética de los edificios incluidos en los artículos 3.1.b), 3.1.c), 3.1.e) y 3.1.f) consta de una única fase: certificación de la eficiencia energética de edificio existente. Este certificado será suscrito por un técnico competente, de acuerdo con lo dispuesto en el artículo 2.u)."
 
 > Se modifica, con efectos desde el 23 de julio de 2026, por el art. único.9 del Real Decreto 659/2025, de 22 de julio. [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230)
 
@@ -918,8 +870,6 @@ b) Condiciones del contenido mínimo.
 
 Las condiciones que debe cumplir el contenido mínimo de este módulo se desarrollan en el módulo 2 del documento reconocido de condiciones mínimas del curso de conocimientos básicos, específicos y administrativos de certificación de la eficiencia energética de edificios.
 
-> Téngase en cuenta que este anexo, añadido por el art. único.10 del Real Decreto 659/2025, de 22 de julio, [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230), entra en vigor el 23 de julio de 2026, según determina su disposición final única.
-
 > Se añade, con efectos desde el 23 de julio de 2026, por el art. único.10 del Real Decreto 659/2025, de 22 de julio. [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230)
 
 ## ANEXO II — Contenidos equivalentes al curso de conocimientos básicos, específicos y administrativos de certificación de la eficiencia energética de edificios
@@ -928,54 +878,48 @@ Las condiciones que debe cumplir el contenido mínimo de este módulo se desarro
 
 1.1 Contenidos equivalentes y cargas de trabajo mínimas, en créditos ECTS, para títulos universitarios:
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="18%">
-<col width="18%">
-<col width="54%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Contenido</th>
-<th class="cabeza_tabla">Materia</th>
-<th class="cabeza_tabla">Asignaturas en las que se imparte la materia (ejemplos)</th>
-<th class="cabeza_tabla">Créditos ECTS mínimos</th>
+<th>Contenido</th>
+<th>Materia</th>
+<th>Asignaturas en las que se imparte la materia (ejemplos)</th>
+<th>Créditos ECTS mínimos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Energía.</td>
-<td class="cuerpo_tabla_izq">Física y química.</td>
-<td class="cuerpo_tabla_izq">Física, química o similares.</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td rowspan="2">Energía.</td>
+<td>Física y química.</td>
+<td>Física, química o similares.</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Energía.</td>
-<td class="cuerpo_tabla_izq">Termodinámica, termotecnia, transferencia de calor, sistemas térmicos, calor y frío o similares.</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>Energía.</td>
+<td>Termodinámica, termotecnia, transferencia de calor, sistemas térmicos, calor y frío o similares.</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Tecnología y edificación.</td>
-<td class="cuerpo_tabla_izq">Materiales.</td>
-<td class="cuerpo_tabla_izq">Ciencia de materiales, estructura o resistencia de materiales o similares.</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td rowspan="2">Tecnología y edificación.</td>
+<td>Materiales.</td>
+<td>Ciencia de materiales, estructura o resistencia de materiales o similares.</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Expresión gráfica.</td>
-<td class="cuerpo_tabla_izq">Expresión gráfica, dibujo técnico o similares.</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td>Expresión gráfica.</td>
+<td>Expresión gráfica, dibujo técnico o similares.</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Economía.</td>
-<td class="cuerpo_tabla_izq">Matemáticas.</td>
-<td class="cuerpo_tabla_izq">Cálculo, álgebra, matemáticas, ecuaciones diferenciales o similares.</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td rowspan="2">Economía.</td>
+<td>Matemáticas.</td>
+<td>Cálculo, álgebra, matemáticas, ecuaciones diferenciales o similares.</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Economía en empresa.</td>
-<td class="cuerpo_tabla_izq">Economía, estadística o similares.</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td>Economía en empresa.</td>
+<td>Economía, estadística o similares.</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>
@@ -991,46 +935,38 @@ Las condiciones que debe cumplir el contenido mínimo de este módulo se desarro
 
 2\. Contenidos equivalentes al módulo 2 del curso de conocimientos básicos, específicos y administrativos de certificación de la eficiencia energética de edificios, carga de trabajo mínima,en créditos ECTS, y duración mínima, en horas:
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="52%">
-<col width="28%">
-<col width="10%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Contenido</th>
-<th class="cabeza_tabla">Asignaturas o módulos profesionales o formativos (ejemplos)</th>
-<th class="cabeza_tabla">Horas mínimas</th>
-<th class="cabeza_tabla">Créditos ECTS mínimos</th>
+<th>Contenido</th>
+<th>Asignaturas o módulos profesionales o formativos (ejemplos)</th>
+<th>Horas mínimas</th>
+<th>Créditos ECTS mínimos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Regulación y normas ISO relacionadas con la certificación de eficiencia energética en edificios.</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Tecnologías energéticas, Auditorías Energéticas y Certificación Energética, Gestión de la energía, Auditoría energética, Proyectos, Trabajo fin de grado, Trabajo fin de máster.</td>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
+<td>Regulación y normas ISO relacionadas con la certificación de eficiencia energética en edificios.</td>
+<td rowspan="4">Tecnologías energéticas, Auditorías Energéticas y Certificación Energética, Gestión de la energía, Auditoría energética, Proyectos, Trabajo fin de grado, Trabajo fin de máster.</td>
+<td rowspan="4"> </td>
+<td rowspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Herramientas de certificación de eficiencia energética en los edificios.</td>
+<td>Herramientas de certificación de eficiencia energética en los edificios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conocimientos de tramitación de certificados de eficiencia energética en los edificios.</td>
+<td>Conocimientos de tramitación de certificados de eficiencia energética en los edificios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conocimientos de ayudas y financiación.</td>
+<td>Conocimientos de ayudas y financiación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der" colspan="2">Total.</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td colspan="2">Total.</td>
+<td>40</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>
-
-> Téngase en cuenta que este anexo, añadido por el art. único.10 del Real Decreto 659/2025, de 22 de julio, [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230), entra en vigor el 23 de julio de 2026, según determina su disposición final única.
 
 > Se añade, con efectos desde el 23 de julio de 2026, por el art. único.10 del Real Decreto 659/2025, de 22 de julio. [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230)
 
@@ -1100,62 +1036,55 @@ Que en .........................................................................
 
 Tabla 1. Contenidos equivalentes al módulo 1 del curso de conocimientos básicos, específicos y administrativos de certificación de la eficiencia energética de edificios<sup>1</sup>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Contenido</th>
-<th class="cabeza_tabla">Materia</th>
-<th class="cabeza_tabla">Asignatura o asignaturas</th>
-<th class="cabeza_tabla">Créditos ECTS</th>
-<th class="cabeza_tabla">Créditos ECTS mínimos</th>
+<th>Contenido</th>
+<th>Materia</th>
+<th>Asignatura o asignaturas</th>
+<th>Créditos ECTS</th>
+<th>Créditos ECTS mínimos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Energía.</td>
-<td class="cuerpo_tabla_izq">Física y química.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td rowspan="2">Energía.</td>
+<td>Física y química.</td>
+<td> </td>
+<td>.........</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Energía.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>Energía.</td>
+<td> </td>
+<td>.........</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Tecnología y edificación.</td>
-<td class="cuerpo_tabla_izq">Materiales.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td rowspan="2">Tecnología y edificación.</td>
+<td>Materiales.</td>
+<td> </td>
+<td>.........</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Expresión gráfica.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td>Expresión gráfica.</td>
+<td> </td>
+<td>.........</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Economía.</td>
-<td class="cuerpo_tabla_izq">Matemáticas.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td rowspan="2">Economía.</td>
+<td>Matemáticas.</td>
+<td> </td>
+<td>.........</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Economía en empresa.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td>Economía en empresa.</td>
+<td> </td>
+<td>.........</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>
@@ -1166,50 +1095,44 @@ Que en .........................................................................
 
 Tabla 2. Contenidos del módulo 2 del curso de conocimientos básicos, específicos y administrativos de certificación de la eficiencia energética de edificios<sup>2</sup>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Contenidos</th>
-<th class="cabeza_tabla">Asignatura o asignaturas</th>
-<th class="cabeza_tabla">Créditos ECTS</th>
-<th class="cabeza_tabla">Créditos ECTS mínimos</th>
+<th>Contenidos</th>
+<th>Asignatura o asignaturas</th>
+<th>Créditos ECTS</th>
+<th>Créditos ECTS mínimos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Regulación y normas ISO relacionadas con la certificación de eficiencia energética en edificios.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Regulación y normas ISO relacionadas con la certificación de eficiencia energética en edificios.</td>
+<td> </td>
+<td>.........</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Herramientas de certificación de eficiencia energética en los edificios.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Herramientas de certificación de eficiencia energética en los edificios.</td>
+<td> </td>
+<td>.........</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conocimientos de tramitación de certificados de eficiencia energética en los edificios.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Conocimientos de tramitación de certificados de eficiencia energética en los edificios.</td>
+<td> </td>
+<td>.........</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conocimientos de ayudas y financiación.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Conocimientos de ayudas y financiación.</td>
+<td> </td>
+<td>.........</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der" colspan="2">Total.</td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td colspan="2">Total.</td>
+<td>.........</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>
@@ -1279,50 +1202,44 @@ Que en .........................................................................
 
 Tabla 2. Conocimientos del módulo 2 del curso de conocimientos básicos, específicos y administrativos de certificación de la eficiencia energética de edificios<sup>4</sup>
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col width="12%">
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Contenidos</th>
-<th class="cabeza_tabla">Módulo profesional o formativo</th>
-<th class="cabeza_tabla">Horas</th>
-<th class="cabeza_tabla">Horas mínimas</th>
+<th>Contenidos</th>
+<th>Módulo profesional o formativo</th>
+<th>Horas</th>
+<th>Horas mínimas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Regulación y normas ISO relacionadas con la certificación de eficiencia energética en edificios.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Regulación y normas ISO relacionadas con la certificación de eficiencia energética en edificios.</td>
+<td> </td>
+<td>.........</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Herramientas de certificación de eficiencia energética en los edificios.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Herramientas de certificación de eficiencia energética en los edificios.</td>
+<td> </td>
+<td>.........</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conocimientos de tramitación de certificados de eficiencia energética en los edificios.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Conocimientos de tramitación de certificados de eficiencia energética en los edificios.</td>
+<td> </td>
+<td>.........</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conocimientos de ayudas y financiación.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Conocimientos de ayudas y financiación.</td>
+<td> </td>
+<td>.........</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der" colspan="2">Total.</td>
-<td class="cuerpo_tabla_centro">.........</td>
-<td class="cuerpo_tabla_centro">40</td>
+<td colspan="2">Total.</td>
+<td>.........</td>
+<td>40</td>
 </tr>
 </tbody>
 </table>
@@ -1350,8 +1267,6 @@ Cuando el plan de estudios, guías docentes, módulos profesionales, módulos fo
 Para ello se puede adoptar alguno de los modelos del apartado 2 del anexo III del presente real decreto o cualquier otro certificado oficial que reúna el contenido mínimo establecido en el apartado 1 de dicho anexo.
 
 En el caso de que el certificado se refiera únicamente a uno de los dos apartados del anexo II del presente real decreto, no será necesaria la realización y superación del módulo del curso al que se refiera el citado certificado oficial.”
-
-> Téngase en cuenta que este anexo, añadido por el art. único.10 del Real Decreto 659/2025, de 22 de julio, [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230), entra en vigor el 23 de julio de 2026, según determina su disposición final única.
 
 > Se añade, con efectos desde el 23 de julio de 2026, por el art. único.10 del Real Decreto 659/2025, de 22 de julio. [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230)
 
@@ -1476,7 +1391,5 @@ e) Que autorizo a la Administración a hacer pública, a los efectos de consulta
 En .................................. a ........ de ........................ de .............
 
 Firma.
-
-> Téngase en cuenta que este anexo, añadido por el art. único.10 del Real Decreto 659/2025, de 22 de julio, [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230), entra en vigor el 23 de julio de 2026, según determina su disposición final única.
 
 > Se añade, con efectos desde el 23 de julio de 2026, por el art. único.10 del Real Decreto 659/2025, de 22 de julio. [Ref. BOE-A-2025-15230](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15230)

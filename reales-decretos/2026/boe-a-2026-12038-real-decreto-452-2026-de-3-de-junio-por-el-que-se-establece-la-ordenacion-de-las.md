@@ -831,68 +831,64 @@ MILAGROS TOLÓN JAIME
 
 ## ANEXO I — Correspondencia entre las familias profesionales artísticas de ordenaciones anteriores y las establecidas en esta norma
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Denominación de las familias profesionales artísticas en la normativa anterior a este real decreto</th>
-<th class="cabeza_tabla">Nueva denominación de las familias profesionales artísticas</th>
+<th>Denominación de las familias profesionales artísticas en la normativa anterior a este real decreto</th>
+<th>Nueva denominación de las familias profesionales artísticas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">− Artes aplicadas al libro.</td>
-<td class="cuerpo_tabla_izq">− Artes del libro.</td>
+<td>− Artes aplicadas al libro.</td>
+<td>− Artes del libro.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">− Artes aplicadas al muro.</td>
-<td class="cuerpo_tabla_izq">− Arte mural.</td>
+<td>− Artes aplicadas al muro.</td>
+<td>− Arte mural.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">− Artes aplicadas de la indumentaria.</td>
-<td class="cuerpo_tabla_izq">− Diseño de moda y complementos.</td>
+<td>− Artes aplicadas de la indumentaria.</td>
+<td>− Diseño de moda y complementos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">− Arte floral.</td>
-<td class="cuerpo_tabla_izq">− Arte floral.</td>
+<td>− Arte floral.</td>
+<td>− Arte floral.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">− Cerámica artística.</td>
-<td class="cuerpo_tabla_izq">− Cerámica artística.</td>
+<td>− Cerámica artística.</td>
+<td>− Cerámica artística.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">− Comunicación gráfica y audiovisual.</td>
-<td class="cuerpo_tabla_izq">− Comunicación gráfica, interactiva y audiovisual.</td>
+<td>− Comunicación gráfica y audiovisual.</td>
+<td>− Comunicación gráfica, interactiva y audiovisual.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">− Diseño de interiores.</td>
-<td class="cuerpo_tabla_izq">− Diseño de interiores.</td>
+<td>− Diseño de interiores.</td>
+<td>− Diseño de interiores.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">− Diseño industrial.</td>
-<td class="cuerpo_tabla_izq">− Diseño de producto.</td>
+<td>− Diseño industrial.</td>
+<td>− Diseño de producto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">− Escultura.</td>
-<td class="cuerpo_tabla_izq">− Escultura.</td>
+<td>− Escultura.</td>
+<td>− Escultura.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">− Esmaltes artísticos.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">− Joyería y esmaltes artísticos.</td>
+<td>− Esmaltes artísticos.</td>
+<td rowspan="2">− Joyería y esmaltes artísticos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">− Joyería de arte.</td>
+<td>− Joyería de arte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">− Textiles artísticos.</td>
-<td class="cuerpo_tabla_izq">− Diseño textil.</td>
+<td>− Textiles artísticos.</td>
+<td>− Diseño textil.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">− Vidrio artístico.</td>
-<td class="cuerpo_tabla_izq">− Vidrio artístico.</td>
+<td>− Vidrio artístico.</td>
+<td>− Vidrio artístico.</td>
 </tr>
 </tbody>
 </table>
@@ -901,57 +897,53 @@ MILAGROS TOLÓN JAIME
 
 Duración completa del ciclo: 1.600 horas.
 
-<table class="tabla">
-<colgroup>
-<col width="70%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Estructura general</th>
-<th class="cabeza_tabla">Horas lectivas</th>
+<th>Estructura general</th>
+<th>Horas lectivas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Parte troncal obligatoria</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Módulos profesionales específicos de la especialidad.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Módulos profesionales específicos de la especialidad.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Módulos comunes a todas las especialidades:</td>
+<td colspan="2">Módulos comunes a todas las especialidades:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> − Empleabilidad y gestión de la actividad profesional.</td>
-<td class="cuerpo_tabla_centro">70</td>
+<td> − Empleabilidad y gestión de la actividad profesional.</td>
+<td>70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> − Procesos digitales aplicados al entorno profesional, nivel medio.</td>
-<td class="cuerpo_tabla_centro">50</td>
+<td> − Procesos digitales aplicados al entorno profesional, nivel medio.</td>
+<td>50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">   Proyecto integrado.</td>
-<td class="cuerpo_tabla_centro">50 (mínimo)</td>
+<td>   Proyecto integrado.</td>
+<td>50 (mínimo)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación Práctica en Empresas, Estudios y Talleres.</td>
-<td class="cuerpo_tabla_centro">50 (mínimo)</td>
+<td>Formación Práctica en Empresas, Estudios y Talleres.</td>
+<td>50 (mínimo)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total horas enseñanzas mínimas.</td>
-<td class="cuerpo_tabla_centro">880</td>
+<td> Total horas enseñanzas mínimas.</td>
+<td>880</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte de desarrollo autonómico, que puede incluir módulos profesionales de carácter optativo.</td>
-<td class="cuerpo_tabla_centro">720</td>
+<td>Parte de desarrollo autonómico, que puede incluir módulos profesionales de carácter optativo.</td>
+<td>720</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">   Horas totales.</td>
-<td class="cuerpo_tabla_centro">1.600</td>
+<td>   Horas totales.</td>
+<td>1.600</td>
 </tr>
 </tbody>
 </table>
@@ -960,69 +952,64 @@ Duración completa del ciclo: 1.600 horas.
 
 Duración completa del ciclo: 2.000 horas.
 
-<table class="tabla">
-<colgroup>
-<col width="70%">
-<col width="15%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Estructura general</th>
-<th class="cabeza_tabla">Horas lectivas</th>
-<th class="cabeza_tabla">Créditos ECTS</th>
+<th>Estructura general</th>
+<th>Horas lectivas</th>
+<th>Créditos ECTS</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Parte troncal obligatoria</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Módulos profesionales específicos de la especialidad.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Módulos profesionales específicos de la especialidad.</td>
+<td>–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Módulos comunes a todas las especialidades:</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Módulos comunes a todas las especialidades:</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> − Empleabilidad y gestión de la actividad profesional.</td>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td> − Empleabilidad y gestión de la actividad profesional.</td>
+<td>70</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> − Procesos digitales aplicados al entorno profesional, nivel superior.</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td> − Procesos digitales aplicados al entorno profesional, nivel superior.</td>
+<td>80</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Proyecto integrado.</td>
-<td class="cuerpo_tabla_centro">50 (mínimo)</td>
-<td class="cuerpo_tabla_centro">3 (mínimo)</td>
+<td>Proyecto integrado.</td>
+<td>50 (mínimo)</td>
+<td>3 (mínimo)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación práctica en empresas, estudios y talleres.</td>
-<td class="cuerpo_tabla_centro">50 (mínimo)</td>
-<td class="cuerpo_tabla_centro">3 (mínimo)</td>
+<td>Formación práctica en empresas, estudios y talleres.</td>
+<td>50 (mínimo)</td>
+<td>3 (mínimo)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">  Total horas enseñanzas mínimas.</td>
-<td class="cuerpo_tabla_centro">1.100</td>
-<td class="cuerpo_tabla_centro">66</td>
+<td>  Total horas enseñanzas mínimas.</td>
+<td>1.100</td>
+<td>66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte de desarrollo autonómico, que puede incluir módulos profesionales de carácter optativo.</td>
-<td class="cuerpo_tabla_centro">900</td>
-<td class="cuerpo_tabla_centro">54</td>
+<td>Parte de desarrollo autonómico, que puede incluir módulos profesionales de carácter optativo.</td>
+<td>900</td>
+<td>54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">   Horas totales.</td>
-<td class="cuerpo_tabla_centro">2.000</td>
-<td class="cuerpo_tabla_centro">120</td>
+<td>   Horas totales.</td>
+<td>2.000</td>
+<td>120</td>
 </tr>
 </tbody>
 </table>

@@ -338,12 +338,6 @@ d) El del órgano competente en materia de ordenación del territorio del consej
 
 e) El de la administración competente en materia de cambio climático sobre el impacto directo e inducido en las emisiones de gases de efecto invernadero y el consumo energético, la capacidad de cubrir las nuevas demandas de energía previstas con generación renovable y la vulnerabilidad ante el cambio climático, y la adecuación a la planificación vigente en materia de cambio climático, así como las medidas previstas para prevenir, reducir y corregir cualquier efecto negativo.
 
-> Téngase en cuenta que la modificación del apartado 1.e), establecida por la disposición final 2.1 de la Ley 10/2019, de 22 de febrero. [Ref. BOE-A-2019-5579](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5579), entra en vigor el 2 de mayo de 2019, según determina la disposición final 5.1 de la citada ley:
-
-> Redacción anterior:
-
-> "e) El de la administración competente en materia de cambio climático en cuanto a los potenciales impactos que el plan o programa puede tener en el medio ambiente desde la perspectiva del cambio climático y de las medidas previstas para prevenir, reducir y corregir cualquier efecto negativo."
-
 2\. Asimismo, en el procedimiento de evaluación ambiental estratégica ordinaria de los instrumentos de ordenación que impliquen actuaciones de urbanización se tendrá que evaluar, como factor limitador, la capacidad de carga de la zona afectada, entendida como la aptitud del territorio para soportar la intensidad de usos actual y la que se prevé sin provocar un proceso de deterioro ambiental, social, cultural o de calidad turística, así como la capacidad de los servicios e infraestructuras ambientales. El análisis de la capacidad de carga se efectuará en un epígrafe o documento específico de la documentación requerida en la solicitud de inicio.
 
 > Se modifica el apartado 1.e) por la disposición final 2.1 de la Ley 10/2019, de 22 de febrero. [Ref. BOE-A-2019-5579](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5579)
@@ -466,12 +460,6 @@ Durante la fase de consultas, el documento ambiental incluido en la solicitud de
 
 7\. La evaluación ambiental de proyectos que supongan un incremento del consumo energético significativo dispondrá de un informe preceptivo y determinante del órgano competente en materia de energía.
 
-> Téngase en cuenta que esta última actualización de los apartados 4 y 7, modificado y añadido respectivamente por la disposición final 2.2 y 3 de la Ley 10/2019, de 22 de febrero. [Ref. BOE-A-2019-5579](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5579), entra en vigor el 2 de mayo de 2019, según determina la disposición final 5.1 de la citada ley:
-
-> Redacción anterior:
-
-> "4. Los estudios de impacto ambiental incluirán, además del contenido mínimo que establece la normativa básica estatal de evaluación ambiental, un anexo de incidencia paisajística que identifique el paisaje afectado por el proyecto, los efectos de su desarrollo, y, en su caso, las medidas protectoras, correctoras o compensatorias."
-
 > Se modifica el apartado 4) y se añade el 7 por la disposición final 2.2 y 3 de la Ley 10/2019, de 22 de febrero. [Ref. BOE-A-2019-5579](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5579)
 
 > Esta actualización entra en vigor el 2 de mayo de 2019, según establece la disposición final 5.1 de la citada ley.
@@ -567,8 +555,6 @@ En ningún caso se puede entender que la falta de emisión de la declaración am
 #### Artículo 25 ter. Condicionantes ambientales.
 
 La Comisión de Medio Ambiente de las Illes Balears podrá imponer a los planes, programas y proyectos sometidos a evaluación de impacto ambiental condicionantes dirigidos a mitigar los impactos ambientales, reducir emisiones, aumentar el uso de energías renovables o reducir la vulnerabilidad al cambio climático.
-
-> Téngase en cuenta que este artículo, añadido por la disposición final 2.4 de la Ley 10/2019, de 22 de febrero. [Ref. BOE-A-2019-5579](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5579), entra en vigor el 2 de mayo de 2019, según establece la disposición final 5.1 de la citada ley.
 
 > Se añade por la disposición final 2.4 de la Ley 10/2019, de 22 de febrero. [Ref. BOE-A-2019-5579](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5579)
 

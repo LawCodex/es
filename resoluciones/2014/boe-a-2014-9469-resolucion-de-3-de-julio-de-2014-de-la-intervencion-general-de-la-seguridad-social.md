@@ -5338,225 +5338,220 @@ Varios
 
 4.º) Dos dígitos ordinarios a determinar la naturaleza económica del gasto, conforme a la siguiente tabla:
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_37">
-<col class="row_column_44">
-<col class="row_column_45">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Adquisiciones solares.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_11">
-<td>
-<p class="cuerpo_tabla_centro">11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Gastos formalización.</p>
+<p>Adquisiciones solares.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Adquisiciones edificios y locales.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_11">
-<td>
-<p class="cuerpo_tabla_centro">21</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Gastos formalización.</p>
+<p>Gastos formalización.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gastos previos.</p>
+<p>Adquisiciones edificios y locales.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>21</p>
+</td>
+<td>
+<p>Gastos formalización.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>Gastos previos.</p>
 </td>
 <td rowspan="8">
-<p class="cuerpo_tabla_centro">Obra nueva</p>
+<p>Obra nueva</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">31</p>
+<p>31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Redacción proyecto.</p>
-</td>
-</tr>
-<tr class="row_column_11">
-<td>
-<p class="cuerpo_tabla_centro">32</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Honorarios.</p>
+<p>Redacción proyecto.</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">33</p>
+<p>32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Principal.</p>
-</td>
-</tr>
-<tr class="row_column_11">
-<td>
-<p class="cuerpo_tabla_centro">34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Adicionales. Obra nueva.</p>
+<p>Honorarios.</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
+<p>33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reformados.</p>
-</td>
-</tr>
-<tr class="row_column_11">
-<td>
-<p class="cuerpo_tabla_centro">36</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Liquidaciones.</p>
+<p>Principal.</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">37</p>
+<p>34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Revisiones de Precios.</p>
+<p>Adicionales. Obra nueva.</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gastos previos.</p>
+<p>Reformados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>Liquidaciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>37</p>
+</td>
+<td>
+<p>Revisiones de Precios.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>Gastos previos.</p>
 </td>
 <td rowspan="8">
-<p class="cuerpo_tabla_centro">Adaptación, reforma, mejora</p>
+<p>Adaptación, reforma, mejora</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">41</p>
+<p>41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Redacción proyecto.</p>
-</td>
-</tr>
-<tr class="row_column_11">
-<td>
-<p class="cuerpo_tabla_centro">42</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Honorarios.</p>
+<p>Redacción proyecto.</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">43</p>
+<p>42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Principal. Adaptación, reforma,</p>
-</td>
-</tr>
-<tr class="row_column_11">
-<td>
-<p class="cuerpo_tabla_centro">44</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Adicionales. Mejora.</p>
+<p>Honorarios.</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reformados.</p>
-</td>
-</tr>
-<tr class="row_column_11">
-<td>
-<p class="cuerpo_tabla_centro">46</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Liquidaciones.</p>
+<p>Principal. Adaptación, reforma,</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">47</p>
+<p>44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Revisiones de precios.</p>
+<p>Adicionales. Mejora.</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
+<p>45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Adquisiciones equipamiento.</p>
+<p>Reformados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>46</p>
+</td>
+<td>
+<p>Liquidaciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>47</p>
+</td>
+<td>
+<p>Revisiones de precios.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>Adquisiciones equipamiento.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Adquisición mobiliario.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_11">
-<td>
-<p class="cuerpo_tabla_centro">70</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Adquisición equipos sanitarios.</p>
+<p>Adquisición mobiliario.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">80</p>
+<p>70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Adquisición equipos informáticos.</p>
+<p>Adquisición equipos sanitarios.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">90</p>
+<p>80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros.</p>
+<p>Adquisición equipos informáticos.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>90</p>
+</td>
+<td>
+<p>Otros.</p>
 </td>
 <td> </td>
 </tr>

@@ -80,18 +80,6 @@ En ambos supuestos la exoneración de presentar la Declaración-resumen anual de
 
 La presentación del modelo 390 se regirá por lo dispuesto en la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones, declaraciones informativas, declaraciones censales, comunicaciones y solicitudes de devolución, de naturaleza tributaria.
 
-> Téngase en cuenta que esta modificación, efectuada por el art. 3.1 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290), entra en vigor el 1 de enero de 2023 según establece su disposición final única.
-
-> Redacción anterior:
-
-> "1. En el supuesto de sujetos pasivos cuyo período de liquidación coincida con el mes natural, de acuerdo con lo establecido en los apartados 1º, 2º, 3º y 4º del artículo 71.3 del Reglamento del Impuesto sobre el Valor Añadido, y en el de aquellas entidades que tengan forma jurídica de sociedad anónima o sociedad de responsabilidad limitada, la presentación de este modelo se efectuará de forma obligatoria por vía telemática a través de Internet, en las condiciones y de acuerdo con el procedimiento previsto en los artículos 6 y 7 de la presente orden.
-
-> 2\. En los demás supuestos, la presentación del modelo 390 podrá realizarse en impreso o, potestativamente, por vía telemática a través de Internet.
-
-> 3\. Si la declaración-resumen anual se obtiene por medio del programa de ayuda elaborado por la Agencia Estatal de Administración Tributaria o por cualquier otro medio que genere una declaración que se ajuste a la estructura de datos definida y publicada por la Agencia Estatal de Administración Tributaria en su página web, en la dirección electrónica http://www.agenciatributaria.es, la presentación del modelo 390 podrá realizarse a través del procedimiento descrito en los artículos 4 y 5 de esta orden.
-
-> 4\. Los sujetos pasivos que opten por la presentación de la última autoliquidación periódica del Impuesto por vía telemática a través de Internet, presentarán asimismo la declaración-resumen anual por vía telemática a través de Internet."
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 3.1 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290)
 
 > Se modifica por el art. 1.3 de la Orden HAP/2725/2012, de 19 de diciembre. [Ref. BOE-A-2012-15380](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15380).
@@ -100,39 +88,11 @@ La presentación del modelo 390 se regirá por lo dispuesto en la Orden HAP/2194
 
 **(Suprimido)**
 
-> Téngase en cuenta que este artículo, suprimido por el art. 3.2 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290), entra en vigor el 1 de enero de 2023 según establece su disposición final única.
-
-> Redacción anterior:
-
-> "1. Si el resultado de la última autoliquidación periódica es a ingresar, ésta y la declaración-resumen anual se presentarán en cualquier entidad de crédito situada en territorio español que actúe como colaboradora en la gestión recaudatoria. En el caso de que la declaración-resumen anual carezca de las etiquetas identificativas suministradas por la Agencia Estatal de Administración Tributaria se acompañará esta declaración de fotocopia de la tarjeta o documento acreditativo del número de identificación fiscal.
-
-> 2\. Si el resultado de la última autoliquidación periódica es a compensar o sin actividad, ésta y la declaración-resumen anual deberán presentarse directamente o enviarse por correo certificado a la Delegación o Administración de la Agencia Estatal de Administración Tributaria correspondiente al domicilio fiscal del declarante, o bien a la Delegación Central de Grandes Contribuyentes o a la Unidad de Gestión de Grandes Empresas de la Agencia Estatal de Administración Tributaria, según proceda, en función de la adscripción del sujeto pasivo a una u otra Delegación o Unidad, adjuntando a la declaración fotocopia acreditativa del número de identificación fiscal si la misma no lleva adheridas las correspondientes etiquetas identificativas.
-
-> No obstante lo anterior, no será preciso adjuntar fotocopia del documento acreditativo del número de identificación fiscal (NIF) cuando se trate de declaraciones correspondientes a personas físicas que se presenten personalmente en las oficinas de la Agencia Estatal de Administración Tributaria, siempre que acrediten su identidad.
-
-> 3\. Si el resultado de la última autoliquidación periódica es a devolver, ésta y la declaración-resumen anual se presentarán en la entidad de crédito situada en territorio español que actúe como colaboradora en la gestión recaudatoria donde se desee recibir la devolución. Asimismo, podrán presentarse en la Delegación o Administración de la Agencia Estatal de Administración Tributaria correspondiente al domicilio fiscal del declarante, o bien en la Delegación Central de Grandes Contribuyentes o en la Unidad de Gestión de Grandes Empresas de la Agencia Estatal de Administración Tributaria, según proceda en función de la adscripción del sujeto pasivo a una u otra Delegación o Unidad, adjuntando a la declaración-resumen fotocopia acreditativa del número de identificación fiscal si la misma no lleva adheridas las etiquetas identificativas suministradas por la Agencia Estatal de Administración Tributaria.
-
-> No obstante lo anterior, no será preciso adjuntar fotocopia del documento acreditativo del número de identificación fiscal (NIF) cuando se trate de declaraciones correspondientes a personas físicas que se presenten personalmente en las oficinas de la Agencia Estatal de Administración Tributaria, siempre que acrediten su identidad.
-
-> 4\. Si el resultado de la última autoliquidación periódica es a devolver, y se ha solicitado la devolución mediante la emisión de cheque cruzado o nominativo del Banco de España, ésta y la declaración-resumen anual se presentarán en la Delegación o Administración de la Agencia Estatal de Administración Tributaria correspondiente al domicilio fiscal del declarante, o bien en la Delegación Central de Grandes Contribuyentes o en la Unidad de Gestión de Grandes Empresas de la Agencia Estatal de Administración Tributaria, según proceda en función de la adscripción del sujeto pasivo a una u otra Delegación o Unidad, adjuntando a la declaración fotocopia acreditativa del número de identificación fiscal si la misma no lleva adheridas las etiquetas identificativas suministradas por la Agencia Estatal de Administración Tributaria.
-
-> No obstante lo anterior, no será preciso adjuntar fotocopia del documento acreditativo del número de identificación fiscal (NIF) cuando se trate de declaraciones correspondientes a personas físicas que se presenten personalmente en las oficinas de la Agencia Estatal de Administración Tributaria, siempre que acrediten su identidad.
-
-> 5\. Los sujetos pasivos acogidos al sistema de cuenta corriente en materia tributaria que presenten en impreso la última autoliquidación periódica del Impuesto, presentarán ésta y la declaración-resumen anual en la Delegación de la Agencia Estatal de Administración Tributaria o en la Administración de la misma en cuya demarcación territorial tenga su domicilio fiscal el sujeto pasivo.
-
-> 6\. Los sujetos pasivos acogidos a la presentación conjunta de las autoliquidaciones del Impuesto sobre el Valor Añadido, presentarán la declaración-resumen anual directamente o por correo certificado en la Delegación de la Agencia Estatal de Administración Tributaria o en la Administración de la misma en cuya demarcación territorial tenga su domicilio fiscal el sujeto pasivo."
-
 > Se suprime, con efectos de 1 de enero de 2023, por el art. 3.2 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290)
 
 ## Artículo 4. Opción de presentación de la declaración-resumen anual, modelo 390, obtenido mediante la utilización del servicio de impresión desarrollado a estos efectos por la Agencia Estatal de Administración Tributaria.
 
 **(Suprimido)**
-
-> Téngase en cuenta que este artículo, suprimido por el art. 3.2 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290), entra en vigor el 1 de enero de 2023 según establece su disposición final única.
-
-> Redacción anterior:
-
-> "Los sujetos pasivos que no estén obligados a presentar la declaración-resumen anual, modelo 390, por vía telemática a través de Internet y que hayan obtenido la misma utilizando el servicio de impresión a través de la Sede Electrónica, dirección electrónica https://www.agenciatributaria.gob.es, desarrollado a estos efectos por la Agencia Estatal de Administración Tributaria, podrán optar por realizar la presentación del modelo en impreso, a través del procedimiento descrito en el artículo 3 de la presente orden, o bien mediante el envío de un mensaje SMS según el procedimiento descrito en el artículo 5 de la presente orden."
 
 > Se suprime, con efectos de 1 de enero de 2023, por el art. 3.2 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290)
 
@@ -144,16 +104,6 @@ La presentación del modelo 390 se regirá por lo dispuesto en la Orden HAP/2194
 
 **(Suprimido)**
 
-> Téngase en cuenta que este artículo, suprimido por el art. 3.2 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290), entra en vigor el 1 de enero de 2023 según establece su disposición final única.
-
-> Redacción anterior:
-
-> "La presentación de la declaración se realizará mediante el envío de un mensaje SMS dirigido a tal efecto a la Agencia Estatal de Administración Tributaria. El sujeto pasivo hará constar en el mensaje, entre otros datos, su Número de Identificación Fiscal (NIF), el modelo y el número identificativo de la declaración generado mediante la utilización del servicio de impresión a través de la Sede Electrónica dirección electrónica https://www.agenciatributaria.gob.es, desarrollado a estos efectos por la Agencia Estatal de Administración Tributaria.
-
-> La Agencia Estatal de Administración Tributaria devolverá un mensaje SMS al contribuyente, confirmando la presentación de la declaración efectuada junto con un código seguro de verificación de 16 caracteres que deberá conservar.
-
-> En caso de no realizarse la confirmación, la Agencia Estatal de Administración Tributaria enviará un mensaje SMS al contribuyente comunicando dicha circunstancia e indicando el error que haya existido."
-
 > Se suprime, con efectos de 1 de enero de 2023, por el art. 3.2 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290)
 
 > Se modifica por el art. 1.5 de la Orden HAP/2725/2012, de 19 de diciembre. [Ref. BOE-A-2012-15380](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15380).
@@ -164,34 +114,6 @@ La presentación del modelo 390 se regirá por lo dispuesto en la Orden HAP/2194
 
 **(Suprimido)**
 
-> Téngase en cuenta que este artículo, suprimido por el art. 3.2 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290), entra en vigor el 1 de enero de 2023 según establece su disposición final única.
-
-> Redacción anterior:
-
-> "1. La presentación de la declaración por vía telemática a través de Internet podrá ser efectuada bien por el propio declarante o bien por un tercero que actúe en su representación, de acuerdo con lo establecido en los artículos 79 a 81, ambos inclusive, del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, y en la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios.
-
-> 2\. La presentación telemática a través de Internet del modelo 390 estará sujeta al cumplimiento de los siguientes requisitos:
-
-> a) El declarante deberá disponer de Número de Identificación Fiscal (NIF).
-
-> b) El declarante deberá tener instalado en el navegador un certificado electrónico X.509.V3 expedido por la Fábrica Nacional de la Moneda y Timbre-Real Casa de la Moneda, de acuerdo con el procedimiento establecido en los anexos III y VI de la Orden de 24 de abril de 2000, por la que se establecen las condiciones generales y el procedimiento para la presentación telemática de declaraciones del Impuesto sobre la Renta de las Personas Físicas, o cualquier otro certificado de entre los que se encuentren admitidos por la Agencia Estatal de Administración Tributaria, de acuerdo con lo previsto en la Orden HAC/1181/2003, de 12 de mayo, por la que se establecen normas específicas sobre el uso de la firma electrónica en las relaciones tributarias por medios electrónicos, informáticos y telemáticos con la Agencia Estatal de Administración Tributaria.
-
-> c) Si el presentador es una persona o entidad autorizada para presentar declaraciones en representación de terceras personas, deberá tener instalado en el navegador su certificado electrónico X.509.V3 expedido por la Fábrica Nacional de la Moneda y Timbre-Real Casa de la Moneda, o cualquier otro certificado electrónico admitido en las relaciones de la Agencia Estatal de Administración Tributaria por medios electrónicos, informáticos o telemáticos, en los términos previstos en la citada Orden de 12 de mayo de 2003.
-
-> d) Para efectuar la presentación telemática a través de Internet de las declaraciones correspondientes al modelo 390, el declarante o, en su caso, el presentador autorizado, deberá utilizar previamente un programa de ayuda para obtener el fichero con la declaración a transmitir. Este programa de ayuda podrá ser el desarrollado por la Agencia Estatal de Administración Tributaria para las declaraciones correspondientes al citado modelo u otros que obtengan un fichero con el mismo formato. Asimismo, los declarantes que opten por esta modalidad de presentación deberán tener en cuenta las normas técnicas que se requieren para efectuar la citada presentación y que se encuentran recogidas en el anexo II de la citada Orden de 24 de abril de 2000.
-
-> 3\. En aquellos casos en que se detecten anomalías de tipo formal en la transmisión telemática a través de Internet de declaraciones, dicha circunstancia se pondrá en conocimiento del presentador de la declaración por el propio sistema mediante los correspondientes mensajes de error, para que proceda a su subsanación.
-
-> 4\. En el supuesto de que por razones de carácter técnico no fuera posible efectuar la presentación por vía telemática a través de Internet en el plazo establecido en el artículo 6 de la presente Orden, la presentación podrá efectuarse durante los tres días siguientes al de la finalización del mencionado plazo.
-
-> 5\. No se podrá efectuar la presentación telemática de las declaraciones correspondientes al modelo 390 en los siguientes supuestos:
-
-> a) Sujetos pasivos con más de 6 actividades acogidas al Régimen Simplificado del Impuesto sobre el Valor Añadido (excepto actividades agrícolas, ganaderas y forestales).
-
-> b) Sujetos pasivos con más de 5 actividades agrícolas, ganaderas y forestales acogidas al Régimen Simplificado del Impuesto sobre el Valor Añadido.
-
-> c) Sujetos pasivos que desarrollen más de 30 actividades a incluir en el apartado 12 (prorratas) del modelo, salvo los sujetos pasivos que tengan la consideración de grandes empresas por haber excedido de 6.010.121,04 euros su volumen de operaciones en el año natural inmediatamente anterior, calculado conforme a lo dispuesto en el artículo 121 de la Ley 37/1992, del Impuesto sobre el Valor Añadido."
-
 > Se suprime, con efectos de 1 de enero de 2023, por el art. 3.2 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290)
 
 > Se renumera por el art. 1.6 de la Orden HAP/2725/2012, de 19 de diciembre. [Ref. BOE-A-2012-15380](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15380).
@@ -201,20 +123,6 @@ La presentación del modelo 390 se regirá por lo dispuesto en la Orden HAP/2194
 ## Artículo 7. Procedimiento para la presentación telemática por Internet de la declaración-resumen anual del Impuesto sobre el Valor Añadido, modelo 390.
 
 **(Suprimido)**
-
-> Téngase en cuenta que este artículo, suprimido por el art. 3.2 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290), entra en vigor el 1 de enero de 2023 según establece su disposición final única.
-
-> Redacción anterior:
-
-> "El procedimiento para la presentación telemática de la declaración correspondiente al modelo 390 será el siguiente:
-
-> 1\. El declarante se pondrá en comunicación con la Agencia Estatal de Administración Tributaria a través de Internet o de cualquier otra vía equivalente que permita la conexión, en la dirección electrónica: http://agenciatributaria.es, y seleccionará el modelo de declaración a transmitir. A continuación, procederá a transmitir la correspondiente declaración con la firma electrónica generada al seleccionar el certificado electrónico instalado en el navegador a tal efecto.
-
-> Si el presentador es una persona o entidad autorizada a presentar declaraciones en representación de terceras personas se requerirá una única firma, la correspondiente a su certificado.
-
-> 2\. Si la declaración es aceptada, la Agencia Estatal de Administración Tributaria le devolverá en pantalla los datos recogidos en el anexo III validados con un código electrónico de 16 caracteres, además de la fecha y hora de presentación. En el supuesto de que la presentación fuese rechazada, se mostrará en pantalla la descripción de los errores detectados. En este caso, se deberá proceder a subsanar los mismos con el programa de ayuda con el que se generó el fichero repitiendo la presentación si el error fuese originado por otro motivo.
-
-> 3\. El presentador deberá conservar la declaración aceptada y los datos recogidos en el anexo III validados con el correspondiente código electrónico."
 
 > Se suprime, con efectos de 1 de enero de 2023, por el art. 3.2 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290)
 
@@ -326,14 +234,10 @@ Madrid, 5 de noviembre de 2009.–La Vicepresidenta Segunda del Gobierno y Minis
 
 ## (Suprimido)
 
-> Téngase en cuenta que la supresión de este anexo, establecida por el art. 3.4 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290), entra en vigor el 1 de enero de 2023 según determina su disposición final única.
-
 > Se suprime, con efectos de 1 de enero de 2023, por el art. 3.4 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290)
 
 ## ANEXO III
 
 ## (Suprimido)
-
-> Téngase en cuenta que la supresión de este anexo, establecida por el art. 3.4 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290), entra en vigor el 1 de enero de 2023 según determina su disposición final única.
 
 > Se suprime, con efectos de 1 de enero de 2023, por el art. 3.4 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. [Ref. BOE-A-2022-19290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19290)

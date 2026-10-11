@@ -140,22 +140,6 @@ e) Las entidades a las que sea de aplicación la Ley 49/1960, de 21 de julio, so
 
 La información correspondiente a las operaciones relacionadas en las letras b) y d) de este apartado deberá suministrarse con carácter anual, durante los primeros 30 días del mes de enero siguiente al ejercicio al que se refieran, de forma agrupada respecto de cada una de las personas o entidades con las que se hubieran efectuado las citadas operaciones conforme a los criterios de imputación temporal previstos en el artículo 35 del Reglamento general de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos.
 
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. único.1 de la Orden HAC/1089/2020, de 27 de octubre, [Ref. BOE-A-2020-14775](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14775), entra en vigor el 1 de enero de 2021, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "2. Deberá comunicarse la siguiente información con trascendencia tributaria a que se refieren los artículos 33 a 36 del Reglamento general de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos:
-
-> a) Identificación de las facturas recibidas correspondientes a operaciones de arrendamiento de locales de negocio.
-
-> b) Las agencias de viajes que expidan las facturas a que se refiere la disposición adicional cuarta del Reglamento por el que se regulan las obligaciones de facturación aprobado por el Real Decreto 1619/2012, de 30 de noviembre, deberán informar de las prestaciones de servicios en cuya realización intervienen actuando como mediadoras en nombre y por cuenta ajena a que se refiere el apartado 7.b) de esta disposición adicional cuarta.
-
-> c) Las persona o entidades a que se refiere el artículo 94.1 y 2 de la Ley 58/2003, de 17 de diciembre, General Tributaria, deberán informar de las adquisiciones de bienes o servicios al margen de cualquier actividad empresarial o profesional en los términos previstos en el artículo 33.3 del Reglamento general de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos.
-
-> d) Las entidades aseguradoras deberán igualmente informar de las operaciones de seguros en los términos previstos en los artículos 32.c), 33.1 y 33.2.i) del Reglamento general de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, sin perjuicio de lo previsto en el apartado anterior de este artículo para los casos en los que se reciban facturas.
-
-> La información correspondiente a las operaciones relacionadas en las letras b) y d) de este apartado deberá suministrarse con carácter anual, durante los primeros 30 días del mes de enero siguiente al ejercicio al que se refieran, de forma agrupada respecto de cada una de las personas o entidades con las que se hubieran efectuado las citadas operaciones conforme a los criterios de imputación temporal previstos en el artículo 35 del Reglamento general de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos."
-
 3\. La información de las facturas, justificantes contables y documentos de Aduanas así como de los tipos de regímenes del Impuesto sobre el Valor Añadido o de operaciones con trascendencia tributaria a que se refieren los apartados anteriores se suministrará de acuerdo con las claves definidas en el Anexo I de esta orden.
 
 El envío de esta información deberá suministrarse atendiendo al formato y diseño de los mensajes informáticos a que se refiere el artículo 8 de esta orden.
@@ -171,8 +155,6 @@ El contenido de los libros registro de bienes de inversión y de determinadas op
 El envío de esta información deberá suministrarse atendiendo al formato y diseño de los mensajes informáticos a que se refiere el artículo 8 de esta orden.
 
 En desarrollo del artículo 66.3 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por Real Decreto 1624/1992, de 29 de diciembre, la identificación de los registros correspondientes a ventas de bienes en consiga se efectuará mediante una codificación que garantice la identificación unívoca de cada registro y en su caso, la identificación del registro relativo a la expedición o recepción con la que esté vinculado.
-
-> Téngase en cuenta que el último párrafo, añadido por el art. único.2 de la Orden HAC/1089/2020, de 27 de octubre. [Ref. BOE-A-2020-14775](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14775), entra en vigor el 1 de enero de 2021, según establece su disposición final única.
 
 > Se añade un párrafo, con efectos de 1 de enero de 2021, por el art. único.2 de la Orden HAC/1089/2020, de 27 de octubre. [Ref. BOE-A-2020-14775](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14775)
 

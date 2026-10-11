@@ -296,12 +296,6 @@ a) Disponer de un título universitario cuyo ámbito competencial cubra las mate
 
 b) Disponer de un título de formación profesional o de un certificado de profesionalidad incluido en el Repertorio Nacional de Certificados de Profesionalidad, cuyo ámbito competencial incluya las materias objeto del presente Reglamento de seguridad para instalaciones frigoríficas.
 
-> Téngase en cuenta que esta actualización del apartado 1.b) establecida por el art. 12.1 del Real Decreto 298/2021, de 27 de abril. [Ref. BOE-A-2021-6879](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6879), entra en vigor el 1 de julio de 2021.
-
-> Redacción anterior:
-
-> "b) Disponer de un título de formación profesional o de un certificado de profesionalidad incluido en el Catálogo Nacional de Cualificaciones Profesionales, cuyo ámbito competencial cubra las materias objeto del presente Reglamento de seguridad para instalaciones frigoríficas."
-
 c) Tener reconocida una competencia profesional adquirida por experiencia laboral, de acuerdo con lo estipulado en el Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, en las materias objeto del presente Reglamento de seguridad para instalaciones frigoríficas.
 
 d) Tener reconocida la cualificación profesional de instalador frigorista adquirida en otro u otros Estados miembros de la Unión Europea, de acuerdo con lo establecido en el Real Decreto 581/2017, de 9 de junio, por el que se incorpora al ordenamiento jurídico español la Directiva 2013/55/UE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2013, por la que se modifica la Directiva 2005/36/CE relativa al reconocimiento de cualificaciones profesionales y el Reglamento (UE) n.º 1024/2012 relativo a la cooperación administrativa a través del Sistema de Información del Mercado Interior (Reglamento IMI).
@@ -329,12 +323,6 @@ No obstante, la ejecución de las uniones soldadas en instalaciones con refriger
 3\. Las empresas frigoristas legalmente establecidas para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español deberán presentar, previo al inicio de la misma y ante el órgano competente de la Comunidad Autónoma donde deseen comenzar su actividad, una declaración responsable en la que el titular de la empresa o el representante legal del mismo declare para qué categoría va a desempeñar la actividad, que cumple los requisitos que se exigen en este Reglamento, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución o reparación de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establecen en el Reglamento de seguridad para instalaciones frigoríficas, aprobados por el Real Decreto 552/2019, de 27 de septiembre, y sus instrucciones técnicas complementarias.
 
 Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 581/2017, de 9 de junio. La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del citado real decreto.
-
-> Téngase en cuenta que esta actualización del apartado 3 establecida por el art. 12.2 del Real Decreto 298/2021, de 27 de abril. [Ref. BOE-A-2021-6879](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6879), entra en vigor el 1 de julio de 2021.
-
-> Redacción anterior:
-
-> "3. Las empresas frigoristas legalmente establecidas para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español deberán presentar, previamente al inicio de la misma y ante el órgano competente de la Comunidad Autónoma donde deseen comenzar su actividad una declaración responsable en la que el titular de la empresa o el representante legal del mismo declare para qué categoría va a desempeñar la actividad, que cumple los requisitos que se exigen en este Reglamento, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución o reparación de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establecen en el Reglamento de seguridad para instalaciones frigoríficas y sus instrucciones técnicas complementarias."
 
 Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, en España en los términos establecidos en el Real Decreto 581/2017, de 9 de junio.
 
@@ -1887,3079 +1875,3062 @@ Tabla A
 
 **Clasificación de los refrigerantes**
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="3%">
-<col width="5%">
-<col width="5%">
-<col width="12%">
-<col width="11%">
-<col width="7%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="5%">
-<col width="8%">
-<col width="6%">
-<col width="9%">
-<col width="6%">
-<col width="5%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Clasificación</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">DENOMINACIÓN</p>
-<p class="cabeza_tabla">(composición = % peso)</p>
+<th colspan="2">Clasificación</th>
+<th> </th>
+<th rowspan="2">
+<p>DENOMINACIÓN</p>
+<p>(composición = % peso)</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">Fórmula</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Masa Molecular (3)</p>
-<p class="cabeza_tabla">kg/kmol</p>
+<th rowspan="2">Fórmula</th>
+<th rowspan="2">
+<p>Masa Molecular (3)</p>
+<p>kg/kmol</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Densidad de vapor a 25 ºC a 101,3 kPa</p>
-<p class="cabeza_tabla">kg/m<sup>3</sup></p>
+<th rowspan="2">
+<p>Densidad de vapor a 25 ºC a 101,3 kPa</p>
+<p>kg/m<sup>3</sup></p>
 </th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Límite Práctico</p>
-<p class="cabeza_tabla">(4)</p>
-<p class="cabeza_tabla">kg/m<sup>3</sup></p>
+<th rowspan="2">
+<p>Límite Práctico</p>
+<p>(4)</p>
+<p>kg/m<sup>3</sup></p>
 </th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Punto de Ebullición 101,3 kPa</p>
-<p class="cabeza_tabla">(5)</p>
-<p class="cabeza_tabla">°C</p>
+<th rowspan="2">
+<p>Punto de Ebullición 101,3 kPa</p>
+<p>(5)</p>
+<p>°C</p>
 </th>
-<th class="cabeza_tabla">ATEL / ODL</th>
-<th class="cabeza_tabla" colspan="2">Inflamabilidad</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Potencial de calentamiento atmosférico</p>
-<p class="cabeza_tabla">(7)</p>
-<p class="cabeza_tabla">PCA 100</p>
+<th>ATEL / ODL</th>
+<th colspan="2">Inflamabilidad</th>
+<th rowspan="2">
+<p>Potencial de calentamiento atmosférico</p>
+<p>(7)</p>
+<p>PCA 100</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Potencial agotamiento de la capa de ozono</p>
-<p class="cabeza_tabla">(8)</p>
-<p class="cabeza_tabla">PAO</p>
+<th rowspan="2">
+<p>Potencial agotamiento de la capa de ozono</p>
+<p>(8)</p>
+<p>PAO</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Clasif. según:</p>
-<p class="cabeza_tabla">(9)</p>
-<p class="cabeza_tabla">REP</p>
+<th rowspan="2">
+<p>Clasif. según:</p>
+<p>(9)</p>
+<p>REP</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla vertical">Grupo L</th>
-<th class="cabeza_tabla vertical">Clase de seguridad</th>
-<th class="cabeza_tabla">N.º de Refrigerante (2)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">(6)</p>
-<p class="cabeza_tabla">(kg/m<sup>3</sup>)</p>
+<th>Grupo L</th>
+<th>Clase de seguridad</th>
+<th>N.º de Refrigerante (2)</th>
+<th>
+<p>(6)</p>
+<p>(kg/m<sup>3</sup>)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Temp. Autoignición</p>
-<p class="cabeza_tabla">°C</p>
+<th>
+<p>Temp. Autoignición</p>
+<p>°C</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Límite inferior de Inflamabilidad</p>
-<p class="cabeza_tabla">kg/m<sup>3</sup></p>
+<th>
+<p>Límite inferior de Inflamabilidad</p>
+<p>kg/m<sup>3</sup></p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-11</td>
-<td class="cuerpo_tabla_izq">Triclorofluormetano</td>
-<td class="cuerpo_tabla_izq">CCl3F(10)</td>
-<td class="cuerpo_tabla_centro">137.4</td>
-<td class="cuerpo_tabla_centro">5.62</td>
-<td class="cuerpo_tabla_centro">0.3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_centro">0.0062</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">4750</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-11</td>
+<td>Triclorofluormetano</td>
+<td>CCl3F(10)</td>
+<td>137.4</td>
+<td>5.62</td>
+<td>0.3</td>
+<td>24</td>
+<td>0.0062</td>
+<td>ND</td>
+<td>NF</td>
+<td>4750</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-12</td>
-<td class="cuerpo_tabla_izq">Diclorodiflurometano</td>
-<td class="cuerpo_tabla_izq">CCl2F2(10)</td>
-<td class="cuerpo_tabla_centro">120.9</td>
-<td class="cuerpo_tabla_centro">4.94</td>
-<td class="cuerpo_tabla_centro">0.5</td>
-<td class="cuerpo_tabla_centro">–29</td>
-<td class="cuerpo_tabla_centro">0.088</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">10900</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-12</td>
+<td>Diclorodiflurometano</td>
+<td>CCl2F2(10)</td>
+<td>120.9</td>
+<td>4.94</td>
+<td>0.5</td>
+<td>–29</td>
+<td>0.088</td>
+<td>ND</td>
+<td>NF</td>
+<td>10900</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-12B1</td>
-<td class="cuerpo_tabla_izq">Bromoclorodiflurometano</td>
-<td class="cuerpo_tabla_izq">CBrClF2(10)</td>
-<td class="cuerpo_tabla_centro">165.4</td>
-<td class="cuerpo_tabla_centro">6.76</td>
-<td class="cuerpo_tabla_centro">0.2</td>
-<td class="cuerpo_tabla_centro">–4</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1 890</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-12B1</td>
+<td>Bromoclorodiflurometano</td>
+<td>CBrClF2(10)</td>
+<td>165.4</td>
+<td>6.76</td>
+<td>0.2</td>
+<td>–4</td>
+<td>ND</td>
+<td>ND</td>
+<td>NF</td>
+<td>1 890</td>
+<td>3</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-13</td>
-<td class="cuerpo_tabla_izq">Clorotrifluormetano</td>
-<td class="cuerpo_tabla_izq">CClF3(10)</td>
-<td class="cuerpo_tabla_centro">104.5</td>
-<td class="cuerpo_tabla_centro">4.27</td>
-<td class="cuerpo_tabla_centro">0.5</td>
-<td class="cuerpo_tabla_centro">–81</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">14 400</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-13</td>
+<td>Clorotrifluormetano</td>
+<td>CClF3(10)</td>
+<td>104.5</td>
+<td>4.27</td>
+<td>0.5</td>
+<td>–81</td>
+<td>ND</td>
+<td>ND</td>
+<td>NF</td>
+<td>14 400</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-13B1</td>
-<td class="cuerpo_tabla_izq">Bromotrifluormetano</td>
-<td class="cuerpo_tabla_izq">CBrF3(10)</td>
-<td class="cuerpo_tabla_centro">148.9</td>
-<td class="cuerpo_tabla_centro">6.09</td>
-<td class="cuerpo_tabla_centro">0.6</td>
-<td class="cuerpo_tabla_centro">–58</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">7140</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-13B1</td>
+<td>Bromotrifluormetano</td>
+<td>CBrF3(10)</td>
+<td>148.9</td>
+<td>6.09</td>
+<td>0.6</td>
+<td>–58</td>
+<td>ND</td>
+<td>ND</td>
+<td>NF</td>
+<td>7140</td>
+<td>10</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-14</td>
-<td class="cuerpo_tabla_izq">Tetrafluoruro de carbono</td>
-<td class="cuerpo_tabla_izq">CF4</td>
-<td class="cuerpo_tabla_centro">88.0</td>
-<td class="cuerpo_tabla_centro">3.60</td>
-<td class="cuerpo_tabla_centro">0.4</td>
-<td class="cuerpo_tabla_centro">–128</td>
-<td class="cuerpo_tabla_centro">0.40</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">7390</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-14</td>
+<td>Tetrafluoruro de carbono</td>
+<td>CF4</td>
+<td>88.0</td>
+<td>3.60</td>
+<td>0.4</td>
+<td>–128</td>
+<td>0.40</td>
+<td>ND</td>
+<td>NF</td>
+<td>7390</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-22</td>
-<td class="cuerpo_tabla_izq">Clorodifluormetano</td>
-<td class="cuerpo_tabla_izq">CHClF2(10)</td>
-<td class="cuerpo_tabla_centro">86.5</td>
-<td class="cuerpo_tabla_centro">3.54</td>
-<td class="cuerpo_tabla_centro">0.3</td>
-<td class="cuerpo_tabla_centro">–41</td>
-<td class="cuerpo_tabla_centro">0,21</td>
-<td class="cuerpo_tabla_centro">635</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1 810</td>
-<td class="cuerpo_tabla_centro">0.055</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-22</td>
+<td>Clorodifluormetano</td>
+<td>CHClF2(10)</td>
+<td>86.5</td>
+<td>3.54</td>
+<td>0.3</td>
+<td>–41</td>
+<td>0,21</td>
+<td>635</td>
+<td>NF</td>
+<td>1 810</td>
+<td>0.055</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-23</td>
-<td class="cuerpo_tabla_izq">Trifluormetano</td>
-<td class="cuerpo_tabla_izq">CHF3(11)</td>
-<td class="cuerpo_tabla_centro">70.0</td>
-<td class="cuerpo_tabla_centro">2.86</td>
-<td class="cuerpo_tabla_centro">0.68</td>
-<td class="cuerpo_tabla_centro">–82</td>
-<td class="cuerpo_tabla_centro">0.15</td>
-<td class="cuerpo_tabla_centro">765</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">14800</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-23</td>
+<td>Trifluormetano</td>
+<td>CHF3(11)</td>
+<td>70.0</td>
+<td>2.86</td>
+<td>0.68</td>
+<td>–82</td>
+<td>0.15</td>
+<td>765</td>
+<td>NF</td>
+<td>14800</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-113</td>
-<td class="cuerpo_tabla_izq">1,1,2-Tricloro-1,2,2trifluoretano</td>
-<td class="cuerpo_tabla_izq">CCL2FCCIF2(10)</td>
-<td class="cuerpo_tabla_centro">187.4</td>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">0.4</td>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_centro">0.2</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">6130</td>
-<td class="cuerpo_tabla_centro">0.8</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-113</td>
+<td>1,1,2-Tricloro-1,2,2trifluoretano</td>
+<td>CCL2FCCIF2(10)</td>
+<td>187.4</td>
+<td>NA</td>
+<td>0.4</td>
+<td>48</td>
+<td>0.2</td>
+<td>ND</td>
+<td>NF</td>
+<td>6130</td>
+<td>0.8</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-114</td>
-<td class="cuerpo_tabla_izq">1,2-Dicloro-1,1,2,2 tetrafluoretano</td>
-<td class="cuerpo_tabla_izq">CClF2CCIF2(10)</td>
-<td class="cuerpo_tabla_centro">170.9</td>
-<td class="cuerpo_tabla_centro">6.99</td>
-<td class="cuerpo_tabla_centro">0.7</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">0.14</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">10000</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-114</td>
+<td>1,2-Dicloro-1,1,2,2 tetrafluoretano</td>
+<td>CClF2CCIF2(10)</td>
+<td>170.9</td>
+<td>6.99</td>
+<td>0.7</td>
+<td>4</td>
+<td>0.14</td>
+<td>ND</td>
+<td>NF</td>
+<td>10000</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-115</td>
-<td class="cuerpo_tabla_izq">2-Cloro-1,1,1,2,2pentafluoretano</td>
-<td class="cuerpo_tabla_izq">CF3CClF2(10)</td>
-<td class="cuerpo_tabla_centro">154.5</td>
-<td class="cuerpo_tabla_centro">6.32</td>
-<td class="cuerpo_tabla_centro">0.76</td>
-<td class="cuerpo_tabla_centro">–39</td>
-<td class="cuerpo_tabla_centro">0.76</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">7 370</td>
-<td class="cuerpo_tabla_centro">0.6</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-115</td>
+<td>2-Cloro-1,1,1,2,2pentafluoretano</td>
+<td>CF3CClF2(10)</td>
+<td>154.5</td>
+<td>6.32</td>
+<td>0.76</td>
+<td>–39</td>
+<td>0.76</td>
+<td>ND</td>
+<td>NF</td>
+<td>7 370</td>
+<td>0.6</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-116</td>
-<td class="cuerpo_tabla_izq">Hexafluoretano</td>
-<td class="cuerpo_tabla_izq">CF3CF3(11)</td>
-<td class="cuerpo_tabla_centro">138.0</td>
-<td class="cuerpo_tabla_centro">5.64</td>
-<td class="cuerpo_tabla_centro">0.68</td>
-<td class="cuerpo_tabla_centro">–78</td>
-<td class="cuerpo_tabla_centro">0.68</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">12200</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-116</td>
+<td>Hexafluoretano</td>
+<td>CF3CF3(11)</td>
+<td>138.0</td>
+<td>5.64</td>
+<td>0.68</td>
+<td>–78</td>
+<td>0.68</td>
+<td>ND</td>
+<td>NF</td>
+<td>12200</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-124</td>
-<td class="cuerpo_tabla_izq">2-Cloro-1,1,1,2tetrafluoretano</td>
-<td class="cuerpo_tabla_izq">CF3CHClF(10)</td>
-<td class="cuerpo_tabla_centro">136.5</td>
-<td class="cuerpo_tabla_centro">5.58</td>
-<td class="cuerpo_tabla_centro">0.11</td>
-<td class="cuerpo_tabla_centro">–12</td>
-<td class="cuerpo_tabla_centro">0.056</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">609</td>
-<td class="cuerpo_tabla_centro">0.022</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-124</td>
+<td>2-Cloro-1,1,1,2tetrafluoretano</td>
+<td>CF3CHClF(10)</td>
+<td>136.5</td>
+<td>5.58</td>
+<td>0.11</td>
+<td>–12</td>
+<td>0.056</td>
+<td>ND</td>
+<td>NF</td>
+<td>609</td>
+<td>0.022</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-125</td>
-<td class="cuerpo_tabla_izq">Pentafluoretano</td>
-<td class="cuerpo_tabla_izq">CF3CHF2</td>
-<td class="cuerpo_tabla_centro">120.0</td>
-<td class="cuerpo_tabla_centro">4.91</td>
-<td class="cuerpo_tabla_centro">0.39</td>
-<td class="cuerpo_tabla_centro">–49</td>
-<td class="cuerpo_tabla_centro">0.37</td>
-<td class="cuerpo_tabla_centro">733</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">3500</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-125</td>
+<td>Pentafluoretano</td>
+<td>CF3CHF2</td>
+<td>120.0</td>
+<td>4.91</td>
+<td>0.39</td>
+<td>–49</td>
+<td>0.37</td>
+<td>733</td>
+<td>NF</td>
+<td>3500</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-134a</td>
-<td class="cuerpo_tabla_izq">1,1,1,2-Tetrafluoretano</td>
-<td class="cuerpo_tabla_izq">CF3CH2F(11)</td>
-<td class="cuerpo_tabla_centro">102.0</td>
-<td class="cuerpo_tabla_centro">4.17</td>
-<td class="cuerpo_tabla_centro">0.25</td>
-<td class="cuerpo_tabla_centro">–26</td>
-<td class="cuerpo_tabla_centro">0.21</td>
-<td class="cuerpo_tabla_centro">743</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1 430</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-134a</td>
+<td>1,1,1,2-Tetrafluoretano</td>
+<td>CF3CH2F(11)</td>
+<td>102.0</td>
+<td>4.17</td>
+<td>0.25</td>
+<td>–26</td>
+<td>0.21</td>
+<td>743</td>
+<td>NF</td>
+<td>1 430</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-218</td>
-<td class="cuerpo_tabla_izq">Octofluorpropano</td>
-<td class="cuerpo_tabla_izq">CF3CF2CF3 (11)</td>
-<td class="cuerpo_tabla_centro">188.0</td>
-<td class="cuerpo_tabla_centro">7.69</td>
-<td class="cuerpo_tabla_centro">1.84</td>
-<td class="cuerpo_tabla_centro">–37</td>
-<td class="cuerpo_tabla_centro">0.85</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">8830</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-218</td>
+<td>Octofluorpropano</td>
+<td>CF3CF2CF3 (11)</td>
+<td>188.0</td>
+<td>7.69</td>
+<td>1.84</td>
+<td>–37</td>
+<td>0.85</td>
+<td>ND</td>
+<td>NF</td>
+<td>8830</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-227ea</td>
-<td class="cuerpo_tabla_izq">1,1,1,2,3,3,3-Heptafluorpropano</td>
-<td class="cuerpo_tabla_izq">CF3CHFCF3(11)</td>
-<td class="cuerpo_tabla_centro">170.0</td>
-<td class="cuerpo_tabla_centro">6.95</td>
-<td class="cuerpo_tabla_centro">0.63</td>
-<td class="cuerpo_tabla_centro">–15</td>
-<td class="cuerpo_tabla_centro">0.63</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">3220</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-227ea</td>
+<td>1,1,1,2,3,3,3-Heptafluorpropano</td>
+<td>CF3CHFCF3(11)</td>
+<td>170.0</td>
+<td>6.95</td>
+<td>0.63</td>
+<td>–15</td>
+<td>0.63</td>
+<td>ND</td>
+<td>NF</td>
+<td>3220</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-236fa</td>
-<td class="cuerpo_tabla_izq">1,1,1,3,3,3-Hexafluorpropano</td>
-<td class="cuerpo_tabla_izq">CF3CH2CF3(11)</td>
-<td class="cuerpo_tabla_centro">152.0</td>
-<td class="cuerpo_tabla_centro">6.22</td>
-<td class="cuerpo_tabla_centro">0.59</td>
-<td class="cuerpo_tabla_centro">–1</td>
-<td class="cuerpo_tabla_centro">0.34</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">9810</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-236fa</td>
+<td>1,1,1,3,3,3-Hexafluorpropano</td>
+<td>CF3CH2CF3(11)</td>
+<td>152.0</td>
+<td>6.22</td>
+<td>0.59</td>
+<td>–1</td>
+<td>0.34</td>
+<td>ND</td>
+<td>NF</td>
+<td>9810</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-1233zd(E)</td>
-<td class="cuerpo_tabla_izq">Trans-1-cloro-3,3,3trifluorprop-1-N</td>
-<td class="cuerpo_tabla_izq">CF3CH=CHCl(10)</td>
-<td class="cuerpo_tabla_centro">130.5</td>
-<td class="cuerpo_tabla_centro">5.34</td>
-<td class="cuerpo_tabla_centro">0.086</td>
-<td class="cuerpo_tabla_centro">18.1</td>
-<td class="cuerpo_tabla_centro">0.086</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">4.5</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-1233zd(E)</td>
+<td>Trans-1-cloro-3,3,3trifluorprop-1-N</td>
+<td>CF3CH=CHCl(10)</td>
+<td>130.5</td>
+<td>5.34</td>
+<td>0.086</td>
+<td>18.1</td>
+<td>0.086</td>
+<td>ND</td>
+<td>NF</td>
+<td>4.5</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-C318</td>
-<td class="cuerpo_tabla_izq">Octofluorciclobutano</td>
-<td class="cuerpo_tabla_izq">C4F8(11)</td>
-<td class="cuerpo_tabla_centro">200.0</td>
-<td class="cuerpo_tabla_centro">8.18</td>
-<td class="cuerpo_tabla_centro">0.81</td>
-<td class="cuerpo_tabla_centro">–6</td>
-<td class="cuerpo_tabla_centro">0.65</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">10300</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-C318</td>
+<td>Octofluorciclobutano</td>
+<td>C4F8(11)</td>
+<td>200.0</td>
+<td>8.18</td>
+<td>0.81</td>
+<td>–6</td>
+<td>0.65</td>
+<td>ND</td>
+<td>NF</td>
+<td>10300</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-500</td>
-<td class="cuerpo_tabla_izq">R-12/152a (73.8/26.2)</td>
-<td class="cuerpo_tabla_izq">CCl2F2 + CHF2CH3 (10;11)</td>
-<td class="cuerpo_tabla_centro">99.3</td>
-<td class="cuerpo_tabla_centro">4.06</td>
-<td class="cuerpo_tabla_centro">0.4</td>
-<td class="cuerpo_tabla_centro">–33.5</td>
-<td class="cuerpo_tabla_centro">0.12</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">8077</td>
-<td class="cuerpo_tabla_centro">0.74</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-500</td>
+<td>R-12/152a (73.8/26.2)</td>
+<td>CCl2F2 + CHF2CH3 (10;11)</td>
+<td>99.3</td>
+<td>4.06</td>
+<td>0.4</td>
+<td>–33.5</td>
+<td>0.12</td>
+<td>ND</td>
+<td>NF</td>
+<td>8077</td>
+<td>0.74</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-501</td>
-<td class="cuerpo_tabla_izq">R-22/12 (75/25)</td>
-<td class="cuerpo_tabla_izq">CCl2F2 + CHClF2 (10;11)</td>
-<td class="cuerpo_tabla_centro">93.1</td>
-<td class="cuerpo_tabla_centro">3.81</td>
-<td class="cuerpo_tabla_centro">0.38</td>
-<td class="cuerpo_tabla_centro">–41.0</td>
-<td class="cuerpo_tabla_centro">0.21</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">4083</td>
-<td class="cuerpo_tabla_centro">0.29</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-501</td>
+<td>R-22/12 (75/25)</td>
+<td>CCl2F2 + CHClF2 (10;11)</td>
+<td>93.1</td>
+<td>3.81</td>
+<td>0.38</td>
+<td>–41.0</td>
+<td>0.21</td>
+<td>ND</td>
+<td>NF</td>
+<td>4083</td>
+<td>0.29</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-502</td>
-<td class="cuerpo_tabla_izq">R-22/115 (48.8/51.2)</td>
-<td class="cuerpo_tabla_izq">CHClF2+ CF3CClF2(10;11)</td>
-<td class="cuerpo_tabla_centro">112</td>
-<td class="cuerpo_tabla_centro">4.56</td>
-<td class="cuerpo_tabla_centro">0.45</td>
-<td class="cuerpo_tabla_centro">–45.4</td>
-<td class="cuerpo_tabla_centro">0.33</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">4 657</td>
-<td class="cuerpo_tabla_centro">0.33</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-502</td>
+<td>R-22/115 (48.8/51.2)</td>
+<td>CHClF2+ CF3CClF2(10;11)</td>
+<td>112</td>
+<td>4.56</td>
+<td>0.45</td>
+<td>–45.4</td>
+<td>0.33</td>
+<td>ND</td>
+<td>NF</td>
+<td>4 657</td>
+<td>0.33</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-503</td>
-<td class="cuerpo_tabla_izq">R-23/13 (40.1/59.9)</td>
-<td class="cuerpo_tabla_izq">CHF3+CClF3(10;11)</td>
-<td class="cuerpo_tabla_centro">87.5</td>
-<td class="cuerpo_tabla_centro">3.58</td>
-<td class="cuerpo_tabla_centro">0.35</td>
-<td class="cuerpo_tabla_centro">–88.7</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">14560</td>
-<td class="cuerpo_tabla_centro">0.6</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-503</td>
+<td>R-23/13 (40.1/59.9)</td>
+<td>CHF3+CClF3(10;11)</td>
+<td>87.5</td>
+<td>3.58</td>
+<td>0.35</td>
+<td>–88.7</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>14560</td>
+<td>0.6</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-504</td>
-<td class="cuerpo_tabla_izq">R-32/115 (48.2/51.8)</td>
-<td class="cuerpo_tabla_izq">CH2F2+CClF2CF3 (10;11)</td>
-<td class="cuerpo_tabla_centro">79.2</td>
-<td class="cuerpo_tabla_centro">3.24</td>
-<td class="cuerpo_tabla_centro">0.45</td>
-<td class="cuerpo_tabla_centro">–57</td>
-<td class="cuerpo_tabla_centro">0.45</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">4143</td>
-<td class="cuerpo_tabla_centro">0.31</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-504</td>
+<td>R-32/115 (48.2/51.8)</td>
+<td>CH2F2+CClF2CF3 (10;11)</td>
+<td>79.2</td>
+<td>3.24</td>
+<td>0.45</td>
+<td>–57</td>
+<td>0.45</td>
+<td>ND</td>
+<td>NF</td>
+<td>4143</td>
+<td>0.31</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-507A</td>
-<td class="cuerpo_tabla_izq">R-125/143a (50/50)</td>
-<td class="cuerpo_tabla_izq">CF3CHF2CF3CH3 (11)</td>
-<td class="cuerpo_tabla_centro">98.9</td>
-<td class="cuerpo_tabla_centro">4.04</td>
-<td class="cuerpo_tabla_centro">0.53</td>
-<td class="cuerpo_tabla_centro">–46.7</td>
-<td class="cuerpo_tabla_centro">0.53</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">3985</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-507A</td>
+<td>R-125/143a (50/50)</td>
+<td>CF3CHF2CF3CH3 (11)</td>
+<td>98.9</td>
+<td>4.04</td>
+<td>0.53</td>
+<td>–46.7</td>
+<td>0.53</td>
+<td>ND</td>
+<td>NF</td>
+<td>3985</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-508A</td>
-<td class="cuerpo_tabla_izq">R-23/116 (39/61)</td>
-<td class="cuerpo_tabla_izq">CHF3+C2F6(11)</td>
-<td class="cuerpo_tabla_centro">100.1</td>
-<td class="cuerpo_tabla_centro">4.09</td>
-<td class="cuerpo_tabla_centro">0.23</td>
-<td class="cuerpo_tabla_centro">–86.0</td>
-<td class="cuerpo_tabla_centro">0.23</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">13210</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-508A</td>
+<td>R-23/116 (39/61)</td>
+<td>CHF3+C2F6(11)</td>
+<td>100.1</td>
+<td>4.09</td>
+<td>0.23</td>
+<td>–86.0</td>
+<td>0.23</td>
+<td>ND</td>
+<td>NF</td>
+<td>13210</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-508B</td>
-<td class="cuerpo_tabla_izq">R-23/116 (46/54)</td>
-<td class="cuerpo_tabla_izq">CHF3+C2F6 (11)</td>
-<td class="cuerpo_tabla_centro">95.4</td>
-<td class="cuerpo_tabla_centro">3.90</td>
-<td class="cuerpo_tabla_centro">0.25</td>
-<td class="cuerpo_tabla_centro">–88.3</td>
-<td class="cuerpo_tabla_centro">0.2</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">13400</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-508B</td>
+<td>R-23/116 (46/54)</td>
+<td>CHF3+C2F6 (11)</td>
+<td>95.4</td>
+<td>3.90</td>
+<td>0.25</td>
+<td>–88.3</td>
+<td>0.2</td>
+<td>ND</td>
+<td>NF</td>
+<td>13400</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-509A</td>
-<td class="cuerpo_tabla_izq">-22/218 (44/56)</td>
-<td class="cuerpo_tabla_izq">CHClF2+ C3F8 (10;11)</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">5.07</td>
-<td class="cuerpo_tabla_centro">0.56</td>
-<td class="cuerpo_tabla_centro">–47.0</td>
-<td class="cuerpo_tabla_centro">0.38</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">5741</td>
-<td class="cuerpo_tabla_centro">0.024</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-509A</td>
+<td>-22/218 (44/56)</td>
+<td>CHClF2+ C3F8 (10;11)</td>
+<td>124</td>
+<td>5.07</td>
+<td>0.56</td>
+<td>–47.0</td>
+<td>0.38</td>
+<td>ND</td>
+<td>NF</td>
+<td>5741</td>
+<td>0.024</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R513A</td>
-<td class="cuerpo_tabla_izq">R-134a/1234yf (44/56)</td>
-<td class="cuerpo_tabla_izq">CH2FCF3+CF3CF=CH2 (11)</td>
-<td class="cuerpo_tabla_centro">108.4</td>
-<td class="cuerpo_tabla_centro">4.256</td>
-<td class="cuerpo_tabla_centro">0.319</td>
-<td class="cuerpo_tabla_centro">–29.05</td>
-<td class="cuerpo_tabla_centro">0.319</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">631.4</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R513A</td>
+<td>R-134a/1234yf (44/56)</td>
+<td>CH2FCF3+CF3CF=CH2 (11)</td>
+<td>108.4</td>
+<td>4.256</td>
+<td>0.319</td>
+<td>–29.05</td>
+<td>0.319</td>
+<td>ND</td>
+<td>NF</td>
+<td>631.4</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-718</td>
-<td class="cuerpo_tabla_izq">Agua</td>
-<td class="cuerpo_tabla_izq">H2O</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-718</td>
+<td>Agua</td>
+<td>H2O</td>
+<td>18</td>
+<td> </td>
+<td>ND</td>
+<td>100</td>
+<td>NA</td>
+<td>NA</td>
+<td>NF</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-744</td>
-<td class="cuerpo_tabla_izq">Dióxido de carbono</td>
-<td class="cuerpo_tabla_izq">CO2</td>
-<td class="cuerpo_tabla_centro">44.0</td>
-<td class="cuerpo_tabla_centro">1.80</td>
-<td class="cuerpo_tabla_centro">0.1</td>
-<td class="cuerpo_tabla_centro">–78</td>
-<td class="cuerpo_tabla_centro">0.072</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-744</td>
+<td>Dióxido de carbono</td>
+<td>CO2</td>
+<td>44.0</td>
+<td>1.80</td>
+<td>0.1</td>
+<td>–78</td>
+<td>0.072</td>
+<td>ND</td>
+<td>NF</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_centro">R-1224yd(Z)</td>
-<td class="cuerpo_tabla_izq">(Z)-1-cloro-2,3,3,3-tetrafluoroprop-1-eno</td>
-<td class="cuerpo_tabla_izq">cis-CF3CF=CHCl</td>
-<td class="cuerpo_tabla_centro">148,50</td>
-<td class="cuerpo_tabla_centro">6,325</td>
-<td class="cuerpo_tabla_centro">0,364</td>
-<td class="cuerpo_tabla_centro">14,62</td>
-<td class="cuerpo_tabla_centro">0,3640</td>
-<td class="cuerpo_tabla_centro">543</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">0,00023</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-1224yd(Z)</td>
+<td>(Z)-1-cloro-2,3,3,3-tetrafluoroprop-1-eno</td>
+<td>cis-CF3CF=CHCl</td>
+<td>148,50</td>
+<td>6,325</td>
+<td>0,364</td>
+<td>14,62</td>
+<td>0,3640</td>
+<td>543</td>
+<td>NF</td>
+<td>1</td>
+<td>0,00023</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-1336mzz(E)</td>
-<td class="cuerpo_tabla_izq">(E)-1,1,1,4,4,4-hexafluorobut-2-eno</td>
-<td class="cuerpo_tabla_izq">trans-CF3CH=CHCF3</td>
-<td class="cuerpo_tabla_centro">164,10</td>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">0,048</td>
-<td class="cuerpo_tabla_centro">7,43</td>
-<td class="cuerpo_tabla_centro">0,0482</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">17,9</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>1</td>
+<td>A1</td>
+<td>R-1336mzz(E)</td>
+<td>(E)-1,1,1,4,4,4-hexafluorobut-2-eno</td>
+<td>trans-CF3CH=CHCF3</td>
+<td>164,10</td>
+<td>NA</td>
+<td>0,048</td>
+<td>7,43</td>
+<td>0,0482</td>
+<td>ND</td>
+<td>NF</td>
+<td>17,9</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">R-1336mzz(Z)</td>
-<td class="cuerpo_tabla_izq">(Z)-1,1,1,4,4,4-hexafluorobut-2-eno</td>
-<td class="cuerpo_tabla_izq">cis-CF3CH=CHCF3</td>
-<td class="cuerpo_tabla_centro">164,10</td>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">0,087</td>
-<td class="cuerpo_tabla_centro">33,45</td>
-<td class="cuerpo_tabla_centro">0,0872</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1</td>
+<td>R-1336mzz(Z)</td>
+<td>(Z)-1,1,1,4,4,4-hexafluorobut-2-eno</td>
+<td>cis-CF3CH=CHCF3</td>
+<td>164,10</td>
+<td>NA</td>
+<td>0,087</td>
+<td>33,45</td>
+<td>0,0872</td>
+<td>ND</td>
+<td>NF</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-401A</td>
-<td class="cuerpo_tabla_izq">R-22/152a/124 (53/13/34)</td>
-<td class="cuerpo_tabla_izq">CHClF2+ CHF2CH3+CF3CHClF (10;11)</td>
-<td class="cuerpo_tabla_centro">94.4</td>
-<td class="cuerpo_tabla_centro">3.86</td>
-<td class="cuerpo_tabla_centro">0.3</td>
-<td class="cuerpo_tabla_centro">33.4 a –27.8</td>
-<td class="cuerpo_tabla_centro">0.10</td>
-<td class="cuerpo_tabla_centro">681</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1182</td>
-<td class="cuerpo_tabla_centro">0.037</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-401A</td>
+<td>R-22/152a/124 (53/13/34)</td>
+<td>CHClF2+ CHF2CH3+CF3CHClF (10;11)</td>
+<td>94.4</td>
+<td>3.86</td>
+<td>0.3</td>
+<td>33.4 a –27.8</td>
+<td>0.10</td>
+<td>681</td>
+<td>NF</td>
+<td>1182</td>
+<td>0.037</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-401B</td>
-<td class="cuerpo_tabla_izq">R-22/152a/124 (61/11/28)</td>
-<td class="cuerpo_tabla_izq">CHClF2+ CHF2CH3 CF3CHClF (10;11)</td>
-<td class="cuerpo_tabla_centro">92.8</td>
-<td class="cuerpo_tabla_centro">3.80</td>
-<td class="cuerpo_tabla_centro">0.34</td>
-<td class="cuerpo_tabla_centro">–34.9 a –29.6</td>
-<td class="cuerpo_tabla_centro">0.11</td>
-<td class="cuerpo_tabla_centro">685</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1 288</td>
-<td class="cuerpo_tabla_centro">0.04</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-401B</td>
+<td>R-22/152a/124 (61/11/28)</td>
+<td>CHClF2+ CHF2CH3 CF3CHClF (10;11)</td>
+<td>92.8</td>
+<td>3.80</td>
+<td>0.34</td>
+<td>–34.9 a –29.6</td>
+<td>0.11</td>
+<td>685</td>
+<td>NF</td>
+<td>1 288</td>
+<td>0.04</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-401C</td>
-<td class="cuerpo_tabla_izq">R-22/152a/124 (33/15/52)</td>
-<td class="cuerpo_tabla_izq">CHClF2+ CHF2CH3+ CF3CHClF (10;11)</td>
-<td class="cuerpo_tabla_centro">101</td>
-<td class="cuerpo_tabla_centro">4.13</td>
-<td class="cuerpo_tabla_centro">0.24</td>
-<td class="cuerpo_tabla_centro">–28.9 a –23.3</td>
-<td class="cuerpo_tabla_centro">0.083</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">932.6</td>
-<td class="cuerpo_tabla_centro">0.03</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-401C</td>
+<td>R-22/152a/124 (33/15/52)</td>
+<td>CHClF2+ CHF2CH3+ CF3CHClF (10;11)</td>
+<td>101</td>
+<td>4.13</td>
+<td>0.24</td>
+<td>–28.9 a –23.3</td>
+<td>0.083</td>
+<td>ND</td>
+<td>NF</td>
+<td>932.6</td>
+<td>0.03</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-402A</td>
-<td class="cuerpo_tabla_izq">R-125/290/22 (60/2/38)</td>
-<td class="cuerpo_tabla_izq">CF3CHF2+ C3H8+ CHClF2 (10;11)</td>
-<td class="cuerpo_tabla_centro">101.5</td>
-<td class="cuerpo_tabla_centro">4.16</td>
-<td class="cuerpo_tabla_centro">0.33</td>
-<td class="cuerpo_tabla_centro">–49.2 a –47.0</td>
-<td class="cuerpo_tabla_centro">0.27</td>
-<td class="cuerpo_tabla_centro">723</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2788</td>
-<td class="cuerpo_tabla_centro">0.021</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-402A</td>
+<td>R-125/290/22 (60/2/38)</td>
+<td>CF3CHF2+ C3H8+ CHClF2 (10;11)</td>
+<td>101.5</td>
+<td>4.16</td>
+<td>0.33</td>
+<td>–49.2 a –47.0</td>
+<td>0.27</td>
+<td>723</td>
+<td>NF</td>
+<td>2788</td>
+<td>0.021</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-402B</td>
-<td class="cuerpo_tabla_izq">R-125/290/22 (38/2/60)</td>
-<td class="cuerpo_tabla_izq">CF3CHF2+ C3H8+ CHClF2 (10;11)</td>
-<td class="cuerpo_tabla_centro">94.7</td>
-<td class="cuerpo_tabla_centro">3.87</td>
-<td class="cuerpo_tabla_centro">0.32</td>
-<td class="cuerpo_tabla_centro">–47.2 a –44.8</td>
-<td class="cuerpo_tabla_centro">0.24</td>
-<td class="cuerpo_tabla_centro">641</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2416</td>
-<td class="cuerpo_tabla_centro">0.033</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-402B</td>
+<td>R-125/290/22 (38/2/60)</td>
+<td>CF3CHF2+ C3H8+ CHClF2 (10;11)</td>
+<td>94.7</td>
+<td>3.87</td>
+<td>0.32</td>
+<td>–47.2 a –44.8</td>
+<td>0.24</td>
+<td>641</td>
+<td>NF</td>
+<td>2416</td>
+<td>0.033</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-403A</td>
-<td class="cuerpo_tabla_izq">R-290/22/218 (5/75/20)</td>
-<td class="cuerpo_tabla_izq">C3H8+CHClF2+ C3F8 (10;11)</td>
-<td class="cuerpo_tabla_centro">92</td>
-<td class="cuerpo_tabla_centro">3.76</td>
-<td class="cuerpo_tabla_centro">0.33</td>
-<td class="cuerpo_tabla_centro">–47.7 a –44.3</td>
-<td class="cuerpo_tabla_centro">0.24</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0.80</td>
-<td class="cuerpo_tabla_centro">3124</td>
-<td class="cuerpo_tabla_centro">0.041</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-403A</td>
+<td>R-290/22/218 (5/75/20)</td>
+<td>C3H8+CHClF2+ C3F8 (10;11)</td>
+<td>92</td>
+<td>3.76</td>
+<td>0.33</td>
+<td>–47.7 a –44.3</td>
+<td>0.24</td>
+<td>ND</td>
+<td>0.80</td>
+<td>3124</td>
+<td>0.041</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-403B</td>
-<td class="cuerpo_tabla_izq">R-290/22/218 (5/56/39)</td>
-<td class="cuerpo_tabla_izq">C3H8+CHClF2+ C3F8 (10;11)</td>
-<td class="cuerpo_tabla_centro">103.3</td>
-<td class="cuerpo_tabla_centro">4.22</td>
-<td class="cuerpo_tabla_centro">0.41</td>
-<td class="cuerpo_tabla_centro">–49.1 a –46.84</td>
-<td class="cuerpo_tabla_centro">0.29</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">4457</td>
-<td class="cuerpo_tabla_centro">0.031</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-403B</td>
+<td>R-290/22/218 (5/56/39)</td>
+<td>C3H8+CHClF2+ C3F8 (10;11)</td>
+<td>103.3</td>
+<td>4.22</td>
+<td>0.41</td>
+<td>–49.1 a –46.84</td>
+<td>0.29</td>
+<td>ND</td>
+<td>NF</td>
+<td>4457</td>
+<td>0.031</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1 / A1</td>
-<td class="cuerpo_tabla_izq">R-404A</td>
-<td class="cuerpo_tabla_izq">R-125/143a/134a (44/52/4)</td>
-<td class="cuerpo_tabla_izq">CF3CHF2+ CF3CH3+ CF3CH2F (11)</td>
-<td class="cuerpo_tabla_centro">97.6</td>
-<td class="cuerpo_tabla_centro">3.99</td>
-<td class="cuerpo_tabla_centro">0.52</td>
-<td class="cuerpo_tabla_centro">–46.5 a –45.7</td>
-<td class="cuerpo_tabla_centro">0.52</td>
-<td class="cuerpo_tabla_centro">728</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">3 922</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1 / A1</td>
+<td>R-404A</td>
+<td>R-125/143a/134a (44/52/4)</td>
+<td>CF3CHF2+ CF3CH3+ CF3CH2F (11)</td>
+<td>97.6</td>
+<td>3.99</td>
+<td>0.52</td>
+<td>–46.5 a –45.7</td>
+<td>0.52</td>
+<td>728</td>
+<td>NF</td>
+<td>3 922</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1 / A1</td>
-<td class="cuerpo_tabla_izq">R-405A</td>
-<td class="cuerpo_tabla_izq">R-22/152a/142b/C318 (45/7/5.5/42.5)</td>
-<td class="cuerpo_tabla_izq">CHClF2+ CHF2CH3+ CH3CClF2+ C4F8 (10;11)</td>
-<td class="cuerpo_tabla_centro">111.9</td>
-<td class="cuerpo_tabla_centro">4.58</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">–32.8 a –24.4</td>
-<td class="cuerpo_tabla_centro">0.26</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">5328</td>
-<td class="cuerpo_tabla_centro">0.028</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1 / A1</td>
+<td>R-405A</td>
+<td>R-22/152a/142b/C318 (45/7/5.5/42.5)</td>
+<td>CHClF2+ CHF2CH3+ CH3CClF2+ C4F8 (10;11)</td>
+<td>111.9</td>
+<td>4.58</td>
+<td>ND</td>
+<td>–32.8 a –24.4</td>
+<td>0.26</td>
+<td>ND</td>
+<td>ND</td>
+<td>5328</td>
+<td>0.028</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1 / A1</td>
-<td class="cuerpo_tabla_izq">R-407A</td>
-<td class="cuerpo_tabla_izq">R-32/125/134a (20/40/40)</td>
-<td class="cuerpo_tabla_izq">CH2F2+ CF3CHF2+ CF3CH2F (11)</td>
-<td class="cuerpo_tabla_centro">90.1</td>
-<td class="cuerpo_tabla_centro">3.68</td>
-<td class="cuerpo_tabla_centro">0.33</td>
-<td class="cuerpo_tabla_centro">–45.2 a –38.7</td>
-<td class="cuerpo_tabla_centro">0.31</td>
-<td class="cuerpo_tabla_centro">685</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2107</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1 / A1</td>
+<td>R-407A</td>
+<td>R-32/125/134a (20/40/40)</td>
+<td>CH2F2+ CF3CHF2+ CF3CH2F (11)</td>
+<td>90.1</td>
+<td>3.68</td>
+<td>0.33</td>
+<td>–45.2 a –38.7</td>
+<td>0.31</td>
+<td>685</td>
+<td>NF</td>
+<td>2107</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1 / A1</td>
-<td class="cuerpo_tabla_izq">R-407B</td>
-<td class="cuerpo_tabla_izq">R-32/125/134a (10/70/20)</td>
-<td class="cuerpo_tabla_izq">CH2F2+ CF3CHF2+ CF3CH2F (11)</td>
-<td class="cuerpo_tabla_centro">102.9</td>
-<td class="cuerpo_tabla_centro">4.21</td>
-<td class="cuerpo_tabla_centro">0.35</td>
-<td class="cuerpo_tabla_centro">–46.8 a –42.4</td>
-<td class="cuerpo_tabla_centro">0.33</td>
-<td class="cuerpo_tabla_centro">703</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2804</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1 / A1</td>
+<td>R-407B</td>
+<td>R-32/125/134a (10/70/20)</td>
+<td>CH2F2+ CF3CHF2+ CF3CH2F (11)</td>
+<td>102.9</td>
+<td>4.21</td>
+<td>0.35</td>
+<td>–46.8 a –42.4</td>
+<td>0.33</td>
+<td>703</td>
+<td>NF</td>
+<td>2804</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1 / A1</td>
-<td class="cuerpo_tabla_izq">R-407C</td>
-<td class="cuerpo_tabla_izq">R-32/125/134a (23/25/52)</td>
-<td class="cuerpo_tabla_izq">CH2F2+ CF3CHF2+ CF3CH2F (11)</td>
-<td class="cuerpo_tabla_centro">86.2</td>
-<td class="cuerpo_tabla_centro">3.53</td>
-<td class="cuerpo_tabla_centro">0.31</td>
-<td class="cuerpo_tabla_centro">–43.8 a –36.7</td>
-<td class="cuerpo_tabla_centro">0.29</td>
-<td class="cuerpo_tabla_centro">704</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1774</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1 / A1</td>
+<td>R-407C</td>
+<td>R-32/125/134a (23/25/52)</td>
+<td>CH2F2+ CF3CHF2+ CF3CH2F (11)</td>
+<td>86.2</td>
+<td>3.53</td>
+<td>0.31</td>
+<td>–43.8 a –36.7</td>
+<td>0.29</td>
+<td>704</td>
+<td>NF</td>
+<td>1774</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-407D</td>
-<td class="cuerpo_tabla_izq">R-32/125/134a (15/15/70)</td>
-<td class="cuerpo_tabla_izq">CH2F2+ CF3CHF2+ CF3CH2F (11)</td>
-<td class="cuerpo_tabla_centro">90.9</td>
-<td class="cuerpo_tabla_centro">3.72</td>
-<td class="cuerpo_tabla_centro">0.41</td>
-<td class="cuerpo_tabla_centro">–39.4 a –32.7</td>
-<td class="cuerpo_tabla_centro">0.25</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1627</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-407D</td>
+<td>R-32/125/134a (15/15/70)</td>
+<td>CH2F2+ CF3CHF2+ CF3CH2F (11)</td>
+<td>90.9</td>
+<td>3.72</td>
+<td>0.41</td>
+<td>–39.4 a –32.7</td>
+<td>0.25</td>
+<td>ND</td>
+<td>NF</td>
+<td>1627</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-407E</td>
-<td class="cuerpo_tabla_izq">R-32/125/134a (25/15/60)</td>
-<td class="cuerpo_tabla_izq">CH2F2+ CF3CHF2+ CF3CH2F (11)</td>
-<td class="cuerpo_tabla_centro">83.8</td>
-<td class="cuerpo_tabla_centro">3.43</td>
-<td class="cuerpo_tabla_centro">0.40</td>
-<td class="cuerpo_tabla_centro">–42.8 a –35.6</td>
-<td class="cuerpo_tabla_centro">0.27</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1552</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-407E</td>
+<td>R-32/125/134a (25/15/60)</td>
+<td>CH2F2+ CF3CHF2+ CF3CH2F (11)</td>
+<td>83.8</td>
+<td>3.43</td>
+<td>0.40</td>
+<td>–42.8 a –35.6</td>
+<td>0.27</td>
+<td>ND</td>
+<td>NF</td>
+<td>1552</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-407F</td>
-<td class="cuerpo_tabla_izq">R-32/125/134a (30/30/40)</td>
-<td class="cuerpo_tabla_izq">CH2F2+ CF3CHF2+ CF3CH2F (11)</td>
-<td class="cuerpo_tabla_centro">82.1</td>
-<td class="cuerpo_tabla_centro">3.36</td>
-<td class="cuerpo_tabla_centro">0.32</td>
-<td class="cuerpo_tabla_centro">–46.1 a –39.7</td>
-<td class="cuerpo_tabla_centro">0.32</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1825</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-407F</td>
+<td>R-32/125/134a (30/30/40)</td>
+<td>CH2F2+ CF3CHF2+ CF3CH2F (11)</td>
+<td>82.1</td>
+<td>3.36</td>
+<td>0.32</td>
+<td>–46.1 a –39.7</td>
+<td>0.32</td>
+<td>ND</td>
+<td>NF</td>
+<td>1825</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-407H</td>
-<td class="cuerpo_tabla_izq">R-32/125/134a (32.5/15.0/52.5)</td>
-<td class="cuerpo_tabla_izq">CH2F2 / CHF2-CF3 / CF3CH2F (11)</td>
-<td class="cuerpo_tabla_centro">79,099</td>
-<td class="cuerpo_tabla_centro">42.03</td>
-<td class="cuerpo_tabla_centro">0,300</td>
-<td class="cuerpo_tabla_centro">–44,7 a –37,6</td>
-<td class="cuerpo_tabla_centro">0,298</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1495,13</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-407H</td>
+<td>R-32/125/134a (32.5/15.0/52.5)</td>
+<td>CH2F2 / CHF2-CF3 / CF3CH2F (11)</td>
+<td>79,099</td>
+<td>42.03</td>
+<td>0,300</td>
+<td>–44,7 a –37,6</td>
+<td>0,298</td>
+<td>ND</td>
+<td>NF</td>
+<td>1495,13</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1 / A1</td>
-<td class="cuerpo_tabla_izq">R-408A</td>
-<td class="cuerpo_tabla_izq">R-125/143a/22 (7/46/47)</td>
-<td class="cuerpo_tabla_izq">CF3CHF2+ CF3CH3+ CHClF2 (10;11)</td>
-<td class="cuerpo_tabla_centro">87.0</td>
-<td class="cuerpo_tabla_centro">3.56</td>
-<td class="cuerpo_tabla_centro">0.41</td>
-<td class="cuerpo_tabla_centro">44.6 a –44.1</td>
-<td class="cuerpo_tabla_centro">0.33</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">3152</td>
-<td class="cuerpo_tabla_centro">0.026</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1 / A1</td>
+<td>R-408A</td>
+<td>R-125/143a/22 (7/46/47)</td>
+<td>CF3CHF2+ CF3CH3+ CHClF2 (10;11)</td>
+<td>87.0</td>
+<td>3.56</td>
+<td>0.41</td>
+<td>44.6 a –44.1</td>
+<td>0.33</td>
+<td>ND</td>
+<td>NF</td>
+<td>3152</td>
+<td>0.026</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1 / A1</td>
-<td class="cuerpo_tabla_izq">R-409A</td>
-<td class="cuerpo_tabla_izq">R-22/124/142b (60/25/15)</td>
-<td class="cuerpo_tabla_izq">CHClF2+ CF3CHClF+ CH3CClF2 (10;11)</td>
-<td class="cuerpo_tabla_centro">97.5</td>
-<td class="cuerpo_tabla_centro">3.98</td>
-<td class="cuerpo_tabla_centro">0.16</td>
-<td class="cuerpo_tabla_centro">–34.7 a –26.3</td>
-<td class="cuerpo_tabla_centro">0.12</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1 585</td>
-<td class="cuerpo_tabla_centro">0.048</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1 / A1</td>
+<td>R-409A</td>
+<td>R-22/124/142b (60/25/15)</td>
+<td>CHClF2+ CF3CHClF+ CH3CClF2 (10;11)</td>
+<td>97.5</td>
+<td>3.98</td>
+<td>0.16</td>
+<td>–34.7 a –26.3</td>
+<td>0.12</td>
+<td>ND</td>
+<td>NF</td>
+<td>1 585</td>
+<td>0.048</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1 / A1</td>
-<td class="cuerpo_tabla_izq">R-409B</td>
-<td class="cuerpo_tabla_izq">R-22/124/142b (65/25/10)</td>
-<td class="cuerpo_tabla_izq">CHClF2+ CF3CHClF+ CH3CClF2 (10;11)</td>
-<td class="cuerpo_tabla_centro">96.7</td>
-<td class="cuerpo_tabla_centro">3.95</td>
-<td class="cuerpo_tabla_centro">0.17</td>
-<td class="cuerpo_tabla_centro">–35.8 a –28.2</td>
-<td class="cuerpo_tabla_centro">0.12</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1 560</td>
-<td class="cuerpo_tabla_centro">0.048</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1 / A1</td>
+<td>R-409B</td>
+<td>R-22/124/142b (65/25/10)</td>
+<td>CHClF2+ CF3CHClF+ CH3CClF2 (10;11)</td>
+<td>96.7</td>
+<td>3.95</td>
+<td>0.17</td>
+<td>–35.8 a –28.2</td>
+<td>0.12</td>
+<td>ND</td>
+<td>NF</td>
+<td>1 560</td>
+<td>0.048</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1 / A1</td>
-<td class="cuerpo_tabla_izq">R-410A</td>
-<td class="cuerpo_tabla_izq">R-32/125 (50/50</td>
-<td class="cuerpo_tabla_izq">CH2F2+ CF3CHF2 (11)</td>
-<td class="cuerpo_tabla_centro">72.6</td>
-<td class="cuerpo_tabla_centro">2.97</td>
-<td class="cuerpo_tabla_centro">0.44</td>
-<td class="cuerpo_tabla_centro">–51.6 a –51.5</td>
-<td class="cuerpo_tabla_centro">0.42</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2088</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1 / A1</td>
+<td>R-410A</td>
+<td>R-32/125 (50/50</td>
+<td>CH2F2+ CF3CHF2 (11)</td>
+<td>72.6</td>
+<td>2.97</td>
+<td>0.44</td>
+<td>–51.6 a –51.5</td>
+<td>0.42</td>
+<td>ND</td>
+<td>NF</td>
+<td>2088</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1 / A1</td>
-<td class="cuerpo_tabla_izq">R-410B</td>
-<td class="cuerpo_tabla_izq">R-32/125 (45/55)</td>
-<td class="cuerpo_tabla_izq">CH2F2+ CF3CHF2 (11)</td>
-<td class="cuerpo_tabla_centro">75.5</td>
-<td class="cuerpo_tabla_centro">3.09</td>
-<td class="cuerpo_tabla_centro">0.43</td>
-<td class="cuerpo_tabla_centro">–51.5 a –51.4</td>
-<td class="cuerpo_tabla_centro">0.43</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2229</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1 / A1</td>
+<td>R-410B</td>
+<td>R-32/125 (45/55)</td>
+<td>CH2F2+ CF3CHF2 (11)</td>
+<td>75.5</td>
+<td>3.09</td>
+<td>0.43</td>
+<td>–51.5 a –51.4</td>
+<td>0.43</td>
+<td>ND</td>
+<td>NF</td>
+<td>2229</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R<sup>(1)</sup></td>
-<td class="cuerpo_tabla_izq">R-22/124/600 (50/47/3)</td>
-<td class="cuerpo_tabla_izq">CHClF2+ CF3CHClF+ C4H10 (10;11)</td>
-<td class="cuerpo_tabla_centro">102.7</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">0.45</td>
-<td class="cuerpo_tabla_centro">–34.1</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1 191.35</td>
-<td class="cuerpo_tabla_centro">0.034</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R<sup>(1)</sup></td>
+<td>R-22/124/600 (50/47/3)</td>
+<td>CHClF2+ CF3CHClF+ C4H10 (10;11)</td>
+<td>102.7</td>
+<td>X</td>
+<td>0.45</td>
+<td>–34.1</td>
+<td>X</td>
+<td>ND</td>
+<td>NF</td>
+<td>1 191.35</td>
+<td>0.034</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R<sup>(1)</sup></td>
-<td class="cuerpo_tabla_izq">R-125/143a /290/22 (42/6/2/50)</td>
-<td class="cuerpo_tabla_izq">CF3CHF2+ CF3CH3+ C3H8+CHClF2 (10;11)</td>
-<td class="cuerpo_tabla_centro">95.6</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">0.41</td>
-<td class="cuerpo_tabla_centro">–45.6</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2643.26</td>
-<td class="cuerpo_tabla_centro">0.02</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R<sup>(1)</sup></td>
+<td>R-125/143a /290/22 (42/6/2/50)</td>
+<td>CF3CHF2+ CF3CH3+ C3H8+CHClF2 (10;11)</td>
+<td>95.6</td>
+<td>X</td>
+<td>0.41</td>
+<td>–45.6</td>
+<td>X</td>
+<td>ND</td>
+<td>NF</td>
+<td>2643.26</td>
+<td>0.02</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-414A</td>
-<td class="cuerpo_tabla_izq">R-22/124/600a/142b (51.0/28.5/4.0/16.5)</td>
-<td class="cuerpo_tabla_izq">CHClF2+CF3CHClF+CH(CH3)3+CH3CClF2 (10;11)</td>
-<td class="cuerpo_tabla_centro">97.0</td>
-<td class="cuerpo_tabla_centro">3.96</td>
-<td class="cuerpo_tabla_centro">0.10</td>
-<td class="cuerpo_tabla_centro">–33.2 a –24.7</td>
-<td class="cuerpo_tabla_centro">0.10</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1478</td>
-<td class="cuerpo_tabla_centro">0.045</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-414A</td>
+<td>R-22/124/600a/142b (51.0/28.5/4.0/16.5)</td>
+<td>CHClF2+CF3CHClF+CH(CH3)3+CH3CClF2 (10;11)</td>
+<td>97.0</td>
+<td>3.96</td>
+<td>0.10</td>
+<td>–33.2 a –24.7</td>
+<td>0.10</td>
+<td>ND</td>
+<td>NF</td>
+<td>1478</td>
+<td>0.045</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-414B</td>
-<td class="cuerpo_tabla_izq">R-22/124/600a/142b (50.0/39.0/1.5/9.5)</td>
-<td class="cuerpo_tabla_izq">CHClF2+CF3CHClF+CH(CH3)3+CH3CClF2 (10;11)</td>
-<td class="cuerpo_tabla_centro">101.6</td>
-<td class="cuerpo_tabla_centro">3.86</td>
-<td class="cuerpo_tabla_centro">0.096</td>
-<td class="cuerpo_tabla_centro">–33.2 a –24.7</td>
-<td class="cuerpo_tabla_centro">0.096</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1362</td>
-<td class="cuerpo_tabla_centro">0.042</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-414B</td>
+<td>R-22/124/600a/142b (50.0/39.0/1.5/9.5)</td>
+<td>CHClF2+CF3CHClF+CH(CH3)3+CH3CClF2 (10;11)</td>
+<td>101.6</td>
+<td>3.86</td>
+<td>0.096</td>
+<td>–33.2 a –24.7</td>
+<td>0.096</td>
+<td>ND</td>
+<td>NF</td>
+<td>1362</td>
+<td>0.042</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-416A</td>
-<td class="cuerpo_tabla_izq">R-134a/124/600 (59.0/39.5/1.5)</td>
-<td class="cuerpo_tabla_izq">CF3CH2F+ CF3CHClF+ C4H10 (10;11)</td>
-<td class="cuerpo_tabla_centro">111.9</td>
-<td class="cuerpo_tabla_centro">4.58</td>
-<td class="cuerpo_tabla_centro">0.064</td>
-<td class="cuerpo_tabla_centro">–23.9 a –22.1</td>
-<td class="cuerpo_tabla_centro">0.064</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1084</td>
-<td class="cuerpo_tabla_centro">0.009</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-416A</td>
+<td>R-134a/124/600 (59.0/39.5/1.5)</td>
+<td>CF3CH2F+ CF3CHClF+ C4H10 (10;11)</td>
+<td>111.9</td>
+<td>4.58</td>
+<td>0.064</td>
+<td>–23.9 a –22.1</td>
+<td>0.064</td>
+<td>ND</td>
+<td>NF</td>
+<td>1084</td>
+<td>0.009</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-417A</td>
-<td class="cuerpo_tabla_izq">R-125/134a/600 (46.6/50.0/3.4)</td>
-<td class="cuerpo_tabla_izq">CF3CHF2+ CF3CH2F+ C4H10 (11)</td>
-<td class="cuerpo_tabla_centro">106.7</td>
-<td class="cuerpo_tabla_centro">4.36</td>
-<td class="cuerpo_tabla_centro">0.15</td>
-<td class="cuerpo_tabla_centro">–38.0 a –32.9</td>
-<td class="cuerpo_tabla_centro">0.057</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2346</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-417A</td>
+<td>R-125/134a/600 (46.6/50.0/3.4)</td>
+<td>CF3CHF2+ CF3CH2F+ C4H10 (11)</td>
+<td>106.7</td>
+<td>4.36</td>
+<td>0.15</td>
+<td>–38.0 a –32.9</td>
+<td>0.057</td>
+<td>ND</td>
+<td>NF</td>
+<td>2346</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A/A1</td>
-<td class="cuerpo_tabla_izq">R-417B</td>
-<td class="cuerpo_tabla_izq">R-125/134a/600 (79.0/18.3/2,7)</td>
-<td class="cuerpo_tabla_izq">CF3CHF2+ CF3CH2F+ C4H10 (11)</td>
-<td class="cuerpo_tabla_centro">113.1</td>
-<td class="cuerpo_tabla_centro">4.63</td>
-<td class="cuerpo_tabla_centro">0.069</td>
-<td class="cuerpo_tabla_centro">–44,9 a –41,5</td>
-<td class="cuerpo_tabla_centro">0.069</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">3027</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A/A1</td>
+<td>R-417B</td>
+<td>R-125/134a/600 (79.0/18.3/2,7)</td>
+<td>CF3CHF2+ CF3CH2F+ C4H10 (11)</td>
+<td>113.1</td>
+<td>4.63</td>
+<td>0.069</td>
+<td>–44,9 a –41,5</td>
+<td>0.069</td>
+<td>ND</td>
+<td>NF</td>
+<td>3027</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-417C</td>
-<td class="cuerpo_tabla_izq">R-125/134a/600 (19.5/78.8/1.7)</td>
-<td class="cuerpo_tabla_izq">CF3CHF2+ CF3CH2F+ C4H10 (11)</td>
-<td class="cuerpo_tabla_centro">
+<td>1</td>
+<td>A1/A1</td>
+<td>R-417C</td>
+<td>R-125/134a/600 (19.5/78.8/1.7)</td>
+<td>CF3CHF2+ CF3CH2F+ C4H10 (11)</td>
+<td>
 <em>103.7</em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>4.24</em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>0.087</em>
 </td>
-<td class="cuerpo_tabla_centro"><em>–32.7 a </em>–<em>29.2</em></td>
-<td class="cuerpo_tabla_centro">
+<td><em>–32.7 a </em>–<em>29.2</em></td>
+<td>
 <em>0.097</em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>ND</em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>NF</em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>1809</em>
 </td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">
+<td>0</td>
+<td>
 <em>2</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-119A</td>
-<td class="cuerpo_tabla_izq">R-125/290/218 (86/5/9)</td>
-<td class="cuerpo_tabla_izq">CF3CHF2+ C3H8+ C3F8 (11)</td>
-<td class="cuerpo_tabla_centro">
+<td>1</td>
+<td>A1/A1</td>
+<td>R-119A</td>
+<td>R-125/290/218 (86/5/9)</td>
+<td>CF3CHF2+ C3H8+ C3F8 (11)</td>
+<td>
 <em>113.9 </em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>1,18 </em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>0.49 </em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>–54</em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>ND </em>
 </td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">
+<td>ND</td>
+<td>
 <em>NF </em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>3804.85 </em>
 </td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">
+<td>0</td>
+<td>
 <em>2 </em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-420A</td>
-<td class="cuerpo_tabla_izq">R-134a/142b (88.0/12.0)</td>
-<td class="cuerpo_tabla_izq">CF3CH2F+CClF2CH3 (10;11)</td>
-<td class="cuerpo_tabla_centro">
+<td>1</td>
+<td>A1/A1</td>
+<td>R-420A</td>
+<td>R-134a/142b (88.0/12.0)</td>
+<td>CF3CH2F+CClF2CH3 (10;11)</td>
+<td>
 <em>101.9 </em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>4.16 </em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>0.18 </em>
 </td>
-<td class="cuerpo_tabla_centro"><em>–24.9 a </em>–<em>24.2 </em></td>
-<td class="cuerpo_tabla_centro">
+<td><em>–24.9 a </em>–<em>24.2 </em></td>
+<td>
 <em>0.18 </em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>ND </em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>NF </em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>1536 </em>
 </td>
-<td class="cuerpo_tabla_centro">0.005</td>
-<td class="cuerpo_tabla_centro">
+<td>0.005</td>
+<td>
 <em>2 </em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-421A</td>
-<td class="cuerpo_tabla_izq">R-125/134a (58.0/42.0)</td>
-<td class="cuerpo_tabla_izq">CF3CHF2+CF3CH2F (11)</td>
-<td class="cuerpo_tabla_centro">
+<td>1</td>
+<td>A1/A1</td>
+<td>R-421A</td>
+<td>R-125/134a (58.0/42.0)</td>
+<td>CF3CHF2+CF3CH2F (11)</td>
+<td>
 <em>111.8 </em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>4.57 </em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>0.28 </em>
 </td>
-<td class="cuerpo_tabla_centro"><em>–40.8 a </em>–<em>35.5 </em></td>
-<td class="cuerpo_tabla_centro">
+<td><em>–40.8 a </em>–<em>35.5 </em></td>
+<td>
 <em>0.28 </em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>ND </em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>NF </em>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>2631 </em>
 </td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">
+<td>0</td>
+<td>
 <em>2 </em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-421B</td>
-<td class="cuerpo_tabla_izq">R-125/134a (58/42)</td>
-<td class="cuerpo_tabla_izq">CF3CHF2+CF3CH2F (11)</td>
-<td class="cuerpo_tabla_centro">116.9</td>
-<td class="cuerpo_tabla_centro">4.78</td>
-<td class="cuerpo_tabla_centro">0.33</td>
-<td class="cuerpo_tabla_centro">–45.7 a –42.6</td>
-<td class="cuerpo_tabla_centro">0.33</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">3190</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-421B</td>
+<td>R-125/134a (58/42)</td>
+<td>CF3CHF2+CF3CH2F (11)</td>
+<td>116.9</td>
+<td>4.78</td>
+<td>0.33</td>
+<td>–45.7 a –42.6</td>
+<td>0.33</td>
+<td>ND</td>
+<td>NF</td>
+<td>3190</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-422A</td>
-<td class="cuerpo_tabla_izq">R-125/134a/600a (85.1/11.5/3.4)</td>
-<td class="cuerpo_tabla_izq">
+<td>1</td>
+<td>A1/A1</td>
+<td>R-422A</td>
+<td>R-125/134a/600a (85.1/11.5/3.4)</td>
+<td>
 <em>CF3CHF+CF3CH2F+CH(CH3)3 (11)</em>
 </td>
-<td class="cuerpo_tabla_centro">113.6</td>
-<td class="cuerpo_tabla_centro">4.65</td>
-<td class="cuerpo_tabla_centro">0,29</td>
-<td class="cuerpo_tabla_centro">–46.5 a –44.1</td>
-<td class="cuerpo_tabla_centro">0.29</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">3143</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>113.6</td>
+<td>4.65</td>
+<td>0,29</td>
+<td>–46.5 a –44.1</td>
+<td>0.29</td>
+<td>ND</td>
+<td>NF</td>
+<td>3143</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-422B</td>
-<td class="cuerpo_tabla_izq">R-125/134a/600a (55/42/3)</td>
-<td class="cuerpo_tabla_izq">
+<td>1</td>
+<td>A1/A1</td>
+<td>R-422B</td>
+<td>R-125/134a/600a (55/42/3)</td>
+<td>
 <em>CF3CHF2+CF3CH2F+CH(CH3)3 (11)</em>
 </td>
-<td class="cuerpo_tabla_centro">108.5</td>
-<td class="cuerpo_tabla_centro">4.44</td>
-<td class="cuerpo_tabla_centro">0.25</td>
-<td class="cuerpo_tabla_centro">–40.5 a –35.6</td>
-<td class="cuerpo_tabla_centro">0.25</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2526</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>108.5</td>
+<td>4.44</td>
+<td>0.25</td>
+<td>–40.5 a –35.6</td>
+<td>0.25</td>
+<td>ND</td>
+<td>NF</td>
+<td>2526</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-422C</td>
-<td class="cuerpo_tabla_izq">R-125/134a/600a (82/15/3)</td>
-<td class="cuerpo_tabla_izq">
+<td>1</td>
+<td>A1/A1</td>
+<td>R-422C</td>
+<td>R-125/134a/600a (82/15/3)</td>
+<td>
 <em>CF3CHF2+CF3CH2F+CH(CH3)3 (11)</em>
 </td>
-<td class="cuerpo_tabla_centro">113.4</td>
-<td class="cuerpo_tabla_centro">4.64</td>
-<td class="cuerpo_tabla_centro">0.29</td>
-<td class="cuerpo_tabla_centro">–45.3 a –42.3</td>
-<td class="cuerpo_tabla_centro">0.29</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">3085</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>113.4</td>
+<td>4.64</td>
+<td>0.29</td>
+<td>–45.3 a –42.3</td>
+<td>0.29</td>
+<td>ND</td>
+<td>NF</td>
+<td>3085</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A</td>
-<td class="cuerpo_tabla_izq">R-422D<sup>(11)</sup></td>
-<td class="cuerpo_tabla_izq">R-125/134a/600a (65.1/31.5/3.4)</td>
-<td class="cuerpo_tabla_izq">
+<td>1</td>
+<td>A1/A</td>
+<td>R-422D<sup>(11)</sup></td>
+<td>R-125/134a/600a (65.1/31.5/3.4)</td>
+<td>
 <em>CF3CHF2+CF3CH2F+CH(CH3)3(11)</em>
 </td>
-<td class="cuerpo_tabla_centro">109.9</td>
-<td class="cuerpo_tabla_centro">4.49</td>
-<td class="cuerpo_tabla_centro">0,26</td>
-<td class="cuerpo_tabla_centro">–43.2 a –38.4</td>
-<td class="cuerpo_tabla_centro">0.26</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2729</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>109.9</td>
+<td>4.49</td>
+<td>0,26</td>
+<td>–43.2 a –38.4</td>
+<td>0.26</td>
+<td>ND</td>
+<td>NF</td>
+<td>2729</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-422E</td>
-<td class="cuerpo_tabla_izq">R-125/134a/600a (58.0/39.3/2.7)</td>
-<td class="cuerpo_tabla_izq">
+<td>1</td>
+<td>A1/A1</td>
+<td>R-422E</td>
+<td>R-125/134a/600a (58.0/39.3/2.7)</td>
+<td>
 <em>CF3CHF2+CF3CH2F+CH(CH3)3 (11)</em>
 </td>
-<td class="cuerpo_tabla_centro">109.3</td>
-<td class="cuerpo_tabla_centro">4.47</td>
-<td class="cuerpo_tabla_centro">0.26</td>
-<td class="cuerpo_tabla_centro">–41.8 a –36.4</td>
-<td class="cuerpo_tabla_centro">0.26</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2592</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>109.3</td>
+<td>4.47</td>
+<td>0.26</td>
+<td>–41.8 a –36.4</td>
+<td>0.26</td>
+<td>ND</td>
+<td>NF</td>
+<td>2592</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-423A</td>
-<td class="cuerpo_tabla_izq">R-134a/227ea (52.5/47.5)</td>
-<td class="cuerpo_tabla_izq">
+<td>1</td>
+<td>A1/A1</td>
+<td>R-423A</td>
+<td>R-134a/227ea (52.5/47.5)</td>
+<td>
 <em>CF3CH2F+ CF3CHFCF3 (11)</em>
 </td>
-<td class="cuerpo_tabla_centro">126.0</td>
-<td class="cuerpo_tabla_centro">5.15</td>
-<td class="cuerpo_tabla_centro">0.30</td>
-<td class="cuerpo_tabla_centro">–24.2 a –23.5</td>
-<td class="cuerpo_tabla_centro">0.30</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2280</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>126.0</td>
+<td>5.15</td>
+<td>0.30</td>
+<td>–24.2 a –23.5</td>
+<td>0.30</td>
+<td>ND</td>
+<td>NF</td>
+<td>2280</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-424A</td>
-<td class="cuerpo_tabla_izq">R-125/134a/600a/600/601a (50,5/47.0/0,9/1.0/0,6)</td>
-<td class="cuerpo_tabla_izq">CHF2CF3+CH2FCF3+C4H10 +C4H10+C5H12 (11)</td>
-<td class="cuerpo_tabla_centro">108,4</td>
-<td class="cuerpo_tabla_centro">4.43</td>
-<td class="cuerpo_tabla_centro">0,10</td>
-<td class="cuerpo_tabla_centro">–39,1 a –33,3</td>
-<td class="cuerpo_tabla_centro">0.10</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2440</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-424A</td>
+<td>R-125/134a/600a/600/601a (50,5/47.0/0,9/1.0/0,6)</td>
+<td>CHF2CF3+CH2FCF3+C4H10 +C4H10+C5H12 (11)</td>
+<td>108,4</td>
+<td>4.43</td>
+<td>0,10</td>
+<td>–39,1 a –33,3</td>
+<td>0.10</td>
+<td>ND</td>
+<td>NF</td>
+<td>2440</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-425A</td>
-<td class="cuerpo_tabla_izq">R-32/134a/227ea (18.5/69.5/12.0)</td>
-<td class="cuerpo_tabla_izq">CH2F2+CF3CH2F+ CF3CHFCF3 (11)</td>
-<td class="cuerpo_tabla_centro">90.3</td>
-<td class="cuerpo_tabla_centro">3.69</td>
-<td class="cuerpo_tabla_centro">0.27</td>
-<td class="cuerpo_tabla_centro">–38.1 a –31.3</td>
-<td class="cuerpo_tabla_centro">0.27</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1505</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-425A</td>
+<td>R-32/134a/227ea (18.5/69.5/12.0)</td>
+<td>CH2F2+CF3CH2F+ CF3CHFCF3 (11)</td>
+<td>90.3</td>
+<td>3.69</td>
+<td>0.27</td>
+<td>–38.1 a –31.3</td>
+<td>0.27</td>
+<td>ND</td>
+<td>NF</td>
+<td>1505</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-426A</td>
-<td class="cuerpo_tabla_izq">R-125/134a/600/601a (5,1/93.0/1,3/0,6)</td>
-<td class="cuerpo_tabla_izq">CHF2CF3+ CH2FCF3+ C4H10+C5H12 (11)</td>
-<td class="cuerpo_tabla_centro">101,6</td>
-<td class="cuerpo_tabla_centro">4.16</td>
-<td class="cuerpo_tabla_centro">0,083</td>
-<td class="cuerpo_tabla_centro">–28,5 a –26.7</td>
-<td class="cuerpo_tabla_centro">0.083</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1508</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-426A</td>
+<td>R-125/134a/600/601a (5,1/93.0/1,3/0,6)</td>
+<td>CHF2CF3+ CH2FCF3+ C4H10+C5H12 (11)</td>
+<td>101,6</td>
+<td>4.16</td>
+<td>0,083</td>
+<td>–28,5 a –26.7</td>
+<td>0.083</td>
+<td>ND</td>
+<td>NF</td>
+<td>1508</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-427</td>
-<td class="cuerpo_tabla_izq">R-32/ R-125/R-143a /R-134a (4,99/7,51/2,57/84,93)</td>
-<td class="cuerpo_tabla_izq">CH2F2+ CF3CHF2+CF3CH3+ CF3CH2F (11)</td>
-<td class="cuerpo_tabla_centro">97,87</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">0,15</td>
-<td class="cuerpo_tabla_centro">–33,09 a –28,62</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0,278</td>
-<td class="cuerpo_tabla_centro">1622,91</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-427</td>
+<td>R-32/ R-125/R-143a /R-134a (4,99/7,51/2,57/84,93)</td>
+<td>CH2F2+ CF3CHF2+CF3CH3+ CF3CH2F (11)</td>
+<td>97,87</td>
+<td>X</td>
+<td>0,15</td>
+<td>–33,09 a –28,62</td>
+<td>X</td>
+<td>–</td>
+<td>0,278</td>
+<td>1622,91</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-427A</td>
-<td class="cuerpo_tabla_izq">R-32/125/143a/134a (15/25/10/50)</td>
-<td class="cuerpo_tabla_izq">CH2F2+CF3CHF2+CF3 CH3+CF3CH2F (11)</td>
-<td class="cuerpo_tabla_centro">90,4</td>
-<td class="cuerpo_tabla_centro">3.70</td>
-<td class="cuerpo_tabla_centro">0,29</td>
-<td class="cuerpo_tabla_centro">–43,0 a –36.3</td>
-<td class="cuerpo_tabla_centro">0.29</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2138</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-427A</td>
+<td>R-32/125/143a/134a (15/25/10/50)</td>
+<td>CH2F2+CF3CHF2+CF3 CH3+CF3CH2F (11)</td>
+<td>90,4</td>
+<td>3.70</td>
+<td>0,29</td>
+<td>–43,0 a –36.3</td>
+<td>0.29</td>
+<td>ND</td>
+<td>NF</td>
+<td>2138</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-428A</td>
-<td class="cuerpo_tabla_izq">R-125/143a/290/600a (77,5/20.0/0.6/1,9)</td>
-<td class="cuerpo_tabla_izq">CHF2CF3+CH3CF3+ C3H8+C4H10 (11)</td>
-<td class="cuerpo_tabla_centro">107,5</td>
-<td class="cuerpo_tabla_centro">4.40</td>
-<td class="cuerpo_tabla_centro">0,37</td>
-<td class="cuerpo_tabla_centro">–48,3 a –47,5</td>
-<td class="cuerpo_tabla_centro">0.37</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">3607</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-428A</td>
+<td>R-125/143a/290/600a (77,5/20.0/0.6/1,9)</td>
+<td>CHF2CF3+CH3CF3+ C3H8+C4H10 (11)</td>
+<td>107,5</td>
+<td>4.40</td>
+<td>0,37</td>
+<td>–48,3 a –47,5</td>
+<td>0.37</td>
+<td>ND</td>
+<td>NF</td>
+<td>3607</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-434A</td>
-<td class="cuerpo_tabla_izq">R-125/143a/134a/600a (63,2/18.0/16.0/2,8)</td>
-<td class="cuerpo_tabla_izq">CHF2CF3+CH3CF3+CH2FCF3+C4H10 (11)</td>
-<td class="cuerpo_tabla_centro">105,7</td>
-<td class="cuerpo_tabla_centro">4.32</td>
-<td class="cuerpo_tabla_centro">0,32</td>
-<td class="cuerpo_tabla_centro">–45,0 a –42,3</td>
-<td class="cuerpo_tabla_centro">0.32</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">3245</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-434A</td>
+<td>R-125/143a/134a/600a (63,2/18.0/16.0/2,8)</td>
+<td>CHF2CF3+CH3CF3+CH2FCF3+C4H10 (11)</td>
+<td>105,7</td>
+<td>4.32</td>
+<td>0,32</td>
+<td>–45,0 a –42,3</td>
+<td>0.32</td>
+<td>ND</td>
+<td>NF</td>
+<td>3245</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-437A</td>
-<td class="cuerpo_tabla_izq">R-125/134.ª/600/601 (19,5/78,5/1,40.6)</td>
-<td class="cuerpo_tabla_izq">HF2CF3+CH2FCF3+CH(CH3)3+ CH3CH2CH2+CH2CH3 (11)</td>
-<td class="cuerpo_tabla_centro">103.71</td>
-<td class="cuerpo_tabla_centro">4.24</td>
-<td class="cuerpo_tabla_centro">0,081</td>
-<td class="cuerpo_tabla_centro">–32,9 a –29.2</td>
-<td class="cuerpo_tabla_centro">0.081</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1805</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-437A</td>
+<td>R-125/134.ª/600/601 (19,5/78,5/1,40.6)</td>
+<td>HF2CF3+CH2FCF3+CH(CH3)3+ CH3CH2CH2+CH2CH3 (11)</td>
+<td>103.71</td>
+<td>4.24</td>
+<td>0,081</td>
+<td>–32,9 a –29.2</td>
+<td>0.081</td>
+<td>ND</td>
+<td>NF</td>
+<td>1805</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R(1)</td>
-<td class="cuerpo_tabla_izq">R-125/218/134a (11/4/85)</td>
-<td class="cuerpo_tabla_izq">CHF2CF3+C3F8+CF3CH2F (11)</td>
-<td class="cuerpo_tabla_centro">105.72</td>
-<td class="cuerpo_tabla_centro">4,48</td>
-<td class="cuerpo_tabla_centro">0.27</td>
-<td class="cuerpo_tabla_centro">–29.61 a –27.64</td>
-<td class="cuerpo_tabla_centro">0.23</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1953.7</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R(1)</td>
+<td>R-125/218/134a (11/4/85)</td>
+<td>CHF2CF3+C3F8+CF3CH2F (11)</td>
+<td>105.72</td>
+<td>4,48</td>
+<td>0.27</td>
+<td>–29.61 a –27.64</td>
+<td>0.23</td>
+<td>ND</td>
+<td>NF</td>
+<td>1953.7</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-438A</td>
-<td class="cuerpo_tabla_izq">R-32/125/134a/600/601a (8.5/45.0/44.2/1.7/0.6)</td>
-<td class="cuerpo_tabla_izq">CH2F2+CHF2CF3+CH2FCF3++CF3CH2F+C4H10+C5H12+CH3 CH2CH2CH2CH3 (11)</td>
-<td class="cuerpo_tabla_centro">99.1</td>
-<td class="cuerpo_tabla_centro">4.05</td>
-<td class="cuerpo_tabla_centro">0.079</td>
-<td class="cuerpo_tabla_centro">–43.0 a –36.4</td>
-<td class="cuerpo_tabla_centro">0.079</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2265</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-438A</td>
+<td>R-32/125/134a/600/601a (8.5/45.0/44.2/1.7/0.6)</td>
+<td>CH2F2+CHF2CF3+CH2FCF3++CF3CH2F+C4H10+C5H12+CH3 CH2CH2CH2CH3 (11)</td>
+<td>99.1</td>
+<td>4.05</td>
+<td>0.079</td>
+<td>–43.0 a –36.4</td>
+<td>0.079</td>
+<td>ND</td>
+<td>NF</td>
+<td>2265</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-453A</td>
-<td class="cuerpo_tabla_izq">R-32/125/134a/227ea/600/601 (20.0/20.0/53.8/5.0/0.6/0.6</td>
-<td class="cuerpo_tabla_izq">CH2F2+ CHF2F3+CH2FCF3+CF3CHFCF3+CH3(CH2)2CH3+(CH3)2CH-CH2-CH3 (11)</td>
-<td class="cuerpo_tabla_centro">88.4</td>
-<td class="cuerpo_tabla_centro">3,69</td>
-<td class="cuerpo_tabla_centro">0.14</td>
-<td class="cuerpo_tabla_centro">–44.5 a –42.5</td>
-<td class="cuerpo_tabla_centro">-42,52 a -34,98</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1765.4</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-453A</td>
+<td>R-32/125/134a/227ea/600/601 (20.0/20.0/53.8/5.0/0.6/0.6</td>
+<td>CH2F2+ CHF2F3+CH2FCF3+CF3CHFCF3+CH3(CH2)2CH3+(CH3)2CH-CH2-CH3 (11)</td>
+<td>88.4</td>
+<td>3,69</td>
+<td>0.14</td>
+<td>–44.5 a –42.5</td>
+<td>-42,52 a -34,98</td>
+<td>ND</td>
+<td>NF</td>
+<td>1765.4</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-442A</td>
-<td class="cuerpo_tabla_izq">R-32/125/134a/152a/227a (31/31/30/3/5)</td>
-<td class="cuerpo_tabla_izq">CH2F2+CHF2CF3+CH2FCF3+CH 3CHF2+CF3CHFCF3 (11)</td>
-<td class="cuerpo_tabla_centro">81.8</td>
-<td class="cuerpo_tabla_centro">3.35</td>
-<td class="cuerpo_tabla_centro">0.33</td>
-<td class="cuerpo_tabla_centro">–52.7 a –46.5</td>
-<td class="cuerpo_tabla_centro">0.33</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1888</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-442A</td>
+<td>R-32/125/134a/152a/227a (31/31/30/3/5)</td>
+<td>CH2F2+CHF2CF3+CH2FCF3+CH 3CHF2+CF3CHFCF3 (11)</td>
+<td>81.8</td>
+<td>3.35</td>
+<td>0.33</td>
+<td>–52.7 a –46.5</td>
+<td>0.33</td>
+<td>ND</td>
+<td>NF</td>
+<td>1888</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-448A</td>
-<td class="cuerpo_tabla_izq">R-32/125/1234yf/134a/1234z e(E) 26/26/20/21/7</td>
-<td class="cuerpo_tabla_izq">CH2F2+CF3CHF2+CH2CFCF3+ CF3CH2F+CHFCHCF3 (11)</td>
-<td class="cuerpo_tabla_centro">86.28</td>
-<td class="cuerpo_tabla_centro">3.58</td>
-<td class="cuerpo_tabla_centro">0.388</td>
-<td class="cuerpo_tabla_centro">–45.9 a –39.8</td>
-<td class="cuerpo_tabla_centro">0.388</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1387</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-448A</td>
+<td>R-32/125/1234yf/134a/1234z e(E) 26/26/20/21/7</td>
+<td>CH2F2+CF3CHF2+CH2CFCF3+ CF3CH2F+CHFCHCF3 (11)</td>
+<td>86.28</td>
+<td>3.58</td>
+<td>0.388</td>
+<td>–45.9 a –39.8</td>
+<td>0.388</td>
+<td>ND</td>
+<td>NF</td>
+<td>1387</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-449A</td>
-<td class="cuerpo_tabla_izq">R-32/125/1234yf/134a (24.3/24.7/25.3/25.7)</td>
-<td class="cuerpo_tabla_izq">CF2F2+CF3CHF2+CF3CFCH2+ CF3CH2F (11)</td>
-<td class="cuerpo_tabla_centro">87.21</td>
-<td class="cuerpo_tabla_centro">3.62</td>
-<td class="cuerpo_tabla_centro">0.357</td>
-<td class="cuerpo_tabla_centro">–46.0 a –39.9</td>
-<td class="cuerpo_tabla_centro">0.357</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1397</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-449A</td>
+<td>R-32/125/1234yf/134a (24.3/24.7/25.3/25.7)</td>
+<td>CF2F2+CF3CHF2+CF3CFCH2+ CF3CH2F (11)</td>
+<td>87.21</td>
+<td>3.62</td>
+<td>0.357</td>
+<td>–46.0 a –39.9</td>
+<td>0.357</td>
+<td>ND</td>
+<td>NF</td>
+<td>1397</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-450A</td>
-<td class="cuerpo_tabla_izq">R-134a/1234ze(E) (42/58)</td>
-<td class="cuerpo_tabla_izq">CF3CH2F+CF3CH=CHF (11)</td>
-<td class="cuerpo_tabla_centro">108.67</td>
-<td class="cuerpo_tabla_centro">4.54</td>
-<td class="cuerpo_tabla_centro">0.319</td>
-<td class="cuerpo_tabla_centro">–23.4 a –22.8</td>
-<td class="cuerpo_tabla_centro">0.345</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">604.7</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-450A</td>
+<td>R-134a/1234ze(E) (42/58)</td>
+<td>CF3CH2F+CF3CH=CHF (11)</td>
+<td>108.67</td>
+<td>4.54</td>
+<td>0.319</td>
+<td>–23.4 a –22.8</td>
+<td>0.345</td>
+<td>ND</td>
+<td>NF</td>
+<td>604.7</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-452A</td>
-<td class="cuerpo_tabla_izq">R-32/125/1234yf (11/59/30)</td>
-<td class="cuerpo_tabla_izq">CH2F2+CF3CHF2+CF3CFCH2 (11)</td>
-<td class="cuerpo_tabla_centro">103.51</td>
-<td class="cuerpo_tabla_centro">4.30</td>
-<td class="cuerpo_tabla_centro">0.423</td>
-<td class="cuerpo_tabla_centro">–47.0 a –43.2</td>
-<td class="cuerpo_tabla_centro">0.423</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2140</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-452A</td>
+<td>R-32/125/1234yf (11/59/30)</td>
+<td>CH2F2+CF3CHF2+CF3CFCH2 (11)</td>
+<td>103.51</td>
+<td>4.30</td>
+<td>0.423</td>
+<td>–47.0 a –43.2</td>
+<td>0.423</td>
+<td>ND</td>
+<td>NF</td>
+<td>2140</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R(1)</td>
-<td class="cuerpo_tabla_izq">R-134a/125/32/143a (84,93/7,51/4,99/2,57)</td>
-<td class="cuerpo_tabla_izq">CF3CH2F+CF3CHF2+CH2F2+CF3CH3 (11)</td>
-<td class="cuerpo_tabla_centro">97.87</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">0.15</td>
-<td class="cuerpo_tabla_centro">–33,09 a –28,62</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">1444.47</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R(1)</td>
+<td>R-134a/125/32/143a (84,93/7,51/4,99/2,57)</td>
+<td>CF3CH2F+CF3CHF2+CH2F2+CF3CH3 (11)</td>
+<td>97.87</td>
+<td> </td>
+<td>0.15</td>
+<td>–33,09 a –28,62</td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>1444.47</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-464A</td>
-<td class="cuerpo_tabla_izq">R-32/125/1234ze(E)/227ea (27/27/40/6)</td>
-<td class="cuerpo_tabla_izq">CH2F2+CHF2CF3+CHFCHF3+CF3CHFCF3 (11)</td>
-<td class="cuerpo_tabla_centro">88.27</td>
-<td class="cuerpo_tabla_centro">3,618</td>
-<td class="cuerpo_tabla_centro">0.321</td>
-<td class="cuerpo_tabla_centro">–46,5 a –36,9</td>
-<td class="cuerpo_tabla_centro">0.32</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1291.12</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-464A</td>
+<td>R-32/125/1234ze(E)/227ea (27/27/40/6)</td>
+<td>CH2F2+CHF2CF3+CHFCHF3+CF3CHFCF3 (11)</td>
+<td>88.27</td>
+<td>3,618</td>
+<td>0.321</td>
+<td>–46,5 a –36,9</td>
+<td>0.32</td>
+<td>ND</td>
+<td>NF</td>
+<td>1291.12</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-470B</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">R-744/R-32/R-125/R-134a/R-1234ze(E)/R-227ea</p>
-<p class="cuerpo_tabla_izq">(10/11,5/11,5/3/57/7)</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">CO2+CH2F2+CHF2CF3+CH2FCF3+</p>
-<p class="cuerpo_tabla_izq">CHFCHCF3+CF3CHFCF3 (11)</p>
-</td>
-<td class="cuerpo_tabla_centro">89,72</td>
-<td class="cuerpo_tabla_centro">3,67</td>
-<td class="cuerpo_tabla_centro">0,25</td>
-<td class="cuerpo_tabla_centro">-61,7 a -31,4</td>
-<td class="cuerpo_tabla_centro">0,25</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">746</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R(1)</td>
-<td class="cuerpo_tabla_izq">R-744/32/125/134a/1234ze (E)/227ea (10/17/19/7/44/3)</td>
-<td class="cuerpo_tabla_izq">CO2+CH2F2+CHF2CF3+CH2FCF 3+CHFCHCF3+CF3CHFCF3 (11)</td>
-<td class="cuerpo_tabla_centro">84,43</td>
-<td class="cuerpo_tabla_centro">3,45</td>
-<td class="cuerpo_tabla_centro">0,26</td>
-<td class="cuerpo_tabla_centro">–62,7 a –35,6</td>
-<td class="cuerpo_tabla_centro">0,26</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">980</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R<sup>(1)</sup></td>
-<td class="cuerpo_tabla_izq">R-125/R-143a/R-134a/R-600a (38/10/49,2/2,8)</td>
-<td class="cuerpo_tabla_izq">CF<sub>3</sub>-CHF<sub>2</sub>+CF<sub>3</sub>-CH<sub>3</sub>+CF<sub>3</sub>-CH<sub>2</sub>F+CH(CH<sub>3</sub>)<sup>3</sup></td>
-<td class="cuerpo_tabla_centro">103,52</td>
-<td class="cuerpo_tabla_centro">4,29</td>
-<td class="cuerpo_tabla_centro">0,22</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">–39,96</p>
-<p class="cuerpo_tabla_centro">–34,83</p>
-</td>
-<td class="cuerpo_tabla_centro">0,22</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">2481</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-471A</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">R-1234ze(E)/ R227ea/ R1336mzz(E)</p>
-<p class="cuerpo_tabla_izq">(78.7/4.3/17)</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">CF3CH=CHF+CF3CHFCF3+CF3CH=CHCF3</p>
-</td>
-<td class="cuerpo_tabla_centro">122,1</td>
-<td class="cuerpo_tabla_centro">5,12</td>
-<td class="cuerpo_tabla_centro">0,155</td>
-<td class="cuerpo_tabla_centro">-16,9</td>
-<td class="cuerpo_tabla_centro">0,155</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">148</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-473A</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-470B</td>
 <td>
-<p class="cuerpo_tabla_izq">R1132a/R23/R744/R125</p>
-<p class="cuerpo_tabla_izq">(20/10/60/10 %)</p>
-</td>
-<td class="cuerpo_tabla_izq">CF2=CH2/CHF3/CO2/CHF2CF3</td>
-<td class="cuerpo_tabla_centro">52,58</td>
-<td class="cuerpo_tabla_centro">2,16</td>
-<td class="cuerpo_tabla_centro">0,062</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">87,6 /</p>
-<p class="cuerpo_tabla_centro">– 83,0</p>
-</td>
-<td class="cuerpo_tabla_centro">0,077</td>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">1830,6</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-480A</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">R-744 / R-1234ze(E) / R-227ea</p>
-<p class="cuerpo_tabla_izq">(5 / 86 / 9)</p>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td class="cuerpo_tabla_izq">CO2+CHFCHCF3+CF3CHFCF3</td>
-<td class="cuerpo_tabla_centro">108,62</td>
-<td class="cuerpo_tabla_centro">4,47</td>
-<td class="cuerpo_tabla_centro">0,26</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">– 46,5 ºC a</p>
-<p class="cuerpo_tabla_centro">– 21,7 ºC</p>
-</td>
-<td class="cuerpo_tabla_centro">0,26</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">291</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-481A</td>
-<td>
-<p class="cuerpo_tabla_izda">R-32 / R-125 / R-134a/ R1233zd(E) / R-601a (16.9/ 6.3/ 74.4/ 1.8/</p>
+<p>R-744/R-32/R-125/R-134a/R-1234ze(E)/R-227ea</p>
+<p>(10/11,5/11,5/3/57/7)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izda">O2+CH2F2+CHF2CF3+ CH2FCF3+CHFCHCF3+CF3CHFCF<sup>3</sup></p>
+<p>CO2+CH2F2+CHF2CF3+CH2FCF3+</p>
+<p>CHFCHCF3+CF3CHFCF3 (11)</p>
 </td>
-<td class="cuerpo_tabla_centro"> 88,6</td>
-<td class="cuerpo_tabla_centro">3,64</td>
-<td class="cuerpo_tabla_centro">0,16</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">– 38,3 ºC a</p>
-<p class="cuerpo_tabla_centro">– 30,5 ºC</p>
+<td>89,72</td>
+<td>3,67</td>
+<td>0,25</td>
+<td>-61,7 a -31,4</td>
+<td>0,25</td>
+<td>NF</td>
+<td>NF</td>
+<td>746</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1</td>
+<td>A1/A1</td>
+<td>R(1)</td>
+<td>R-744/32/125/134a/1234ze (E)/227ea (10/17/19/7/44/3)</td>
+<td>CO2+CH2F2+CHF2CF3+CH2FCF 3+CHFCHCF3+CF3CHFCF3 (11)</td>
+<td>84,43</td>
+<td>3,45</td>
+<td>0,26</td>
+<td>–62,7 a –35,6</td>
+<td>0,26</td>
+<td>NF</td>
+<td>NF</td>
+<td>980</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1</td>
+<td>A1/A1</td>
+<td>R<sup>(1)</sup></td>
+<td>R-125/R-143a/R-134a/R-600a (38/10/49,2/2,8)</td>
+<td>CF<sub>3</sub>-CHF<sub>2</sub>+CF<sub>3</sub>-CH<sub>3</sub>+CF<sub>3</sub>-CH<sub>2</sub>F+CH(CH<sub>3</sub>)<sup>3</sup></td>
+<td>103,52</td>
+<td>4,29</td>
+<td>0,22</td>
+<td>
+<p>–39,96</p>
+<p>–34,83</p>
 </td>
-<td class="cuerpo_tabla_centro">0,16</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1399</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>0,22</td>
+<td>NF</td>
+<td>NF</td>
+<td>2481</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-515B</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">R-1234ze / R227ea</p>
-<p class="cuerpo_tabla_izq">(91,1 / 8,9)</p>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-471A</td>
+<td>
+<p>R-1234ze(E)/ R227ea/ R1336mzz(E)</p>
+<p>(78.7/4.3/17)</p>
 </td>
-<td class="cuerpo_tabla_izq">CF3CF=CHF / CF3CHFCF3</td>
-<td class="cuerpo_tabla_centro">117,48</td>
-<td class="cuerpo_tabla_centro">4,918</td>
-<td class="cuerpo_tabla_centro">0,29</td>
-<td class="cuerpo_tabla_centro">–18.92</td>
-<td class="cuerpo_tabla_centro">0,29</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">293</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">A1/A1</td>
-<td class="cuerpo_tabla_izq">R-456A</td>
-<td class="cuerpo_tabla_izq">R-32/R-134a/R-1234zeE (6/45/49)</td>
-<td class="cuerpo_tabla_izq">CH2F2/CH2FCF3/CHF = CHCF3</td>
-<td class="cuerpo_tabla_centro">0.1014</td>
-<td class="cuerpo_tabla_centro">4.23</td>
-<td class="cuerpo_tabla_centro">0.319</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">– 30.42/</p>
-<p class="cuerpo_tabla_centro">– 25.61</p>
+<td>
+<p>CF3CH=CHF+CF3CHFCF3+CF3CH=CHCF3</p>
 </td>
-<td class="cuerpo_tabla_centro">0.319</td>
-<td class="cuerpo_tabla_centro">553</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">685</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>122,1</td>
+<td>5,12</td>
+<td>0,155</td>
+<td>-16,9</td>
+<td>0,155</td>
+<td>NF</td>
+<td>NF</td>
+<td>148</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-32</td>
-<td class="cuerpo_tabla_izq">Difluormetano</td>
-<td class="cuerpo_tabla_izq">CH2F2 (11)</td>
-<td class="cuerpo_tabla_centro">52</td>
-<td class="cuerpo_tabla_centro">2,13</td>
-<td class="cuerpo_tabla_centro">0,061</td>
-<td class="cuerpo_tabla_centro">–52</td>
-<td class="cuerpo_tabla_centro">0.30</td>
-<td class="cuerpo_tabla_centro">648</td>
-<td class="cuerpo_tabla_centro">0,307</td>
-<td class="cuerpo_tabla_centro">675</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-143a</td>
-<td class="cuerpo_tabla_izq">1,1,1-Trifluoretano</td>
-<td class="cuerpo_tabla_izq">CF3CH3 (11)</td>
-<td class="cuerpo_tabla_centro">84,0</td>
-<td class="cuerpo_tabla_centro">3,44</td>
-<td class="cuerpo_tabla_centro">0,048</td>
-<td class="cuerpo_tabla_centro">–47</td>
-<td class="cuerpo_tabla_centro">0,48</td>
-<td class="cuerpo_tabla_centro">750</td>
-<td class="cuerpo_tabla_centro">0,282</td>
-<td class="cuerpo_tabla_centro">4470</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-1234yf</td>
-<td class="cuerpo_tabla_izq">2,3,3,3Tetrafluorpropeno</td>
-<td class="cuerpo_tabla_izq">CF3CF=CH2</td>
-<td class="cuerpo_tabla_centro">114.0</td>
-<td class="cuerpo_tabla_centro">4.66</td>
-<td class="cuerpo_tabla_centro">0.058</td>
-<td class="cuerpo_tabla_centro">–26</td>
-<td class="cuerpo_tabla_centro">0.47</td>
-<td class="cuerpo_tabla_centro">405</td>
-<td class="cuerpo_tabla_centro">0.289</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R1234ze(E)</td>
-<td class="cuerpo_tabla_izq">Trans 1,3,3,3 Tetrafluorpropeno</td>
-<td class="cuerpo_tabla_izq">CF3CH=CHF</td>
-<td class="cuerpo_tabla_centro">114.0</td>
-<td class="cuerpo_tabla_centro">4.66</td>
-<td class="cuerpo_tabla_centro">0.061</td>
-<td class="cuerpo_tabla_centro">–19</td>
-<td class="cuerpo_tabla_centro">0.28</td>
-<td class="cuerpo_tabla_centro">368</td>
-<td class="cuerpo_tabla_centro">0.303</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-444A</td>
-<td class="cuerpo_tabla_izq">R-32/152A/1234ze(E) 12/5/83</td>
-<td class="cuerpo_tabla_izq">CH2F2+CH3CHF2+ CF3CH=CHF</td>
-<td class="cuerpo_tabla_centro">96.70</td>
-<td class="cuerpo_tabla_centro">4.03</td>
-<td class="cuerpo_tabla_centro">0.065</td>
-<td class="cuerpo_tabla_centro">–34.3 a –24.3</td>
-<td class="cuerpo_tabla_centro">0.289</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0.324</td>
-<td class="cuerpo_tabla_centro">93</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-444B</td>
-<td class="cuerpo_tabla_izq">R-32/152A/1234ze (E) (41,5/10/48,5)</td>
-<td class="cuerpo_tabla_izq">CH2F2+CH3CHF2+ CF3CH=CHF(11)</td>
-<td class="cuerpo_tabla_centro">72,8</td>
-<td class="cuerpo_tabla_centro">3,02</td>
-<td class="cuerpo_tabla_centro">0,055</td>
-<td class="cuerpo_tabla_centro">–44.6 a –34.9</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,276</td>
-<td class="cuerpo_tabla_centro">295,9</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-445A</td>
-<td class="cuerpo_tabla_izq">R-744/134a/1234ze (E) (6/9/85)</td>
-<td class="cuerpo_tabla_izq">CO2+CF3CH2F+ CF3CH=CHF</td>
-<td class="cuerpo_tabla_centro">103,10</td>
-<td class="cuerpo_tabla_centro">4,29</td>
-<td class="cuerpo_tabla_centro">0,053</td>
-<td class="cuerpo_tabla_centro">–50,3 a –23,5</td>
-<td class="cuerpo_tabla_centro">0,228</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,266</td>
-<td class="cuerpo_tabla_centro">134,7</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-446A</td>
-<td class="cuerpo_tabla_izq">R-32/1234ze (e)/600 68/29/3</td>
-<td class="cuerpo_tabla_izq">CH2F2+CF3CH=CHF+C4H10 (11)</td>
-<td class="cuerpo_tabla_centro">62</td>
-<td class="cuerpo_tabla_centro">2,6</td>
-<td class="cuerpo_tabla_centro">0,031</td>
-<td class="cuerpo_tabla_centro">–49,4 a –44,0</td>
-<td class="cuerpo_tabla_centro">0,068</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,157</td>
-<td class="cuerpo_tabla_centro">461,2</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-447A</td>
-<td class="cuerpo_tabla_izq">R-32/125/1234ze€ (68/3,5/28,5)</td>
-<td class="cuerpo_tabla_izq">CH2F2+CF3CHF2+ CF3CH=CHF (11)</td>
-<td class="cuerpo_tabla_centro">63,04</td>
-<td class="cuerpo_tabla_centro">2,61</td>
-<td class="cuerpo_tabla_centro">0,034</td>
-<td class="cuerpo_tabla_centro">–49,3 a –44,2</td>
-<td class="cuerpo_tabla_centro">0,36</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,168</td>
-<td class="cuerpo_tabla_centro">583,5</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-451A</td>
-<td class="cuerpo_tabla_izq">R-1234yf/134a (89,8/10,2)</td>
-<td class="cuerpo_tabla_izq">CF3CF=CH2+ CF3CH2F</td>
-<td class="cuerpo_tabla_centro">112,69</td>
-<td class="cuerpo_tabla_centro">4,303</td>
-<td class="cuerpo_tabla_centro">0,065</td>
-<td class="cuerpo_tabla_centro">–30,8 a –30,5</td>
-<td class="cuerpo_tabla_centro">0,462</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,323</td>
-<td class="cuerpo_tabla_centro">149,5</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-451B</td>
-<td class="cuerpo_tabla_izq">R-1234yf/134a (88,8/11,2)</td>
-<td class="cuerpo_tabla_izq">CF3CF=CH2+ CF3CH2F (11)</td>
-<td class="cuerpo_tabla_centro">112,56</td>
-<td class="cuerpo_tabla_centro">4,70</td>
-<td class="cuerpo_tabla_centro">0,065</td>
-<td class="cuerpo_tabla_centro">–31,0 a –30,6</td>
-<td class="cuerpo_tabla_centro">0,461</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,323</td>
-<td class="cuerpo_tabla_centro">163,7</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-452B</td>
-<td class="cuerpo_tabla_izq">R-32/125/1234yf (67.0/7.0/26.0)</td>
-<td class="cuerpo_tabla_izq">CH2F2+CF3CHF2+CF3CFCH2 (11)</td>
-<td class="cuerpo_tabla_centro">63.5</td>
-<td class="cuerpo_tabla_centro">2,63</td>
-<td class="cuerpo_tabla_centro">0.062</td>
-<td class="cuerpo_tabla_centro">–51,0 a –50,3</td>
-<td class="cuerpo_tabla_centro">0,467</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0.310</td>
-<td class="cuerpo_tabla_centro">698.25</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-454A</td>
-<td class="cuerpo_tabla_izq">R-32/1234yf (35.0/65.0)</td>
-<td class="cuerpo_tabla_izq">CH2F2+CF3CFCH2 (11)</td>
-<td class="cuerpo_tabla_centro">80.5</td>
-<td class="cuerpo_tabla_centro">2,8</td>
-<td class="cuerpo_tabla_centro">0.056</td>
-<td class="cuerpo_tabla_centro">–48,4 a –41,6</td>
-<td class="cuerpo_tabla_centro">0,46</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0.278</td>
-<td class="cuerpo_tabla_centro">238.89</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-454B</td>
-<td class="cuerpo_tabla_izq">R-32/1234yf (68.9/31.1)</td>
-<td class="cuerpo_tabla_izq">CH2F2+CF3CFCH2 (11)</td>
-<td class="cuerpo_tabla_centro">62.6</td>
-<td class="cuerpo_tabla_centro">2,2</td>
-<td class="cuerpo_tabla_centro">0,061</td>
-<td class="cuerpo_tabla_centro">–50,9 a –50,0</td>
-<td class="cuerpo_tabla_centro">0,35</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0,301</td>
-<td class="cuerpo_tabla_centro">466.32</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-454C</td>
-<td class="cuerpo_tabla_izq">R-32/1234yf (21.5/78.5)</td>
-<td class="cuerpo_tabla_izq">CH2F2+CF3CFCH2 (11)</td>
-<td class="cuerpo_tabla_centro">90,8</td>
-<td class="cuerpo_tabla_centro">3,2</td>
-<td class="cuerpo_tabla_centro">0.059</td>
-<td class="cuerpo_tabla_centro">–46,0 a –37,8</td>
-<td class="cuerpo_tabla_centro">0,44</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0,291</td>
-<td class="cuerpo_tabla_centro">148.27</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-455A</td>
-<td class="cuerpo_tabla_izq">R-744/R-32/R-1234yf (3.0/21.5 /75.5)</td>
-<td class="cuerpo_tabla_izq">CO2+CH2F2+CF3CF=CH2 (11)</td>
-<td class="cuerpo_tabla_centro">87.5</td>
-<td class="cuerpo_tabla_centro">3,63</td>
-<td class="cuerpo_tabla_centro">0.105</td>
-<td class="cuerpo_tabla_centro">–51,6 a –39,1</td>
-<td class="cuerpo_tabla_centro">0,414</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0.423</td>
-<td class="cuerpo_tabla_centro">148.18</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2L</td>
-<td class="cuerpo_tabla_izq">R-444A</td>
-<td class="cuerpo_tabla_izq">R-32/R-152a/R-1234zeE (12/5/83)</td>
-<td class="cuerpo_tabla_izq">CH2F2/CH3CHF2/CHF = CHCF3</td>
-<td class="cuerpo_tabla_centro">0.0967</td>
-<td class="cuerpo_tabla_centro">4.03</td>
-<td class="cuerpo_tabla_centro">0.065</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">– 34.3/</p>
-<p class="cuerpo_tabla_centro">– 24.3</p>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-473A</td>
+<td>
+<p>R1132a/R23/R744/R125</p>
+<p>(20/10/60/10 %)</p>
 </td>
-<td class="cuerpo_tabla_centro">0.289</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">8.2 @ 23°C</td>
-<td class="cuerpo_tabla_centro">88</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>CF2=CH2/CHF3/CO2/CHF2CF3</td>
+<td>52,58</td>
+<td>2,16</td>
+<td>0,062</td>
+<td>
+<p>87,6 /</p>
+<p>– 83,0</p>
+</td>
+<td>0,077</td>
+<td>NA</td>
+<td>ND</td>
+<td>1830,6</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2</td>
-<td class="cuerpo_tabla_izq">R-141b</td>
-<td class="cuerpo_tabla_izq">1,1-Dicloro-1-fluoretano</td>
-<td class="cuerpo_tabla_izq">CCl2FCH3 (10;11)</td>
-<td class="cuerpo_tabla_centro">117,0</td>
-<td class="cuerpo_tabla_centro">4,78</td>
-<td class="cuerpo_tabla_centro">0.053</td>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_centro">0,012</td>
-<td class="cuerpo_tabla_centro">532</td>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">725</td>
-<td class="cuerpo_tabla_centro">0,11</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-480A</td>
+<td>
+<p>R-744 / R-1234ze(E) / R-227ea</p>
+<p>(5 / 86 / 9)</p>
+<p> </p>
+</td>
+<td>CO2+CHFCHCF3+CF3CHFCF3</td>
+<td>108,62</td>
+<td>4,47</td>
+<td>0,26</td>
+<td>
+<p>– 46,5 ºC a</p>
+<p>– 21,7 ºC</p>
+</td>
+<td>0,26</td>
+<td>NF</td>
+<td>NF</td>
+<td>291</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2</td>
-<td class="cuerpo_tabla_izq">R-142b</td>
-<td class="cuerpo_tabla_izq">1-Cloro-1,1-difluoretano</td>
-<td class="cuerpo_tabla_izq">CClF2CH3 (10;11)</td>
-<td class="cuerpo_tabla_centro">100,5</td>
-<td class="cuerpo_tabla_centro">4,11</td>
-<td class="cuerpo_tabla_centro">0,049</td>
-<td class="cuerpo_tabla_centro">–10</td>
-<td class="cuerpo_tabla_centro">0,10</td>
-<td class="cuerpo_tabla_centro">750</td>
-<td class="cuerpo_tabla_centro">0,329</td>
-<td class="cuerpo_tabla_centro">2310</td>
-<td class="cuerpo_tabla_centro">0,065</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-481A</td>
+<td>
+<p>R-32 / R-125 / R-134a/ R1233zd(E) / R-601a (16.9/ 6.3/ 74.4/ 1.8/</p>
+</td>
+<td>
+<p>O2+CH2F2+CHF2CF3+ CH2FCF3+CHFCHCF3+CF3CHFCF<sup>3</sup></p>
+</td>
+<td> 88,6</td>
+<td>3,64</td>
+<td>0,16</td>
+<td>
+<p>– 38,3 ºC a</p>
+<p>– 30,5 ºC</p>
+</td>
+<td>0,16</td>
+<td>NF</td>
+<td>NF</td>
+<td>1399</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2</td>
-<td class="cuerpo_tabla_izq">R-152a</td>
-<td class="cuerpo_tabla_izq">1,1-Difluoretano</td>
-<td class="cuerpo_tabla_izq">CHF2CH3</td>
-<td class="cuerpo_tabla_centro">66,0</td>
-<td class="cuerpo_tabla_centro">2,70</td>
-<td class="cuerpo_tabla_centro">0.027</td>
-<td class="cuerpo_tabla_centro">–25</td>
-<td class="cuerpo_tabla_centro">0,14</td>
-<td class="cuerpo_tabla_centro">455</td>
-<td class="cuerpo_tabla_centro">0,130</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-515B</td>
+<td>
+<p>R-1234ze / R227ea</p>
+<p>(91,1 / 8,9)</p>
+</td>
+<td>CF3CF=CHF / CF3CHFCF3</td>
+<td>117,48</td>
+<td>4,918</td>
+<td>0,29</td>
+<td>–18.92</td>
+<td>0,29</td>
+<td>NF</td>
+<td>NF</td>
+<td>293</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2</td>
-<td class="cuerpo_tabla_izq">R-160</td>
-<td class="cuerpo_tabla_izq">Cloruro de etilo</td>
-<td class="cuerpo_tabla_izq">CH3CH2Cl</td>
-<td class="cuerpo_tabla_centro">64,5</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">0.019</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">510</td>
-<td class="cuerpo_tabla_centro">0,095</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>1</td>
+<td>A1/A1</td>
+<td>R-456A</td>
+<td>R-32/R-134a/R-1234zeE (6/45/49)</td>
+<td>CH2F2/CH2FCF3/CHF = CHCF3</td>
+<td>0.1014</td>
+<td>4.23</td>
+<td>0.319</td>
+<td>
+<p>– 30.42/</p>
+<p>– 25.61</p>
+</td>
+<td>0.319</td>
+<td>553</td>
+<td>NF</td>
+<td>685</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A2</td>
-<td class="cuerpo_tabla_izq">R-512A</td>
-<td class="cuerpo_tabla_izq">R-134a/152a (5/95)</td>
-<td class="cuerpo_tabla_izq">CH3CH2F+CHF2CH3</td>
-<td class="cuerpo_tabla_centro">67,2</td>
-<td class="cuerpo_tabla_centro">2,75</td>
-<td class="cuerpo_tabla_centro">0,025</td>
-<td class="cuerpo_tabla_centro">–24</td>
-<td class="cuerpo_tabla_centro">0,14</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,124</td>
-<td class="cuerpo_tabla_centro">189,3</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-32</td>
+<td>Difluormetano</td>
+<td>CH2F2 (11)</td>
+<td>52</td>
+<td>2,13</td>
+<td>0,061</td>
+<td>–52</td>
+<td>0.30</td>
+<td>648</td>
+<td>0,307</td>
+<td>675</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A1/A2</td>
-<td class="cuerpo_tabla_izq">R-406A</td>
-<td class="cuerpo_tabla_izq">R-22/600a/142b (55/4/41)</td>
-<td class="cuerpo_tabla_izq">CHClF2+ CH(CH3)3+ CClF2CH3 (10;11)</td>
-<td class="cuerpo_tabla_centro">89.9</td>
-<td class="cuerpo_tabla_centro">3,68</td>
-<td class="cuerpo_tabla_centro">0,13</td>
-<td class="cuerpo_tabla_centro">–32,7 a –23,5</td>
-<td class="cuerpo_tabla_centro">0,14</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,302</td>
-<td class="cuerpo_tabla_centro">1943</td>
-<td class="cuerpo_tabla_centro">0,057</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-143a</td>
+<td>1,1,1-Trifluoretano</td>
+<td>CF3CH3 (11)</td>
+<td>84,0</td>
+<td>3,44</td>
+<td>0,048</td>
+<td>–47</td>
+<td>0,48</td>
+<td>750</td>
+<td>0,282</td>
+<td>4470</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A1/A2</td>
-<td class="cuerpo_tabla_izq">R-411A</td>
-<td class="cuerpo_tabla_izq">R-1270/22/152a (1,5/87,5/11,0)</td>
-<td class="cuerpo_tabla_izq">C3H6+CHClF2+ CHF2CH3 (10;11)</td>
-<td class="cuerpo_tabla_centro">82,4</td>
-<td class="cuerpo_tabla_centro">3,37</td>
-<td class="cuerpo_tabla_centro">0.04</td>
-<td class="cuerpo_tabla_centro">–39,6 a –37,1</td>
-<td class="cuerpo_tabla_centro">0,074</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,186</td>
-<td class="cuerpo_tabla_centro">1597</td>
-<td class="cuerpo_tabla_centro">0,048</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-1234yf</td>
+<td>2,3,3,3Tetrafluorpropeno</td>
+<td>CF3CF=CH2</td>
+<td>114.0</td>
+<td>4.66</td>
+<td>0.058</td>
+<td>–26</td>
+<td>0.47</td>
+<td>405</td>
+<td>0.289</td>
+<td>4</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A1/A2</td>
-<td class="cuerpo_tabla_izq">R-411B</td>
-<td class="cuerpo_tabla_izq">R-1270/22/152a (3/94/3)</td>
-<td class="cuerpo_tabla_izq">C3H6+CHClF2+ CHF2CH3 (10;11)</td>
-<td class="cuerpo_tabla_centro">83,1</td>
-<td class="cuerpo_tabla_centro">3,40</td>
-<td class="cuerpo_tabla_centro">0,05</td>
-<td class="cuerpo_tabla_centro">–41,6 a –40,2</td>
-<td class="cuerpo_tabla_centro">0,044</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,239</td>
-<td class="cuerpo_tabla_centro">1705</td>
-<td class="cuerpo_tabla_centro">0,052</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2L</td>
+<td>R1234ze(E)</td>
+<td>Trans 1,3,3,3 Tetrafluorpropeno</td>
+<td>CF3CH=CHF</td>
+<td>114.0</td>
+<td>4.66</td>
+<td>0.061</td>
+<td>–19</td>
+<td>0.28</td>
+<td>368</td>
+<td>0.303</td>
+<td>7</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A1/A2</td>
-<td class="cuerpo_tabla_izq">R-412A</td>
-<td class="cuerpo_tabla_izq">R-22/218/142b (70/5/25)</td>
-<td class="cuerpo_tabla_izq">CHClF2+C3F8+CCIF2CH3 (10;11)</td>
-<td class="cuerpo_tabla_centro">92,2</td>
-<td class="cuerpo_tabla_centro">3,77</td>
-<td class="cuerpo_tabla_centro">0,07</td>
-<td class="cuerpo_tabla_centro">–36,5 a –28,9</td>
-<td class="cuerpo_tabla_centro">0,17</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,329</td>
-<td class="cuerpo_tabla_centro">2286</td>
-<td class="cuerpo_tabla_centro">0,055</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-444A</td>
+<td>R-32/152A/1234ze(E) 12/5/83</td>
+<td>CH2F2+CH3CHF2+ CF3CH=CHF</td>
+<td>96.70</td>
+<td>4.03</td>
+<td>0.065</td>
+<td>–34.3 a –24.3</td>
+<td>0.289</td>
+<td>ND</td>
+<td>0.324</td>
+<td>93</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A1/A2</td>
-<td class="cuerpo_tabla_izq">R-413A</td>
-<td class="cuerpo_tabla_izq">R-218/134a/600a..(9/88/3)</td>
-<td class="cuerpo_tabla_izq">C3F8+ CF3CH2F+ CH(CH3)3 (11)</td>
-<td class="cuerpo_tabla_centro">103,9</td>
-<td class="cuerpo_tabla_centro">4,25</td>
-<td class="cuerpo_tabla_centro">0,08</td>
-<td class="cuerpo_tabla_centro">–29,4 a –27,4</td>
-<td class="cuerpo_tabla_centro">0,21</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,375</td>
-<td class="cuerpo_tabla_centro">2053</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-444B</td>
+<td>R-32/152A/1234ze (E) (41,5/10/48,5)</td>
+<td>CH2F2+CH3CHF2+ CF3CH=CHF(11)</td>
+<td>72,8</td>
+<td>3,02</td>
+<td>0,055</td>
+<td>–44.6 a –34.9</td>
+<td>0,33</td>
+<td>ND</td>
+<td>0,276</td>
+<td>295,9</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A1/A2</td>
-<td class="cuerpo_tabla_izq">R-415A</td>
-<td class="cuerpo_tabla_izq">R-22/152a (82/18)</td>
-<td class="cuerpo_tabla_izq">CHClF2+CHF2CH3 (10;11)</td>
-<td class="cuerpo_tabla_centro">81,9</td>
-<td class="cuerpo_tabla_centro">3,35</td>
-<td class="cuerpo_tabla_centro">0,04</td>
-<td class="cuerpo_tabla_centro">–37,5 a –34,7</td>
-<td class="cuerpo_tabla_centro">0,19</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,188</td>
-<td class="cuerpo_tabla_centro">1507</td>
-<td class="cuerpo_tabla_centro">0,028</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-445A</td>
+<td>R-744/134a/1234ze (E) (6/9/85)</td>
+<td>CO2+CF3CH2F+ CF3CH=CHF</td>
+<td>103,10</td>
+<td>4,29</td>
+<td>0,053</td>
+<td>–50,3 a –23,5</td>
+<td>0,228</td>
+<td>ND</td>
+<td>0,266</td>
+<td>134,7</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A1/A2</td>
-<td class="cuerpo_tabla_izq">R-415B</td>
-<td class="cuerpo_tabla_izq">R-22/152a.(25/75)</td>
-<td class="cuerpo_tabla_izq">CHClF2+CHF2CH3 (10;11)</td>
-<td class="cuerpo_tabla_centro">70,2</td>
-<td class="cuerpo_tabla_centro">2,87</td>
-<td class="cuerpo_tabla_centro">0,03</td>
-<td class="cuerpo_tabla_centro">–23,4 a –21,8</td>
-<td class="cuerpo_tabla_centro">0,15</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,13</td>
-<td class="cuerpo_tabla_centro">545,5</td>
-<td class="cuerpo_tabla_centro">0,009</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-446A</td>
+<td>R-32/1234ze (e)/600 68/29/3</td>
+<td>CH2F2+CF3CH=CHF+C4H10 (11)</td>
+<td>62</td>
+<td>2,6</td>
+<td>0,031</td>
+<td>–49,4 a –44,0</td>
+<td>0,068</td>
+<td>ND</td>
+<td>0,157</td>
+<td>461,2</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A1/A2</td>
-<td class="cuerpo_tabla_izq">R-418A</td>
-<td class="cuerpo_tabla_izq">R-290/22/152a 81,5/96,0/2,5)</td>
-<td class="cuerpo_tabla_izq">C3H8+CHClF2+CHF2CH3 (10;11)</td>
-<td class="cuerpo_tabla_centro">84,6</td>
-<td class="cuerpo_tabla_centro">3,46</td>
-<td class="cuerpo_tabla_centro">0,06</td>
-<td class="cuerpo_tabla_centro">–41,7 a –40,0</td>
-<td class="cuerpo_tabla_centro">0,20</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,31</td>
-<td class="cuerpo_tabla_centro">1741</td>
-<td class="cuerpo_tabla_centro">0,033</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-447A</td>
+<td>R-32/125/1234ze€ (68/3,5/28,5)</td>
+<td>CH2F2+CF3CHF2+ CF3CH=CHF (11)</td>
+<td>63,04</td>
+<td>2,61</td>
+<td>0,034</td>
+<td>–49,3 a –44,2</td>
+<td>0,36</td>
+<td>ND</td>
+<td>0,168</td>
+<td>583,5</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A1/A2</td>
-<td class="cuerpo_tabla_izq">R-419A</td>
-<td class="cuerpo_tabla_izq">R-125/134a/E170 (77/19/4)</td>
-<td class="cuerpo_tabla_izq">CF3CHF2+CF3CH2F+CH3OCH3 (11)</td>
-<td class="cuerpo_tabla_centro">109,3</td>
-<td class="cuerpo_tabla_centro">4,47</td>
-<td class="cuerpo_tabla_centro">0,05</td>
-<td class="cuerpo_tabla_centro">–42,6 a –35,9</td>
-<td class="cuerpo_tabla_centro">0,31</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,25</td>
-<td class="cuerpo_tabla_centro">2967</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-451A</td>
+<td>R-1234yf/134a (89,8/10,2)</td>
+<td>CF3CF=CH2+ CF3CH2F</td>
+<td>112,69</td>
+<td>4,303</td>
+<td>0,065</td>
+<td>–30,8 a –30,5</td>
+<td>0,462</td>
+<td>ND</td>
+<td>0,323</td>
+<td>149,5</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A1/A2</td>
-<td class="cuerpo_tabla_izq">R-419B</td>
-<td class="cuerpo_tabla_izq">R-125/134a/E170 (48,5/48,0/3,5)</td>
-<td class="cuerpo_tabla_izq">CF3CHF2+CF3CH2F+CH3OCH3 (11)</td>
-<td class="cuerpo_tabla_centro">105,2</td>
-<td class="cuerpo_tabla_centro">4,3</td>
-<td class="cuerpo_tabla_centro">0,06</td>
-<td class="cuerpo_tabla_centro">–37,4 a –31,5</td>
-<td class="cuerpo_tabla_centro">0,26</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,29</td>
-<td class="cuerpo_tabla_centro">2384</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-451B</td>
+<td>R-1234yf/134a (88,8/11,2)</td>
+<td>CF3CF=CH2+ CF3CH2F (11)</td>
+<td>112,56</td>
+<td>4,70</td>
+<td>0,065</td>
+<td>–31,0 a –30,6</td>
+<td>0,461</td>
+<td>ND</td>
+<td>0,323</td>
+<td>163,7</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A1/A2</td>
-<td class="cuerpo_tabla_izq">R-439A</td>
-<td class="cuerpo_tabla_izq">R-32/125/600a (50/47/3)</td>
-<td class="cuerpo_tabla_izq">CH2F2+CF3CHF2+CH(CH3)3 (11)</td>
-<td class="cuerpo_tabla_centro">71,2</td>
-<td class="cuerpo_tabla_centro">2,91</td>
-<td class="cuerpo_tabla_centro">0,061</td>
-<td class="cuerpo_tabla_centro">–52,0 a –51,8</td>
-<td class="cuerpo_tabla_centro">0.34</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,304</td>
-<td class="cuerpo_tabla_centro">1983</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-452B</td>
+<td>R-32/125/1234yf (67.0/7.0/26.0)</td>
+<td>CH2F2+CF3CHF2+CF3CFCH2 (11)</td>
+<td>63.5</td>
+<td>2,63</td>
+<td>0.062</td>
+<td>–51,0 a –50,3</td>
+<td>0,467</td>
+<td>–</td>
+<td>0.310</td>
+<td>698.25</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A1/A2</td>
-<td class="cuerpo_tabla_izq">R-440A</td>
-<td class="cuerpo_tabla_izq">R-290/134a/152a (0,6/1,6/97,8)</td>
-<td class="cuerpo_tabla_izq">C3H8+CF3CH2F+CHF2CH3</td>
-<td class="cuerpo_tabla_centro">66,2</td>
-<td class="cuerpo_tabla_centro">2,71</td>
-<td class="cuerpo_tabla_centro">0,025</td>
-<td class="cuerpo_tabla_centro">–25,5 a<br>–24,3</td>
-<td class="cuerpo_tabla_centro">0,14</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,124</td>
-<td class="cuerpo_tabla_centro">144,2</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-454A</td>
+<td>R-32/1234yf (35.0/65.0)</td>
+<td>CH2F2+CF3CFCH2 (11)</td>
+<td>80.5</td>
+<td>2,8</td>
+<td>0.056</td>
+<td>–48,4 a –41,6</td>
+<td>0,46</td>
+<td>–</td>
+<td>0.278</td>
+<td>238.89</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">A1/A2</td>
-<td class="cuerpo_tabla_izq">R(1)</td>
-<td class="cuerpo_tabla_izq">R-125/134a/152a/E170.(67/15/15/3)</td>
-<td class="cuerpo_tabla_izq">CF3CHF2+CF3CH2F+CHF2CH3+ CH3OCH3</td>
-<td class="cuerpo_tabla_centro">108,45</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">0,094</td>
-<td class="cuerpo_tabla_centro">–38,1 a –37,8</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">2578.1</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-454B</td>
+<td>R-32/1234yf (68.9/31.1)</td>
+<td>CH2F2+CF3CFCH2 (11)</td>
+<td>62.6</td>
+<td>2,2</td>
+<td>0,061</td>
+<td>–50,9 a –50,0</td>
+<td>0,35</td>
+<td>–</td>
+<td>0,301</td>
+<td>466.32</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">B1</td>
-<td class="cuerpo_tabla_izq">R-21</td>
-<td class="cuerpo_tabla_izq">Diclorofluormetano</td>
-<td class="cuerpo_tabla_izq">CHCl2F (10)</td>
-<td class="cuerpo_tabla_centro">103</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">0,1</td>
-<td class="cuerpo_tabla_centro">8,92</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-454C</td>
+<td>R-32/1234yf (21.5/78.5)</td>
+<td>CH2F2+CF3CFCH2 (11)</td>
+<td>90,8</td>
+<td>3,2</td>
+<td>0.059</td>
+<td>–46,0 a –37,8</td>
+<td>0,44</td>
+<td>–</td>
+<td>0,291</td>
+<td>148.27</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">B1</td>
-<td class="cuerpo_tabla_izq">R-123</td>
-<td class="cuerpo_tabla_izq">2,2-Dicloro-1,1,1-trifluoretano</td>
-<td class="cuerpo_tabla_izq">CF3CHCl2 (10)</td>
-<td class="cuerpo_tabla_centro">153,0</td>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">0,1</td>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_centro">0,057</td>
-<td class="cuerpo_tabla_centro">730</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">77</td>
-<td class="cuerpo_tabla_centro">0,02</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-455A</td>
+<td>R-744/R-32/R-1234yf (3.0/21.5 /75.5)</td>
+<td>CO2+CH2F2+CF3CF=CH2 (11)</td>
+<td>87.5</td>
+<td>3,63</td>
+<td>0.105</td>
+<td>–51,6 a –39,1</td>
+<td>0,414</td>
+<td>ND</td>
+<td>0.423</td>
+<td>148.18</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">B1</td>
-<td class="cuerpo_tabla_izq">R-245fa</td>
-<td class="cuerpo_tabla_izq">1,1,1,3,3 Pentafluor propano</td>
-<td class="cuerpo_tabla_izq">CF3CH2CHF2 (11)</td>
-<td class="cuerpo_tabla_centro">134,0</td>
-<td class="cuerpo_tabla_centro">5,48</td>
-<td class="cuerpo_tabla_centro">0,19</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">0,19</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">1030</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>2</td>
+<td>A2L</td>
+<td>R-444A</td>
+<td>R-32/R-152a/R-1234zeE (12/5/83)</td>
+<td>CH2F2/CH3CHF2/CHF = CHCF3</td>
+<td>0.0967</td>
+<td>4.03</td>
+<td>0.065</td>
+<td>
+<p>– 34.3/</p>
+<p>– 24.3</p>
+</td>
+<td>0.289</td>
+<td>400</td>
+<td>8.2 @ 23°C</td>
+<td>88</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">B1</td>
-<td class="cuerpo_tabla_izq">R-764</td>
-<td class="cuerpo_tabla_izq">Dióxido de azufre</td>
-<td class="cuerpo_tabla_izq">SO2</td>
-<td class="cuerpo_tabla_centro">64,1</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">0,0002 6</td>
-<td class="cuerpo_tabla_centro">–10</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">NF</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2</td>
+<td>R-141b</td>
+<td>1,1-Dicloro-1-fluoretano</td>
+<td>CCl2FCH3 (10;11)</td>
+<td>117,0</td>
+<td>4,78</td>
+<td>0.053</td>
+<td>32</td>
+<td>0,012</td>
+<td>532</td>
+<td>NA</td>
+<td>725</td>
+<td>0,11</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">B2L</td>
-<td class="cuerpo_tabla_izq">R-717</td>
-<td class="cuerpo_tabla_izq">Amoníaco</td>
-<td class="cuerpo_tabla_izq">NH3</td>
-<td class="cuerpo_tabla_centro">17,0</td>
-<td class="cuerpo_tabla_centro">0,700</td>
-<td class="cuerpo_tabla_centro">0,00035</td>
-<td class="cuerpo_tabla_centro">–33</td>
-<td class="cuerpo_tabla_centro">0,00022</td>
-<td class="cuerpo_tabla_centro">630</td>
-<td class="cuerpo_tabla_centro">0,116</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2</td>
+<td>R-142b</td>
+<td>1-Cloro-1,1-difluoretano</td>
+<td>CClF2CH3 (10;11)</td>
+<td>100,5</td>
+<td>4,11</td>
+<td>0,049</td>
+<td>–10</td>
+<td>0,10</td>
+<td>750</td>
+<td>0,329</td>
+<td>2310</td>
+<td>0,065</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">B2</td>
-<td class="cuerpo_tabla_izq">R-30</td>
-<td class="cuerpo_tabla_izq">Diclorometano (cloruro de etileno)</td>
-<td class="cuerpo_tabla_izq">CH2Cl2 (10)</td>
-<td class="cuerpo_tabla_centro">84,9</td>
-<td class="cuerpo_tabla_centro">3,47</td>
-<td class="cuerpo_tabla_centro">0,017</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">662</td>
-<td class="cuerpo_tabla_centro">0,417</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>2</td>
+<td>A2</td>
+<td>R-152a</td>
+<td>1,1-Difluoretano</td>
+<td>CHF2CH3</td>
+<td>66,0</td>
+<td>2,70</td>
+<td>0.027</td>
+<td>–25</td>
+<td>0,14</td>
+<td>455</td>
+<td>0,130</td>
+<td>124</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">B2</td>
-<td class="cuerpo_tabla_izq">R-40</td>
-<td class="cuerpo_tabla_izq">Cloruro de metilo</td>
-<td class="cuerpo_tabla_izq">CH3Cl (10)</td>
-<td class="cuerpo_tabla_centro">50,5</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">0,021</td>
-<td class="cuerpo_tabla_centro">–24</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">625</td>
-<td class="cuerpo_tabla_centro">0,147</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2</td>
+<td>R-160</td>
+<td>Cloruro de etilo</td>
+<td>CH3CH2Cl</td>
+<td>64,5</td>
+<td>X</td>
+<td>0.019</td>
+<td>X</td>
+<td>ND</td>
+<td>510</td>
+<td>0,095</td>
+<td>ND</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">B2</td>
-<td class="cuerpo_tabla_izq">R-611</td>
-<td class="cuerpo_tabla_izq">Formiato de metilo</td>
-<td class="cuerpo_tabla_izq">C2H4O2</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">0,012</td>
-<td class="cuerpo_tabla_centro">31,2</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">456</td>
-<td class="cuerpo_tabla_centro">0,123</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A2</td>
+<td>R-512A</td>
+<td>R-134a/152a (5/95)</td>
+<td>CH3CH2F+CHF2CH3</td>
+<td>67,2</td>
+<td>2,75</td>
+<td>0,025</td>
+<td>–24</td>
+<td>0,14</td>
+<td>ND</td>
+<td>0,124</td>
+<td>189,3</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">B2</td>
-<td class="cuerpo_tabla_izq">R-1130</td>
-<td class="cuerpo_tabla_izq">1,2-Dicloroetileno</td>
-<td class="cuerpo_tabla_izq">CHCl = CHCl</td>
-<td class="cuerpo_tabla_centro">96,9</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">458</td>
-<td class="cuerpo_tabla_centro">0,246</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A1/A2</td>
+<td>R-406A</td>
+<td>R-22/600a/142b (55/4/41)</td>
+<td>CHClF2+ CH(CH3)3+ CClF2CH3 (10;11)</td>
+<td>89.9</td>
+<td>3,68</td>
+<td>0,13</td>
+<td>–32,7 a –23,5</td>
+<td>0,14</td>
+<td>ND</td>
+<td>0,302</td>
+<td>1943</td>
+<td>0,057</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3</td>
-<td class="cuerpo_tabla_izq">R-50</td>
-<td class="cuerpo_tabla_izq">Metano</td>
-<td class="cuerpo_tabla_izq">CH4</td>
-<td class="cuerpo_tabla_centro">16,0</td>
-<td class="cuerpo_tabla_centro">0.654</td>
-<td class="cuerpo_tabla_centro">0,006</td>
-<td class="cuerpo_tabla_centro">–161</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">645</td>
-<td class="cuerpo_tabla_centro">0,032</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A1/A2</td>
+<td>R-411A</td>
+<td>R-1270/22/152a (1,5/87,5/11,0)</td>
+<td>C3H6+CHClF2+ CHF2CH3 (10;11)</td>
+<td>82,4</td>
+<td>3,37</td>
+<td>0.04</td>
+<td>–39,6 a –37,1</td>
+<td>0,074</td>
+<td>ND</td>
+<td>0,186</td>
+<td>1597</td>
+<td>0,048</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3</td>
-<td class="cuerpo_tabla_izq">R-170</td>
-<td class="cuerpo_tabla_izq">Etano</td>
-<td class="cuerpo_tabla_izq">C2H6</td>
-<td class="cuerpo_tabla_centro">30,0</td>
-<td class="cuerpo_tabla_centro">1,23</td>
-<td class="cuerpo_tabla_centro">0,0086</td>
-<td class="cuerpo_tabla_centro">–89</td>
-<td class="cuerpo_tabla_centro">0,0086</td>
-<td class="cuerpo_tabla_centro">515</td>
-<td class="cuerpo_tabla_centro">0,038</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A1/A2</td>
+<td>R-411B</td>
+<td>R-1270/22/152a (3/94/3)</td>
+<td>C3H6+CHClF2+ CHF2CH3 (10;11)</td>
+<td>83,1</td>
+<td>3,40</td>
+<td>0,05</td>
+<td>–41,6 a –40,2</td>
+<td>0,044</td>
+<td>ND</td>
+<td>0,239</td>
+<td>1705</td>
+<td>0,052</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3</td>
-<td class="cuerpo_tabla_izq">R-290</td>
-<td class="cuerpo_tabla_izq">Propano</td>
-<td class="cuerpo_tabla_izq">C3H8</td>
-<td class="cuerpo_tabla_centro">44,0</td>
-<td class="cuerpo_tabla_centro">1,80</td>
-<td class="cuerpo_tabla_centro">0,008</td>
-<td class="cuerpo_tabla_centro">–42</td>
-<td class="cuerpo_tabla_centro">0,09</td>
-<td class="cuerpo_tabla_centro">470</td>
-<td class="cuerpo_tabla_centro">0,038</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A1/A2</td>
+<td>R-412A</td>
+<td>R-22/218/142b (70/5/25)</td>
+<td>CHClF2+C3F8+CCIF2CH3 (10;11)</td>
+<td>92,2</td>
+<td>3,77</td>
+<td>0,07</td>
+<td>–36,5 a –28,9</td>
+<td>0,17</td>
+<td>ND</td>
+<td>0,329</td>
+<td>2286</td>
+<td>0,055</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3</td>
-<td class="cuerpo_tabla_izq">R-600</td>
-<td class="cuerpo_tabla_izq">Butano</td>
-<td class="cuerpo_tabla_izq">C4H10</td>
-<td class="cuerpo_tabla_centro">58,1</td>
-<td class="cuerpo_tabla_centro">2,38</td>
-<td class="cuerpo_tabla_centro">0,0089</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0,0024</td>
-<td class="cuerpo_tabla_centro">365</td>
-<td class="cuerpo_tabla_centro">0,038</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A1/A2</td>
+<td>R-413A</td>
+<td>R-218/134a/600a..(9/88/3)</td>
+<td>C3F8+ CF3CH2F+ CH(CH3)3 (11)</td>
+<td>103,9</td>
+<td>4,25</td>
+<td>0,08</td>
+<td>–29,4 a –27,4</td>
+<td>0,21</td>
+<td>ND</td>
+<td>0,375</td>
+<td>2053</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3</td>
-<td class="cuerpo_tabla_izq">R-600a</td>
-<td class="cuerpo_tabla_izq">2 Metilpropano (Isobutano)</td>
-<td class="cuerpo_tabla_izq">CH(CH3)3</td>
-<td class="cuerpo_tabla_centro">58,1</td>
-<td class="cuerpo_tabla_centro">2,38</td>
-<td class="cuerpo_tabla_centro">0,011</td>
-<td class="cuerpo_tabla_centro">–12</td>
-<td class="cuerpo_tabla_centro">0,059</td>
-<td class="cuerpo_tabla_centro">460</td>
-<td class="cuerpo_tabla_centro">0,043</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A1/A2</td>
+<td>R-415A</td>
+<td>R-22/152a (82/18)</td>
+<td>CHClF2+CHF2CH3 (10;11)</td>
+<td>81,9</td>
+<td>3,35</td>
+<td>0,04</td>
+<td>–37,5 a –34,7</td>
+<td>0,19</td>
+<td>ND</td>
+<td>0,188</td>
+<td>1507</td>
+<td>0,028</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3</td>
-<td class="cuerpo_tabla_izq">R-601</td>
-<td class="cuerpo_tabla_izq">Pentano</td>
-<td class="cuerpo_tabla_izq">C5H10</td>
-<td class="cuerpo_tabla_centro">72,1</td>
-<td class="cuerpo_tabla_centro">2,95</td>
-<td class="cuerpo_tabla_centro">0,008</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_centro">0,0029</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,035</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A1/A2</td>
+<td>R-415B</td>
+<td>R-22/152a.(25/75)</td>
+<td>CHClF2+CHF2CH3 (10;11)</td>
+<td>70,2</td>
+<td>2,87</td>
+<td>0,03</td>
+<td>–23,4 a –21,8</td>
+<td>0,15</td>
+<td>ND</td>
+<td>0,13</td>
+<td>545,5</td>
+<td>0,009</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3</td>
-<td class="cuerpo_tabla_izq">R-601a</td>
-<td class="cuerpo_tabla_izq">2 Metilbutano (Isopentano)</td>
-<td class="cuerpo_tabla_izq">(CH3)2CHCH2CH3</td>
-<td class="cuerpo_tabla_centro">72,1</td>
-<td class="cuerpo_tabla_centro">2,95</td>
-<td class="cuerpo_tabla_centro">0,008</td>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_centro">0,0029</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,038</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A1/A2</td>
+<td>R-418A</td>
+<td>R-290/22/152a 81,5/96,0/2,5)</td>
+<td>C3H8+CHClF2+CHF2CH3 (10;11)</td>
+<td>84,6</td>
+<td>3,46</td>
+<td>0,06</td>
+<td>–41,7 a –40,0</td>
+<td>0,20</td>
+<td>ND</td>
+<td>0,31</td>
+<td>1741</td>
+<td>0,033</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3</td>
-<td class="cuerpo_tabla_izq">R-1150</td>
-<td class="cuerpo_tabla_izq">Etileno</td>
-<td class="cuerpo_tabla_izq">CH2 = CH2</td>
-<td class="cuerpo_tabla_centro">28,1</td>
-<td class="cuerpo_tabla_centro">1.15</td>
-<td class="cuerpo_tabla_centro">0,006</td>
-<td class="cuerpo_tabla_centro">–104</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">425</td>
-<td class="cuerpo_tabla_centro">0,036</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A1/A2</td>
+<td>R-419A</td>
+<td>R-125/134a/E170 (77/19/4)</td>
+<td>CF3CHF2+CF3CH2F+CH3OCH3 (11)</td>
+<td>109,3</td>
+<td>4,47</td>
+<td>0,05</td>
+<td>–42,6 a –35,9</td>
+<td>0,31</td>
+<td>ND</td>
+<td>0,25</td>
+<td>2967</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3</td>
-<td class="cuerpo_tabla_izq">R-1270</td>
-<td class="cuerpo_tabla_izq">Propileno</td>
-<td class="cuerpo_tabla_izq">CH3CH=CH2</td>
-<td class="cuerpo_tabla_centro">42,1</td>
-<td class="cuerpo_tabla_centro">1,72</td>
-<td class="cuerpo_tabla_centro">0,008</td>
-<td class="cuerpo_tabla_centro">–48</td>
-<td class="cuerpo_tabla_centro">0,0017</td>
-<td class="cuerpo_tabla_centro">455</td>
-<td class="cuerpo_tabla_centro">0,046</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A1/A2</td>
+<td>R-419B</td>
+<td>R-125/134a/E170 (48,5/48,0/3,5)</td>
+<td>CF3CHF2+CF3CH2F+CH3OCH3 (11)</td>
+<td>105,2</td>
+<td>4,3</td>
+<td>0,06</td>
+<td>–37,4 a –31,5</td>
+<td>0,26</td>
+<td>ND</td>
+<td>0,29</td>
+<td>2384</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3</td>
-<td class="cuerpo_tabla_izq">R-E170</td>
-<td class="cuerpo_tabla_izq">Dimetileter</td>
-<td class="cuerpo_tabla_izq">CH3OCH3</td>
-<td class="cuerpo_tabla_centro">46</td>
-<td class="cuerpo_tabla_centro">1,88</td>
-<td class="cuerpo_tabla_centro">0,013</td>
-<td class="cuerpo_tabla_centro">–25</td>
-<td class="cuerpo_tabla_centro">0,079</td>
-<td class="cuerpo_tabla_centro">235</td>
-<td class="cuerpo_tabla_centro">0,064</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A1/A2</td>
+<td>R-439A</td>
+<td>R-32/125/600a (50/47/3)</td>
+<td>CH2F2+CF3CHF2+CH(CH3)3 (11)</td>
+<td>71,2</td>
+<td>2,91</td>
+<td>0,061</td>
+<td>–52,0 a –51,8</td>
+<td>0.34</td>
+<td>ND</td>
+<td>0,304</td>
+<td>1983</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3</td>
-<td class="cuerpo_tabla_izq">R-510A</td>
-<td class="cuerpo_tabla_izq">R-E170/600a (88/12)</td>
-<td class="cuerpo_tabla_izq">C2H6O+CH(CH3)3</td>
-<td class="cuerpo_tabla_centro">47,25</td>
-<td class="cuerpo_tabla_centro">1,93</td>
-<td class="cuerpo_tabla_centro">0,011</td>
-<td class="cuerpo_tabla_centro">–25,1</td>
-<td class="cuerpo_tabla_centro">0.087</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,056</td>
-<td class="cuerpo_tabla_centro">1,2</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A1/A2</td>
+<td>R-440A</td>
+<td>R-290/134a/152a (0,6/1,6/97,8)</td>
+<td>C3H8+CF3CH2F+CHF2CH3</td>
+<td>66,2</td>
+<td>2,71</td>
+<td>0,025</td>
+<td>–25,5 a<br>–24,3</td>
+<td>0,14</td>
+<td>ND</td>
+<td>0,124</td>
+<td>144,2</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3</td>
-<td class="cuerpo_tabla_izq">R-511A</td>
-<td class="cuerpo_tabla_izq">R-290/E170 (95/5)</td>
-<td class="cuerpo_tabla_izq">CH3H8+C2H6O</td>
-<td class="cuerpo_tabla_centro">44,2</td>
-<td class="cuerpo_tabla_centro">1,81</td>
-<td class="cuerpo_tabla_centro">0,008</td>
-<td class="cuerpo_tabla_centro">-42</td>
-<td class="cuerpo_tabla_centro">0,092</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,038</td>
-<td class="cuerpo_tabla_centro">2,9</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>A1/A2</td>
+<td>R(1)</td>
+<td>R-125/134a/152a/E170.(67/15/15/3)</td>
+<td>CF3CHF2+CF3CH2F+CHF2CH3+ CH3OCH3</td>
+<td>108,45</td>
+<td>X</td>
+<td>0,094</td>
+<td>–38,1 a –37,8</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>2578.1</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3/A3</td>
-<td class="cuerpo_tabla_izq">R-429A</td>
-<td class="cuerpo_tabla_izq">R-E170/152a/600a (60/10/30)</td>
-<td class="cuerpo_tabla_izq">C2H6O+CHF2CH3+CH(CH3)3</td>
-<td class="cuerpo_tabla_centro">50,8</td>
-<td class="cuerpo_tabla_centro">2,08</td>
-<td class="cuerpo_tabla_centro">0,098</td>
-<td class="cuerpo_tabla_centro">–26,0 a –25,6</td>
-<td class="cuerpo_tabla_centro">0,098</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,052</td>
-<td class="cuerpo_tabla_centro">13,9</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>B1</td>
+<td>R-21</td>
+<td>Diclorofluormetano</td>
+<td>CHCl2F (10)</td>
+<td>103</td>
+<td>X</td>
+<td>0,1</td>
+<td>8,92</td>
+<td>ND</td>
+<td>ND</td>
+<td>NF</td>
+<td>ND</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3/A3</td>
-<td class="cuerpo_tabla_izq">R-430A</td>
-<td class="cuerpo_tabla_izq">R-152a/600a (76/24)</td>
-<td class="cuerpo_tabla_izq">CHF2CH3+CH(CH3)3</td>
-<td class="cuerpo_tabla_centro">64</td>
-<td class="cuerpo_tabla_centro">2,61</td>
-<td class="cuerpo_tabla_centro">0,1</td>
-<td class="cuerpo_tabla_centro">–27,6 a –27,6</td>
-<td class="cuerpo_tabla_centro">0,10</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,084</td>
-<td class="cuerpo_tabla_centro">95</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>B1</td>
+<td>R-123</td>
+<td>2,2-Dicloro-1,1,1-trifluoretano</td>
+<td>CF3CHCl2 (10)</td>
+<td>153,0</td>
+<td>NA</td>
+<td>0,1</td>
+<td>27</td>
+<td>0,057</td>
+<td>730</td>
+<td>NF</td>
+<td>77</td>
+<td>0,02</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3/A3</td>
-<td class="cuerpo_tabla_izq">R-431A</td>
-<td class="cuerpo_tabla_izq">R-290/152a.(71/29)</td>
-<td class="cuerpo_tabla_izq">CH3H8+ CHF2CH3</td>
-<td class="cuerpo_tabla_centro">48,8</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">0,009</td>
-<td class="cuerpo_tabla_centro">–43,1 a –43,1</td>
-<td class="cuerpo_tabla_centro">0,10</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,044</td>
-<td class="cuerpo_tabla_centro">38,1</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>B1</td>
+<td>R-245fa</td>
+<td>1,1,1,3,3 Pentafluor propano</td>
+<td>CF3CH2CHF2 (11)</td>
+<td>134,0</td>
+<td>5,48</td>
+<td>0,19</td>
+<td>15</td>
+<td>0,19</td>
+<td>ND</td>
+<td>NF</td>
+<td>1030</td>
+<td>0</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3/A3</td>
-<td class="cuerpo_tabla_izq">R-432A</td>
-<td class="cuerpo_tabla_izq">R-1270/E170.(80/20)</td>
-<td class="cuerpo_tabla_izq">C3H6+C2H6O</td>
-<td class="cuerpo_tabla_centro">42,8</td>
-<td class="cuerpo_tabla_centro">1,75</td>
-<td class="cuerpo_tabla_centro">0,008</td>
-<td class="cuerpo_tabla_centro">–46,6 a –45,6</td>
-<td class="cuerpo_tabla_centro">0,0021</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,039</td>
-<td class="cuerpo_tabla_centro">1,8</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>B1</td>
+<td>R-764</td>
+<td>Dióxido de azufre</td>
+<td>SO2</td>
+<td>64,1</td>
+<td>X</td>
+<td>0,0002 6</td>
+<td>–10</td>
+<td>ND</td>
+<td>ND</td>
+<td>NF</td>
+<td>ND</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3/A3</td>
-<td class="cuerpo_tabla_izq">R-333A</td>
-<td class="cuerpo_tabla_izq">R-1270/290.(30/70)</td>
-<td class="cuerpo_tabla_izq">C3H6+ CH3H8</td>
-<td class="cuerpo_tabla_centro">43,5</td>
-<td class="cuerpo_tabla_centro">1,78</td>
-<td class="cuerpo_tabla_centro">0,007</td>
-<td class="cuerpo_tabla_centro">–44,6 a –44,2</td>
-<td class="cuerpo_tabla_centro">0,0055</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,036</td>
-<td class="cuerpo_tabla_centro">2,7</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>B2L</td>
+<td>R-717</td>
+<td>Amoníaco</td>
+<td>NH3</td>
+<td>17,0</td>
+<td>0,700</td>
+<td>0,00035</td>
+<td>–33</td>
+<td>0,00022</td>
+<td>630</td>
+<td>0,116</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3/A3</td>
-<td class="cuerpo_tabla_izq">R-433C</td>
-<td class="cuerpo_tabla_izq">R-1270/290 (25/75)</td>
-<td class="cuerpo_tabla_izq">C3H6+ CH3H8</td>
-<td class="cuerpo_tabla_centro">43,6</td>
-<td class="cuerpo_tabla_centro">1,78</td>
-<td class="cuerpo_tabla_centro">0,006</td>
-<td class="cuerpo_tabla_centro">–44,3 a –43,9</td>
-<td class="cuerpo_tabla_centro">0,0066</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,032</td>
-<td class="cuerpo_tabla_centro">2,8</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>B2</td>
+<td>R-30</td>
+<td>Diclorometano (cloruro de etileno)</td>
+<td>CH2Cl2 (10)</td>
+<td>84,9</td>
+<td>3,47</td>
+<td>0,017</td>
+<td>40</td>
+<td>ND</td>
+<td>662</td>
+<td>0,417</td>
+<td>9</td>
+<td>ND</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3/A3</td>
-<td class="cuerpo_tabla_izq">R-435A</td>
-<td class="cuerpo_tabla_izq">R-E170/152a (80/20)</td>
-<td class="cuerpo_tabla_izq">C2H6O+C2H4F2</td>
-<td class="cuerpo_tabla_centro">49,0</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">0,014</td>
-<td class="cuerpo_tabla_centro">–26,1 a –25,9</td>
-<td class="cuerpo_tabla_centro">0,09</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,069</td>
-<td class="cuerpo_tabla_centro">25,6</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>B2</td>
+<td>R-40</td>
+<td>Cloruro de metilo</td>
+<td>CH3Cl (10)</td>
+<td>50,5</td>
+<td>X</td>
+<td>0,021</td>
+<td>–24</td>
+<td>ND</td>
+<td>625</td>
+<td>0,147</td>
+<td>ND</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3/A3</td>
-<td class="cuerpo_tabla_izq">R-436A</td>
-<td class="cuerpo_tabla_izq">R-290/600a (56/44)</td>
-<td class="cuerpo_tabla_izq">CH3H8+CH(CH3)3</td>
-<td class="cuerpo_tabla_centro">49,3</td>
-<td class="cuerpo_tabla_centro">2,02</td>
-<td class="cuerpo_tabla_centro">0,006</td>
-<td class="cuerpo_tabla_centro">–34,3 a –26,2</td>
-<td class="cuerpo_tabla_centro">0,073</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,032</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>B2</td>
+<td>R-611</td>
+<td>Formiato de metilo</td>
+<td>C2H4O2</td>
+<td>60</td>
+<td>X</td>
+<td>0,012</td>
+<td>31,2</td>
+<td>ND</td>
+<td>456</td>
+<td>0,123</td>
+<td>ND</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3/A3</td>
-<td class="cuerpo_tabla_izq">R-436B</td>
-<td class="cuerpo_tabla_izq">R-290/600a (52/48)</td>
-<td class="cuerpo_tabla_izq">CH3H8+CH(CH3)3</td>
-<td class="cuerpo_tabla_centro">49,9</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">0,007</td>
-<td class="cuerpo_tabla_centro">–33,4 a –25,0</td>
-<td class="cuerpo_tabla_centro">0,071</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,033</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2</td>
+<td>B2</td>
+<td>R-1130</td>
+<td>1,2-Dicloroetileno</td>
+<td>CHCl = CHCl</td>
+<td>96,9</td>
+<td>X</td>
+<td>ND</td>
+<td> </td>
+<td>ND</td>
+<td>458</td>
+<td>0,246</td>
+<td>ND</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3/A3</td>
-<td class="cuerpo_tabla_izq">R-441A</td>
-<td class="cuerpo_tabla_izq">R-170/290/600a/600 (3,1/54,8/6,0/36,1)</td>
-<td class="cuerpo_tabla_izq">C2H6+C3H8+CH(CH3)3+C4H10</td>
-<td class="cuerpo_tabla_centro">48,3</td>
-<td class="cuerpo_tabla_centro">1,98</td>
-<td class="cuerpo_tabla_centro">0,0063</td>
-<td class="cuerpo_tabla_centro">–41,9 a –20,4</td>
-<td class="cuerpo_tabla_centro">0,0063</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,032</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>3</td>
+<td>A3</td>
+<td>R-50</td>
+<td>Metano</td>
+<td>CH4</td>
+<td>16,0</td>
+<td>0.654</td>
+<td>0,006</td>
+<td>–161</td>
+<td>ND</td>
+<td>645</td>
+<td>0,032</td>
+<td>25</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3/A3</td>
-<td class="cuerpo_tabla_izq">R-443A</td>
-<td class="cuerpo_tabla_izq">R-1270/290/600a (55/40/5)</td>
-<td class="cuerpo_tabla_izq">CH3H6+C3H8+CH(CH3)3</td>
-<td class="cuerpo_tabla_centro">43,47</td>
-<td class="cuerpo_tabla_centro">1,8</td>
-<td class="cuerpo_tabla_centro">0,003</td>
-<td class="cuerpo_tabla_centro">–44,8 a –41,2</td>
-<td class="cuerpo_tabla_centro">0,003</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,036</td>
-<td class="cuerpo_tabla_centro">2,5</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>3</td>
+<td>A3</td>
+<td>R-170</td>
+<td>Etano</td>
+<td>C2H6</td>
+<td>30,0</td>
+<td>1,23</td>
+<td>0,0086</td>
+<td>–89</td>
+<td>0,0086</td>
+<td>515</td>
+<td>0,038</td>
+<td>6</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">A3/A3</td>
-<td class="cuerpo_tabla_izq">R(1)</td>
-<td class="cuerpo_tabla_izq">R32/1270/E170 (21/75/4)</td>
-<td class="cuerpo_tabla_izq">CH2F2+CH3H6+C2H6O</td>
-<td class="cuerpo_tabla_centro">44,0</td>
-<td class="cuerpo_tabla_centro">1,82</td>
-<td class="cuerpo_tabla_centro">0,0108</td>
-<td class="cuerpo_tabla_centro">–62,16 a –50,23</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">ND</td>
-<td class="cuerpo_tabla_centro">0,054</td>
-<td class="cuerpo_tabla_centro">143,9</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>3</td>
+<td>A3</td>
+<td>R-290</td>
+<td>Propano</td>
+<td>C3H8</td>
+<td>44,0</td>
+<td>1,80</td>
+<td>0,008</td>
+<td>–42</td>
+<td>0,09</td>
+<td>470</td>
+<td>0,038</td>
+<td>3</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3</td>
+<td>R-600</td>
+<td>Butano</td>
+<td>C4H10</td>
+<td>58,1</td>
+<td>2,38</td>
+<td>0,0089</td>
+<td>0</td>
+<td>0,0024</td>
+<td>365</td>
+<td>0,038</td>
+<td>4</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3</td>
+<td>R-600a</td>
+<td>2 Metilpropano (Isobutano)</td>
+<td>CH(CH3)3</td>
+<td>58,1</td>
+<td>2,38</td>
+<td>0,011</td>
+<td>–12</td>
+<td>0,059</td>
+<td>460</td>
+<td>0,043</td>
+<td>3</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3</td>
+<td>R-601</td>
+<td>Pentano</td>
+<td>C5H10</td>
+<td>72,1</td>
+<td>2,95</td>
+<td>0,008</td>
+<td>36</td>
+<td>0,0029</td>
+<td>ND</td>
+<td>0,035</td>
+<td>5</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3</td>
+<td>R-601a</td>
+<td>2 Metilbutano (Isopentano)</td>
+<td>(CH3)2CHCH2CH3</td>
+<td>72,1</td>
+<td>2,95</td>
+<td>0,008</td>
+<td>27</td>
+<td>0,0029</td>
+<td>ND</td>
+<td>0,038</td>
+<td>5</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3</td>
+<td>R-1150</td>
+<td>Etileno</td>
+<td>CH2 = CH2</td>
+<td>28,1</td>
+<td>1.15</td>
+<td>0,006</td>
+<td>–104</td>
+<td>ND</td>
+<td>425</td>
+<td>0,036</td>
+<td>4</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3</td>
+<td>R-1270</td>
+<td>Propileno</td>
+<td>CH3CH=CH2</td>
+<td>42,1</td>
+<td>1,72</td>
+<td>0,008</td>
+<td>–48</td>
+<td>0,0017</td>
+<td>455</td>
+<td>0,046</td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3</td>
+<td>R-E170</td>
+<td>Dimetileter</td>
+<td>CH3OCH3</td>
+<td>46</td>
+<td>1,88</td>
+<td>0,013</td>
+<td>–25</td>
+<td>0,079</td>
+<td>235</td>
+<td>0,064</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3</td>
+<td>R-510A</td>
+<td>R-E170/600a (88/12)</td>
+<td>C2H6O+CH(CH3)3</td>
+<td>47,25</td>
+<td>1,93</td>
+<td>0,011</td>
+<td>–25,1</td>
+<td>0.087</td>
+<td>ND</td>
+<td>0,056</td>
+<td>1,2</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3</td>
+<td>R-511A</td>
+<td>R-290/E170 (95/5)</td>
+<td>CH3H8+C2H6O</td>
+<td>44,2</td>
+<td>1,81</td>
+<td>0,008</td>
+<td>-42</td>
+<td>0,092</td>
+<td>ND</td>
+<td>0,038</td>
+<td>2,9</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3/A3</td>
+<td>R-429A</td>
+<td>R-E170/152a/600a (60/10/30)</td>
+<td>C2H6O+CHF2CH3+CH(CH3)3</td>
+<td>50,8</td>
+<td>2,08</td>
+<td>0,098</td>
+<td>–26,0 a –25,6</td>
+<td>0,098</td>
+<td>ND</td>
+<td>0,052</td>
+<td>13,9</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3/A3</td>
+<td>R-430A</td>
+<td>R-152a/600a (76/24)</td>
+<td>CHF2CH3+CH(CH3)3</td>
+<td>64</td>
+<td>2,61</td>
+<td>0,1</td>
+<td>–27,6 a –27,6</td>
+<td>0,10</td>
+<td>ND</td>
+<td>0,084</td>
+<td>95</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3/A3</td>
+<td>R-431A</td>
+<td>R-290/152a.(71/29)</td>
+<td>CH3H8+ CHF2CH3</td>
+<td>48,8</td>
+<td>2,0</td>
+<td>0,009</td>
+<td>–43,1 a –43,1</td>
+<td>0,10</td>
+<td>ND</td>
+<td>0,044</td>
+<td>38,1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3/A3</td>
+<td>R-432A</td>
+<td>R-1270/E170.(80/20)</td>
+<td>C3H6+C2H6O</td>
+<td>42,8</td>
+<td>1,75</td>
+<td>0,008</td>
+<td>–46,6 a –45,6</td>
+<td>0,0021</td>
+<td>ND</td>
+<td>0,039</td>
+<td>1,8</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3/A3</td>
+<td>R-333A</td>
+<td>R-1270/290.(30/70)</td>
+<td>C3H6+ CH3H8</td>
+<td>43,5</td>
+<td>1,78</td>
+<td>0,007</td>
+<td>–44,6 a –44,2</td>
+<td>0,0055</td>
+<td>ND</td>
+<td>0,036</td>
+<td>2,7</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3/A3</td>
+<td>R-433C</td>
+<td>R-1270/290 (25/75)</td>
+<td>C3H6+ CH3H8</td>
+<td>43,6</td>
+<td>1,78</td>
+<td>0,006</td>
+<td>–44,3 a –43,9</td>
+<td>0,0066</td>
+<td>ND</td>
+<td>0,032</td>
+<td>2,8</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3/A3</td>
+<td>R-435A</td>
+<td>R-E170/152a (80/20)</td>
+<td>C2H6O+C2H4F2</td>
+<td>49,0</td>
+<td>2,0</td>
+<td>0,014</td>
+<td>–26,1 a –25,9</td>
+<td>0,09</td>
+<td>ND</td>
+<td>0,069</td>
+<td>25,6</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3/A3</td>
+<td>R-436A</td>
+<td>R-290/600a (56/44)</td>
+<td>CH3H8+CH(CH3)3</td>
+<td>49,3</td>
+<td>2,02</td>
+<td>0,006</td>
+<td>–34,3 a –26,2</td>
+<td>0,073</td>
+<td>ND</td>
+<td>0,032</td>
+<td>3</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3/A3</td>
+<td>R-436B</td>
+<td>R-290/600a (52/48)</td>
+<td>CH3H8+CH(CH3)3</td>
+<td>49,9</td>
+<td>2,0</td>
+<td>0,007</td>
+<td>–33,4 a –25,0</td>
+<td>0,071</td>
+<td>ND</td>
+<td>0,033</td>
+<td>3</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3/A3</td>
+<td>R-441A</td>
+<td>R-170/290/600a/600 (3,1/54,8/6,0/36,1)</td>
+<td>C2H6+C3H8+CH(CH3)3+C4H10</td>
+<td>48,3</td>
+<td>1,98</td>
+<td>0,0063</td>
+<td>–41,9 a –20,4</td>
+<td>0,0063</td>
+<td>ND</td>
+<td>0,032</td>
+<td>3,5</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3/A3</td>
+<td>R-443A</td>
+<td>R-1270/290/600a (55/40/5)</td>
+<td>CH3H6+C3H8+CH(CH3)3</td>
+<td>43,47</td>
+<td>1,8</td>
+<td>0,003</td>
+<td>–44,8 a –41,2</td>
+<td>0,003</td>
+<td>ND</td>
+<td>0,036</td>
+<td>2,5</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A3/A3</td>
+<td>R(1)</td>
+<td>R32/1270/E170 (21/75/4)</td>
+<td>CH2F2+CH3H6+C2H6O</td>
+<td>44,0</td>
+<td>1,82</td>
+<td>0,0108</td>
+<td>–62,16 a –50,23</td>
+<td>ND</td>
+<td>ND</td>
+<td>0,054</td>
+<td>143,9</td>
+<td>0</td>
+<td>1</td>
 </tr>
 </tbody>
 </table>
@@ -5650,90 +5621,81 @@ Tabla A
 
 **Requisitos de límite de carga para refrigerantes basados en su toxicidad**
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Categoría de toxicidad</th>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Categoría del local por accesibilidad</th>
-<th class="cabeza_tabla" colspan="4">Tipo de ubicación de los sistemas</th>
+<th rowspan="2">Categoría de toxicidad</th>
+<th colspan="2" rowspan="2">Categoría del local por accesibilidad</th>
+<th colspan="4">Tipo de ubicación de los sistemas</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="5">A</td>
-<td class="cuerpo_tabla_centro" colspan="2">A</td>
-<td class="cuerpo_tabla_izq" colspan="2">Límite toxicidad x volumen del local o apéndice 4.</td>
-<td class="cuerpo_tabla_centro" rowspan="5">Sin límites de carga (a)</td>
-<td class="cuerpo_tabla_centro" rowspan="11">Los requisitos de carga por toxicidad tendrán que evaluarse según las categorías de los locales por ubicación de los sistemas 1,2 o 3 dependiendo de la ubicación de la envolvente ventilada.</td>
+<td rowspan="5">A</td>
+<td colspan="2">A</td>
+<td colspan="2">Límite toxicidad x volumen del local o apéndice 4.</td>
+<td rowspan="5">Sin límites de carga (a)</td>
+<td rowspan="11">Los requisitos de carga por toxicidad tendrán que evaluarse según las categorías de los locales por ubicación de los sistemas 1,2 o 3 dependiendo de la ubicación de la envolvente ventilada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">B</td>
-<td class="cuerpo_tabla_izq">Plantas superiores sin salidas de emergencia o sótanos.</td>
-<td class="cuerpo_tabla_izq">Límite toxicidad x volumen del local o apéndice 4.</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Sin límites de carga (a).</td>
+<td rowspan="2">B</td>
+<td>Plantas superiores sin salidas de emergencia o sótanos.</td>
+<td>Límite toxicidad x volumen del local o apéndice 4.</td>
+<td rowspan="4">Sin límites de carga (a).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros.</td>
-<td class="cuerpo_tabla_izq">Sin límites de carga (a).</td>
+<td>Otros.</td>
+<td>Sin límites de carga (a).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">C</td>
-<td class="cuerpo_tabla_izq">Plantas superiores sin salidas de emergencia o sótanos.</td>
-<td class="cuerpo_tabla_izq">Límite toxicidad x volumen del local o apéndice 4.</td>
+<td rowspan="2">C</td>
+<td>Plantas superiores sin salidas de emergencia o sótanos.</td>
+<td>Límite toxicidad x volumen del local o apéndice 4.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros.</td>
-<td class="cuerpo_tabla_izq">Sin límites de carga (a).</td>
+<td>Otros.</td>
+<td>Sin límites de carga (a).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">B</td>
-<td class="cuerpo_tabla_centro" colspan="2">A</td>
-<td class="cuerpo_tabla_izq" colspan="2">Para sistemas de absorción o adsorción sellados: límite de toxicidad x volumen del local y no más de 2,5 kg. Resto de sistemas: límite de toxicidad x volumen del local.</td>
-<td class="cuerpo_tabla_centro" rowspan="6">Sin límites de carga (a)</td>
+<td rowspan="6">B</td>
+<td colspan="2">A</td>
+<td colspan="2">Para sistemas de absorción o adsorción sellados: límite de toxicidad x volumen del local y no más de 2,5 kg. Resto de sistemas: límite de toxicidad x volumen del local.</td>
+<td rowspan="6">Sin límites de carga (a)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">B</td>
-<td class="cuerpo_tabla_izq">Plantas superiores sin salidas de emergencia o sótanos.</td>
-<td class="cuerpo_tabla_izq">Límite de toxicidad x volumen del local.</td>
-<td class="cuerpo_tabla_izq">Carga máx. 25 kg (a).</td>
+<td rowspan="3">B</td>
+<td>Plantas superiores sin salidas de emergencia o sótanos.</td>
+<td>Límite de toxicidad x volumen del local.</td>
+<td>Carga máx. 25 kg (a).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Densidad de personal inferior a 1 persona por 10m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Carga máx. 10 kg.</td>
-<td class="cuerpo_tabla_izq">Sin límites de carga (a).</td>
+<td>Densidad de personal inferior a 1 persona por 10m<sup>2</sup>.</td>
+<td rowspan="2">Carga máx. 10 kg.</td>
+<td>Sin límites de carga (a).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros.</td>
-<td class="cuerpo_tabla_izq">Carga máx. 25 kg (a).</td>
+<td>Otros.</td>
+<td>Carga máx. 25 kg (a).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">C</td>
-<td class="cuerpo_tabla_izq">Densidad de personal inferior a 1 persona por 10m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Carga no mayor de 50 kg (a) y salidas de emergencia existentes.</td>
-<td class="cuerpo_tabla_izq">Sin límites de carga (a).</td>
+<td rowspan="2">C</td>
+<td>Densidad de personal inferior a 1 persona por 10m<sup>2</sup>.</td>
+<td>Carga no mayor de 50 kg (a) y salidas de emergencia existentes.</td>
+<td>Sin límites de carga (a).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros.</td>
-<td class="cuerpo_tabla_izq">Carga máx. 10 kg (a).</td>
-<td class="cuerpo_tabla_izq">Carga máx. 25 kg (a).</td>
+<td>Otros.</td>
+<td>Carga máx. 10 kg (a).</td>
+<td>Carga máx. 25 kg (a).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="7">a) Para aire exterior aplicar límite de toxicidad por volumen del local punto 3.3.2 de IF-04 y para salas de máquinas IF-07.</td>
+<td colspan="7">a) Para aire exterior aplicar límite de toxicidad por volumen del local punto 3.3.2 de IF-04 y para salas de máquinas IF-07.</td>
 </tr>
 </tbody>
 </table>
@@ -5742,165 +5704,155 @@ Tabla B
 
 **Requisitos de límite de carga para sistemas de refrigeración basados en la inflamabilidad**
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Categoría de inflamabilidad</th>
-<th class="cabeza_tabla" colspan="3" rowspan="2">Categoría del local por accesibilidad</th>
-<th class="cabeza_tabla" colspan="3">Tipo de ubicación de los sistemas</th>
-<th class="cabeza_tabla"> </th>
+<th rowspan="2">Categoría de inflamabilidad</th>
+<th colspan="3" rowspan="2">Categoría del local por accesibilidad</th>
+<th colspan="3">Tipo de ubicación de los sistemas</th>
+<th> </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="7">2L</td>
-<td class="cuerpo_tabla_centro" rowspan="2">A</td>
-<td class="cuerpo_tabla_izq" colspan="2">Confort humano.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Según apéndice 3 pero no superior a m<sub>2</sub><sup>a</sup> x1,5 o según apéndice 4 pero no superior a m<sub>3</sub><sup>b</sup> x1,5.</td>
-<td class="cuerpo_tabla_centro" rowspan="7">Sin límite de carga<sup>c</sup></td>
-<td class="cuerpo_tabla_centro" rowspan="7">Carga de refrigerante no superior a m<sub>3</sub><sup>b</sup> x 1,5</td>
+<td rowspan="7">2L</td>
+<td rowspan="2">A</td>
+<td colspan="2">Confort humano.</td>
+<td colspan="2">Según apéndice 3 pero no superior a m<sub>2</sub><sup>a</sup> x1,5 o según apéndice 4 pero no superior a m<sub>3</sub><sup>b</sup> x1,5.</td>
+<td rowspan="7">Sin límite de carga<sup>c</sup></td>
+<td rowspan="7">Carga de refrigerante no superior a m<sub>3</sub><sup>b</sup> x 1,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Otras aplicaciones.</td>
+<td colspan="2">Otras aplicaciones.</td>
 <td colspan="2">20% x LII x volumen del local pero no más de m<sub>2</sub><sup>a</sup> x 1,5 o según apéndice 4 y no superior a m<sub>3</sub><sup>b</sup> x 1,5.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">B</td>
-<td class="cuerpo_tabla_izq" colspan="2">Confort humano.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Según apéndice 3 pero no superior a m<sub>2</sub><sup>a</sup> x1,5 o según apéndice 4 pero no superior a m<sub>3</sub><sup>b </sup>1,5.</td>
+<td rowspan="2">B</td>
+<td colspan="2">Confort humano.</td>
+<td colspan="2">Según apéndice 3 pero no superior a m<sub>2</sub><sup>a</sup> x1,5 o según apéndice 4 pero no superior a m<sub>3</sub><sup>b </sup>1,5.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Otras aplicaciones.</td>
-<td class="cuerpo_tabla_izq">20% x LII x volumen del local pero no más de m<sub>2</sub><sup>a</sup> x 1,5 o según apéndice 4 y no superior a m<sub>3</sub><sup>b</sup> x 1,5.</td>
-<td class="cuerpo_tabla_izq">20% x LII x volumen del local y no más de 25 kg<sup>c</sup> o según apéndice 4 pero no más de m<sub>3</sub><sup>b</sup>x 1,5.</td>
+<td colspan="2">Otras aplicaciones.</td>
+<td>20% x LII x volumen del local pero no más de m<sub>2</sub><sup>a</sup> x 1,5 o según apéndice 4 y no superior a m<sub>3</sub><sup>b</sup> x 1,5.</td>
+<td>20% x LII x volumen del local y no más de 25 kg<sup>c</sup> o según apéndice 4 pero no más de m<sub>3</sub><sup>b</sup>x 1,5.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">C</td>
-<td class="cuerpo_tabla_izq" colspan="2">Confort humano.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Según apéndice 3 pero no superior a m<sub>2</sub><sup>a</sup> x1,5 o según apéndice 4 pero no superior a m<sub>3</sub><sup>b</sup> x1,5.</td>
+<td rowspan="3">C</td>
+<td colspan="2">Confort humano.</td>
+<td colspan="2">Según apéndice 3 pero no superior a m<sub>2</sub><sup>a</sup> x1,5 o según apéndice 4 pero no superior a m<sub>3</sub><sup>b</sup> x1,5.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Otras aplicaciones.</td>
-<td class="cuerpo_tabla_izq">20% x LII x volumen del local pero no más de m<sub>2</sub><sup>a</sup> x 1,5 o según apéndice 4 y no superior a m<sub>3</sub><sup>b</sup> x 1,5.</td>
-<td class="cuerpo_tabla_izq">20% xLII x volumen del local y no más de 25 kg o según apéndice 4 pero no más de m<sub>3</sub><sup>b</sup>x 1,5.</td>
+<td colspan="2">Otras aplicaciones.</td>
+<td>20% x LII x volumen del local pero no más de m<sub>2</sub><sup>a</sup> x 1,5 o según apéndice 4 y no superior a m<sub>3</sub><sup>b</sup> x 1,5.</td>
+<td>20% xLII x volumen del local y no más de 25 kg o según apéndice 4 pero no más de m<sub>3</sub><sup>b</sup>x 1,5.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Inferior a 1 persona por cada 10 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">20% del LII x volumen del local y no más de 50 kg<sup>c</sup> o según apéndice 4 y no más de m<sub>3</sub><sup>b</sup> x 1,5.</td>
-<td class="cuerpo_tabla_izq">Sin límites de carga <sup>c</sup>.</td>
+<td colspan="2">Inferior a 1 persona por cada 10 m<sup>2</sup>.</td>
+<td>20% del LII x volumen del local y no más de 50 kg<sup>c</sup> o según apéndice 4 y no más de m<sub>3</sub><sup>b</sup> x 1,5.</td>
+<td>Sin límites de carga <sup>c</sup>.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="7">2</td>
-<td class="cuerpo_tabla_centro" rowspan="2">A</td>
-<td class="cuerpo_tabla_izq" colspan="2">Confort humano.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Según apéndice 3 pero no más de m<sub>2</sub><sup>a</sup>.</td>
-<td class="cuerpo_tabla_centro" rowspan="7">Sin restricciones<sup>c</sup></td>
-<td class="cuerpo_tabla_centro" rowspan="7">Carga de refrigerante no superior a m<sub>3</sub><sup>b</sup></td>
+<td rowspan="7">2</td>
+<td rowspan="2">A</td>
+<td colspan="2">Confort humano.</td>
+<td colspan="2">Según apéndice 3 pero no más de m<sub>2</sub><sup>a</sup>.</td>
+<td rowspan="7">Sin restricciones<sup>c</sup></td>
+<td rowspan="7">Carga de refrigerante no superior a m<sub>3</sub><sup>b</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Otras aplicaciones.</td>
-<td class="cuerpo_tabla_izq" colspan="2">20% x LII x volumen del local pero máximo m<sub>2</sub><sup>a</sup>.</td>
+<td colspan="2">Otras aplicaciones.</td>
+<td colspan="2">20% x LII x volumen del local pero máximo m<sub>2</sub><sup>a</sup>.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">B</td>
-<td class="cuerpo_tabla_izq" colspan="2">Confort humano.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Según apéndice 3 pero no más de m<sub>2</sub><sup>a</sup>.</td>
+<td rowspan="2">B</td>
+<td colspan="2">Confort humano.</td>
+<td colspan="2">Según apéndice 3 pero no más de m<sub>2</sub><sup>a</sup>.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Otras aplicaciones.</td>
-<td class="cuerpo_tabla_izq" colspan="2">20% x LII x volumen del local pero máximo m<sub>2</sub><sup>a</sup>.</td>
+<td colspan="2">Otras aplicaciones.</td>
+<td colspan="2">20% x LII x volumen del local pero máximo m<sub>2</sub><sup>a</sup>.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">C</td>
-<td class="cuerpo_tabla_izq" colspan="2">Confort humano.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Según apéndice 3 pero no más de m<sub>2</sub><sup>a</sup>.</td>
+<td rowspan="3">C</td>
+<td colspan="2">Confort humano.</td>
+<td colspan="2">Según apéndice 3 pero no más de m<sub>2</sub><sup>a</sup>.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Otras aplicaciones.</td>
-<td class="cuerpo_tabla_izq">Sótanos.</td>
-<td class="cuerpo_tabla_izq" colspan="2">20% x LII x volumen del local pero máximo m<sub>2</sub><sup>a</sup>.</td>
+<td rowspan="2">Otras aplicaciones.</td>
+<td>Sótanos.</td>
+<td colspan="2">20% x LII x volumen del local pero máximo m<sub>2</sub><sup>a</sup>.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plantas superiores.</td>
-<td class="cuerpo_tabla_izq">20% del LII x volumen del local pero máx 10 kg<sup>c</sup>.</td>
-<td class="cuerpo_tabla_izq">20% del LII x volumen del local pero máx 25 kg<sup>c</sup>.</td>
+<td>Plantas superiores.</td>
+<td>20% del LII x volumen del local pero máx 10 kg<sup>c</sup>.</td>
+<td>20% del LII x volumen del local pero máx 25 kg<sup>c</sup>.</td>
 </tr>
 <tr>
 <td colspan="8">
-<p class="cuerpo_tabla_izq">a) m<sub>2 </sub>= 26 m<sup>3 </sup>x LII.</p>
-<p class="cuerpo_tabla_izq">b) m<sub>3 </sub>= 130 m<sup>3 </sup>x LII.</p>
-<p class="cuerpo_tabla_izq">c) Para aire exterior aplicar límite de toxicidad por volumen del local punto 3.3.2 de IF-04 y para salas de máquinas IF-07.</p>
+<p>a) m<sub>2 </sub>= 26 m<sup>3 </sup>x LII.</p>
+<p>b) m<sub>3 </sub>= 130 m<sup>3 </sup>x LII.</p>
+<p>c) Para aire exterior aplicar límite de toxicidad por volumen del local punto 3.3.2 de IF-04 y para salas de máquinas IF-07.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="9">3</td>
+<td rowspan="9">3</td>
 <td rowspan="3">A</td>
-<td class="cuerpo_tabla_izq" colspan="2">Confort humano.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Según apéndice 3 y no más del valor mayor de m<sub>2</sub> o 1,5 kg.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">No más de 5kg<sup>c</sup></td>
-<td class="cuerpo_tabla_centro" rowspan="9">Carga del refrigerante no mayor de m<sub>3</sub><sup>b</sup></td>
+<td colspan="2">Confort humano.</td>
+<td colspan="2">Según apéndice 3 y no más del valor mayor de m<sub>2</sub> o 1,5 kg.</td>
+<td rowspan="3">No más de 5kg<sup>c</sup></td>
+<td rowspan="9">Carga del refrigerante no mayor de m<sub>3</sub><sup>b</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Otras aplicaciones.</td>
-<td class="cuerpo_tabla_izq">En sótanos.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Solo sistemas sellado: 20% x LII x volumen del local y no más de 1kg.</td>
+<td rowspan="2">Otras aplicaciones.</td>
+<td>En sótanos.</td>
+<td colspan="2">Solo sistemas sellado: 20% x LII x volumen del local y no más de 1kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sobre nivel terreno.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Solo sistemas sellados 20% x LII x volumen del local y no más de 1,5kg.</td>
+<td>Sobre nivel terreno.</td>
+<td colspan="2">Solo sistemas sellados 20% x LII x volumen del local y no más de 1,5kg.</td>
 </tr>
 <tr>
 <td rowspan="3">B</td>
-<td class="cuerpo_tabla_izq" colspan="2">Confort humano.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Según apéndice 3 y no más del valor mayor de m<sub>2</sub> o 1,5 kg.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">No más de 10 kg<sup>c</sup></td>
+<td colspan="2">Confort humano.</td>
+<td colspan="2">Según apéndice 3 y no más del valor mayor de m<sub>2</sub> o 1,5 kg.</td>
+<td rowspan="3">No más de 10 kg<sup>c</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Otras aplicaciones.</td>
-<td class="cuerpo_tabla_izq">En sótanos.</td>
-<td class="cuerpo_tabla_izq" colspan="2">20% del LII por volumen del local y no más de 1 kg<sup>a</sup>.</td>
+<td rowspan="2">Otras aplicaciones.</td>
+<td>En sótanos.</td>
+<td colspan="2">20% del LII por volumen del local y no más de 1 kg<sup>a</sup>.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sobre nivel terreno.</td>
+<td>Sobre nivel terreno.</td>
 <td colspan="2">20% del LII por volumen del local y no más de 2,5 kg.</td>
 </tr>
 <tr>
 <td rowspan="3">C</td>
-<td class="cuerpo_tabla_izq" colspan="2">Confort humano.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Según apéndice 3 y no más del valor mayor de m<sub>2</sub> o 1,5 kg.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">Sin restricciones<sup>c</sup></td>
+<td colspan="2">Confort humano.</td>
+<td colspan="2">Según apéndice 3 y no más del valor mayor de m<sub>2</sub> o 1,5 kg.</td>
+<td rowspan="3">Sin restricciones<sup>c</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Otras aplicaciones.</td>
-<td class="cuerpo_tabla_izq">En sótanos.</td>
-<td class="cuerpo_tabla_izq" colspan="2">20% del LII por volumen del local y no más de 1 kg<sup>c</sup>.</td>
+<td rowspan="2">Otras aplicaciones.</td>
+<td>En sótanos.</td>
+<td colspan="2">20% del LII por volumen del local y no más de 1 kg<sup>c</sup>.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sobre nivel terreno.</td>
-<td class="cuerpo_tabla_izq">20% x LII x volumen del local y no más de 10 kg<sup>c</sup>.</td>
-<td class="cuerpo_tabla_izq">20% x LII x volumen del local y no más de 25 kg<sup>c</sup>.</td>
+<td>Sobre nivel terreno.</td>
+<td>20% x LII x volumen del local y no más de 10 kg<sup>c</sup>.</td>
+<td>20% x LII x volumen del local y no más de 25 kg<sup>c</sup>.</td>
 </tr>
 <tr>
 <td colspan="8">
-<p class="cuerpo_tabla_izq">a) m<sub>2 </sub>= 26 m<sup>3 </sup>x LII.</p>
-<p class="cuerpo_tabla_izq">b) m<sub>3 </sub>= 130 m<sup>3 </sup>x LII.</p>
-<p class="cuerpo_tabla_izq">c) Para aire exterior aplicar límite de toxicidad por volumen del local punto 3.3.2 de IF-04 y para salas de máquinas IF-0.</p>
+<p>a) m<sub>2 </sub>= 26 m<sup>3 </sup>x LII.</p>
+<p>b) m<sub>3 </sub>= 130 m<sup>3 </sup>x LII.</p>
+<p>c) Para aire exterior aplicar límite de toxicidad por volumen del local punto 3.3.2 de IF-04 y para salas de máquinas IF-0.</p>
 </td>
 </tr>
 </tbody>
@@ -6127,91 +6079,84 @@ Tabla B
 
 **Tabla de interpolación para calcular el QLMV**
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">RCL</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla" colspan="2">Masa molar</th>
-<th class="cabeza_tabla"> </th>
+<th rowspan="2">RCL</th>
+<th> </th>
+<th colspan="2">Masa molar</th>
+<th> </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">50</th>
-<th class="cabeza_tabla">75</th>
-<th class="cabeza_tabla">100</th>
-<th class="cabeza_tabla">125</th>
+<th>50</th>
+<th>75</th>
+<th>100</th>
+<th>125</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>0,05 </strong>
 </td>
-<td class="cuerpo_tabla_centro">0,051</td>
-<td class="cuerpo_tabla_centro">0,051</td>
-<td class="cuerpo_tabla_centro">0,051</td>
-<td class="cuerpo_tabla_centro">0,051</td>
+<td>0,051</td>
+<td>0,051</td>
+<td>0,051</td>
+<td>0,051</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>0,10 </strong>
 </td>
-<td class="cuerpo_tabla_centro">0,106</td>
-<td class="cuerpo_tabla_centro">0,108</td>
-<td class="cuerpo_tabla_centro">0,108</td>
-<td class="cuerpo_tabla_centro">0,109</td>
+<td>0,106</td>
+<td>0,108</td>
+<td>0,108</td>
+<td>0,109</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>0,15 </strong>
 </td>
-<td class="cuerpo_tabla_centro">0,168</td>
-<td class="cuerpo_tabla_centro">0,173</td>
-<td class="cuerpo_tabla_centro">0,175</td>
-<td class="cuerpo_tabla_centro">0,176</td>
+<td>0,168</td>
+<td>0,173</td>
+<td>0,175</td>
+<td>0,176</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>0,20 </strong>
 </td>
-<td class="cuerpo_tabla_centro">0,242</td>
-<td class="cuerpo_tabla_centro">0,254</td>
-<td class="cuerpo_tabla_centro">0,260</td>
-<td class="cuerpo_tabla_centro">0,264</td>
+<td>0,242</td>
+<td>0,254</td>
+<td>0,260</td>
+<td>0,264</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>0,25 </strong>
 </td>
-<td class="cuerpo_tabla_centro">0,336</td>
-<td class="cuerpo_tabla_centro">0,367</td>
-<td class="cuerpo_tabla_centro">0,383</td>
-<td class="cuerpo_tabla_centro">0,394</td>
+<td>0,336</td>
+<td>0,367</td>
+<td>0,383</td>
+<td>0,394</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>0,30 </strong>
 </td>
-<td class="cuerpo_tabla_centro">0,470</td>
-<td class="cuerpo_tabla_centro">0,564</td>
-<td class="cuerpo_tabla_centro">0,633</td>
-<td class="cuerpo_tabla_centro">0,689</td>
+<td>0,470</td>
+<td>0,564</td>
+<td>0,633</td>
+<td>0,689</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>0,35 </strong>
 </td>
-<td class="cuerpo_tabla_centro">0,724</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>0,724</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
 </tr>
 </tbody>
 </table>
@@ -6934,55 +6879,48 @@ Tabla 1
 
 **Temperaturas de referencia para el diseño**
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Condiciones ambientales</th>
-<th class="cabeza_tabla">t ≤ 32 ºC</th>
-<th class="cabeza_tabla">32 ºC &lt; t ≤ 38 ºC</th>
-<th class="cabeza_tabla">38 ºC &lt; t ≤ 43 ºC</th>
-<th class="cabeza_tabla">43 ºC &lt; t ≤ 55 ºC</th>
+<th>Condiciones ambientales</th>
+<th>t ≤ 32 ºC</th>
+<th>32 ºC &lt; t ≤ 38 ºC</th>
+<th>38 ºC &lt; t ≤ 43 ºC</th>
+<th>43 ºC &lt; t ≤ 55 ºC</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Sector de alta presión con condensador enfriado por aire.</td>
-<td class="cuerpo_tabla_centro">55 ºC</td>
-<td class="cuerpo_tabla_centro">59 ºC</td>
-<td class="cuerpo_tabla_centro">63 ºC</td>
-<td class="cuerpo_tabla_centro">67 ºC</td>
+<td>Sector de alta presión con condensador enfriado por aire.</td>
+<td>55 ºC</td>
+<td>59 ºC</td>
+<td>63 ºC</td>
+<td>67 ºC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sector de alta presión con condensador refrigerado por líquido.</td>
-<td class="cuerpo_tabla_izq" colspan="4">Máxima temperatura de salida del líquido +8 K, pero no inferior a la temperatura de diseño en el sector de baja presión.</td>
+<td>Sector de alta presión con condensador refrigerado por líquido.</td>
+<td colspan="4">Máxima temperatura de salida del líquido +8 K, pero no inferior a la temperatura de diseño en el sector de baja presión.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sector alta presión con condensador evaporativo.</td>
-<td class="cuerpo_tabla_centro">43 ºC</td>
-<td class="cuerpo_tabla_centro">43 ºC</td>
-<td class="cuerpo_tabla_centro">43 ºC</td>
-<td class="cuerpo_tabla_centro">55 ºC</td>
+<td>Sector alta presión con condensador evaporativo.</td>
+<td>43 ºC</td>
+<td>43 ºC</td>
+<td>43 ºC</td>
+<td>55 ºC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sector de baja presión con intercambiador expuesto a temperatura ambiente.</td>
-<td class="cuerpo_tabla_centro">32 ºC</td>
-<td class="cuerpo_tabla_centro">38 ºC</td>
-<td class="cuerpo_tabla_centro">43 ºC</td>
-<td class="cuerpo_tabla_centro">55 ºC</td>
+<td>Sector de baja presión con intercambiador expuesto a temperatura ambiente.</td>
+<td>32 ºC</td>
+<td>38 ºC</td>
+<td>43 ºC</td>
+<td>55 ºC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sector de baja presión con intercambiador expuesto a temperatura interior.</td>
-<td class="cuerpo_tabla_centro">27 ºC</td>
-<td class="cuerpo_tabla_centro">33 ºC</td>
-<td class="cuerpo_tabla_centro">38 ºC</td>
-<td class="cuerpo_tabla_centro">38 ºC</td>
+<td>Sector de baja presión con intercambiador expuesto a temperatura interior.</td>
+<td>27 ºC</td>
+<td>33 ºC</td>
+<td>38 ºC</td>
+<td>38 ºC</td>
 </tr>
 </tbody>
 </table>
@@ -8433,42 +8371,38 @@ En este caso se considerará necesario que el componente esté calculado para re
 
 Las tuberías de interconexión de los sistemas frigoríficos serán sometidas a una prueba neumática a 1,1 por la presión máxima admisible (PS). Previamente se deberán llevar a cabo los ensayos no destructivos detallados en la tabla siguiente:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tipo de soldadura</th>
-<th class="cabeza_tabla">Extensión END</th>
+<th>Tipo de soldadura</th>
+<th>Extensión END</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Todas las uniones.</td>
-<td class="cuerpo_tabla_centro">Examen visual (VT) al 100 %</td>
+<td>Todas las uniones.</td>
+<td>Examen visual (VT) al 100 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Soldaduras circunferenciales<sup>a</sup>.</p>
-<p class="cuerpo_tabla_izq">Derivaciones y tubuladuras soldadas DN≥100.</p>
+<td>
+<p>Soldaduras circunferenciales<sup>a</sup>.</p>
+<p>Derivaciones y tubuladuras soldadas DN≥100.</p>
 </td>
-<td class="cuerpo_tabla_centro">10 %<sup>b</sup> RT o UT</td>
+<td>10 %<sup>b</sup> RT o UT</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Derivaciones y tubuladuras soldadas DN&lt;100 y uniones de enchufe (SW).</td>
-<td class="cuerpo_tabla_centro">10 % PT</td>
+<td>Derivaciones y tubuladuras soldadas DN&lt;100 y uniones de enchufe (SW).</td>
+<td>10 % PT</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Soldaduras longitudinales, si no han estado ya sujetas a END o pruebas de presión en la factoría del fabricante.</td>
-<td class="cuerpo_tabla_centro">100 % RT o UT</td>
+<td>Soldaduras longitudinales, si no han estado ya sujetas a END o pruebas de presión en la factoría del fabricante.</td>
+<td>100 % RT o UT</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"><sup>a</sup> Para soldaduras y dimensiones de las uniones donde los ultrasonidos (UT) o radiografías (RT) no permitan una clara evaluación, se efectuará una comprobación con líquidos penetrantes (PT).</p>
-<p class="cuerpo_tabla_izq"><sup>b</sup> Hasta DN ≤600, se controlará al 100% el 10% de las soldaduras, para DN &gt;600 se controlará el 10% de la longitud total de las soldaduras.</p>
-<p class="cuerpo_tabla_izq">END = Ensayos No Destructivos.</p>
+<td colspan="2">
+<p><sup>a</sup> Para soldaduras y dimensiones de las uniones donde los ultrasonidos (UT) o radiografías (RT) no permitan una clara evaluación, se efectuará una comprobación con líquidos penetrantes (PT).</p>
+<p><sup>b</sup> Hasta DN ≤600, se controlará al 100% el 10% de las soldaduras, para DN &gt;600 se controlará el 10% de la longitud total de las soldaduras.</p>
+<p>END = Ensayos No Destructivos.</p>
 </td>
 </tr>
 </tbody>

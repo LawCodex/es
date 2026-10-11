@@ -6334,32 +6334,6 @@ En el cumplimiento de las obligaciones previstas en este apartado, el Colegio de
 
 Corresponde a la Dirección General de Seguridad Jurídica y Fe Pública la inspección y control del cumplimiento de lo previsto en este apartado y, especialmente, lo relativo al examen y verificación técnica de los requisitos que han de cumplir las diferentes redes telemáticas, sistemas de acreditación y verificación de la vigencia de los certificados electrónicos y sistemas de sellado de tiempo. En el ejercicio de esta competencia podrá requerir la colaboración de los órganos técnicos que entienda oportuno, así como ordenar mediante Instrucciones a las diferentes organizaciones corporativas que adopten las medidas precisas para el funcionamiento del sistema.
 
-> Téngase en cuenta que esta actualización del artículo, establecida por la disposición final 2.1 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 4.1.
-
-> Redacción anterior:
-
-> **"**Artículo 108. Adecuación a los principios rectores de la firma electrónica.
-
-> 1\. La prestación de servicios de certificación se hará de conformidad con lo dispuesto en la Ley 59/2003, de 19 de diciembre, de firma electrónica, a efectos de expedir certificados electrónicos mediante los que se vinculen unos datos de verificación de firma a la identidad, cualidad profesional, situación administrativa de los notarios y registradores de la propiedad, mercantiles y de bienes muebles en activo así como la plaza de destino asignada.
-
-> Los notarios y registradores de la propiedad, mercantiles y de bienes muebles, deberán disponer para la adecuada prestación de sus funciones públicas de firma electrónica reconocida. Dicha firma electrónica reconocida deberá obtenerse de un prestador de servicios de certificación que cumpla con los requisitos previstos en el artículo 20 de la Ley 59/2003, de 19 de diciembre, y, en todo caso, con pleno respeto al principio de libre acceso a la actividad de prestación de los servicios de certificación.
-
-> Reglamentariamente se desarrollarán los requisitos a que hayan de someterse los dispositivos de creación y verificación de firma electrónica, la forma en que deban ser generados y entregados a sus titulares, las menciones que deban contener los certificados, el procedimiento y publicidad de su vigencia, suspensión o revocación, en el marco de lo dispuesto en la Ley 59/2003, de 19 de diciembre, de firma electrónica.
-
-> 2\. La emisión, transmisión, comunicación y recepción de información que permita la presentación de títulos notariales en los diferentes Registros de la propiedad, mercantiles y de bienes muebles, así como el envío de cuanta notificación, calificación y comunicación deban dirigir éstos a los notarios se realizará mediante los Sistemas de Información corporativos de cada organización debidamente conectados.
-
-> El Colegio de Registradores de la Propiedad y Mercantiles de España y el Consejo General del Notariado, a través de sus medios correspondientes, deberán garantizar a los prestadores de servicio de certificación que lo soliciten, incluidas las respectivas organizaciones corporativas, la condición de registrador o notario en activo al tiempo de la firma de la calificación o comunicación notificada o del instrumento público remitido, la vigencia, revocación y suspensión del certificado electrónico, mediante el mantenimiento de un directorio actualizado de certificados debidamente protegido, así como un servicio de consulta permanente, rápido y seguro.
-
-> Asimismo, ambas organizaciones corporativas deberán aplicar el mecanismo de sellado de tiempo en cuanto envío y recepción de información se practique, en los términos que reglamentariamente se disponga. A tal fin, deberán disponer de sistemas horarios homogéneos debiendo sincronizar sus respectivos sistemas de sellado de tiempo con la señal horaria del Real Instituto y Observatorio de la Armada, de conformidad con lo previsto en el Real Decreto 1308/1992, de 23 de octubre, por el que se atribuye a ese laboratorio la función de depositario del Patrón Nacional de Tiempo.
-
-> En todo caso, el Colegio de Registradores de la Propiedad y Mercantiles de España, para el adecuado cumplimiento del principio de prioridad registral, deberá establecer en cada Registro de la propiedad, mercantil y de bienes muebles una sola fuente de sellado de tiempo sincronizada en los términos expuestos en el párrafo precedente para todos los títulos que puedan causar inscripción de conformidad con lo dispuesto en los artículos 3 de la Ley Hipotecaria y 18 del Código de Comercio, éste último, aprobado por Real Decreto de 22 de agosto de 1885. Dicha fuente única de sellado de tiempo deberá garantizar que los títulos presentados telemáticamente, con independencia de su origen, se asientan correlativamente con expresión de la unidad de tiempo precisa a tal fin.
-
-> En el cumplimiento de las obligaciones previstas en este apartado, el Colegio de Registradores de la Propiedad y Mercantiles de España y el Consejo General del Notariado, actuarán con autonomía y respeto a los diferentes sistemas empleados por cada organización corporativa, no obstante lo cual deberán colaborar para garantizar el adecuado funcionamiento del sistema, siendo obligatorias para sus respectivos miembros las medidas internas de unificación técnica y procedimiento que adopten para la consecución de dicha coordinación en todas las oficinas públicas, Registrales y Notariales.
-
-> Corresponde a la Dirección General de los Registros y del Notariado la inspección y control del cumplimiento de lo previsto en este apartado y, especialmente, lo relativo al examen y verificación técnica de los requisitos que han de cumplir las diferentes redes telemáticas, sistemas de acreditación y verificación de la vigencia de los certificados electrónicos y sistemas de sellado de tiempo. En el ejercicio de esta competencia podrá requerir la colaboración de los órganos técnicos que entienda oportuno, así como ordenar mediante Instrucciones a las diferentes organizaciones corporativas que adopten las medidas precisas para el funcionamiento del sistema.
-
-> Reglamentariamente podrán modificarse las obligaciones relativas a la emisión, transmisión, comunicación y recepción de información mediante los Sistemas de Información corporativos de cada organización, ampliándolo a otros sistemas de información que puedan aparecer en el futuro. En todo caso estos sistemas de información deberán cumplir con las mismas características que determine la Dirección General de los Registros y del Notariado para los sistemas de información del Consejo General del Notariado y del Colegio de Registradores de la Propiedad y Mercantiles de España previstas en el artículo 107.3 de esta Ley."
-
 > Se modifica por la disposición final 2.1 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -6387,32 +6361,6 @@ d) Corresponderse con un dispositivo cualificado de creación de firma ajustado 
 5\. Las notarias y notarios y las registradoras y registradores de la propiedad, mercantiles y de bienes muebles estarán obligados a custodiar personalmente, adoptando las medidas de seguridad adecuadas, los datos de creación de firma electrónica que les corresponda, no podrán ceder su uso a ninguna otra persona en ningún supuesto, y deberán denunciar inmediatamente al Colegio respectivo su pérdida, extravío o deterioro, así como cualquier situación o acaecimiento que pueda poner en peligro el secreto o la unicidad del mecanismo, para que lo comunique al prestador de servicios de certificación que hubiera expedido el certificado o a quien le hubiera sido transferido, para que proceda inmediatamente a su suspensión o revocación.
 
 6\. En todo caso, los prestadores cualificados de servicios de confianza deberán proceder a la inmediata revocación de sus certificados a instancia de la autoridad corporativa competente, que así deberá ordenarlo a solicitud del propio signatario conforme a lo dispuesto en el apartado anterior, y cuando se produzca su cese en la plaza de destino, suspensión, jubilación o fallecimiento. En los supuestos de la interrupción temporal de las funciones del signatario previstos en la legislación notarial o hipotecaria, o a requerimiento de este, se procederá a la suspensión del correspondiente certificado.
-
-> Téngase en cuenta que esta actualización del artículo, establecida por la disposición final 2.2 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 4.1.
-
-> Redacción anterior:
-
-> **"**Artículo 109. Régimen especial de la firma electrónica de Notarios y Registradores de la Propiedad, Mercantiles y de Bienes Muebles.
-
-> 1\. A los efectos indicados, la firma electrónica para notarios y registradores de la propiedad, mercantiles y de bienes muebles, que deberá tener el carácter de avanzada, habrá de cumplir, además, los siguientes requisitos:
-
-> a) Estar amparada por un certificado reconocido emitido por un prestador de servicios de certificación, de conformidad con lo dispuesto en la Ley 59/2003, de 19 de diciembre, de firma electrónica.
-
-> b) Vincular unos datos de verificación de firma a la identidad del titular, su condición de notario o registrador de la propiedad, mercantil o de bienes muebles en servicio activo y la plaza de destino;
-
-> c) Expresar que el uso de la firma electrónica se encuentra limitado exclusivamente a la suscripción de documentos públicos u oficiales propios del oficio del signatario;
-
-> d) Corresponderse con un dispositivo seguro de creación de firma ajustado a lo dispuesto en el artículo anterior y generado conforme al mismo.
-
-> 2\. Los notarios y registradores de la propiedad, mercantiles y de bienes muebles habrán de obtener, en el momento de la toma de posesión de una plaza, una firma electrónica avanzada, basada en un certificado reconocido, con un dispositivo seguro de creación de firma, de conformidad con lo previsto en este artículo. De igual manera, habrá de procederse cuando se produzca la revocación o expiración del período de validez del certificado precedente.
-
-> 3\. A tal fin, deberá procederse en ese momento a la generación de los datos de verificación de firma, con intervención personal del signatario, en presencia de la autoridad corporativa competente y auxiliado por los mecanismos técnicos correspondientes. Los prestadores de servicios de certificación en ningún caso podrán almacenar ni copiar los datos de creación de firma.
-
-> 4\. Los prestadores de servicios de certificación no podrán emitir los certificados que amparan las firmas electrónicas profesionales de notarios y registradores de la propiedad, mercantiles o de bienes muebles hasta tanto no hayan recibido notificación electrónica, firmada por el titular del órgano corporativo competente, expresiva de los datos de verificación de firma del signatario y acreditativa de la condición de notario o registrador de la propiedad, mercantil o de bienes muebles, de la situación de servicio activo del mismo, de su plaza de destino, y de haberse cumplido los requisitos de asunción de la firma electrónica que reglamentariamente se establezcan.
-
-> 5\. Los notarios y los registradores de la propiedad, mercantiles o de bienes muebles estarán obligados a custodiar personalmente, adoptando las medidas de seguridad adecuadas, los datos de creación de firma electrónica que les corresponda, no podrán ceder su uso a ninguna otra persona en ningún supuesto, y deberán denunciar inmediatamente al Colegio respectivo su pérdida, extravío o deterioro, así como cualquier situación o acaecimiento que pueda poner en peligro el secreto o la unicidad del mecanismo, para que lo comunique al prestador de servicios de certificación que hubiera expedido el certificado o a quien le hubiera sido transferido, para que proceda inmediatamente a su suspensión o revocación.
-
-> 6\. En todo caso, y sin perjuicio de lo dispuesto en el artículo 9 del Real Decreto-ley 14/1999, de 17 de septiembre, sobre firma electrónica, los prestadores de servicios de certificación deberán proceder a la inmediata revocación de sus certificados a instancia de la autoridad corporativa competente, que así deberá ordenarlo a solicitud del propio signatario conforme a lo dispuesto en el párrafo anterior, y cuando se produzca su cese en la plaza de destino. En los supuestos de la interrupción temporal de las funciones del signatario previstos en la legislación notarial o hipotecaria, o a requerimiento del mismo, se procederá a la suspensión del correspondiente certificado."
 
 > Se modifica por la disposición final 2.2 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -6450,8 +6398,6 @@ c) La firma se realizará por cualquiera de los medios previstos en el artículo
 
 5\. Si los documentos resultantes de la actuación realizada por videoconferencia debieran ser presentados en el Registro, la presentación podrá realizarse el mismo acto por el registrador, actuando por cuenta del interesado.
 
-> Téngase en cuenta que este artículo, añadido por el art. 38.1 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022), entra en vigor el 9 de mayo de 2024, según determina su disposición final 18.6.
-
 > Se añade por el art. 38.1 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
 
 > Esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
@@ -6459,8 +6405,6 @@ c) La firma se realizará por cualquiera de los medios previstos en el artículo
 ###### Artículo 111 ter. Interoperabilidad de los sistemas de información y comunicación de registradores y notarios.
 
 Los sistemas de información y comunicación que se utilicen por registradores y notarios deberán ser interoperables entre sí para facilitar su comunicación e integración.
-
-> Téngase en cuenta que este artículo, añadido por el art. 38.2 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022), entra en vigor el 9 de mayo de 2024, según determina su disposición final 18.6.
 
 > Se añade por el art. 38.2 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
 
@@ -6487,8 +6431,6 @@ Los sistemas de información y comunicación que se utilicen por registradores y
 4.ª Los documentos electrónicos que sean soporte de documentos privados que se presenten deberán estar firmados con firma electrónica reconocida amparada en un certificado reconocido conforme a la Ley 59/2003, de 19 de diciembre, de firma electrónica.
 
 6\. En el caso de que los interesados opten por relacionarse electrónicamente con los Registros de la Propiedad, Mercantiles y de Bienes Muebles podrán utilizar, además del certificado cualificado de firma, cualquiera de los medios previstos en el artículo 10.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las administraciones públicas.
-
-> Téngase en cuenta que el apartado 6, añadido por el art. 38.3 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022), entra en vigor el 9 de mayo de 2024, según determina su disposición final 18.6.
 
 > Se añade el apartado 6 por el art. 38.3 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
 

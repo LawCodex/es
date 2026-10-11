@@ -176,8 +176,6 @@ e) No ser beneficiarias de una prestación pública o privada de servicio reside
 
 – Personas beneficiarias de una prestación pública o privada de servicio residencial permanente de tipo social, sanitario o sociosanitario.
 
-> Téngase en cuenta que el apartado 1.e), modificado por el art. 1 de la Ley 3/2018, de 23 de octubre. [Ref. BOE-A-2018-15299](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15299), producirá efectos a la entrada en vigor de la Ley de Presupuestos posterior a la mencionada ley, según se establece en su disposición final.
-
 2\. No tienen derecho a la renta garantizada de ciudadanía las personas que se encuentran en alguna de las siguientes circunstancias:
 
 a) Las personas que han cesado voluntariamente en su actividad laboral dentro de los doce meses anteriores a la solicitud de la prestación.
@@ -564,219 +562,219 @@ El plazo de resolución para las solicitudes que se presenten en el plazo de dos
 
 2\. Para cada uno de los períodos que se indican en la siguiente tabla son aplicables el umbral de pobreza y la cuantía de la prestación que se establece, en función de la persona o personas que forman parte de la unidad familiar y siempre en las cuantías que se deriven del tanto por ciento del indicador de renta de suficiencia de Cataluña vigente en cada momento:
 
-<table cellpadding="0" cellspacing="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Miembros unidad familiar</p>
+<p>Miembros unidad familiar</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">2017, 15 de septiembre</p>
+<p>2017, 15 de septiembre</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">2018, 15 de septiembre</p>
+<p>2018, 15 de septiembre</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">2019, 15 de septiembre</p>
+<p>2019, 15 de septiembre</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">2020, 1 de abril</p>
+<p>2020, 1 de abril</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Importe</p>
+<p>Importe</p>
 </td>
 <td>
-<p class="cabeza_tabla">% IRSC</p>
+<p>% IRSC</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe</p>
+<p>Importe</p>
 </td>
 <td>
-<p class="cabeza_tabla">% IRSC</p>
+<p>% IRSC</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe</p>
+<p>Importe</p>
 </td>
 <td>
-<p class="cabeza_tabla">% IRSC</p>
+<p>% IRSC</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe</p>
+<p>Importe</p>
 </td>
 <td>
-<p class="cabeza_tabla">%</p>
-<p class="cabeza_tabla">IRSC</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1 adulto</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">564</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">85%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">604</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">91%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">644</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">97%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">664</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">100%</p>
+<p>%</p>
+<p>IRSC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2 adultos</p>
+<p>1 adulto</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">
+<p>564</p>
+</td>
+<td>
+<p>85%</p>
+</td>
+<td>
+<p>604</p>
+</td>
+<td>
+<p>91%</p>
+</td>
+<td>
+<p>644</p>
+</td>
+<td>
+<p>97%</p>
+</td>
+<td>
+<p>664</p>
+</td>
+<td>
+<p>100%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2 adultos</p>
+</td>
+<td>
+<p>
 <strong>836</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126%</p>
+<p>126%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">
+<p>
 <strong>896</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">135%</p>
+<p>135%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">
+<p>
 <strong>956</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">144%</p>
+<p>144%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">996</p>
+<p>996</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">150%</p>
+<p>150%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">
+<p>
 <strong>909</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137%</p>
+<p>137%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">
+<p>
 <strong>969</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">146%</p>
+<p>146%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">
+<p>
 <strong>1.029</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">155%</p>
+<p>155%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.096</p>
+<p>1.096</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">165%</p>
+<p>165%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">
+<p>
 <strong>982</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148%</p>
+<p>148%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">
+<p>
 <strong>1.042</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">157%</p>
+<p>157%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">
+<p>
 <strong>1.102</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">166%</p>
+<p>166%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.196</p>
+<p>1.196</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">180%</p>
+<p>180%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">
+<p>
 <strong>1.062</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">160%</p>
+<p>160%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">
+<p>
 <strong>1.122</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">169%</p>
+<p>169%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">
+<p>
 <strong>1.891</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">178%</p>
+<p>178%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.208</p>
+<p>1.208</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">182%</p>
+<p>182%</p>
 </td>
 </tr>
 </tbody>

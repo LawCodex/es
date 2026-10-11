@@ -532,64 +532,64 @@ SDL. Suelo destinado a dotaciones públicas del sistema local: Superficie, en me
 
 2\. En defecto de determinaciones del planeamiento territorial o en ausencia de norma reglamentaria, los estándares a los que deberán ajustar los planes los indicadores anteriores en sus respectivos ámbitos de actuación, serán los siguientes:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla" colspan="2">Núcleos de relevancia territorial</th>
-<th class="cabeza_tabla" colspan="2">Núcleos de base del sistema territorial</th>
+<th> </th>
+<th colspan="2">Núcleos de relevancia territorial</th>
+<th colspan="2">Núcleos de base del sistema territorial</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">Densidad</td>
+<td colspan="5">Densidad</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Mínimo</td>
-<td class="cuerpo_tabla_centro">Objetivo</td>
-<td class="cuerpo_tabla_centro">Mínimo</td>
-<td class="cuerpo_tabla_centro">Objetivo</td>
+<td> </td>
+<td>Mínimo</td>
+<td>Objetivo</td>
+<td>Mínimo</td>
+<td>Objetivo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">DP</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">65 hbt/ha</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">45 hbt/ha</td>
+<td>DP</td>
+<td> </td>
+<td>65 hbt/ha</td>
+<td> </td>
+<td>45 hbt/ha</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">DV</td>
-<td class="cuerpo_tabla_centro">20 viv/ha</td>
-<td class="cuerpo_tabla_centro">50 viv/ha</td>
-<td class="cuerpo_tabla_centro">10 viv/ha</td>
-<td class="cuerpo_tabla_centro">40 viv/ha</td>
+<td>DV</td>
+<td>20 viv/ha</td>
+<td>50 viv/ha</td>
+<td>10 viv/ha</td>
+<td>40 viv/ha</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">Zonas verdes</td>
+<td colspan="5">Zonas verdes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ZVG</td>
-<td class="cuerpo_tabla_centro" colspan="2">≥ 5 m<sup>2</sup>/hbt</td>
-<td class="cuerpo_tabla_centro" colspan="2">≥ 5 m<sup>2</sup>/hbt</td>
+<td>ZVG</td>
+<td colspan="2">≥ 5 m<sup>2</sup>/hbt</td>
+<td colspan="2">≥ 5 m<sup>2</sup>/hbt</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ZVL</td>
-<td class="cuerpo_tabla_centro" colspan="2">≥ 5 m<sup>2</sup>/hbt</td>
-<td class="cuerpo_tabla_centro" colspan="2">≥ 5 m<sup>2</sup>/hbt</td>
+<td>ZVL</td>
+<td colspan="2">≥ 5 m<sup>2</sup>/hbt</td>
+<td colspan="2">≥ 5 m<sup>2</sup>/hbt</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">Dotaciones públicas</td>
+<td colspan="5">Dotaciones públicas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">SDG</td>
-<td class="cuerpo_tabla_centro" colspan="2">≥ 6,1 m<sup>2</sup>/hbt</td>
-<td class="cuerpo_tabla_centro" colspan="2">≥ 6,1 m<sup>2</sup>/hbt</td>
+<td>SDG</td>
+<td colspan="2">≥ 6,1 m<sup>2</sup>/hbt</td>
+<td colspan="2">≥ 6,1 m<sup>2</sup>/hbt</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">SDL</td>
-<td class="cuerpo_tabla_centro" colspan="2">≥ 1,6 m<sup>2</sup>/hbt</td>
-<td class="cuerpo_tabla_centro" colspan="2">≥ 1,6 m<sup>2</sup>/hbt</td>
+<td>SDL</td>
+<td colspan="2">≥ 1,6 m<sup>2</sup>/hbt</td>
+<td colspan="2">≥ 1,6 m<sup>2</sup>/hbt</td>
 </tr>
 </tbody>
 </table>

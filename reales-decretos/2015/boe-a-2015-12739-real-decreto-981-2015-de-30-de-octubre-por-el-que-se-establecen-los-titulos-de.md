@@ -7423,60 +7423,55 @@ Hidrotrineo y aletas.
 
 Serán impartidas por quienes posean la especialidad que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Ciclo inicial</p>
+<p>Ciclo inicial</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Módulo de enseñanza deportiva</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101. Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+<td>MED-C101. Bases del comportamiento deportivo.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedrático de Enseñanza Secundaria.</p>
+<p>Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-C102. Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física</p>
-<p class="cuerpo_tabla_izq">Procesos sanitarios.</p>
+<td rowspan="2">MED-C102. Primeros auxilios.</td>
+<td>
+<p>Educación física</p>
+<p>Procesos sanitarios.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Procedimientos sanitarios y asistenciales.</td>
-<td class="cuerpo_tabla_izq">Profesores Técnicos de Formación Profesional.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-C104.Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+<td>
+<p>Catedrático de Enseñanza Secundaria.</p>
+<p>Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C105. Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+<td>Procedimientos sanitarios y asistenciales.</td>
+<td>Profesores Técnicos de Formación Profesional.</td>
+</tr>
+<tr>
+<td>MED-C104.Organización deportiva.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedrático de Enseñanza Secundaria.</p>
+<p>Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>MED-C105. Actividad físico-deportiva para personas con discapacidad.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedrático de Enseñanza Secundaria.</p>
+<p>Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 </tbody>
@@ -7496,155 +7491,145 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Ciclo inicial en piragüismo</p>
+<p>Ciclo inicial en piragüismo</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Módulo de enseñanza deportiva</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-PIPI102 Técnica de aguas bravas.</p>
-<p class="cuerpo_tabla_izq">MED-PIPI103Técnica de aguas tranquilas.</p>
-<p class="cuerpo_tabla_izq">MED-PIPI104 Técnica de kayak de mar.</p>
-<p class="cuerpo_tabla_izq">MED-PIPI105 Técnica de kayak polo.</p>
-<p class="cuerpo_tabla_izq">MED-PIPI106 Organización de evento de iniciación en piragüismo.</p>
-<p class="cuerpo_tabla_izq">MED-PIPI107 Formación práctica.</p>
+<td rowspan="2">
+<p>MED-PIPI102 Técnica de aguas bravas.</p>
+<p>MED-PIPI103Técnica de aguas tranquilas.</p>
+<p>MED-PIPI104 Técnica de kayak de mar.</p>
+<p>MED-PIPI105 Técnica de kayak polo.</p>
+<p>MED-PIPI106 Organización de evento de iniciación en piragüismo.</p>
+<p>MED-PIPI107 Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Piragüismo de Aguas Bravas.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Piragüismo en Aguas Tranquilas.</p>
+<td>
+<p>Educación física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Piragüismo de Aguas Bravas.</p>
+<p>• Técnico Deportivo Superior en Piragüismo en Aguas Tranquilas.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td rowspan="2">
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">• Profesor especialista.</td>
+<td>• Profesor especialista.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva"> Ciclos finales en piragüismo de aguas bravas, en piragüismo de aguas tranquilas, y en piragüismo recreativo guía en aguas bravas</p>
+<p> Ciclos finales en piragüismo de aguas bravas, en piragüismo de aguas tranquilas, y en piragüismo recreativo guía en aguas bravas</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Módulo de enseñanza deportiva</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-PIPI202 Escuela de piragüismo.</p>
-<p class="cuerpo_tabla_izq">MED-PIPI203 Piragüismo adaptado.</p>
-<p class="cuerpo_tabla_izq">MED-PIPI204 Organización de eventos en piragüismo.</p>
+<td rowspan="2">
+<p>MED-PIPI202 Escuela de piragüismo.</p>
+<p>MED-PIPI203 Piragüismo adaptado.</p>
+<p>MED-PIPI204 Organización de eventos en piragüismo.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Piragüismo de Aguas Bravas.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Piragüismo en Aguas Tranquilas.</p>
+<td>
+<p>Educación física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Piragüismo de Aguas Bravas.</p>
+<p>• Técnico Deportivo Superior en Piragüismo en Aguas Tranquilas.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">• Profesor especialista.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-PIAB205 Perfeccionamiento técnico en piragüismo de aguas bravas.</p>
-<p class="cuerpo_tabla_izq">MED-PIAB206 Seguridad, lectura y material técnica de piragüismo de aguas bravas.</p>
-<p class="cuerpo_tabla_izq">MED-PIAB207 Preparación física del piragüismo en aguas bravas.</p>
-<p class="cuerpo_tabla_izq">MED-PIAB208 Formación práctica.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con el título:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Piragüismo de Aguas Bravas.</p>
-</td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td rowspan="2">
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">• Profesor especialista.</td>
+<td>• Profesor especialista.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-PIAT209 Perfeccionamiento técnico en piragüismo de aguas tranquilas.</p>
-<p class="cuerpo_tabla_izq">MED-PIAT210 Entrenamiento en aguas tranquilas.</p>
-<p class="cuerpo_tabla_izq">MED-PIAT211 Manejo de embarcaciones de recreo.</p>
-<p class="cuerpo_tabla_izq">MED-PIAT212 Formación práctica.</p>
+<td rowspan="2">
+<p>MED-PIAB205 Perfeccionamiento técnico en piragüismo de aguas bravas.</p>
+<p>MED-PIAB206 Seguridad, lectura y material técnica de piragüismo de aguas bravas.</p>
+<p>MED-PIAB207 Preparación física del piragüismo en aguas bravas.</p>
+<p>MED-PIAB208 Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con el título:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Piragüismo de Aguas Tranquilas.</p>
+<td>
+<p>Educación física con el título:</p>
+<p>• Técnico Deportivo Superior en Piragüismo de Aguas Bravas.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">• Profesor especialista.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-PIPR214 Perfeccionamiento técnico en kayak.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Piragüismo de Aguas Bravas.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo en Piragüismo Recreativo Guía en Aguas Bravas.</p>
-</td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td rowspan="2">
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">• Profesor especialista.</td>
+<td>• Profesor especialista.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED- PIPR215 Perfeccionamiento técnico en balsa e hidrotrineo.</p>
-<p class="cuerpo_tabla_izq">MED- PIPR216 Expedición, logística y materiales.</p>
-<p class="cuerpo_tabla_izq">MED- PIPR217 Seguridad en itinerarios guiados.</p>
-<p class="cuerpo_tabla_izq">MED- PIPR218 Formación práctica.</p>
+<td rowspan="2">
+<p>MED-PIAT209 Perfeccionamiento técnico en piragüismo de aguas tranquilas.</p>
+<p>MED-PIAT210 Entrenamiento en aguas tranquilas.</p>
+<p>MED-PIAT211 Manejo de embarcaciones de recreo.</p>
+<p>MED-PIAT212 Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física con el título:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo en Piragüismo Recreativo Guía en Aguas Bravas.</p>
+<td>
+<p>Educación física con el título:</p>
+<p>• Técnico Deportivo Superior en Piragüismo de Aguas Tranquilas.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td rowspan="2">
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">• Profesor especialista.</td>
+<td>• Profesor especialista.</td>
+</tr>
+<tr>
+<td rowspan="2">MED-PIPR214 Perfeccionamiento técnico en kayak.</td>
+<td>
+<p>Educación física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Piragüismo de Aguas Bravas.</p>
+<p>• Técnico Deportivo en Piragüismo Recreativo Guía en Aguas Bravas.</p>
+</td>
+<td rowspan="2">
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>• Profesor especialista.</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>MED- PIPR215 Perfeccionamiento técnico en balsa e hidrotrineo.</p>
+<p>MED- PIPR216 Expedición, logística y materiales.</p>
+<p>MED- PIPR217 Seguridad en itinerarios guiados.</p>
+<p>MED- PIPR218 Formación práctica.</p>
+</td>
+<td>
+<p>Educación física con el título:</p>
+<p>• Técnico Deportivo en Piragüismo Recreativo Guía en Aguas Bravas.</p>
+</td>
+<td rowspan="2">
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>• Profesor especialista.</td>
 </tr>
 </tbody>
 </table>
@@ -7761,64 +7746,59 @@ La experiencia laboral se acreditará mediante la certificación de la empresa d
 
 ## ANEXO XVII — Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia docente
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulos de enseñanza deportiva</th>
-<th class="cabeza_tabla" colspan="2">Experiencia docente</th>
+<th>Módulos de enseñanza deportiva</th>
+<th colspan="2">Experiencia docente</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <em>Ciclo inicial de grado medio en piragüismo</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-PIPI102 Técnica de aguas bravas.</p>
-<p class="cuerpo_tabla_izq">MED-PIPI103 Técnica de aguas tranquilas.</p>
-<p class="cuerpo_tabla_izq">MED-PIPI104 Técnica de kayak de mar.</p>
-<p class="cuerpo_tabla_izq">MED-PIPI105 Técnica de kayak polo.</p>
-<p class="cuerpo_tabla_izq">MED-PIPI106 Organización de evento de iniciación en piragüismo.</p>
+<td>
+<p>MED-PIPI102 Técnica de aguas bravas.</p>
+<p>MED-PIPI103 Técnica de aguas tranquilas.</p>
+<p>MED-PIPI104 Técnica de kayak de mar.</p>
+<p>MED-PIPI105 Técnica de kayak polo.</p>
+<p>MED-PIPI106 Organización de evento de iniciación en piragüismo.</p>
 </td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Experiencia como profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del R.D. 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del R.D. 1363/2007, de 24 de octubre.</p>
-<p class="cuerpo_tabla_izq">La experiencia deberá ser de, al menos, el triple de las horas establecidas en este real decreto, como currículo básico del módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
+<td colspan="2">
+<p>Experiencia como profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del R.D. 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del R.D. 1363/2007, de 24 de octubre.</p>
+<p>La experiencia deberá ser de, al menos, el triple de las horas establecidas en este real decreto, como currículo básico del módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <em>Ciclos finales de grado medio en piragüismo de aguas bravas, en piragüismo de aguas tranquilas y piragüismo recreativo de aguas bravas</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">MED-PIPI202 Escuela de piragüismo.</p>
-<p class="cuerpo_tabla_izq">MED-PIPI203 Piragüismo adaptado.</p>
-<p class="cuerpo_tabla_izq">MED-PIPI204 Organización de eventos en piragüismo.</p>
-<p class="cuerpo_tabla_izq">MED-PIAB205 Perfeccionamiento técnico en piragüismo de aguas bravas.</p>
-<p class="cuerpo_tabla_izq">MED-PIAB206 Seguridad, lectura y material técnica de piragüismo de aguas bravas.</p>
-<p class="cuerpo_tabla_izq">MED-PIAB207 Preparación física del piragüismo en aguas bravas.</p>
-<p class="cuerpo_tabla_izq">MED-PIAT209 Perfeccionamiento técnico en piragüismo de aguas tranquilas.</p>
-<p class="cuerpo_tabla_izq">MED-PIAT210 Entrenamiento en aguas tranquilas.</p>
-<p class="cuerpo_tabla_izq">MED-PIPR214 Perfeccionamiento técnico en kayak.</p>
-<p class="cuerpo_tabla_izq">MED-PIPR215 Perfeccionamiento técnico en balsa e hidrotrineo.</p>
-<p class="cuerpo_tabla_izq">MED-PIPR216 Expedición, logística y materiales.</p>
-<p class="cuerpo_tabla_izq">MED-PIPR217 Seguridad en itinerarios guiados.</p>
+<td colspan="2">
+<p>MED-PIPI202 Escuela de piragüismo.</p>
+<p>MED-PIPI203 Piragüismo adaptado.</p>
+<p>MED-PIPI204 Organización de eventos en piragüismo.</p>
+<p>MED-PIAB205 Perfeccionamiento técnico en piragüismo de aguas bravas.</p>
+<p>MED-PIAB206 Seguridad, lectura y material técnica de piragüismo de aguas bravas.</p>
+<p>MED-PIAB207 Preparación física del piragüismo en aguas bravas.</p>
+<p>MED-PIAT209 Perfeccionamiento técnico en piragüismo de aguas tranquilas.</p>
+<p>MED-PIAT210 Entrenamiento en aguas tranquilas.</p>
+<p>MED-PIPR214 Perfeccionamiento técnico en kayak.</p>
+<p>MED-PIPR215 Perfeccionamiento técnico en balsa e hidrotrineo.</p>
+<p>MED-PIPR216 Expedición, logística y materiales.</p>
+<p>MED-PIPR217 Seguridad en itinerarios guiados.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Experiencia como profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre.</p>
-<p class="cuerpo_tabla_izq">La experiencia deberá ser de, al menos, el triple de las horas establecidas en este real decreto, como currículo básico del módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
+<p>Experiencia como profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre.</p>
+<p>La experiencia deberá ser de, al menos, el triple de las horas establecidas en este real decreto, como currículo básico del módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
 </td>
 </tr>
 </tbody>

@@ -642,160 +642,160 @@ c) «Ganancia con relación a una antena vertical corta (Gv)», si la antena de 
 
 En los márgenes establecidos en el CNAF para cada banda de frecuencias o en los que expresamente sean autorizados, las potencias máximas de las emisiones serán las indicadas en la tabla siguiente:
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Banda de frecuencias (kHz)</p>
+<p>Banda de frecuencias (kHz)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Potencia máxima (vatios)</p>
+<p>Potencia máxima (vatios)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">137 (2200 m).</p>
+<p>137 (2200 m).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 (p.i.r.e).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">475 (630 m).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 (p.i.r.e). Hasta 5 vatios (p.i.r.e) en zonas geográficas distantes más de 800 km de la frontera de países africanos.</p>
+<p>1 (p.i.r.e).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Banda de frecuencias (MHz)</p>
+<p>475 (630 m).</p>
 </td>
 <td>
-<p class="cabeza_tabla">Potencia máxima (vatios)</p>
+<p>1 (p.i.r.e). Hasta 5 vatios (p.i.r.e) en zonas geográficas distantes más de 800 km de la frontera de países africanos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.8 (160 m).</p>
+<p>Banda de frecuencias (MHz)</p>
+</td>
+<td>
+<p>Potencia máxima (vatios)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.8 (160 m).</p>
 </td>
 <td rowspan="9">
-<p class="cuerpo_tabla_izq">1000 (p.c.e.).</p>
+<p>1000 (p.c.e.).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3.5 (80 m).</p>
+<p>3.5 (80 m).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">7 (40 m).</p>
+<p>7 (40 m).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10 (30 m).</p>
+<p>10 (30 m).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">14 (20 m).</p>
+<p>14 (20 m).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">18 (17 m).</p>
+<p>18 (17 m).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">21 (15 m).</p>
+<p>21 (15 m).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">24 (12 m).</p>
+<p>24 (12 m).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">28 (10 m).</p>
+<p>28 (10 m).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50 (6 m).</p>
+<p>50 (6 m).</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">600 (p.c.e.).</p>
+<p>600 (p.c.e.).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">70 (4 m).</p>
+<p>70 (4 m).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">144 a 146 (2 m).</p>
+<p>144 a 146 (2 m).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">430 a 440 (70 cm).</p>
+<p>430 a 440 (70 cm).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">300 (p.c.e).</p>
+<p>300 (p.c.e).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.240 a 1.300 (23 cm).</p>
+<p>1.240 a 1.300 (23 cm).</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">1000 (p.i.r.e).</p>
+<p>1000 (p.i.r.e).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2.300 a 2.450 (13 cm).</p>
+<p>2.300 a 2.450 (13 cm).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Banda de frecuencias (GHz)</p>
+<p>Banda de frecuencias (GHz)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Potencia máxima (vatios)</p>
+<p>Potencia máxima (vatios)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5,650 a 5,850 (6 cm).</p>
+<p>5,650 a 5,850 (6 cm).</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">1000 (p.i.r.e).</p>
+<p>1000 (p.i.r.e).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10 (3 cm)</p>
+<p>10 (3 cm)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">24 (1,5 cm).</p>
+<p>24 (1,5 cm).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">47 (6 mm).</p>
+<p>47 (6 mm).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">75 a 250.</p>
+<p>75 a 250.</p>
 </td>
 </tr>
 </table>

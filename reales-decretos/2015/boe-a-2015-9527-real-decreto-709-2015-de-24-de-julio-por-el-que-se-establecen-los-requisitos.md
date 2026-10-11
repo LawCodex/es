@@ -214,8 +214,6 @@ Se definirá en un lugar especificado por el fabricante, que será el lugar de c
 
 36\. Modo de emergencia del mercado interior: modo de emergencia del mercado interior tal como se define en el artículo 3, número 3, del Reglamento (UE) 2024/2747 del Parlamento Europeo y del Consejo, de 9 de octubre de 2024.
 
-> Téngase en cuenta que los apartados 35 y 36, añadidos por el art. 4.1 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entran en vigor el 30 de mayo de 2026, según establece su disposición final 4.
-
 > Se añaden los apartados 35 y 36 por el art. 4.1 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
 ### Artículo 3. Comercialización y puesta en servicio.
@@ -788,8 +786,6 @@ A los incumplimientos de lo dispuesto en el presente real decreto les será de a
 
 4\. Los organismos notificados harán esfuerzos razonables por aumentar sus capacidades en materia de ensayo para los equipos a presión o conjuntos a que se refiere el apartado 1 en relación con las cuales hayan sido notificados.
 
-> Téngase en cuenta que este artículo, añadido por el art. 4.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entra en vigor el 30 de mayo de 2026, según establece su disposición final 4.
-
 > Se añade por el art. 4.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
 ### Artículo 38. Excepción a los procedimientos de evaluación de la conformidad que requieren la participación obligatoria de un organismo notificado.
@@ -862,8 +858,6 @@ Las comunidades autónomas informarán inmediatamente de dichas medidas a la Com
 
 12\. Las autorizaciones concedidas de acuerdo con el apartado 1 o el reconocimiento de las autorizaciones concedidas en otros Estados miembros de acuerdo con el apartado 5 no afectará a la aplicación de los procedimientos de evaluación de la conformidad pertinentes establecidos en el artículo 14.
 
-> Téngase en cuenta que este artículo, añadido por el art. 4.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entra en vigor el 30 de mayo de 2026, según establece su disposición final 4.
-
 > Se añade por el art. 4.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
 ### Artículo 39. Presunción de conformidad basada en normas y especificaciones comunes de los equipos a presión o conjuntos que hayan sido designados como bienes pertinentes para crisis.
@@ -873,8 +867,6 @@ Las comunidades autónomas informarán inmediatamente de dichas medidas a la Com
 2\. Cuando el órgano competente de una comunidad autónoma considere que una norma o especificación común contemplada en el apartado 1 del artículo 43 quinquies de la Directiva 2014/68/UE del Parlamento Europeo y del Consejo, de 15 de mayo de 2014, no satisface plenamente los requisitos esenciales de seguridad aplicables establecidos en el anexo I de este real decreto, lo comunicará al órgano competente del Ministerio de Industria y Turismo enviando una explicación detallada.
 
 El órgano competente del Ministerio de Industria y Turismo informará de ello a la Comisión.
-
-> Téngase en cuenta que este artículo, añadido por el art. 4.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entra en vigor el 30 de mayo de 2026, según establece su disposición final 4.
 
 > Se añade por el art. 4.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
@@ -901,8 +893,6 @@ En el plazo máximo de cinco días hábiles desde la remisión de la solicitud a
 6\. Cuando la solicitud indicada en el apartado anterior requiera asistencia específica de una autoridad de vigilancia del mercado concreta, las solicitudes serán remitidas directamente a dicha comunidad autónoma informando de ello al Estado miembro solicitante.
 
 7\. Las solicitudes de asistencia entre las autoridades de vigilancia del mercado, así como el resto de comunicaciones a las que se refiere el presente artículo se realizarán por medios electrónicos.
-
-> Téngase en cuenta que este artículo, añadido por el art. 4.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entra en vigor el 30 de mayo de 2026, según establece su disposición final 4.
 
 > Se añade por el art. 4.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 

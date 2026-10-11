@@ -259,220 +259,212 @@ Del total de la superficie de ampliación, únicamente 2.249,47 ha se hallan en 
 
 El polígono del Parque Nacional ampliado es el limitado por los puntos detallados en la siguiente tabla:
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_8">
-<col class="row_column_9">
-<col class="row_column_10">
-<col class="row_column_10">
-<col class="row_column_11">
-<col class="row_column_11">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_12">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Punto</p>
+<p>Punto</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Coordenadas geográficas ETRS89</p>
-<p class="cabeza_tabla">(EPSG: 4258)</p>
+<p>Coordenadas geográficas ETRS89</p>
+<p>(EPSG: 4258)</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Coordenadas proyectadas</p>
-<p class="cabeza_tabla">UTM Huso 31N Datum ETRS89</p>
-<p class="cabeza_tabla">(EPSG: 25831)</p>
+<p>Coordenadas proyectadas</p>
+<p>UTM Huso 31N Datum ETRS89</p>
+<p>(EPSG: 25831)</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cabeza_tabla">Latitud</p>
+<p>Latitud</p>
 </td>
 <td>
-<p class="cabeza_tabla">Longitud</p>
+<p>Longitud</p>
 </td>
 <td>
-<p class="cabeza_tabla">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cabeza_tabla">Y</p>
+<p>Y</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Punta N del PNMT de Cabrera.</p>
+<p>Punta N del PNMT de Cabrera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39º 13’ 25,748” N</p>
+<p>39º 13’ 25,748” N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2º 57’ 56,070” E</p>
+<p>2º 57’ 56,070” E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">497.028,50</p>
+<p>497.028,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.341.615,05</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_der">39º 13’ 25,753” N</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3º 10’ 56,083” E</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">515.731,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.341.630,46</p>
+<p>4.341.615,05</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">C</p>
+<p>B</p>
 </td>
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39º 16’ 55,759” N</p>
+<p>39º 13’ 25,753” N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3º 14’ 56,084” E</p>
+<p>3º 10’ 56,083” E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">521.467,89</p>
+<p>515.731,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.348.117,95</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_centro">D</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_der">39º 11’ 55,751” N</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3º 22’ 56,101” E</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">533.006,94</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.338.909,78</p>
+<p>4.341.630,46</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">E</p>
+<p>C</p>
 </td>
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38º 56’ 55,717” N</p>
+<p>39º 16’ 55,759” N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3º 4’ 56,089” E</p>
+<p>3º 14’ 56,084” E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">507.127,04</p>
+<p>521.467,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.311.099,25</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_centro">F</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_der">38º 56’ 55,709” N</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2º 49’ 56,067” E</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">485.462,98</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.311.109,16</p>
+<p>4.348.117,95</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">G</p>
+<p>D</p>
 </td>
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39º 5’ 55,735” N</p>
+<p>39º 11’ 55,751” N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3º 0’ 56,078” E</p>
+<p>3º 22’ 56,101” E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">501.346,99</p>
+<p>533.006,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.327.742,44</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_centro">H</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_der">39º 5’ 55,731” N</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2º 53’ 26,069” E</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">490.537,86</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.327.747,89</p>
+<p>4.338.909,78</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Punta NO del actual PNMT de Cabrera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39º 9’ 55,739” N</p>
+<p>38º 56’ 55,717” N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2º 53’ 26,067” E</p>
+<p>3º 4’ 56,089” E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">490.546,73</p>
+<p>507.127,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.335.146,38</p>
+<p>4.311.099,25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F</p>
+</td>
+<td>
+</td>
+<td>
+<p>38º 56’ 55,709” N</p>
+</td>
+<td>
+<p>2º 49’ 56,067” E</p>
+</td>
+<td>
+<p>485.462,98</p>
+</td>
+<td>
+<p>4.311.109,16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G</p>
+</td>
+<td>
+</td>
+<td>
+<p>39º 5’ 55,735” N</p>
+</td>
+<td>
+<p>3º 0’ 56,078” E</p>
+</td>
+<td>
+<p>501.346,99</p>
+</td>
+<td>
+<p>4.327.742,44</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>H</p>
+</td>
+<td>
+</td>
+<td>
+<p>39º 5’ 55,731” N</p>
+</td>
+<td>
+<p>2º 53’ 26,069” E</p>
+</td>
+<td>
+<p>490.537,86</p>
+</td>
+<td>
+<p>4.327.747,89</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>Punta NO del actual PNMT de Cabrera.</p>
+</td>
+<td>
+<p>39º 9’ 55,739” N</p>
+</td>
+<td>
+<p>2º 53’ 26,067” E</p>
+</td>
+<td>
+<p>490.546,73</p>
+</td>
+<td>
+<p>4.335.146,38</p>
 </td>
 </tr>
 </tbody>

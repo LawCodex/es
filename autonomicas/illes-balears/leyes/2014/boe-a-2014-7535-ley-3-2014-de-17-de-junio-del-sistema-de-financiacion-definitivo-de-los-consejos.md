@@ -230,204 +230,204 @@ Donde *d*toma valor 1 para el Consejo Insular de Mallorca, 1,4 para los consejos
 
 4\. Las categorías de gasto, las variables socioeconómicas representativas y las ponderaciones respectivas, expresadas en tanto por ciento, son las siguientes:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Categorías de gasto</p>
+<th>
+<p>Categorías de gasto</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Ponderación</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Porcentaje</p>
+<th>
+<p>Ponderación</p>
+<p>–</p>
+<p>Porcentaje</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Variables</p>
+<th>
+<p>Variables</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Ponderación</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Porcentaje</p>
+<th>
+<p>Ponderación</p>
+<p>–</p>
+<p>Porcentaje</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Administración general</p>
+<p>Administración general</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10,30</p>
+<p>10,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Población ampliada.</p>
+<p>Población ampliada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>100</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Seguridad y protección civil</p>
+<p>Seguridad y protección civil</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">1,44</p>
+<p>1,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Población ampliada.</p>
+<p>Población ampliada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
+<p>50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Superficie forestal.</p>
+<p>Superficie forestal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
+<p>50</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">Servicios sociales</p>
+<p>Servicios sociales</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">48,49</p>
+<p>48,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Población de derecho.</p>
+<p>Población de derecho.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Población de derecho de 65 y más años.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>45</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Dispersión de la población.</p>
+<p>Población de derecho de 65 y más años.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Población parada.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Población de derecho de 18 y menos años.</p>
+<p>Dispersión de la población.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>7</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Cultura y deportes</p>
+<p>Población parada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,74</p>
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Población de derecho de 18 y menos años.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Población ampliada.</p>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cultura y deportes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>6,74</p>
+</td>
+<td>
+<p>Población ampliada.</p>
+</td>
+<td>
+<p>100</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Vivienda y urbanismo</p>
+<p>Vivienda y urbanismo</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">1,64</p>
+<p>1,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Población ampliada.</p>
+<p>Población ampliada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80</p>
+<p>80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Superficie.</p>
+<p>Superficie.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">Medio ambiente</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">2,51</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Población ampliada.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Superficie.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Superficie protegida.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>20</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">Carreteras</p>
+<p>Medio ambiente</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">28,88</p>
+<p>2,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Población ampliada.</p>
+<p>Población ampliada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Superficie.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Dispersión de la población.</p>
+<p>Superficie.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Superficie protegida.</p>
+</td>
+<td>
+<p>30</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Carreteras</p>
+</td>
+<td rowspan="3">
+<p>28,88</p>
+</td>
+<td>
+<p>Población ampliada.</p>
+</td>
+<td>
+<p>50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Superficie.</p>
+</td>
+<td>
+<p>30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dispersión de la población.</p>
+</td>
+<td>
+<p>20</p>
 </td>
 </tr>
 </tbody>

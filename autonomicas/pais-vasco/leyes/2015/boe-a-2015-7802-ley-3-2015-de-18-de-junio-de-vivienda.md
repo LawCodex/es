@@ -1612,12 +1612,6 @@ Reglamentariamente se crearán un distintivo y una placa de formato y caracterí
 
 **(Derogada)**
 
-> Téngase en cuenta que esta derogación establecida por la disposición derogatoria.b) de la Ley 14/2022, de 22 de diciembre, [Ref. BOE-A-2023-1405](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1405), entra en vigor el 29 de marzo de 2023, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "Corresponde al departamento competente en materia de vivienda del Gobierno Vasco el ejercicio de las competencias que se reconocen a la Administración general de la Comunidad Autónoma en la Ley 18/2008, de 23 de diciembre, para la Garantía de Ingresos y para la Inclusión Social, en materia de prestación complementaria de vivienda."
-
 > Se deroga, con efectos desde el 29 de marzo de 2023, por la disposición derogatoria.b) de la Ley 14/2022, de 22 de diciembre. [Ref. BOE-A-2023-1405](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-1405)
 
 #### Disposición adicional tercera. Promoción o adquisición de conjuntos residenciales por asociaciones sin ánimo de lucro, en régimen de cesión de uso.

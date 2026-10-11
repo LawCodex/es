@@ -572,8 +572,6 @@ c) Especiales, cuando afecten exclusivamente a uno o varios grupos de bienes inm
 
 La publicación de dichos acuerdos, que indicará en todo caso el lugar y plazo de exposición al público de las ponencias a que se refieran, se realizará antes del 1 de julio del año en que se adopten, en caso de ponencias de valores totales, y antes del 1 de octubre, en caso de ponencias de valores parciales y especiales.
 
-> Téngase en cuenta que se amplía, con vigencia exclusiva para el ejercicio 2023, el plazo para la aprobación y publicación de las ponencias de valores totales previsto en el apartado 3, hasta el 31 de julio de 2023, según establece la disposición transitoria 3 de la Ley 31/2022, de 23 de diciembre. [Ref. BOE-A-2022-22128](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22128)
-
 4\. Las ponencias de valores serán recurribles en vía económico-administrativa, sin que la interposición de la reclamación suspenda la ejecutoriedad del acto.
 
 > Se amplía, con vigencia exclusiva para el ejercicio 2023, el plazo para la aprobación y publicación de las ponencias de valores totales previsto en el apartado 3, hasta el 31 de julio de 2023, según establece la disposición transitoria 3 de la Ley 31/2022, de 23 de diciembre. [Ref. BOE-A-2022-22128](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22128)
@@ -722,7 +720,7 @@ La aplicación de los coeficientes previstos en este apartado, excluirá la de l
 
 > <sup>**(1)**</sup> En relación con lo previsto en el apartado primero, los coeficientes de actualización establecidos en las últimas Leyes de Presupuestos Generales del Estado, con respecto a los vigentes para el año correspondiente anterior, han sido los siguientes:
 
-> <table border="0">
+> <table>
 > <tbody>
 > <tr>
 > <td>
@@ -738,10 +736,10 @@ La aplicación de los coeficientes previstos en este apartado, excluirá la de l
 > <strong>OBSERVACIONES</strong>
 > </td>
 > </tr>
-> <tr align="left" class="parrafo" valign="middle">
+> <tr>
 > <td>Para 1981</td>
 > <td rowspan="6">C.T.U.</td>
-> <td align="left" scope="col" valign="middle">1,35 (*)</td>
+> <td>1,35 (*)</td>
 > <td rowspan="6">C.T.R.P.</td>
 > <td>-</td>
 > <td rowspan="6">

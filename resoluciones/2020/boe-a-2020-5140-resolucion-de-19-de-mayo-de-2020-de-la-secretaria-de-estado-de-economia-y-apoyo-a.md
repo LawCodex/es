@@ -79,153 +79,144 @@ Los límites autorizados en el Acuerdo de Consejo de Ministros de 24 de marzo de
 
 Millones de euros
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tramo I</p>
-<p class="cabeza_tabla">ACM 24.03.2020</p>
+<th> </th>
+<th>
+<p>Tramo I</p>
+<p>ACM 24.03.2020</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tramo II</p>
-<p class="cabeza_tabla">ACM 10.04.2020</p>
+<th>
+<p>Tramo II</p>
+<p>ACM 10.04.2020</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tramo III</p>
-<p class="cabeza_tabla">ACM 05.05.2020</p>
+<th>
+<p>Tramo III</p>
+<p>ACM 05.05.2020</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tramo IV</p>
-<p class="cabeza_tabla">ACM 19.05.202</p>
+<th>
+<p>Tramo IV</p>
+<p>ACM 19.05.202</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tramo MARF</p>
-<p class="cabeza_tabla">ACM</p>
+<th>
+<p>Tramo MARF</p>
+<p>ACM</p>
 </th>
-<th class="cabeza_tabla">Total</th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">Importe avales</td>
-<td class="cuerpo_tabla_centro">20.000</td>
-<td class="cuerpo_tabla_centro">20.000</td>
-<td class="cuerpo_tabla_centro">20.000</td>
-<td class="cuerpo_tabla_centro">20.000</td>
-<td class="cuerpo_tabla_centro">4.000</td>
-<td class="cuerpo_tabla_centro">84.000</td>
+<td>Importe avales</td>
+<td>20.000</td>
+<td>20.000</td>
+<td>20.000</td>
+<td>20.000</td>
+<td>4.000</td>
+<td>84.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>Años</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td> </td>
+<td> </td>
+<td colspan="2">
 <strong>Otros gastos financieros 27.03.931M. 359</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2020</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
+<td>2020</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2021</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
+<td>2021</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2022</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">8,4</td>
+<td>2022</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>0,4</td>
+<td>8,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2023</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">8,4</td>
+<td>2023</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>0,4</td>
+<td>8,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2024</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">8,4</td>
+<td>2024</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>0,4</td>
+<td>8,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2025</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">8,4</td>
+<td>2025</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>0,4</td>
+<td>8,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2026</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">8,4</td>
+<td>2026</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>0,4</td>
+<td>8,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2026</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
+<td>2026</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
+<td>2028</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Total</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">42</td>
+<td>Total</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>2</td>
+<td>42</td>
 </tr>
 </tbody>
 </table>

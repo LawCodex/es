@@ -3839,58 +3839,53 @@ Equipamientos: ciclos de grado superior
 
 Serán impartidas por quienes posean la especialidad que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo de Grado Superior</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo de Grado Superior</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C301 Factores fisiológicos del alto rendimiento.</td>
-<td class="cuerpo_tabla_izq">– Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+<td>MED-C301 Factores fisiológicos del alto rendimiento.</td>
+<td>– Educación física.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-C302 Factores Psicosociales del alto rendimiento.</p>
-<p class="cuerpo_tabla_izq">MED-C303 Formación de formadores deportivos.</p>
+<td rowspan="2">
+<p>MED-C302 Factores Psicosociales del alto rendimiento.</p>
+<p>MED-C303 Formación de formadores deportivos.</p>
 </td>
-<td class="cuerpo_tabla_izq">– Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">– Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+<td>– Educación física.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C304 Organización y gestión aplicada al alto rendimiento.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Educación física.</p>
-<p class="cuerpo_tabla_izq">– Formación y organización laboral.</p>
+<td>– Educación física.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</tr>
+<tr>
+<td>MED-C304 Organización y gestión aplicada al alto rendimiento.</td>
+<td>
+<p>– Educación física.</p>
+<p>– Formación y organización laboral.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 </tbody>
@@ -3900,57 +3895,52 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla_ancha" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo de Grado Superior</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo de Grado Superior</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-BMBM 301 Metodología para el alto rendimiento en balonmano.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM 302 Formación técnico táctica individual en alto rendimiento en balonmano.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM 303 Juego colectivo ofensivo en alto rendimiento en balonmano.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM 304 Juego colectivo defensivo en alto rendimiento en balonmano.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM 305 Dirección deportiva en alto rendimiento.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM 306 Dirección de equipo en alto rendimiento.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM 307 Preparación física en el alto rendimiento en balonmano.</p>
+<td rowspan="2">
+<p>MED-BMBM 301 Metodología para el alto rendimiento en balonmano.</p>
+<p>MED-BMBM 302 Formación técnico táctica individual en alto rendimiento en balonmano.</p>
+<p>MED-BMBM 303 Juego colectivo ofensivo en alto rendimiento en balonmano.</p>
+<p>MED-BMBM 304 Juego colectivo defensivo en alto rendimiento en balonmano.</p>
+<p>MED-BMBM 305 Dirección deportiva en alto rendimiento.</p>
+<p>MED-BMBM 306 Dirección de equipo en alto rendimiento.</p>
+<p>MED-BMBM 307 Preparación física en el alto rendimiento en balonmano.</p>
 </td>
-<td class="cuerpo_tabla_izq">– Educación Física con el título de Técnico Deportivo Superior en Balonmano.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">– Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-BMBM 308 Proyecto final.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM 309 Formación práctica.</p>
-</td>
-<td class="cuerpo_tabla_izq">– Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+<td>– Educación Física con el título de Técnico Deportivo Superior en Balonmano.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>– Profesor especialista.</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>MED-BMBM 308 Proyecto final.</p>
+<p>MED-BMBM 309 Formación práctica.</p>
+</td>
+<td>– Educación Física.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>– Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -3991,58 +3981,54 @@ Serán impartidos por quienes acrediten los títulos que a continuación se deta
 
 La superación de los módulos de la primera columna regulados en el RD 361/2004, de 5 de marzo, conllevan la convalidación de los módulos de enseñanza deportiva de la segunda columna.
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulos superados del título de grado superior de Técnico Deportivo Superior en Balonmano LOGSE (Real Decreto 318/2000, de 3 de marzo)</th>
-<th class="cabeza_tabla">Módulos convalidados del ciclo de grado superior en balonmano</th>
+<th>Módulos superados del título de grado superior de Técnico Deportivo Superior en Balonmano LOGSE (Real Decreto 318/2000, de 3 de marzo)</th>
+<th>Módulos convalidados del ciclo de grado superior en balonmano</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Metodología del entrenamiento del balonmano.</td>
-<td class="cuerpo_tabla_izq">MED-BMBM 301 Metodología para el alto rendimiento en balonmano.</td>
+<td>Metodología del entrenamiento del balonmano.</td>
+<td>MED-BMBM 301 Metodología para el alto rendimiento en balonmano.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Formación técnica y táctica individual del balonmano III.</p>
-<p class="cuerpo_tabla_izq">Reglas del juego III.</p>
+<td>
+<p>Formación técnica y táctica individual del balonmano III.</p>
+<p>Reglas del juego III.</p>
 </td>
-<td class="cuerpo_tabla_izq">MED-BMBM 302 Formación técnico táctica individual en alto rendimiento en balonmano.</td>
+<td>MED-BMBM 302 Formación técnico táctica individual en alto rendimiento en balonmano.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Juego colectivo ofensivo y defensivo II.</td>
-<td class="cuerpo_tabla_izq">MED-BMBM 303 Juego colectivo ofensivo en alto rendimiento en balonmano.</td>
+<td rowspan="2">Juego colectivo ofensivo y defensivo II.</td>
+<td>MED-BMBM 303 Juego colectivo ofensivo en alto rendimiento en balonmano.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-BMBM 304 Juego colectivo defensivo en alto rendimiento en balonmano.</td>
+<td>MED-BMBM 304 Juego colectivo defensivo en alto rendimiento en balonmano.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desarrollo profesional III.</td>
-<td class="cuerpo_tabla_izq">MED-BMBM 305 Dirección deportiva en alto rendimiento.</td>
+<td>Desarrollo profesional III.</td>
+<td>MED-BMBM 305 Dirección deportiva en alto rendimiento.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección de equipos.</td>
-<td class="cuerpo_tabla_izq">MED-BMBM 306 Dirección de equipo en alto rendimiento.</td>
+<td>Dirección de equipos.</td>
+<td>MED-BMBM 306 Dirección de equipo en alto rendimiento.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Preparación física específica II.</p>
-<p class="cuerpo_tabla_izq">Seguridad en balonmano II.</p>
+<td>
+<p>Preparación física específica II.</p>
+<p>Seguridad en balonmano II.</p>
 </td>
-<td class="cuerpo_tabla_izq">MED-BMBM 307 Preparación física en el alto rendimiento en balonmano.</td>
+<td>MED-BMBM 307 Preparación física en el alto rendimiento en balonmano.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Proyecto final.</td>
-<td class="cuerpo_tabla_izq">MED-BMBM 308 Proyecto final.</td>
+<td>Proyecto final.</td>
+<td>MED-BMBM 308 Proyecto final.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación práctica.</td>
-<td class="cuerpo_tabla_izq">MED-BMBM 309 Formación práctica.</td>
+<td>Formación práctica.</td>
+<td>MED-BMBM 309 Formación práctica.</td>
 </tr>
 </tbody>
 </table>

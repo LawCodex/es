@@ -173,142 +173,136 @@ En el caso de los componentes no sustanciales, se hace la siguiente distinción 
 
 Cuadro 1.1-1 Clases de reacción al fuego de los productos de construcción, excluidos los suelos, los productos lineales para aislamiento térmico de tuberías y los cables eléctricos
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="10%">
-<col width="25%">
-<col width="25%">
-<col width="40%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Clase</th>
-<th class="cabeza_tabla">Método(s) de ensayo</th>
-<th class="cabeza_tabla">Criterios de clasificación</th>
-<th class="cabeza_tabla">Declaración adicional obligatoria</th>
+<th>Clase</th>
+<th>Método(s) de ensayo</th>
+<th>Criterios de clasificación</th>
+<th>Declaración adicional obligatoria</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A1</td>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 1182 <sup>(1)</sup>; y</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ΔT ≤ 30 °C;y</p>
-<p class="cuerpo_tabla_izq">Δm ≤ 50%; y</p>
-<p class="cuerpo_tabla_izq">t<sub>f</sub> = 0 (es decir, sin llama sostenida)</p>
+<td rowspan="2">A1</td>
+<td>UNE-EN-ISO 1182 <sup>(1)</sup>; y</td>
+<td>
+<p>ΔT ≤ 30 °C;y</p>
+<p>Δm ≤ 50%; y</p>
+<p>t<sub>f</sub> = 0 (es decir, sin llama sostenida)</p>
 </td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 1716</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">PCS ≤ 2.0 MJ.kg <sup>-1 (1)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS ≤ 2.0 MJ.kg <sup>-1 (1)</sup><sup>(2a)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS ≤ 1.4 MJ.m <sup>-2 (3)</sup>;y</p>
-<p class="cuerpo_tabla_izq">PCS ≤ 2.0 MJ.kg-<sup>1 (4)</sup></p>
+<td>UNE-EN-ISO 1716</td>
+<td>
+<p>PCS ≤ 2.0 MJ.kg <sup>-1 (1)</sup>; y</p>
+<p>PCS ≤ 2.0 MJ.kg <sup>-1 (1)</sup><sup>(2a)</sup>; y</p>
+<p>PCS ≤ 1.4 MJ.m <sup>-2 (3)</sup>;y</p>
+<p>PCS ≤ 2.0 MJ.kg-<sup>1 (4)</sup></p>
 </td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">A2</td>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 1182 <sup>(1)</sup>; o</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ΔT ≤ 50 °C; y</p>
-<p class="cuerpo_tabla_izq">Δm ≤ 50%; y</p>
-<p class="cuerpo_tabla_izq">t<sub>f</sub> ≤ 20s</p>
+<td rowspan="3">A2</td>
+<td>UNE-EN-ISO 1182 <sup>(1)</sup>; o</td>
+<td>
+<p>ΔT ≤ 50 °C; y</p>
+<p>Δm ≤ 50%; y</p>
+<p>t<sub>f</sub> ≤ 20s</p>
 </td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 1716; y</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">PCS ≤ 3.0 MJ.kg <sup>-1 (1)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS ≤ 4.0 MJ.m <sup>-2 (2)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS ≤ 4.0 MJ.m <sup>-2 (3)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS ≤ 3.0 MJ.kg <sup>-1 (4)</sup></p>
+<td>UNE-EN-ISO 1716; y</td>
+<td>
+<p>PCS ≤ 3.0 MJ.kg <sup>-1 (1)</sup>; y</p>
+<p>PCS ≤ 4.0 MJ.m <sup>-2 (2)</sup>; y</p>
+<p>PCS ≤ 4.0 MJ.m <sup>-2 (3)</sup>; y</p>
+<p>PCS ≤ 3.0 MJ.kg <sup>-1 (4)</sup></p>
 </td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN-13823 (SBI)</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">FIGRA ≤ 120 W.s<sup>-1</sup>; y</p>
-<p class="cuerpo_tabla_izq">LFS &lt; margen de la muestra; y</p>
-<p class="cuerpo_tabla_izq">THR<sub>600s </sub>≤ 7.5 MJ</p>
+<td>UNE-EN-13823 (SBI)</td>
+<td>
+<p>FIGRA ≤ 120 W.s<sup>-1</sup>; y</p>
+<p>LFS &lt; margen de la muestra; y</p>
+<p>THR<sub>600s </sub>≤ 7.5 MJ</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Producción de humo<sup>(5)</sup>;</p>
-<p class="cuerpo_tabla_izq">y caída de gotas/partículas inflamadas<sup>(6)</sup>.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro" rowspan="2">B</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13823 (SBI); y</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">FIGRA ≤ 120W.s<sup>-1</sup>; y</p>
-<p class="cuerpo_tabla_izq">LFS &lt; margen de la muestra;</p>
-<p class="cuerpo_tabla_izq">y THR<sub>600s</sub> ≤ 7.5 MJ</p>
-</td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">Producción de humo<sup>(5)</sup>;</p>
-<p class="cuerpo_tabla_izq">y caída de gotas/partículas inflamadas<sup>(6)</sup>.</p>
+<td>
+<p>Producción de humo<sup>(5)</sup>;</p>
+<p>y caída de gotas/partículas inflamadas<sup>(6)</sup>.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN-ISO 11925-2 <sup>(8)</sup>:</p>
-<p class="cuerpo_tabla_izq">Exposición = 30s</p>
+<td rowspan="2">B</td>
+<td>UNE-EN 13823 (SBI); y</td>
+<td>
+<p>FIGRA ≤ 120W.s<sup>-1</sup>; y</p>
+<p>LFS &lt; margen de la muestra;</p>
+<p>y THR<sub>600s</sub> ≤ 7.5 MJ</p>
 </td>
-<td class="cuerpo_tabla_izq">Fs ≤ 150 mm en 60s</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro" rowspan="2">C</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13823 (SBI); y</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">FIGRA ≤ 250W.s<sup>-1</sup>; y</p>
-<p class="cuerpo_tabla_izq">LFS &lt; margen de la muestra; y</p>
-<p class="cuerpo_tabla_izq">THR<sub>600s</sub> ≤ 15 MJ</p>
-</td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">Producción de humo<sup>(5)</sup>;</p>
-<p class="cuerpo_tabla_izq">y caída de gotas/partículas inflamadas<sup>(6)</sup>.</p>
+<td rowspan="2">
+<p>Producción de humo<sup>(5)</sup>;</p>
+<p>y caída de gotas/partículas inflamadas<sup>(6)</sup>.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN-ISO 11925-2 <sup>(8)</sup>:</p>
-<p class="cuerpo_tabla_izq">Exposición = 30s</p>
+<td>
+<p>UNE-EN-ISO 11925-2 <sup>(8)</sup>:</p>
+<p>Exposición = 30s</p>
 </td>
-<td class="cuerpo_tabla_izq">Fs ≤ 150 mm en 60s</td>
+<td>Fs ≤ 150 mm en 60s</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">D</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13823 (SBI); y</td>
-<td class="cuerpo_tabla_izq">FIGRA ≤ 750 W.s<sup>-1</sup></td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">Producción de humo<sup>(5)</sup>;</p>
-<p class="cuerpo_tabla_izq">y caída de gotas/partículas inflamadas<sup>(6)</sup>.</p>
+<td rowspan="2">C</td>
+<td>UNE-EN 13823 (SBI); y</td>
+<td>
+<p>FIGRA ≤ 250W.s<sup>-1</sup>; y</p>
+<p>LFS &lt; margen de la muestra; y</p>
+<p>THR<sub>600s</sub> ≤ 15 MJ</p>
+</td>
+<td rowspan="2">
+<p>Producción de humo<sup>(5)</sup>;</p>
+<p>y caída de gotas/partículas inflamadas<sup>(6)</sup>.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN-ISO 11925-2 <sup>(8)</sup>:</p>
-<p class="cuerpo_tabla_izq">Exposición = 30s</p>
+<td>
+<p>UNE-EN-ISO 11925-2 <sup>(8)</sup>:</p>
+<p>Exposición = 30s</p>
 </td>
-<td class="cuerpo_tabla_izq">Fs ≤ 150 mm en 60s</td>
+<td>Fs ≤ 150 mm en 60s</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN-ISO 11925-2 <sup>(8)</sup>:</p>
-<p class="cuerpo_tabla_izq">Exposición =15s</p>
+<td rowspan="2">D</td>
+<td>UNE-EN 13823 (SBI); y</td>
+<td>FIGRA ≤ 750 W.s<sup>-1</sup></td>
+<td rowspan="2">
+<p>Producción de humo<sup>(5)</sup>;</p>
+<p>y caída de gotas/partículas inflamadas<sup>(6)</sup>.</p>
 </td>
-<td class="cuerpo_tabla_izq">Fs ≤ 150 mm en 20s</td>
-<td class="cuerpo_tabla_izq">Caída de gotas/partículas inflamadas<sup>(7)</sup>.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F</td>
-<td class="cuerpo_tabla_centro" colspan="3">Sin determinación de propiedades</td>
+<td>
+<p>UNE-EN-ISO 11925-2 <sup>(8)</sup>:</p>
+<p>Exposición = 30s</p>
+</td>
+<td>Fs ≤ 150 mm en 60s</td>
+</tr>
+<tr>
+<td>E</td>
+<td>
+<p>UNE-EN-ISO 11925-2 <sup>(8)</sup>:</p>
+<p>Exposición =15s</p>
+</td>
+<td>Fs ≤ 150 mm en 20s</td>
+<td>Caída de gotas/partículas inflamadas<sup>(7)</sup>.</td>
+</tr>
+<tr>
+<td>F</td>
+<td colspan="3">Sin determinación de propiedades</td>
 </tr>
 </tbody>
 </table>
@@ -333,116 +327,110 @@ Cuadro 1.1-1 Clases de reacción al fuego de los productos de construcción, exc
 
 Cuadro 1.1-2 Clases de reacción al fuego de los suelos
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="10%">
-<col width="25%">
-<col width="25%">
-<col width="40%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Clase</th>
-<th class="cabeza_tabla">Método(s) de ensayo</th>
-<th class="cabeza_tabla">Criterios de clasificación</th>
-<th class="cabeza_tabla">Declaración adicional obligatoria</th>
+<th>Clase</th>
+<th>Método(s) de ensayo</th>
+<th>Criterios de clasificación</th>
+<th>Declaración adicional obligatoria</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A1 FL</td>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 1182 <sup>(1)</sup>; y</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ΔT ≤ 30 °C; y</p>
-<p class="cuerpo_tabla_izq">Δm ≤ 50%; y</p>
-<p class="cuerpo_tabla_izq">t<sub>f</sub> = 0 (es decir, sin llama sostenida)</p>
+<td rowspan="2">A1 FL</td>
+<td>UNE-EN-ISO 1182 <sup>(1)</sup>; y</td>
+<td>
+<p>ΔT ≤ 30 °C; y</p>
+<p>Δm ≤ 50%; y</p>
+<p>t<sub>f</sub> = 0 (es decir, sin llama sostenida)</p>
 </td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 1716</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">PCS ≤ 2.0 MJ.kg<sup>-1 (1)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS ≤ 2.0 MJ.kg<sup>-1 (2)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS ≤ 1.4 MJ.m<sup>-2 (3)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS ≤ 2.0 MJ.kg<sup>- 1 (4)</sup></p>
+<td>UNE-EN-ISO 1716</td>
+<td>
+<p>PCS ≤ 2.0 MJ.kg<sup>-1 (1)</sup>; y</p>
+<p>PCS ≤ 2.0 MJ.kg<sup>-1 (2)</sup>; y</p>
+<p>PCS ≤ 1.4 MJ.m<sup>-2 (3)</sup>; y</p>
+<p>PCS ≤ 2.0 MJ.kg<sup>- 1 (4)</sup></p>
 </td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">A2FL</td>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 1182 <sup>(1)</sup>; o</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ΔT ≤ 50°C; y</p>
-<p class="cuerpo_tabla_izq">Am ≤ 50%; y</p>
-<p class="cuerpo_tabla_izq">t<sub>f</sub> ≤ 20s</p>
+<td rowspan="3">A2FL</td>
+<td>UNE-EN-ISO 1182 <sup>(1)</sup>; o</td>
+<td>
+<p>ΔT ≤ 50°C; y</p>
+<p>Am ≤ 50%; y</p>
+<p>t<sub>f</sub> ≤ 20s</p>
 </td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 1716; y</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">PCS ≤ 3.0 MJ.kg<sup>-1 (1)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS ≤ 4.0 MJ.kg <sup>-2 (2)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS ≤ 4.0 MJ.m <sup>-2 (3)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS ≤ 3.0 MJ.kg<sup>-1 (4)</sup></p>
+<td>UNE-EN-ISO 1716; y</td>
+<td>
+<p>PCS ≤ 3.0 MJ.kg<sup>-1 (1)</sup>; y</p>
+<p>PCS ≤ 4.0 MJ.kg <sup>-2 (2)</sup>; y</p>
+<p>PCS ≤ 4.0 MJ.m <sup>-2 (3)</sup>; y</p>
+<p>PCS ≤ 3.0 MJ.kg<sup>-1 (4)</sup></p>
 </td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 9239-1 <sup>(5)</sup></td>
-<td class="cuerpo_tabla_izq">Flujo crítico <sup>(6)</sup> ≥ 8,0 kW.m<sup>-2</sup></td>
-<td class="cuerpo_tabla_izq">Producción de humo<sup>(7)</sup>.</td>
+<td>UNE-EN-ISO 9239-1 <sup>(5)</sup></td>
+<td>Flujo crítico <sup>(6)</sup> ≥ 8,0 kW.m<sup>-2</sup></td>
+<td>Producción de humo<sup>(7)</sup>.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">BFL</td>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 9239-1 <sup>(5)</sup> y</td>
-<td class="cuerpo_tabla_izq">Flujo crítico <sup>(6) </sup>≥ 8,0 kW.m<sup>-2</sup></td>
-<td class="cuerpo_tabla_izq" rowspan="2">Producción de humo<sup>(7)</sup>.</td>
+<td rowspan="2">BFL</td>
+<td>UNE-EN-ISO 9239-1 <sup>(5)</sup> y</td>
+<td>Flujo crítico <sup>(6) </sup>≥ 8,0 kW.m<sup>-2</sup></td>
+<td rowspan="2">Producción de humo<sup>(7)</sup>.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 11925-2 <sup>(8)</sup> Exposición = 15s.</td>
-<td class="cuerpo_tabla_izq">Fs ≤ 150 mm en 20s</td>
+<td>UNE-EN-ISO 11925-2 <sup>(8)</sup> Exposición = 15s.</td>
+<td>Fs ≤ 150 mm en 20s</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CFL</td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">UNE-EN-ISO 9239-1 <sup>(5)</sup> y</p>
-<p class="cuerpo_tabla_izq">UNE-EN-ISO 11925-2 <sup>(8)</sup> Exposición = 15s.</p>
+<td>CFL</td>
+<td rowspan="2">
+<p>UNE-EN-ISO 9239-1 <sup>(5)</sup> y</p>
+<p>UNE-EN-ISO 11925-2 <sup>(8)</sup> Exposición = 15s.</p>
 </td>
-<td class="cuerpo_tabla_izq">Flujo crítico <sup>(6)</sup> ≥ 4.5 kW.m<sup>-2</sup></td>
-<td class="cuerpo_tabla_izq" rowspan="2">Producción de humo<sup>(7)</sup>.</td>
+<td>Flujo crítico <sup>(6)</sup> ≥ 4.5 kW.m<sup>-2</sup></td>
+<td rowspan="2">Producción de humo<sup>(7)</sup>.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Fs ≤ 150 mm en 20s</td>
+<td> </td>
+<td>Fs ≤ 150 mm en 20s</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">DFL</td>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 9239-1 <sup>(5)</sup> y</td>
-<td class="cuerpo_tabla_izq">Flujo crítico<sup>(6)</sup> ≥ 3.0 kW.m<sup>-2</sup></td>
-<td class="cuerpo_tabla_izq">Producción de humo<sup>(7)</sup>.</td>
+<td rowspan="2">DFL</td>
+<td>UNE-EN-ISO 9239-1 <sup>(5)</sup> y</td>
+<td>Flujo crítico<sup>(6)</sup> ≥ 3.0 kW.m<sup>-2</sup></td>
+<td>Producción de humo<sup>(7)</sup>.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN-ISO 11925-2 <sup>(8)</sup></p>
-<p class="cuerpo_tabla_izq">Exposición = 15s.</p>
+<td>
+<p>UNE-EN-ISO 11925-2 <sup>(8)</sup></p>
+<p>Exposición = 15s.</p>
 </td>
-<td class="cuerpo_tabla_izq">Fs ≤ 150 mm en 20s</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Fs ≤ 150 mm en 20s</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">EFL</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN-ISO 11925-2 <sup>(8)</sup></p>
-<p class="cuerpo_tabla_izq">Exposición = 15s.</p>
+<td>EFL</td>
+<td>
+<p>UNE-EN-ISO 11925-2 <sup>(8)</sup></p>
+<p>Exposición = 15s.</p>
 </td>
-<td class="cuerpo_tabla_izq">Fs ≤ 150 mm en 20s</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Fs ≤ 150 mm en 20s</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">FFL</td>
-<td class="cuerpo_tabla_centro" colspan="3">Sin determinación de propiedades</td>
+<td>FFL</td>
+<td colspan="3">Sin determinación de propiedades</td>
 </tr>
 </tbody>
 </table>
@@ -465,132 +453,126 @@ Cuadro 1.1-2 Clases de reacción al fuego de los suelos
 
 Cuadro 1.1-3 Clases de reacción al fuego de los productos lineales para aislamiento térmico de tuberías
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="10%">
-<col width="25%">
-<col width="25%">
-<col width="40%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Clase</th>
-<th class="cabeza_tabla">Método(s) de ensayo</th>
-<th class="cabeza_tabla">Criterios de clasificación</th>
-<th class="cabeza_tabla">Declaración adicional obligatoria</th>
+<th>Clase</th>
+<th>Método(s) de ensayo</th>
+<th>Criterios de clasificación</th>
+<th>Declaración adicional obligatoria</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A1 L</td>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 1182 <sup>(1)</sup>; y</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ΔT ≤ 30 °C; y</p>
-<p class="cuerpo_tabla_izq">Δm ≤ 50 %; y</p>
-<p class="cuerpo_tabla_izq">t<sub>f</sub> = 0 (es decir, sin llama sostenida)</p>
+<td rowspan="2">A1 L</td>
+<td>UNE-EN-ISO 1182 <sup>(1)</sup>; y</td>
+<td>
+<p>ΔT ≤ 30 °C; y</p>
+<p>Δm ≤ 50 %; y</p>
+<p>t<sub>f</sub> = 0 (es decir, sin llama sostenida)</p>
 </td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 1716</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">PCS &lt; 2,0 MJ.kg<sup>- 1 (1)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS &lt; 2,0 MJ.kg<sup>-1 (2)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS &lt; 1,4 MJ.m<sup>-2 (3)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS &lt; 2,0 MJ.kg<sup>- 1 (4)</sup></p>
+<td>UNE-EN-ISO 1716</td>
+<td>
+<p>PCS &lt; 2,0 MJ.kg<sup>- 1 (1)</sup>; y</p>
+<p>PCS &lt; 2,0 MJ.kg<sup>-1 (2)</sup>; y</p>
+<p>PCS &lt; 1,4 MJ.m<sup>-2 (3)</sup>; y</p>
+<p>PCS &lt; 2,0 MJ.kg<sup>- 1 (4)</sup></p>
 </td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">A2L</td>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 1182 <sup>(1)</sup>; o</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ΔT ≤ 50°C; y</p>
-<p class="cuerpo_tabla_izq">Am ≤ 50%; y t<sub>f</sub> ≤ 20s</p>
+<td rowspan="3">A2L</td>
+<td>UNE-EN-ISO 1182 <sup>(1)</sup>; o</td>
+<td>
+<p>ΔT ≤ 50°C; y</p>
+<p>Am ≤ 50%; y t<sub>f</sub> ≤ 20s</p>
 </td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 1716; y</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">PCS ≤ 3.0 MJ.kg<sup>-1 (1)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS ≤ 4.0 MJ.kg <sup>-2 (2)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS ≤ 4.0 MJ.m <sup>-2 (3)</sup>; y</p>
-<p class="cuerpo_tabla_izq">PCS ≤ 3.0 MJ.kg<sup>-1 (4)</sup></p>
+<td>UNE-EN-ISO 1716; y</td>
+<td>
+<p>PCS ≤ 3.0 MJ.kg<sup>-1 (1)</sup>; y</p>
+<p>PCS ≤ 4.0 MJ.kg <sup>-2 (2)</sup>; y</p>
+<p>PCS ≤ 4.0 MJ.m <sup>-2 (3)</sup>; y</p>
+<p>PCS ≤ 3.0 MJ.kg<sup>-1 (4)</sup></p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 13823 (SBI)</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">FIGRA ≤ 270 W.s<sup>-1</sup>;y</p>
-<p class="cuerpo_tabla_izq">LFS &lt; borde de la probeta; y</p>
-<p class="cuerpo_tabla_izq">THR<sub>600s</sub> ≤ 7,5 MJ</p>
+<td>UNE-EN 13823 (SBI)</td>
+<td>
+<p>FIGRA ≤ 270 W.s<sup>-1</sup>;y</p>
+<p>LFS &lt; borde de la probeta; y</p>
+<p>THR<sub>600s</sub> ≤ 7,5 MJ</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Producción de humo <sup>(5)</sup>; y</p>
-<p class="cuerpo_tabla_izq">caída de gotas/partículas inflamadas <sup>(6)</sup>.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro" rowspan="2">BL</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13823 (SBI); y</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">FIGRA ≤ 270 W.s<sup>-1</sup>; y</p>
-<p class="cuerpo_tabla_izq">LFS &lt; borde de la probeta; y</p>
-<p class="cuerpo_tabla_izq">THR<sub>600s</sub> ≤ 7,5 MJ</p>
-</td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">Producción de humo <sup>(5)</sup>; y</p>
-<p class="cuerpo_tabla_izq">caída de gotas/partículas inflamadas <sup>(6)</sup>.</p>
+<td>
+<p>Producción de humo <sup>(5)</sup>; y</p>
+<p>caída de gotas/partículas inflamadas <sup>(6)</sup>.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 11925-2 <sup>(8)</sup>: Exposición = 30s</td>
-<td class="cuerpo_tabla_izq">Fs ≤ 150 mm en 60s</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro" rowspan="2">CL</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13823 (SBI); y</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">FIGRA ≤ 460 W.s<sup>-1</sup>; y</p>
-<p class="cuerpo_tabla_izq">LFS &lt; borde de la probeta; y</p>
-<p class="cuerpo_tabla_izq">THR<sub>600s</sub> ≤ 15 MJ</p>
+<td rowspan="2">BL</td>
+<td>UNE-EN 13823 (SBI); y</td>
+<td>
+<p>FIGRA ≤ 270 W.s<sup>-1</sup>; y</p>
+<p>LFS &lt; borde de la probeta; y</p>
+<p>THR<sub>600s</sub> ≤ 7,5 MJ</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">Producción de humo <sup>(5)</sup>; y</p>
-<p class="cuerpo_tabla_izq">caída de gotas/partículas inflamadas <sup>(6)</sup>.</p>
+<td rowspan="2">
+<p>Producción de humo <sup>(5)</sup>; y</p>
+<p>caída de gotas/partículas inflamadas <sup>(6)</sup>.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 11925-2 <sup>(8)</sup>: Exposición = 30s</td>
-<td class="cuerpo_tabla_izq">Fs ≤ 150 mm en 60s</td>
+<td>UNE-EN-ISO 11925-2 <sup>(8)</sup>: Exposición = 30s</td>
+<td>Fs ≤ 150 mm en 60s</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">DL</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13823 (SBI); y</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">FIGRA ≤ 2100 W.s<sup>-1</sup></p>
-<p class="cuerpo_tabla_izq">THR<sub>600s</sub> ≤ 100 MJ</p>
+<td rowspan="2">CL</td>
+<td>UNE-EN 13823 (SBI); y</td>
+<td>
+<p>FIGRA ≤ 460 W.s<sup>-1</sup>; y</p>
+<p>LFS &lt; borde de la probeta; y</p>
+<p>THR<sub>600s</sub> ≤ 15 MJ</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">Producción de humo <sup>(5)</sup>; y</p>
-<p class="cuerpo_tabla_izq">caída de gotas/partículas inflamadas <sup>(6)</sup>.</p>
+<td rowspan="2">
+<p>Producción de humo <sup>(5)</sup>; y</p>
+<p>caída de gotas/partículas inflamadas <sup>(6)</sup>.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 11925-2 <sup>(8)</sup>: Exposición = 30s</td>
-<td class="cuerpo_tabla_izq">Fs ≤ 150 mm en 60s</td>
+<td>UNE-EN-ISO 11925-2 <sup>(8)</sup>: Exposición = 30s</td>
+<td>Fs ≤ 150 mm en 60s</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">EL</td>
-<td class="cuerpo_tabla_izq">UNE-EN-ISO 11925-2 <sup>(8)</sup>: Exposición = 15s</td>
-<td class="cuerpo_tabla_izq">Fs ≤ 150 mm en 20s</td>
-<td class="cuerpo_tabla_izq">caída de gotas/partículas inflamadas <sup>(7)</sup>.</td>
+<td rowspan="2">DL</td>
+<td>UNE-EN 13823 (SBI); y</td>
+<td>
+<p>FIGRA ≤ 2100 W.s<sup>-1</sup></p>
+<p>THR<sub>600s</sub> ≤ 100 MJ</p>
+</td>
+<td rowspan="2">
+<p>Producción de humo <sup>(5)</sup>; y</p>
+<p>caída de gotas/partículas inflamadas <sup>(6)</sup>.</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">FL</td>
-<td class="cuerpo_tabla_centro" colspan="3">Sin determinación de propiedades</td>
+<td>UNE-EN-ISO 11925-2 <sup>(8)</sup>: Exposición = 30s</td>
+<td>Fs ≤ 150 mm en 60s</td>
+</tr>
+<tr>
+<td>EL</td>
+<td>UNE-EN-ISO 11925-2 <sup>(8)</sup>: Exposición = 15s</td>
+<td>Fs ≤ 150 mm en 20s</td>
+<td>caída de gotas/partículas inflamadas <sup>(7)</sup>.</td>
+</tr>
+<tr>
+<td>FL</td>
+<td colspan="3">Sin determinación de propiedades</td>
 </tr>
 </tbody>
 </table>
@@ -613,95 +595,89 @@ Cuadro 1.1-3 Clases de reacción al fuego de los productos lineales para aislami
 
 Cuadro 1.1-4 Clases de reacción al fuego de los cables eléctricos <sup>(*)</sup>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="10%">
-<col width="25%">
-<col width="25%">
-<col width="40%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Clase</th>
-<th class="cabeza_tabla">Método(s) de ensayo</th>
-<th class="cabeza_tabla">Criterios de clasificación</th>
-<th class="cabeza_tabla">Clasificación adicional</th>
+<th>Clase</th>
+<th>Método(s) de ensayo</th>
+<th>Criterios de clasificación</th>
+<th>Clasificación adicional</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A<sub>ca</sub></td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 1716</td>
-<td class="cuerpo_tabla_izq">PCS ≤ 2,0 MJ/kg <sup>(1)</sup></td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A<sub>ca</sub></td>
+<td>UNE-EN ISO 1716</td>
+<td>PCS ≤ 2,0 MJ/kg <sup>(1)</sup></td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">B1<sub>ca </sub></td>
-<td class="cuerpo_tabla_izq">Escenario 2 FIPEC<sub>20</sub><sup>(5)</sup><em>y </em></td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">FS ≤ 1,75 m;</p>
-<p class="cuerpo_tabla_izq">THR<sub>1200s</sub> ≤ 10 MJ;</p>
-<p class="cuerpo_tabla_izq">HRR máx. ≤ 20 kW <em>y</em></p>
-<p class="cuerpo_tabla_izq">FIGRA ≤ 120 Ws<sup>-1</sup></p>
+<td rowspan="2">B1<sub>ca </sub></td>
+<td>Escenario 2 FIPEC<sub>20</sub><sup>(5)</sup><em>y </em></td>
+<td>
+<p>FS ≤ 1,75 m;</p>
+<p>THR<sub>1200s</sub> ≤ 10 MJ;</p>
+<p>HRR máx. ≤ 20 kW <em>y</em></p>
+<p>FIGRA ≤ 120 Ws<sup>-1</sup></p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">Producción de humo <sup>(2)</sup><sup>(6)</sup>, caída de gotas/partículas inflamadas <sup>(3)</sup> y acidez <sup>(4)</sup><sup>(8)</sup></td>
+<td rowspan="2">Producción de humo <sup>(2)</sup><sup>(6)</sup>, caída de gotas/partículas inflamadas <sup>(3)</sup> y acidez <sup>(4)</sup><sup>(8)</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 60332-1-2</td>
-<td class="cuerpo_tabla_izq">H ≤ 475 mm ± 5</td>
+<td>UNE-EN 60332-1-2</td>
+<td>H ≤ 475 mm ± 5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">B2<sub>ca</sub></td>
-<td class="cuerpo_tabla_izq">Escenario 1 FIPEC<sub>20</sub><sup>(5)</sup><em>y</em></td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">FS ≤ 1,5 m;</p>
-<p class="cuerpo_tabla_izq">THR<sub>1200s </sub>≤15 MJ;</p>
-<p class="cuerpo_tabla_izq">HRR máx. ≤ 30 kW y</p>
-<p class="cuerpo_tabla_izq">FIGRA ≤ 150 Ws<sup>-1</sup></p>
+<td rowspan="2">B2<sub>ca</sub></td>
+<td>Escenario 1 FIPEC<sub>20</sub><sup>(5)</sup><em>y</em></td>
+<td>
+<p>FS ≤ 1,5 m;</p>
+<p>THR<sub>1200s </sub>≤15 MJ;</p>
+<p>HRR máx. ≤ 30 kW y</p>
+<p>FIGRA ≤ 150 Ws<sup>-1</sup></p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">Producción de humo <sup>(2)</sup><sup>(7)</sup>, caída de gotas/partículas inflamadas <sup>(3)</sup> y acidez <sup>(4)</sup><sup>(8)</sup></td>
+<td rowspan="2">Producción de humo <sup>(2)</sup><sup>(7)</sup>, caída de gotas/partículas inflamadas <sup>(3)</sup> y acidez <sup>(4)</sup><sup>(8)</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 60332-1-2</td>
-<td class="cuerpo_tabla_izq">H ≤ 475 mm ± 5</td>
+<td>UNE-EN 60332-1-2</td>
+<td>H ≤ 475 mm ± 5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">C<sub>ca</sub></td>
-<td class="cuerpo_tabla_izq">Escenario 1 FIPEC<sub>20</sub><sup>(5)</sup><em>y </em></td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">FS ≤ 2,0 m;</p>
-<p class="cuerpo_tabla_izq">THR<sub>1200s </sub>≤ 30 MJ;</p>
-<p class="cuerpo_tabla_izq">HRR máx. ≤ 60 kW <em>y</em></p>
-<p class="cuerpo_tabla_izq">FIGRA ≤ 300 Ws<sup>-1</sup></p>
+<td rowspan="2">C<sub>ca</sub></td>
+<td>Escenario 1 FIPEC<sub>20</sub><sup>(5)</sup><em>y </em></td>
+<td>
+<p>FS ≤ 2,0 m;</p>
+<p>THR<sub>1200s </sub>≤ 30 MJ;</p>
+<p>HRR máx. ≤ 60 kW <em>y</em></p>
+<p>FIGRA ≤ 300 Ws<sup>-1</sup></p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">Producción de humo <sup>(2)</sup><sup>(7)</sup>, caída de gotas/partículas inflamadas <sup>(3)</sup> y acidez <sup>(4)</sup><sup>(8)</sup></td>
+<td rowspan="2">Producción de humo <sup>(2)</sup><sup>(7)</sup>, caída de gotas/partículas inflamadas <sup>(3)</sup> y acidez <sup>(4)</sup><sup>(8)</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 60332-1-2</td>
-<td class="cuerpo_tabla_izq">H ≤ 475 mm ± 5</td>
+<td>UNE-EN 60332-1-2</td>
+<td>H ≤ 475 mm ± 5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">Dca</td>
-<td class="cuerpo_tabla_izq">Escenario 1 FIPEC<sub>20</sub><sup>(5)</sup> y</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">THR<sub>1200s </sub>≤ 70 MJ;</p>
-<p class="cuerpo_tabla_izq">HRR máx. ≤ 400 kW y</p>
-<p class="cuerpo_tabla_izq">FIGRA ≤ 1300 Ws<sup>-1</sup></p>
+<td rowspan="2">Dca</td>
+<td>Escenario 1 FIPEC<sub>20</sub><sup>(5)</sup> y</td>
+<td>
+<p>THR<sub>1200s </sub>≤ 70 MJ;</p>
+<p>HRR máx. ≤ 400 kW y</p>
+<p>FIGRA ≤ 1300 Ws<sup>-1</sup></p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="3">Producción de humo <sup>(2)</sup><sup>(7)</sup>, caída de gotas/partículas inflamadas <sup>(3)</sup> y acidez <sup>(4)</sup><sup>(8)</sup></td>
+<td rowspan="3">Producción de humo <sup>(2)</sup><sup>(7)</sup>, caída de gotas/partículas inflamadas <sup>(3)</sup> y acidez <sup>(4)</sup><sup>(8)</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 60332-1-2</td>
-<td class="cuerpo_tabla_izq">H ≤ 475 mm ± 5</td>
+<td>UNE-EN 60332-1-2</td>
+<td>H ≤ 475 mm ± 5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Eca</td>
-<td class="cuerpo_tabla_izq">UNE-EN 60332-1-2</td>
-<td class="cuerpo_tabla_izq">H ≤ 475 mm ± 5</td>
+<td>Eca</td>
+<td>UNE-EN 60332-1-2</td>
+<td>H ≤ 475 mm ± 5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Fca</td>
-<td class="cuerpo_tabla_centro" colspan="3">Sin determinación de comportamiento</td>
+<td>Fca</td>
+<td colspan="3">Sin determinación de comportamiento</td>
 </tr>
 </tbody>
 </table>
@@ -873,130 +849,125 @@ NOTA: este apartado 1.2 se corresponde con el contenido de la Decisión 96/603/C
 
 Cuadro 1.2-1 Materiales que deberán ser considerados como pertenecientes a las clases a1 y A1<sub>FL </sub>de reacción al fuego sin necesidad de ser ensayados
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col>
-<col width="80%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Material</th>
-<th class="cabeza_tabla">Notas</th>
+<th colspan="2">Material</th>
+<th>Notas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Arcilla expandida.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="2">Arcilla expandida.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Perlita expandida.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="2">Perlita expandida.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Vermiculita expandida.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="2">Vermiculita expandida.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Lana mineral.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="2">Lana mineral.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Vidrio celular.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="2">Vidrio celular.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Hormigón.</td>
-<td class="cuerpo_tabla_izq">Incluye hormigón amasado en fábrica y productos prefabricados de hormigón armado y pretensado.</td>
+<td colspan="2">Hormigón.</td>
+<td>Incluye hormigón amasado en fábrica y productos prefabricados de hormigón armado y pretensado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Otros hormigones (con áridos minerales, incluidos los ligeros, sin aislamiento térmico integral).</td>
-<td class="cuerpo_tabla_izq">Puede incluir aditivos y adiciones (por ejemplo, cenizas volantes), pigmentos y otros materiales. Incluye unidades prefabricadas.</td>
+<td colspan="2">Otros hormigones (con áridos minerales, incluidos los ligeros, sin aislamiento térmico integral).</td>
+<td>Puede incluir aditivos y adiciones (por ejemplo, cenizas volantes), pigmentos y otros materiales. Incluye unidades prefabricadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Unidades de hormigón celular curado en autoclave.</td>
-<td class="cuerpo_tabla_izq">Unidades fabricadas a partir de conglomerantes hidráulicos como el cemento o la cal combinados con materiales finos (material silíceo, cenizas volantes, escoria de alto horno) y materiales inclusores de aire. Incluye unidades prefabricadas.</td>
+<td colspan="2">Unidades de hormigón celular curado en autoclave.</td>
+<td>Unidades fabricadas a partir de conglomerantes hidráulicos como el cemento o la cal combinados con materiales finos (material silíceo, cenizas volantes, escoria de alto horno) y materiales inclusores de aire. Incluye unidades prefabricadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Fibrocemento.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="2">Fibrocemento.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Cemento.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="2">Cemento.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Cal.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="2">Cal.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Escoria de alto homo, cenizas volantes.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="2">Escoria de alto homo, cenizas volantes.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Áridos minerales.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="2">Áridos minerales.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Hierro, acero y acero inoxidable.</td>
-<td class="cuerpo_tabla_izq">No en forma finamente dividida.</td>
+<td colspan="2">Hierro, acero y acero inoxidable.</td>
+<td>No en forma finamente dividida.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Cobre y aleaciones de cobre.</td>
-<td class="cuerpo_tabla_izq">No en forma finamente dividida.</td>
+<td colspan="2">Cobre y aleaciones de cobre.</td>
+<td>No en forma finamente dividida.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Zinc y aleaciones de zinc.</td>
-<td class="cuerpo_tabla_izq">No en forma finamente dividida.</td>
+<td colspan="2">Zinc y aleaciones de zinc.</td>
+<td>No en forma finamente dividida.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Aluminio y aleaciones de aluminio.</td>
-<td class="cuerpo_tabla_izq">No en forma finamente dividida.</td>
+<td colspan="2">Aluminio y aleaciones de aluminio.</td>
+<td>No en forma finamente dividida.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Plomo.</td>
-<td class="cuerpo_tabla_izq">No en forma finamente dividida.</td>
+<td colspan="2">Plomo.</td>
+<td>No en forma finamente dividida.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Yeso y pastas a base de yeso.</td>
-<td class="cuerpo_tabla_izq">Puede incluir aditivos [retardadores, polvo de relleno («fíller»), fibras, pigmentos, cal hidráulica, agentes retenedores de aire y agua y plastificantes, áridos minerales (por ejemplo, arena natural o molida) o áridos ligeros (por ejemplo, perlita o vermiculita).</td>
+<td colspan="2">Yeso y pastas a base de yeso.</td>
+<td>Puede incluir aditivos [retardadores, polvo de relleno («fíller»), fibras, pigmentos, cal hidráulica, agentes retenedores de aire y agua y plastificantes, áridos minerales (por ejemplo, arena natural o molida) o áridos ligeros (por ejemplo, perlita o vermiculita).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Mortero con agentes conglomerantes inorgánicos.</td>
-<td class="cuerpo_tabla_izq">Morteros para revoque y enfoscado, morteros para nivelación de suelos y morteros para albañilería a base de uno o varios agentes conglomerantes inorgánicos (por ejemplo, cemento, cal, cemento para albañilería y yeso).</td>
+<td colspan="2">Mortero con agentes conglomerantes inorgánicos.</td>
+<td>Morteros para revoque y enfoscado, morteros para nivelación de suelos y morteros para albañilería a base de uno o varios agentes conglomerantes inorgánicos (por ejemplo, cemento, cal, cemento para albañilería y yeso).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Piezas de arcilla cocida.</td>
-<td class="cuerpo_tabla_izq">Unidades a base de arcilla u otros materiales arcillosos, con o sin arena, aditivos derivados de un combustible u otros aditivos. Incluye ladrillos, azulejos, baldosas, pavimentos y piezas de arcilla refractaria (por ejemplo, para revestimiento de chimeneas).</td>
+<td colspan="2">Piezas de arcilla cocida.</td>
+<td>Unidades a base de arcilla u otros materiales arcillosos, con o sin arena, aditivos derivados de un combustible u otros aditivos. Incluye ladrillos, azulejos, baldosas, pavimentos y piezas de arcilla refractaria (por ejemplo, para revestimiento de chimeneas).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Unidades de silicato cálcico.</td>
-<td class="cuerpo_tabla_izq">Unidades a base de una mezcla de cal y materiales silíceos naturales (arena, grava silícea o piedras o mezclas de estos); puede incluir pigmentos colorantes.</td>
+<td colspan="2">Unidades de silicato cálcico.</td>
+<td>Unidades a base de una mezcla de cal y materiales silíceos naturales (arena, grava silícea o piedras o mezclas de estos); puede incluir pigmentos colorantes.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Productos de piedra natural y pizarra.</td>
-<td class="cuerpo_tabla_izq">Producto elaborado o no de piedra natural (roca magmática, sedimentaria o metamórfica) o de pizarra.</td>
+<td colspan="2">Productos de piedra natural y pizarra.</td>
+<td>Producto elaborado o no de piedra natural (roca magmática, sedimentaria o metamórfica) o de pizarra.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Unidades de yeso.</td>
-<td class="cuerpo_tabla_izq">Incluye bloques y otras unidades a base de sulfato cálcico y agua que pueden incluir fibras, polvo de relleno («fíller»), áridos y otros aditivos y pueden estar coloreados por pigmentos.</td>
+<td colspan="2">Unidades de yeso.</td>
+<td>Incluye bloques y otras unidades a base de sulfato cálcico y agua que pueden incluir fibras, polvo de relleno («fíller»), áridos y otros aditivos y pueden estar coloreados por pigmentos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Terrazo.</td>
-<td class="cuerpo_tabla_izq">Incluye baldosas de terrazo prefabricadas y pavimentación in situ.</td>
+<td colspan="2">Terrazo.</td>
+<td>Incluye baldosas de terrazo prefabricadas y pavimentación in situ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Vidrio.</td>
-<td class="cuerpo_tabla_izq">Incluye vidrio templado, vidrio químicamente endurecido, vidrio laminado y vidrio armado.</td>
+<td colspan="2">Vidrio.</td>
+<td>Incluye vidrio templado, vidrio químicamente endurecido, vidrio laminado y vidrio armado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Vitrocerámica.</td>
-<td class="cuerpo_tabla_izq">Vitrocerámicas consistentes en una fase vítrea cristalina y una fase vítrea residual.</td>
+<td colspan="2">Vitrocerámica.</td>
+<td>Vitrocerámicas consistentes en una fase vítrea cristalina y una fase vítrea residual.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Cerámica.</td>
-<td class="cuerpo_tabla_izq">Incluye productos a base de polvo de arcilla pretensada y productos extruídos, esmaltados o no.</td>
+<td colspan="2">Cerámica.</td>
+<td>Incluye productos a base de polvo de arcilla pretensada y productos extruídos, esmaltados o no.</td>
 </tr>
 </tbody>
 </table>
@@ -1013,290 +984,281 @@ NOTA: este apartado 1.3 se corresponde con el contenido de las Decisiones 2003/4
 
 Cuadro 1.3-1 Clasificación de las propiedades de reacción al fuego de los tableros derivados de la madera
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="10%">
-<col width="38%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Producto</th>
-<th class="cabeza_tabla">Norma del producto</th>
-<th class="cabeza_tabla">Condiciones de utilización final <sup>(6)</sup></th>
-<th class="cabeza_tabla">Densidad mínima (kg/m<sup>3</sup>)</th>
-<th class="cabeza_tabla">Espesor mínimo (mm)</th>
-<th class="cabeza_tabla">Clase <sup>(7)</sup> (excl. los suelos)</th>
-<th class="cabeza_tabla">Clase <sup>(8)</sup> (suelos)</th>
+<th>Producto</th>
+<th>Norma del producto</th>
+<th>Condiciones de utilización final <sup>(6)</sup></th>
+<th>Densidad mínima (kg/m<sup>3</sup>)</th>
+<th>Espesor mínimo (mm)</th>
+<th>Clase <sup>(7)</sup> (excl. los suelos)</th>
+<th>Clase <sup>(8)</sup> (suelos)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de partículas aglomeradas con cemento <sup>(1)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 634-2</td>
-<td class="cuerpo_tabla_centro">sin espacio de aire detrás del tablero</td>
-<td class="cuerpo_tabla_centro">1000</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">B-s1, d0</td>
-<td class="cuerpo_tabla_centro">B<sub>fl</sub>-s1</td>
+<td>Tablero de partículas aglomeradas con cemento <sup>(1)</sup></td>
+<td>UNE-EN 634-2</td>
+<td>sin espacio de aire detrás del tablero</td>
+<td>1000</td>
+<td>10</td>
+<td>B-s1, d0</td>
+<td>B<sub>fl</sub>-s1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de fibras, duro <sup>(1)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 622-2</td>
-<td class="cuerpo_tabla_centro">sin espacio de aire detrás del tablero derivado de la madera</td>
-<td class="cuerpo_tabla_centro">900</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">D-s2, d0</td>
-<td class="cuerpo_tabla_centro">D<sub>fl</sub>-s1</td>
+<td>Tablero de fibras, duro <sup>(1)</sup></td>
+<td>UNE-EN 622-2</td>
+<td>sin espacio de aire detrás del tablero derivado de la madera</td>
+<td>900</td>
+<td>6</td>
+<td>D-s2, d0</td>
+<td>D<sub>fl</sub>-s1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de fibras, duro <sup>(3)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 622-2</td>
-<td class="cuerpo_tabla_centro">con espacio de aire confinado inferior o igual a 22 mm detrás del tablero derivado de la madera</td>
-<td class="cuerpo_tabla_centro">900</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">D-s2, d2</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Tablero de fibras, duro <sup>(3)</sup></td>
+<td>UNE-EN 622-2</td>
+<td>con espacio de aire confinado inferior o igual a 22 mm detrás del tablero derivado de la madera</td>
+<td>900</td>
+<td>6</td>
+<td>D-s2, d2</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de partículas <sup>(1), (2), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 312</td>
-<td class="cuerpo_tabla_centro" rowspan="4">sin espacio de aire detrás del tablero derivado de la madera</td>
-<td class="cuerpo_tabla_centro" rowspan="4">600</td>
-<td class="cuerpo_tabla_centro" rowspan="4">9</td>
-<td class="cuerpo_tabla_centro" rowspan="4">D-s2, d0</td>
-<td class="cuerpo_tabla_centro" rowspan="4">D<sub>fl</sub>-s1</td>
+<td>Tablero de partículas <sup>(1), (2), (5)</sup></td>
+<td>UNE-EN 312</td>
+<td rowspan="4">sin espacio de aire detrás del tablero derivado de la madera</td>
+<td rowspan="4">600</td>
+<td rowspan="4">9</td>
+<td rowspan="4">D-s2, d0</td>
+<td rowspan="4">D<sub>fl</sub>-s1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de fibras, duro y semiduro <sup>(1), (2), (5)</sup></td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">UNE-EN 622-2</p>
-<p class="cuerpo_tabla_centro">UNE-EN 622-3</p>
+<td>Tablero de fibras, duro y semiduro <sup>(1), (2), (5)</sup></td>
+<td>
+<p>UNE-EN 622-2</p>
+<p>UNE-EN 622-3</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MDF <sup>(1), (2), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 622-5</td>
+<td>MDF <sup>(1), (2), (5)</sup></td>
+<td>UNE-EN 622-5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OSB <sup>(1), (2), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 300</td>
+<td>OSB <sup>(1), (2), (5)</sup></td>
+<td>UNE-EN 300</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero contrachapado <sup>(1), (2), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 636</td>
-<td class="cuerpo_tabla_centro" rowspan="2">-«-</td>
-<td class="cuerpo_tabla_centro" rowspan="2">400</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro" rowspan="2">D-s2, d0</td>
-<td class="cuerpo_tabla_centro" rowspan="2">D<sub>fl</sub>-s1</td>
+<td>Tablero contrachapado <sup>(1), (2), (5)</sup></td>
+<td>UNE-EN 636</td>
+<td rowspan="2">-«-</td>
+<td rowspan="2">400</td>
+<td>9</td>
+<td rowspan="2">D-s2, d0</td>
+<td rowspan="2">D<sub>fl</sub>-s1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de madera maciza <sup>(1), (2), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 13353</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>Tablero de madera maciza <sup>(1), (2), (5)</sup></td>
+<td>UNE-EN 13353</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de lino <sup>(1), (2), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 15197</td>
-<td class="cuerpo_tabla_centro">-«-</td>
-<td class="cuerpo_tabla_centro">450</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">D-s2, d0</td>
-<td class="cuerpo_tabla_centro">D<sub>fl</sub>-s1</td>
+<td>Tablero de lino <sup>(1), (2), (5)</sup></td>
+<td>UNE-EN 15197</td>
+<td>-«-</td>
+<td>450</td>
+<td>15</td>
+<td>D-s2, d0</td>
+<td>D<sub>fl</sub>-s1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de partículas <sup>(3), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 312</td>
-<td class="cuerpo_tabla_centro" rowspan="4">con espacio de aire confinado o espacio de aire libre inferior o igual a 22 mm detrás del tablero derivado de la madera</td>
-<td class="cuerpo_tabla_centro" rowspan="4">600</td>
-<td class="cuerpo_tabla_centro" rowspan="4">9</td>
-<td class="cuerpo_tabla_centro" rowspan="4">D-s2, d2</td>
-<td class="cuerpo_tabla_centro" rowspan="4">–</td>
+<td>Tablero de partículas <sup>(3), (5)</sup></td>
+<td>UNE-EN 312</td>
+<td rowspan="4">con espacio de aire confinado o espacio de aire libre inferior o igual a 22 mm detrás del tablero derivado de la madera</td>
+<td rowspan="4">600</td>
+<td rowspan="4">9</td>
+<td rowspan="4">D-s2, d2</td>
+<td rowspan="4">–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de fibras, duro y semiduro <sup>(3), (5)</sup></td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">UNE-EN 622-2</p>
-<p class="cuerpo_tabla_centro">UNE-EN 622-3</p>
+<td>Tablero de fibras, duro y semiduro <sup>(3), (5)</sup></td>
+<td>
+<p>UNE-EN 622-2</p>
+<p>UNE-EN 622-3</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MDF <sup>(3), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 622-5</td>
+<td>MDF <sup>(3), (5)</sup></td>
+<td>UNE-EN 622-5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OSB <sup>(3), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 300</td>
+<td>OSB <sup>(3), (5)</sup></td>
+<td>UNE-EN 300</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero contrachapado <sup>(3), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 636</td>
-<td class="cuerpo_tabla_centro" rowspan="2">-«-</td>
-<td class="cuerpo_tabla_centro" rowspan="2">400</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro" rowspan="2">D-s2, d2</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
+<td>Tablero contrachapado <sup>(3), (5)</sup></td>
+<td>UNE-EN 636</td>
+<td rowspan="2">-«-</td>
+<td rowspan="2">400</td>
+<td>9</td>
+<td rowspan="2">D-s2, d2</td>
+<td rowspan="2">–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de madera maciza <sup>(3)</sup>, <sup>(5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 13353</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>Tablero de madera maciza <sup>(3)</sup>, <sup>(5)</sup></td>
+<td>UNE-EN 13353</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de partículas <sup>(4), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 312</td>
-<td class="cuerpo_tabla_centro" rowspan="4">con espacio de aire confinado detrás del tablero derivado de la madera</td>
-<td class="cuerpo_tabla_centro" rowspan="4">600</td>
-<td class="cuerpo_tabla_centro" rowspan="4">15</td>
-<td class="cuerpo_tabla_centro" rowspan="4">D-s2, d0</td>
-<td class="cuerpo_tabla_centro" rowspan="4">D<sub>fl</sub>-s1</td>
+<td>Tablero de partículas <sup>(4), (5)</sup></td>
+<td>UNE-EN 312</td>
+<td rowspan="4">con espacio de aire confinado detrás del tablero derivado de la madera</td>
+<td rowspan="4">600</td>
+<td rowspan="4">15</td>
+<td rowspan="4">D-s2, d0</td>
+<td rowspan="4">D<sub>fl</sub>-s1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de fibras, semiduro <sup>(4)</sup>, <sup>(5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 622-3</td>
+<td>Tablero de fibras, semiduro <sup>(4)</sup>, <sup>(5)</sup></td>
+<td>UNE-EN 622-3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MDF <sup>(4)</sup>, <sup>(5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 622-5</td>
+<td>MDF <sup>(4)</sup>, <sup>(5)</sup></td>
+<td>UNE-EN 622-5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OSB <sup>(4)</sup>, <sup>(5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 300</td>
+<td>OSB <sup>(4)</sup>, <sup>(5)</sup></td>
+<td>UNE-EN 300</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero contrachapado <sup>(4), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 636</td>
-<td class="cuerpo_tabla_centro" rowspan="2">-«-</td>
-<td class="cuerpo_tabla_centro" rowspan="2">400</td>
-<td class="cuerpo_tabla_centro" rowspan="2">15</td>
-<td class="cuerpo_tabla_centro">D-s2, d1</td>
-<td class="cuerpo_tabla_centro" rowspan="2">D<sub>fl</sub>-s1</td>
+<td>Tablero contrachapado <sup>(4), (5)</sup></td>
+<td>UNE-EN 636</td>
+<td rowspan="2">-«-</td>
+<td rowspan="2">400</td>
+<td rowspan="2">15</td>
+<td>D-s2, d1</td>
+<td rowspan="2">D<sub>fl</sub>-s1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de madera maciza <sup>(4)</sup>, <sup>(5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 13353</td>
-<td class="cuerpo_tabla_centro">D-s2, d0</td>
+<td>Tablero de madera maciza <sup>(4)</sup>, <sup>(5)</sup></td>
+<td>UNE-EN 13353</td>
+<td>D-s2, d0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de lino <sup>(4), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 15197</td>
-<td class="cuerpo_tabla_centro">-«-</td>
-<td class="cuerpo_tabla_centro">450</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">D-s2, d0</td>
-<td class="cuerpo_tabla_centro">D<sub>fl</sub>-s1</td>
+<td>Tablero de lino <sup>(4), (5)</sup></td>
+<td>UNE-EN 15197</td>
+<td>-«-</td>
+<td>450</td>
+<td>15</td>
+<td>D-s2, d0</td>
+<td>D<sub>fl</sub>-s1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de partículas <sup>(4), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 312</td>
-<td class="cuerpo_tabla_centro" rowspan="4">con espacio de aire abierto detrás del tablero derivado de la madera</td>
-<td class="cuerpo_tabla_centro" rowspan="4">600</td>
-<td class="cuerpo_tabla_centro" rowspan="4">18</td>
-<td class="cuerpo_tabla_centro" rowspan="4">D-s2, d0</td>
-<td class="cuerpo_tabla_centro" rowspan="4">D<sub>fl</sub>-s1</td>
+<td>Tablero de partículas <sup>(4), (5)</sup></td>
+<td>UNE-EN 312</td>
+<td rowspan="4">con espacio de aire abierto detrás del tablero derivado de la madera</td>
+<td rowspan="4">600</td>
+<td rowspan="4">18</td>
+<td rowspan="4">D-s2, d0</td>
+<td rowspan="4">D<sub>fl</sub>-s1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de fibras, semiduro <sup>(4), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 622-3</td>
+<td>Tablero de fibras, semiduro <sup>(4), (5)</sup></td>
+<td>UNE-EN 622-3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MDF <sup>(4), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 622-5</td>
+<td>MDF <sup>(4), (5)</sup></td>
+<td>UNE-EN 622-5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OSB <sup>(4), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 300</td>
+<td>OSB <sup>(4), (5)</sup></td>
+<td>UNE-EN 300</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero contrachapado <sup>(4), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 636</td>
-<td class="cuerpo_tabla_centro" rowspan="2">-«-</td>
-<td class="cuerpo_tabla_centro" rowspan="2">400</td>
-<td class="cuerpo_tabla_centro" rowspan="2">18</td>
-<td class="cuerpo_tabla_centro" rowspan="2">D-s2, d0</td>
-<td class="cuerpo_tabla_centro" rowspan="2">D<sub>fl</sub>-s1</td>
+<td>Tablero contrachapado <sup>(4), (5)</sup></td>
+<td>UNE-EN 636</td>
+<td rowspan="2">-«-</td>
+<td rowspan="2">400</td>
+<td rowspan="2">18</td>
+<td rowspan="2">D-s2, d0</td>
+<td rowspan="2">D<sub>fl</sub>-s1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de madera maciza <sup>(4), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 13353</td>
+<td>Tablero de madera maciza <sup>(4), (5)</sup></td>
+<td>UNE-EN 13353</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de lino <sup>(4), (5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 15197</td>
-<td class="cuerpo_tabla_centro">-«-</td>
-<td class="cuerpo_tabla_centro">450</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">D-s2, d0</td>
-<td class="cuerpo_tabla_centro">D<sub>fl</sub>-s1</td>
+<td>Tablero de lino <sup>(4), (5)</sup></td>
+<td>UNE-EN 15197</td>
+<td>-«-</td>
+<td>450</td>
+<td>18</td>
+<td>D-s2, d0</td>
+<td>D<sub>fl</sub>-s1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de partículas <sup>(5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 312</td>
-<td class="cuerpo_tabla_centro" rowspan="2">cualquiera</td>
-<td class="cuerpo_tabla_centro" rowspan="2">600</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro" rowspan="2">E</td>
-<td class="cuerpo_tabla_centro" rowspan="2">E<sub>fl</sub></td>
+<td>Tablero de partículas <sup>(5)</sup></td>
+<td>UNE-EN 312</td>
+<td rowspan="2">cualquiera</td>
+<td rowspan="2">600</td>
+<td rowspan="2">3</td>
+<td rowspan="2">E</td>
+<td rowspan="2">E<sub>fl</sub></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OSB <sup>(5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 300</td>
+<td>OSB <sup>(5)</sup></td>
+<td>UNE-EN 300</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MDF <sup>(5)</sup></td>
-<td class="cuerpo_tabla_centro" rowspan="2">UNE-EN 622-5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">-«-</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_centro">E<sub>fl</sub></td>
+<td rowspan="2">MDF <sup>(5)</sup></td>
+<td rowspan="2">UNE-EN 622-5</td>
+<td rowspan="2">-«-</td>
+<td>400</td>
+<td>3</td>
+<td>E</td>
+<td>E<sub>fl</sub></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">250</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_centro">E<sub>fl</sub></td>
+<td>250</td>
+<td>9</td>
+<td>E</td>
+<td>E<sub>fl</sub></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero contrachapado <sup>(5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 636</td>
-<td class="cuerpo_tabla_centro">-«-</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_centro">E<sub>fl</sub></td>
+<td>Tablero contrachapado <sup>(5)</sup></td>
+<td>UNE-EN 636</td>
+<td>-«-</td>
+<td>400</td>
+<td>3</td>
+<td>E</td>
+<td>E<sub>fl</sub></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de fibras, duro <sup>(5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 622-2</td>
-<td class="cuerpo_tabla_centro">-«-</td>
-<td class="cuerpo_tabla_centro">900</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_centro">E<sub>fl</sub></td>
+<td>Tablero de fibras, duro <sup>(5)</sup></td>
+<td>UNE-EN 622-2</td>
+<td>-«-</td>
+<td>900</td>
+<td>3</td>
+<td>E</td>
+<td>E<sub>fl</sub></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de fibras, semiduro <sup>(5)</sup></td>
-<td class="cuerpo_tabla_centro">UNE-EN 622-3</td>
-<td class="cuerpo_tabla_centro">-«-</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_centro">E<sub>fl</sub></td>
+<td>Tablero de fibras, semiduro <sup>(5)</sup></td>
+<td>UNE-EN 622-3</td>
+<td>-«-</td>
+<td>400</td>
+<td>9</td>
+<td>E</td>
+<td>E<sub>fl</sub></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tablero de fibras, blando</td>
-<td class="cuerpo_tabla_centro">UNE-EN 622-4</td>
-<td class="cuerpo_tabla_centro">-«-</td>
-<td class="cuerpo_tabla_centro">250</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_centro">E<sub>fl</sub></td>
+<td>Tablero de fibras, blando</td>
+<td>UNE-EN 622-4</td>
+<td>-«-</td>
+<td>250</td>
+<td>9</td>
+<td>E</td>
+<td>E<sub>fl</sub></td>
 </tr>
 </tbody>
 </table>
@@ -1319,60 +1281,51 @@ Cuadro 1.3-1 Clasificación de las propiedades de reacción al fuego de los tabl
 
 Cuadro 1.3-2 Clasificación de las propiedades de reacción al fuego de las placas de yeso laminado
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="12%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="13%">
-<col width="28%">
-<col width="13%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Placa de yeso laminado</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Espesor nominal de la placa</p>
-<p class="cabeza_tabla">(mm)</p>
+<th rowspan="2">Placa de yeso laminado</th>
+<th rowspan="2">
+<p>Espesor nominal de la placa</p>
+<p>(mm)</p>
 </th>
-<th class="cabeza_tabla" colspan="2">Núcleo de yeso</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Gramaje del cartón<sup>(1)</sup></p>
-<p class="cabeza_tabla">(g/m<sup>2</sup>)</p>
+<th colspan="2">Núcleo de yeso</th>
+<th rowspan="2">
+<p>Gramaje del cartón<sup>(1)</sup></p>
+<p>(g/m<sup>2</sup>)</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">Sustrato</th>
-<th class="cabeza_tabla" rowspan="2">Clase<sup>(2)</sup> (excluidos los suelos)</th>
+<th rowspan="2">Sustrato</th>
+<th rowspan="2">Clase<sup>(2)</sup> (excluidos los suelos)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Densidad (kg/m<sup>3</sup>)</th>
-<th class="cabeza_tabla">Clase de reacción al fuego</th>
+<th>Densidad (kg/m<sup>3</sup>)</th>
+<th>Clase de reacción al fuego</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Conforme con la norma UNE-EN 520 (excepto las placas perforadas)</td>
-<td class="cuerpo_tabla_centro" rowspan="2">≥ 6,5 &lt; 9,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">≥ 800</td>
-<td class="cuerpo_tabla_centro" rowspan="4">A1</td>
-<td class="cuerpo_tabla_centro">≤ 220</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Cualquier producto a base de madera de densidad 400 kg/m³ o cualquier producto de clase, como mínimo, A2-s1, d0.</td>
-<td class="cuerpo_tabla_centro">A2-s1, d0</td>
+<td rowspan="4">Conforme con la norma UNE-EN 520 (excepto las placas perforadas)</td>
+<td rowspan="2">≥ 6,5 &lt; 9,5</td>
+<td rowspan="2">≥ 800</td>
+<td rowspan="4">A1</td>
+<td>≤ 220</td>
+<td rowspan="2">Cualquier producto a base de madera de densidad 400 kg/m³ o cualquier producto de clase, como mínimo, A2-s1, d0.</td>
+<td>A2-s1, d0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 220 ≤ 320</td>
-<td class="cuerpo_tabla_centro">B-s1, d0</td>
+<td>&gt; 220 ≤ 320</td>
+<td>B-s1, d0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">≥ 9,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">≥ 600</td>
-<td class="cuerpo_tabla_centro">≤ 220</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Cualquier producto a base de madera de densidad 400 kg/m³ o cualquier producto de clase, como mínimo, A2-s1, d0 O cualquier producto aislante de clase, como mínimo, E-d2, montado conforme al método 1.</td>
-<td class="cuerpo_tabla_centro">A2-s1, d0</td>
+<td rowspan="2">≥ 9,5</td>
+<td rowspan="2">≥ 600</td>
+<td>≤ 220</td>
+<td rowspan="2">Cualquier producto a base de madera de densidad 400 kg/m³ o cualquier producto de clase, como mínimo, A2-s1, d0 O cualquier producto aislante de clase, como mínimo, E-d2, montado conforme al método 1.</td>
+<td>A2-s1, d0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 220 ≤ 320</td>
-<td class="cuerpo_tabla_centro">B-s1, d0</td>
+<td>&gt; 220 ≤ 320</td>
+<td>B-s1, d0</td>
 </tr>
 </tbody>
 </table>
@@ -1519,101 +1472,93 @@ Cuadro 1.3-8 Clasificación de las propiedades de reacción al fuego de los reve
 
 Cuadro 1.3-9 Clasificación de las propiedades de reacción al fuego de los suelos de madera y parqué
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="12%">
-<col width="40%">
-<col width="13%">
-<col width="10%">
-<col width="15%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Producto <sup>(1) (7)</sup></th>
-<th class="cabeza_tabla">Información del producto <sup>(4) </sup></th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Densidad media mínima <sup>(5)</sup></p>
-<p class="cabeza_tabla">(kg/m<sup>3</sup>)</p>
+<th>Producto <sup>(1) (7)</sup></th>
+<th>Información del producto <sup>(4) </sup></th>
+<th>
+<p>Densidad media mínima <sup>(5)</sup></p>
+<p>(kg/m<sup>3</sup>)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Espesor total mínimo</p>
-<p class="cabeza_tabla">(mm)</p>
+<th>
+<p>Espesor total mínimo</p>
+<p>(mm)</p>
 </th>
-<th class="cabeza_tabla">Condiciones de uso final</th>
-<th class="cabeza_tabla">Clase <sup>(3)</sup> suelo</th>
+<th>Condiciones de uso final</th>
+<th>Clase <sup>(3)</sup> suelo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Suelos de madera y parqué.</td>
-<td class="cuerpo_tabla_izq">Suelos de madera maciza de roble y haya con acabado superficial.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Haya: 680</p>
-<p class="cuerpo_tabla_centro">Roble: 650</p>
+<td rowspan="4">Suelos de madera y parqué.</td>
+<td>Suelos de madera maciza de roble y haya con acabado superficial.</td>
+<td>
+<p>Haya: 680</p>
+<p>Roble: 650</p>
 </td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Encolado al sustrato <sup>(6) </sup>.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">C<sub>FL</sub> - s1</td>
+<td>8</td>
+<td>Encolado al sustrato <sup>(6) </sup>.</td>
+<td rowspan="2">C<sub>FL</sub> - s1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Suelos de madera maciza de roble, haya y pícea con acabado superficial.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Haya: 680</p>
-<p class="cuerpo_tabla_centro">Roble: 650</p>
-<p class="cuerpo_tabla_centro">Pícea: 450</p>
+<td>Suelos de madera maciza de roble, haya y pícea con acabado superficial.</td>
+<td>
+<p>Haya: 680</p>
+<p>Roble: 650</p>
+<p>Pícea: 450</p>
 </td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">Con o sin cámara de aire inferior.</td>
+<td>20</td>
+<td>Con o sin cámara de aire inferior.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Suelos de madera maciza con acabado superficial no especificados arriba.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">390</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Sin cámara de aire inferior.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">D<sub>FL</sub> - s1</td>
+<td rowspan="2">Suelos de madera maciza con acabado superficial no especificados arriba.</td>
+<td rowspan="2">390</td>
+<td>8</td>
+<td>Sin cámara de aire inferior.</td>
+<td rowspan="2">D<sub>FL</sub> - s1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">Con o sin cámara de aire inferior.</td>
+<td>20</td>
+<td>Con o sin cámara de aire inferior.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">Parqué.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Parqué multicapa con capa superior de roble de 5 mm de grosor como mínimo y con acabado superficial.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">
-<p class="cuerpo_tabla_centro">650</p>
-<p class="cuerpo_tabla_centro">(capa superior)</p>
+<td rowspan="5">Parqué.</td>
+<td rowspan="2">Parqué multicapa con capa superior de roble de 5 mm de grosor como mínimo y con acabado superficial.</td>
+<td rowspan="2">
+<p>650</p>
+<p>(capa superior)</p>
 </td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Encolado al sustrato <sup>(6) </sup>.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">C<sub>FL</sub> - s1</td>
+<td>10</td>
+<td>Encolado al sustrato <sup>(6) </sup>.</td>
+<td rowspan="2">C<sub>FL</sub> - s1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14 <sup>(2)</sup></td>
-<td class="cuerpo_tabla_izq">Con o sin cámara de aire inferior.</td>
+<td>14 <sup>(2)</sup></td>
+<td>Con o sin cámara de aire inferior.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Parqué multicapa con acabado superficial y no especificado arriba.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">500</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Encolado al sustrato.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">D<sub>FL</sub> - s1</td>
+<td rowspan="3">Parqué multicapa con acabado superficial y no especificado arriba.</td>
+<td rowspan="3">500</td>
+<td>8</td>
+<td>Encolado al sustrato.</td>
+<td rowspan="3">D<sub>FL</sub> - s1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Sin cámara de aire inferior.</td>
+<td>10</td>
+<td>Sin cámara de aire inferior.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14 <sup>(2)</sup></td>
-<td class="cuerpo_tabla_izq">Con o sin cámara de aire inferior.</td>
+<td>14 <sup>(2)</sup></td>
+<td>Con o sin cámara de aire inferior.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Revestimiento de suelo rechapado con madera.</td>
-<td class="cuerpo_tabla_izq">Revestimiento de suelo rechapado con acabado superficial.</td>
-<td class="cuerpo_tabla_centro">800</td>
-<td class="cuerpo_tabla_centro">6 <sup>(2)</sup></td>
-<td class="cuerpo_tabla_izq">Sin cámara de aire inferior.</td>
-<td class="cuerpo_tabla_centro">D<sub>FL</sub> - s1</td>
+<td>Revestimiento de suelo rechapado con madera.</td>
+<td>Revestimiento de suelo rechapado con acabado superficial.</td>
+<td>800</td>
+<td>6 <sup>(2)</sup></td>
+<td>Sin cámara de aire inferior.</td>
+<td>D<sub>FL</sub> - s1</td>
 </tr>
 </tbody>
 </table>
@@ -1634,63 +1579,55 @@ Cuadro 1.3-9 Clasificación de las propiedades de reacción al fuego de los suel
 
 Cuadro 1.3-10 Clasificación de las propiedades de reacción al fuego de los revestimientos murales interiores y exteriores de madera maciza
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="12%">
-<col width="40%">
-<col width="13%">
-<col width="10%">
-<col width="15%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Producto<sup> (11)</sup></th>
-<th class="cabeza_tabla">Información del producto <sup>(5)</sup></th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Densidad mínima media <sup>(6)</sup></p>
-<p class="cabeza_tabla">(kg/m<sup>3</sup>)</p>
+<th>Producto<sup> (11)</sup></th>
+<th>Información del producto <sup>(5)</sup></th>
+<th>
+<p>Densidad mínima media <sup>(6)</sup></p>
+<p>(kg/m<sup>3</sup>)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Espesores mínimos, total/mínimo <sup>(7)</sup></p>
-<p class="cabeza_tabla">(mm)</p>
+<th>
+<p>Espesores mínimos, total/mínimo <sup>(7)</sup></p>
+<p>(mm)</p>
 </th>
-<th class="cabeza_tabla">Condiciones de utilización final <sup>(4)</sup></th>
-<th class="cabeza_tabla">Clase <sup>(3)</sup></th>
+<th>Condiciones de utilización final <sup>(4)</sup></th>
+<th>Clase <sup>(3)</sup></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Revestimientos murales interiores y exteriores <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Piezas de madera con o sin machihembrado y con o sin mecanización superficial.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">390</td>
-<td class="cuerpo_tabla_centro">9 / 6</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Con o sin cámara de aire posterior.</td>
-<td class="cuerpo_tabla_centro">D-s2, d0</td>
+<td rowspan="2">Revestimientos murales interiores y exteriores <sup>(1)</sup>.</td>
+<td rowspan="2">Piezas de madera con o sin machihembrado y con o sin mecanización superficial.</td>
+<td rowspan="2">390</td>
+<td>9 / 6</td>
+<td rowspan="2">Con o sin cámara de aire posterior.</td>
+<td>D-s2, d0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12 / 8</td>
-<td class="cuerpo_tabla_centro">D-s2, d0</td>
+<td>12 / 8</td>
+<td>D-s2, d0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Revestimientos murales interiores y exteriores <sup>(2)</sup>.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Piezas de madera con o sin machihembrado y con o sin mecanización superficial.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">390</td>
-<td class="cuerpo_tabla_centro">9 / 6</td>
-<td class="cuerpo_tabla_izq">Con cámara de aire posterior 20 mm.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">D-s2, d0</td>
+<td rowspan="2">Revestimientos murales interiores y exteriores <sup>(2)</sup>.</td>
+<td rowspan="2">Piezas de madera con o sin machihembrado y con o sin mecanización superficial.</td>
+<td rowspan="2">390</td>
+<td>9 / 6</td>
+<td>Con cámara de aire posterior 20 mm.</td>
+<td rowspan="2">D-s2, d0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18 / 12</td>
-<td class="cuerpo_tabla_izq">Con o sin cámara de aire posterior.</td>
+<td>18 / 12</td>
+<td>Con o sin cámara de aire posterior.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lamas de madera <sup>(8)</sup>.</td>
-<td class="cuerpo_tabla_izq">Piezas de madera colocadas sobre un bastidor <sup>(9)</sup>.</td>
-<td class="cuerpo_tabla_centro">390</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">Todas las caras al aire <sup>(10)</sup>.</td>
-<td class="cuerpo_tabla_centro">D-s2, d0</td>
+<td>Lamas de madera <sup>(8)</sup>.</td>
+<td>Piezas de madera colocadas sobre un bastidor <sup>(9)</sup>.</td>
+<td>390</td>
+<td>18</td>
+<td>Todas las caras al aire <sup>(10)</sup>.</td>
+<td>D-s2, d0</td>
 </tr>
 </tbody>
 </table>
@@ -1735,43 +1672,37 @@ a = superficie expuesta del marco de soporte de madera (en su caso), en m², por
 
 Cuadro 1.3-11 clasificación de las propiedades de reacción al fuego de los adhesivos para las baldosas cerámicas
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="62%">
-<col width="15%">
-<col width="15%">
-<col width="8%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Producto <sup>(1)</sup></th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Contenido orgánico</p>
-<p class="cabeza_tabla">(% en peso)</p>
+<th>Producto <sup>(1)</sup></th>
+<th>
+<p>Contenido orgánico</p>
+<p>(% en peso)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Espesor máximo de la capa</p>
-<p class="cabeza_tabla">(mm)</p>
+<th>
+<p>Espesor máximo de la capa</p>
+<p>(mm)</p>
 </th>
-<th class="cabeza_tabla">Clase <sup>(2)</sup></th>
+<th>Clase <sup>(2)</sup></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Adhesivo a base de cemento, de conformidad con la norma UNE-EN 12004.</td>
-<td class="cuerpo_tabla_centro">&lt; 20</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro" rowspan="3">E</td>
+<td>Adhesivo a base de cemento, de conformidad con la norma UNE-EN 12004.</td>
+<td>&lt; 20</td>
+<td>20</td>
+<td rowspan="3">E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adhesivo en dispersión, de conformidad con la norma UNE-EN 12004.</td>
-<td class="cuerpo_tabla_centro">&lt; 40</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>Adhesivo en dispersión, de conformidad con la norma UNE-EN 12004.</td>
+<td>&lt; 40</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adhesivo de resina de reacción, de conformidad con la norma UNE-EN 12004.</td>
-<td class="cuerpo_tabla_centro">&lt; 50</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>Adhesivo de resina de reacción, de conformidad con la norma UNE-EN 12004.</td>
+<td>&lt; 50</td>
+<td>5</td>
 </tr>
 </tbody>
 </table>
@@ -1782,60 +1713,54 @@ Cuadro 1.3-11 clasificación de las propiedades de reacción al fuego de los adh
 
 Cuadro 1.3-12 Clasificación de las propiedades de reacción al fuego de los revestimientos decorativos de paredes en forma de rollos y paneles
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="62%">
-<col width="15%">
-<col width="15%">
-<col width="8%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Producto <sup>(1)</sup></th>
-<th class="cabeza_tabla">Masa máxima por unidad de superficie (g/m<sup>2</sup>)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Grosor máximo</p>
-<p class="cabeza_tabla">(en mm)</p>
+<th>Producto <sup>(1)</sup></th>
+<th>Masa máxima por unidad de superficie (g/m<sup>2</sup>)</th>
+<th>
+<p>Grosor máximo</p>
+<p>(en mm)</p>
 </th>
-<th class="cabeza_tabla">Clase <sup>(2)</sup></th>
+<th>Clase <sup>(2)</sup></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Revestimientos de paredes con una base de fibra de celulosa.</td>
-<td class="cuerpo_tabla_centro">190</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro" rowspan="7">D-s3, d2</td>
+<td>Revestimientos de paredes con una base de fibra de celulosa.</td>
+<td>190</td>
+<td>0,9</td>
+<td rowspan="7">D-s3, d2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Revestimientos de paredes con una base de fibra de celulosa y recubiertos o impresos con polímeros.</td>
-<td class="cuerpo_tabla_centro">470</td>
-<td class="cuerpo_tabla_centro">0,7</td>
+<td>Revestimientos de paredes con una base de fibra de celulosa y recubiertos o impresos con polímeros.</td>
+<td>470</td>
+<td>0,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Revestimientos de paredes con una base constituida por una mezcla de fibra de celulosa y poliéster.</td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Revestimientos de paredes con una base constituida por una mezcla de fibra de celulosa y poliéster.</td>
+<td>160</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Revestimientos de paredes con una base constituida por una mezcla de fibra de celulosa y poliéster y recubiertos o impresos con polímeros.</td>
-<td class="cuerpo_tabla_centro">410</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>Revestimientos de paredes con una base constituida por una mezcla de fibra de celulosa y poliéster y recubiertos o impresos con polímeros.</td>
+<td>410</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Revestimientos de paredes con una base de tejido recubierto con polímeros.</td>
-<td class="cuerpo_tabla_centro">510</td>
-<td class="cuerpo_tabla_centro">0,7</td>
+<td>Revestimientos de paredes con una base de tejido recubierto con polímeros.</td>
+<td>510</td>
+<td>0,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Revestimientos de paredes de tejidos de materia textil con un refuerzo posterior de fibra de celulosa o fibra de celulosa y poliéster.</td>
-<td class="cuerpo_tabla_centro">450</td>
-<td class="cuerpo_tabla_centro">0,8</td>
+<td>Revestimientos de paredes de tejidos de materia textil con un refuerzo posterior de fibra de celulosa o fibra de celulosa y poliéster.</td>
+<td>450</td>
+<td>0,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Revestimientos de paredes de espuma de PVC con un refuerzo posterior de fibra de celulosa o fibra de celulosa y poliéster.</td>
-<td class="cuerpo_tabla_centro">310</td>
-<td class="cuerpo_tabla_centro">1,8</td>
+<td>Revestimientos de paredes de espuma de PVC con un refuerzo posterior de fibra de celulosa o fibra de celulosa y poliéster.</td>
+<td>310</td>
+<td>1,8</td>
 </tr>
 </tbody>
 </table>
@@ -1858,36 +1783,30 @@ Cuadro 1.3-13 Clasificación de las propiedades de reacción al fuego de los com
 
 Cuadro 1.3-14 Clasificación de las propiedades de reacción al fuego de las soleras a base de cemento y las soleras a base de sulfato de calcio
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="62%">
-<col width="15%">
-<col width="15%">
-<col width="8%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Producto <sup>(1)</sup></th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Espesor máximo de la capa</p>
-<p class="cabeza_tabla">(mm)</p>
+<th>Producto <sup>(1)</sup></th>
+<th>
+<p>Espesor máximo de la capa</p>
+<p>(mm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Contenido orgánico</p>
-<p class="cabeza_tabla">(en % en peso)</p>
+<th>
+<p>Contenido orgánico</p>
+<p>(en % en peso)</p>
 </th>
-<th class="cabeza_tabla">Clase <sup>(2)</sup></th>
+<th>Clase <sup>(2)</sup></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Soleras a base de cemento de conformidad con la norma UNE-EN 13813.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">30</td>
-<td class="cuerpo_tabla_centro" rowspan="2">&lt; 20</td>
-<td class="cuerpo_tabla_centro" rowspan="2">E</td>
+<td>Soleras a base de cemento de conformidad con la norma UNE-EN 13813.</td>
+<td rowspan="2">30</td>
+<td rowspan="2">&lt; 20</td>
+<td rowspan="2">E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Soleras a base de sulfato de calcio de conformidad con la norma UNE-EN 13813.</td>
+<td>Soleras a base de sulfato de calcio de conformidad con la norma UNE-EN 13813.</td>
 </tr>
 </tbody>
 </table>
@@ -1898,43 +1817,37 @@ Cuadro 1.3-14 Clasificación de las propiedades de reacción al fuego de las sol
 
 Cuadro 1.3-15 Clasificación de las propiedades de reacción al fuego de las soleras a base de resina sintéticas
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="62%">
-<col width="15%">
-<col width="15%">
-<col width="8%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Producto <sup>(1)</sup></th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Espesor máximo de la capa</p>
-<p class="cabeza_tabla">(en mm)</p>
+<th>Producto <sup>(1)</sup></th>
+<th>
+<p>Espesor máximo de la capa</p>
+<p>(en mm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Contenido orgánico</p>
-<p class="cabeza_tabla">(en % en peso)</p>
+<th>
+<p>Contenido orgánico</p>
+<p>(en % en peso)</p>
 </th>
-<th class="cabeza_tabla">Clase <sup>(2)</sup></th>
+<th>Clase <sup>(2)</sup></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Soleras sin rellenar para suelos a base de resinas sintéticas con un ligante hecho de resina epoxi o resina de poliuretano o resina de polimetilmetacrilatos o resina de viniléster de conformidad con la norma UNE-EN 13813.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro" rowspan="3">E o E<sub>fl</sub></td>
+<td>Soleras sin rellenar para suelos a base de resinas sintéticas con un ligante hecho de resina epoxi o resina de poliuretano o resina de polimetilmetacrilatos o resina de viniléster de conformidad con la norma UNE-EN 13813.</td>
+<td>4</td>
+<td>100</td>
+<td rowspan="3">E o E<sub>fl</sub></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Soleras rellenas para suelos a base de resinas sintéticas con un ligante hecho de resina epoxi o resina de poliuretano o resina de polimetilmetacrilatos o resina de viniléster y rellenas de compuestos minerales de conformidad con la norma UNE-EN 13813.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">&lt; 75</td>
+<td>Soleras rellenas para suelos a base de resinas sintéticas con un ligante hecho de resina epoxi o resina de poliuretano o resina de polimetilmetacrilatos o resina de viniléster y rellenas de compuestos minerales de conformidad con la norma UNE-EN 13813.</td>
+<td>10</td>
+<td>&lt; 75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Soleras rellenas para suelos a base de resinas sintéticas mezcladas con arena silícea, con un ligante hecho de resina epoxi o resina de poliuretano o resina de polimetilmetacrilatos o resina de viniléster y rellenas de agregados minerales de conformidad con la norma UNE-EN 13813.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">&lt; 75</td>
+<td>Soleras rellenas para suelos a base de resinas sintéticas mezcladas con arena silícea, con un ligante hecho de resina epoxi o resina de poliuretano o resina de polimetilmetacrilatos o resina de viniléster y rellenas de agregados minerales de conformidad con la norma UNE-EN 13813.</td>
+<td>10</td>
+<td>&lt; 75</td>
 </tr>
 </tbody>
 </table>
@@ -2003,122 +1916,117 @@ El ensayo aplicable será el descrito como ensayo 1 en la norma UNE-ENV 1187 y l
 
 Cuadro 2.1-1 Clasificación de las cubiertas o de los recubrimientos de cubiertas según su reacción ante un fuego exterior
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="23%">
-<col width="23%">
-<col width="54%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Método de ensayo</th>
-<th class="cabeza_tabla">Clase</th>
-<th class="cabeza_tabla">Criterios de clasificación</th>
+<th>Método de ensayo</th>
+<th>Clase</th>
+<th>Criterios de clasificación</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">UNE-ENV 1187</p>
-<p class="cuerpo_tabla_izq">Ensayo 1</p>
+<td rowspan="2">
+<p>UNE-ENV 1187</p>
+<p>Ensayo 1</p>
 </td>
-<td class="cuerpo_tabla_izq">B<sub>ROOF</sub> (t1)</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Tienen que darse todas las condiciones detalladas a continuación:</p>
-<p class="cuerpo_tabla_izq">Propagación interior y exterior del fuego hacia arriba &lt; 0,700 m.</p>
-<p class="cuerpo_tabla_izq">Propagación interior y exterior del fuego hacia abajo &lt; 0,600 m.</p>
-<p class="cuerpo_tabla_izq">Máxima longitud de la zona quemada interior y exterior &lt; 0,800 m.</p>
-<p class="cuerpo_tabla_izq">Ningún material combustible (gotas o brasas) se desprende en la cara expuesta.</p>
-<p class="cuerpo_tabla_izq">Ninguna partícula ardiendo/incandescente penetra a través de la cubierta.</p>
-<p class="cuerpo_tabla_izq">Ninguna abertura &gt; 2,5 x 10<sup>-5</sup> m<sup>2</sup>.</p>
-<p class="cuerpo_tabla_izq">Suma de todas las aberturas &lt; 4,5 x 10<sup>-3</sup> m<sup>2</sup>.</p>
-<p class="cuerpo_tabla_izq">La propagación lateral del fuego no alcanza los límites de la zona de medición.</p>
-<p class="cuerpo_tabla_izq">No existe combustión interna sin llama.</p>
-<p class="cuerpo_tabla_izq">Máximo radio de propagación de llama en cubiertas «planas» &lt; 0,200 m, tanto exteriormente como internamente.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">F<sub>ROOF</sub> (t1)</td>
-<td class="cuerpo_tabla_izq">Ningún comportamiento determinado.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">UNE-ENV 1187</p>
-<p class="cuerpo_tabla_izq">ensayo 2</p>
-</td>
-<td class="cuerpo_tabla_izq">B<sub>ROOF</sub> (t2)</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Para ambas series de ensayo a 2 m/ s y 4 m/ s de velocidad del viento:</p>
-<p class="cuerpo_tabla_izq">Longitud media de la zona dañada en la cubierta y en su cara interior ≤ 0,550 m.</p>
-<p class="cuerpo_tabla_izq">Máxima longitud de la zona dañada en la cubierta y en su cara interior ≤ 0,800 m.</p>
+<td>B<sub>ROOF</sub> (t1)</td>
+<td>
+<p>Tienen que darse todas las condiciones detalladas a continuación:</p>
+<p>Propagación interior y exterior del fuego hacia arriba &lt; 0,700 m.</p>
+<p>Propagación interior y exterior del fuego hacia abajo &lt; 0,600 m.</p>
+<p>Máxima longitud de la zona quemada interior y exterior &lt; 0,800 m.</p>
+<p>Ningún material combustible (gotas o brasas) se desprende en la cara expuesta.</p>
+<p>Ninguna partícula ardiendo/incandescente penetra a través de la cubierta.</p>
+<p>Ninguna abertura &gt; 2,5 x 10<sup>-5</sup> m<sup>2</sup>.</p>
+<p>Suma de todas las aberturas &lt; 4,5 x 10<sup>-3</sup> m<sup>2</sup>.</p>
+<p>La propagación lateral del fuego no alcanza los límites de la zona de medición.</p>
+<p>No existe combustión interna sin llama.</p>
+<p>Máximo radio de propagación de llama en cubiertas «planas» &lt; 0,200 m, tanto exteriormente como internamente.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">F<sub>ROOF</sub> (t2)</td>
-<td class="cuerpo_tabla_izq">Ningún comportamiento determinado.</td>
+<td>F<sub>ROOF</sub> (t1)</td>
+<td>Ningún comportamiento determinado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">UNE-ENV 1187</p>
-<p class="cuerpo_tabla_izq">ensayo 3</p>
+<td rowspan="2">
+<p>UNE-ENV 1187</p>
+<p>ensayo 2</p>
 </td>
-<td class="cuerpo_tabla_izq">B<sub>ROOF</sub> (t3)</td>
-<td class="cuerpo_tabla_izq">T<sub>E</sub> ≥ 30 min. y T<sub>P </sub>≥ 30 min.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">C<sub>ROOF </sub>(t3)</td>
-<td class="cuerpo_tabla_izq">T<sub>E</sub> ≥ 10 min. y T<sub>P </sub>≥ 15 min.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">D<sub>ROOF </sub>(t3)</td>
-<td class="cuerpo_tabla_izq">T<sub>P </sub>&gt; 5 min.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">F<sub>ROOF</sub> (t3)</td>
-<td class="cuerpo_tabla_izq">Ningún comportamiento determinado.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="5">
-<p class="cuerpo_tabla_izq">UNE-ENV 1187</p>
-<p class="cuerpo_tabla_izq">ensayo 4</p>
-</td>
-<td class="cuerpo_tabla_izq">B<sub>ROOF </sub>(t4)</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Tienen que darse todas las condiciones detalladas a continuación:</p>
-<p class="cuerpo_tabla_izq">No se produce penetración a través de la cubierta durante 1 hora.</p>
-<p class="cuerpo_tabla_izq">En el ensayo preliminar, una vez retirada la llama de ensayo, las muestras arden durante &lt; 5 minutos.</p>
-<p class="cuerpo_tabla_izq">En el ensayo preliminar, la llama se extiende &lt; 0,38 m por la zona de combustión.</p>
+<td>B<sub>ROOF</sub> (t2)</td>
+<td>
+<p>Para ambas series de ensayo a 2 m/ s y 4 m/ s de velocidad del viento:</p>
+<p>Longitud media de la zona dañada en la cubierta y en su cara interior ≤ 0,550 m.</p>
+<p>Máxima longitud de la zona dañada en la cubierta y en su cara interior ≤ 0,800 m.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C<sub>ROOF</sub> (t4)</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Tienen que darse todas las condiciones detalladas a continuación:</p>
-<p class="cuerpo_tabla_izq">No se produce penetración a través de la cubierta durante 30 minutos.</p>
-<p class="cuerpo_tabla_izq">En el ensayo preliminar, una vez retirada la llama de ensayo, las muestras arden durante &lt; 5 minutos.</p>
-<p class="cuerpo_tabla_izq">En el ensayo preliminar, la llama se extiende &lt; 0,38 m por la zona de combustión.</p>
+<td>F<sub>ROOF</sub> (t2)</td>
+<td>Ningún comportamiento determinado.</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>UNE-ENV 1187</p>
+<p>ensayo 3</p>
+</td>
+<td>B<sub>ROOF</sub> (t3)</td>
+<td>T<sub>E</sub> ≥ 30 min. y T<sub>P </sub>≥ 30 min.</td>
+</tr>
+<tr>
+<td>C<sub>ROOF </sub>(t3)</td>
+<td>T<sub>E</sub> ≥ 10 min. y T<sub>P </sub>≥ 15 min.</td>
+</tr>
+<tr>
+<td>D<sub>ROOF </sub>(t3)</td>
+<td>T<sub>P </sub>&gt; 5 min.</td>
+</tr>
+<tr>
+<td>F<sub>ROOF</sub> (t3)</td>
+<td>Ningún comportamiento determinado.</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>UNE-ENV 1187</p>
+<p>ensayo 4</p>
+</td>
+<td>B<sub>ROOF </sub>(t4)</td>
+<td>
+<p>Tienen que darse todas las condiciones detalladas a continuación:</p>
+<p>No se produce penetración a través de la cubierta durante 1 hora.</p>
+<p>En el ensayo preliminar, una vez retirada la llama de ensayo, las muestras arden durante &lt; 5 minutos.</p>
+<p>En el ensayo preliminar, la llama se extiende &lt; 0,38 m por la zona de combustión.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D<sub>ROOF</sub> (t4)</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Tienen que darse todas las condiciones detalladas a continuación:</p>
-<p class="cuerpo_tabla_izq">Se produce penetración a través de la cubierta en un período de 30 minutos, pero no se produce en el ensayo preliminar con llama.</p>
-<p class="cuerpo_tabla_izq">En el ensayo preliminar, una vez retirada la llama de ensayo, las muestras arden durante &lt; 5 minutos.</p>
-<p class="cuerpo_tabla_izq">En el ensayo preliminar, la llama se extiende &lt; 0,38 m por la zona de combustión.</p>
+<td>C<sub>ROOF</sub> (t4)</td>
+<td>
+<p>Tienen que darse todas las condiciones detalladas a continuación:</p>
+<p>No se produce penetración a través de la cubierta durante 30 minutos.</p>
+<p>En el ensayo preliminar, una vez retirada la llama de ensayo, las muestras arden durante &lt; 5 minutos.</p>
+<p>En el ensayo preliminar, la llama se extiende &lt; 0,38 m por la zona de combustión.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E<sub>ROOF</sub> (t4)</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Tienen que darse todas las condiciones detalladas a continuación:</p>
-<p class="cuerpo_tabla_izq">Se produce penetración a través de la cubierta en un período de 30 minutos, pero no se produce en el ensayo preliminar con llama.</p>
-<p class="cuerpo_tabla_izq">La propagación de la llama no es controlada.</p>
+<td>D<sub>ROOF</sub> (t4)</td>
+<td>
+<p>Tienen que darse todas las condiciones detalladas a continuación:</p>
+<p>Se produce penetración a través de la cubierta en un período de 30 minutos, pero no se produce en el ensayo preliminar con llama.</p>
+<p>En el ensayo preliminar, una vez retirada la llama de ensayo, las muestras arden durante &lt; 5 minutos.</p>
+<p>En el ensayo preliminar, la llama se extiende &lt; 0,38 m por la zona de combustión.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">F<sub>ROOF</sub> (t4)</td>
-<td class="cuerpo_tabla_izq">Ningún comportamiento determinado.</td>
+<td>E<sub>ROOF</sub> (t4)</td>
+<td>
+<p>Tienen que darse todas las condiciones detalladas a continuación:</p>
+<p>Se produce penetración a través de la cubierta en un período de 30 minutos, pero no se produce en el ensayo preliminar con llama.</p>
+<p>La propagación de la llama no es controlada.</p>
+</td>
+</tr>
+<tr>
+<td>F<sub>ROOF</sub> (t4)</td>
+<td>Ningún comportamiento determinado.</td>
 </tr>
 </tbody>
 </table>
@@ -2162,41 +2070,37 @@ P.C.S. = poder calorífico superior.
 
 Cuadro 2.2-2 Clases de comportamiento de las chapas de cubierta de acero revestido de plastisol ante un fuego exterior
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="80%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Producto</th>
-<th class="cabeza_tabla">Clase (1)</th>
+<th>Producto</th>
+<th>Clase (1)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Chapas de cubierta de acero revestido de plastisol:</p>
-<p class="cuerpo_tabla_izq">Como se especifican a continuación y cuando se incorporan en un sistema de cubiertas de una sola capa o de varias capas como se detalla a continuación.</p>
+<td>
+<p>Chapas de cubierta de acero revestido de plastisol:</p>
+<p>Como se especifican a continuación y cuando se incorporan en un sistema de cubiertas de una sola capa o de varias capas como se detalla a continuación.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_centro">B<sub>ROOF</sub> (t1)</p>
-<p class="cuerpo_tabla_centro">B<sub>ROOF </sub>(t2)</p>
-<p class="cuerpo_tabla_centro">B<sub>ROOF</sub> (t3)</p>
+<td>
+<p>B<sub>ROOF</sub> (t1)</p>
+<p>B<sub>ROOF </sub>(t2)</p>
+<p>B<sub>ROOF</sub> (t3)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Sistemas de cubiertas de conformidad con las normas UNE-EN 14782 y UNE-EN 14783, que incluyen chapas de acero perfiladas, chapas de acero planas o paneles de acero galvanizado revestido en continuo o de acero revestido de una aleación de cinc y aluminio de un grosor metálico 0,40 mm con un revestimiento exterior orgánico (lado expuesto al exterior) y, como opción, un revestimiento orgánico sobre el lado contrario (interior). El revestimiento exterior está compuesto de una capa de pintura plastisol líquido de un grosor nominal máximo de película seca de 0,200 mm, un PCS no superior a 8,0 MJ/m<sup>2</sup> y una masa seca máxima de 330 g/m<sup>2</sup>. El revestimiento orgánico del lado contrario (en su caso) tiene un PCS no superior a 4,0 MJ/m<sup>2</sup> y una masa seca máxima de 200 g/m<sup>2</sup>.</p>
-<p class="cuerpo_tabla_izq">Sistema de cubierta de una sola capa, que incluye una cubierta no aislada de revestimiento único sobre una estructura portante (raíles continuos o discontinuos) perteneciente a la clase A2-s1, d0 o mejor.</p>
-<p class="cuerpo_tabla_izq">Sistema de cubierta de varias capas, en el que las chapas de cubierta de acero revestido de plastisol forman una capa exterior de un conjunto de capas, en el que la estructura portante pertenece a la clase de reacción al fuego A2-s1, d0 o mejor y en el que inmediatamente debajo de la chapa de acero revestido de plastisol se encuentra una capa aislante perteneciente a la clase de reacción al fuego A2-s1, d0 o mejor. Dicho aislamiento deberá ser lana mineral sin revestimiento de acuerdo con la norma UNE-EN 13162 y constará de fibra de vidrio de una densidad mínima de 10 kg/m<sup>3</sup> (contenido nominal máximo de resina: 5 % en función del peso) y de un grosor 80 mm, o de lana de piedra de una densidad mínima de 25 kg/m<sup>3</sup> (contenido nominal máximo de resina: 3,5 % en función del peso) y de un grosor 80 mm.</p>
-<p class="cuerpo_tabla_izq">Juntas. Si el revestimiento superior contiene junturas, deberán ser como sigue:</p>
-<p class="cuerpo_tabla_izq">— Chapa de perfil trapezoidal: los recubrimientos laterales deberán llevar una juntura montada de al menos una nervadura y los recubrimientos longitudinales serán de un mínimo de 100 mm.</p>
-<p class="cuerpo_tabla_izq">— Chapa ondulada sinusoidal: los recubrimientos laterales deberán llevar una juntura montada de al menos 1,5 ondulaciones y los recubrimientos longitudinales serán de un mínimo de 100 mm.</p>
-<p class="cuerpo_tabla_izq">— Chapas/paneles planos: los recubrimientos laterales y longitudinales serán de un mínimo de 100 mm.</p>
-<p class="cuerpo_tabla_izq">— Sistemas de unión engrapada con bordes levantados: las junturas de recubrimiento lateral deberán llevar una costura vertical solapada o cubierta engrapada suficiente para garantizar un contacto continuo e inmediato entre las chapas y proporcionar una juntura estanca al agua; en su caso, las junturas de recubrimiento longitudinal deberán ser de un mínimo de 100 mm.</p>
-<p class="cuerpo_tabla_izq">Sellantes. Deberá ser de mastique butílico o similar con una densidad nominal de 1 500 a 1 700 kg/m<sup>3</sup> aplicado en débito continuo dentro de la zona cubierta de la juntura a un índice aproximado de 45 g/m lineal.</p>
-<p class="cuerpo_tabla_izq">Fijaciones. Las chapas de cubierta se fijarán a la estructura portante mediante fijaciones mecánicas de metal capaces de proporcionar estabilidad estructural a la construcción de la cubierta con fijaciones mecánicas de metal adicionales para garantizar un contacto continuo e inmediato entre las chapas y proporcionar junturas estancas al agua.</p>
+<td colspan="2">
+<p>Sistemas de cubiertas de conformidad con las normas UNE-EN 14782 y UNE-EN 14783, que incluyen chapas de acero perfiladas, chapas de acero planas o paneles de acero galvanizado revestido en continuo o de acero revestido de una aleación de cinc y aluminio de un grosor metálico 0,40 mm con un revestimiento exterior orgánico (lado expuesto al exterior) y, como opción, un revestimiento orgánico sobre el lado contrario (interior). El revestimiento exterior está compuesto de una capa de pintura plastisol líquido de un grosor nominal máximo de película seca de 0,200 mm, un PCS no superior a 8,0 MJ/m<sup>2</sup> y una masa seca máxima de 330 g/m<sup>2</sup>. El revestimiento orgánico del lado contrario (en su caso) tiene un PCS no superior a 4,0 MJ/m<sup>2</sup> y una masa seca máxima de 200 g/m<sup>2</sup>.</p>
+<p>Sistema de cubierta de una sola capa, que incluye una cubierta no aislada de revestimiento único sobre una estructura portante (raíles continuos o discontinuos) perteneciente a la clase A2-s1, d0 o mejor.</p>
+<p>Sistema de cubierta de varias capas, en el que las chapas de cubierta de acero revestido de plastisol forman una capa exterior de un conjunto de capas, en el que la estructura portante pertenece a la clase de reacción al fuego A2-s1, d0 o mejor y en el que inmediatamente debajo de la chapa de acero revestido de plastisol se encuentra una capa aislante perteneciente a la clase de reacción al fuego A2-s1, d0 o mejor. Dicho aislamiento deberá ser lana mineral sin revestimiento de acuerdo con la norma UNE-EN 13162 y constará de fibra de vidrio de una densidad mínima de 10 kg/m<sup>3</sup> (contenido nominal máximo de resina: 5 % en función del peso) y de un grosor 80 mm, o de lana de piedra de una densidad mínima de 25 kg/m<sup>3</sup> (contenido nominal máximo de resina: 3,5 % en función del peso) y de un grosor 80 mm.</p>
+<p>Juntas. Si el revestimiento superior contiene junturas, deberán ser como sigue:</p>
+<p>— Chapa de perfil trapezoidal: los recubrimientos laterales deberán llevar una juntura montada de al menos una nervadura y los recubrimientos longitudinales serán de un mínimo de 100 mm.</p>
+<p>— Chapa ondulada sinusoidal: los recubrimientos laterales deberán llevar una juntura montada de al menos 1,5 ondulaciones y los recubrimientos longitudinales serán de un mínimo de 100 mm.</p>
+<p>— Chapas/paneles planos: los recubrimientos laterales y longitudinales serán de un mínimo de 100 mm.</p>
+<p>— Sistemas de unión engrapada con bordes levantados: las junturas de recubrimiento lateral deberán llevar una costura vertical solapada o cubierta engrapada suficiente para garantizar un contacto continuo e inmediato entre las chapas y proporcionar una juntura estanca al agua; en su caso, las junturas de recubrimiento longitudinal deberán ser de un mínimo de 100 mm.</p>
+<p>Sellantes. Deberá ser de mastique butílico o similar con una densidad nominal de 1 500 a 1 700 kg/m<sup>3</sup> aplicado en débito continuo dentro de la zona cubierta de la juntura a un índice aproximado de 45 g/m lineal.</p>
+<p>Fijaciones. Las chapas de cubierta se fijarán a la estructura portante mediante fijaciones mecánicas de metal capaces de proporcionar estabilidad estructural a la construcción de la cubierta con fijaciones mecánicas de metal adicionales para garantizar un contacto continuo e inmediato entre las chapas y proporcionar junturas estancas al agua.</p>
 </td>
 </tr>
 </tbody>
@@ -2206,43 +2110,37 @@ Cuadro 2.2-2 Clases de comportamiento de las chapas de cubierta de acero revesti
 
 Cuadro 2.2-3 Clases de comportamiento ante un fuego exterior de los paneles sándwich para cubiertas con recubrimiento metálico por ambas caras
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="30%">
-<col width="30%">
-<col width="30%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Producto<sup>(1)</sup></th>
-<th class="cabeza_tabla">Información del producto</th>
-<th class="cabeza_tabla">Material de núcleo aislante con densidad mínima</th>
-<th class="cabeza_tabla">Clase<sup>(2)</sup></th>
+<th>Producto<sup>(1)</sup></th>
+<th>Información del producto</th>
+<th>Material de núcleo aislante con densidad mínima</th>
+<th>Clase<sup>(2)</sup></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">Paneles sándwich para cubiertas con revestimiento de acero, acero inoxidable o aluminio.</td>
-<td class="cuerpo_tabla_izq" rowspan="5">De conformidad con la norma UNE-EN 14509 <sup>(1)</sup></td>
-<td class="cuerpo_tabla_centro">PUR 35 kg/m<sup>3</sup></td>
-<td class="cuerpo_tabla_centro">B<sub>ROOF</sub> (t1)</td>
+<td rowspan="5">Paneles sándwich para cubiertas con revestimiento de acero, acero inoxidable o aluminio.</td>
+<td rowspan="5">De conformidad con la norma UNE-EN 14509 <sup>(1)</sup></td>
+<td>PUR 35 kg/m<sup>3</sup></td>
+<td>B<sub>ROOF</sub> (t1)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">o</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>o</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">MW (lamellas) 80 kg/m<sup>3</sup></td>
-<td class="cuerpo_tabla_centro">B<sub>ROOF</sub> (t2)</td>
+<td>MW (lamellas) 80 kg/m<sup>3</sup></td>
+<td>B<sub>ROOF</sub> (t2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">o</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>o</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">MW (paneles) 110 kg/m<sup>3</sup></td>
-<td class="cuerpo_tabla_centro">B<sub>ROOF</sub> (t3)</td>
+<td>MW (paneles) 110 kg/m<sup>3</sup></td>
+<td>B<sub>ROOF</sub> (t3)</td>
 </tr>
 </tbody>
 </table>
@@ -2303,1616 +2201,1304 @@ NOTA: las clasificaciones siguientes están expresadas en minutos, a no ser que 
 
 1\. Elementos portantes sin funciones de separación contra el fuego
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Paredes, suelos, tejados, vigas, columnas, balcones, escaleras, pasarelas.</td>
+<td>Productos</td>
+<td colspan="10">Paredes, suelos, tejados, vigas, columnas, balcones, escaleras, pasarelas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-2+A1; UNE-EN 1365, partes 1 a 6; UNE-EN 1992-1-2; UNE-EN 1993-1-2; UNE-EN 1994-1-2; UNE-EN 1995-1-2; UNE-EN 1996-1-2; EN 1999-1-2 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-2+A1; UNE-EN 1365, partes 1 a 6; UNE-EN 1992-1-2; UNE-EN 1993-1-2; UNE-EN 1994-1-2; UNE-EN 1995-1-2; UNE-EN 1996-1-2; EN 1999-1-2 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_centro" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro">360</td>
+<td>R</td>
+<td>15</td>
+<td>20</td>
+<td>30</td>
+<td>45</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td>360</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">-</td>
+<td>Comentarios</td>
+<td colspan="10">-</td>
 </tr>
 </tbody>
 </table>
 
 2\. Elementos portantes con funciones de separación contra el fuego
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Paredes</td>
+<td>Productos</td>
+<td colspan="10">Paredes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-2+A1; UNE-EN 1365-1; UNE-EN 1992-1-2; UNE-EN 1993-1-2; UNE-EN 1994-1-2; UNE-EN 1995-1-2; UNE-EN 1996-1-2; EN 1999-1-2 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-2+A1; UNE-EN 1365-1; UNE-EN 1992-1-2; UNE-EN 1993-1-2; UNE-EN 1994-1-2; UNE-EN 1995-1-2; UNE-EN 1996-1-2; EN 1999-1-2 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_centro" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RE</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro">360</td>
+<td>RE</td>
+<td> </td>
+<td>20</td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td>360</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">REÍ</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro">360</td>
+<td>REÍ</td>
+<td>15</td>
+<td>20</td>
+<td>30</td>
+<td>45</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td>360</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">REI-M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro">360</td>
+<td>REI-M</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td>360</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">REW</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro">360</td>
+<td>REW</td>
+<td> </td>
+<td>20</td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td>360</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">-</td>
+<td>Comentarios</td>
+<td colspan="10">-</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Suelos y cubiertas</td>
+<td>Productos</td>
+<td colspan="10">Suelos y cubiertas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-2+A1; UNE-EN 1365-2; UNE-EN 1992-1-2; UNE-EN 1993-1-2; UNE-EN 1994-1-2; UNE-EN 1995-1-2; EN 1999-1-2 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-2+A1; UNE-EN 1365-2; UNE-EN 1992-1-2; UNE-EN 1993-1-2; UNE-EN 1994-1-2; UNE-EN 1995-1-2; EN 1999-1-2 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_centro" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>R</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RE</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro">360</td>
+<td>RE</td>
+<td> </td>
+<td>20</td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td>360</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">REÍ</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro">360</td>
+<td>REÍ</td>
+<td>15</td>
+<td>20</td>
+<td>30</td>
+<td>45</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td>360</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">-</td>
+<td>Comentarios</td>
+<td colspan="10">-</td>
 </tr>
 </tbody>
 </table>
 
 3\. Productos y sistemas de protección de los elementos o partes portantes de las obras
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="30%">
-<col width="70%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq">Techos sin resistencia intrínseca al fuego</td>
+<td>Productos</td>
+<td>Techos sin resistencia intrínseca al fuego</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13501-2+A1; PrEN 13381-1 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td>UNE-EN 13501-2+A1; PrEN 13381-1 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Clasificación: se define en los mismos términos que los elementos portantes protegidos.</td>
+<td colspan="2">Clasificación: se define en los mismos términos que los elementos portantes protegidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq">Si cumplen los requisitos relativos al fuego "seminatural", se añadirá el símbolo "sn" a la clasificación.</td>
+<td>Comentarios</td>
+<td>Si cumplen los requisitos relativos al fuego "seminatural", se añadirá el símbolo "sn" a la clasificación.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="30%">
-<col width="70%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq">Revestimientos, placas, morteros, chapados y pantallas de protección contra el fuego.</td>
+<td>Productos</td>
+<td>Revestimientos, placas, morteros, chapados y pantallas de protección contra el fuego.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13501-2+A1; PrEN 13381 partes 2 a 7; UNE-EN 13381-8 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td>UNE-EN 13501-2+A1; PrEN 13381 partes 2 a 7; UNE-EN 13381-8 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Clasificación: se define en los mismos términos que los elementos portantes protegidos.</td>
+<td colspan="2">Clasificación: se define en los mismos términos que los elementos portantes protegidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq">-</td>
+<td>Comentarios</td>
+<td>-</td>
 </tr>
 </tbody>
 </table>
 
 4\. Elementos no portantes o partes de obras y productos de estas partes
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Particiones (incluidas las que tienen partes no aisladas y los elementos aislantes para cavidades).</td>
+<td>Productos</td>
+<td colspan="10">Particiones (incluidas las que tienen partes no aisladas y los elementos aislantes para cavidades).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-2+A1; UNE-EN 1364-1 (*); UNE-EN 1992-1-2; UNE-EN 1993-1-2; UNE-EN 1994-1-2; UNE-EN 1995-12; UNE-EN 1996-1-2; EN 1999-1-2 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-2+A1; UNE-EN 1364-1 (*); UNE-EN 1992-1-2; UNE-EN 1993-1-2; UNE-EN 1994-1-2; UNE-EN 1995-12; UNE-EN 1996-1-2; EN 1999-1-2 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>E</td>
+<td> </td>
+<td>20</td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>El</td>
+<td>15</td>
+<td>20</td>
+<td>30</td>
+<td>45</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El-M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>El-M</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EW</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>EW</td>
+<td> </td>
+<td>20</td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">-</td>
+<td>Comentarios</td>
+<td colspan="10">-</td>
 </tr>
 </tbody>
 </table>
 
 (*) En el caso de los elementos aislantes para cavidades, esta norma se complementa con el informe técnico n.º 31 de la Organización Europea para la Aprobación Técnica (EOTA). Este informe puede consultarse en la página web http://EOTA.be, «EOTA Technical Reports».
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Techos con resistencia intrínseca al fuego.</td>
+<td>Productos</td>
+<td colspan="10">Techos con resistencia intrínseca al fuego.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-2+A1; UNE-EN 1364-2 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-2+A1; UNE-EN 1364-2 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>El</td>
+<td>15</td>
+<td> </td>
+<td>30</td>
+<td>45</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">La clasificación se completa con "(a→b)", "(b→a)" ó "(a↔b)" para indicar si el elemento ha sido probado y cumple los requisitos sólo superiores o inferiores o ambos.</td>
+<td>Comentarios</td>
+<td colspan="10">La clasificación se completa con "(a→b)", "(b→a)" ó "(a↔b)" para indicar si el elemento ha sido probado y cumple los requisitos sólo superiores o inferiores o ambos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Fachadas (muros-cortina) y muros exteriores (incluidos elementos de vidrio).</td>
+<td>Productos</td>
+<td colspan="10">Fachadas (muros-cortina) y muros exteriores (incluidos elementos de vidrio).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-2+A1; UNE-EN 1364-3; UNE-EN 1364-4; UNE-EN 1992-1-2; UNE-EN 1993-1-2; UNE-EN 1994-1-2; UNE-EN 1995-1-2; UNE-EN 1996-1-2; EN 1999-1-2 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-2+A1; UNE-EN 1364-3; UNE-EN 1364-4; UNE-EN 1992-1-2; UNE-EN 1993-1-2; UNE-EN 1994-1-2; UNE-EN 1995-1-2; UNE-EN 1996-1-2; EN 1999-1-2 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>E</td>
+<td>15</td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>El</td>
+<td>15</td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EW</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>EW</td>
+<td> </td>
+<td>20</td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">
-<p class="cuerpo_tabla_izq">La clasificación se completa con "(i→o)", "(o→i)" ó "(i↔o)" para indicar si el elemento ha sido probado y cumple los requisitos sólo de interior o de exterior o ambos.</p>
-<p class="cuerpo_tabla_izq">En caso necesario, la estabilidad mecánica indica que ningún desprendimiento de partes puede causar daños personales durante el plazo previsto para la clasificación E ó El</p>
+<td>Comentarios</td>
+<td colspan="10">
+<p>La clasificación se completa con "(i→o)", "(o→i)" ó "(i↔o)" para indicar si el elemento ha sido probado y cumple los requisitos sólo de interior o de exterior o ambos.</p>
+<p>En caso necesario, la estabilidad mecánica indica que ningún desprendimiento de partes puede causar daños personales durante el plazo previsto para la clasificación E ó El</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Suelos elevados.</td>
+<td>Productos</td>
+<td colspan="10">Suelos elevados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-2+A1; UNE-EN 1366-6 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-2+A1; UNE-EN 1366-6 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>R</td>
+<td>15</td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RE</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RE</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">REÍ</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>REÍ</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">La clasificación se completa añadiendo el sufijo "f" para indicar resistencia plena al fuego o "r" para indicar la resistencia únicamente a la exposición a una temperatura constante.</td>
+<td>Comentarios</td>
+<td colspan="10">La clasificación se completa añadiendo el sufijo "f" para indicar resistencia plena al fuego o "r" para indicar la resistencia únicamente a la exposición a una temperatura constante.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Sistemas de obturación de penetraciones de cables y tuberías (Sistemas de obturación de pasos de instalaciones y de sellado de juntas).</td>
+<td>Productos</td>
+<td colspan="10">Sistemas de obturación de penetraciones de cables y tuberías (Sistemas de obturación de pasos de instalaciones y de sellado de juntas).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-2+A1; UNE-EN 1366-3; UNE-EN 1366-4 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-2+A1; UNE-EN 1366-3; UNE-EN 1366-4 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>E</td>
+<td>15</td>
+<td> </td>
+<td>30</td>
+<td>45</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>El</td>
+<td>15</td>
+<td>20</td>
+<td>30</td>
+<td>45</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">-</td>
+<td>Comentarios</td>
+<td colspan="10">-</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Puertas y elementos practicables cortafuegos (incluidos los que tienen partes acristaladas y herrajes) y sus dispositivos de cierre.</td>
+<td>Productos</td>
+<td colspan="10">Puertas y elementos practicables cortafuegos (incluidos los que tienen partes acristaladas y herrajes) y sus dispositivos de cierre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-2+A1; UNE-EN 1634-1 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-2+A1; UNE-EN 1634-1 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>E</td>
+<td>15</td>
+<td> </td>
+<td>30</td>
+<td>45</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>El</td>
+<td>15</td>
+<td>20</td>
+<td>30</td>
+<td>45</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EW</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>EW</td>
+<td> </td>
+<td>20</td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">La clasificación I se completa con el sufijo "1" ó "2" para indicar la definición de aislamiento utilizada. La adición del símbolo "C" indica que el producto también cumple el criterio de "cierre automático" (prueba de admisión/rechazo) <sup>(1)</sup></td>
+<td>Comentarios</td>
+<td colspan="10">La clasificación I se completa con el sufijo "1" ó "2" para indicar la definición de aislamiento utilizada. La adición del símbolo "C" indica que el producto también cumple el criterio de "cierre automático" (prueba de admisión/rechazo) <sup>(1)</sup></td>
 </tr>
 </tbody>
 </table>
 
 (1) La clasificación C podría ser complementada por los dígitos 0 a 5 de acuerdo con la categoría de uso. Los detalles serán incluidos en las especificaciones técnicas del producto.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="30%">
-<col width="70%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq">Puertas corta-humos.</td>
+<td>Productos</td>
+<td>Puertas corta-humos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13501-2+A1; UNE-EN 1634-3 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td>UNE-EN 13501-2+A1; UNE-EN 1634-3 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Clasificación: S<sub>200</sub> o S<sub>s</sub>, según las condiciones de la prueba cumplidas</td>
+<td colspan="2">Clasificación: S<sub>200</sub> o S<sub>s</sub>, según las condiciones de la prueba cumplidas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq">La adición del símbolo "C" indica que el producto también cumple el criterio de "cierre automático" (prueba de admisión/rechazo) <sup>(1)</sup></td>
+<td>Comentarios</td>
+<td>La adición del símbolo "C" indica que el producto también cumple el criterio de "cierre automático" (prueba de admisión/rechazo) <sup>(1)</sup></td>
 </tr>
 </tbody>
 </table>
 
 (1) La clasificación C podría ser complementada por los dígitos 0 a 5 de acuerdo con la categoría de uso. Los detalles serán incluidos en las especificaciones técnicas del producto.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Cierres para sistemas transportadores y de transporte por carriles.</td>
+<td>Productos</td>
+<td colspan="10">Cierres para sistemas transportadores y de transporte por carriles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-2+A1; UNE-EN 1366-7 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-2+A1; UNE-EN 1366-7 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>E</td>
+<td>15</td>
+<td> </td>
+<td>30</td>
+<td>45</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>El</td>
+<td>15</td>
+<td>20</td>
+<td>30</td>
+<td>45</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EW</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>EW</td>
+<td> </td>
+<td>20</td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">La clasificación I se completa con el sufijo "1" ó "2" para indicar la definición de aislamiento utilizada. Se generará una clasificación I en los casos en que la muestra de ensayo sea una configuración de tubería o de conducto sin evaluación del cierre para el sistema transportador. La inclusión del símbolo "C" indica que el producto también cumple el criterio de "cierre automático" (prueba de rechazo/admisión) <sup>(1)</sup></td>
+<td>Comentarios</td>
+<td colspan="10">La clasificación I se completa con el sufijo "1" ó "2" para indicar la definición de aislamiento utilizada. Se generará una clasificación I en los casos en que la muestra de ensayo sea una configuración de tubería o de conducto sin evaluación del cierre para el sistema transportador. La inclusión del símbolo "C" indica que el producto también cumple el criterio de "cierre automático" (prueba de rechazo/admisión) <sup>(1)</sup></td>
 </tr>
 </tbody>
 </table>
 
 (1) La clasificación C podría ser complementada por los dígitos 0 a 5 de acuerdo con la categoría de uso. Los detalles serán incluidos en las especificaciones técnicas del producto.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Conductos y patinillos para instalaciones y servicios.</td>
+<td>Productos</td>
+<td colspan="10">Conductos y patinillos para instalaciones y servicios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-2+A1; UNE-EN 1366-5 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-2+A1; UNE-EN 1366-5 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación; -</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación; -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>E</td>
+<td>15</td>
+<td>20</td>
+<td>30</td>
+<td>45</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>El</td>
+<td>15</td>
+<td>20</td>
+<td>30</td>
+<td>45</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">La clasificación se completa con "(i→o)", "(o→¡)" ó"(i↔o)" para indicar si el elemento se ha probado y cumple los requisitos externos o internos o bien ambos. Además, los símbolos "v<sub>e</sub>" y/o "h<sub>0</sub>" indican que el elemento puede utilizarse adecuadamente en sentido vertical y/o horizontal.</td>
+<td>Comentarios</td>
+<td colspan="10">La clasificación se completa con "(i→o)", "(o→¡)" ó"(i↔o)" para indicar si el elemento se ha probado y cumple los requisitos externos o internos o bien ambos. Además, los símbolos "v<sub>e</sub>" y/o "h<sub>0</sub>" indican que el elemento puede utilizarse adecuadamente en sentido vertical y/o horizontal.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq">Chimeneas.</td>
+<td>Productos</td>
+<td>Chimeneas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13501-2+A1; UNE-EN 13216 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td>UNE-EN 13501-2+A1; UNE-EN 13216 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Clasificación: G + distancia en milímetros (por ejemplo G 50).</td>
+<td colspan="2">Clasificación: G + distancia en milímetros (por ejemplo G 50).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq">Distancia no requerida para productos empotrados.</td>
+<td>Comentarios</td>
+<td>Distancia no requerida para productos empotrados.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="7">Revestimientos de paredes y techos.</td>
+<td>Productos</td>
+<td colspan="7">Revestimientos de paredes y techos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="7">UNE-EN 13501-2+A1; UNE-EN 14135 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="7">UNE-EN 13501-2+A1; UNE-EN 14135 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación:</td>
-<td class="cuerpo_tabla_izq" colspan="7"> </td>
+<td>Clasificación:</td>
+<td colspan="7"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">K<sub>1</sub></td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>K<sub>1</sub></td>
+<td>10</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">K<sub>2</sub></td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>K<sub>2</sub></td>
+<td>10</td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="7">Los sufijos "1" y "2" indican los substratos, los criterios de comportamiento ante el fuego y las normas de extensión utilizadas en esta clasificación.</td>
+<td>Comentarios</td>
+<td colspan="7">Los sufijos "1" y "2" indican los substratos, los criterios de comportamiento ante el fuego y las normas de extensión utilizadas en esta clasificación.</td>
 </tr>
 </tbody>
 </table>
 
 5\. Productos utilizados en sistemas de ventilación (excluidos los sistemas de extracción de calor y humo)
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Conductos de ventilación.</td>
+<td>Productos</td>
+<td colspan="10">Conductos de ventilación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-3+A1; UNE-EN 1366-1 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-3+A1; UNE-EN 1366-1 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>El</td>
+<td>15</td>
+<td>20</td>
+<td>30</td>
+<td>45</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>E</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">La clasificación se completa con "(i→o)", "(o→i)" ó "(i↔o)" para indicar si el elemento se ha probado y cumple los requisitos exteriores, interiores o ambos. Además, los símbolos "v<sub>e</sub>" y/o "h<sub>0</sub>" indican que el elemento puede usarse en sentido vertical y/o horizontal. La inclusión del símbolo "S" indica que se ajusta a una restricción suplementaria de fugas.</td>
+<td>Comentarios</td>
+<td colspan="10">La clasificación se completa con "(i→o)", "(o→i)" ó "(i↔o)" para indicar si el elemento se ha probado y cumple los requisitos exteriores, interiores o ambos. Además, los símbolos "v<sub>e</sub>" y/o "h<sub>0</sub>" indican que el elemento puede usarse en sentido vertical y/o horizontal. La inclusión del símbolo "S" indica que se ajusta a una restricción suplementaria de fugas.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Cierres contraincendios (reguladores de tiro contra incendios).</td>
+<td>Productos</td>
+<td colspan="10">Cierres contraincendios (reguladores de tiro contra incendios).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-3+A1; UNE-EN 1366-2 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-3+A1; UNE-EN 1366-2 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>El</td>
+<td>15</td>
+<td>20</td>
+<td>30</td>
+<td>45</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>240</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>E</td>
+<td>15</td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">La clasificación se completa con "(i→o)", "(o→i)" ó "(i↔o)" para indicar que el elemento ha sido probado y cumple los criterios interiores, exteriores o ambos. Además, los símbolos "v<sub>e</sub>" y/o "h<sub>0</sub>" indican que el elemento puede utilizarse adecuadamente en sentido vertical y/o horizontal. La inclusión del símbolo «S» indica que se ha cumplido una restricción suplementaria de fugas.</td>
+<td>Comentarios</td>
+<td colspan="10">La clasificación se completa con "(i→o)", "(o→i)" ó "(i↔o)" para indicar que el elemento ha sido probado y cumple los criterios interiores, exteriores o ambos. Además, los símbolos "v<sub>e</sub>" y/o "h<sub>0</sub>" indican que el elemento puede utilizarse adecuadamente en sentido vertical y/o horizontal. La inclusión del símbolo «S» indica que se ha cumplido una restricción suplementaria de fugas.</td>
 </tr>
 </tbody>
 </table>
 
 6\. Productos utilizados en las instalaciones técnicas
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Cables eléctricos y al fuego de fibras ópticas y accesorios; conductos y sistemas de cables resistentes al fuego.</td>
+<td>Productos</td>
+<td colspan="10">Cables eléctricos y al fuego de fibras ópticas y accesorios; conductos y sistemas de cables resistentes al fuego.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-3+A1 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-3+A1 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>E</td>
+<td>15</td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">-</td>
+<td>Comentarios</td>
+<td colspan="10">-</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Cables o sistemas de cableado de pequeño diámetro utilitos para la alimentación eléctrica o la transmisión de señal (de un diámetro inferior a 20 mm y conductores inferiores a 2.5 mm<sup>2</sup>).</td>
+<td>Productos</td>
+<td colspan="10">Cables o sistemas de cableado de pequeño diámetro utilitos para la alimentación eléctrica o la transmisión de señal (de un diámetro inferior a 20 mm y conductores inferiores a 2.5 mm<sup>2</sup>).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-3+A1; UNE-EN 50200 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-3+A1; UNE-EN 50200 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PH</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>PH</td>
+<td>15</td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">-</td>
+<td>Comentarios</td>
+<td colspan="10">-</td>
 </tr>
 </tbody>
 </table>
 
 7\. Productos utilizados en sistemas de control de calor y humo
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Conductos para control de humo en un único sector de incendio.</td>
+<td>Productos</td>
+<td colspan="10">Conductos para control de humo en un único sector de incendio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-4+A1; UNE-EN 1363-1 y 2; EN 1363-3; UNE-EN 1366-9; EN 12101-7 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-4+A1; UNE-EN 1363-1 y 2; EN 1363-3; UNE-EN 1366-9; EN 12101-7 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E<sub>300</sub></td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>E<sub>300</sub></td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E<sub>600</sub></td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>E<sub>600</sub></td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
+<td>Comentarios</td>
 <td colspan="10">
-<p class="cuerpo_tabla_izq">La clasificación se completa con el término «single» para indicar que es adecuado exclusivamente para ser utilizado en un único sector de incendio Además, los símbolos "v<sub>e</sub>" y/o "h<sub>0</sub>" indican que puede usarse en posición vertical y/o horizontal. «S» indica un porcentaje de fugas menor de 5m<sup>3</sup>/hr/m<sup>2</sup> (Todos los conductos sin una clasificación «S» deben tener un índice de fugas menor de 10m<sup>3</sup>/hr/m<sup>2</sup>).</p>
-<p class="cuerpo_tabla_izq">«500», «1000», «1500» indican que puede utilizarse hasta esos valores de presión, medidos en condiciones de ambiente.</p>
+<p>La clasificación se completa con el término «single» para indicar que es adecuado exclusivamente para ser utilizado en un único sector de incendio Además, los símbolos "v<sub>e</sub>" y/o "h<sub>0</sub>" indican que puede usarse en posición vertical y/o horizontal. «S» indica un porcentaje de fugas menor de 5m<sup>3</sup>/hr/m<sup>2</sup> (Todos los conductos sin una clasificación «S» deben tener un índice de fugas menor de 10m<sup>3</sup>/hr/m<sup>2</sup>).</p>
+<p>«500», «1000», «1500» indican que puede utilizarse hasta esos valores de presión, medidos en condiciones de ambiente.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Conductos resistentes al fuego para control de humo en más de un sector de incendio.</td>
+<td>Productos</td>
+<td colspan="10">Conductos resistentes al fuego para control de humo en más de un sector de incendio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-4+A1; UNE-EN 1363-1 y 2; EN 1363-3; UNE-EN 1366-8; EN 12101-7 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-4+A1; UNE-EN 1363-1 y 2; EN 1363-3; UNE-EN 1366-8; EN 12101-7 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>El</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
+<td>Comentarios</td>
 <td colspan="10">
-<p class="cuerpo_tabla_izq">La clasificación se completa con el término «multi» para indicar que es adecuado para utilizar en más de un sector de incendio. Además, los símbolos «v<sub>e</sub>» y/o «h<sub>0</sub>» indican que el elemento puede usarse en posición vertical y/o horizontal.</p>
-<p class="cuerpo_tabla_izq">«S» indica un volumen de fugas menor de 5m<sup>3</sup>/hr/m<sup>2</sup> (Todos los conductos con una clasificación «S» deben tener un volumen de fugas menor de 10 m<sup>3</sup>/hr/m<sup>2</sup>).</p>
-<p class="cuerpo_tabla_izq">«500», «1000», «1500» indican que puede utilizarse hasta esos valores de presión, medida en condiciones de ambiente.</p>
+<p>La clasificación se completa con el término «multi» para indicar que es adecuado para utilizar en más de un sector de incendio. Además, los símbolos «v<sub>e</sub>» y/o «h<sub>0</sub>» indican que el elemento puede usarse en posición vertical y/o horizontal.</p>
+<p>«S» indica un volumen de fugas menor de 5m<sup>3</sup>/hr/m<sup>2</sup> (Todos los conductos con una clasificación «S» deben tener un volumen de fugas menor de 10 m<sup>3</sup>/hr/m<sup>2</sup>).</p>
+<p>«500», «1000», «1500» indican que puede utilizarse hasta esos valores de presión, medida en condiciones de ambiente.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Compuertas para control de humo en un único sector de incendio.</td>
+<td>Productos</td>
+<td colspan="10">Compuertas para control de humo en un único sector de incendio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-4+A1; UNE-EN 1363-1; EN 1363-3; UNE-EN 1366-9; EN 1366-10; EN 12101-8 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-4+A1; UNE-EN 1363-1; EN 1363-3; UNE-EN 1366-9; EN 1366-10; EN 12101-8 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: -</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: -</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E300</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>E300</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E600</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>E600</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
+<td>Comentarios</td>
 <td colspan="10">
-<p class="cuerpo_tabla_izq">La clasificación se completa con el término «.single» para indicar que es adecuado exclusivamente para utilizar en un único sector de incendio. «HOT 400/30» (High Operational Temperature) indica que la compuerta puede abrirse o cerrarse durante un periodo de 30 minutos a temperaturas inferiores a 400 °C (utilizado únicamente con la clasificación E<sub>600</sub>)</p>
-<p class="cuerpo_tabla_izq">«v<sub>ed</sub>», «v<sub>ew</sub>» «v<sub>edw</sub>» y/o «h<sub>od</sub>», «h<sub>ow</sub>» «h<sub>odw</sub>» indican, respectivamente, que el elemento puede usarse en posición vertical y/o horizontal, y montado en un conducto, en una pared o de ambas formas.</p>
-<p class="cuerpo_tabla_izq">«S» indica un volumen de fugas menor de 200 m<sup>3</sup>/hr/m<sup>2</sup>. Las compuertas sin clasificación «S» deben tener un volumen de fugas menor de 360 nf/hr/nf. Todas las compuertas con un volumen de fugas menor de 200 m<sup>3</sup>/hr/m<sup>2</sup> adoptan este valor. Todas las compuertas con un volumen de fugas comprendido entre 200 nf/hr/m<sup>2</sup> y 360 m<sup>3</sup>/hr/m<sup>2</sup> adoptan el valor 360 m<sup>3</sup>/hr/m<sup>2</sup>. El volumen de fugas se mide a temperatura ambiente y a temperatura elevada. «500», «1000», «1500» indican que puede utilizarse hasta esos valores de presión, medida a ambiente.</p>
-<p class="cuerpo_tabla_izq">«AA» o «MA» indica activación automática o intervención manual.</p>
-<p class="cuerpo_tabla_izq">«i→o", "o→i" ó "i↔o", indican, respectivamente, que el criterio de comportamiento se cumple desde el interior hacia el exterior, desde el exterior hacia el interior o de ambas formas «C<sub>300</sub>», «C<sub>10000</sub>» «C<sub>mod</sub>» indican, respectivamente, que la compuerta puede utilizarse en sistemas exclusivos para control del humo, que puede utilizarse en sistemas combinados para control de humo y climatización 0 que es una compuerta modulante para uso en sistemas combinados para control de humo y climatización.</p>
+<p>La clasificación se completa con el término «.single» para indicar que es adecuado exclusivamente para utilizar en un único sector de incendio. «HOT 400/30» (High Operational Temperature) indica que la compuerta puede abrirse o cerrarse durante un periodo de 30 minutos a temperaturas inferiores a 400 °C (utilizado únicamente con la clasificación E<sub>600</sub>)</p>
+<p>«v<sub>ed</sub>», «v<sub>ew</sub>» «v<sub>edw</sub>» y/o «h<sub>od</sub>», «h<sub>ow</sub>» «h<sub>odw</sub>» indican, respectivamente, que el elemento puede usarse en posición vertical y/o horizontal, y montado en un conducto, en una pared o de ambas formas.</p>
+<p>«S» indica un volumen de fugas menor de 200 m<sup>3</sup>/hr/m<sup>2</sup>. Las compuertas sin clasificación «S» deben tener un volumen de fugas menor de 360 nf/hr/nf. Todas las compuertas con un volumen de fugas menor de 200 m<sup>3</sup>/hr/m<sup>2</sup> adoptan este valor. Todas las compuertas con un volumen de fugas comprendido entre 200 nf/hr/m<sup>2</sup> y 360 m<sup>3</sup>/hr/m<sup>2</sup> adoptan el valor 360 m<sup>3</sup>/hr/m<sup>2</sup>. El volumen de fugas se mide a temperatura ambiente y a temperatura elevada. «500», «1000», «1500» indican que puede utilizarse hasta esos valores de presión, medida a ambiente.</p>
+<p>«AA» o «MA» indica activación automática o intervención manual.</p>
+<p>«i→o", "o→i" ó "i↔o", indican, respectivamente, que el criterio de comportamiento se cumple desde el interior hacia el exterior, desde el exterior hacia el interior o de ambas formas «C<sub>300</sub>», «C<sub>10000</sub>» «C<sub>mod</sub>» indican, respectivamente, que la compuerta puede utilizarse en sistemas exclusivos para control del humo, que puede utilizarse en sistemas combinados para control de humo y climatización 0 que es una compuerta modulante para uso en sistemas combinados para control de humo y climatización.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Compuertas resistentes al fuego para control de humo en más de un sector de incendio.</td>
+<td>Productos</td>
+<td colspan="10">Compuertas resistentes al fuego para control de humo en más de un sector de incendio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-4+A1; UNE-EN 1363-1 y 2; EN 1363-3; UNE-EN 1366-2; UNE-EN 1366-8; EN 1366-10; EN 12101-8 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-4+A1; UNE-EN 1363-1 y 2; EN 1363-3; UNE-EN 1366-2; UNE-EN 1366-8; EN 1366-10; EN 12101-8 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación:</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación:</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>El</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30-</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>E</td>
+<td> </td>
+<td> </td>
+<td>30-</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
+<td>Comentarios</td>
 <td colspan="10">
-<p class="cuerpo_tabla_izq">La clasificación se completa con el término «single» para indicar que es adecuado para utilizar en más de un sector de incendio. «HOT 400/30» (High Operational Temperature) indica que la compuerta puede abrirse o cerrarse durante un periodo de 30 minutos a temperaturas inferiores a 400 °C.</p>
-<p class="cuerpo_tabla_izq">«v<sub>ed</sub>», «v<sub>ew</sub>» «v<sub>edw</sub>» y/o «h<sub>od</sub>», «h<sub>ow</sub>» «h<sub>odw</sub>» indican, respectivamente, que el elemento puede usarse en posición vertical y/o horizontal, y montado en un conducto, en una pared o en ambas posiciones.</p>
-<p class="cuerpo_tabla_izq">«S» indica un volumen de fugas menor de 200 m<sup>3</sup>/hr/m<sup>2</sup>. Las compuertas sin clasificación «S» deben tener un volumen de fugas menor de 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todas las compuertas con volumen de fugas menor de 200 m<sup>3</sup>/hr/m<sup>2</sup> adoptan este valor. Todas las compuertas con volumen de fugas comprendido entre 200 m<sup>3</sup>/hr/m<sup>2</sup> y 360 m<sup>3</sup>/hr/m<sup>2</sup> adoptan el valor 360 m<sup>3</sup>/hr/m<sup>2</sup>. El volumen de fugas se mide a temperatura ambiente y a temperatura elevada. «500», «1000», «1500» indican que puede utilizarse hasta esos valores de presión, medida en condiciones de ambiente.</p>
-<p class="cuerpo_tabla_izq">«AA» o «MA» indica activación automática o intervención manual, "i→o", "o→i" ó "i↔o", indican, respectivamente que el criterio de comportamiento se cumple desde el interior hacia el exterior, desde el exterior hacia el interior o de ambas formas «C<sub>300</sub>», «C<sub>10000</sub>» «C<sub>mod</sub>» indica, respectivamente, que la compuerta puede utilizarse en sistemas exclusivos para control del humo, que puede utilizarse en sistemas combinados para control de humo y climatización 0 que es una compuerta modulante para uso en sistemas combinados para control de humo y climatización.</p>
+<p>La clasificación se completa con el término «single» para indicar que es adecuado para utilizar en más de un sector de incendio. «HOT 400/30» (High Operational Temperature) indica que la compuerta puede abrirse o cerrarse durante un periodo de 30 minutos a temperaturas inferiores a 400 °C.</p>
+<p>«v<sub>ed</sub>», «v<sub>ew</sub>» «v<sub>edw</sub>» y/o «h<sub>od</sub>», «h<sub>ow</sub>» «h<sub>odw</sub>» indican, respectivamente, que el elemento puede usarse en posición vertical y/o horizontal, y montado en un conducto, en una pared o en ambas posiciones.</p>
+<p>«S» indica un volumen de fugas menor de 200 m<sup>3</sup>/hr/m<sup>2</sup>. Las compuertas sin clasificación «S» deben tener un volumen de fugas menor de 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todas las compuertas con volumen de fugas menor de 200 m<sup>3</sup>/hr/m<sup>2</sup> adoptan este valor. Todas las compuertas con volumen de fugas comprendido entre 200 m<sup>3</sup>/hr/m<sup>2</sup> y 360 m<sup>3</sup>/hr/m<sup>2</sup> adoptan el valor 360 m<sup>3</sup>/hr/m<sup>2</sup>. El volumen de fugas se mide a temperatura ambiente y a temperatura elevada. «500», «1000», «1500» indican que puede utilizarse hasta esos valores de presión, medida en condiciones de ambiente.</p>
+<p>«AA» o «MA» indica activación automática o intervención manual, "i→o", "o→i" ó "i↔o", indican, respectivamente que el criterio de comportamiento se cumple desde el interior hacia el exterior, desde el exterior hacia el interior o de ambas formas «C<sub>300</sub>», «C<sub>10000</sub>» «C<sub>mod</sub>» indica, respectivamente, que la compuerta puede utilizarse en sistemas exclusivos para control del humo, que puede utilizarse en sistemas combinados para control de humo y climatización 0 que es una compuerta modulante para uso en sistemas combinados para control de humo y climatización.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
+<td>Productos</td>
 <td colspan="10" rowspan="2">
-<p class="cuerpo_tabla_izq">Barreras de humo.</p>
-<p class="cuerpo_tabla_izq">UNE-EN 13501-4+A1; UNE-EN 1363-1 y 2; UNE-EN 12101-1 (véase apartado 3.3 de este anexo).</p>
+<p>Barreras de humo.</p>
+<p>UNE-EN 13501-4+A1; UNE-EN 1363-1 y 2; UNE-EN 12101-1 (véase apartado 3.3 de este anexo).</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
+<td>Norma(s)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: D</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: D</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D600</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>D600</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DH</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>DH</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">'A' puede ser cualquier periodo de tiempo superior a 120 minutos.</td>
-</tr>
-</tbody>
-</table>
-
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Extractores mecánicos (ventiladores) de calor y humo, juntas de conexión.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-4+A1; UNE-EN 1363-1; UNE-EN 12101-3; ISO 834-1 (véase apartado 3.3 de este anexo).</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Clasificación: F</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">F200</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">F300</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">F400</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">F600</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">F842</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_centro" colspan="10"> </td>
+<td>Comentarios</td>
+<td colspan="10">'A' puede ser cualquier periodo de tiempo superior a 120 minutos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Productos</td>
-<td class="cuerpo_tabla_izq" colspan="10">Extractores pasivos de calor y humo.</td>
+<td>Productos</td>
+<td colspan="10">Extractores mecánicos (ventiladores) de calor y humo, juntas de conexión.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Norma(s)</td>
-<td class="cuerpo_tabla_izq" colspan="10">UNE-EN 13501-4+A1; UNE-EN 1363-1; UNE-EN 12101-2 (véase apartado 3.3 de este anexo).</td>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-4+A1; UNE-EN 1363-1; UNE-EN 12101-3; ISO 834-1 (véase apartado 3.3 de este anexo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clasificación: B</td>
-<td class="cuerpo_tabla_izq" colspan="10"> </td>
+<td>Clasificación: F</td>
+<td colspan="10"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B300</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>F200</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B600</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>F300</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>60</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bθ</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>F400</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>90</td>
+<td>120</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comentarios</td>
-<td class="cuerpo_tabla_izq" colspan="10">«θ» indica la condición de exposición (temperatura).</td>
+<td>F600</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>60</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>F842</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Comentarios</td>
+<td colspan="10"> </td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td>Productos</td>
+<td colspan="10">Extractores pasivos de calor y humo.</td>
+</tr>
+<tr>
+<td>Norma(s)</td>
+<td colspan="10">UNE-EN 13501-4+A1; UNE-EN 1363-1; UNE-EN 12101-2 (véase apartado 3.3 de este anexo).</td>
+</tr>
+<tr>
+<td>Clasificación: B</td>
+<td colspan="10"> </td>
+</tr>
+<tr>
+<td>B300</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>B600</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Bθ</td>
+<td> </td>
+<td> </td>
+<td>30</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Comentarios</td>
+<td colspan="10">«θ» indica la condición de exposición (temperatura).</td>
 </tr>
 </tbody>
 </table>

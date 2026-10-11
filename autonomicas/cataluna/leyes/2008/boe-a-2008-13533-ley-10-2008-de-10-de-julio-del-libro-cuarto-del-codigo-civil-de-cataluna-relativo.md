@@ -388,12 +388,6 @@ El notario debe identificar al testador y debe apreciar su capacidad legal en la
 
 1\. Si el testador tiene una discapacidad sensorial en el momento de otorgar testamento, el notario debe aplicar lo establecido por el presente código. En cualquier caso, el notario debe ofrecer al testador el apoyo y los medios necesarios para testar, sin que ello pueda comportarle ninguna carga económica adicional. El colegio profesional debe proporcionar al notario dichos medios.
 
-> Téngase en cuenta que esta redacción del apartado 1, dada por el art. 1 de la Ley 6/2019, de 23 de octubre. [Ref. BOE-A-2019-15728](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15728), entra en vigor el 28 de abril de 2020 según establece su disposición final.
-
-> Redacción anterior:
-
-> "Si el testador es ciego, sordo, mudo o sordomudo o por cualquiera otra razón es sensorialmente discapacitado, el notario debe seguir lo que la legislación notarial establece para estos casos."
-
 2\. Lo establecido por el apartado 1 se aplica también en el caso de que una persona con discapacidad sensorial actúe como testigo en el otorgamiento de un testamento notarial.
 
 > Se modifica por el art. 1 de la Ley 6/2019, de 23 de octubre. [Ref. BOE-A-2019-15728](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15728)

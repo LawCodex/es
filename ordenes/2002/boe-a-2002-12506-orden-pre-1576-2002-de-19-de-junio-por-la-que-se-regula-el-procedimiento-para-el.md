@@ -98,14 +98,6 @@ Por resolución conjunta de la Intervención General de la Administración del E
 
 Las propuestas de mandamiento de pago no presupuestarias y por devolución de ingresos se expedirán por el órgano competente de la Administración General del Estado en la tramitación del oportuno expediente, o, en su caso, por el órgano al que corresponda de acuerdo con la normativa aplicable. Excepcionalmente, dichas propuestas de pago podrán ser expedidas de oficio por los Jefes de las Oficinas de Contabilidad donde figuren registradas las correspondientes operaciones, cuando así lo requiera el procedimiento contable.
 
-> Téngase en cuenta que ésta última actualización del apartado 1, establecida por el art. único.1 de la Orden PCM/7/2021, de 11 de enero. [Ref. BOE-A-2021-521](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-521), entra en vigor el 14 de julio de 2021, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "1. Con carácter general, los órganos que dicten los actos administrativos de reconocimiento de obligaciones propondrán el pago de las mismas a la Secretaría General del Tesoro y Política Financiera, mediante la expedición de las oportunas propuestas de pago, según los documentos que al respecto hayan sido establecidos.
-
-> Como excepción a lo preceptuado en el párrafo anterior, las propuestas de pago correspondientes a conceptos no presupuestarios y por devolución de ingresos, podrán ser expedidas de oficio por los Jefes de las Oficinas de Contabilidad donde dichos débitos figuren registrados o, en su caso, por el órgano interesado en la tramitación del oportuno expediente."
-
 2\. Las propuestas de pago que se expidan se incorporarán al Sistema de Información Contable por la Oficina de Contabilidad que corresponda, de acuerdo con la atribución de competencias establecida en la normativa por la que se regula dicho sistema.
 
 3\. A efectos de la ordenación de los pagos, los datos de las propuestas de pago serán puestos a disposición de la Dirección General del Tesoro y Política Financiera por la Oficina de Contabilidad que hubiese efectuado su registro mediante la utilización de los procedimientos informáticos del sistema de información contable.
@@ -157,8 +149,6 @@ En el caso de fondos sin personalidad jurídica integrados en el Tesoro Público
 5.4 Los órganos gestores deberán tener en cuenta las reglas indicadas en los apartados anteriores de este punto 5 en la ejecución de los correspondientes créditos presupuestarios, a efectos del cumplimiento de los límites indicados.
 
 En caso de que los importes no se adecúen a lo dispuesto en los apartados anteriores de este punto 5, sin estar justificados por las necesidades reales de liquidez de las entidades, la Dirección General del Tesoro y Política Financiera podrá devolver dichas propuestas de pago al centro gestor con el fin de que las mismas sean divididas en varias propuestas de importes menores. Esta facultad de la Dirección General del Tesoro y Política Financiera de devolución de las propuestas de pago no afectará a aquellos gastos de capítulo 2 y 6 derivados de contratos en los que el importe de la propuesta de pago coincida con el de la obligación de pago.
-
-> Téngase en cuenta que el apartado 4, añadido por el art. único.2 de la Orden PCM/7/2021, de 11 de enero. [Ref. BOE-A-2021-521](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-521), entra en vigor el 14 de julio de 2021, según establece su disposición final única.
 
 > Se añade el apartado 5 por el art. único.2 de la Orden PJC/643/2026, de 19 de junio. [Ref. BOE-A-2026-13890](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13890)
 

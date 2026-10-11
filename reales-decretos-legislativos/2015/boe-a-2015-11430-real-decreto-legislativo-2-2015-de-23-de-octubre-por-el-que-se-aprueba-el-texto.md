@@ -490,34 +490,6 @@ El horario de trabajo del trabajador relevista podrá completar el del trabajado
 
 En la negociación colectiva se podrán establecer medidas para impulsar la celebración de contratos de relevo.
 
-> Téngase en cuenta de esta actualización de los apartados 6 y 7, y el apartado 8 añadido por el art. 2 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917), entra en vigor el 1 de abril de 2025, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "6. Para que el trabajador pueda acceder a la jubilación parcial, en los términos establecidos en el texto refundido de la Ley General de la Seguridad Social y demás disposiciones concordantes, deberá acordar con su empresa una reducción de jornada y de salario de entre un mínimo del veinticinco por ciento y un máximo del cincuenta por ciento y la empresa deberá concertar simultáneamente un contrato de relevo, de acuerdo con lo establecido en el apartado siguiente, con objeto de sustituir la jornada de trabajo dejada vacante por el trabajador que se jubila parcialmente. También se podrá concertar el contrato de relevo para sustituir a los trabajadores que se jubilen parcialmente después de haber cumplido la edad de jubilación ordinaria que corresponda conforme a lo establecido en el texto refundido de la Ley General de la Seguridad Social.
-
-> La reducción de jornada y de salario podrá alcanzar el setenta y cinco por ciento cuando el contrato de relevo se concierte a jornada completa y con duración indefinida, siempre que el trabajador cumpla los requisitos establecidos en el texto refundido de la Ley General de la Seguridad Social.
-
-> La ejecución de este contrato de trabajo a tiempo parcial y su retribución serán compatibles con la pensión que la Seguridad Social reconozca al trabajador en concepto de jubilación parcial.
-
-> La relación laboral se extinguirá al producirse la jubilación total del trabajador.
-
-> 7\. El contrato de relevo se ajustará a las siguientes reglas:
-
-> a) Se celebrará con un trabajador en situación de desempleo o que tuviese concertado con la empresa un contrato de duración determinada.
-
-> b) Salvo lo establecido en los dos párrafos siguientes, la duración del contrato de relevo que se celebre como consecuencia de una jubilación parcial tendrá que ser indefinida o, como mínimo, igual al tiempo que falte al trabajador sustituido para alcanzar la edad de jubilación ordinaria que corresponda conforme a lo establecido en el texto refundido de la Ley General de la Seguridad Social. Si, al cumplir dicha edad, el trabajador jubilado parcialmente continuase en la empresa, el contrato de relevo que se hubiera celebrado por duración determinada podrá prorrogarse mediante acuerdo con las partes por periodos anuales, extinguiéndose en todo caso al finalizar el periodo correspondiente al año en el que se produzca la jubilación total del trabajador relevado.
-
-> En el supuesto previsto en el párrafo segundo del apartado 6, el contrato de relevo deberá alcanzar al menos una duración igual al resultado de sumar dos años al tiempo que le falte al trabajador sustituido para alcanzar la edad de jubilación ordinaria que corresponda conforme al texto refundido de la Ley General de la Seguridad Social. En el supuesto de que el contrato se extinga antes de alcanzar la duración mínima indicada, el empresario estará obligado a celebrar un nuevo contrato en los mismos términos del extinguido, por el tiempo restante.
-
-> En el caso del trabajador jubilado parcialmente después de haber cumplido la edad de jubilación ordinaria prevista en el texto refundido de la Ley General de la Seguridad Social, la duración del contrato de relevo que podrá celebrar la empresa para sustituir la parte de jornada dejada vacante por el mismo podrá ser indefinida o anual. En este segundo supuesto, el contrato se prorrogará automáticamente por periodos anuales, extinguiéndose en todo caso al finalizar el periodo correspondiente al año en que se produzca la jubilación total del trabajador relevado.
-
-> c) Salvo en el supuesto previsto en el párrafo segundo del apartado 6, el contrato de relevo podrá celebrarse a jornada completa o a tiempo parcial. En todo caso, la duración de la jornada deberá ser, como mínimo, igual a la reducción de jornada acordada por el trabajador sustituido. El horario de trabajo del trabajador relevista podrá completar el del trabajador sustituido o simultanearse con él.
-
-> d) El puesto de trabajo del trabajador relevista podrá ser el mismo del trabajador sustituido. En todo caso, deberá existir una correspondencia entre las bases de cotización de ambos, en los términos previstos en el texto refundido de la Ley General de la Seguridad Social.
-
-> e) En la negociación colectiva se podrán establecer medidas para impulsar la celebración de contratos de relevo."
-
 > Se modifican los apartados 6 y 7 y se añade un apartado 8 por el art. 2 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917)
 
 > Esta modificación entra en vigor el 1 de abril de 2025, según establece la disposición final 3 del citado Real Decreto-ley.
@@ -659,20 +631,6 @@ Las personas trabajadoras fijas-discontinuas tienen derecho a que su antigüedad
 7\. La empresa deberá informar a las personas fijas-discontinuas y a la representación legal de las personas trabajadoras sobre la existencia de puestos de trabajo vacantes de carácter fijo ordinario, de manera que aquellas puedan formular solicitudes de conversión voluntaria, de conformidad con los procedimientos que establezca el convenio colectivo sectorial o, en su defecto, el acuerdo de empresa.
 
 8\. Las personas trabajadoras fijas-discontinuas tendrán la consideración de colectivo prioritario para el acceso a las iniciativas de formación del sistema de formación profesional para el empleo en el ámbito laboral durante los periodos de inactividad.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 1.4 del Real Decreto-ley 32/2021, de 28 de diciembre. [Ref. BOE-A-2021-21788](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21788), entra en vigor el 30 de marzo de 2022, según determina la disposición final 8.2.c) del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. El contrato por tiempo indefinido fijo-discontinuo se concertará para realizar trabajos que tengan el carácter de fijos-discontinuos y no se repitan en fechas ciertas, dentro del volumen normal de actividad de la empresa.
-
-> A los supuestos de trabajos discontinuos que se repitan en fechas ciertas les será de aplicación la regulación del contrato a tiempo parcial celebrado por tiempo indefinido.
-
-> 2\. Los trabajadores fijos-discontinuos serán llamados en el orden y la forma que se determine en los respectivos convenios colectivos, pudiendo el trabajador, en caso de incumplimiento, reclamar en procedimiento de despido ante la jurisdicción social, iniciándose el plazo para ello desde el momento en que tuviese conocimiento de la falta de convocatoria.
-
-> 3\. Este contrato se deberá formalizar necesariamente por escrito en el modelo que se establezca y en él deberá figurar una indicación sobre la duración estimada de la actividad, así como sobre la forma y orden de llamamiento que establezca el convenio colectivo aplicable, haciendo constar igualmente, de manera orientativa, la jornada laboral estimada y su distribución horaria.
-
-> 4\. Los convenios colectivos de ámbito sectorial podrán acordar, cuando las peculiaridades de la actividad del sector así lo justifiquen, la celebración a tiempo parcial de los contratos fijos-discontinuos, así como los requisitos y especialidades para la conversión de contratos temporales en contratos fijos-discontinuos."
 
 > Se modifica por el art. 1.4 del Real Decreto-ley 32/2021, de 28 de diciembre. [Ref. BOE-A-2021-21788](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21788). Redactado conforme a la corrección de errores publicada en BOE núm. 16, de 19 de enero de 2022. [Ref. BOE-A-2022-801](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-801)
 
@@ -1129,8 +1087,6 @@ Estos derechos se podrán ejercitar en los términos que para estos supuestos co
 9\. La persona trabajadora tendrá derecho a ausentarse del trabajo por causa de fuerza mayor cuando sea necesario por motivos familiares urgentes relacionados con familiares o personas convivientes, en caso de enfermedad o accidente que hagan indispensable su presencia inmediata.
 
 Las personas trabajadoras tendrán derecho a que sean retribuidas las horas de ausencia por las causas previstas en el presente apartado equivalentes a cuatro días al año, conforme a lo establecido en convenio colectivo o, en su defecto, en acuerdo entre la empresa y la representación legal de las personas trabajadoras aportando las personas trabajadoras, en su caso, acreditación del motivo de ausencia.
-
-> Téngase en cuenta que la letra g) [sic] que se añade al apartado 3, por el art. 2 de la Ley 6/2024, de 20 de diciembre [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
 
 > Se modifica el apartado 6 por la disposición final 10 de la Ley 4/2026, de 1 de octubre. [Ref. BOE-A-2026-20528](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528)
 
@@ -1848,22 +1804,6 @@ c) Cualquier otro incumplimiento grave de sus obligaciones por parte del empresa
 
 2\. En tales casos, el trabajador tendrá derecho a las indemnizaciones señaladas para el despido improcedente.
 
-> Téngase en cuenta que este artículo 50, modificado por la disposición final 26.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
-
-> Redacción anterior:
-
-> "**Artículo 50. Extinción por voluntad del trabajador.**
-
-> 1\. Serán causas justas para que el trabajador pueda solicitar la extinción del contrato:
-
-> a) Las modificaciones sustanciales en las condiciones de trabajo llevadas a cabo sin respetar lo previsto en el artículo 41 y que redunden en menoscabo de la dignidad del trabajador.
-
-> b) La falta de pago o retrasos continuados en el abono del salario pactado.
-
-> c) Cualquier otro incumplimiento grave de sus obligaciones por parte del empresario, salvo los supuestos de fuerza mayor, así como la negativa del mismo a reintegrar al trabajador en sus anteriores condiciones de trabajo en los supuestos previstos en los artículos 40 y 41, cuando una sentencia judicial haya declarado los mismos injustificados.
-
-> 2\. En tales casos, el trabajador tendrá derecho a las indemnizaciones señaladas para el despido improcedente."
-
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 26.1 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 ##### Artículo 51. Despido colectivo.
@@ -2008,12 +1948,6 @@ a) El de las personas trabajadoras durante los periodos de suspensión del contr
 
 b) El de las trabajadoras embarazadas, desde la fecha de inicio del embarazo hasta el comienzo del periodo de suspensión a que se refiere la letra a); el de las personas trabajadoras que hayan solicitado uno de los permisos a los que se refieren los apartados 3.b), 4, 5 y 6 del artículo 37, o estén disfrutando de ellos, o hayan solicitado o estén disfrutando de las adaptaciones de jornada previstas en el artículo 34.8 o la excedencia prevista en el artículo 46.3; y el de las personas trabajadoras víctimas de violencia de género o de violencia sexual, por el ejercicio de su derecho a la tutela judicial efectiva o de los derechos reconocidos en esta ley para hacer efectiva su protección o su derecho a la asistencia social integral.
 
-> Téngase en cuenta que esta letra b), modificada por la disposición final 26.2 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
-
-> Redacción anterior:
-
-> "b) El de las trabajadoras embarazadas, desde la fecha de inicio del embarazo hasta el comienzo del periodo de suspensión a que se refiere la letra a); el de las personas trabajadoras que hayan solicitado uno de los permisos a los que se refieren los apartados 4, 5 y 6 del artículo 37, o estén disfrutando de ellos, o hayan solicitado o estén disfrutando la excedencia prevista en el artículo 46.3; y el de las personas trabajadoras víctimas de violencia de género o de violencia sexual, por el ejercicio de su derecho a la tutela judicial efectiva o de los derechos reconocidos en esta ley para hacer efectiva su protección o su derecho a la asistencia social integral."
-
 c) El de las personas trabajadoras después de haberse reintegrado al trabajo al finalizar los periodos de suspensión del contrato por nacimiento, adopción, guarda con fines de adopción o acogimiento, a que se refiere el artículo 45.1.d), siempre que no hubieran transcurrido más de doce meses desde la fecha del nacimiento, la adopción, la guarda con fines de adopción o el acogimiento.
 
 Lo establecido en las letras anteriores será de aplicación, salvo que, en esos casos, se declare la procedencia de la decisión extintiva por motivos no relacionados con el embarazo o con el ejercicio del derecho a los permisos y excedencia señalados. Para considerarse procedente deberá acreditarse suficientemente que la causa objetiva que sustenta el despido requiere concretamente la extinción del contrato de la persona referida.
@@ -2083,12 +2017,6 @@ Será también nulo el despido, en los siguientes supuestos:
 a) El de las personas trabajadoras durante los periodos de suspensión del contrato de trabajo por nacimiento, adopción, guarda con fines de adopción, acogimiento, riesgo durante el embarazo, riesgo durante la lactancia natural a que se refiere el artículo 45.1.d) y e), disfrute del permiso parental a que se refiere el artículo 48 bis, o por enfermedades causadas por embarazo, parto o lactancia natural, o cuando se notifique la decisión en una fecha tal que el plazo de preaviso concedido finalice dentro de dichos periodos.
 
 b) El de las trabajadoras embarazadas, desde la fecha de inicio del embarazo hasta el comienzo del periodo de suspensión a que se refiere la letra a); el de las personas trabajadoras que hayan solicitado uno de los permisos a los que se refieren los apartados 3.b), 4, 5 y 6 del artículo 37, o estén disfrutando de ellos, o hayan solicitado o estén disfrutando de las adaptaciones de jornada previstas en el artículo 34.8 o la excedencia prevista en el artículo 46.3; y el de las personas trabajadoras víctimas de violencia de género o de violencia sexual, por el ejercicio de su derecho a la tutela judicial efectiva o de los derechos reconocidos en esta ley para hacer efectiva su protección o su derecho a la asistencia social integral.
-
-> Téngase en cuenta que esta letra b), modificada por la disposición final 26.3 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
-
-> Redacción anterior:
-
-> "b) El de las trabajadoras embarazadas, desde la fecha de inicio del embarazo hasta el comienzo del periodo de suspensión a que se refiere la letra a); el de las personas trabajadoras que hayan solicitado uno de los permisos a los que se refieren los apartados 4, 5 y 6 del artículo 37, o estén disfrutando de ellos, o hayan solicitado o estén disfrutando la excedencia prevista en el artículo 46.3; y el de las personas trabajadoras víctimas de violencia de género o de violencia sexual, por el ejercicio de su derecho a la tutela judicial efectiva o de los derechos reconocidos en esta ley para hacer efectiva su protección o su derecho a la asistencia social integral."
 
 c) El de las personas trabajadoras después de haberse reintegrado al trabajo al finalizar los periodos de suspensión del contrato por nacimiento, adopción, guarda con fines de adopción o acogimiento, a que se refiere el artículo 45.1.d), siempre que no hubieran transcurrido más de doce meses desde la fecha del nacimiento, la adopción, la guarda con fines de adopción o el acogimiento.
 
@@ -2952,16 +2880,6 @@ Se consideran incluidas a efectos de lo dispuesto en los artículos 37.8 y 40.4 
 
 2\. **(Derogado)**
 
-> Téngase en cuenta que la derogación de los apartados 1 y 2, establecida por la disposición derogatoria única.2 del Real Decreto-ley 32/2021, de 28 de diciembre, [Ref. BOE-A-2021-21788](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21788), produce efectos el 30 de marzo de 2022, según determina su disposición final 8.2.f).
-
-> Redacción anterior:
-
-> "1.Lo dispuesto en el artículo 15.1.a) en materia de duración máxima del contrato por obra o servicio determinados y en el artículo 15.5 sobre límites al encadenamiento de contratos surtirá efectos en el ámbito de las Administraciones Públicas y sus organismos públicos vinculados o dependientes, sin perjuicio de la aplicación de los principios constitucionales de igualdad, mérito y capacidad en el acceso al empleo público, por lo que no será obstáculo para la obligación de proceder a la cobertura de los puestos de trabajo de que se trate a través de los procedimientos ordinarios, de acuerdo con lo establecido en la normativa aplicable.
-
-> En cumplimiento de esta previsión, el trabajador continuará desempeñando el puesto que venía ocupando hasta que se proceda a su cobertura por los procedimientos antes indicados, momento en el que se producirá la extinción de la relación laboral, salvo que el mencionado trabajador acceda a un empleo público, superando el correspondiente proceso selectivo.
-
-> 2\. No obstante lo previsto en el apartado anterior, lo dispuesto en el artículo 15.1.a) en materia de duración máxima del contrato por obra o servicio determinados no será de aplicación a los contratos celebrados por las Administraciones Públicas y sus organismos públicos vinculados o dependientes, ni a las modalidades particulares de contrato de trabajo contempladas en la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades o en cualesquiera otras normas con rango de ley cuando estén vinculados a un proyecto específico de investigación o de inversión de duración superior a tres años."
-
 3\. Para la aplicación del límite al encadenamiento de contratos previsto en el artículo 15.5, solo se tendrán en cuenta los contratos celebrados en el ámbito de cada una de las Administraciones Públicas sin que formen parte de ellas, a estos efectos, los organismos públicos, agencias y demás entidades de derecho público con personalidad jurídica propia vinculadas o dependientes de las mismas. En todo caso, lo dispuesto en dicho artículo 15.5 no será de aplicación respecto de las modalidades particulares de contrato de trabajo contempladas en la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades o en cualesquiera otras normas con rango de ley.
 
 > Se derogan los apartados 1 y 2 por la disposición derogatoria única.2 del Real Decreto-ley 32/2021, de 28 de diciembre. [Ref. BOE-A-2021-21788](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21788)
@@ -2971,16 +2889,6 @@ Se consideran incluidas a efectos de lo dispuesto en los artículos 37.8 y 40.4 
 ##### Disposición adicional decimosexta. Aplicación del despido por causas económicas, técnicas, organizativas o de producción en el sector público.
 
 **(Derogada)**
-
-> Téngase en cuenta que la derogación de esta disposición, establecida por la disposición derogatoria única.2 del Real Decreto-ley 32/2021, de 28 de diciembre, [Ref. BOE-A-2021-21788](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21788), produce efectos el 30 de marzo de 2022, según determina su disposición final 8.2.f).
-
-> Redacción anterior:
-
-> "El despido por causas económicas, técnicas, organizativas o de producción del personal laboral al servicio de los entes, organismos y entidades que forman parte del sector público de acuerdo con el artículo 3.1 del texto refundido de la Ley de Contratos del Sector Público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre, se efectuará conforme a lo dispuesto en los artículos 51 y 52.c) de la presente ley y sus normas de desarrollo y en el marco de los mecanismos preventivos y correctivos regulados en la normativa de estabilidad presupuestaria y sostenibilidad financiera de las Administraciones Públicas.
-
-> A efectos de las causas de estos despidos en las Administraciones Públicas, entendiendo como tales, a los entes, organismos y entidades a que se refiere el artículo 3.2 del texto refundido de la Ley de Contratos del Sector Público, se entenderá que concurren causas económicas cuando se produzca en las mismas una situación de insuficiencia presupuestaria sobrevenida y persistente para la financiación de los servicios públicos correspondientes. En todo caso, se entenderá que la insuficiencia presupuestaria es persistente si se produce durante tres trimestres consecutivos. Se entenderá que concurren causas técnicas, cuando se produzcan cambios, entre otros, en el ámbito de los medios o instrumentos de la prestación del servicio público de que se trate y causas organizativas, cuando se produzcan cambios, entre otros, en el ámbito de los sistemas y métodos de trabajo del personal adscrito al servicio público.
-
-> Tendrá prioridad de permanencia el personal laboral fijo que hubiera adquirido esta condición, de acuerdo con los principios de igualdad, mérito y capacidad, a través de un procedimiento selectivo de ingreso convocado al efecto, cuando así lo establezcan los entes, organismos y entidades a que se refiere el párrafo anterior."
 
 > Se deroga por la disposición derogatoria única.2 del Real Decreto-ley 32/2021, de 28 de diciembre. [Ref. BOE-A-2021-21788](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21788)
 
@@ -3019,22 +2927,6 @@ Las discrepancias que surjan entre empresarios y trabajadores en relación con e
 ##### Disposición adicional vigesimoprimera. Sustitución de trabajadores excedentes por cuidado de familiares.
 
 **(Derogada)**
-
-> Téngase en cuenta que la derogación de esta disposición, establecida por la disposición derogatoria única.2 del Real Decreto-ley 32/2021, de 28 de diciembre, [Ref. BOE-A-2021-21788](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21788), produce efectos el 30 de marzo de 2022, según determina su disposición final 8.2.f).
-
-> Redacción anterior:
-
-> "Los contratos de interinidad que se celebren con beneficiarios de prestaciones por desempleo, de nivel contributivo o asistencial, que lleven más de un año como perceptores, para sustituir a trabajadores que estén en la situación de excedencia a que se refiere el artículo 46.3, darán derecho a una reducción en las cotizaciones empresariales a la Seguridad Social por contingencias comunes en las cuantías que se especifican a continuación:
-
-> a) Noventa y cinco por ciento durante el primer año de excedencia del trabajador que se sustituye.
-
-> b) Sesenta por ciento durante el segundo año de excedencia del trabajador que se sustituye.
-
-> c) Cincuenta por ciento durante el tercer año de excedencia del trabajador que se sustituye.
-
-> Los citados beneficios no serán de aplicación a las contrataciones que afecten al cónyuge, ascendientes, descendientes y demás parientes por consanguinidad o afinidad, hasta el segundo grado inclusive, del empresario o de quienes ostenten cargos de dirección o sean miembros de los órganos de administración de las empresas que revistan la forma jurídica de sociedad y las que se produzcan con estos últimos.
-
-> Las contrataciones realizadas al amparo de lo establecido en esta disposición se regirán por lo dispuesto en el artículo 15.1.c) de esta ley y sus normas de desarrollo."
 
 > Se deroga por la disposición derogatoria única.2 del Real Decreto-ley 32/2021, de 28 de diciembre. [Ref. BOE-A-2021-21788](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21788)
 

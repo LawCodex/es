@@ -282,22 +282,22 @@ ENRIQUE SÁNCHEZ DE LEÓN PÉREZ
 
 ## ANEXO 1 — Sustancias enumeradas en las listas al Convenio sobre Sustancias Psicotrópicas, hecho en Viena el 21 de febrero de 1971 («Boletín Oficial del Estado» de 10 de septiembre de 1978)
 
-<table border="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Denominación común internacional</p>
+<p>Denominación común internacional</p>
 </td>
 <td>
-<p class="cabeza_tabla">Otras denominaciones comunes o triviales</p>
+<p>Otras denominaciones comunes o triviales</p>
 </td>
 <td>
-<p class="cabeza_tabla">Denominación química</p>
+<p>Denominación química</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">
+<p>
 <strong>
 <em>Sustancias de la lista I</em>
 </strong>
@@ -306,420 +306,420 @@ ENRIQUE SÁNCHEZ DE LEÓN PÉREZ
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1 BROLANFETAMINA</p>
+<p>1 BROLANFETAMINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DOB</p>
+<p>DOB</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2,5-dimetoxi-4-bromoanfetamina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2 CATINONA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PROPIOFENONA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">(-)-(s)-2aminopropiofenona</p>
+<p>2,5-dimetoxi-4-bromoanfetamina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>2 CATINONA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DET</p>
+<p>PROPIOFENONA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N, N-dietiltriptamina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">DMA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">dimetoxianfetamina</p>
+<p>(-)-(s)-2aminopropiofenona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DMHP</p>
+<p>DET</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3-(1,2-dimetilheptil)-1-hidroxi - 7,8,9,10-tetrahidro-6,6,9-trimetil-6H-dibenzo(b,d) pirano.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">DMT DIMETILTRIPTAMINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">N, N-dimetiltriptamina.</p>
+<p>N, N-dietiltriptamina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">7</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DOET</p>
+<p>DMA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2,5 dimetoxi-4-etilanfetamina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">8 ETICICLIDINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PCE</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">N-etil-1-fenilciclohexilamina</p>
+<p>dimetoxianfetamina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9 ETRIPTAMINA</p>
+<p>5</p>
+</td>
+<td>
+<p>DMHP</p>
+</td>
+<td>
+<p>3-(1,2-dimetilheptil)-1-hidroxi - 7,8,9,10-tetrahidro-6,6,9-trimetil-6H-dibenzo(b,d) pirano.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>DMT DIMETILTRIPTAMINA</p>
+</td>
+<td>
+<p>N, N-dimetiltriptamina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>DOET</p>
+</td>
+<td>
+<p>2,5 dimetoxi-4-etilanfetamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8 ETICICLIDINA</p>
+</td>
+<td>
+<p>PCE</p>
+</td>
+<td>
+<p>N-etil-1-fenilciclohexilamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9 ETRIPTAMINA</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">[3-(2-aminobutil)indol]</p>
+<p>[3-(2-aminobutil)indol]</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N-hidroxi MDA o N-OH MDA</p>
+<p>N-hidroxi MDA o N-OH MDA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(±)-N-[alfa-metil-3, 4-(metilenedioxi)fenetil]hidroxilamina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">11 (+)-LISERGIDA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">LSD, LSD-25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">(+)-N, N-dietilisergamida (dietilamida del ácido d-lisérgico).</p>
+<p>(±)-N-[alfa-metil-3, 4-(metilenedioxi)fenetil]hidroxilamina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">12</p>
+<p>11 (+)-LISERGIDA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N-etil MDA o MDE o MDEA</p>
+<p>LSD, LSD-25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(±)-N-etil-alfa-metil-3,4-(metilenedioxi)fenetilamina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">MDMA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3,4-metilenedioximetanfetamina</p>
+<p>(+)-N, N-dietilisergamida (dietilamida del ácido d-lisérgico).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">14</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mescalina</p>
+<p>N-etil MDA o MDE o MDEA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3, 4, 5-trimetoxifenetilamina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Metcatinona</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">[2-(metilamino)-1-fenilpropán-1-ona]</p>
+<p>(±)-N-etil-alfa-metil-3,4-(metilenedioxi)fenetilamina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">16</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4-Metilaminorex</p>
+<p>MDMA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(±)-cis-4, 5-dihidro-4-metil-5-fenil-2-oxazolamina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">17</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">MMDA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5-metoxi-3,4-metilenedioxianfetamina</p>
+<p>3,4-metilenedioximetanfetamina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">18 TENANFETAMINA</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MDA</p>
+<p>Mescalina</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3,4-metilenodioxianfetamina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">19</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4-MTA (p-metiltioanfetamina o 4-metiltioanfetamina)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4-metiltio-α-metilfenetilamina</p>
+<p>3, 4, 5-trimetoxifenetilamina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">20</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Parahexilo</p>
+<p>Metcatinona</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3-hexil-1-hidroxi-7,8,9,10- tetrahidro-6,6,9-trimetil-6Hdibenzo(b,d)pirano</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">21</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PMA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">parametoxianfetamina</p>
+<p>[2-(metilamino)-1-fenilpropán-1-ona]</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">22 PSILOCIBINA</p>
+<p>16</p>
+</td>
+<td>
+<p>4-Metilaminorex</p>
+</td>
+<td>
+<p>(±)-cis-4, 5-dihidro-4-metil-5-fenil-2-oxazolamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>MMDA</p>
+</td>
+<td>
+<p>5-metoxi-3,4-metilenedioxianfetamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18 TENANFETAMINA</p>
+</td>
+<td>
+<p>MDA</p>
+</td>
+<td>
+<p>3,4-metilenodioxianfetamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>19</p>
+</td>
+<td>
+<p>4-MTA (p-metiltioanfetamina o 4-metiltioanfetamina)</p>
+</td>
+<td>
+<p>4-metiltio-α-metilfenetilamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>Parahexilo</p>
+</td>
+<td>
+<p>3-hexil-1-hidroxi-7,8,9,10- tetrahidro-6,6,9-trimetil-6Hdibenzo(b,d)pirano</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>21</p>
+</td>
+<td>
+<p>PMA</p>
+</td>
+<td>
+<p>parametoxianfetamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>22 PSILOCIBINA</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Fosfato dihidrogenado de 3-(2-dimetil-aminoetil)-indol-4-ilo</p>
+<p>Fosfato dihidrogenado de 3-(2-dimetil-aminoetil)-indol-4-ilo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">23</p>
+<p>23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Psilocina, psilotsina.</p>
+<p>Psilocina, psilotsina.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3-[2-(dimetilamino)etil]indol-4-ol</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24 ROLICICLIDINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PHP O PCPY</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1-(1-fenilciclohexil)pirrolidina</p>
+<p>3-[2-(dimetilamino)etil]indol-4-ol</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">25</p>
+<p>24 ROLICICLIDINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">STP, DOM</p>
+<p>PHP O PCPY</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2-amino-1-(2,5-dimetoxi-4-metil)fenilpropano</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">26 TENOCICLIDINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">TCP</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1[1-(2-tienil)ciclohexil]Piperidina</p>
+<p>1-(1-fenilciclohexil)pirrolidina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">27</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tetrahidrocannabinoles</p>
+<p>STP, DOM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1-hidroxi-3-pentil-6a,7,10a-tetrahidro-6,6,9trimetil-6Hdibenzo(b,d)pirano</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">28</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">TMA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3, 4, 5,-trimetoxianfetamina</p>
+<p>2-amino-1-(2,5-dimetoxi-4-metil)fenilpropano</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">29</p>
+<p>26 TENOCICLIDINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PMMA (parametoximetilanfetamina)</p>
+<p>TCP</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N-metil-1-(4-metoxifenil)-2-aminopropano</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2C-l</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2,5-dimetoxi-4-iodofenetilamina</p>
+<p>1[1-(2-tienil)ciclohexil]Piperidina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">31</p>
+<p>27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2C-T-2</p>
+<p>Tetrahidrocannabinoles</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2,5-dimetoxi-4-etiliofenetilamina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">32</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2C-T-7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2,5-dimetoxi-4-(n)-propiltiofenetilamina</p>
+<p>1-hidroxi-3-pentil-6a,7,10a-tetrahidro-6,6,9trimetil-6Hdibenzo(b,d)pirano</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">33</p>
+<p>28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">TMA-2</p>
+<p>TMA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2,4,5-trimetoxianfetamina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">34 5-IT</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5-(2-aminopropil)indol</p>
+<p>3, 4, 5,-trimetoxianfetamina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">35</p>
+<p>29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4-MA</p>
+<p>PMMA (parametoximetilanfetamina)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4-metilanfetamina</p>
+<p>N-metil-1-(4-metoxifenil)-2-aminopropano</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">36</p>
+<p>30</p>
+</td>
+<td>
+<p>2C-l</p>
+</td>
+<td>
+<p>2,5-dimetoxi-4-iodofenetilamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>31</p>
+</td>
+<td>
+<p>2C-T-2</p>
+</td>
+<td>
+<p>2,5-dimetoxi-4-etiliofenetilamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>32</p>
+</td>
+<td>
+<p>2C-T-7</p>
+</td>
+<td>
+<p>2,5-dimetoxi-4-(n)-propiltiofenetilamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>33</p>
+</td>
+<td>
+<p>TMA-2</p>
+</td>
+<td>
+<p>2,4,5-trimetoxianfetamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>34 5-IT</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5-(2-aminopropil)indol</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>4-MA</p>
+</td>
+<td>
+<p>4-metilanfetamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>36</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">4-yodo-2,5-dimetoxi-N-(2-metoxibencil) fenetilamina (25I-NBOMe)</p>
+<p>4-yodo-2,5-dimetoxi-N-(2-metoxibencil) fenetilamina (25I-NBOMe)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">37</p>
+<p>37</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">2-(4-bromo-2,5-dimetoxifenilo)-n-[(2-metoxifenil)metil]etanamina (25B-NBOMe, 2C-B-NBOMe)</p>
+<p>2-(4-bromo-2,5-dimetoxifenilo)-n-[(2-metoxifenil)metil]etanamina (25B-NBOMe, 2C-B-NBOMe)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">38</p>
+<p>38</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">2-(4-cloro-2,5-dimetoxifenilo)-n-[(2-metoxifenilo) metil]etanamina (25C-NBOMe, 2C-C-NBOMe)</p>
+<p>2-(4-cloro-2,5-dimetoxifenilo)-n-[(2-metoxifenilo) metil]etanamina (25C-NBOMe, 2C-C-NBOMe)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">39</td>
-<td class="cuerpo_tabla_izq">DOC</td>
-<td class="cuerpo_tabla_izq">(2,5-dimetoxi-4-cloroanfetamina, 4-cloro-2,5-DMA) (1-(4-cloro-2,5-dimetoxifenil)propan-2-amina)</td>
+<td>39</td>
+<td>DOC</td>
+<td>(2,5-dimetoxi-4-cloroanfetamina, 4-cloro-2,5-DMA) (1-(4-cloro-2,5-dimetoxifenil)propan-2-amina)</td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">
+<p>
 <strong>
 <em>Sustancias de la lista II</em>
 </strong>
@@ -728,24 +728,24 @@ ENRIQUE SÁNCHEZ DE LEÓN PÉREZ
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1 AMINEPTINA</p>
+<p>1 AMINEPTINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ácido 7-[10,11-dihidro-5H-dibenzo[a,d]ciclohepten-5-il)amino]heptanoico</p>
+<p>Ácido 7-[10,11-dihidro-5H-dibenzo[a,d]ciclohepten-5-il)amino]heptanoico</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2 ANFETAMINA</p>
+<p>2 ANFETAMINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(±)-α-metilfenetilamina</p>
+<p>(±)-α-metilfenetilamina</p>
 </td>
 </tr>
 <tr>
@@ -755,563 +755,563 @@ ENRIQUE SÁNCHEZ DE LEÓN PÉREZ
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2C-B</p>
+<p>2C-B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4-bromo-2,5-dimetoxifenetilamina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">5 DEXANFETAMINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">(+)-α-metilfenetilamina</p>
+<p>4-bromo-2,5-dimetoxifenetilamina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">6 DRONABINOL</p>
+<p>5 DEXANFETAMINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">delta-9-THC y sus variantes estereoquímicas</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(6aR, 10aR)-6a,7,8,10a-tetrahidro-6,6,9-trimetil-3-pentil-6H-dibenzo[b,d]pirano-1-ol</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">7 FENCICLIDINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PCP</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1-(1-fenilciclohexil)-piperidina</p>
+<p>(+)-α-metilfenetilamina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">8 FENETILINA</p>
+<p>6 DRONABINOL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p>delta-9-THC y sus variantes estereoquímicas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">dl-3,7-dihidro-1,3 dimetil-7-(2[(1-metil-2-feniletil)amino]etil)-1H purina-2,6 diona</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9 FENMETRACINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3-metil-2-fenilmorfolina</p>
+<p>(6aR, 10aR)-6a,7,8,10a-tetrahidro-6,6,9-trimetil-3-pentil-6H-dibenzo[b,d]pirano-1-ol</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10</p>
+<p>7 FENCICLIDINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">GHB</p>
+<p>PCP</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ácido gamma-hidroxibutírico</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">11 LEVANFETAMINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">(-)-(R)-alfa-metilfenetilamina</p>
+<p>1-(1-fenilciclohexil)-piperidina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">12</p>
+<p>8 FENETILINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">levometanfetamina</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(-)-N,alfa-dimetilfenetilamina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">13 MECLOCUALONA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3-(o-clorofenil-2-metil-4(3H)-quinazolinona</p>
+<p>dl-3,7-dihidro-1,3 dimetil-7-(2[(1-metil-2-feniletil)amino]etil)-1H purina-2,6 diona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">14 METACUALONA</p>
+<p>9 FENMETRACINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2-metil-3-o-tolil-4(3H)-quinazolinona</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">15 METANFETAMINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">(+)-(S)-N, alfa-dimetilfenetilamina</p>
+<p>3-metil-2-fenilmorfolina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">16 METILFENIDATO</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>GHB</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ester metílico del ácido 2-fenil-2-(2-piperidil)acético.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">17 RACEMATO DE METANFETAMINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">(±)-N,alfa-dimetilfenetilamina</p>
+<p>Ácido gamma-hidroxibutírico</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">18 SECOBARBITAL</p>
+<p>11 LEVANFETAMINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ácido 5-alil-5-(1-metilbutil)-barbitúrico</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">19 ZIPEPROL</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">[alfa -(alfametoxi-bencil)4-beta-metoxifenetil)-1-piperazinaetanol] y sus variantes estereoisómeras</p>
+<p>(-)-(R)-alfa-metilfenetilamina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">20</p>
+<p>12</p>
+</td>
+<td>
+<p>levometanfetamina</p>
+</td>
+<td>
+<p>(-)-N,alfa-dimetilfenetilamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13 MECLOCUALONA</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3-(o-clorofenil-2-metil-4(3H)-quinazolinona</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14 METACUALONA</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2-metil-3-o-tolil-4(3H)-quinazolinona</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15 METANFETAMINA</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(+)-(S)-N, alfa-dimetilfenetilamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16 METILFENIDATO</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Ester metílico del ácido 2-fenil-2-(2-piperidil)acético.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17 RACEMATO DE METANFETAMINA</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(±)-N,alfa-dimetilfenetilamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18 SECOBARBITAL</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Ácido 5-alil-5-(1-metilbutil)-barbitúrico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>19 ZIPEPROL</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>[alfa -(alfametoxi-bencil)4-beta-metoxifenetil)-1-piperazinaetanol] y sus variantes estereoisómeras</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">3,4-metilendioxipirovalerona (MDPV)</p>
+<p>3,4-metilendioxipirovalerona (MDPV)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">21</p>
+<p>21</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">2-(3-metoxifenil)-2-(etilamino)ciclohexanona (metoxetamina)</p>
+<p>2-(3-metoxifenil)-2-(etilamino)ciclohexanona (metoxetamina)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">22</p>
+<p>22</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">naftalen-1-ilo(1-pentilo-1h-indol-3-ilo) metanona (JWH-018)</p>
+<p>naftalen-1-ilo(1-pentilo-1h-indol-3-ilo) metanona (JWH-018)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">23</p>
+<p>23</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">1-(5-fluoropentilo)-1h-indol-3-ilo-naftaleno-1-ilmetanona (AM-2201)</p>
+<p>1-(5-fluoropentilo)-1h-indol-3-ilo-naftaleno-1-ilmetanona (AM-2201)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">24</p>
+<p>24</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">(R,S)-1-(1,3-benzodioxol-5-ilo)-2-(metilamino)propano-1-ona (Metilona,beta-ceto-MDMA)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">25</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">α-pirrolidinovalerofenona (α-PVP)</p>
+<p>(R,S)-1-(1,3-benzodioxol-5-ilo)-2-(metilamino)propano-1-ona (Metilona,beta-ceto-MDMA)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">26</p>
+<p>25</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">para-metil-4-metilaminorex (4,4´- DMAR)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">27</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">4-metiletcatinona (4-MEC)</p>
+<p>α-pirrolidinovalerofenona (α-PVP)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">28</p>
+<p>26</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">etilona</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">29</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">pentedrona</p>
+<p>para-metil-4-metilaminorex (4,4´- DMAR)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">30</p>
+<p>27</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">etilfenidato</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">31</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">metiopropamina (MPA)</p>
+<p>4-metiletcatinona (4-MEC)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">32</p>
+<p>28</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">MDMB-CHMICA</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">33</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">5F-APINACA (5F-AKB-48)</p>
+<p>etilona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">34</p>
+<p>29</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">XLR-11</p>
+<p>pentedrona</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">35 AB-CHMINACA</td>
+<td>
+<p>30</p>
+</td>
 <td> </td>
-<td class="cuerpo_tabla_izq">(<em>N</em>-[(2S)-1-amino-3-metil-oxobutan-2-il]-1- (ciclohexilmetil)-1<em>H</em>-indazol-3-carboxamida)</td>
+<td>
+<p>etilfenidato</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">36 5F-MDMB-PINACA (5F-ADB)</td>
+<td>
+<p>31</p>
+</td>
 <td> </td>
-<td class="cuerpo_tabla_izq">((2S)-2-{[1-(fluoropentil)-1<em>H</em>-indazol-3- carbonil] amino}-3,3-dimetilbutanoato de metilo)</td>
+<td>
+<p>metiopropamina (MPA)</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">37 AB-PINACA</td>
+<td>
+<p>32</p>
+</td>
 <td> </td>
-<td class="cuerpo_tabla_izq">(<em>N</em>-[(2S)-1-amino-3-metil-1-oxobutan-2-il]-1-pentil-1<em>H</em>-indazol-3-carboxamida)</td>
+<td>
+<p>MDMB-CHMICA</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">38 UR-144</td>
+<td>
+<p>33</p>
+</td>
 <td> </td>
-<td class="cuerpo_tabla_izq">(1-fentil-1<em>H</em>-indol-3-il) (2,2,3,3-tetrametilciclopropil)metanona)</td>
+<td>
+<p>5F-APINACA (5F-AKB-48)</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">39 5F-PB-22</td>
+<td>
+<p>34</p>
+</td>
 <td> </td>
-<td class="cuerpo_tabla_izq">(1-(5-fluoropentil)-1H-indol-3-carboxilato de quinolin-8-ilo)</td>
+<td>
+<p>XLR-11</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">40 4-fluoroanfetamina (4-FA)</td>
+<td>35 AB-CHMINACA</td>
 <td> </td>
-<td class="cuerpo_tabla_izq">(1-(4-fluorofenil)propan-2-amina)</td>
+<td>(<em>N</em>-[(2S)-1-amino-3-metil-oxobutan-2-il]-1- (ciclohexilmetil)-1<em>H</em>-indazol-3-carboxamida)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">41 ADB-CHMINACA</td>
+<td>36 5F-MDMB-PINACA (5F-ADB)</td>
 <td> </td>
-<td class="cuerpo_tabla_izq">(N-(1-amino-3,3-dimetil-1-oxobutan-2-il)-1 (ciclohexilmetil)-1H-indazol-3-carboxamida)</td>
+<td>((2S)-2-{[1-(fluoropentil)-1<em>H</em>-indazol-3- carbonil] amino}-3,3-dimetilbutanoato de metilo)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">42 CUMIL-4CN-BINACA</td>
+<td>37 AB-PINACA</td>
 <td> </td>
-<td class="cuerpo_tabla_izq">(1-(4-cianobutil)-N-(2-fenilpropan-2-il)-1H indazol-3-carboxamida)</td>
+<td>(<em>N</em>-[(2S)-1-amino-3-metil-1-oxobutan-2-il]-1-pentil-1<em>H</em>-indazol-3-carboxamida)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">43 ADB-FUBINACA</td>
+<td>38 UR-144</td>
 <td> </td>
-<td class="cuerpo_tabla_izq">(N - [(2S) -1-amino-3,3-dimetil-1-oxobutan-2-il] -1 - [(4-fluorofenil)metil] -1Hindazol-3-carboxamida)</td>
+<td>(1-fentil-1<em>H</em>-indol-3-il) (2,2,3,3-tetrametilciclopropil)metanona)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">44 FUB-AMB</td>
+<td>39 5F-PB-22</td>
 <td> </td>
-<td class="cuerpo_tabla_izq">(metil (2S) -2 - ({1 - [(4-fluorofenil) metil] -1H-indazol-3carbonil} amino) -3- metilbutanoato)</td>
+<td>(1-(5-fluoropentil)-1H-indol-3-carboxilato de quinolin-8-ilo)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">45 N-etilnorpentilona</td>
+<td>40 4-fluoroanfetamina (4-FA)</td>
 <td> </td>
-<td class="cuerpo_tabla_izq">(1- (2H-1,3-benzodioxol-5-il) -2- (etilamino) pentan-1-ona))</td>
+<td>(1-(4-fluorofenil)propan-2-amina)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">46 AB-FUBINACA</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(N-[1-amino-3-metil-1-oxobutan-2-il]-1-[(4-fluorofenil)metil]-1H-indazol-3-carboxamida)</td>
+<td>41 ADB-CHMINACA</td>
+<td> </td>
+<td>(N-(1-amino-3,3-dimetil-1-oxobutan-2-il)-1 (ciclohexilmetil)-1H-indazol-3-carboxamida)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">47 5F-AMB-PINACA</td>
-<td class="cuerpo_tabla_izq">(5F-AMB, 5F-MMB-PINACA)</td>
-<td class="cuerpo_tabla_izq">(metil 2-{[1-(5-fluoropentil)-1H-indazol-3-carbonil]amino}-3-metilbutanoato)</td>
+<td>42 CUMIL-4CN-BINACA</td>
+<td> </td>
+<td>(1-(4-cianobutil)-N-(2-fenilpropan-2-il)-1H indazol-3-carboxamida)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">48 5F-MDMB-PICA</td>
-<td class="cuerpo_tabla_izq">(5F-MDMB-2201)</td>
-<td class="cuerpo_tabla_izq">(metil 2-{[1-(5-fluoropentil)-1H-indol-3-carbonil]amino}-3,3-dimetillbutanoato)</td>
+<td>43 ADB-FUBINACA</td>
+<td> </td>
+<td>(N - [(2S) -1-amino-3,3-dimetil-1-oxobutan-2-il] -1 - [(4-fluorofenil)metil] -1Hindazol-3-carboxamida)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">49 4F-MDMB-BINACA</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">metil (2-{[1-(4-fluorobutil)-1H-indazol-3-carbonil]amino}-3,3-dimetilbutanoato)</td>
+<td>44 FUB-AMB</td>
+<td> </td>
+<td>(metil (2S) -2 - ({1 - [(4-fluorofenil) metil] -1H-indazol-3carbonil} amino) -3- metilbutanoato)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">50 4-CMC</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(4-clorometcatinona, clefedrona) (1-(4-clorofenil)-2-(metilamino)propano-1-ona),</td>
+<td>45 N-etilnorpentilona</td>
+<td> </td>
+<td>(1- (2H-1,3-benzodioxol-5-il) -2- (etilamino) pentan-1-ona))</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">51 N-etilhexedrona</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(2-(etilamino)-1-fenilhexan-1-ona)</td>
+<td>46 AB-FUBINACA</td>
+<td> </td>
+<td>(N-[1-amino-3-metil-1-oxobutan-2-il]-1-[(4-fluorofenil)metil]-1H-indazol-3-carboxamida)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">52 alfa-PHP</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(1-fenil-2-(pirrolidin-1-il)hexan-1-ona)</td>
+<td>47 5F-AMB-PINACA</td>
+<td>(5F-AMB, 5F-MMB-PINACA)</td>
+<td>(metil 2-{[1-(5-fluoropentil)-1H-indazol-3-carbonil]amino}-3-metilbutanoato)</td>
+</tr>
+<tr>
+<td>48 5F-MDMB-PICA</td>
+<td>(5F-MDMB-2201)</td>
+<td>(metil 2-{[1-(5-fluoropentil)-1H-indol-3-carbonil]amino}-3,3-dimetillbutanoato)</td>
+</tr>
+<tr>
+<td>49 4F-MDMB-BINACA</td>
+<td> </td>
+<td>metil (2-{[1-(4-fluorobutil)-1H-indazol-3-carbonil]amino}-3,3-dimetilbutanoato)</td>
+</tr>
+<tr>
+<td>50 4-CMC</td>
+<td> </td>
+<td>(4-clorometcatinona, clefedrona) (1-(4-clorofenil)-2-(metilamino)propano-1-ona),</td>
+</tr>
+<tr>
+<td>51 N-etilhexedrona</td>
+<td> </td>
+<td>(2-(etilamino)-1-fenilhexan-1-ona)</td>
+</tr>
+<tr>
+<td>52 alfa-PHP</td>
+<td> </td>
+<td>(1-fenil-2-(pirrolidin-1-il)hexan-1-ona)</td>
 </tr>
 <tr>
 <td>53 CUMYL-PEGACLONE</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(5-pentil-2-(2-fenilpropan-2-il)-2,5-dihidro-1H-pirido[4,3-b]indol-1-ona)</td>
+<td> </td>
+<td>(5-pentil-2-(2-fenilpropan-2-il)-2,5-dihidro-1H-pirido[4,3-b]indol-1-ona)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">54 MDMB- 4en-PINACA</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(metilo 3,3-dimetil-2-{[1-pent-4-en-1-il)-1H-indazol3-carbonil]amino}butanoato)</td>
+<td>54 MDMB- 4en-PINACA</td>
+<td> </td>
+<td>(metilo 3,3-dimetil-2-{[1-pent-4-en-1-il)-1H-indazol3-carbonil]amino}butanoato)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">55 4F-MDMB-BICA</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(metilo 2-{[1-4-fluorobutil)-1H-indol3- carbonil]amino}-3,3-dimetilbutanoato)</td>
+<td>55 4F-MDMB-BICA</td>
+<td> </td>
+<td>(metilo 2-{[1-4-fluorobutil)-1H-indol3- carbonil]amino}-3,3-dimetilbutanoato)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">56 3-metoxifenciclidina</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(1-(1-(3-metoxifenil)ciclohexil)piperidina)</td>
+<td>56 3-metoxifenciclidina</td>
+<td> </td>
+<td>(1-(1-(3-metoxifenil)ciclohexil)piperidina)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">57 difenidina</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(1-(1,2-difeniletil)piperidina)</td>
+<td>57 difenidina</td>
+<td> </td>
+<td>(1-(1,2-difeniletil)piperidina)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">58 eutilona</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>58 eutilona</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">59</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">2-(metilamino)-1-(3-metilfenil)propan-1-ona (3-metilmetcatinona, 3-MMC)</td>
+<td>59</td>
+<td> </td>
+<td>2-(metilamino)-1-(3-metilfenil)propan-1-ona (3-metilmetcatinona, 3-MMC)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">60</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">4-metilmetcatinona (mefedrona, 4-MMC)</td>
+<td>60</td>
+<td> </td>
+<td>4-metilmetcatinona (mefedrona, 4-MMC)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">61</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1-(3-clorofenil)-2-(metilamino)propan-1-ona (3-clorometcatinona, 3-CMC)</td>
+<td>61</td>
+<td> </td>
+<td>1-(3-clorofenil)-2-(metilamino)propan-1-ona (3-clorometcatinona, 3-CMC)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">62</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">ADB-BUTINACA (N-[1-(aminocarbonil)-2,2-dimetilpropil]-1-butil-1H-indazol-3-carboxamida)</td>
+<td>62</td>
+<td> </td>
+<td>ADB-BUTINACA (N-[1-(aminocarbonil)-2,2-dimetilpropil]-1-butil-1H-indazol-3-carboxamida)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">63</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">alfa-PiHP (alfa-pirrolidinoisohexanofenona, 4-metil-1-fenil-2-(pirrolidin-1-il) pentan-1-ona)</td>
+<td>63</td>
+<td> </td>
+<td>alfa-PiHP (alfa-pirrolidinoisohexanofenona, 4-metil-1-fenil-2-(pirrolidin-1-il) pentan-1-ona)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">64 hexahidrocannabinol</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(HHC; 6a,7,8,9,10,10a-hexahidro-6,6,9-trimetil-3-pentil-6H-dibenzo[b,d]piran-1-ol)</td>
+<td>64 hexahidrocannabinol</td>
+<td> </td>
+<td>(HHC; 6a,7,8,9,10,10a-hexahidro-6,6,9-trimetil-3-pentil-6H-dibenzo[b,d]piran-1-ol)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">65 acetato de hexahidrocannabinol</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(HHC-O; acetato de HHC; acetato de 6,6,9-trimetil-3-pentil-6a,7,8,9,10,10a-hexahidrobenzo[c]cromeno-1-ilo)</td>
+<td>65 acetato de hexahidrocannabinol</td>
+<td> </td>
+<td>(HHC-O; acetato de HHC; acetato de 6,6,9-trimetil-3-pentil-6a,7,8,9,10,10a-hexahidrobenzo[c]cromeno-1-ilo)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">66 hexahidrocannabiforol</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(HHCP; 3-heptil-6a,7,8,9,10,10a-hexahidro-6,6,9-trimetil-6H-dibenzo[b,d]piran-1-ol)</td>
+<td>66 hexahidrocannabiforol</td>
+<td> </td>
+<td>(HHCP; 3-heptil-6a,7,8,9,10,10a-hexahidro-6,6,9-trimetil-6H-dibenzo[b,d]piran-1-ol)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">67 acetato de hexahidrocannabiforol</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(HHCP-O; acetato de HHCP-O; acetato de 3-heptil-6,6,9-trimetil-6a,7,8,9,10,10a-hexahidro-6H-dibenzo[b,d]piran-1-ilo)</td>
+<td>67 acetato de hexahidrocannabiforol</td>
+<td> </td>
+<td>(HHCP-O; acetato de HHCP-O; acetato de 3-heptil-6,6,9-trimetil-6a,7,8,9,10,10a-hexahidro-6H-dibenzo[b,d]piran-1-ilo)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">68 delta-8-tetrahidrocannabiforol</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(delta-8-THCP; JWH 091; 3-heptil-6a,7,10,10a-tetrahidro-6,6,9-trimetil-6H-dibenzo[b,d]piran-1-ol)</td>
+<td>68 delta-8-tetrahidrocannabiforol</td>
+<td> </td>
+<td>(delta-8-THCP; JWH 091; 3-heptil-6a,7,10,10a-tetrahidro-6,6,9-trimetil-6H-dibenzo[b,d]piran-1-ol)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">69 tetrahidrocannabiforol</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(delta-9-THCP; THCP; 3-heptil-6a,7,8,10a-tetrahidro-6,6,9-trimetil-6H-dibenzo[b,d]piran-1-ol)</td>
+<td>69 tetrahidrocannabiforol</td>
+<td> </td>
+<td>(delta-9-THCP; THCP; 3-heptil-6a,7,8,10a-tetrahidro-6,6,9-trimetil-6H-dibenzo[b,d]piran-1-ol)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">70 acetato de tetrahidrocannabiforol</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(THCP-O; acetato de delta-9-THCP-O; acetato de 3-heptil-6,6,9-trimetil-6a,7,8,10a-tetrahidro-6H-dibenzo[b,d]piran-1-ilo)</td>
+<td>70 acetato de tetrahidrocannabiforol</td>
+<td> </td>
+<td>(THCP-O; acetato de delta-9-THCP-O; acetato de 3-heptil-6,6,9-trimetil-6a,7,8,10a-tetrahidro-6H-dibenzo[b,d]piran-1-ilo)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">71 acetato de tetrahidrocannabinol</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(THC-O; acetato de delta-8-THC-O; acetato de 6,6,9-trimetil-3-pentil-6a,7,10,10a-tetrahidro-6H-dibenzo[b,d]piran-1-ilo)</td>
+<td>71 acetato de tetrahidrocannabinol</td>
+<td> </td>
+<td>(THC-O; acetato de delta-8-THC-O; acetato de 6,6,9-trimetil-3-pentil-6a,7,10,10a-tetrahidro-6H-dibenzo[b,d]piran-1-ilo)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">72 delta-8-tetrahidrocannabinol-C8</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(delta-8-THC-C8; 3-octil-6a,7,10,10a-tetrahidro-6,6,9-trimetil-6H-dibenzo[b,d]piran-1-ol)</td>
+<td>72 delta-8-tetrahidrocannabinol-C8</td>
+<td> </td>
+<td>(delta-8-THC-C8; 3-octil-6a,7,10,10a-tetrahidro-6,6,9-trimetil-6H-dibenzo[b,d]piran-1-ol)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">73 delta-9-tetrahidrocannabinol-C8</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(delta-9-THC-C8; 3-octil-6a,7,8,10a-tetrahidro-6,6,9-trimetil-6H-dibenzo[b,d]piran-1-ol)</td>
+<td>73 delta-9-tetrahidrocannabinol-C8</td>
+<td> </td>
+<td>(delta-9-THC-C8; 3-octil-6a,7,8,10a-tetrahidro-6,6,9-trimetil-6H-dibenzo[b,d]piran-1-ol)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">74 Hidrocannabidiol</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(H4-CBD; tetrahidrocannabidiol; 2-(2-isopropilo-5-metilciclohexilo)-5-pentilbenceno-1,3-diol)</td>
+<td>74 Hidrocannabidiol</td>
+<td> </td>
+<td>(H4-CBD; tetrahidrocannabidiol; 2-(2-isopropilo-5-metilciclohexilo)-5-pentilbenceno-1,3-diol)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">75 ácido tetrahidrocannabinolico</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(delta-9-THCA; THCA; (6aR,10aR)-1-hidroxilo-6,6,9-trimetil-3-pentil-6a,7,8,10a-tetrahidrobenzo[c]cromeno-2-ácido carboxílico)</td>
+<td>75 ácido tetrahidrocannabinolico</td>
+<td> </td>
+<td>(delta-9-THCA; THCA; (6aR,10aR)-1-hidroxilo-6,6,9-trimetil-3-pentil-6a,7,8,10a-tetrahidrobenzo[c]cromeno-2-ácido carboxílico)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">76 dipentilona</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(bk-DMBDP; N,N-dimetilpentilona; 1-(1,3-benzodioxol-5-il)-2-(dimetilamino)pentan-1-ona)</td>
+<td>76 dipentilona</td>
+<td> </td>
+<td>(bk-DMBDP; N,N-dimetilpentilona; 1-(1,3-benzodioxol-5-il)-2-(dimetilamino)pentan-1-ona)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">77 2-fluorodescloroketamina</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(2-FDCK; 2-(2-fluorofenil)-2-metilaminociclohexanona)</td>
+<td>77 2-fluorodescloroketamina</td>
+<td> </td>
+<td>(2-FDCK; 2-(2-fluorofenil)-2-metilaminociclohexanona)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">78 2-clorometcatinona</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(<span class="no_partir">2-</span><span class="no_partir">C</span>MC)</td>
+<td>78 2-clorometcatinona</td>
+<td> </td>
+<td>(<span>2-</span><span>C</span>MC)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">79 <span class="no_partir">2-</span><span class="no_partir">m</span>etilmetcatinona</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(<span class="no_partir">2-</span><span class="no_partir">M</span>MC)</td>
+<td>79 <span>2-</span><span>m</span>etilmetcatinona</td>
+<td> </td>
+<td>(<span>2-</span><span>M</span>MC)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">80 <span class="no_partir">4-</span><span class="no_partir">b</span>romometcatinona</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(<span class="no_partir">4-</span><span class="no_partir">B</span>MC)</td>
+<td>80 <span>4-</span><span>b</span>romometcatinona</td>
+<td> </td>
+<td>(<span>4-</span><span>B</span>MC)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">81 <span class="no_partir">N-etilnorpentedrona</span></td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(NEP)</td>
+<td>81 <span>N-etilnorpentedrona</span></td>
+<td> </td>
+<td>(NEP)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">82 MDM<span class="no_partir">B</span><span class="no_partir">-</span><span class="no_partir">F</span>UBINACA</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>82 MDM<span>B</span><span>-</span><span>F</span>UBINACA</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">83 lisdexanfetamina</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>83 lisdexanfetamina</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">
+<p>
 <strong>
 <em>Sustancias de la lista III</em>
 </strong>
@@ -1320,106 +1320,106 @@ ENRIQUE SÁNCHEZ DE LEÓN PÉREZ
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1 AMOBARBITAL</p>
+<p>1 AMOBARBITAL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ácido 5-etil-5-isopentilbarbitúrico</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2 BUPRENORFINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2l-ciclopropil-7-α-[(S)-1-hidroxi-1,2,2-trimetilpropil]-6,14-endo-etano-6,7,8,14-tetrahidrooripavina</p>
+<p>Ácido 5-etil-5-isopentilbarbitúrico</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3 BUTALBITAL</p>
+<p>2 BUPRENORFINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ácido 5-alil-5-isobutilbarbitúrico</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4 CATINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">(+)-norpseudoefedrina</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d-treo-2-amino-1-hidroxi-1-fenilpropano</p>
+<p>2l-ciclopropil-7-α-[(S)-1-hidroxi-1,2,2-trimetilpropil]-6,14-endo-etano-6,7,8,14-tetrahidrooripavina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5 CICLOBARBITAL</p>
+<p>3 BUTALBITAL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ácido 5-(ciclohexen-1-il)-5-etilbarbitúrico</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">6 FLUNITRAZEPAM</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5-(orto-fluorofenil)-1,3-dihidro-1-metil-7-nitro-2H-1,4 benzodiacepín-2-ona</p>
+<p>ácido 5-alil-5-isobutilbarbitúrico</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">7 GLUTETIMIDA</p>
+<p>4 CATINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>(+)-norpseudoefedrina</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2-etil-2-fenilglutarimida</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">8 PENTAZOCINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,2,3,4,5,6-hexahidro-6, 11-dimetil-3-(3-metil-2butenil)-2,6metano-3-benzazocina-8-ol</p>
+<p>d-treo-2-amino-1-hidroxi-1-fenilpropano</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9 PENTOBARBITAL.</p>
+<p>5 CICLOBARBITAL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ácido 5-etil-5-(1-metilbutil)barbitúrico.</p>
+<p>Ácido 5-(ciclohexen-1-il)-5-etilbarbitúrico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6 FLUNITRAZEPAM</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5-(orto-fluorofenil)-1,3-dihidro-1-metil-7-nitro-2H-1,4 benzodiacepín-2-ona</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7 GLUTETIMIDA</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2-etil-2-fenilglutarimida</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8 PENTAZOCINA</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1,2,3,4,5,6-hexahidro-6, 11-dimetil-3-(3-metil-2butenil)-2,6metano-3-benzazocina-8-ol</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9 PENTOBARBITAL.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Ácido 5-etil-5-(1-metilbutil)barbitúrico.</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">
+<p>
 <strong>
 <em>Sustancias de la lista IV</em>
 </strong>
@@ -1428,732 +1428,732 @@ ENRIQUE SÁNCHEZ DE LEÓN PÉREZ
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1 ALOBARBITAL</p>
+<p>1 ALOBARBITAL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ácido 5,5-dialilbarbitúrico</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2 ALPRAZOLAM</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">8-cloro-1-metil-6fenil-4H-s-triazolo[4,3-α][1,4] benzodiacepina</p>
+<p>ácido 5,5-dialilbarbitúrico</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3 AMINOREX</p>
+<p>2 ALPRAZOLAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(2-amino-5-fenil-2-oxazolina)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4 ANFEPRAMONA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">DIETILPROPION</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2-(dietilamino)-propiofenona</p>
+<p>8-cloro-1-metil-6fenil-4H-s-triazolo[4,3-α][1,4] benzodiacepina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5 BARBITAL</p>
+<p>3 AMINOREX</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ácido 5,5-dietilbarbitúrico</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">6 BENZFETAMINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BENZFETAMINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">N-bencil-N,α-dimetil-fenetilamina</p>
+<p>(2-amino-5-fenil-2-oxazolina)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">7 BROMAZEPAM</p>
+<p>4 ANFEPRAMONA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p>DIETILPROPION</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7-bromo-1,3dihidro-5-(2-piridil)-2H-1,4 benzodiacepina-2-ona</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">8 BROTIZOLAM</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2-bromo-4-(orto-clorofenil)-9-metil-6H-tieno{3,2-f}-s-tríazolo[4,3- ][1,4] diacepina</p>
+<p>2-(dietilamino)-propiofenona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9</p>
+<p>5 BARBITAL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BUTOBARBITAL</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ácido 5-butil-5-etilbarbitúrico</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">10 CAMAZEPAM</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7-cloro-1,3 dihidro-3 hidroxi-1-metil-5-fenil-2H-1,4 benzodiacepín-2-ona dimetil carbamato (éster)</p>
+<p>Ácido 5,5-dietilbarbitúrico</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">11 CLOBAZAM</p>
+<p>6 BENZFETAMINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p>BENZFETAMINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7-cloro-1-metil-5-fenil-1H-1,5 benzodiacepín-2,4 (3H-5H)-diona</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">12 CLONAZEPAM</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5-(o-clorofenil)-1,3-dihidro-7-nitro-2H-1,4 benzodiacepín-2-ona</p>
+<p>N-bencil-N,α-dimetil-fenetilamina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">13 CLORAZEPATO</p>
+<p>7 BROMAZEPAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ácido 7-cloro-2,3 dihidro-2-oxo-5 fenil-1H-1,4 benzodiacepín-3-carboxílico</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">14 CLORDIAZEPOXIDO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7-cloro-2-(metilamino)-5-fenil-3H-1,4 benzodiacepín-4-óxido</p>
+<p>7-bromo-1,3dihidro-5-(2-piridil)-2H-1,4 benzodiacepina-2-ona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">15 CLOTIAZEPAM</p>
+<p>8 BROTIZOLAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5-(o-clorofenil)-7-etil-1,3 dihidro-1 metil-2H-tieno [2,3-e]-1,4 diacepín-2-ona</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">16 CLOXAZOLAM</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">10 cloro-11b-(o-clorofenil)-2,3,7,11b tetrahidro-oxazolo [3, 2-d] [1,4] benzodiacepín-6-(5H)-ona</p>
+<p>2-bromo-4-(orto-clorofenil)-9-metil-6H-tieno{3,2-f}-s-tríazolo[4,3- ][1,4] diacepina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">17 DELORAZEPAM</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p>BUTOBARBITAL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7-cloro-5-(o-clorofenil)-1,3 dihidro-2H-1,4, benzodiacepín-2-ona</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">18 DIAZEPAM</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7-cloro-1,3 dihidro-1-metil-5-fenil-2H-1,4, benzodiacepín-2-ona</p>
+<p>ácido 5-butil-5-etilbarbitúrico</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">19 ESTAZOLAM</p>
+<p>10 CAMAZEPAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">8-cloro-6-fenil-4H-s-triazolo [4,3-(RS)-2-(2-clorofenyl)-2-(metilamino)ciclohexan-1-ona][1,4] benzodiacepina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">20 ETCLORVINOL</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Etil-2-cloroviniletinil-carbinol</p>
+<p>7-cloro-1,3 dihidro-3 hidroxi-1-metil-5-fenil-2H-1,4 benzodiacepín-2-ona dimetil carbamato (éster)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">21 ETILANFETAMINA</p>
+<p>11 CLOBAZAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N-ETIL ANFETAMINA</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N-etil-alfa-metilfeniletilamina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">22 ETINAMATO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carbamato de 1-etinilciclohexanol</p>
+<p>7-cloro-1-metil-5-fenil-1H-1,5 benzodiacepín-2,4 (3H-5H)-diona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">23 FENAZEPAM</p>
+<p>12 CLONAZEPAM</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5-(o-clorofenil)-1,3-dihidro-7-nitro-2H-1,4 benzodiacepín-2-ona</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13 CLORAZEPATO</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Ácido 7-cloro-2,3 dihidro-2-oxo-5 fenil-1H-1,4 benzodiacepín-3-carboxílico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14 CLORDIAZEPOXIDO</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>7-cloro-2-(metilamino)-5-fenil-3H-1,4 benzodiacepín-4-óxido</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15 CLOTIAZEPAM</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5-(o-clorofenil)-7-etil-1,3 dihidro-1 metil-2H-tieno [2,3-e]-1,4 diacepín-2-ona</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16 CLOXAZOLAM</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>10 cloro-11b-(o-clorofenil)-2,3,7,11b tetrahidro-oxazolo [3, 2-d] [1,4] benzodiacepín-6-(5H)-ona</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17 DELORAZEPAM</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>7-cloro-5-(o-clorofenil)-1,3 dihidro-2H-1,4, benzodiacepín-2-ona</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18 DIAZEPAM</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>7-cloro-1,3 dihidro-1-metil-5-fenil-2H-1,4, benzodiacepín-2-ona</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>19 ESTAZOLAM</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>8-cloro-6-fenil-4H-s-triazolo [4,3-(RS)-2-(2-clorofenyl)-2-(metilamino)ciclohexan-1-ona][1,4] benzodiacepina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20 ETCLORVINOL</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Etil-2-cloroviniletinil-carbinol</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>21 ETILANFETAMINA</p>
+</td>
+<td>
+<p>N-ETIL ANFETAMINA</p>
+</td>
+<td>
+<p>N-etil-alfa-metilfeniletilamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>22 ETINAMATO</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Carbamato de 1-etinilciclohexanol</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23 FENAZEPAM</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">24 FENCAFAMINA</p>
+<p>24 FENCAFAMINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d1-N-etil-3-fenilbiciclo (2,2,1)-heptan-2-amina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">25 FENDIMETRAZINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">(+)-3,4-dimetil-2-fenilformina</p>
+<p>d1-N-etil-3-fenilbiciclo (2,2,1)-heptan-2-amina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">26 FENOBARBITAL</p>
+<p>25 FENDIMETRAZINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ácido 5-etil-5-fenilbarbitúrico</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">27 FENPROPOREX</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">dl-3-[(alfa-metilfenil)amino] propionitrilo</p>
+<p>(+)-3,4-dimetil-2-fenilformina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">28 FENTERMINA</p>
+<p>26 FENOBARBITAL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">α,α-dimetilfenetilamina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">29 FLUDIAZEPAM</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7-cloro-5-(o-fluorofenil) 1,3-dihidro-1-metil-2H-1,4 benzodiacepín-2-ona</p>
+<p>Ácido 5-etil-5-fenilbarbitúrico</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">30 FLURAZEPAM</p>
+<p>27 FENPROPOREX</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7cloro-1-(ciclopropilmetil)-1,3 -dihidro-5-fenil-2H-1,4 benzodiazepin-2-ona</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">31 HALAZEPAM</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7 -cloro-1,3 dihidro-5-fenil-1-(2,2,2 trifluoroetil)-2H-1,4 benzodiacepín-2-ona</p>
+<p>dl-3-[(alfa-metilfenil)amino] propionitrilo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">32 HALOXAZOLAM</p>
+<p>28 FENTERMINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">10-bromo-11b-(o-fluorofenil)-2,3,7,11b tetrahidro-oxazolo [3,2-d] [1,4] benzodiacepín-6 (5H)-ona</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">33 KETAMINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">(RS)-2-(2-clorofenyl)-2-(metilamino)ciclohexan-1-ona</p>
+<p>α,α-dimetilfenetilamina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">34 KETAZOLAM</p>
+<p>29 FLUDIAZEPAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">11-cloro-8,12b-dihidro-2,8 dimetil-12b-fenil-4H-[1,3]-oxazino-[3,2-d] [1,4]benzodiacepín-4,7 (6H)-diona</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">35 LEFETAMINA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">SPA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">(-)-N,N-dimetil-1,2-difeniletilamina</p>
+<p>7-cloro-5-(o-fluorofenil) 1,3-dihidro-1-metil-2H-1,4 benzodiacepín-2-ona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">36 LOFLAZEPATO DE ETILO</p>
+<p>30 FLURAZEPAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7-cloro-5-(o-fluorofenil) 2,3- dihidro-2 oxo-1H-1,4 benzodiacepín-3-carboxilato de etilo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">37 LOPRAZOLAM</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6-(o-clorofenil)-2,4-dihidro-2-[(4metil-1-piperacinil) metileno]-8-nitro-1H-imidazo[1,2-α] [1,4] benzodiacepín-1-ona</p>
+<p>7cloro-1-(ciclopropilmetil)-1,3 -dihidro-5-fenil-2H-1,4 benzodiazepin-2-ona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">38 LORAZEPAM</p>
+<p>31 HALAZEPAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7-cloro-5(o-clorofenil)-1,3-dihidro-3-hidroxi-2H-1,4 benzodiacepín-2-ona</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">39 LORMETAZEPAM</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7-cloro-5-(o-clorofenil)-1,3-dihidro-3-hidroxi-1-metil-2H-1,4 benzodiacepín-2-ona</p>
+<p>7 -cloro-1,3 dihidro-5-fenil-1-(2,2,2 trifluoroetil)-2H-1,4 benzodiacepín-2-ona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">40 MAZINDOL</p>
+<p>32 HALOXAZOLAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5-(p-Clorofenil)-2,5-dihidro-3H-imidazo(2-1-α)-isoindol-5-ol</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">41 MEDAZEPAM</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7-cloro-2,3-dihidro-1-metil-5-fenil-1H-1,4 benzodiacepina</p>
+<p>10-bromo-11b-(o-fluorofenil)-2,3,7,11b tetrahidro-oxazolo [3,2-d] [1,4] benzodiacepín-6 (5H)-ona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">42 MEFERONEX</p>
+<p>33 KETAMINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">dl-N-(3-cloropropil)-alfa-metilfenetilamina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">43 MEPROBRAMATO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Dicarbamato de 2-metil-2-propil-1-3-propanodiol</p>
+<p>(RS)-2-(2-clorofenyl)-2-(metilamino)ciclohexan-1-ona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">44 MESOCARBO</p>
+<p>34 KETAZOLAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">[imina de 3-(alfa-metilfenetil)-N-(fenilcarbamoil) sidnona]</p>
+<p>11-cloro-8,12b-dihidro-2,8 dimetil-12b-fenil-4H-[1,3]-oxazino-[3,2-d] [1,4]benzodiacepín-4,7 (6H)-diona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45 METILFENOBARBITAL</p>
+<p>35 LEFETAMINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p>SPA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ácido 5-etil-1-metil-5-fenilbarbitúrico</p>
+<p>(-)-N,N-dimetil-1,2-difeniletilamina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">46 METIPRILONA</p>
+<p>36 LOFLAZEPATO DE ETILO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3,3-dietil-5-metil-2,4-piperidino-diona</p>
+<p>7-cloro-5-(o-fluorofenil) 2,3- dihidro-2 oxo-1H-1,4 benzodiacepín-3-carboxilato de etilo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">47 MIDAZOLAM</p>
+<p>37 LOPRAZOLAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">8-cloro-6-(o-fluorofenil)-1-metil-4H-imidazo [1,5-α][1,4]benzodiazepina</p>
+<p>6-(o-clorofenil)-2,4-dihidro-2-[(4metil-1-piperacinil) metileno]-8-nitro-1H-imidazo[1,2-α] [1,4] benzodiacepín-1-ona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">48 NIMETAZEPAM</p>
+<p>38 LORAZEPAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,3 dihidro-1-metil-7-nitro-5-fenil-2H-1,4 benzodiacepín-2-ona</p>
+<p>7-cloro-5(o-clorofenil)-1,3-dihidro-3-hidroxi-2H-1,4 benzodiacepín-2-ona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">49 NITRAZEPAM</p>
+<p>39 LORMETAZEPAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,3 dihidro-7-nitro-5-fenil-2H-1,4 benzodiacepín-2-ona</p>
+<p>7-cloro-5-(o-clorofenil)-1,3-dihidro-3-hidroxi-1-metil-2H-1,4 benzodiacepín-2-ona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50 NORDAZEPAM</p>
+<p>40 MAZINDOL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">DESMETILDIAZEPAM</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7-cloro-1,3 dihidro-5-fenil-2H-1,4 benzodiacepín-2-ona</p>
+<p>5-(p-Clorofenil)-2,5-dihidro-3H-imidazo(2-1-α)-isoindol-5-ol</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">51 OXAZEPAM</p>
+<p>41 MEDAZEPAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7-cloro-1,3 dihidro-3-hidroxi-5fenil-2H-1,4 benzodiacepín-2-ona</p>
+<p>7-cloro-2,3-dihidro-1-metil-5-fenil-1H-1,4 benzodiacepina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">52 OXAZOLAM</p>
+<p>42 MEFERONEX</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">10-cloro-2,3,7,11b-tetrahidro-2-metil-11b-feniloxazol[3,2-2][1,4]benzodiacepín-6(5H)-ona</p>
+<p>dl-N-(3-cloropropil)-alfa-metilfenetilamina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">53 PEMOLINA</p>
+<p>43 MEPROBRAMATO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2-amino-5-fenil-2-oxazolin-4-ona</p>
+<p>Dicarbamato de 2-metil-2-propil-1-3-propanodiol</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">54 PINAZEPAM</p>
+<p>44 MESOCARBO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7-cloro-1,3 dihidro-5-fenil-1-(2-propinil)-2H-1,4 benzodiacepín-2-ona</p>
+<p>[imina de 3-(alfa-metilfenetil)-N-(fenilcarbamoil) sidnona]</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">55 PIPRADOL</p>
+<p>45 METILFENOBARBITAL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,1-difenil-1-(2-piperidil) metanol.</p>
+<p>Ácido 5-etil-1-metil-5-fenilbarbitúrico</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">56 PIROVALERONA</p>
+<p>46 METIPRILONA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">dl-1-(4-metilfenil)-2-(1-pirolidinil)-1-pentanona</p>
+<p>3,3-dietil-5-metil-2,4-piperidino-diona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">57 PRAZEPAM</p>
+<p>47 MIDAZOLAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7-cloro-1-(ciclopropilmetil)-1,3 dihidro-5-fenil-2H-1,4 benzodiacepín-2-ona</p>
+<p>8-cloro-6-(o-fluorofenil)-1-metil-4H-imidazo [1,5-α][1,4]benzodiazepina</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">58 SECBUTABARBITAL</p>
+<p>48 NIMETAZEPAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ácido 5-sec-butil-5-etilbarbitúrico</p>
+<p>1,3 dihidro-1-metil-7-nitro-5-fenil-2H-1,4 benzodiacepín-2-ona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">59 TEMAZEPAM</p>
+<p>49 NITRAZEPAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7-cloro-1,3 dihidro-3-hidroxi-1-metil-5-fenil-2H-1,4 benzodiacepín-2-ona</p>
+<p>1,3 dihidro-7-nitro-5-fenil-2H-1,4 benzodiacepín-2-ona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">60 TETRAZEPAM</p>
+<p>50 NORDAZEPAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p>DESMETILDIAZEPAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7-cloro-5-(1-ciclohexen-1-il)-1,3 dihidro-1-metil-2H-1,4 benzodiacepín-2-ona</p>
+<p>7-cloro-1,3 dihidro-5-fenil-2H-1,4 benzodiacepín-2-ona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">61 TRIAZOLAM</p>
+<p>51 OXAZEPAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">8-cloro-6-(o-clorofenil)-1-metil-4H-s-triazolo-[4,3-α][1,4]benzodiacepina</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">62 VINILBITAL</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ácido 5-[1-metilbutil]-5-vinilbarbitúrico</p>
+<p>7-cloro-1,3 dihidro-3-hidroxi-5fenil-2H-1,4 benzodiacepín-2-ona</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">63 ZOLPIDEM</p>
+<p>52 OXAZOLAM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">[N,N,6-trimetil-2-p-tolilimidazol (1,2-α)piridina-3-acetamida]</p>
+<p>10-cloro-2,3,7,11b-tetrahidro-2-metil-11b-feniloxazol[3,2-2][1,4]benzodiacepín-6(5H)-ona</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">64 FLUALPRAZOLAM</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(8-cloro-6-(2-fluorofenil)-1-metil-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4] diazepina)</td>
+<td>
+<p>53 PEMOLINA</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2-amino-5-fenil-2-oxazolin-4-ona</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">65 ETIZOLAM</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(4-(2-clorofenil)-2-etil-9-metil-6H-tieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepina)</td>
+<td>
+<p>54 PINAZEPAM</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>7-cloro-1,3 dihidro-5-fenil-1-(2-propinil)-2H-1,4 benzodiacepín-2-ona</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">66 CLONAZOLAM</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(6-(2-clorofenil)-1-metil-8-nitro-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepina</td>
+<td>
+<p>55 PIPRADOL</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1,1-difenil-1-(2-piperidil) metanol.</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">67 DICLAZEPAM</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(7-cloro-5-(2-clorofenil)-1-metil-1,3-dihidro-2H-benzo[e][1,4]diazepin2ona)</td>
+<td>
+<p>56 PIROVALERONA</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>dl-1-(4-metilfenil)-2-(1-pirolidinil)-1-pentanona</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">68 FLUBROMAZOLAM</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(8-bromo-6-(2-fluorofenil)-1-metil-4H-enzo[f][1,2,4]triazolo[4,3- a][1,4]diazepina)</td>
+<td>
+<p>57 PRAZEPAM</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>7-cloro-1-(ciclopropilmetil)-1,3 dihidro-5-fenil-2H-1,4 benzodiacepín-2-ona</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">69 REMIMAZOLAM</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>
+<p>58 SECBUTABARBITAL</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>ácido 5-sec-butil-5-etilbarbitúrico</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">70 BROMAZOLAM</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">(8-bromo-1-metil-6-fenil-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiacepina)</td>
+<td>
+<p>59 TEMAZEPAM</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>7-cloro-1,3 dihidro-3-hidroxi-1-metil-5-fenil-2H-1,4 benzodiacepín-2-ona</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">71 carisoprodol</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">[(2RS<span class="no_partir">)-2-[(</span><span class="no_partir">c</span>arbamoiloxi) met<span class="no_partir">il</span><span class="no_partir">]-2-</span><span class="no_partir">m</span>etilpentil (<span class="no_partir">1-</span><span class="no_partir">m</span>etiletil)carbamato]</td>
+<td>
+<p>60 TETRAZEPAM</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>7-cloro-5-(1-ciclohexen-1-il)-1,3 dihidro-1-metil-2H-1,4 benzodiacepín-2-ona</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>61 TRIAZOLAM</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>8-cloro-6-(o-clorofenil)-1-metil-4H-s-triazolo-[4,3-α][1,4]benzodiacepina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>62 VINILBITAL</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>ácido 5-[1-metilbutil]-5-vinilbarbitúrico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>63 ZOLPIDEM</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>[N,N,6-trimetil-2-p-tolilimidazol (1,2-α)piridina-3-acetamida]</p>
+</td>
+</tr>
+<tr>
+<td>64 FLUALPRAZOLAM</td>
+<td> </td>
+<td>(8-cloro-6-(2-fluorofenil)-1-metil-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4] diazepina)</td>
+</tr>
+<tr>
+<td>65 ETIZOLAM</td>
+<td> </td>
+<td>(4-(2-clorofenil)-2-etil-9-metil-6H-tieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepina)</td>
+</tr>
+<tr>
+<td>66 CLONAZOLAM</td>
+<td> </td>
+<td>(6-(2-clorofenil)-1-metil-8-nitro-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepina</td>
+</tr>
+<tr>
+<td>67 DICLAZEPAM</td>
+<td> </td>
+<td>(7-cloro-5-(2-clorofenil)-1-metil-1,3-dihidro-2H-benzo[e][1,4]diazepin2ona)</td>
+</tr>
+<tr>
+<td>68 FLUBROMAZOLAM</td>
+<td> </td>
+<td>(8-bromo-6-(2-fluorofenil)-1-metil-4H-enzo[f][1,2,4]triazolo[4,3- a][1,4]diazepina)</td>
+</tr>
+<tr>
+<td>69 REMIMAZOLAM</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>70 BROMAZOLAM</td>
+<td> </td>
+<td>(8-bromo-1-metil-6-fenil-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiacepina)</td>
+</tr>
+<tr>
+<td>71 carisoprodol</td>
+<td> </td>
+<td>[(2RS<span>)-2-[(</span><span>c</span>arbamoiloxi) met<span>il</span><span>]-2-</span><span>m</span>etilpentil (<span>1-</span><span>m</span>etiletil)carbamato]</td>
 </tr>
 </tbody>
 </table>

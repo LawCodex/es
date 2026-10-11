@@ -696,1109 +696,1103 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 
 ## ANEXO — Relación de bienes a los que se refiere el artículo 6
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-<col class="row_column_4">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_5">
+<tr>
 <td> </td>
 <td>
-<p class="cabeza_tabla">Nombre del producto</p>
+<p>Nombre del producto</p>
 </td>
 <td>
-<p class="cabeza_tabla">Descripción del bien/producto</p>
+<p>Descripción del bien/producto</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código NC</p>
+<p>Código NC</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td rowspan="4">
-<p class="cuerpo_tabla_izq">Productos sanitarios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Respiradores para cuidados intensivos y subintensivos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9019 20 00</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_izq">Ventiladores (aparatos para la respiración artificial)</p>
-<p class="cuerpo_tabla_izq">Divisores de flujo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9019 20 00</p>
-<p class="cuerpo_tabla_izq">ex 9019 20</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Otros aparatos de oxigenoterapia, incluidas las tiendas de oxígeno.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9019 20 00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Oxigenación por membrana extracorpórea.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9019 20 00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Monitores.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Monitores multiparámetro, incluyendo versiones portátiles.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 8528 52 91</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">ex 8528 52 99</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_izq">ex 8528 59 00</p>
-<p class="cuerpo_tabla_izq">ex 8528 52 10</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td rowspan="4">
-<p class="cuerpo_tabla_centro">3</p>
+<p>1</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Bombas.</p>
+<p>Productos sanitarios.</p>
+</td>
+<td>
+<p>Respiradores para cuidados intensivos y subintensivos.</p>
+</td>
+<td>
+<p>ex 9019 20 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ventiladores (aparatos para la respiración artificial)</p>
+<p>Divisores de flujo.</p>
+</td>
+<td>
+<p>ex 9019 20 00</p>
+<p>ex 9019 20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Otros aparatos de oxigenoterapia, incluidas las tiendas de oxígeno.</p>
+</td>
+<td>
+<p>ex 9019 20 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Oxigenación por membrana extracorpórea.</p>
+</td>
+<td>
+<p>ex 9019 20 00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>2</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">– Bombas peristálticas para nutrición externa</p>
-<p class="cuerpo_tabla_izq">– Bombas infusión medicamentos</p>
-<p class="cuerpo_tabla_izq">– Bombas de succión.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9018 90 50</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">ex 9018 90 84</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">ex 8413 81 00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Sondas de aspiración.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9018 90 50</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">4</p>
+<p>Monitores.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Tubos.</p>
+<p>Monitores multiparámetro, incluyendo versiones portátiles.</p>
+</td>
+<td>
+<p>ex 8528 52 91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ex 8528 52 99</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ex 8528 59 00</p>
+<p>ex 8528 52 10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>3</p>
+</td>
+<td rowspan="4">
+<p>Bombas.</p>
+</td>
+<td rowspan="3">
+<p>– Bombas peristálticas para nutrición externa</p>
+<p>– Bombas infusión medicamentos</p>
+<p>– Bombas de succión.</p>
+</td>
+<td>
+<p>ex 9018 90 50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ex 9018 90 84</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ex 8413 81 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sondas de aspiración.</p>
+</td>
+<td>
+<p>ex 9018 90 50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>4</p>
+</td>
+<td rowspan="3">
+<p>Tubos.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Tubos endotraqueales;.</p>
+<p>Tubos endotraqueales;.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 9018 90 60</p>
+<p>ex 9018 90 60</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">ex 9019 20 00</p>
+<p>ex 9019 20 00</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Tubos estériles.</p>
+<p>Tubos estériles.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 3917 21 10</p>
-<p class="cuerpo_tabla_izq">a ex 3917 39</p>
-<p class="cuerpo_tabla_izq">00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cascos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cascos ventilación mecánica no invasiva CPAP/NIV;.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9019 20 00</p>
+<p>ex 3917 21 10</p>
+<p>a ex 3917 39</p>
+<p>00</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mascarillas para ventilación no invasiva (NIV).</p>
+<p>Cascos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mascarillas de rostro completo y orononasales para ventilación no invasiva.</p>
+<p>Cascos ventilación mecánica no invasiva CPAP/NIV;.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 9019 20 00</p>
+<p>ex 9019 20 00</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Mascarillas para ventilación no invasiva (NIV).</p>
+</td>
+<td>
+<p>Mascarillas de rostro completo y orononasales para ventilación no invasiva.</p>
+</td>
+<td>
+<p>ex 9019 20 00</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">7</p>
+<p>7</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Sistemas/máquinas de succión.</p>
+<p>Sistemas/máquinas de succión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sistemas de succión.</p>
+<p>Sistemas de succión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 9019 20 00</p>
+<p>ex 9019 20 00</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Máquinas de succión eléctrica.</p>
+<p>Máquinas de succión eléctrica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 9019 20 00</p>
-<p class="cuerpo_tabla_izq">ex 8543 70 90</p>
+<p>ex 9019 20 00</p>
+<p>ex 8543 70 90</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">8</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Humidificadores.</p>
+<p>8</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Humidificadores.</p>
+<p>Humidificadores.</p>
+</td>
+<td rowspan="3">
+<p>Humidificadores.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 8415</p>
+<p>ex 8415</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">ex 8509 80 00</p>
+<p>ex 8509 80 00</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">ex 8479 89 97</p>
+<p>ex 8479 89 97</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Laringoscopios.</p>
+<p>Laringoscopios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Laringoscopios.</p>
+<p>Laringoscopios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 9018 90 20</p>
+<p>ex 9018 90 20</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td rowspan="5">
-<p class="cuerpo_tabla_izq">Suministros médicos fungibles.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Kits de intubación</p>
-<p class="cuerpo_tabla_izq">– Tijeras laparoscópicas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9018 90</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Jeringas, con o sin aguja.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9018 31</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Agujas metálicas tubulares y agujas para suturas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9018 32</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Agujas, catéteres, cánulas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9018 39</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Kits de acceso vascular.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9018 90 84</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">11</p>
-</td>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Estaciones de monitorización Aparatos de monitorización de pacientes-Aparatos de electrodiagnóstico.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Estaciones centrales de monitorización para cuidados intensivos</p>
-<p class="cuerpo_tabla_izq">Oxímetros de pulso.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9018 90</p>
-<p class="cuerpo_tabla_izq">ex 9018 19</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_izq">– Dispositivos de monitorización de pacientes</p>
-<p class="cuerpo_tabla_izq">– Aparatos de electrodiagnóstico.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9018 19 10</p>
-<p class="cuerpo_tabla_izq">ex 9018 19 90</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Escáner de ultrasonido portátil.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Escáner de ultrasonido portátil.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9018 12 00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Electrocardiógrafos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Electrocardiógrafos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9018 11 00</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_centro">14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sistemas de tomografía computerizada/escáneres.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sistemas de tomografía computerizada.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9022 12,</p>
-<p class="cuerpo_tabla_izq">ex 9022 14 00</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td rowspan="4">
-<p class="cuerpo_tabla_centro">15</p>
-</td>
-<td rowspan="4">
-<p class="cuerpo_tabla_izq">Mascarillas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Mascarillas faciales textiles, sin filtro reemplazable ni piezas mecánicas, incluidas las mascarillas quirúrgicas y las mascarillas faciales desechables fabricadas con material textil no tejido.</p>
-<p class="cuerpo_tabla_izq">– Mascarillas faciales FFP2 y FFP3.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 6307 90 10</p>
-<p class="cuerpo_tabla_izq">ex 6307 90 98</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Mascarillas quirúrgicas de papel.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 4818 90 10</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">ex 4818 90 90</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Máscaras de gas con piezas mecánicas o filtros reemplazables para la protección contra agentes biológicos. También incluye máscaras que incorporen protección ocular o escudos faciales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9020 00 00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td rowspan="5">
-<p class="cuerpo_tabla_centro">16</p>
+<p>10</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">Guantes.</p>
+<p>Suministros médicos fungibles.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guantes de plástico.</p>
+<p>– Kits de intubación</p>
+<p>– Tijeras laparoscópicas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 3926 20 00</p>
+<p>ex 9018 90</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Guantes de goma quirúrgicos.</p>
+<p>Jeringas, con o sin aguja.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4015 11 00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Otros guantes de goma.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 4015 19 00</p>
+<p>ex 9018 31</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Guantes de calcetería impregnados o cubiertos de plástico o goma.</p>
+<p>Agujas metálicas tubulares y agujas para suturas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 6116 10</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Guantes textiles distintos a los de calcetería.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 6216 00</p>
+<p>ex 9018 32</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">17</p>
+<p>Agujas, catéteres, cánulas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Protecciones faciales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Protectores faciales desechables y reutilizables</p>
-<p class="cuerpo_tabla_izq">– Protectores faciales de plástico (que cubran una superficie mayor que la ocular).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 3926 20 00</p>
-<p class="cuerpo_tabla_izq">ex 3926 90 97</p>
+<p>ex 9018 39</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>Kits de acceso vascular.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gafas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Gagas de protección grandes y pequeñas (googles).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9004 90 10</p>
-<p class="cuerpo_tabla_izq">ex 9004 90 90</p>
+<p>ex 9018 90 84</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
+<td rowspan="2">
+<p>11</p>
+</td>
+<td rowspan="2">
+<p>Estaciones de monitorización Aparatos de monitorización de pacientes-Aparatos de electrodiagnóstico.</p>
+</td>
+<td>
+<p>Estaciones centrales de monitorización para cuidados intensivos</p>
+<p>Oxímetros de pulso.</p>
+</td>
+<td>
+<p>ex 9018 90</p>
+<p>ex 9018 19</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Dispositivos de monitorización de pacientes</p>
+<p>– Aparatos de electrodiagnóstico.</p>
+</td>
+<td>
+<p>ex 9018 19 10</p>
+<p>ex 9018 19 90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>Escáner de ultrasonido portátil.</p>
+</td>
+<td>
+<p>Escáner de ultrasonido portátil.</p>
+</td>
+<td>
+<p>ex 9018 12 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>Electrocardiógrafos.</p>
+</td>
+<td>
+<p>Electrocardiógrafos.</p>
+</td>
+<td>
+<p>ex 9018 11 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>Sistemas de tomografía computerizada/escáneres.</p>
+</td>
+<td>
+<p>Sistemas de tomografía computerizada.</p>
+</td>
+<td>
+<p>ex 9022 12,</p>
+<p>ex 9022 14 00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>15</p>
+</td>
+<td rowspan="4">
+<p>Mascarillas.</p>
+</td>
+<td>
+<p>– Mascarillas faciales textiles, sin filtro reemplazable ni piezas mecánicas, incluidas las mascarillas quirúrgicas y las mascarillas faciales desechables fabricadas con material textil no tejido.</p>
+<p>– Mascarillas faciales FFP2 y FFP3.</p>
+</td>
+<td>
+<p>ex 6307 90 10</p>
+<p>ex 6307 90 98</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Mascarillas quirúrgicas de papel.</p>
+</td>
+<td>
+<p>ex 4818 90 10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ex 4818 90 90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Máscaras de gas con piezas mecánicas o filtros reemplazables para la protección contra agentes biológicos. También incluye máscaras que incorporen protección ocular o escudos faciales.</p>
+</td>
+<td>
+<p>ex 9020 00 00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>16</p>
+</td>
+<td rowspan="5">
+<p>Guantes.</p>
+</td>
+<td>
+<p>Guantes de plástico.</p>
+</td>
+<td>
+<p>ex 3926 20 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Guantes de goma quirúrgicos.</p>
+</td>
+<td>
+<p>4015 11 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Otros guantes de goma.</p>
+</td>
+<td>
+<p>ex 4015 19 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Guantes de calcetería impregnados o cubiertos de plástico o goma.</p>
+</td>
+<td>
+<p>ex 6116 10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Guantes textiles distintos a los de calcetería.</p>
+</td>
+<td>
+<p>ex 6216 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>Protecciones faciales.</p>
+</td>
+<td>
+<p>– Protectores faciales desechables y reutilizables</p>
+<p>– Protectores faciales de plástico (que cubran una superficie mayor que la ocular).</p>
+</td>
+<td>
+<p>ex 3926 20 00</p>
+<p>ex 3926 90 97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>Gafas.</p>
+</td>
+<td>
+<p>Gagas de protección grandes y pequeñas (googles).</p>
+</td>
+<td>
+<p>ex 9004 90 10</p>
+<p>ex 9004 90 90</p>
+</td>
+</tr>
+<tr>
 <td rowspan="10">
-<p class="cuerpo_tabla_centro">19</p>
+<p>19</p>
 </td>
 <td rowspan="10">
-<p class="cuerpo_tabla_izq">Monos</p>
-<p class="cuerpo_tabla_izq">Batas impermeables –diversos tipos– diferentes tamaños</p>
-<p class="cuerpo_tabla_izq">Prendas de protección para uso quirúrgico/médico de fieltro o tela sin tejer, incluso impregnadas, recubiertas, revestidas o laminadas (tejidos de las partidas 56.02 o 56.03).</p>
+<p>Monos</p>
+<p>Batas impermeables –diversos tipos– diferentes tamaños</p>
+<p>Prendas de protección para uso quirúrgico/médico de fieltro o tela sin tejer, incluso impregnadas, recubiertas, revestidas o laminadas (tejidos de las partidas 56.02 o 56.03).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ropa (incluyendo guantes, mitones y manoplas) multiuso, de goma vulcanizada.</p>
+<p>Ropa (incluyendo guantes, mitones y manoplas) multiuso, de goma vulcanizada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 4015 90 00</p>
+<p>ex 4015 90 00</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Prendas de vestir.</p>
+<p>Prendas de vestir.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 3926 20 00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Ropa y accesorios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 4818 50 00</p>
+<p>ex 3926 20 00</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Prendas de vestir confeccionadas con tejido de punto de las partidas 5903, 5906 o 5907.</p>
+<p>Ropa y accesorios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 6113 00 10</p>
-<p class="cuerpo_tabla_izq">ex 6113 00 90</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Otras prendas con tejido de calcetería.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6114</p>
+<p>ex 4818 50 00</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Prendas de vestir de protección para uso quirúrgico/médico hechas con fieltro o tela sin tejer, impregnadas o no, recubiertas, revestidas o laminadas (tejidos de las partidas 56.02 o 56.03). Incluya las prendas de materiales no tejidos («spun-bonded»).</p>
+<p>Prendas de vestir confeccionadas con tejido de punto de las partidas 5903, 5906 o 5907.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 6210 10</p>
+<p>ex 6113 00 10</p>
+<p>ex 6113 00 90</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td>
+<p>Otras prendas con tejido de calcetería.</p>
+</td>
+<td>
+<p>6114</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Prendas de vestir de protección para uso quirúrgico/médico hechas con fieltro o tela sin tejer, impregnadas o no, recubiertas, revestidas o laminadas (tejidos de las partidas 56.02 o 56.03). Incluya las prendas de materiales no tejidos («spun-bonded»).</p>
+</td>
+<td>
+<p>ex 6210 10</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Otras prendas de vestir de protección hechas con tejidos cauchutados o impregnados, recubiertos, revestidos o laminados (tejidos de las partidas 59.03, 59.06 o 59.07)-.</p>
+<p>Otras prendas de vestir de protección hechas con tejidos cauchutados o impregnados, recubiertos, revestidos o laminados (tejidos de las partidas 59.03, 59.06 o 59.07)-.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 6210 20</p>
+<p>ex 6210 20</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">ex 6210 30</p>
+<p>ex 6210 30</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">ex 6210 40</p>
+<p>ex 6210 40</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">ex 6210 50</p>
+<p>ex 6210 50</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Cobertores de calzado/calzas.</p>
+<p>20</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Cobertores de calzado/calzas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 3926 90 97</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">ex 4818 90</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">ex 6307 90 98</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">21</p>
+<p>Cobertores de calzado/calzas.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Gorros.</p>
+<p>Cobertores de calzado/calzas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gorras de picos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 6505 00 30</p>
+<p>ex 3926 90 97</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Gorros y otras protecciones para la cabeza y redecillas de cualquier material.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 6505 00 90</p>
+<p>ex 4818 90</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Los restantes gorros y protecciones para la cabeza, forrados/ajustados o no.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 6506</p>
+<p>ex 6307 90 98</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td rowspan="3">
+<p>21</p>
+</td>
+<td rowspan="3">
+<p>Gorros.</p>
+</td>
+<td>
+<p>Gorras de picos.</p>
+</td>
+<td>
+<p>ex 6505 00 30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gorros y otras protecciones para la cabeza y redecillas de cualquier material.</p>
+</td>
+<td>
+<p>ex 6505 00 90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Los restantes gorros y protecciones para la cabeza, forrados/ajustados o no.</p>
+</td>
+<td>
+<p>ex 6506</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">22</p>
+<p>22</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Termómetros.</p>
+<p>Termómetros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Termómetros de líquido para lectura directa.</p>
+<p>Termómetros de líquido para lectura directa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 9025 11 20</p>
+<p>ex 9025 11 20</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Termómetros digitales, o termómetros infrarrojos para medición sobre la frente.</p>
+<p>Termómetros digitales, o termómetros infrarrojos para medición sobre la frente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 9025 19 00</p>
+<p>ex 9025 19 00</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td rowspan="6">
-<p class="cuerpo_tabla_centro">23</p>
+<p>23</p>
 </td>
 <td rowspan="6">
-<p class="cuerpo_tabla_izq">Jabón para el lavado de manos.</p>
+<p>Jabón para el lavado de manos.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Jabón y productos orgánicos tensioactivos y preparados para el lavado de manos (jabón de tocador).</p>
+<p>Jabón y productos orgánicos tensioactivos y preparados para el lavado de manos (jabón de tocador).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 3401 11 00</p>
+<p>ex 3401 11 00</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">ex 3401 19 00</p>
+<p>ex 3401 19 00</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Jabón y productos orgánicos tensioactivos</p>
-<p class="cuerpo_tabla_izq">Jabón en otras formas.</p>
+<p>Jabón y productos orgánicos tensioactivos</p>
+<p>Jabón en otras formas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 3401 20 10</p>
+<p>ex 3401 20 10</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">ex 3401 20 90</p>
+<p>ex 3401 20 90</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Agentes orgánicos tensioactivos (distintos del jabón)-Catiónicos.</p>
+<p>Agentes orgánicos tensioactivos (distintos del jabón)-Catiónicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 3402 12</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Productos y preparaciones orgánicos tensioactivos para el lavado de la piel, en forma de líquido o crema y preparados para la venta al por menor, que contengan jabón o no.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 3401 30 00</p>
+<p>ex 3402 12</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>Productos y preparaciones orgánicos tensioactivos para el lavado de la piel, en forma de líquido o crema y preparados para la venta al por menor, que contengan jabón o no.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dispensadores de desinfectante para manos instalables en pared.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Dispensadores de desinfectante para manos instalables en pared.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 8479 89 97</p>
+<p>ex 3401 30 00</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>Dispensadores de desinfectante para manos instalables en pared.</p>
+</td>
+<td>
+<p>Dispensadores de desinfectante para manos instalables en pared.</p>
+</td>
+<td>
+<p>ex 8479 89 97</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td rowspan="4">
-<p class="cuerpo_tabla_izq">Solución hidroalcohólica en litros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2207 10: sin desnaturalizar, con Vol. alcohol etílico del 80% o más.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 2207 10 00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">2207 20: desnaturalizado, de cualquier concentración.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 2207 20 00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">2208 90: sin desnaturalizar, con Vol. Inferior al 80% de alcohol etílico.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 2208 90 91</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">ex 2208 90 99</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td rowspan="4">
-<p class="cuerpo_tabla_centro">26</p>
+<p>25</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Peróxido de hidrógeno al 3% en litros.</p>
-<p class="cuerpo_tabla_izq">Peróxido de hidrógeno incorporado a preparados desinfectantes para la limpieza de superficies.</p>
+<p>Solución hidroalcohólica en litros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Peróxido de hidrógeno, solidificado o no con urea.</p>
+<p>2207 10: sin desnaturalizar, con Vol. alcohol etílico del 80% o más.</p>
 </td>
+<td>
+<p>ex 2207 10 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2207 20: desnaturalizado, de cualquier concentración.</p>
+</td>
+<td>
+<p>ex 2207 20 00</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">ex 2847 00 00</p>
+<p>2208 90: sin desnaturalizar, con Vol. Inferior al 80% de alcohol etílico.</p>
+</td>
+<td>
+<p>ex 2208 90 91</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Peróxido de hidrógeno a granel.</p>
+<p>ex 2208 90 99</p>
 </td>
 </tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Desinfectante para manos.</p>
-</td>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">ex 3808 94</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Otros preparados desinfectantes.</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">27</p>
-</td>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Transportines de emergencia.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Transporte para personas con discapacidad (sillas de ruedas).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 8713</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_izq">Camillas y carritos para el traslado de pacientes dentro de los hospitales o clínicas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9402 90 00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">28</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Extractores ARN.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Extractores ARN.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">9027 80</p>
-</td>
-</tr>
-<tr class="row_column_9">
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">29</p>
+<p>26</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Kits de pruebas para el COVID-19 / Instrumental y aparatos utilizados en las pruebas diagnósticas.</p>
+<p>Peróxido de hidrógeno al 3% en litros.</p>
+<p>Peróxido de hidrógeno incorporado a preparados desinfectantes para la limpieza de superficies.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Kits de prueba diagnóstica del Coronavirus</p>
-<p class="cuerpo_tabla_izq">– Reactivos de diagnóstico basados en reacciones inmunológicas</p>
-<p class="cuerpo_tabla_izq">– Equipo de hisopos y medio de transporte viral.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 3002 13 00</p>
-<p class="cuerpo_tabla_izq">ex 3002 14 00</p>
-<p class="cuerpo_tabla_izq">ex 3002 15 00</p>
-<p class="cuerpo_tabla_izq">ex 3002 90 90</p>
-<p class="cuerpo_tabla_izq">ex 3821 00</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_izq">Reactivos de diagnóstico basados en la reacción en cadena de la polimerasa (PCR) prueba del ácido nucleico.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 3822 00 00</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_izq">Instrumental utilizado en los laboratorios clínicos para el diagnóstico in vitro.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9027 80 80</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_izq">Kits para muestras.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9018 90</p>
-<p class="cuerpo_tabla_izq">ex 9027 80</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">30</p>
+<p>Peróxido de hidrógeno, solidificado o no con urea.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Hisopos.</p>
+<p>ex 2847 00 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Peróxido de hidrógeno a granel.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Desinfectante para manos.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Guata, gasa, vendas, bastoncillos de algodón y artículos similares.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 3005 90 10</p>
+<p>ex 3808 94</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">ex 3005 90 99</p>
+<p>Otros preparados desinfectantes.</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td rowspan="2">
+<p>27</p>
+</td>
+<td rowspan="2">
+<p>Transportines de emergencia.</p>
+</td>
+<td>
+<p>Transporte para personas con discapacidad (sillas de ruedas).</p>
+</td>
+<td>
+<p>ex 8713</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Camillas y carritos para el traslado de pacientes dentro de los hospitales o clínicas.</p>
+</td>
+<td>
+<p>ex 9402 90 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>28</p>
+</td>
+<td>
+<p>Extractores ARN.</p>
+</td>
+<td>
+<p>Extractores ARN.</p>
+</td>
+<td>
+<p>9027 80</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>29</p>
+</td>
+<td rowspan="4">
+<p>Kits de pruebas para el COVID-19 / Instrumental y aparatos utilizados en las pruebas diagnósticas.</p>
+</td>
+<td>
+<p>– Kits de prueba diagnóstica del Coronavirus</p>
+<p>– Reactivos de diagnóstico basados en reacciones inmunológicas</p>
+<p>– Equipo de hisopos y medio de transporte viral.</p>
+</td>
+<td>
+<p>ex 3002 13 00</p>
+<p>ex 3002 14 00</p>
+<p>ex 3002 15 00</p>
+<p>ex 3002 90 90</p>
+<p>ex 3821 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Reactivos de diagnóstico basados en la reacción en cadena de la polimerasa (PCR) prueba del ácido nucleico.</p>
+</td>
+<td>
+<p>ex 3822 00 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Instrumental utilizado en los laboratorios clínicos para el diagnóstico in vitro.</p>
+</td>
+<td>
+<p>ex 9027 80 80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Kits para muestras.</p>
+</td>
+<td>
+<p>ex 9018 90</p>
+<p>ex 9027 80</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>30</p>
+</td>
+<td rowspan="2">
+<p>Hisopos.</p>
+</td>
+<td rowspan="2">
+<p>Guata, gasa, vendas, bastoncillos de algodón y artículos similares.</p>
+</td>
+<td>
+<p>ex 3005 90 10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ex 3005 90 99</p>
+</td>
+</tr>
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">31</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Material para la instalación de hospitales de campaña.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Camas hospitalarias.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9402 90 00</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_izq">Carpas/tiendas de campaña.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 6306 22 00,</p>
-<p class="cuerpo_tabla_izq">ex 6306 29 00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Carpas/tiendas de campaña de plástico.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 3926 90 97</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_centro">32</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Medicinas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Remdesivir</p>
-<p class="cuerpo_tabla_izq">– Dexametasona.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 2934 99 90</p>
-<p class="cuerpo_tabla_izq">ex 2937 22 00</p>
-<p class="cuerpo_tabla_izq">ex 3003 39 00</p>
-<p class="cuerpo_tabla_izq">ex 3003 90 00</p>
-<p class="cuerpo_tabla_izq">ex 3004 32 00</p>
-<p class="cuerpo_tabla_izq">ex 3004 90 00</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_centro">33</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Esterilizadores médicos, quirúrgicos o de laboratorio.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Esterilizadores médicos, quirúrgicos o de laboratorio.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 8419 20 00</p>
-<p class="cuerpo_tabla_izq">ex 8419 90 15</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_centro">34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1- propanol (alcohol propílico) y 2 – propanol (alcohol isopropílico).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1- propanol (alcohol propílico) y 2 – propanol (alcohol isopropílico).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 2905 12 00</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Éteres, éteres-alcoholes, éteres fenoles, éteres-alcohol-fenoles, peróxidos de alcohol, otros peróxidos, peróxidos de cetona.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Éteres, éteres-alcoholes, éteres fenoles, éteres-alcohol-fenoles, peróxidos de alcohol, otros peróxidos, peróxidos de cetona.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 2909</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_centro">36</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ácido fórmico.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ácido fórmico (y sales derivadas).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 2915 11 00</p>
-<p class="cuerpo_tabla_izq">ex 2915 12 00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">37</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ácido salicílico.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ácido salicílico y sales derivadas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 2918 21 00</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Paños de un solo uso hechos de tejidos de la partida 5603, del tipo utilizado durante los procedimientos quirúrgicos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Paños de un solo uso hechos de tejidos de la partida 5603, del tipo utilizado durante los procedimientos quirúrgicos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6307 90 92</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">39</p>
-</td>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Telas no tejidas, estén o no impregnadas, recubiertas, revestidas o laminadas.</p>
-</td>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Telas no tejidas, estén o no impregnadas, recubiertas, revestidas o laminadas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 5603 11 10</p>
-<p class="cuerpo_tabla_izq">a</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">ex 5603 94 90</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Artículos de uso quirúrgico, médico o higiénico, no destinados a la venta al por menor.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cobertores de cama de papel.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 4818 90</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">41</p>
+<p>31</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Cristalería de laboratorio, higiénica o farmacéutica.</p>
+<p>Material para la instalación de hospitales de campaña.</p>
+</td>
+<td>
+<p>Camas hospitalarias.</p>
+</td>
+<td>
+<p>ex 9402 90 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Carpas/tiendas de campaña.</p>
+</td>
+<td>
+<p>ex 6306 22 00,</p>
+<p>ex 6306 29 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Carpas/tiendas de campaña de plástico.</p>
+</td>
+<td>
+<p>ex 3926 90 97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>32</p>
+</td>
+<td>
+<p>Medicinas.</p>
+</td>
+<td>
+<p>– Remdesivir</p>
+<p>– Dexametasona.</p>
+</td>
+<td>
+<p>ex 2934 99 90</p>
+<p>ex 2937 22 00</p>
+<p>ex 3003 39 00</p>
+<p>ex 3003 90 00</p>
+<p>ex 3004 32 00</p>
+<p>ex 3004 90 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>33</p>
+</td>
+<td>
+<p>Esterilizadores médicos, quirúrgicos o de laboratorio.</p>
+</td>
+<td>
+<p>Esterilizadores médicos, quirúrgicos o de laboratorio.</p>
+</td>
+<td>
+<p>ex 8419 20 00</p>
+<p>ex 8419 90 15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>34</p>
+</td>
+<td>
+<p>1- propanol (alcohol propílico) y 2 – propanol (alcohol isopropílico).</p>
+</td>
+<td>
+<p>1- propanol (alcohol propílico) y 2 – propanol (alcohol isopropílico).</p>
+</td>
+<td>
+<p>ex 2905 12 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>Éteres, éteres-alcoholes, éteres fenoles, éteres-alcohol-fenoles, peróxidos de alcohol, otros peróxidos, peróxidos de cetona.</p>
+</td>
+<td>
+<p>Éteres, éteres-alcoholes, éteres fenoles, éteres-alcohol-fenoles, peróxidos de alcohol, otros peróxidos, peróxidos de cetona.</p>
+</td>
+<td>
+<p>ex 2909</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>Ácido fórmico.</p>
+</td>
+<td>
+<p>Ácido fórmico (y sales derivadas).</p>
+</td>
+<td>
+<p>ex 2915 11 00</p>
+<p>ex 2915 12 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>37</p>
+</td>
+<td>
+<p>Ácido salicílico.</p>
+</td>
+<td>
+<p>Ácido salicílico y sales derivadas.</p>
+</td>
+<td>
+<p>ex 2918 21 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>38</p>
+</td>
+<td>
+<p>Paños de un solo uso hechos de tejidos de la partida 5603, del tipo utilizado durante los procedimientos quirúrgicos.</p>
+</td>
+<td>
+<p>Paños de un solo uso hechos de tejidos de la partida 5603, del tipo utilizado durante los procedimientos quirúrgicos.</p>
+</td>
+<td>
+<p>6307 90 92</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>39</p>
+</td>
+<td rowspan="2">
+<p>Telas no tejidas, estén o no impregnadas, recubiertas, revestidas o laminadas.</p>
+</td>
+<td rowspan="2">
+<p>Telas no tejidas, estén o no impregnadas, recubiertas, revestidas o laminadas.</p>
+</td>
+<td>
+<p>ex 5603 11 10</p>
+<p>a</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ex 5603 94 90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>Artículos de uso quirúrgico, médico o higiénico, no destinados a la venta al por menor.</p>
+</td>
+<td>
+<p>Cobertores de cama de papel.</p>
+</td>
+<td>
+<p>ex 4818 90</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>41</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Cristalería de laboratorio, higiénica o farmacéutica, tanto si están calibrados o graduados o no.</p>
+<p>Cristalería de laboratorio, higiénica o farmacéutica.</p>
+</td>
+<td rowspan="3">
+<p>Cristalería de laboratorio, higiénica o farmacéutica, tanto si están calibrados o graduados o no.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 7017 10 00</p>
+<p>ex 7017 10 00</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">ex 7017 20 00</p>
+<p>ex 7017 20 00</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">ex 7017 90 00</p>
+<p>ex 7017 90 00</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">42</p>
+<p>42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fluxímetro, flujómetro de tubo Thorpe para suministrar oxígeno 0-15 L/min.</p>
+<p>Fluxímetro, flujómetro de tubo Thorpe para suministrar oxígeno 0-15 L/min.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">El flujómetro de tubo Thorpe está compuesto de puertos de entrada y salida, un regulador, una válvula y un tubo de medición cónico transparente. Sirve para conectarlo con varias fuentes de gases médicos, como un sistema centralizado, cilindros (bombonas), concentradores o compresores. Versiones de fluxímetro (flujómetro) ordinario (absoluto, no compensado) y de presión compensada, adecuadas para rangos de flujo específicos.</p>
+<p>El flujómetro de tubo Thorpe está compuesto de puertos de entrada y salida, un regulador, una válvula y un tubo de medición cónico transparente. Sirve para conectarlo con varias fuentes de gases médicos, como un sistema centralizado, cilindros (bombonas), concentradores o compresores. Versiones de fluxímetro (flujómetro) ordinario (absoluto, no compensado) y de presión compensada, adecuadas para rangos de flujo específicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 9026 80 20</p>
-<p class="cuerpo_tabla_izq">ex 9026 80 80</p>
-<p class="cuerpo_tabla_izq">ex 9026 10 21</p>
-<p class="cuerpo_tabla_izq">ex 9026 10 81</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_centro">43</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detector de CO2 colorimétrico de espiración.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tamaño compatible con el tubo endotraqueal de niños y adulto. De un solo uso.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ex 9027 80</p>
+<p>ex 9026 80 20</p>
+<p>ex 9026 80 80</p>
+<p>ex 9026 10 21</p>
+<p>ex 9026 10 81</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td>
+<p>43</p>
+</td>
+<td>
+<p>Detector de CO2 colorimétrico de espiración.</p>
+</td>
+<td>
+<p>Tamaño compatible con el tubo endotraqueal de niños y adulto. De un solo uso.</p>
+</td>
+<td>
+<p>ex 9027 80</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">44</p>
+<p>44</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Película o placas de rayos X.</p>
+<p>Película o placas de rayos X.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plana sensibilizada y sin impresionar.</p>
+<p>Plana sensibilizada y sin impresionar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 3701 10 00</p>
+<p>ex 3701 10 00</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">En rollos</p>
-<p class="cuerpo_tabla_izq">Sensibilizada y sin impresionar.</p>
+<p>En rollos</p>
+<p>Sensibilizada y sin impresionar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ex 3702 10 00</p>
+<p>ex 3702 10 00</p>
 </td>
 </tr>
 </tbody>

@@ -1,0 +1,1281 @@
+---
+title: "Real Decreto 861/2018, de 13 de julio, por el que se establece la normativa básica en materia de declaraciones obligatorias de los sectores del aceite de oliva y las aceitunas de mesa y por el que se modifica el Real Decreto 772/2017, de 28 de julio, por el que se regula el potencial de producción vitícola"
+identifier: "BOE-A-2018-10939"
+eli: "https://www.boe.es/eli/es/rd/2018/07/13/861"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2018-07-13
+published: 2018-08-01
+in_force_from: 2018-08-02
+last_amended: 2025-07-02
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 185"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-10939"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 861/2018, de 13 de julio, por el que se establece la normativa básica en materia de declaraciones obligatorias de los sectores del aceite de oliva y las aceitunas de mesa y por el que se modifica el Real Decreto 772/2017, de 28 de julio, por el que se regula el potencial de producción vitícola
+
+El Reglamento (UE) n.º 1307/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se establecen normas aplicables a los pagos directos a los agricultores en virtud de los regímenes de ayuda incluidos en el marco de la política agrícola común y deroga los Reglamentos (CE) n.º 637/2008 y (CE) n.º 73/2009 del Consejo, y el Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se crea la organización común de mercados de los productos agrarios y deroga los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 y (CE) n.º 1234/2007, disponen –en virtud del artículo 67 del primero y del artículo 223 del segundo– que los Estados miembros notificarán cierta información a la Comisión Europea relativa a la gestión de los regímenes de ayuda y del mercado.
+
+Este marco regulador se perfecciona mediante el Reglamento Delegado (UE) n.º 2017/1183 de la Comisión, de 20 de abril de 2017, por el que se complementan los Reglamentos (UE) n.º 1307/2013 y (UE) 1308/2013 en lo que respecta a la notificación de información y documentos a la Comisión, en cuyo artículo 1 se prevé que las notificaciones serán de aplicación a los sectores enumerados en el artículo 1.2 del Reglamento (UE) n.º 1308/12013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, entre los que se incluye al aceite de oliva y a las aceitunas de mesa.
+
+Asimismo, la normativa de la Unión Europea relativa a las obligaciones de notificación se completa a través del Reglamento de Ejecución (UE) n.º 2017/1185 de la Comisión, de 20 de abril de 2017, por el que se establecen las normas de desarrollo de los Reglamentos (UE) n.º 1307/2013 y (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo en lo que respecta a la notificación de información y documentos a la Comisión y por el que se modifican y derogan diversos Reglamentos de la Comisión.
+
+A este respecto en su considerando n.º 5 se indica que es importante que la información notificada sea pertinente para el mercado de que se trate, exacta y completa, y procede que los Estados miembros pongan en marcha mecanismos para garantizar este extremo, incluidas las medidas necesarias para que los agentes económicos les proporcionen la información exigida dentro de los plazos oportunos.
+
+Abundando en lo anterior, los considerandos n.os 7 y 8 indican, respectivamente, que los Estados miembros pueden notificar información adicional que sea relevante para el mercado más allá de lo exigido por el citado reglamento, y que la información sobre los precios de los productos, la producción y el mercado es necesaria a efectos del seguimiento, el análisis y la gestión del mercado de los productos agrícolas y de la aplicación del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013.
+
+A tales efectos, en el artículo 6 del antecitado Reglamento de Ejecución (UE) n.º 2017/1185 de la Comisión de 20 de abril de 2017, se establecen los requisitos relativos a las notificaciones sobre precios, producciones y situación del mercado.
+
+Por otro lado, debe señalarse que la transparencia de los mercados constituye un elemento fundamental para su funcionamiento. Los mercados del aceite de oliva y de las aceitunas de mesa son un claro ejemplo de ello.
+
+Por Orden APA/2677/2005, de 8 de agosto, sobre contabilidad y declaraciones para el control en el sector del aceite de oliva y de las aceitunas de mesa, se dio continuidad al sistema de contabilidad y declaraciones previsto en el régimen de las ayudas a la producción. Extinguido el mismo, mediante sus posteriores modificaciones, la última operada por Orden ARM/2275/2010, de 20 de agosto, se ha implantado y perfeccionado un sistema de información de los mercados oleícolas que ha permitido dotar al sector de una formidable transparencia.
+
+La transparencia, como esencia para el conocimiento de los mercados agrarios, constituye una filosofía cada vez más arraigada en la definición de las políticas agrarias.
+
+Por otro lado, la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria, en su disposición adicional primera (conforme a la redacción que a su apartado 5 ha dado la disposición final primera de la Ley 6/2015, de 12 de mayo, de Denominaciones de Origen e Indicaciones Geográficas Protegidas de ámbito supraautonómico) establece entre los fines de la Agencia de Información y Control Alimentarios la gestión del sistema de información de mercados oleícolas. Asimismo, en el apartado 6 se establecen las funciones que tiene que realizar dicha Agencia para la consecución de los fines asignados.
+
+La Sentencia 66/2017, de 25 de mayo (BOE de 1 de julio) por la que se resuelve el recurso de inconstitucionalidad 6227-2013 interpuesto por el Consejo de Gobierno de la Generalidad de Cataluña en relación con diversos apartados de la disposición adicional primera de la meritada Ley 12/2013, de 2 de agosto, ha declarado nulos diversos aspectos de la citada Ley en lo que concierne a las funciones de la Agencia de Información y Control Alimentarios. Entre otras, lo establecido en la letra b) del apartado 6 de la disposición adicional primera, la cual asignaba a la Agencia como una de sus funciones la de establecer y desarrollar el régimen de control necesario acerca de los sistemas de información de mercados, entre ellos los oleícolas.
+
+Por ello ha de tenerse presente que en la campaña 2017/2018, se mantiene la aplicación de la Orden APA/2677/2005, de 8 de agosto, para las declaraciones obligatorias, siempre teniendo en cuenta que el control compete a las comunidades autónomas.
+
+En la actual coyuntura, resulta necesario adecuar los procedimientos, preservándose, sin embargo, el sistema de información de dichos mercados, a cuyo fin se establece la presente disposición.
+
+Ello permitirá un adecuado cumplimiento de las obligaciones de información a la Comisión Europea, realizar un apropiado seguimiento de la evolución del mercado, y a su vez, que los operadores del sector y las administraciones adopten sus decisiones con el mayor conocimiento. Para ello, es necesario el disponer de los mejores instrumentos que otorguen una mayor y mejor calidad a la información.
+
+Mediante este real decreto se afianza y actualiza el vigente sistema de declaraciones, a la vez que se complementa con un censo de instalaciones y operadores oleícolas obligados a declarar; así como se establece toda la información mínima que deben contener las declaraciones obligatorias en el sector del aceite de oliva y las aceitunas de mesa. Ello desde la perspectiva de que dicho sistema en modo alguno supondrá coste adicional para el operador, dado que los datos actualmente obrantes en poder de la Administración se integrarán en el sistema. Además, el Censo incluirá las empresas, personas físicas o jurídicas que no dispongan de instalaciones propias, que realicen operaciones en el mercado de aceite de oliva, con el fin de garantizar la trazabilidad del sistema.
+
+Las comunidades autónomas serán responsables del mantenimiento y actualización del Censo de instalaciones y operadores oleícolas, a partir, según el caso, de los datos del Registro de Industrias Agrarias que operan en su poder, de los datos facilitados por el Ministerio de Agricultura, Pesca y Alimentación sobre las instalaciones y operadores que en la actualidad están declarando y de la información que proporcionen los propios operadores, con el fin de garantizar la continuidad de las mismas. En este sentido, informarán al Ministerio de las modificaciones posteriores que se produzcan, para que éste actualice los datos de las instalaciones que declaran en el sistema de información de los mercados oleícolas en cada campaña de comercialización.
+
+El sistema de información de los mercados oleícolas quedará adscrito al Ministerio de Agricultura, Pesca y Alimentación, que será el responsable de su funcionamiento coordinado. Éste, en colaboración con las comunidades autónomas, establecerá los protocolos técnicos necesarios para el correcto funcionamiento del mismo.
+
+Las autoridades competentes podrán establecer sus sistemas informáticos de tal modo que los operadores puedan realizar sus declaraciones conforme a lo establecido en este real decreto.
+
+Los agentes económicos del sector obligados a declarar serán los responsables del mantenimiento debidamente actualizado de los datos en él contenidos, y de su veracidad y exactitud.
+
+El sistema será accesible a todos los órganos competentes del Ministerio de Agricultura, Pesca y Alimentación, a las comunidades autónomas para las instalaciones establecidas en su ámbito territorial y a los declarantes para sus propios datos. Asimismo, el Ministerio de Agricultura, Pesca y Alimentación pondrá a disposición de las comunidades autónomas y de las organizaciones representativas de sector del aceite de oliva y de las aceitunas de mesa la información extraída de este sistema de forma agregada, y proporcionará a las Organizaciones Interprofesionales la información necesaria a los efectos de la aplicación de sus respectivas extensiones de norma. Todo ello, sin perjuicio de la normativa vigente en materia de protección de datos de carácter personal.
+
+El Ministerio de Agricultura, Pesca y Alimentación utilizará la información contenida en el sistema para el envío a la Comisión Europea de toda la información que exija la normativa europea en materia de información de mercados, así como cualquier otra que sea necesaria.
+
+Finalmente, para que el sistema de información de los mercados oleícolas sea veraz es necesario asegurarse de la exactitud de las declaraciones y en casos de incumplimientos imponer las sanciones correspondientes.
+
+Por otra parte, mediante el Real Decreto 772/2017, de 28 de julio, por el que se regula el potencial de producción vitícola, se ha establecido la normativa básica al respecto y el régimen de autorizaciones de plantaciones de viñedo. En esta normativa se establecen los modelos para el envío de la información que las comunidades autónomas tienen que comunicar al Ministerio de Agricultura, Pesca y Alimentación, mediante los anexos IX al XIX del mismo. Es necesario adaptar cuatro de estos anexos para completar la información que las comunidades autónomas deben comunicar en la aplicación de la misma, operación meramente puntual que se lleva a cabo mediante la presente disposición.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución Española que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica. El artículo 15 se dicta en ejecución y desarrollo de lo dispuesto en la disposición adicional primera de la Ley 12/2013 de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria.
+
+En la elaboración de este real decreto se han observado los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Los principios de necesidad y eficacia puesto que la norma resulta el instrumento más indicado para los intereses que se persiguen; el principio de proporcionalidad ya que contiene la regulación imprescindible para atender a las necesidades que se pretenden cubrir; y el principio de seguridad jurídica ya que es coherente con el resto del ordenamiento jurídico nacional y de la Unión Europea. Por lo demás, la norma es coherente con los principios de eficiencia, en tanto que la norma asegura la máxima eficacia de sus postulados con los menores costes posibles inherentes a su aplicación, y transparencia al haberse garantizado una amplia participación en su elaboración.
+
+Durante la tramitación de esta disposición se ha consultado a las comunidades autónomas, así como a las entidades representativas de los sectores afectados, y se ha sometido al trámite de audiencia e información públicas.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, con la aprobación previa prevista en el artículo 26.5, quinto párrafo, de la Ley 50/1997, de 27 de noviembre, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 13 de julio de 2018,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+El presente real decreto tiene por objeto establecer la normativa básica en materia de declaraciones obligatorias de los sectores del aceite de oliva (incluido el orujo) y las aceituna de mesa, necesaria para dotarles de una mayor transparencia y poder disponer de las mejores informaciones de sus mercados, así como para dar cumplimiento a las obligaciones de información a la Comisión Europea previstas en el Reglamento (UE) n.º 1307/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se establecen normas aplicables a los pagos directos a los agricultores en virtud de los regímenes de ayuda incluidos en el marco de la política agrícola común y deroga los Reglamentos (CE) n.º 637/2008 y (CE) n.º 73/2009 del Consejo, y también en el Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) número 1037/2001 y (CE) n.º 1234/2007.
+
+## Artículo 2. Sistema de información de los mercados oleícolas.
+
+1\. Se actualiza el sistema de información de los mercados oleícolas (SIMO), en base informática, que contendrá:
+
+a) El censo nacional de instalaciones y operadores oleícolas, que contendrá todas las instalaciones y operadores a los que se refieren los artículos 4 al 9 siguientes.
+
+b) La información de mercados resultante de las declaraciones obligatorias a las que se refieren los artículos 4 al 9.
+
+2\. Las comunidades autónomas serán responsables del mantenimiento y actualización del censo de instalaciones y operadores oleícolas a que se refiere el artículo 3.
+
+3\. El sistema de información de los mercados oleícolas quedará adscrito al Ministerio de Agricultura, Pesca y Alimentación, que será el responsable de su funcionamiento, coordinado con las comunidades autónomas, en la forma prevista en el presente real decreto.
+
+4\. El Ministerio de Agricultura, Pesca y Alimentación, en colaboración con las comunidades autónomas, establecerá los protocolos técnicos necesarios para el correcto funcionamiento de las aplicaciones informáticas.
+
+5\. Las comunidades autónomas podrán establecer sus propios sistemas de declaración de información, si bien, en este último caso, en los correspondientes modelos de declaración de información se incluirá, al menos, la información que figuran en los anexos del presente real decreto. Las aplicaciones informáticas que utilicen deberán posibilitar que la parte referida a los datos mínimos previstos en los anexos de este real decreto sea accesible y reutilizable en el SIMO, mediante sistemas entendibles por máquinas conforme a los protocolos y estándares de interoperabilidad establecidos para el SIMO, corriendo los costes de la interoperabilidad a cargo de las comunidades autónomas de que se trate.
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## Artículo 3. Censo de instalaciones y operadores oleícolas.
+
+Las comunidades autónomas mantendrán y gestionarán un censo de instalaciones y operadores oleícolas situados físicamente en su territorio, que incluirá asimismo a los operadores domiciliados en dicha comunidad autónoma que carezcan de instalaciones propias. Dicho censo se nutrirá, según el caso, de los datos de sus propios Registros de Industrias Agrarias, de los datos facilitados por el Ministerio de Agricultura, Pesca y Alimentación, de cualquier otra fuente que permita conocer la existencia de instalaciones y operadores oleícolas y de la información que proporcionen los operadores, que será al menos la que se recoge en el anexo I.
+
+> Se modifica por el art. único.2 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto
+
+## Artículo 4. Obligaciones de las almazaras.
+
+1\. Las almazaras deberán presentar una declaración con el resumen mensual de su actividad, que contendrá, como mínimo, la información que se recoge en el anexo II.
+
+Adicionalmente, en el mes de noviembre, y haciendo referencia a la campaña anterior, deberán realizar una declaración anual complementaria a efectos de notificación de mercado, que incluirá la producción total de aceite de oliva diferenciada para las siguientes categorías: aceite de oliva virgen extra, aceite de oliva virgen, aceite de oliva lampante. Dicha declaración se actualizará incluyendo aquellas cantidades que no hayan sido clasificadas al final de la campaña, una vez estas se expidan desde la almazara en su totalidad, conforme a lo dispuesto en el artículo 8.1.g) del Real Decreto 760/2021, de 31 de agosto, por el que se aprueba la norma de calidad de los aceites de oliva y de orujo de oliva.
+
+2\. Las obligaciones contenidas en este artículo se extienden a las almazaras denominadas móviles (que molturan en las fincas de sus clientes al tener la condición de ambulantes y la capacidad de ubicación en diferentes localizaciones), las cuales solicitarán alta en la comunidad autónoma donde se ubique su sede social.
+
+3\. Las almazaras que adquieran aceite de oliva con el fin de comercializarlo a granel tendrán para este aceite la consideración de operadores y, en consecuencia, deberán efectuar además la declaración contemplada en el artículo 6.
+
+4\. En los casos en que la entrega de aceituna cruda a la almazara se lleve a cabo en un centro de compra separado de la propia almazara, por un operador (comercializador) de aceitunas o cuando procedan de una industria de transformación de aceituna de mesa, éstos proporcionarán a la almazara, en el momento de la entrega física de las aceitunas, una relación conforme al modelo que figura en el anexo X de este real decreto.
+
+> Se añade un párrafo final al apartado 1 por el art. único.3 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## Artículo 5. Obligaciones de las envasadoras.
+
+1\. Las envasadoras de aceites de oliva, incluido el de orujo, deberán presentar una declaración con el resumen mensual de su actividad, que contenga, como mínimo, la información que se contempla en el anexo III.
+
+2\. Las almazaras que realicen la actividad de envasado exclusivamente de aceites de oliva vírgenes en envasadora propia tendrán la obligación de presentar esta declaración a través del anexo II.
+
+## Artículo 6. Obligaciones de otros tenedores de aceite de oliva y aceite de orujo de oliva.
+
+Los operadores del sector con instalaciones que sean tenedores, por cualquier título, de aceites de oliva o aceite de orujo de oliva a granel, deberán presentar una declaración con el resumen mensual de su actividad, que como mínimo incluya la información contenida en el anexo IV, a no ser que envasen parte de dichos aceites, en cuyo caso declararán conforme a lo indicado en el apartado 1 del artículo 5.
+
+## Artículo 7. Obligaciones de las refinerías, de los secaderos de orujo y de las extractoras.
+
+1\. Las refinerías de aceites de oliva deberán presentar una declaración con el resumen mensual de su actividad, que contenga como mínimo la información que se contempla en el anexo V.
+
+2\. Los secaderos de orujo y las extractoras de aceite de orujo de oliva presentarán una declaración resumen mensual de su actividad, que como mínimo incluya la información que se contempla en el anexo VI.
+
+> Se modifica por el art. único.4 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## Artículo 8. Obligaciones de las empresas que operan en el mercado del aceite de oliva sin instalaciones propias.
+
+Las personas físicas o jurídicas que operen en el mercado de los distintos tipos de aceite de oliva y/o aceite de orujo de oliva, sin hacer uso de instalaciones propias, a través de operaciones de compra-venta en las que actúan a título de propietarios de aceite de oliva o aceite de orujo de oliva a granel, y que almacenan en instalaciones ajenas a su titularidad, de terceras personas, siendo éstas últimas las responsables de su custodia, deberán presentar una declaración resumen mensual de su actividad que contenga al menos la información que se indica en anexo VII, sin perjuicio de las restantes declaraciones que en su caso deberán formularse en virtud de lo dispuesto en los artículos precedentes.
+
+> Se modifica por el art. único.5 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## Artículo 9. Obligaciones de las industrias de transformación y de otros operadores de aceitunas de mesa con instalaciones.
+
+1\. Las industrias de transformación de aceitunas de mesa y los operadores que sean tenedores, por cualquier título, de aceitunas a granel, ya sean entamadas y/o elaboradas, deberán presentar una declaración con el resumen mensual de la actividad que contendrá, como mínimo, la información que se indica en el anexo VIII.
+
+2\. Las envasadoras de aceituna de mesa deberán presentar una declaración con el resumen mensual de su actividad, que, como mínimo, contendrá la información que se contempla en el anexo IX.
+
+3\. En los casos en que la entrega de aceituna cruda a la industria de transformación se lleve a cabo en un centro de compra separado de la propia industria o por un operador (comercializador) de aceitunas, éstos proporcionarán a la industria, en el momento de la entrega física de las aceitunas, una relación conforme al modelo que figura en el anexo X de este real decreto.
+
+## Artículo 10. Producciones ecológicas.
+
+1\. Las almazaras y las industrias de transformación de aceituna de mesa, además de las declaraciones que estén obligadas a presentar, deberán realizar una declaración anual complementaria relativa a las producciones ecológicas junto con la declaración del primer mes de campaña, haciendo constar el código de su entidad de certificación.
+
+2\. La declaración anual complementaria referida al conjunto de la campaña anterior indicará, en el caso de las almazaras, el total de aceituna molturada y la producción de aceite de oliva ecológico; y, en el caso de las industrias de transformación de aceituna de mesa, el total de entradas de aceituna cruda y de aceituna transformada ecológica diferenciada por variedades.
+
+> Se modifica por el art. único.6 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## Artículo 11. Respaldo documental.
+
+Los datos e información reflejados en las declaraciones mensuales de actividad correspondientes a los anexos II al IX deberán estar respaldos por registros de gestión internos y por la correspondiente documentación comercial, que estarán a disposición de las autoridades competentes durante cuatro años.
+
+> Se suprime el segundo párrafo por el art. único.7 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## Artículo 12. Plazos y sistema de comunicaciones.
+
+1\. Las solicitudes de inscripción (altas) en el censo de instalaciones y operadores oleícolas deberán realizarse durante el mes siguiente al de inicio de su actividad, debiendo la comunidad autónoma concernida realizar el alta en el censo en el plazo de quince días naturales siguientes a la recepción de la comunicación.
+
+2\. La comunicación de baja en el censo por cese definitivo de la actividad, o de cierre de alguna instalación, así como la modificación de datos o su corrección, deberá presentarse a más tardar antes de la finalización del mes siguiente al que se haya producido el hecho, debiendo la comunidad autónoma concernida realizar la alteración que corresponda en el censo en el plazo de quince días naturales siguientes a la recepción de la comunicación.
+
+3\. Las declaraciones contempladas en los artículos 4 a 9 de la presente disposición deberán presentarse a más tardar el día diez de cada mes, incluyendo la información referida al mes anterior.
+
+4\. Las declaraciones se realizarán por medios telemáticos a través del sistema de información de mercados oleícolas regulado en el artículo 2 de este real decreto, incluso en aquellos meses en los que la instalación o el operador no haya tenido actividad y tenga que declarar todos los datos cero.
+
+5\. No obstante lo anterior, los declarantes podrán comunicar el cese temporal de actividad en la instalación cuando no dispongan de existencias, de ninguno de los productos o subproductos declarados, ni vayan a utilizar la misma en lo que quede de campaña a más tardar el mes siguiente al que se haya producido dicho cese.
+
+> Se modifica el apartado 5 por el art. único.8 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## Artículo 13. Acceso a la información.
+
+1\. La información contenida en las declaraciones tendrá carácter confidencial y se ajustará a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+2\. A los datos existentes en el Sistema de información de los mercados oleícolas sólo podrán tener acceso el Ministerio de Agricultura, Pesca y Alimentación, las comunidades autónomas para las instalaciones establecidas en su ámbito territorial, y los declarantes para sus propios datos, así como las Fuerzas y Cuerpos de Seguridad, en especial de Servicio de Protección de la Naturaleza (SEPRONA) de la Guardia Civil, en el ejercicio de sus funciones.
+
+3\. El Ministerio de Agricultura, Pesca y Alimentación pondrá a disposición del sector del aceite de oliva y de las aceitunas de mesa la información extraída del SIMO de forma agregada.
+
+4\. Los datos podrán ser utilizados para recabar la información necesaria para la elaboración, seguimiento y control de extensiones de norma en los sectores del aceite de oliva, incluido el orujo, y de las aceitunas de mesa, realizadas según lo dispuesto en la Ley 38/1994, de 30 de diciembre, reguladora de las organizaciones interprofesionales agroalimentarias y en su normativa de desarrollo.
+
+> Se modifica por el art. único.9 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## Artículo 14. Deber de comunicación a la Comisión Europea.
+
+El Ministerio de Agricultura, Pesca y Alimentación utilizará la información recogida en las declaraciones para dar cumplimiento a las obligaciones establecidas en el Reglamento Delegado (UE) n.º 2017/1183 de la Comisión, de 20 de abril de 2017, por el que se complementan los Reglamentos (UE) n.º 1307/2013 y (UE) 1308/2013 en lo que respecta a la notificación de información y documentos a la Comisión y Reglamento de Ejecución (UE) n.º 2017/1185 de la Comisión, de 20 de abril de 2017, por el que se establecen las normas de desarrollo de los Reglamentos (UE) n.º 1307/2013 y (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo en lo que respecta a la notificación de información y documentos a la Comisión y por el que se modifican y derogan diversos Reglamentos de la Comisión.
+
+## Artículo 15. Funciones de la Agencia de Información y Control Alimentarios, de las comunidades autónomas y plan de control.
+
+1\. Corresponde a la Agencia de Información y Control Alimentarios, de acuerdo con lo previsto en el apartado 6.a) de la disposición adicional primera de la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria, gestionar y mantener la información incluida en el Sistema de información de los mercados oleícolas.
+
+2\. Asimismo, corresponde a los órganos competentes de las comunidades autónomas realizar los controles oficiales para comprobar el cumplimiento de las obligaciones establecidas en el presente real decreto y asegurar la exactitud de las declaraciones de las instalaciones que se encuentren ubicadas en su territorio, y el cumplimiento de las obligaciones establecidas. Igualmente, grabarán en la base de datos las modificaciones de las declaraciones, así como las declaraciones que hayan sido obtenidas como consecuencia de los controles realizados y aquellas presentadas fuera de plazo
+
+3\. No obstante, podrán establecerse sistemas de colaboración en la forma jurídica más adecuada, entre las comunidades autónomas y la Agencia de Información y Control Alimentarios para la realización por ésta de los controles establecidos.
+
+4\. El Ministerio de Agricultura, Pesca y Alimentación coordinará con las comunidades autónomas, a través de la Agencia de Información y Control Alimentarios, la elaboración de un plan de control, en lo relativo a los controles indicados en el apartado 2.
+
+5\. Los órganos competentes de las comunidades autónomas remitirán la información sobre los controles oficiales realizados a la Agencia de Información y Control Alimentarios por el sistema que se establezca al efecto y que especificará el tiempo y la forma de la remisión de los resultados.
+
+> Se modifican los apartados 1 y 2 y se suprime el apartado 6 por el art. único.10 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## Artículo 16. Incumplimiento de la obligación de declarar y régimen sancionador.
+
+Los incumplimientos en materia de declaraciones del sistema de mercados oleícolas serán sancionados según la Ley 30/2022, de 23 de diciembre, por la que se regulan el sistema de gestión de la Política Agrícola Común y otras materias conexas, así como la normativa propia de la comunidad autónoma.
+
+> Se modifica por el art. único.11 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## Disposición adicional primera. Calendario de las campañas.
+
+A los efectos de las obligaciones contables y de información establecidas en este real decreto, así como de los datos recogidos en el sistema de información de mercados oleícolas, el calendario de campaña de aceituna de mesa será desde el 1 de septiembre hasta el 31 de agosto siguiente, y para el aceite de oliva, incluido el de orujo, desde el 1 de octubre hasta el 30 de septiembre siguiente.
+
+## Disposición adicional segunda. Contención del gasto.
+
+Las medidas incluidas en este real decreto serán atendidas con las dotaciones presupuestarias existentes, y no podrán suponer incremento de dotaciones ni de retribuciones ni de otros gastos de personal.
+
+## Disposición adicional tercera. Comunicación de existencias en sectores específicos.
+
+De conformidad con el Reglamento de Ejecución (UE) 2022/791 de la Comisión de 19 de mayo de 2022 por el que se modifica el Reglamento de Ejecución (UE) 2017/1185, en lo que atañe a la notificación de los niveles de existencias de cereales, semillas oleaginosas y arroz, los productores, mayoristas y agentes económicos pertinentes de los sectores de cereales, oleaginosas y semillas certificadas señaladas, y los productores y las industrias arroceras, proporcionarán a la Administración correspondiente, por los medios electrónicos que se establecerán por las mismas, la información requerida en virtud de dicho Reglamento, de modo que sea pertinente para el mercado de que se trate, exacta y completa y facilitada en plazo.
+
+Los citados medios electrónicos se establecerán por el Ministerio de Agricultura, Pesca y Alimentación, mediante Resolución de la persona titular de la Dirección General de Producciones y Mercados Agrarios, que se publicará en el “Boletín Oficial del Estado”.
+
+> Se añade por la disposición final 1 del Real Decreto 428/2022, de 7 de junio. [Ref. BOE-A-2022-9379](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9379)
+
+## Disposición transitoria primera. Censos preexistentes.
+
+La información y datos que a la entrada en vigor del presente real decreto obren en los Registros de Industrias Agrarias de las comunidades autónomas o en el Ministerio de Agricultura, Pesca y Alimentación se integrará en el censo de instalaciones y operadores oleícolas a que se refiere el artículo 3.
+
+Aquellos operadores que no consten en el citado censo o que no hayan proporcionado todos los datos previstos en el anexo I de la presente disposición dispondrán de un plazo máximo de dos meses para solicitar el alta en el censo, comunicando al menos los datos del anexo I de la presente norma, o para comunicar a la autoridad competente los datos complementarios de que se trate, respectivamente.
+
+## Disposición transitoria segunda. Declaraciones de la campaña 2017/2018.
+
+Las declaraciones obligatorias que deban formularse durante la campaña 2017/18, iniciada con anterioridad a la entrada en vigor del presente real decreto, se regirán por la Orden APA/2677/2005, de 8 de agosto, sobre contabilidad y declaraciones en el sector del aceite de oliva y las aceitunas de mesa.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden APA/2677/2005, de 8 de agosto, sobre contabilidad y declaraciones en el sector del aceite de oliva y las aceitunas de mesa.
+
+## Disposición final primera. Modificación del Real Decreto 772/2017, de 28 de julio, por el que se regula el potencial de producción vitícola.
+
+El Real Decreto 772/2017, de 28 de julio, por el que se regula el potencial de producción vitícola, queda modificado como se recoge a continuación:
+
+Uno. El anexo XII «Autorizaciones concedidas para replantaciones» se substituye por el siguiente:
+
+## «ANEXO XII — Autorizaciones concedidas para replantaciones
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Comunidad Autónoma:</p>
+</td>
+<td colspan="4"> </td>
+</tr>
+<tr>
+<td>
+<p>Fecha de comunicación:</p>
+</td>
+<td colspan="4"> </td>
+</tr>
+<tr>
+<td>
+<p>Campaña vitícola:</p>
+</td>
+<td colspan="4"> </td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Provincia</p>
+</td>
+<td colspan="4">
+<p>Número de hectáreas efectivamente concedidas situadas en superficies admisibles a la producción de***:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vino con</p>
+<p>DOP*</p>
+</td>
+<td>
+<p>Vino con IGP**</p>
+</td>
+<td>
+<p>Vino sin</p>
+<p>DOP/IGP</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(1)</p>
+</td>
+<td>
+<p>(2)</p>
+</td>
+<td>
+<p>(3)</p>
+</td>
+<td>
+<p>(4)</p>
+</td>
+<td>
+<p>(5)</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>TOTAL</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Provincia origen de la autorización (a)</p>
+</td>
+<td>
+<p>Vino con</p>
+<p>DOP*</p>
+</td>
+<td>
+<p>Vino con IGP**</p>
+</td>
+<td>
+<p>Vino sin</p>
+<p>DOP/IGP</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>TOTAL</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Código DOP (b)</p>
+</td>
+<td>
+<p>Vino con Denominación de Origen Protegida (DOP)</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>TOTAL</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td colspan="5">
+<p>	*	Estas superficies también pueden ser admisibles para la producción de vino con IGP o vino sin IG; ninguna de las superficies comunicadas en la columna (2) debe ser incluida en la columna (3).</p>
+<p>	**	Estas superficies también pueden ser admisibles para la producción de vino sin IG pero no de vino DOP; ninguna de las superficies comunicadas en la columna (3) debe ser incluida en la columna (4).</p>
+<p>	***	Datos referidos a la campaña vitícola anterior a la comunicación.</p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p>(a) Se indicará la provincia de origen de la autorización cuando los derechos de replantación o arranques que originaron la misma provengan de otra comunidad autónoma, detallando la superficie concedida a partir de los mismos (vino con DOP, vino con IGP, vino sin DOP/IGP).</p>
+<p>(b) Se indicará el nombre de la DOP, identificada por su código, y el número de hectáreas del total recogido en la columna (2) que se localizan en la zona geográfica de esa DOP.</p>
+<p>Fecha límite de la comunicación: 1 octubre.»</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Dos. El anexo XIII «Derechos de plantación concedidos antes del 31 de diciembre de 2015 y convertidos en autorizaciones-Autorizaciones concedidas» se substituye por el siguiente:
+
+## «ANEXO XIII — Derechos de plantación concedidos antes del 31 de diciembre de 2015 y convertidos en autorizaciones – Autorizaciones concedidas
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Comunidad Autónoma:</p>
+</td>
+<td colspan="4"> </td>
+</tr>
+<tr>
+<td>
+<p>Fecha de comunicación:</p>
+</td>
+<td colspan="4"> </td>
+</tr>
+<tr>
+<td>
+<p>Campaña vitícola:</p>
+</td>
+<td colspan="4"> </td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Provincia</p>
+</td>
+<td colspan="4">
+<p>Número de hectáreas efectivamente concedidas situadas en superficies admisibles a la producción de***:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vino con</p>
+<p>DOP*</p>
+</td>
+<td>
+<p>Vino con IGP**</p>
+</td>
+<td>
+<p>Vino sin</p>
+<p>DOP/IGP</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(1)</p>
+</td>
+<td>
+<p>(2)</p>
+</td>
+<td>
+<p>(3)</p>
+</td>
+<td>
+<p>(4)</p>
+</td>
+<td>
+<p>(5)</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>TOTAL</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Provincia origen de la autorización (a)</p>
+</td>
+<td>
+<p>Vino con</p>
+<p>DOP*</p>
+</td>
+<td>
+<p>Vino con IGP**</p>
+</td>
+<td>
+<p>Vino sin</p>
+<p>DOP/IGP</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>TOTAL</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Código DOP (b)</p>
+</td>
+<td>
+<p>Vino con Denominación de Origen Protegida (DOP)</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>TOTAL</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td colspan="5">
+<p>	*	Estas superficies también pueden ser admisibles para la producción de vino con IGP o vino sin IG; ninguna de las superficies comunicadas en la columna (2) debe ser incluida en la columna (3).</p>
+<p>	**	Estas superficies también pueden ser admisibles para la producción de vino sin IG pero no de vino DOP; ninguna de las superficies comunicadas en la columna (3) debe ser incluida en la columna (4).</p>
+<p>	***	Datos referidos a la campaña vitícola anterior a la comunicación.</p>
+<p>(a) Se indicará la provincia de origen de la autorización cuando los derechos de replantación o arranques que originaron la misma provengan de otra comunidad autónoma, detallando la superficie concedida a partir de los mismos (vino con DOP, vino con IGP, vino sin DOP/IGP).</p>
+<p>(b) Se indicará el nombre de la DOP, identificada por su código, y el número de hectáreas del total recogido en la columna (2) que se localizan en la zona geográfica de esa DOP.</p>
+<p>Fecha límite de la comunicación: 1 octubre.»</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Tres. El anexo XIV «Inventario de superficies de viñedo» se substituye por el siguiente:
+
+## «ANEXO XIV — Inventario de superficies de viñedo
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Comunidad Autónoma:</p>
+</td>
+<td colspan="6"> </td>
+</tr>
+<tr>
+<td>
+<p>Fecha de comunicación:</p>
+</td>
+<td colspan="6"> </td>
+</tr>
+<tr>
+<td>
+<p>Campaña vitícola:</p>
+</td>
+<td colspan="6"> </td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Provincia</p>
+</td>
+<td colspan="6">
+<p>Superficie realmente plantada con viñedo (ha) que son admisibles para la producción de***:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Vino con Denominación de Origen Protegida (DOP)*</p>
+</td>
+<td colspan="2">
+<p>Vino con Indicación Geográfica Protegida (IGP)**</p>
+</td>
+<td rowspan="2">
+<p>Vino sin DOP/IGP y situado en una zona DOP/IGP</p>
+</td>
+<td rowspan="2">
+<p>Vino sin DOP/IGP y situado fuera de una zona DOP/IGP</p>
+</td>
+<td rowspan="2">
+<p>Total****</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>de los cuales están incluidos en la columna (2)</p>
+</td>
+<td>
+<p>de los cuales no están incluidos en la columna (2)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(1)</p>
+</td>
+<td>
+<p>(2)</p>
+</td>
+<td>
+<p>(3)</p>
+</td>
+<td>
+<p>(4)</p>
+</td>
+<td>
+<p>(5)</p>
+</td>
+<td>
+<p>(6)</p>
+</td>
+<td>
+<p>(7)</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>TOTAL</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Código DOP</p>
+<p>(a)</p>
+</td>
+<td>
+<p>Vino con Denominación de Origen Protegida</p>
+<p>(DOP)</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>TOTAL</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td colspan="7">
+<p>	*	Estas superficies también son admisibles para la producción de vino con IGP o vino sin IG.</p>
+<p>	**	Estas superficies también son admisibles para la producción de vino con DOP y vino sin IG (columna (3)), o sólo vino con IGP y vino sin IG (columna (4)). Ninguna de las superficies recogidas en las columnas (3) y (4) deben ser incluidas en las columnas (5) y (6).</p>
+<p>	***	Datos referidos al 31 de julio de la campaña vitícola anterior.</p>
+<p>	****	Valores a introducir en esta columna: (7) = (2) + (4) + (5) + (6).</p>
+<p>(a) Se indicará el nombre de la DOP, identificada por su código, y el número de hectáreas del total recogido en la columna (2) que se localizan en su zona geográfica de esa DOP.</p>
+<p>Fecha límite de la comunicación: 1 octubre.»</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Cuatro. El anexo XVI «Cuadro A. Plantaciones y arranques realizados» se substituye por el siguiente:
+
+## «ANEXO XVI — Cuadro A. Plantaciones y arranques realizados
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Comunidad Autónoma:</p>
+</td>
+<td colspan="5"> </td>
+</tr>
+<tr>
+<td>
+<p>Fecha de comunicación:</p>
+</td>
+<td colspan="5"> </td>
+</tr>
+<tr>
+<td>
+<p>Campaña vitícola (*):</p>
+</td>
+<td colspan="5"> </td>
+</tr>
+<tr>
+<td colspan="6">
+<p>Superficie (ha)</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Vino con Denominación de Origen Protegida</p>
+</td>
+<td>
+<p>Vino con Indicación Geográfica Protegida</p>
+</td>
+<td>
+<p>Subtotal vinos DOP/IGP</p>
+</td>
+<td>
+<p>Vino sin DOP/IGP</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(1)</p>
+</td>
+<td>
+<p>(2)</p>
+</td>
+<td>
+<p>(3)</p>
+</td>
+<td>
+<p>(4)</p>
+</td>
+<td>
+<p>(5)</p>
+</td>
+<td>
+<p>(6)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Plantaciones de viñedo realizadas(i)</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Arranques de viñedo realizados(ii)</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>TOTAL</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Código DOP (a)</p>
+</td>
+<td>
+<p>Vino con Denominación de Origen Protegida (DOP)</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>TOTAL</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td colspan="6">
+<p>(i) Número de hectáreas plantadas situadas en superficies que pueden ser admisibles a la producción de vino con DOP, vino con IGP o vino sin DOP/IGP.</p>
+<p>(ii) Número de hectáreas arrancadas situadas en superficies que pueden ser admisibles a la producción de vino con DOP, vino con IGP o vino sin DOP/IGP.</p>
+<p>(a) Se indicará el nombre de la DOP, identificada por su código, y el número de hectáreas del total recogido en la columna (2) que se localizan en la zona geográfica de esa DOP.</p>
+<p>Fecha límite de la comunicación: 1 octubre.</p>
+<p>(*) Datos referidos a la campaña vitícola precedente a la de la comunicación.»</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Cinco. El anexo XVI «Cuadro B. Información sobre derechos de plantación inscritos a 31 de diciembre de 2015 en el registro vitícola y sin convertir en autorizaciones a 31 de julio de la campaña precedente a la de la comunicación» se substituye por el siguiente:
+
+****«Cuadro B.** Información sobre derechos de plantación inscritos a 31 de diciembre de 2015 en el registro vitícola y sin convertir en autorizaciones a 31 de julio de la campaña precedente a la de la comunicación**
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Comunidad Autónoma:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Fecha de comunicación:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Campaña vitícola:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Superficie (ha)</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Derechos de plantación inscritos en el Registro Vitícola sin convertir a 31 de julio:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total (ha)</p>
+</td>
+<td>
+<p>Desglose por fecha de caducidad hasta el 31 de diciembre de 2023 (ha)</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Fecha límite de la comunicación: 1 octubre.»</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+## Disposición final segunda. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+## Disposición final tercera. Habilitación para el desarrollo normativo.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para modificar los anexos, las fechas y plazos contenidos en la presente disposición cuando sea necesario para adaptarse a las modificaciones derivadas de la normativa de la Unión Europea, así como para dictar las disposiciones que resultaren procedentes en la aplicación y desarrollo del real decreto en el ámbito de las competencias del Estado.
+
+## Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 13 de julio de 2018.
+
+FELIPE R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+LUIS PLANAS PUCHADES
+
+## ANEXO I — Declaración al censo de instalaciones y operadores oleícolas
+
+La declaración deberá contener, como mínimo, información relativa a:
+
+I) Actividad realizada por la industria:
+
+1\. Aceite: almazara, envasadora de aceite, tenedores, refinerías, secaderos de orujo, extractoras, operadores sin instalaciones.
+
+2\. Aceituna transformada: Industrias de transformación de aceituna de mesa, otros operadores de aceituna de mesa con instalaciones y envasadoras de aceituna de mesa transformada.
+
+II) Datos identificativos de la industria: RIA u otro número de control que identifique la industria para llevar a cabo las declaraciones exigidas por SIMO, NIF, nombre o razón social, dirección de la instalación, localidad, provincia, código postal, teléfono fijo y móvil, correo electrónico y datos postales completos en caso de no coincidir con los anteriores.
+
+> Se modifican los apartados I.1) y II) por el art. único.12 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## ANEXO II — Declaración de actividad de las almazaras
+
+La declaración mensual de actividad deberá contener, como mínimo, información relativa a: la campaña, el mes, el RIA u otro número de control que identifique la industria para llevar a cabo las declaraciones exigidas por SIMO, el NIF, nombre o razón social, dirección de la instalación, localidad, provincia, código postal, teléfono fijo y móvil y correo electrónico de contacto.
+
+A. Respecto a los movimientos de aceite de oliva virgen, orujo graso húmedo, hueso de aceituna y orujo húmedo deshuesado de la almazara (expresado en kilogramos):
+
+– Existencias a inicio de campaña: Sólo en el primer mes de campaña.
+
+– Existencias a inicio de mes.
+
+– Entradas de aceite en el mes diferenciadas por su procedencia en: Aceite producido por la almazara, ajustes de aceite producido (regularizaciones por aforo tanto positivas como negativas), aceite ajeno en depósito (propiedad de otras entidades), retorno de aceite propio almacenado en instalaciones de terceros.
+
+– Salidas de aceite en el mes diferenciadas por su destino en: Envasadora propia, otras entidades nacionales, exportación, aceite ajeno en depósito (retirado por la entidad propietaria), aceite propio enviado a instalaciones de terceros y ajustes.
+
+– Existencias a finales de mes de aceite.
+
+– Aceituna entrada en el mes.
+
+– Aceituna molturada en el mes.
+
+– Orujo graso húmedo producido al mes y orujo graso húmedo deshuesado producido al mes.
+
+– Salidas de Orujo graso húmedo y Orujo graso húmedo deshuesado al mes diferenciado según los siguientes destinos: extractora, elaboración de compost, elaboración de otros productos fertilizantes, elaboración de biogás, fabricación de piensos y otros usos, así como las existencias finales.
+
+– Aceite propio almacenado en instalaciones de terceros: existencias a inicio de mes, entradas en el mes, salidas en el mes diferenciadas por su destino: entidades nacionales, exportación, retorno a almazara, ajustes y existencias a finales del mes.
+
+– Hueso de aceituna producido al mes y existencias finales.
+
+– Salidas de hueso de aceituna, diferenciando según los siguientes destinos: autoconsumo para biomasa, venta directa para biomasa y otros usos.
+
+B. Respecto a la actividad de envasado y de forma diferenciada para los siguientes tipos de aceites: Aceite de oliva virgen extra y aceite de oliva virgen (expresado en kilogramos):
+
+– Existencias inicio mes: Diferenciadas por su formato en (granel o envasado).
+
+– Entradas de aceite en el mes diferenciadas por su origen según sean de almazara propia, adquirido y ajustes por calidad.
+
+– Actividad de envasado, diferenciada según el origen del aceite ya sea de almazara propia o adquirido.
+
+– Salidas de aceite en el mes diferenciadas por su formato (granel o envasado), por su destino (mercado interior y exportación) y por ajustes por cantidad (tales como roturas, mermas, regularizaciones, etc.).
+
+– Existencias al final de mes: Diferenciadas por su formato (granel o envasado).
+
+> Se modifica el primer párrafo y el apartado A por el art. único.13 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## ANEXO III — Declaración de actividad de las envasadoras de aceites de oliva
+
+La declaración mensual de actividad deberá contener, como mínimo, información relativa a: la campaña, el mes, el RIA u otro número de control que identifique la industria para llevar a cabo las declaraciones exigidas por SIMO, el NIF, nombre o razón social, dirección de la instalación, localidad, provincia, código postal, teléfono fijo y móvil y correo electrónico de contacto.
+
+A. Respecto a los movimientos de aceite (expresado en kilogramos):
+
+– Existencias a inicio del mes: Diferenciadas por su formato (granel o envasado).
+
+– Entradas de aceite en el mes diferenciadas por su procedencia en: Almazara propia, otras almazaras, refinería propia, otras entidades nacionales, importación (incluye régimen de perfeccionamiento activo), y aceite en depósito (propiedad de otras entidades depositado en las instalaciones del declarante).
+
+– Cupajes: Indicando entradas y salidas.
+
+– Actividad de envasado.
+
+– Ajustes: Por calidad, indicando también entradas y salidas
+
+– Salidas de aceite en el mes diferenciadas: por su formato (granel o envasado), por su destino (mercado interior y exportación que también incluye régimen de perfeccionamiento activo), aceite depositado (propiedad de otras entidades depositado en las instalaciones del declarante) y ajustes por cantidades (tales como roturas, mermas, regularizaciones etc.).
+
+– Existencias al final de mes diferenciadas por su formato (granel o envasado).
+
+– Régimen de perfeccionamiento activo diferenciando importación y exportación.
+
+– Existencias de aceite propio almacenado en Fundación Patrimonio Comunal Olivarero y en instalaciones asimiladas (es decir, distintas de almazaras, envasadoras, operadores y refinerías), indicando la cantidad en kilogramos al inicio de mes y al final de mes.
+
+– Salidas a exportación de aceite propio almacenado en instalaciones de terceros en el mes.
+
+B. Respecto a los tipos de aceite (expresado en kilogramos). Se declararán los anteriores movimientos de forma diferenciada para los siguientes tipos de aceites: aceite de oliva virgen extra, aceite de oliva virgen, aceite de oliva contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes, aceite de oliva refinado, aceite de orujo de oliva crudo, aceite de orujo de oliva y aceite de orujo de oliva refinado.
+
+> Se modifica el primer párrafo por el art. único.14 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## ANEXO IV — Declaración de actividad de otros tenedores de aceites de oliva y aceite de orujo de oliva
+
+La declaración mensual de actividad deberá contener, como mínimo, información relativa a: la campaña, el mes, el RIA u otro número de control que identifique la industria para llevar a cabo las declaraciones exigidas por SIMO, el NIF, nombre o razón social, dirección de la instalación, localidad, provincia, código postal, teléfono fijo y móvil y correo electrónico de contacto.
+
+A. Respecto a los movimientos de aceite (expresado en kilogramos):
+
+– Existencias a inicio del mes.
+
+– Entradas de aceite en el mes diferenciadas por su procedencia en: Almazaras, otras entidades nacionales, importación, o aceite en depósito (propiedad de otras entidades depositado en las instalaciones del declarante).
+
+– Salidas de aceite en el mes diferenciadas por su destino en: A almazaras, a otras entidades nacionales, exportación, y aceite depositado (propiedad de otras entidades depositado en las instalaciones del declarante).
+
+– Existencias al final de mes.
+
+– Existencias de aceite propio almacenado en Fundación Patrimonio Comunal Olivarero y en instalaciones asimiladas (distintas de almazaras, envasadoras, operadores y refinerías), indicando la cantidad en kilogramos al inicio de mes y al final de mes.
+
+– Salidas a exportación de aceite propio almacenado en instalaciones de terceros en el mes.
+
+B. Respecto a los tipos de aceite (expresado en kilogramos). Se declararán los anteriores movimientos de forma diferenciada para los siguientes tipos de aceites: aceite de oliva virgen extra, aceite de oliva virgen, aceite de oliva contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes, aceite de oliva refinado, aceite de orujo de oliva crudo, aceite de orujo de oliva y aceite de orujo de oliva refinado.
+
+> Se modifica el primer párrafo por el art. único.15 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## ANEXO V — Declaración de actividad de las refinerías de aceite
+
+La declaración mensual de actividad deberá contener, como mínimo, información relativa a: la campaña, el mes, el RIA u otro número de control que identifique la industria para llevar a cabo las declaraciones exigidas por SIMO, el NIF, nombre o razón social, dirección de la instalación, localidad, provincia, código postal, teléfono fijo y móvil y correo electrónico de contacto.
+
+A. Respecto a los movimientos de aceite (expresados en kilogramos):
+
+– Existencias a inicio de mes.
+
+– Entradas de aceite adquirido en el mes diferenciadas por su procedencia en: Almazara propia, otras almazaras, otras entidades nacionales (distintas a refinerías), otras refinerías e importación (incluyendo régimen de perfeccionamiento activo).
+
+– Actividad de refinería: Indicando entradas y salidas.
+
+– Cupajes: indicando entradas y salidas.
+
+– Ajustes por calidad: Indicando entradas y salidas.
+
+– Salidas de aceite vendido en el mes diferenciadas por su destino en: Envasadora propia, mercado interior, exportación (incluyendo régimen de perfeccionamiento activo) y mermas.
+
+– Régimen de perfeccionamiento activo: diferenciando importación y exportación.
+
+– Existencias al final de mes.
+
+B. Respecto a los tipos de aceite (expresado en kilogramos). Se declararán los anteriores movimientos de forma diferenciada para los siguientes tipos de aceites: aceite de oliva virgen extra, aceite de oliva virgen, aceite de oliva contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes, aceite de oliva refinado, aceite de orujo de oliva crudo, aceite de orujo de oliva, aceite de orujo de oliva refinado, y ácidos grasos-pastas de refinación.
+
+> Se modifica el primer párrafo por el art. único.16 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## ANEXO VI — Declaración de actividad de los secaderos de orujo y extractoras de aceite de orujo de oliva
+
+La declaración mensual de actividad deberá contener, como mínimo, información relativa a: la campaña, el mes, el RIA u otro número de control que identifique la industria para llevar a cabo las declaraciones exigidas por SIMO, el NIF, nombre o razón social, dirección de la instalación, localidad, provincia, código postal, teléfono fijo y móvil y correo electrónico de contacto.
+
+A. Respecto a los movimientos de orujo graso, hueso de aceituna, aceite de orujo de oliva crudo y orujillo (expresados en kilogramos):
+
+– Existencias a inicio del mes.
+
+– Entradas en el mes diferenciadas por su procedencia: almazaras y de otros proveedores, de otras extractoras y secaderos, traspasos (sólo entre instalaciones de la misma empresa), extracción propia por medios físicos, extracción propia por medios químicos, producción de orujo graso seco, producción de orujo graso húmedo deshuesado, retorno a balsa tras extracción física (repaso) y ajustes (entendidos como regularizaciones y pérdidas).
+
+– Salidas en el mes diferenciadas por su destino en: refinerías, otros operadores, otras extractoras y secaderos, traspasos (solo entre instalaciones de la misma empresa), a extracción física y/o química, a deshuesado, secado (en instalación propia), autoconsumo, mercado interior, exportación y ajustes (entendidos como regularizaciones y pérdidas).
+
+– Existencias al final de mes.
+
+B. Respecto a los tipos de productos (expresado en kilogramos) Se declararán los anteriores movimientos de forma diferenciada para los siguientes tipos: orujo graso húmedo, orujo graso seco, orujo graso húmedo deshuesado, aceite de orujo de oliva crudo obtenido por medios físicos y aceite de orujo de oliva crudo obtenido por medios químicos.
+
+> Se modifica por el art. único.17 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## ANEXO VII — Declaración de actividad de las empresas que operan en el mercado del aceite de oliva a granel y no disponen de instalaciones propias
+
+La declaración mensual de actividad deberá contener, como mínimo, información relativa a: la campaña, el mes, el RIA u otro número de control que identifique la industria para llevar a cabo las declaraciones exigidas por SIMO, el NIF, nombre o razón social, dirección de la instalación, localidad, provincia, código postal, teléfono fijo y móvil y correo electrónico de contacto.
+
+A. Respecto a los movimientos (compras y ventas) de aceite (expresado en kilogramos):
+
+– Existencias a inicio mes en almazaras, en Fundación Patrimonio Comunal Olivarero y en otras entidades nacionales.
+
+– Entradas de aceite adquirido en el mes diferenciando por su procedencia en: almazaras (bien en almazara propia o bien en otras almazaras); a otras entidades nacionales; y de importación.
+
+– Salidas de aceite vendido en el mes diferenciando por su destino en: almazaras, otras entidades nacionales y exportación (de almazara propia y de otras almazaras).
+
+– Existencias al final de mes diferenciando según su ubicación en: almazaras, Fundación Patrimonio Comunal Olivarero y otras entidades nacionales.
+
+B. Respecto a los tipos de aceite (expresado en kilogramos). Se declararán los anteriores movimientos de forma diferenciada para los siguientes tipos de aceites: aceite de oliva virgen extra, aceite de oliva virgen, aceite de oliva contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes, aceite de oliva refinado, aceite de orujo de oliva crudo, aceite de orujo de oliva y aceite de orujo de oliva refinado.
+
+> Se modifica el primer párrafo por el art. único.18 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## ANEXO VIII — Declaración de actividad de las industrias de transformación de aceituna de mesa (entamadoras) y de otros operadores de aceitunas de mesa con instalaciones
+
+La declaración mensual de actividad deberá contener, como mínimo, información relativa a: la campaña, el mes, el RIA u otro número de control que identifique la industria para llevar a cabo las declaraciones exigidas por SIMO, el NIF, nombre o razón social, dirección de la instalación, localidad, provincia, código postal, teléfono fijo y móvil y correo electrónico de contacto.
+
+A. Respecto a los movimientos de aceitunas (expresado en kilogramos de peso entero):
+
+– Existencias a inicio de mes.
+
+– Entradas del mes diferenciando en: aceituna cruda (diferenciando no importada e importada), aceituna transformada de otras industrias y aceituna transformada importada.
+
+– Salidas del mes diferenciando en: Aceituna cruda (diferenciando no importada e importada), aceituna transformada a envasadora propia, aceituna transformada a otras envasadoras, aceituna transformada a otras entamadoras u operadores, aceituna transformada al mercado interior, aceituna transformada a exportación, aceituna transformada a obtención aceite y mermas del proceso de transformación.
+
+– Existencias a fin mes.
+
+B. Respecto a las variedades se diferenciarán: Manzanilla cocida (para verde), manzanilla en salmuera y/o acético (negra y para negra); gordal cocida (para verde), gordal en salmuera y/o acético (negra y para negra); hojiblanca cocida (para verde), hojiblanca en salmuera y/o acético (negra y para negra); cacereña cocida (para verde), cacereña en salmuera y/o acético (negra y para negra); carrasqueña cocida (para verde), carrasqueña en salmuera y/o acético (negra y para negra); otras cocida (para verde), otras en salmuera y/o acético (negra y para negra).
+
+> Se modifica el primer párrafo por el art. único.19 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## ANEXO IX — Declaración de actividad de las envasadoras de aceituna de mesa transformadas
+
+La declaración mensual de actividad deberá contener, como mínimo, información relativa a: la campaña, el mes, el RIA u otro número de control que identifique la industria para llevar a cabo las declaraciones exigidas por SIMO, el NIF, nombre o razón social, dirección de la instalación, localidad, provincia, código postal, teléfono fijo y móvil y correo electrónico de contacto.
+
+A. Respecto a los movimientos de aceitunas (se ha de realizar en kilogramos en su peso entero):
+
+– Existencias a inicio de mes.
+
+– Entradas del mes diferenciando en: Transformadas en entamadora propia, transformadas por otras industrias, transformadas por otras envasadoras y transformadas importadas.
+
+– Salidas del mes diferenciando en: Transformadas para otras industrias, transformadas al mercado interior, transformadas a exportación y perdidas en el proceso de transformación.
+
+– Existencias a fin mes.
+
+B. Respecto a las variedades se diferenciarán: Manzanilla cocida (para verde), manzanilla en salmuera y/o acético (negra y para negra); gordal cocida (para verde), gordal en salmuera y/o acético (negra y para negra); hojiblanca cocida (para verde), hojiblanca en salmuera y/o acético (negra y para negra); cacereña cocida (para verde), cacereña en salmuera y/o acético (negra y para negra); carrasqueña cocida (para verde), carrasqueña en salmuera y/o acético (negra y para negra); otras cocida (para verde), otras en salmuera y/o acético (negra y para negra).
+
+> Se modifica el primer párrafo por el art. único.20 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## ANEXO X — Entrega de aceituna: Relación complementaria de proveedores de aceituna
+
+La relación complementaria de proveedores de aceituna deberá contener, como mínimo, información relativa a: la campaña, denominación del centro de recepción o de compra, nombre o razón social, NIF, dirección, localidad, provincia, código postal, teléfono y correo electrónico de contacto del titular del citado puesto de compra. Además, RIA u otro número de control que identifique la industria para llevar a cabo las declaraciones exigidas por SIMO, nombre o razón social, NIF, dirección, localidad, provincia, código postal, teléfono fijo y móvil y correo electrónico de contacto de la industria que adquiere la aceituna y fecha de entrega de la relación.
+
+Además, deberá incluir un listado en el que consten los datos siguientes: fecha, número de albarán, kilogramos recibidos por albarán, variedad de aceituna (en el caso de aceituna de mesa), si la aceituna es de agricultura ecológica, nombre o razón social, domicilio y NIF del oleicultor, y kilogramos entregados a la industria por albarán, debiéndose totalizar las cantidades incluidas en los albaranes a que haga referencia la entrega, así como indicar la cantidad realmente pesada por la industria receptora la entrada en sus instalaciones.
+
+Asimismo, está relación deberá incluir, las firmas y NIF del operador del puesto de compra, el transportista y la industria receptora y demás observaciones que se consideren necesarias.
+
+> Se modifica por el art. único.21 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.
+
+## ANEXO XI — Respaldo documental
+
+**(Suprimido)**
+
+> Se suprime por el art. único.22 del Real Decreto 564/2025, de 1 de julio. [Ref. BOE-A-2025-13412](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-13412)
+
+> Esta modificación entra en vigor el 1 de septiembre de 2025 para la aceituna de mesa y el 1 de octubre de 2025 para el aceite de oliva, incluido el de orujo, según determina la disposición final 3 del citado Real Decreto.

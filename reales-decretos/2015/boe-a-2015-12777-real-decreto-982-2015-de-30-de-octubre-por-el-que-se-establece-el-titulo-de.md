@@ -3932,27 +3932,21 @@ Espacios: Ciclo de grado superior
 | Aula polivalente. | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
 | Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | Módulos de enseñanza deportiva del bloque común. |
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Espacio formativo.</th>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva.</th>
+<th colspan="3">Espacio formativo.</th>
+<th>Módulo de enseñanza deportiva.</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Pista de baloncesto.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-BCBC301 Formación del jugador en la etapa de alto rendimiento.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC304 Táctica de ataque y defensa en la etapa de alto rendimiento.</p>
+<td colspan="3">Pista de baloncesto.</td>
+<td>
+<p>MED-BCBC301 Formación del jugador en la etapa de alto rendimiento.</p>
+<p>MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento.</p>
+<p>MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto.</p>
+<p>MED-BCBC304 Táctica de ataque y defensa en la etapa de alto rendimiento.</p>
 </td>
 </tr>
 </tbody>
@@ -3985,41 +3979,36 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo de grado superior</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo de grado superior</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-BCBC301 Formación del jugador en la etapa de alto rendimiento.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto.</p>
-<p class="cuerpo_tabla_izq">MED- BCBC304 Táctica de ataque y defensa en la etapa de alto rendimiento.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC305 Proyecto.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC306 Formación práctica.</p>
+<td rowspan="2">
+<p>MED-BCBC301 Formación del jugador en la etapa de alto rendimiento.</p>
+<p>MED-BCBC302 Dirección de equipos en la etapa de alto rendimiento.</p>
+<p>MED-BCBC303 Entrenamiento de alto rendimiento en baloncesto.</p>
+<p>MED- BCBC304 Táctica de ataque y defensa en la etapa de alto rendimiento.</p>
+<p>MED-BCBC305 Proyecto.</p>
+<p>MED-BCBC306 Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">● Educación Física con el título de Técnico Deportivo Superior en Baloncesto.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">● Profesores de Enseñanza Secundaria.</p>
+<td>● Educación Física con el título de Técnico Deportivo Superior en Baloncesto.</td>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria.</p>
+<p>● Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">● Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>● Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>

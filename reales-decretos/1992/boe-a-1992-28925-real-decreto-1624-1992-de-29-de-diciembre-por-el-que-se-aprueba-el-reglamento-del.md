@@ -1612,8 +1612,6 @@ No obstante, los empresarios o profesionales no establecidos en la Comunidad que
 
 No se considerará presentada la solicitud en tanto no conste aportada la documentación señalada en los apartados 3.º y 5.º de esta letra*.*
 
-> Téngase en cuenta que esta actualización, por la que se añaden los números 4º y 5º a la letra d) del apartado 1, por el art. 1.7 del Real Decreto 1171/2023, de 27 de diciembre. [Ref. BOE-A-2023-26454](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26454), entrará en vigor el 1 de julio de 2024, según se establece en la disposición final 4 del citado Real Decreto.
-
 2\. El plazo para la presentación de la solicitud se iniciará el día siguiente al final de cada trimestre natural o de cada año natural y concluirá el 30 de septiembre siguiente al año natural en el que se hayan soportado las cuotas a que se refiera.
 
 3\. Los originales de las facturas y demás documentos justificativos del derecho a la devolución deberán mantenerse a disposición de la Administración tributaria durante el plazo de prescripción del Impuesto.
@@ -2917,40 +2915,6 @@ j) En el caso de las operaciones a las que sea de aplicación el Régimen especi
 k) En el supuesto de las operaciones a las que sea de aplicación el Régimen especial de las agencias de viajes deberá consignar el importe total de la operación.
 
 La persona titular del Ministerio de Hacienda y Función Pública podrá mediante Orden ministerial determinar que, junto a lo anterior, se incluya aquella otra información con transcendencia tributaria a que se refieren los artículos 33 a 36 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio.
-
-> Téngase en cuenta que esta última actualización del apartado 3, por el art, 5.1 del Real Decreto 249/2023, de 4 de abril. [Ref. BOE-A-2023-8576](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8576), entra en vigor el 1 de julio de 2023, según se establece en su disposición final 3.
-
-> **Redacción anterior:**
-
-> "3. En el libro registro de facturas expedidas se inscribirán, una por una, las facturas expedidas y se consignarán el número y, en su caso, serie, la fecha de expedición, la fecha de realización de las operaciones, en caso de que sea distinta de la anterior, el nombre y apellidos, razón social o denominación completa y número de identificación fiscal del destinatario, la base imponible de las operaciones, determinada conforme a los artículos 78 y 79 de la Ley del Impuesto y, en su caso, el tipo impositivo aplicado y, opcionalmente, también la expresión «IVA incluido», la cuota tributaria y si la operación se ha efectuado conforme al régimen especial del criterio de caja, en cuyo caso se deberán incluir las menciones a que se refiere el apartado 1 del artículo 61 decies de este Reglamento.
-
-> En el caso de las personas y entidades a que se refiere el artículo 62.6 de este Reglamento, se incluirá además la siguiente información:
-
-> a) Tipo de factura expedida, indicando si se trata de una factura completa o simplificada.
-
-> Los campos de registro electrónico que se aprueben por Orden del Ministro de Hacienda podrán exigir que se incluyan otras especificaciones que sirvan para identificar determinadas facturas, como el caso de las facturas expedidas por terceros, así como la identificación de aquellos documentos electrónicos de reembolso, recibos y otros documentos de uso en el ejercicio de la actividad empresarial o profesional a que se refieren el artículo 9.1.2.ºB) de este Reglamento, y el artículo 16.1 y disposición adicional primera del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.
-
-> b) Identificación, en su caso, de si se trata de una rectificación registral a que se refiere el artículo 70 de este Reglamento.
-
-> c) Descripción de las operaciones.
-
-> d) En el caso de facturas rectificativas se deberán identificar como tales e incluirán la referencia a la factura rectificada o, en su caso, las especificaciones que se modifican.
-
-> e) En el caso de facturas que se expidan en sustitución o canje de facturas simplificadas expedidas con anterioridad, se incluirá la referencia de la factura que se sustituye o de la que se canjea o, en su caso, las especificaciones que se sustituyen o canjean.
-
-> f) Las menciones a que se refieren el artículo 51 quáter y el apartado 2 del artículo 61 quinquies de este Reglamento, y las letras j) y l) a p) del apartado 1 del artículo 6 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.
-
-> g) Periodo de liquidación de las operaciones que se registran a que se refieren las facturas expedidas.
-
-> h) Indicación de que la operación no se encuentra, en su caso, sujeta al Impuesto sobre el Valor Añadido.
-
-> i) En el caso de que la factura haya sido expedida en virtud de una autorización en materia de facturación de las previstas en el Real Decreto 1619/2012, de 30 de noviembre, por el que se regulan las obligaciones de facturación, se incluirá la referencia a la autorización concedida.
-
-> j) En el caso de las operaciones a las que sea de aplicación el Régimen especial de los bienes usados, objetos de arte, antigüedades y objetos de colección, deberá consignar el importe total de la operación.
-
-> k) En el supuesto de las operaciones a las que sea de aplicación el Régimen especial de las agencias de viajes deberá consignar el importe total de la operación.
-
-> El Ministro de Hacienda y Función Pública podrá mediante Orden ministerial determinar que, junto a lo anterior, se incluya aquella otra información con transcendencia tributaria a que se refieren los artículos 33 a 36 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio."
 
 4\. La anotación individualizada de las facturas a que se refiere el apartado anterior se podrá sustituir por la de asientos resúmenes en los que se harán constar la fecha en que se hayan expedido, base imponible global correspondiente a cada tipo impositivo, los tipos impositivos, la cuota global de facturas numeradas correlativamente y expedidas en la misma fecha, los números inicial y final de las mismas y si las operaciones se han efectuado conforme al régimen especial del criterio de caja, en cuyo caso se deberán incluir las menciones a que se refiere el apartado 1 del artículo 61 decies de este Reglamento, siempre que se cumplan simultáneamente los siguientes requisitos:
 

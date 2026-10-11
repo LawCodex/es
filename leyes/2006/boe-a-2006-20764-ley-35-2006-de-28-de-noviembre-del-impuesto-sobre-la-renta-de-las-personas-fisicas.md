@@ -2167,14 +2167,6 @@ La cuota íntegra estatal será la suma de las cantidades resultantes de aplicar
 
 Los contribuyentes que satisfagan las anualidades por alimentos a sus hijos previstas en la letra k) del artículo 7 sin derecho a la aplicación por estos últimos del mínimo por descendientes previsto en el artículo 58, cuando el importe de aquellas sea inferior a la base liquidable general, aplicarán la escala prevista en el número 1.º del apartado 1 del artículo 63 separadamente al importe de las anualidades por alimentos y al resto de la base liquidable general. La cuantía total resultante se minorará en el importe derivado de aplicar la escala prevista en el número 1.º del apartado 1 del artículo 63, a la parte de la base liquidable general correspondiente al mínimo personal y familiar incrementado en 1.980 euros anuales, sin que pueda resultar negativa como consecuencia de tal minoración.
 
-> Téngase en cuenta que este artículo 64, modificado por la disposición final 14.2 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entran en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
-
-> Redacción anterior:
-
-> "**Artículo 64. Especialidades aplicables en los supuestos de anualidades por alimentos a favor de los hijos.**
-
-> Los contribuyentes que satisfagan anualidades por alimentos a sus hijos por decisión judicial sin derecho a la aplicación por estos últimos del mínimo por descendientes previsto en el artículo 58 de esta Ley, cuando el importe de aquéllas sea inferior a la base liquidable general, aplicarán la escala prevista en el número 1.º del apartado 1 del artículo 63 de esta Ley separadamente al importe de las anualidades por alimentos y al resto de la base liquidable general. La cuantía total resultante se minorará en el importe derivado de aplicar la escala prevista en el número 1.º del apartado 1 del artículo 63 de esta Ley, a la parte de la base liquidable general correspondiente al mínimo personal y familiar incrementado en 1.980 euros anuales, sin que pueda resultar negativa como consecuencia de tal minoración."
-
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 14.2 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica por el art. 1.40 de la Ley 26/2014, de 27 de noviembre. [Ref. BOE-A-2014-12327](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12327).
@@ -2548,14 +2540,6 @@ La cuota íntegra autonómica del Impuesto será la suma de las cuantías result
 ###### Artículo 75. Especialidades aplicables en los supuestos de anualidades por alimentos a favor de los hijos.
 
 Los contribuyentes que satisfagan las anualidades por alimentos a sus hijos previstas en la letra k) del artículo 7 sin derecho a la aplicación por estos últimos del mínimo por descendientes previsto en el artículo 58, cuando el importe de aquellas sea inferior a la base liquidable general, aplicarán la escala prevista en el número 1.º del apartado 1 del artículo anterior separadamente al importe de las anualidades por alimentos y al resto de la base liquidable general. La cuantía total resultante se minorará en el importe derivado de aplicar la escala prevista en el número 1.º del apartado 1 del artículo 74 a la parte de la base liquidable general correspondiente al mínimo personal y familiar que resulte de los incrementos o disminuciones a que se refiere el artículo 56.3, incrementado en 1.980 euros anuales, sin que pueda resultar negativa como consecuencia de tal minoración.
-
-> Téngase en cuenta que este artículo 75, modificado por la disposición final 14.3 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
-
-> Redacción anterior:
-
-> "**Artículo 75. Especialidades aplicables en los supuestos de anualidades por alimentos a favor de los hijos.**
-
-> Los contribuyentes que satisfagan anualidades por alimentos a sus hijos por decisión judicial sin derecho a la aplicación por estos últimos del mínimo por descendientes previsto en el artículo 58 de esta Ley, cuando el importe de aquéllas sea inferior a la base liquidable general, aplicarán la escala prevista en el número 1.º del apartado 1 del artículo anterior separadamente al importe de las anualidades por alimentos y al resto de la base liquidable general. La cuantía total resultante se minorará en el importe derivado de aplicar la escala prevista en el número 1.º del apartado 1 del artículo 74 de esta Ley a la parte de la base liquidable general correspondiente al mínimo personal y familiar que resulte de los incrementos o disminuciones a que se refiere el artículo 56.3 de esta Ley, incrementado en 1.980 euros anuales, sin que pueda resultar negativa como consecuencia de tal minoración."
 
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 14.3 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -3209,24 +3193,6 @@ Que el contribuyente no haya participado, en algún momento dentro de los 12 mes
 
 El régimen de diferimiento previsto en el segundo párrafo de esta letra a) no resultará de aplicación cuando, por cualquier medio, se ponga a disposición del contribuyente el importe derivado del reembolso o transmisión de las acciones o participaciones de instituciones de inversión colectiva. Tampoco resultará de aplicación el citado régimen de diferimiento cuando la transmisión o reembolso o, en su caso, la suscripción o adquisición tenga por objeto participaciones representativas del patrimonio de instituciones de inversión colectiva a que se refiere este artículo que tengan la consideración de fondos de inversión cotizados o acciones de las sociedades del mismo tipo conforme a lo previsto en el artículo 79 del Reglamento de desarrollo de la Ley 35/2003, de 4 de noviembre, de instituciones de inversión colectiva, aprobado por el Real Decreto 1082/2012, de 13 de julio.
 
-> Téngase en cuenta que esta actualización de la letra a) del apartado 1, establecida por el art. 3.5 de la Ley 11/2021, de 9 de julio. [Ref. BOE-A-2021-11473](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-11473), produce efectos desde el 1 de enero de 2022, según determina la disposición final 7.c) de la citada Ley.
-
-> Redacción anterior:
-
-> "a) Las ganancias o pérdidas patrimoniales obtenidas como consecuencia de la transmisión de las acciones o participaciones o del reembolso de estas últimas. Cuando existan valores homogéneos, se considerará que los transmitidos o reembolsados por el contribuyente son aquellos que adquirió en primer lugar.
-
-> Cuando el importe obtenido como consecuencia del reembolso o transmisión de participaciones o acciones en instituciones de inversión colectiva se destine, de acuerdo con el procedimiento que reglamentariamente se establezca, a la adquisición o suscripción de otras acciones o participaciones en instituciones de inversión colectiva, no procederá computar la ganancia o pérdida patrimonial, y las nuevas acciones o participaciones suscritas conservarán el valor y la fecha de adquisición de las acciones o participaciones transmitidas o reembolsadas, en los siguientes casos:
-
-> 1.º En los reembolsos de participaciones en instituciones de inversión colectiva que tengan la consideración de fondos de inversión.
-
-> 2.º En las transmisiones de acciones de instituciones de inversión colectiva con forma societaria, siempre que se cumplan las dos condiciones siguientes:
-
-> Que el número de socios de la institución de inversión colectiva cuyas acciones se transmitan sea superior a 500.
-
-> Que el contribuyente no haya participado, en algún momento dentro de los 12 meses anteriores a la fecha de la transmisión, en más del 5 por ciento del capital de la institución de inversión colectiva.
-
-> El régimen de diferimiento previsto en el segundo párrafo de este párrafo a) no resultará de aplicación cuando, por cualquier medio, se ponga a disposición del contribuyente el importe derivado del reembolso o transmisión de las acciones o participaciones de instituciones de inversión colectiva. Tampoco resultará de aplicación el citado régimen de diferimiento cuando la transmisión o reembolso o, en su caso, la suscripción o adquisición tenga por objeto participaciones representativas del patrimonio de instituciones de inversión colectiva a que se refiere este artículo que tengan la consideración de fondos de inversión cotizados o acciones de las sociedades del mismo tipo conforme a lo previsto en el artículo 49 del Reglamento de la Ley 35/2003, de 4 de noviembre, de instituciones de inversión colectiva, aprobado por el Real Decreto 1309/2005, de 4 de noviembre."
-
 b) Los resultados distribuidos por las instituciones de inversión colectiva.
 
 c) En los supuestos de reducción de capital de sociedades de inversión de capital variable que tenga por finalidad la devolución de aportaciones, el importe de ésta o el valor normal de mercado de los bienes o derechos percibidos, que se calificará como rendimiento del capital mobiliario de acuerdo con lo previsto en la letra a) del artículo 25.1 de esta Ley, con el límite de la mayor de las siguientes cuantías:
@@ -3248,18 +3214,6 @@ Para la aplicación de lo dispuesto en el segundo párrafo del apartado 1.a) se 
 2.º En el caso de que la institución de inversión colectiva se estructure en compartimentos o subfondos, el número de socios y el porcentaje máximo de participación previstos en el apartado 1.a). 2.º anterior se entenderá referido a cada compartimento o subfondo comercializado.
 
 3.º Que el reembolso o transmisión o, en su caso, la suscripción o adquisición, no tenga por objeto participaciones o acciones en instituciones de inversión colectiva análogas a los fondos de inversión cotizados o sociedades del mismo tipo previstos en el artículo 79 del Reglamento de desarrollo de la Ley 35/2003, cualquiera que sea el mercado regulado o el sistema multilateral de negociación en el que coticen y la composición del índice que reproduzcan, repliquen o tomen como referencia.
-
-> Téngase en cuenta que esta actualización de la letra a) del apartado 2, establecida por el art. 3.5 de la Ley 11/2021, de 9 de julio. [Ref. BOE-A-2021-11473](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-11473), produce efectos desde el 1 de enero de 2022, según determina la disposición final 7.c) de la citada Ley.
-
-> Redacción anterior:
-
-> "a) El régimen previsto en el apartado 1 de este artículo será de aplicación a los socios o partícipes de instituciones de inversión colectiva, reguladas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, por la que se coordinan las disposiciones legales, reglamentarias y administrativas sobre determinados organismos de inversión colectiva en valores mobiliarios, distintas de las previstas en el artículo 95 de esta Ley, constituidas y domiciliadas en algún Estado miembro de la Unión Europea e inscritas en el registro especial de la Comisión Nacional del Mercado de Valores, a efectos de su comercialización por entidades residentes en España.
-
-> Para la aplicación de lo dispuesto en el segundo párrafo del apartado 1.a) se exigirán los siguientes requisitos:
-
-> 1.º La adquisición, suscripción, transmisión y reembolso de acciones y participaciones de instituciones de inversión colectiva se realizará a través de entidades comercializadoras inscritas en la Comisión Nacional del Mercado de Valores.
-
-> 2.º En el caso de que la institución de inversión colectiva se estructure en compartimentos o subfondos, el número de socios y el porcentaje máximo de participación previstos en el apartado 1.a).2.º anterior se entenderá referido a cada compartimento o subfondo comercializado."
 
 b) Lo dispuesto en las letras c) y d) del apartado 1 se aplicará a organismos de inversión colectiva equivalentes a las sociedades de inversión de capital variable que estén registrados en otro Estado, con independencia de cualquier limitación que tuvieran respecto de grupos restringidos de inversores, en la adquisición, cesión o rescate de sus acciones; en todo caso resultará de aplicación a las sociedades amparadas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, por la que se coordinan las disposiciones legales, reglamentarias y administrativas sobre determinados organismos de inversión colectiva en valores mobiliarios.
 
@@ -4919,81 +4873,75 @@ A partir de la entrada en vigor de la Ley de Presupuestos Generales del Estado p
 
 1) El cuadro con los límites cuantitativos excluyentes de la obligación de retener a que se refiere el artículo 81.1 del Reglamento del Impuesto sobre la Renta de las Personas Físicas a tomar en consideración, salvo cuando se trate de pensiones o haberes pasivos del régimen de Seguridad Social y de Clases Pasivas o prestaciones o subsidios por desempleo, será el siguiente:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_77">
-<col class="row_column_78">
-<col class="row_column_78">
-<col class="row_column_78">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_10">
+<tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Situación del contribuyente</p>
+<p>Situación del contribuyente</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">N.º de hijos y otros descendientes</p>
+<p>N.º de hijos y otros descendientes</p>
 </th>
 </tr>
-<tr class="row_column_58">
+<tr>
 <th>
-<p class="cabeza_tabla">0</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<p>0</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 <th>
-<p class="cabeza_tabla">1</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<p>1</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 <th>
-<p class="cabeza_tabla">2 o más</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<p>2 o más</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.ª Contribuyente soltero, viudo, divorciado o separado legalmente</p>
+<p>1.ª Contribuyente soltero, viudo, divorciado o separado legalmente</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15.168</p>
+<p>15.168</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16.730</p>
-</td>
-</tr>
-<tr class="row_column_79">
-<td>
-<p class="cuerpo_tabla_izq">2.ª Contribuyente cuyo cónyuge no obtenga rentas superiores a 1.500 euros anuales, excluidas las exentas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">14.641</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15.845</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">17.492</p>
+<p>16.730</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.ª Otras situaciones</p>
+<p>2.ª Contribuyente cuyo cónyuge no obtenga rentas superiores a 1.500 euros anuales, excluidas las exentas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12.643</p>
+<p>14.641</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13.455</p>
+<p>15.845</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14.251</p>
+<p>17.492</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.ª Otras situaciones</p>
+</td>
+<td>
+<p>12.643</p>
+</td>
+<td>
+<p>13.455</p>
+</td>
+<td>
+<p>14.251</p>
 </td>
 </tr>
 </tbody>
@@ -5001,81 +4949,75 @@ A partir de la entrada en vigor de la Ley de Presupuestos Generales del Estado p
 
 En el caso de pensiones o haberes pasivos de Seguridad Social o prestaciones o subsidios por desempleo, el cuadro será el siguiente:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_77">
-<col class="row_column_78">
-<col class="row_column_78">
-<col class="row_column_78">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_10">
+<tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Situación del contribuyente</p>
+<p>Situación del contribuyente</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">N.º de hijos y otros descendientes</p>
+<p>N.º de hijos y otros descendientes</p>
 </th>
 </tr>
-<tr class="row_column_58">
+<tr>
 <th>
-<p class="cabeza_tabla">0</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<p>0</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 <th>
-<p class="cabeza_tabla">1</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<p>1</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 <th>
-<p class="cabeza_tabla">2 o más</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<p>2 o más</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.ª Contribuyente soltero, viudo, divorciado o separado legalmente</p>
+<p>1.ª Contribuyente soltero, viudo, divorciado o separado legalmente</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">15.106,5</p>
+<p>15.106,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">16.451,5</p>
-</td>
-</tr>
-<tr class="row_column_79">
-<td>
-<p class="cuerpo_tabla_izq">2.ª Contribuyente cuyo cónyuge no obtenga rentas superiores a 1.500 euros anuales, excluidas las exentas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">14.576</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">15.733</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">17.386</p>
+<p>16.451,5</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.ª Otras situaciones</p>
+<p>2.ª Contribuyente cuyo cónyuge no obtenga rentas superiores a 1.500 euros anuales, excluidas las exentas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">13.000</p>
+<p>14.576</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">13.561,5</p>
+<p>15.733</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">14.184</p>
+<p>17.386</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.ª Otras situaciones</p>
+</td>
+<td>
+<p>13.000</p>
+</td>
+<td>
+<p>13.561,5</p>
+</td>
+<td>
+<p>14.184</p>
 </td>
 </tr>
 </tbody>
@@ -6011,8 +5953,6 @@ Dicha cuantía será de 10.000 euros para los premios derivados de juegos celebr
 
 El requisito establecido en el número 3.º de la letra a) del apartado 2 del artículo 94 de esta Ley no será de aplicación a las participaciones o acciones en instituciones de inversión colectiva a que se refiere dicho número 3.º adquiridas por el contribuyente con anterioridad a 1 de enero de 2022 y no cotizadas en bolsa de valores española, siempre que el importe del reembolso o transmisión no se destine a la adquisición de acciones o participaciones de instituciones de inversión colectiva previstas en el citado número 3º.
 
-> Téngase en cuenta que esta disposición, añadida por el art. 3.7 de la Ley 11/2021, de 9 de julio. [Ref. BOE-A-2021-11473](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-11473), produce efectos desde el 1 de enero de 2022, según establece la disposición final 7.c) de la citada Ley.
-
 > Se añade por el art. 3.7 de la Ley 11/2021, de 9 de julio. [Ref. BOE-A-2021-11473](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-11473)
 
 > Esta modificación produce efectos desde el 1 de enero de 2022, según establece la disposición final 7.c) de la citada Ley.
@@ -6092,12 +6032,6 @@ No obstante lo dispuesto en los apartados anteriores, con independencia de la fe
 2\. Con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2011 quedan derogados los artículos 36, 37, apartados 4, 5 y 6 del artículo 38, apartados 2 y 3 del artículo 39, artículos 40 y 43 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
 
 3\. **(Derogado)**
-
-> Téngase en cuenta que la derogación del apartado 3 produce efectos para los periodos impositivos que se inicien a partir de 1 de enero de 2014 según establece la disposición derogatoria única.2. de la Ley 16/2013, de 29 de octubre. [Ref. BOE-A-2013-11331](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11331).
-
-> Redacción anterior:
-
-> 3\. Con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2012 queda derogado el apartado 2 del artículo 38 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
 
 4\. Con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2014 quedan derogados el apartado 1 del artículo 34 y los apartados 1, 3 y 7 del artículo 38 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por Real Decreto Legislativo 4/2004, de 5 de marzo.
 

@@ -92,249 +92,88 @@ JOSÉ CLAUDIO ARANZADI MARTÍNEZ
 
 ## ANEXO — Especificaciones técnicas que deben cumplir, toma de muestras y métodos de ensayo a los que deben someterse los cementos
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">1. <em>Especificaciones técnicas y conformidad de la producción</em></td>
+<td colspan="2">1. <em>Especificaciones técnicas y conformidad de la producción</em></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE 80303-1:2017</td>
-<td class="cuerpo_tabla_izq">Cementos con características adicionales. Parte 1: Cementos resistentes a los sulfatos.</td>
+<td>UNE 80303-1:2017</td>
+<td>Cementos con características adicionales. Parte 1: Cementos resistentes a los sulfatos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE 80303-2:2017</td>
-<td class="cuerpo_tabla_izq">Cementos con características adicionales. Parte 2: Cementos resistentes al agua de mar.</td>
+<td>UNE 80303-2:2017</td>
+<td>Cementos con características adicionales. Parte 2: Cementos resistentes al agua de mar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE 80 304:2006</td>
-<td class="cuerpo_tabla_izq">Cementos. Cálculo de la composición potencial del clínker portland.</td>
+<td>UNE 80 304:2006</td>
+<td>Cementos. Cálculo de la composición potencial del clínker portland.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE 80 305:2012</td>
-<td class="cuerpo_tabla_izq">Cementos blancos.</td>
+<td>UNE 80 305:2012</td>
+<td>Cementos blancos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE 80 307:2001</td>
-<td class="cuerpo_tabla_izq">Cementos para usos especiales.</td>
+<td>UNE 80 307:2001</td>
+<td>Cementos para usos especiales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 197-2:2020</td>
-<td class="cuerpo_tabla_izq">Cementos. Parte 2: Evaluación de la conformidad.</td>
+<td>UNE-EN 197-2:2020</td>
+<td>Cementos. Parte 2: Evaluación de la conformidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 197-5:2021</td>
-<td class="cuerpo_tabla_izq">Cemento. Parte 5: Cemento Portland compuesto CEM II/C-M y cemento compuesto CEM VI.</td>
+<td>UNE-EN 197-5:2021</td>
+<td>Cemento. Parte 5: Cemento Portland compuesto CEM II/C-M y cemento compuesto CEM VI.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">2. <em>Toma de muestras y métodos de ensayo</em></td>
+<td colspan="2">2. <em>Toma de muestras y métodos de ensayo</em></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 196-1:2018</td>
-<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 1: Determinación de resistencias mecánicas.</td>
+<td>UNE-EN 196-1:2018</td>
+<td>Métodos de ensayo de cementos. Parte 1: Determinación de resistencias mecánicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 196-2:2014</td>
-<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 2: Análisis químico de cementos.</td>
+<td>UNE-EN 196-2:2014</td>
+<td>Métodos de ensayo de cementos. Parte 2: Análisis químico de cementos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 196-3:2017</td>
-<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 3: Determinación del tiempo de fraguado y de la estabilidad del volumen.</td>
+<td>UNE-EN 196-3:2017</td>
+<td>Métodos de ensayo de cementos. Parte 3: Determinación del tiempo de fraguado y de la estabilidad del volumen.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 196-5:2011</td>
-<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 5: Ensayo de puzolanicidad para los cementos puzolánicos.</td>
+<td>UNE-EN 196-5:2011</td>
+<td>Métodos de ensayo de cementos. Parte 5: Ensayo de puzolanicidad para los cementos puzolánicos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 196-6:2019</td>
-<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 6: Determinación de la finura.</td>
+<td>UNE-EN 196-6:2019</td>
+<td>Métodos de ensayo de cementos. Parte 6: Determinación de la finura.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 196-7:2008</td>
-<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 7: Métodos de toma y preparación de muestras de cemento.</td>
+<td>UNE-EN 196-7:2008</td>
+<td>Métodos de ensayo de cementos. Parte 7: Métodos de toma y preparación de muestras de cemento.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 196-8:2010</td>
-<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 8: Determinación del calor de hidratación. Método por disolución.</td>
+<td>UNE-EN 196-8:2010</td>
+<td>Métodos de ensayo de cementos. Parte 8: Determinación del calor de hidratación. Método por disolución.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 196-9:2011</td>
-<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 9: Determinación del calor de hidratación. Método semiadiabático.</td>
+<td>UNE-EN 196-9:2011</td>
+<td>Métodos de ensayo de cementos. Parte 9: Determinación del calor de hidratación. Método semiadiabático.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE-EN 196-10:2016</td>
-<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 10: Determinación del contenido de cromo (VI) soluble en agua en cementos.</td>
+<td>UNE-EN 196-10:2016</td>
+<td>Métodos de ensayo de cementos. Parte 10: Determinación del contenido de cromo (VI) soluble en agua en cementos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE 80117:2012</td>
-<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Ensayos físicos. Determinación del color en los cementos blancos.</td>
+<td>UNE 80117:2012</td>
+<td>Métodos de ensayo de cementos. Ensayos físicos. Determinación del color en los cementos blancos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNE 80 220:2012</td>
-<td class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Análisis químico. Determinación de la humedad.</td>
+<td>UNE 80 220:2012</td>
+<td>Métodos de ensayo de cementos. Análisis químico. Determinación de la humedad.</td>
 </tr>
 </tbody>
 </table>
-
-> Téngase en cuenta que esta última actualización por la disposición final 3 del Real Decreto 145/2023, de 28 de febrero. [Ref. BOE-A-2023-7056](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7056), entrará en vigor el 1 de julio de 2023, según se establece en su disposición final 5.
-
-> **Redacción anterior:**
-
-> Especificaciones técnicas que deben cumplir, toma de muestras y métodos de ensayo a los que deben someterse los cementos
-
-> <table border="0" class="tabla" summary="Tabla de formato">
-> <tbody>
-> <tr>
-> <td colspan="2">
-> <p class="cuerpo_tabla_izq">1. Especificaciones técnicas y conformidad de la producción</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE 80 303-1:2001 y 1M:2006</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Cementos con características adicionales. Parte 1: Cementos resistentes a los sulfatos.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE 80 303-2:2001 y 1M:2006</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Cementos con características adicionales. Parte 2: Cementos resistentes al agua de mar.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE 80 304:2006</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Cementos. Cálculo de la composición potencial del clínker portland.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE 80 305:2001</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Cementos blancos.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE 80 307:2001</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Cementos para usos especiales.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE-EN 197-2:2000</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Cementos. Parte 2: Evaluación de la conformidad.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE-EN 197-2:2002 ERRATUM</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Cementos. Parte 2: Evaluación de la conformidad.</p>
-> </td>
-> </tr>
-> <tr>
-> <td colspan="2">
-> <p class="cuerpo_tabla_izq">2. Toma de muestras y métodos de ensayo</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE-EN 196-1:2005</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 1: Determinación de resistencias mecánicas.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE-EN 196-2:2006</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 2: Análisis químico de cementos.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE-EN 196-3:2005</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 3: Determinación del tiempo de fraguado y de la estabilidad del volumen.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE-EN 196-5:2006</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 5: Ensayo de puzolanicidad para los cementos puzolánicos.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE-EN 196-8:2005</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 8: Determinación del calor de hidratación. Método por disolución.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE-EN 196-9:2005</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Parte 9: Determinación del calor de hidratación. Método semiadiabático.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE 80117:2001</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Ensayos físicos. Determinación del color en los cementos blancos.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE 80 220:2000</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Análisis químico. Determinación de la humedad.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE 80 216:1991 EX</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Determinación cuantitativa de los componentes.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">UNE 80 401:1991</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Métodos de ensayo de cementos. Métodos de toma y preparación de muestras de cemento.</p>
-> </td>
-> </tr>
-> </tbody>
-> </table>
 
 > Se modifica por la disposición final 3 del Real Decreto 145/2023, de 28 de febrero. [Ref. BOE-A-2023-7056](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7056)
 

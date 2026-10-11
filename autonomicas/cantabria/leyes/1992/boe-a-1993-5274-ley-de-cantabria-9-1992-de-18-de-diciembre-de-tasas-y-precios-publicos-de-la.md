@@ -930,53 +930,48 @@ Segunda: Abonarán esta tarifa los armadores o los consignatarios de los buques 
 
 Tercera: La cuantía en euros de esta tarifa se calculará de acuerdo con el cuadro siguiente, en función de su arqueo bruto (por cada 100 unidades de GT o fracción) y de su estancia en puerto.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="50%">
-<col width="35%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Estancia</th>
-<th class="cabeza_tabla">Arqueo bruto</th>
-<th class="cabeza_tabla">Euros</th>
+<th>Estancia</th>
+<th>Arqueo bruto</th>
+<th>Euros</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PERIODOS COMPLETOS DE 24 HORAS O FRACCIÓN SUPERIOR A 6 HORAS.</td>
-<td class="cuerpo_tabla_izq">HASTA 3.000.</td>
-<td class="cuerpo_tabla_coma">13,00</td>
+<td rowspan="4">PERIODOS COMPLETOS DE 24 HORAS O FRACCIÓN SUPERIOR A 6 HORAS.</td>
+<td>HASTA 3.000.</td>
+<td>13,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MAYOR DE 3.000 HASTA 5.000.</td>
-<td class="cuerpo_tabla_coma">14,44</td>
+<td>MAYOR DE 3.000 HASTA 5.000.</td>
+<td>14,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MAYOR DE 5.000 HASTA 10.000.</td>
-<td class="cuerpo_tabla_coma">15,88</td>
+<td>MAYOR DE 5.000 HASTA 10.000.</td>
+<td>15,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MAYOR DE 10.000.</td>
-<td class="cuerpo_tabla_coma">17,32</td>
+<td>MAYOR DE 10.000.</td>
+<td>17,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">POR LA FRACCIÓN DE HASTA 6 HORAS.</td>
-<td class="cuerpo_tabla_izq">HASTA 3.000.</td>
-<td class="cuerpo_tabla_coma">6,51</td>
+<td rowspan="4">POR LA FRACCIÓN DE HASTA 6 HORAS.</td>
+<td>HASTA 3.000.</td>
+<td>6,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MAYOR DE 3.000 HASTA 5.000.</td>
-<td class="cuerpo_tabla_coma">7,24</td>
+<td>MAYOR DE 3.000 HASTA 5.000.</td>
+<td>7,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MAYOR DE 5.000 HASTA 10.000.</td>
-<td class="cuerpo_tabla_coma">7,96</td>
+<td>MAYOR DE 5.000 HASTA 10.000.</td>
+<td>7,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MAYOR DE 10.000.</td>
-<td class="cuerpo_tabla_coma">8,66</td>
+<td>MAYOR DE 10.000.</td>
+<td>8,66</td>
 </tr>
 </tbody>
 </table>
@@ -1023,81 +1018,71 @@ Tercera: La tarifa se aplicará a:
 
 Cuarta: Las cuantías de las tarifas de pasajeros serán las siguientes:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tráfico</th>
-<th class="cabeza_tabla" colspan="2">Pasajeros (Euros)</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla" colspan="3">Vehiculos (Euros)</th>
-<th class="cabeza_tabla"> </th>
+<th rowspan="2">Tráfico</th>
+<th colspan="2">Pasajeros (Euros)</th>
+<th> </th>
+<th colspan="3">Vehiculos (Euros)</th>
+<th> </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Bloque</p>
-<p class="cabeza_tabla">(1)</p>
+<th>
+<p>Bloque</p>
+<p>(1)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Bloque</p>
-<p class="cabeza_tabla">(2)</p>
+<th>
+<p>Bloque</p>
+<p>(2)</p>
 </th>
-<th class="cabeza_tabla">Motocicletas</th>
-<th class="cabeza_tabla">Turismos</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Furgonetas</p>
-<p class="cabeza_tabla">Caravanas</p>
+<th>Motocicletas</th>
+<th>Turismos</th>
+<th>
+<p>Furgonetas</p>
+<p>Caravanas</p>
 </th>
-<th class="cabeza_tabla">Autocares ≤20 plazas</th>
-<th class="cabeza_tabla">Autocares &gt;20 plazas</th>
+<th>Autocares ≤20 plazas</th>
+<th>Autocares &gt;20 plazas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Interior o bahía.</td>
-<td class="cuerpo_tabla_coma">0,063528</td>
-<td class="cuerpo_tabla_coma">0,063528</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Interior o bahía.</td>
+<td>0,063528</td>
+<td>0,063528</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CEE.</td>
-<td class="cuerpo_tabla_coma">3,41</td>
-<td class="cuerpo_tabla_coma">1,02</td>
-<td class="cuerpo_tabla_coma">1,82</td>
-<td class="cuerpo_tabla_coma">5,42</td>
-<td class="cuerpo_tabla_coma">9,76</td>
-<td class="cuerpo_tabla_coma">24,42</td>
-<td class="cuerpo_tabla_coma">48,87</td>
+<td>CEE.</td>
+<td>3,41</td>
+<td>1,02</td>
+<td>1,82</td>
+<td>5,42</td>
+<td>9,76</td>
+<td>24,42</td>
+<td>48,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Exterior.</td>
-<td class="cuerpo_tabla_coma">6,52</td>
-<td class="cuerpo_tabla_coma">4,07</td>
-<td class="cuerpo_tabla_coma">2,71</td>
-<td class="cuerpo_tabla_coma">8,15</td>
-<td class="cuerpo_tabla_coma">14,67</td>
-<td class="cuerpo_tabla_coma">36,64</td>
-<td class="cuerpo_tabla_coma">73,30</td>
+<td>Exterior.</td>
+<td>6,52</td>
+<td>4,07</td>
+<td>2,71</td>
+<td>8,15</td>
+<td>14,67</td>
+<td>36,64</td>
+<td>73,30</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="8">
-<p class="cita">(1) Camarote de cualquier número de plazas ocupado por uno o dos pasajeros.</p>
-<p class="cita">(2) Resto de modalidades de pasaje.</p>
+<p>(1) Camarote de cualquier número de plazas ocupado por uno o dos pasajeros.</p>
+<p>(2) Resto de modalidades de pasaje.</p>
 </td>
 </tr>
 </tfoot>
@@ -1135,95 +1120,88 @@ Se entiende por tránsito marítimo, la operación que se realice con las mercan
 
 Transbordo es la operación por la cual se trasladan las mercancías de un barco a otro sin detenerse en los muelles y con presencia simultánea de ambos barcos durante las operaciones.
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Grupos</th>
-<th class="cabeza_tabla">Cabotaje</th>
-<th class="cabeza_tabla">Cabotaje</th>
-<th class="cabeza_tabla">Exterior</th>
-<th class="cabeza_tabla" rowspan="2">Euros</th>
+<th>Grupos</th>
+<th>Cabotaje</th>
+<th>Cabotaje</th>
+<th>Exterior</th>
+<th rowspan="2">Euros</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Exterior</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Embarque/Desembarque</p>
-<p class="cabeza_tabla">Desembarque</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Exterior</th>
+<th>
+<p>Embarque/Desembarque</p>
+<p>Desembarque</p>
+<p>Euros</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Desembarque</p>
-<p class="cabeza_tabla">Euros</p>
+<th>
+<p>Desembarque</p>
+<p>Euros</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Embarque</p>
-<p class="cabeza_tabla">Euros</p>
+<th>
+<p>Embarque</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Primero.</td>
-<td class="cuerpo_tabla_centro">0,623</td>
-<td class="cuerpo_tabla_centro">0,949</td>
-<td class="cuerpo_tabla_centro">0,733</td>
-<td class="cuerpo_tabla_centro">1,178</td>
+<td>Primero.</td>
+<td>0,623</td>
+<td>0,949</td>
+<td>0,733</td>
+<td>1,178</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Segundo.</td>
-<td class="cuerpo_tabla_centro">0,893</td>
-<td class="cuerpo_tabla_centro">1,360</td>
-<td class="cuerpo_tabla_centro">1,044</td>
-<td class="cuerpo_tabla_centro">1,697</td>
+<td>Segundo.</td>
+<td>0,893</td>
+<td>1,360</td>
+<td>1,044</td>
+<td>1,697</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tercero.</td>
-<td class="cuerpo_tabla_centro">1,339</td>
-<td class="cuerpo_tabla_centro">2,045</td>
-<td class="cuerpo_tabla_centro">1,561</td>
-<td class="cuerpo_tabla_centro">2,520</td>
+<td>Tercero.</td>
+<td>1,339</td>
+<td>2,045</td>
+<td>1,561</td>
+<td>2,520</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuarto.</td>
-<td class="cuerpo_tabla_centro">1,972</td>
-<td class="cuerpo_tabla_centro">3,015</td>
-<td class="cuerpo_tabla_centro">2,309</td>
-<td class="cuerpo_tabla_centro">3,699</td>
+<td>Cuarto.</td>
+<td>1,972</td>
+<td>3,015</td>
+<td>2,309</td>
+<td>3,699</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Quinto.</td>
-<td class="cuerpo_tabla_centro">2,667</td>
-<td class="cuerpo_tabla_centro">4,101</td>
-<td class="cuerpo_tabla_centro">3,162</td>
-<td class="cuerpo_tabla_centro">5,058</td>
+<td>Quinto.</td>
+<td>2,667</td>
+<td>4,101</td>
+<td>3,162</td>
+<td>5,058</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sexto.</td>
-<td class="cuerpo_tabla_centro">3,563</td>
-<td class="cuerpo_tabla_centro">5,470</td>
-<td class="cuerpo_tabla_centro">4,205</td>
-<td class="cuerpo_tabla_centro">6,714</td>
+<td>Sexto.</td>
+<td>3,563</td>
+<td>5,470</td>
+<td>4,205</td>
+<td>6,714</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Séptimo.</td>
-<td class="cuerpo_tabla_centro">4,459</td>
-<td class="cuerpo_tabla_centro">6,830</td>
-<td class="cuerpo_tabla_centro">5,249</td>
-<td class="cuerpo_tabla_centro">8,412</td>
+<td>Séptimo.</td>
+<td>4,459</td>
+<td>6,830</td>
+<td>5,249</td>
+<td>8,412</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Octavo.</td>
-<td class="cuerpo_tabla_centro">9,465</td>
-<td class="cuerpo_tabla_centro">14,504</td>
-<td class="cuerpo_tabla_centro">11,162</td>
-<td class="cuerpo_tabla_centro">17,866</td>
+<td>Octavo.</td>
+<td>9,465</td>
+<td>14,504</td>
+<td>11,162</td>
+<td>17,866</td>
 </tr>
 </tbody>
 </table>
@@ -1332,47 +1310,42 @@ Quinta:
 
 En el caso de que la instalación de pantalanes disponga de acometidas de agua y energía en los propios pantalanes, a las tarifas definidas en el epígrafe Quinta 1, se añadirán las siguientes, por los servicios que efectivamente se ofrezcan.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="25%">
-<col width="25%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tipo de amarre</th>
-<th class="cabeza_tabla" colspan="2">Tarifa general (euros/mes)</th>
+<th rowspan="2">Tipo de amarre</th>
+<th colspan="2">Tarifa general (euros/mes)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Agua</th>
-<th class="cabeza_tabla">Energia</th>
+<th>Agua</th>
+<th>Energia</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">Eslora &lt; 6 m</td>
-<td class="cuerpo_tabla_coma">1,73</td>
-<td class="cuerpo_tabla_coma">1,73</td>
+<td>Eslora &lt; 6 m</td>
+<td>1,73</td>
+<td>1,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6 ≤ eslora &lt; 8 m</td>
-<td class="cuerpo_tabla_coma">2,95</td>
-<td class="cuerpo_tabla_coma">2,95</td>
+<td>6 ≤ eslora &lt; 8 m</td>
+<td>2,95</td>
+<td>2,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8 ≤ eslora &lt; 10 m</td>
-<td class="cuerpo_tabla_coma">4,20</td>
-<td class="cuerpo_tabla_coma">4,20</td>
+<td>8 ≤ eslora &lt; 10 m</td>
+<td>4,20</td>
+<td>4,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10 ≤ eslora &lt; 12 m</td>
-<td class="cuerpo_tabla_coma">6,32</td>
-<td class="cuerpo_tabla_coma">6,32</td>
+<td>10 ≤ eslora &lt; 12 m</td>
+<td>6,32</td>
+<td>6,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12 ≤ eslora</td>
-<td class="cuerpo_tabla_coma">0,536 x Eslora (m)</td>
-<td class="cuerpo_tabla_coma">0,536 x eslora (m)</td>
+<td>12 ≤ eslora</td>
+<td>0,536 x Eslora (m)</td>
+<td>0,536 x eslora (m)</td>
 </tr>
 </tbody>
 </table>
@@ -1381,47 +1354,42 @@ La tarifa incluye el pago de los consumos eventualmente realizados.
 
 3\. En el caso de embarcaciones que ocupen los amarres con carácter esporádico, de paso o en tránsito, a las tarifas definidas en Quinta 2, se añadirán las siguientes por los servicios que efectivamente se ofrezcan.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="25%">
-<col width="25%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tipo de amarre</th>
-<th class="cabeza_tabla" colspan="2">Tarifa general (euros/día)</th>
+<th rowspan="2">Tipo de amarre</th>
+<th colspan="2">Tarifa general (euros/día)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Agua</th>
-<th class="cabeza_tabla">Energía</th>
+<th>Agua</th>
+<th>Energía</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">Eslora &lt; 6 m</td>
-<td class="cuerpo_tabla_coma">0,211</td>
-<td class="cuerpo_tabla_coma">0,358</td>
+<td>Eslora &lt; 6 m</td>
+<td>0,211</td>
+<td>0,358</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6 ≤ eslora &lt; 8 m</td>
-<td class="cuerpo_tabla_coma">0,296</td>
-<td class="cuerpo_tabla_coma">0,601</td>
+<td>6 ≤ eslora &lt; 8 m</td>
+<td>0,296</td>
+<td>0,601</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8 ≤ eslora &lt; 10 m</td>
-<td class="cuerpo_tabla_coma">0,422</td>
-<td class="cuerpo_tabla_coma">0,864</td>
+<td>8 ≤ eslora &lt; 10 m</td>
+<td>0,422</td>
+<td>0,864</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10 ≤ eslora &lt; 12 m</td>
-<td class="cuerpo_tabla_coma">0,643</td>
-<td class="cuerpo_tabla_coma">1,273</td>
+<td>10 ≤ eslora &lt; 12 m</td>
+<td>0,643</td>
+<td>1,273</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12 ≤ eslora</td>
-<td class="cuerpo_tabla_coma">0,0532 x Eslora (m)</td>
-<td class="cuerpo_tabla_coma">0,1134 x eslora (m)</td>
+<td>12 ≤ eslora</td>
+<td>0,0532 x Eslora (m)</td>
+<td>0,1134 x eslora (m)</td>
 </tr>
 </tbody>
 </table>
@@ -1456,85 +1424,80 @@ En el momento en el que la gestión de la parte anteriormente concesionada del n
 
 1\. A los atraques no esporádicos en pantalanes, correspondientes a la nueva dársena deportiva del Puerto de Laredo, autorizados en virtud de resolución administrativa previa, les resultarán de aplicación específicamente las siguientes tarifas anuales:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="25%">
-<col width="25%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tipo de Amarre</p>
-<p class="cabeza_tabla">Eslora x Manga</p>
+<th>
+<p>Tipo de Amarre</p>
+<p>Eslora x Manga</p>
 </th>
-<th class="cabeza_tabla">Eslora de embarcación</th>
-<th class="cabeza_tabla">Tarifa Anual (euros.)</th>
+<th>Eslora de embarcación</th>
+<th>Tarifa Anual (euros.)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">6 m x 2,8 m</td>
-<td class="cuerpo_tabla_centro">≤ 5 m</td>
-<td class="cuerpo_tabla_centro">1.174,05</td>
+<td rowspan="2">6 m x 2,8 m</td>
+<td>≤ 5 m</td>
+<td>1.174,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 5 m y ≤ 6 m</td>
-<td class="cuerpo_tabla_centro">1.487,14</td>
+<td>&gt; 5 m y ≤ 6 m</td>
+<td>1.487,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">8 m x 3,4 m</td>
-<td class="cuerpo_tabla_centro">≤ 7 m.</td>
-<td class="cuerpo_tabla_centro">1.895,18</td>
+<td rowspan="2">8 m x 3,4 m</td>
+<td>≤ 7 m.</td>
+<td>1.895,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 7 m y ≤ 8 m</td>
-<td class="cuerpo_tabla_centro">2.304,27</td>
+<td>&gt; 7 m y ≤ 8 m</td>
+<td>2.304,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">10 m x 4,2 m</td>
-<td class="cuerpo_tabla_centro">≤ 9 m</td>
-<td class="cuerpo_tabla_centro">2.795,81</td>
+<td rowspan="2">10 m x 4,2 m</td>
+<td>≤ 9 m</td>
+<td>2.795,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 9 m y ≤ 10 m</td>
-<td class="cuerpo_tabla_centro">3.287,35</td>
+<td>&gt; 9 m y ≤ 10 m</td>
+<td>3.287,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">12 m x 4,8 m</td>
-<td class="cuerpo_tabla_centro">≤ 11 m</td>
-<td class="cuerpo_tabla_centro">3.915,59</td>
+<td rowspan="2">12 m x 4,8 m</td>
+<td>≤ 11 m</td>
+<td>3.915,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 11 m y ≤ 12 m</td>
-<td class="cuerpo_tabla_centro">4.542,80</td>
+<td>&gt; 11 m y ≤ 12 m</td>
+<td>4.542,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">15 m x 5,3 m</td>
-<td class="cuerpo_tabla_centro">≤ 13,5 m</td>
-<td class="cuerpo_tabla_centro">5.483,09</td>
+<td rowspan="2">15 m x 5,3 m</td>
+<td>≤ 13,5 m</td>
+<td>5.483,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 13,5 m y ≤ 15 m</td>
-<td class="cuerpo_tabla_centro">6.423,38</td>
+<td>&gt; 13,5 m y ≤ 15 m</td>
+<td>6.423,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">18 m x 6,3 m</td>
-<td class="cuerpo_tabla_centro">≤ 16,5 m</td>
-<td class="cuerpo_tabla_centro">7.543,16</td>
+<td rowspan="2">18 m x 6,3 m</td>
+<td>≤ 16,5 m</td>
+<td>7.543,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 16,5 m y ≤ 18 m</td>
-<td class="cuerpo_tabla_centro">8.663,99</td>
+<td>&gt; 16,5 m y ≤ 18 m</td>
+<td>8.663,99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">20 m x 7,0 m</td>
-<td class="cuerpo_tabla_centro">≤ 19 m</td>
-<td class="cuerpo_tabla_centro">9.679,42</td>
+<td rowspan="2">20 m x 7,0 m</td>
+<td>≤ 19 m</td>
+<td>9.679,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 19 m y ≤ 20 m</td>
-<td class="cuerpo_tabla_centro">10.695,88</td>
+<td>&gt; 19 m y ≤ 20 m</td>
+<td>10.695,88</td>
 </tr>
 </tbody>
 </table>
@@ -1551,89 +1514,84 @@ En el supuesto de embarcaciones que solo pudieran acceder a pantalanes de dimens
 
 Así mismo, si el usuario abonara la tarifa a través de domiciliación bancaria, se aplicará adicionalmente una bonificación del 20 % sobre la tarifa correspondiente, una vez aplicada en su caso la reducción prevista en el párrafo anterior, sin que sea de aplicación reducción alguna de las contempladas en el apartado ocho de esta tarifa.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="50%">
-<col width="25%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">A los atraques esporádicos en pantalanes, para embarcaciones en tránsito, les serán de aplicación las siguientes tarifas diarias:</p>
-<p class="cabeza_tabla">Tipo de Amarre</p>
+<th>
+<p>A los atraques esporádicos en pantalanes, para embarcaciones en tránsito, les serán de aplicación las siguientes tarifas diarias:</p>
+<p>Tipo de Amarre</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">Eslora de embarcación</th>
-<th class="cabeza_tabla">Tarifa</th>
+<th rowspan="2">Eslora de embarcación</th>
+<th>Tarifa</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Eslora x Manga</th>
-<th class="cabeza_tabla">Diaria total</th>
+<th>Eslora x Manga</th>
+<th>Diaria total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">6 m x 2,8 m</td>
-<td class="cuerpo_tabla_centro">≤ 5 m.</td>
-<td class="cuerpo_tabla_centro">29,22 euros</td>
+<td rowspan="2">6 m x 2,8 m</td>
+<td>≤ 5 m.</td>
+<td>29,22 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 5 m y ≤ 6 m</td>
-<td class="cuerpo_tabla_centro">30,30 euros</td>
+<td>&gt; 5 m y ≤ 6 m</td>
+<td>30,30 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">8 m x 3,4 m</td>
-<td class="cuerpo_tabla_centro">≤ 7 m</td>
-<td class="cuerpo_tabla_centro">31,30 euros</td>
+<td rowspan="2">8 m x 3,4 m</td>
+<td>≤ 7 m</td>
+<td>31,30 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 7 m y ≤ 8 m</td>
-<td class="cuerpo_tabla_centro">32,35 euros</td>
+<td>&gt; 7 m y ≤ 8 m</td>
+<td>32,35 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">10 m x 4,2 m</td>
-<td class="cuerpo_tabla_centro">≤ 9 m</td>
-<td class="cuerpo_tabla_centro">33,39 euros</td>
+<td rowspan="2">10 m x 4,2 m</td>
+<td>≤ 9 m</td>
+<td>33,39 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 9 m y ≤ 10 m</td>
-<td class="cuerpo_tabla_centro">35,49 euros</td>
+<td>&gt; 9 m y ≤ 10 m</td>
+<td>35,49 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">12 m x 4,8 m</td>
-<td class="cuerpo_tabla_centro">≤ 11 m</td>
-<td class="cuerpo_tabla_centro">36,53 euros</td>
+<td rowspan="2">12 m x 4,8 m</td>
+<td>≤ 11 m</td>
+<td>36,53 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 11 m y ≤ 12 m</td>
-<td class="cuerpo_tabla_centro">38,61 euros</td>
+<td>&gt; 11 m y ≤ 12 m</td>
+<td>38,61 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">15 m x 5,3 m</td>
-<td class="cuerpo_tabla_centro">≤ 13,5 m</td>
-<td class="cuerpo_tabla_centro">40,70 euros</td>
+<td rowspan="2">15 m x 5,3 m</td>
+<td>≤ 13,5 m</td>
+<td>40,70 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 13,5 m y ≤ 15 m</td>
-<td class="cuerpo_tabla_centro">43,84 euros</td>
+<td>&gt; 13,5 m y ≤ 15 m</td>
+<td>43,84 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">18 m x 6,3 m</td>
-<td class="cuerpo_tabla_centro">≤ 16,5 m</td>
-<td class="cuerpo_tabla_centro">46,96 euros</td>
+<td rowspan="2">18 m x 6,3 m</td>
+<td>≤ 16,5 m</td>
+<td>46,96 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 16,5 m y ≤ 18 m</td>
-<td class="cuerpo_tabla_centro">50,10 euros</td>
+<td>&gt; 16,5 m y ≤ 18 m</td>
+<td>50,10 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">20 m x 7,0 m</td>
-<td class="cuerpo_tabla_centro">≤ 19 m</td>
-<td class="cuerpo_tabla_centro">52,18 euros</td>
+<td rowspan="2">20 m x 7,0 m</td>
+<td>≤ 19 m</td>
+<td>52,18 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt; 19 m y ≤ 20 m</td>
-<td class="cuerpo_tabla_centro">55,31 euros</td>
+<td>&gt; 19 m y ≤ 20 m</td>
+<td>55,31 euros</td>
 </tr>
 </tbody>
 </table>
@@ -2322,57 +2280,52 @@ Devengo. La tasa se devenga cuando se solicite la valoración, siendo necesaria 
 
 Tarifas. La tasa se exigirá, por cada bien inmueble, de acuerdo con la siguiente tarifa:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="15%">
-<col width="60%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Epígrafe</th>
-<th class="cabeza_tabla">Denominación</th>
-<th class="cabeza_tabla">Cuota en euros</th>
+<th>Epígrafe</th>
+<th>Denominación</th>
+<th>Cuota en euros</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Naves, locales y oficinas.</td>
-<td class="cuerpo_tabla_coma">42,58</td>
+<td>1</td>
+<td>Naves, locales y oficinas.</td>
+<td>42,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Terrenos urbanos y urbanizables.</td>
-<td class="cuerpo_tabla_coma">42,58</td>
+<td>2</td>
+<td>Terrenos urbanos y urbanizables.</td>
+<td>42,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Inmuebles destinados a usos como vivienda.</td>
-<td class="cuerpo_tabla_coma">38,33</td>
+<td>3</td>
+<td>Inmuebles destinados a usos como vivienda.</td>
+<td>38,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Resto de inmuebles urbanos cualquiera que sea su uso.</td>
-<td class="cuerpo_tabla_coma">38,33</td>
+<td>4</td>
+<td>Resto de inmuebles urbanos cualquiera que sea su uso.</td>
+<td>38,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">5</td>
-<td class="cuerpo_tabla_izq">Fincas rústicas sin construcciones:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td rowspan="3">5</td>
+<td>Fincas rústicas sin construcciones:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Una finca.</td>
-<td class="cuerpo_tabla_coma">31,93</td>
+<td>– Una finca.</td>
+<td>31,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Resto, por cada finca.</td>
-<td class="cuerpo_tabla_coma">15,96</td>
+<td>– Resto, por cada finca.</td>
+<td>15,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Fincas rústicas con construcciones.</td>
-<td class="cuerpo_tabla_coma">37,65</td>
+<td>6</td>
+<td>Fincas rústicas con construcciones.</td>
+<td>37,65</td>
 </tr>
 </tbody>
 </table>

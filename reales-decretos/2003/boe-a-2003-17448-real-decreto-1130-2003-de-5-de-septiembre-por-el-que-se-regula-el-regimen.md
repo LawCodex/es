@@ -445,240 +445,240 @@ Destinos correspondientes a la tercera categoría de Secretarios.
 
 ## ANEXO II.2 — Complemento de destino del Cuerpo de Secretarios Judiciales
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"></td>
 <td colspan="2">
-<p class="cabeza_tabla">Cuantías mensuales en euros</p>
+<p>Cuantías mensuales en euros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Por el grupo de población</p>
+<p>Por el grupo de población</p>
 </td>
 <td>
-<p class="cabeza_tabla">Por representación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Grupo 1:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Por representación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Secretarios del Tribunal Supremo</p>
+<p>Grupo 1:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.250,87</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">664,09</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secretario de gobierno de la Audiencia Nacional</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.250,87</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">664,09</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Secretarios de la Audiencia Nacional</p>
+<p>Secretarios del Tribunal Supremo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.250,87</p>
+<p>1.250,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">577,76</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secretarios del Tribunal Superior de Justicia</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.250,87</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">577,76</p>
+<p>664,09</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Secretario coordinador provincial y Secretario de la Audiencia Provincial</p>
+<p>Secretario de gobierno de la Audiencia Nacional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.250,87</p>
+<p>1.250,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">554,31</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secretario de órgano unipersonal, órganos no jurisdiccionales y registros civiles y de los juzgados centrales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.250,87</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">367,70</p>
+<p>664,09</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Grupo 2:</p>
+<p>Secretarios de la Audiencia Nacional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>1.250,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secretarios del Tribunal Superior de Justicia</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.068,43</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">577,76</p>
+<p>577,76</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Secretario coordinador provincial y Secretario de la Audiencia Provincial</p>
+<p>Secretarios del Tribunal Superior de Justicia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.068,43</p>
+<p>1.250,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">554,31</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secretario de órgano unipersonal, órganos no jurisdiccionales y registros civiles</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.068,43</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">367,70</p>
+<p>577,76</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Grupo 3:</p>
+<p>Secretario coordinador provincial y Secretario de la Audiencia Provincial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>1.250,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secretarios del Tribunal Superior de Justicia</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.020,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">577,76</p>
+<p>554,31</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Secretario coordinador provincial y Secretario de la Audiencia Provincial</p>
+<p>Secretario de órgano unipersonal, órganos no jurisdiccionales y registros civiles y de los juzgados centrales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.020,10</p>
+<p>1.250,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">554,31</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secretario de órgano unipersonal, órganos no jurisdiccionales y registros civiles</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.020,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">367,70</p>
+<p>367,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Grupo 4:</p>
+<p>Grupo 2:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secretario coordinador y Secretario de la Audiencia Provincial</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.012,40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">554,31</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Resto de destinos correspondientes a la segunda categoría de secretarios judiciales</p>
+<p>Secretarios del Tribunal Superior de Justicia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.012,40</p>
+<p>1.068,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">367,70</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Grupo 5:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>577,76</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Resto de destinos correspondientes a la tercera categoría de secretarios judiciales</p>
+<p>Secretario coordinador provincial y Secretario de la Audiencia Provincial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">732,07</p>
+<p>1.068,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">102,13</p>
+<p>554,31</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretario de órgano unipersonal, órganos no jurisdiccionales y registros civiles</p>
+</td>
+<td>
+<p>1.068,43</p>
+</td>
+<td>
+<p>367,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo 3:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretarios del Tribunal Superior de Justicia</p>
+</td>
+<td>
+<p>1.020,10</p>
+</td>
+<td>
+<p>577,76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretario coordinador provincial y Secretario de la Audiencia Provincial</p>
+</td>
+<td>
+<p>1.020,10</p>
+</td>
+<td>
+<p>554,31</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretario de órgano unipersonal, órganos no jurisdiccionales y registros civiles</p>
+</td>
+<td>
+<p>1.020,10</p>
+</td>
+<td>
+<p>367,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo 4:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretario coordinador y Secretario de la Audiencia Provincial</p>
+</td>
+<td>
+<p>1.012,40</p>
+</td>
+<td>
+<p>554,31</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Resto de destinos correspondientes a la segunda categoría de secretarios judiciales</p>
+</td>
+<td>
+<p>1.012,40</p>
+</td>
+<td>
+<p>367,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo 5:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Resto de destinos correspondientes a la tercera categoría de secretarios judiciales</p>
+</td>
+<td>
+<p>732,07</p>
+</td>
+<td>
+<p>102,13</p>
 </td>
 </tr>
 </tbody>
@@ -705,185 +705,185 @@ Cuantías mensuales en 2007 del complemento de destino por circunstancias especi
 
 ## ANEXO III — Complemento específico de los miembros del Cuerpo de Secretarios Judiciales por responsabilidad y penosidad
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Cuantías mensuales en euros</p>
+<p>Cuantías mensuales en euros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Por responsabilidad</p>
+<p>Por responsabilidad</p>
 </td>
 <td>
-<p class="cabeza_tabla">Por penosidad</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secretario de Gobierno del Tribunal Supremo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">245,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
+<p>Por penosidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Vicesecretario de Gobierno del Tribunal Supremo</p>
+<p>Secretario de Gobierno del Tribunal Supremo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">183,79</p>
+<p>245,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secretario de Sala del Tribunal Supremo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">137,84</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Secretarios de la Sala de lo Penal de la Audiencia Nacional</p>
+<p>Vicesecretario de Gobierno del Tribunal Supremo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>183,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">171,57</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secretario de gobierno Tribunal Superior de Justicia</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">159,28</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Vicesecretario de gobierno Tribunal Superior de Justicia</p>
+<p>Secretario de Sala del Tribunal Supremo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">119,46</p>
+<p>137,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secretario de gobierno de la Audiencia Nacional</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">137,84</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">171,57</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Secretario coordinador provincial</p>
+<p>Secretarios de la Sala de lo Penal de la Audiencia Nacional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">118,73</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secretarios de juzgados centrales de instrucción, penal, menores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">117,63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">171,57</p>
+<p>171,57</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Secretarios del resto de juzgados centrales</p>
+<p>Secretario de gobierno Tribunal Superior de Justicia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">117,63</p>
+<p>159,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secretario de Decanato que se encuentre en el supuesto del artículo 166.3 de la Ley Orgánica del Poder Judicial</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">215,55</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Secretario de servicio común de notificaciones y embargos</p>
+<p>Vicesecretario de gobierno Tribunal Superior de Justicia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>119,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secretarios Primera Instancia</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">130,00</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Secretarios Juzgados de Vigilancia Penitenciaria</p>
+<p>Secretario de gobierno de la Audiencia Nacional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>137,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80,00</p>
+<p>171,57</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Secretarios Registro Civil Central.</p>
+<p>Secretario coordinador provincial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>118,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">130,00</p>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretarios de juzgados centrales de instrucción, penal, menores</p>
+</td>
+<td>
+<p>117,63</p>
+</td>
+<td>
+<p>171,57</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretarios del resto de juzgados centrales</p>
+</td>
+<td>
+<p>117,63</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretario de Decanato que se encuentre en el supuesto del artículo 166.3 de la Ley Orgánica del Poder Judicial</p>
+</td>
+<td>
+<p>215,55</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretario de servicio común de notificaciones y embargos</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>140,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretarios Primera Instancia</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>130,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretarios Juzgados de Vigilancia Penitenciaria</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>80,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretarios Registro Civil Central.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>130,00</p>
 </td>
 </tr>
 </table>

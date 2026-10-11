@@ -64,28 +64,6 @@ e) Los Directores Gerentes y asimilados de las sociedades públicas de la Admini
 
 f) Los Directores y asimilados de las fundaciones públicas de la Administración de la Comunidad Foral de Navarra y de sus organismos públicos, siempre que perciban retribuciones fijas y periódicas por el desempeño de estos cargos.
 
-> Téngase en cuenta que la última actualización del apartado 1 establecida por el art. único.1 de la Ley Foral 12/2012, de 21 de junio. [Ref. BOE-A-2012-9371](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9371), entra en vigor el 28 de diciembre de 2012, según determina su disposición final 2:
-
-> Redacción anterior:
-
-> "1. A los efectos de esta Ley Foral se consideran altos cargos:
-
-> a) El Presidente y los Consejeros del Gobierno de Navarra.
-
-> b) Los miembros de los Gabinetes del Presidente y de los Consejeros del Gobierno de Navarra, a excepción del personal administrativo.
-
-> c) Los Directores Generales y los titulares de puestos del mismo nivel orgánico de la Administración de la Comunidad Foral de Navarra.
-
-> d) Los Presidentes, Directores Gerentes y titulares de puestos de trabajo de libre designación en organismos públicos dependientes de la Administración de la Comunidad Foral de Navarra, salvo los que necesariamente deban proveerse entre funcionarios.
-
-> e) Los Directores Generales, Directores Gerentes, Directores Ejecutivos, Consejeros Delegados y asimilados de las sociedades públicas de la Administración de la Comunidad Foral de Navarra y sus organismos públicos.
-
-> f) Los Presidentes, Directores, Gerentes, Administradores y asimilados, siempre que perciban retribuciones fijas y periódicas por el desempeño de estos cargos, de las fundaciones públicas de la Administración de la Comunidad Foral de Navarra y sus organismos públicos.
-
-> g) El Director General del Ente Público Radio Televisión Navarra.
-
-> h) Cualquier otro personal eventual, de conformidad con la normativa foral."
-
 2\. A los efectos de esta Ley Foral, son sociedades públicas las sociedades mercantiles en las que la participación directa o indirecta de la Administración de la Comunidad Foral de Navarra y sus organismos públicos represente la mayoría absoluta del capital social.
 
 > Se modifica el apartado 1 por el art. único.1 de la Ley Foral 12/2012, de 21 de junio. [Ref. BOE-A-2012-9371](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9371)
@@ -182,14 +160,6 @@ c) Las retribuciones compatibles que le reconozca la legislación correspondient
 
 2\. Las cantidades devengadas por cualquier concepto que no deban ser percibidas, de acuerdo con lo señalado en el número anterior, serán ingresadas en la cuenta presupuestaria correspondiente, directamente por el organismo que las abone, y si ello no fuera posible, por el perceptor en el plazo de quince días desde su recepción.
 
-> Téngase en cuenta que la supresión de la letra b) del apartado 1 establecida por el art. único.4 de la Ley Foral 12/2012, de 21 de junio. [Ref. BOE-A-2012-9371](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9371), entra en vigor el 28 de diciembre de 2012, según determina su disposición final 2:
-
-> Redacción anterior:
-
-> "1.b) Las cantidades que estén establecidas de acuerdo con la normativa aplicable a cada caso por razón de asistencia.
-
-> En el caso de los consejos de administración de sociedades públicas, no podrán percibirse dietas por la asistencia a más de dos de dichos consejos."
-
 > Se suprime la letra b) del apartado 1 por el art. único.4 de la Ley Foral 12/2012, de 21 de junio. [Ref. BOE-A-2012-9371](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9371)
 
 > Esta actualización entra en vigor el 28 de diciembre de 2012, según establece la disposición final 2 de la citada ley foral.
@@ -205,8 +175,6 @@ b) Las actividades de producción y creación literaria, artística, científica
 c) La participación en entidades culturales o benéficas que no tengan ánimo de lucro y siempre que no perciban ningún tipo de retribución o percepción por dicha participación.
 
 d) La docencia en centros universitarios, siempre que se realice en régimen de dedicación a tiempo parcial, con una duración determinada y que no suponga menoscabo en el ejercicio del cargo público.
-
-> Téngase en cuenta que la letra d), añadida por el art. único.5 de la Ley Foral 12/2012, de 21 de junio. [Ref. BOE-A-2012-9371](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9371), entra en vigor el 28 de diciembre de 2012, según determina su disposición final 2.
 
 > Se añade la letra d) por el art. único.6 de la Ley Foral 12/2012, de 21 de junio. [Ref. BOE-A-2012-9371](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9371)
 
@@ -230,18 +198,6 @@ b) Registro de Bienes y Derechos Patrimoniales, que tendrá carácter reservado,
 
 El Registro de actividades e intereses de altos cargos será gestionado con total independencia por la Oficina de Buenas Prácticas y Anticorrupción de la Comunidad Foral de Navarra, en los términos que se determinen reglamentariamente.»
 
-> Téngase en cuenta que esta actualización establecida por el art. único.1 de la Ley Foral 8/2018, de 17 de mayo. [Ref. BOE-A-2018-7645](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7645), entra en vigor el 23 de agosto de 2018 según determina su disposición final única:
-
-> Redacción anterior:
-
-> "**Artículo 8. Órgano de gestión.**
-
-> 1\. El Registro de actividades e intereses de altos cargos será gestionado por la Dirección General de Función Pública del Departamento de Presidencia e Interior de la Administración de la Comunidad Foral de Navarra. Este órgano tendrá, respecto a la custodia y gestión del Registro, total independencia de los órganos de que dependa y de cualquier otro.
-
-> 2\. El personal que, por razón de su función, tenga acceso a los datos del Registro, custodiará éste y estará obligado a guardar secreto sobre su contenido, aun después de cesar en esa función.
-
-> 3\. La negligencia o infracción de lo dispuesto en el número anterior será considerado infracción muy grave y se sancionará conforme a la normativa administrativa aplicable, sin perjuicio de las responsabilidades penales a que hubiere lugar."
-
 > Se modifica por el l art. único.1 de la Ley Foral 8/2018, de 17 de mayo. [Ref. BOE-A-2018-7645](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7645)
 
 > Esta modificación entra en vigor el 23 de agosto de 2018 según determina la disposición final única de la citada ley foral; asímismo, véase su disposición transitoria única.
@@ -260,22 +216,6 @@ c) El Ministerio Fiscal, cuando realice actuaciones de investigación, en el eje
 
 3\. No obstante lo anterior, los datos registrales relativos a las retribuciones y otras cantidades percibidas por los miembros del Gobierno de Navarra y altos cargos de la Administración Pública por el desempeño de actividades compatibles, y los relativos a los bienes y derechos patrimoniales que posean al inicio, durante y al final de su mandato o cargo público se publicarán en el Portal del Gobierno de Navarra en Internet, en la forma que reglamentariamente se determine. A estos efectos, la información referida a los bienes y derechos patrimoniales se publicará por referencia a su valor y forma de adquisición, omitiéndose los datos relativos a su localización y salvaguardando la privacidad y seguridad de sus titulares.
 
-> Téngase en cuenta que la última actualización establecida por el art. único.6 de la Ley Foral 12/2012, de 21 de junio. [Ref. BOE-A-2012-9371](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9371), entra en vigor el 28 de diciembre de 2012, según determina su disposición final 2:
-
-> Redacción anterior:
-
-> "**Artículo 9. Acceso a los datos de las Secciones del Registro de actividades e intereses de altos cargos del Gobierno y de la Administración de la Comunidad Foral de Navarra.**
-
-> 1\. El Registro de Actividades tiene carácter público y el acceso a sus datos se regirá por lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal; en el artículo 37 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común; en esta Ley Foral, y en las correspondientes normas de desarrollo de las citadas disposiciones legales.
-
-> 2\. La solicitud de datos del Registro de Actividades se dirigirá, por escrito, al Director General de Función Pública, expresando con claridad el alto cargo afectado, los datos que se solicitan y el motivo de la petición. Una vez verificado el cumplimiento de la normativa que regula el acceso al Registro de Actividades, el envío de los datos se realizará de inmediato, garantizando su seguridad. 3. El Registro de Bienes y Derechos Patrimoniales tiene carácter reservado y sólo podrán tener acceso al mismo, además del propio interesado:
-
-> a) El Parlamento de Navarra, de conformidad con lo que establezca su Reglamento, y la Cámara de Comptos, de conformidad con lo que establezca su Ley Foral reguladora.
-
-> b) Los órganos judiciales, para la instrucción o resolución de procesos que requieran el conocimiento de los datos que obran en el Registro, de conformidad con lo dispuesto en las leyes procesales.
-
-> c) El Ministerio Fiscal, cuando realice actuaciones de investigación, en el ejercicio de sus funciones, que requieran el conocimiento de los datos que obran en el Registro."
-
 > Se modifica por el art. único.6 de la Ley Foral 12/2012, de 21 de junio. [Ref. BOE-A-2012-9371](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9371)
 
 > Esta modificación entra en vigor el 28 de diciembre de 2012, según establece la disposición final 2 de la citada ley foral.
@@ -287,14 +227,6 @@ c) El Ministerio Fiscal, cuando realice actuaciones de investigación, en el eje
 ### Artículo 10. Información al Parlamento de Navarra.
 
 Para asegurar la transparencia del control del régimen de incompatibilidades previsto en esta ley foral, la Oficina de Buenas Prácticas y Anticorrupción de la Comunidad Foral de Navarra remitirá al Parlamento de Navarra, cada seis meses, información del cumplimiento de las obligaciones de declarar por los altos cargos, así como de las infracciones que se hayan cometido en relación con esta ley foral y de las sanciones que hayan sido impuestas.
-
-> Téngase en cuenta que esta actualización establecida por el art. único.2 de la Ley Foral 8/2018, de 17 de mayo. [Ref. BOE-A-2018-7645](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7645), entra en vigor el 23 de agosto de 2018 según determina su disposición final única:
-
-> Redacción anterior:
-
-> "**Artículo 10. Información al Parlamento de Navarra.**
-
-> Para asegurar la transparencia del control del régimen de incompatibilidades previsto en esta Ley Foral, y sin perjuicio de las competencias que se atribuyen a la Dirección General de Función Pública, el Gobierno de Navarra, a través de aquélla, remitirá al Parlamento de Navarra, cada seis meses, información del cumplimiento de las obligaciones de declarar por los altos cargos, así como de las infracciones que se hayan cometido en relación con esta Ley Foral y de las sanciones que hayan sida impuestas."
 
 > Se modifica por el art. único.2 de la Ley Foral 8/2018, de 17 de mayo. [Ref. BOE-A-2018-7645](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7645)
 
@@ -309,12 +241,6 @@ Para asegurar la transparencia del control del régimen de incompatibilidades pr
 2\. La declaración a que se refiere el número anterior se efectuará en el improrrogable plazo de los dos meses siguientes a la fecha de toma de posesión y cese, respectivamente, en el alto cargo, así como cada vez que el interesado inicie una nueva actividad, de las que son objeto de regulación en esta Ley Foral.
 
 3\. La Oficina de Buenas Prácticas y Anticorrupción de la Comunidad Foral de Navarra examinará la declaración y, de apreciar defectos formales, requerirá su subsanación al interesado.
-
-> Téngase en cuenta que la modificación del apartado 3 establecida por el art. único.3 de la Ley Foral 8/2018, de 17 de mayo. [Ref. BOE-A-2018-7645](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7645), entra en vigor el 23 de agosto de 2018 según determina su disposición final única:
-
-> Redacción anterior:
-
-> "3. La Dirección General de Función Pública examinará la declaración y, de apreciar defectos formales, requerirá su subsanación al interesado."
 
 > Se modifica por el art. único.3 de la Ley Foral 8/2018, de 17 de mayo. [Ref. BOE-A-2018-7645](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7645)
 
@@ -343,8 +269,6 @@ e) Las sociedades participadas por las que sean objeto de declaración según el
 4\. El Registro de actividades e intereses de altos cargos recibirá las declaraciones y las copias y, de apreciar defectos formales, requerirá su subsanación al interesado.
 
 5\. Junto con la declaración patrimonial, comprensiva de la totalidad de sus bienes, derechos y obligaciones, el alto cargo dará su autorización para que la Oficina de Buenas Prácticas y Anticorrupción de la Comunidad Foral de Navarra pueda solicitar a las entidades bancarias un certificado de los saldos existentes en las cuentas corrientes declaradas en dichas fechas.»
-
-> Téngase en cuenta que la adicción del apartado 5 establecida por el art. único.4 de la Ley Foral 8/2018, de 17 de mayo. [Ref. BOE-A-2018-7645](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7645), entra en vigor el 23 de agosto de 2018 según determina su disposición final única.
 
 > Se añade el apartado 5 por el art. único.4 de la Ley Foral 8/2018, de 17 de mayo. [Ref. BOE-A-2018-7645](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7645)
 
@@ -392,12 +316,6 @@ b) Las infracciones muy graves serán sancionadas con una multa entre 600 y 6000
 
 c) Las infracciones muy graves podrán ser causa de cese en el cargo.
 
-> Téngase en cuenta que la modificación del apartado 1 establecida por el art. 2 de la Ley Foral 6/2018, de 17 de mayo. [Ref. BOE-A-2018-7643](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7643), entra en vigor el 23 de agosto de 2018 según determina su disposición final:
-
-> Redacción anterior:
-
-> "1. Las infracciones muy graves y graves serán sancionadas con la declaración del incumplimiento de esta Ley Foral. En el caso de las muy graves, esta declaración será publicada en el «Boletín Oficial de Navarra»."
-
 2\. Las faltas leves se sancionarán con amonestación por incumplimiento de esta Ley Foral.
 
 3\. Lo dispuesto en la presente Ley Foral se entiende sin perjuicio de la exigencia de las demás responsabilidades a que hubiere lugar. A estos efectos, cuando aparezcan indicios de otras responsabilidades, se ordenará a la Asesoría Jurídica del Gobierno de Navarra el ejercicio de las acciones que correspondan.
@@ -424,14 +342,6 @@ En la graduación de esta medida se valorará la existencia de perjuicios para e
 
 1\. La Oficina de Buenas Prácticas y Anticorrupción, con anterioridad a la iniciación de cualquier expediente sancionador, podrá realizar actuaciones previas de carácter reservado con objeto de determinar si concurren circunstancias que justifiquen tal iniciación.
 
-> Téngase en cuenta que la modificación del apartado 1 establecida por el art. único.5 de la Ley Foral 8/2018, de 17 de mayo. [Ref. BOE-A-2018-7645](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7645), entra en vigor el 23 de agosto de 2018 según determina su disposición final única:
-
-> Redacción anterior:
-
-> "1. La Dirección General de Función Pública, con anterioridad a la iniciación de cualquier expediente sancionador, podrá realizar actuaciones previas de carácter reservado con objeto de determinar si concurren circunstancias que justifiquen tal iniciación.
-
-> El inicio de las actuaciones se notificará al interesado."
-
 2\. Dicho órgano conocerá asimismo de las denuncias que sobre los presuntos incumplimientos de esta Ley Foral pudieran formularse.
 
 3\. Los ficheros, archivos o registros de carácter público y, en especial, los de las administraciones tributarias y las entidades gestoras y servicios comunes de la Seguridad Social proporcionarán, cuando les sea requerida, información, datos y colaboración en la forma establecida en la Ley Orgánica de regulación del Tratamiento Automatizado de los Datos de Carácter Personal o con la suficiente garantía de privacidad y confidencialidad en caso de no tratarse de datos informatizados.
@@ -451,16 +361,6 @@ El procedimiento sancionador se establecerá por Decreto Foral, de conformidad c
 1\. El órgano competente para la incoación del procedimiento sancionador es la dirección de la Oficina de Buenas Prácticas y Anticorrupción de la Comunidad Foral de Navarra y el órgano competente para la instrucción será el funcionario designado por la dirección de la Oficina de Buenas Prácticas y Anticorrupción de la Comunidad Foral de Navarra.
 
 2\. La resolución del expediente sancionador corresponderá a la dirección de la Oficina de Buenas Prácticas y Anticorrupción.
-
-> Téngase en cuenta que la modificación de los apartados 1 y 2 establecida por el art. único.6 de la Ley Foral 8/2018, de 17 de mayo. [Ref. BOE-A-2018-7645](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7645), entra en vigor el 23 de agosto de 2018 según determina su disposición final única:
-
-> Redacción anterior:
-
-> "1. El órgano competente para la incoación del procedimiento sancionador cuando el alto cargo afectado sea un miembro del Gobierno, será el Gobierno de Navarra, a propuesta del Consejero de Presidencia e Interior. Si el alto cargo afectado fuera el Consejero de Presidencia e Interior, la propuesta se realizará por el Consejero siguiente en el orden establecido por el artículo 46 de la Ley Foral 23/1983, de 11 de abril.
-
-> En el caso de los demás altos cargos, la incoación se realizará por el Consejero de Presidencia e Interior, excepto en el caso de que el alto cargo dependa jerárquicamente de dicho Consejero, en cuyo caso el órgano competente será el Consejero siguiente en el orden establecido por el artículo 46 de la Ley Foral 23/1983, de 11 de abril.
-
-> 2\. La instrucción de los expedientes se realizará por la Dirección General de Función Pública."
 
 3\. La resolución de los expedientes sancionadores corresponderá, según los casos, a los mismos órganos señalados en el número 1 de este artículo.
 

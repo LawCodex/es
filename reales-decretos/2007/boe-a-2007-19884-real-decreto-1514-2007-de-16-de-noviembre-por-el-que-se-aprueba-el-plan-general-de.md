@@ -2928,1131 +2928,1131 @@ d) Las personas a su cargo o a cargo del cónyuge o persona con análoga relaci�
 
 ### BALANCE AL CIERRE DEL EJERCICIO 200X
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">N° CUENTAS</p>
+<p>N° CUENTAS</p>
 </th>
 <th>
-<p class="cabeza_tabla">ACTIVO</p>
+<p>ACTIVO</p>
 </th>
 <th>
-<p class="cabeza_tabla">NOTAS de la MEMORIA</p>
+<p>NOTAS de la MEMORIA</p>
 </th>
 <th>
-<p class="cabeza_tabla">200X</p>
+<p>200X</p>
 </th>
 <th>
-<p class="cabeza_tabla">200X-1</p>
+<p>200X-1</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>A) ACTIVO NO CORRIENTE</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>I. Inmovilizado intangible.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">201, (2801), (2901)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Desarrollo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">202, (2802), (2902)</p>
+<p>201, (2801), (2901)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2. Concesiones.</p>
+<p>1. Desarrollo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">203, (2803), (2903)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3. Patentes, licencias, marcas y similares.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">204, (2804)</p>
+<p>202, (2802), (2902)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4. Fondo de comercio.</p>
+<p>2. Concesiones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">206, (2806), (2906)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5. Aplicaciones informáticas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">205, 209, (2805), (2905)</p>
+<p>203, (2803), (2903)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6. Otro inmovilizado intangible.</p>
+<p>3. Patentes, licencias, marcas y similares.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>204, (2804)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>4. Fondo de comercio.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>206, (2806), (2906)</p>
+</td>
+<td>
+<p>5. Aplicaciones informáticas.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>205, 209, (2805), (2905)</p>
+</td>
+<td>
+<p>6. Otro inmovilizado intangible.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <strong>II. Inmovilizado material.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">210, 211, (2811), (2910), (2911)</p>
+<p>210, 211, (2811), (2910), (2911)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1. Terrenos y construcciones.</p>
+<p>1. Terrenos y construcciones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">212,213,214,215,216,217,218,219,(2812),(2813),(2814),(2815),(2816),</p>
-<p class="cuerpo_tabla_centro">(2817), (2818 ), (2819), (2912),</p>
-<p class="cuerpo_tabla_centro">(2913), (2914), (2915), (2916), (2917), (2918), (2919)</p>
+<p>212,213,214,215,216,217,218,219,(2812),(2813),(2814),(2815),(2816),</p>
+<p>(2817), (2818 ), (2819), (2912),</p>
+<p>(2913), (2914), (2915), (2916), (2917), (2918), (2919)</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">2. Instalaciones técnicas, y otro inmovilizado material.</p>
+<p>2. Instalaciones técnicas, y otro inmovilizado material.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">23</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3. Inmovilizado en curso y anticipos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23</p>
+</td>
+<td>
+<p>3. Inmovilizado en curso y anticipos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <strong>III. Inversiones inmobiliarias.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">220,(2920)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Terrenos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">221,(282),(2921)</p>
+<p>220,(2920)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2. Construcciones.</p>
+<p>1. Terrenos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>221,(282),(2921)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>2. Construcciones.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <strong>IV. Inversiones en empresas del grupo y asociadas a largo plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2403,2404,(2493),(2494),(293)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Instrumentos de patrimonio.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2423,2424,(2953),(2954)</p>
+<p>2403,2404,(2493),(2494),(293)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2. Créditos a empresas.</p>
+<p>1. Instrumentos de patrimonio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2413,2414,(2943),(2944)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3. Valores representativos de deuda.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>2423,2424,(2953),(2954)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4. Derivados.</p>
+<p>2. Créditos a empresas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5. Otros activos financieros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>2413,2414,(2943),(2944)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>3. Valores representativos de deuda.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4. Derivados.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5. Otros activos financieros.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <strong>V. Inversiones financieras a largo plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2405,(2495),250,(259)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Instrumentos de patrimonio.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2425,252,253,254,(2955),(298)</p>
+<p>2405,(2495),250,(259)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2. Créditos a terceros</p>
+<p>1. Instrumentos de patrimonio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2415,251,(2945),(297)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3. Valores representativos de deuda</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">255</p>
+<p>2425,252,253,254,(2955),(298)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4. Derivados.</p>
+<p>2. Créditos a terceros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">258,26</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5. Otros activos financieros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">474</p>
+<p>2415,251,(2945),(297)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>3. Valores representativos de deuda</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>255</p>
+</td>
+<td>
+<p>4. Derivados.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>258,26</p>
+</td>
+<td>
+<p>5. Otros activos financieros.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>474</p>
+</td>
+<td>
+<p>
 <strong>VI. Activos por impuesto diferido.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>B) ACTIVO CORRIENTE</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">580,581,582,583,584,(599)</p>
+<p>580,581,582,583,584,(599)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>I. Activos no corrientes mantenidos para la venta.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>II. Existencias.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">30,(390)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Comerciales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">31,32,(391),(392)</p>
+<p>30,(390)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2. Materias primas y otros aprovisionamientos.</p>
+<p>1. Comerciales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">33,34,(393),(394)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3. Productos en curso.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">35,(395)</p>
+<p>31,32,(391),(392)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4. Productos terminados.</p>
+<p>2. Materias primas y otros aprovisionamientos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">36,(396)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5. Subproductos, residuos y materiales recuperados.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">407</p>
+<p>33,34,(393),(394)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6. Anticipos a proveedores</p>
+<p>3. Productos en curso.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>35,(395)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>4. Productos terminados.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>36,(396)</p>
+</td>
+<td>
+<p>5. Subproductos, residuos y materiales recuperados.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>407</p>
+</td>
+<td>
+<p>6. Anticipos a proveedores</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <strong>III. Deudores comerciales y otras cuentas a cobrar.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">430,431,432,435,436,(437),(490), (4935)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Clientes por ventas y prestaciones de servicios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">433,434,(4933),(4934)</p>
+<p>430,431,432,435,436,(437),(490), (4935)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2. Clientes, empresas del grupo y asociadas.</p>
+<p>1. Clientes por ventas y prestaciones de servicios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">44</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3. Deudores varios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">460,544</p>
+<p>433,434,(4933),(4934)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4. Personal.</p>
+<p>2. Clientes, empresas del grupo y asociadas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">4709</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5. Activos por impuesto corriente.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4700,4708,471,472</p>
+<p>44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6. Otros créditos con las Administraciones Públicas.</p>
+<p>3. Deudores varios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5580</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7. Accionistas (socios) por desembolsos exigidos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>460,544</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>4. Personal.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4709</p>
+</td>
+<td>
+<p>5. Activos por impuesto corriente.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4700,4708,471,472</p>
+</td>
+<td>
+<p>6. Otros créditos con las Administraciones Públicas.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5580</p>
+</td>
+<td>
+<p>7. Accionistas (socios) por desembolsos exigidos</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <strong>IV. Inversiones en empresas del grupo y asociadas a corto plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5303,5304,(5393),(5394),(593)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Instrumentos de patrimonio.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">5323,5324,5343,5344,(5953),(5954)</p>
+<p>5303,5304,(5393),(5394),(593)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2. Créditos a empresas.</p>
+<p>1. Instrumentos de patrimonio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5313,5314, 5333,5334,(5943),(5944)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3. Valores representativos de deuda.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>5323,5324,5343,5344,(5953),(5954)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4. Derivados.</p>
+<p>2. Créditos a empresas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5353,5354,5523,5524</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5. Otros activos financieros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>5313,5314, 5333,5334,(5943),(5944)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>3. Valores representativos de deuda.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4. Derivados.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5353,5354,5523,5524</p>
+</td>
+<td>
+<p>5. Otros activos financieros.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <strong>V. Inversiones financieras a corto plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5305,540,(5395),(549)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Instrumentos de patrimonio.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">5325,5345,542,543,547,(5955),(598),</p>
+<p>5305,540,(5395),(549)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2. Créditos a empresas</p>
+<p>1. Instrumentos de patrimonio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5315,5335,541,546,(5945),(597)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3. Valores representativos de deuda.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">5590,5593</p>
+<p>5325,5345,542,543,547,(5955),(598),</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4. Derivados.</p>
+<p>2. Créditos a empresas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5355,545,548,551,5525,565,566</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5. Otros activos financieros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">480,567</p>
+<p>5315,5335,541,546,(5945),(597)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>3. Valores representativos de deuda.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5590,5593</p>
+</td>
+<td>
+<p>4. Derivados.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5355,545,548,551,5525,565,566</p>
+</td>
+<td>
+<p>5. Otros activos financieros.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>480,567</p>
+</td>
+<td>
+<p>
 <strong>VI. Periodificaciones a corto plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">VII. Efectivo y otros activos líquidos equivalentes.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">570,571,572,573,574,575</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1. Tesorería.</p>
+<p>VII. Efectivo y otros activos líquidos equivalentes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">576</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2. Otros activos líquidos equivalentes.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>570,571,572,573,574,575</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>1. Tesorería.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>576</p>
+</td>
+<td>
+<p>2. Otros activos líquidos equivalentes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <strong>TOTAL ACTIVO (A + B)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -4134,1030 +4134,1030 @@ d) Las personas a su cargo o a cargo del cónyuge o persona con análoga relaci�
 
 ### CUENTA DE PÉRDIDAS Y GANANCIAS CORRESPONDIENTE AL EJERCICIO TERMINADO EL .... DE 200X
 
-<table border="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">N° CUENTAS</p>
+<p>N° CUENTAS</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Nota</p>
+<p>Nota</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">(Debe) Haber</p>
+<p>(Debe) Haber</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">200X</p>
+<p>200X</p>
 </td>
 <td>
-<p class="cabeza_tabla">200X-1</p>
+<p>200X-1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>A) OPERACIONES CONTINUADAS</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>1. Importe neto de la cifra de negocios.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">700,701,702,703,704,(706),(708),(709)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">a) Ventas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">705</p>
+<p>700,701,702,703,704,(706),(708),(709)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) Prestaciones de servicios.</p>
+<p>a) Ventas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(6930), 71 *,7930</p>
+<p>705</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>b) Prestaciones de servicios.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(6930), 71 *,7930</p>
+</td>
+<td>
+<p>
 <strong>2. Variación de existencias de productos terminados y en curso de fabricación.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">73</p>
+<p>73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>3. Trabajos realizados por la empresa para su activo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>4. Aprovisionamientos.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">(600), 6060,6080,6090, 610*</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">a) Consumo de mercaderías.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(601),(602),6061,6062,6081,6082,6091,6092,611*,612*</p>
+<p>(600), 6060,6080,6090, 610*</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) Consumo de materias primas y otras materias consumibles.</p>
+<p>a) Consumo de mercaderías.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">(607)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">c) Trabajos realizados por otras empresas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(6931),(6932),(6933),7931,7932,7933</p>
+<p>(601),(602),6061,6062,6081,6082,6091,6092,611*,612*</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) Deterioro de mercaderías, materias primas y otros aprovisionamientos.</p>
+<p>b) Consumo de materias primas y otras materias consumibles.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>(607)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>c) Trabajos realizados por otras empresas.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(6931),(6932),(6933),7931,7932,7933</p>
+</td>
+<td>
+<p>d) Deterioro de mercaderías, materias primas y otros aprovisionamientos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <strong>5. Otros ingresos de explotación.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">75</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">a) Ingresos accesorios y otros de gestión corriente.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">740, 747</p>
+<p>75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) Subvenciones de explotación incorporadas al resultado del ejercicio.</p>
+<p>a) Ingresos accesorios y otros de gestión corriente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>740, 747</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>b) Subvenciones de explotación incorporadas al resultado del ejercicio.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <strong>6. Gastos de personal.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">(640),(641),(6450)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">a) Sueldos, salarios y asimilados.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(642),(643),(649)</p>
+<p>(640),(641),(6450)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) Cargas sociales.</p>
+<p>a) Sueldos, salarios y asimilados.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">(644),(6457),7950,7957</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">c) Provisiones.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>(642),(643),(649)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>b) Cargas sociales.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(644),(6457),7950,7957</p>
+</td>
+<td>
+<p>c) Provisiones.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <strong>7. Otros gastos de explotación.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">(62)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">a) Servicios exteriores.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(631),(634),636,639</p>
+<p>(62)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) Tributos.</p>
+<p>a) Servicios exteriores.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">(650),(694),(695),794,7954</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">c) Pérdidas, deterioro y variación de provisiones por operaciones comerciales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(651),(659)</p>
+<p>(631),(634),636,639</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) Otros gastos de gestión corriente</p>
+<p>b) Tributos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(68)</p>
+<p>(650),(694),(695),794,7954</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>c) Pérdidas, deterioro y variación de provisiones por operaciones comerciales.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(651),(659)</p>
+</td>
+<td>
+<p>d) Otros gastos de gestión corriente</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(68)</p>
+</td>
+<td>
+<p>
 <strong>8. Amortización del inmovilizado.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">746</p>
+<p>746</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>9. Imputación de subvenciones de inmovilizado no financiero y otras.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">7951,7952,7955,7956</p>
+<p>7951,7952,7955,7956</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>10. Excesos de provisiones.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>11. Deterioro y resultado por enajenaciones del inmovilizado.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">(690),(691),(692),790,791,792</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">a) Deterioros y pérdidas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(670),(671),(672),770,771,772</p>
+<p>(690),(691),(692),790,791,792</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) Resultados por enajenaciones y otras.</p>
+<p>a) Deterioros y pérdidas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>(670),(671),(672),770,771,772</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>b) Resultados por enajenaciones y otras.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <strong>A.1) RESULTADO DE EXPLOTACIÓN (1+2+3+4+5+6+7+8+9+10+11)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>12. Ingresos financieros.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">a) De participaciones en instrumentos de patrimonio.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">7600, 7601</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a<sub>1</sub>) En empresas del grupo y asociadas.</p>
+<p>a) De participaciones en instrumentos de patrimonio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">7602,7603</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">a<sub>2</sub>) En terceros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>7600, 7601</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) De valores negociables y otros instrumentos financieros.</p>
+<p>a<sub>1</sub>) En empresas del grupo y asociadas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">7610,7611,76200,76201,76210,76211</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b<sub>1</sub>) De empresas del grupo y asociadas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">7612,7613,76202,76203,76212,76213,767,769</p>
+<p>7602,7603</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b<sub>2</sub>) De terceros.</p>
+<p>a<sub>2</sub>) En terceros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>b) De valores negociables y otros instrumentos financieros.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7610,7611,76200,76201,76210,76211</p>
+</td>
+<td>
+<p>b<sub>1</sub>) De empresas del grupo y asociadas.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7612,7613,76202,76203,76212,76213,767,769</p>
+</td>
+<td>
+<p>b<sub>2</sub>) De terceros.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <strong>13. Gastos financieros.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">(6610),(6611),(6615),(6616),(6620),(6621),(6640), (6641),(6650),(6651),(6654), (6655)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">a) Por deudas con empresas del grupo y asociadas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(6612),(6613),(6617),(6618),(6622),(6623),</p>
+<p>(6610),(6611),(6615),(6616),(6620),(6621),(6640), (6641),(6650),(6651),(6654), (6655)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) Por deudas con terceros.</p>
+<p>a) Por deudas con empresas del grupo y asociadas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">(6624),(6642),(6643),(6652),(6653),(6656), (6657),(669)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(660)</p>
+<p>(6612),(6613),(6617),(6618),(6622),(6623),</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) Por actualización de provisiones</p>
+<p>b) Por deudas con terceros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>(6624),(6642),(6643),(6652),(6653),(6656), (6657),(669)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(660)</p>
+</td>
+<td>
+<p>c) Por actualización de provisiones</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <strong>14. Variación de valor razonable en instrumentos financieros.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">(6630),(6631),(6633),7630,7631,7633</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">a) Valor razonable con cambios en pérdidas y ganancias.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(6632),7632</p>
+<p>(6630),(6631),(6633),7630,7631,7633</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) Transferencia de ajustes de valor razonable con cambios en el patrimonio neto.</p>
+<p>a) Valor razonable con cambios en pérdidas y ganancias.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(668),768</p>
+<p>(6632),7632</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>b) Transferencia de ajustes de valor razonable con cambios en el patrimonio neto.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(668),768</p>
+</td>
+<td>
+<p>
 <strong>15. Diferencias de cambio.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>16. Deterioro y resultado por enajenaciones de instrumentos financieros.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">(696),(697),(698),(699),796,797,798,799</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">a) Deterioros y pérdidas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(666),(667),(673),(675),766,773,775</p>
+<p>(696),(697),(698),(699),796,797,798,799</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) Resultados por enajenaciones y otras.</p>
+<p>a) Deterioros y pérdidas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>(666),(667),(673),(675),766,773,775</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>b) Resultados por enajenaciones y otras.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <strong>A.2) RESULTADO FINANCIERO (12+13+14+15+16)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>A.3) RESULTADO ANTES DE IMPUESTOS (A.1+A.2)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(6300)*,6301*,(633),638</p>
+<p>(6300)*,6301*,(633),638</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>17. Impuestos sobre beneficios.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>A.4) RESULTADO DEL EJERCICIO PROCEDENTE DE OPERACIONES CONTINUADAS (A.3+17)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>B) OPERACIONES INTERRUMPIDAS</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>18. Resultado del ejercicio procedente de operaciones interrumpidas neto de impuestos.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>A.5) RESULTADO DEL EJERCICIO (A.4+18)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -5199,1429 +5199,1429 @@ A) ESTADO DE INGRESOS Y GASTOS RECONOCIDOS CORRESPONDIENTE AL EJERCICIO TERMINAD
 
 B) ESTADO TOTAL DE CAMBIOS EN EL PATRIMONIO NETO CORRESPONDIENTE AL EJERCICIO TERMINADO EL... DE 200x
 
-<table border="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Capital</p>
+<p>Capital</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Prima de emisión</p>
+<p>Prima de emisión</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Reservas</p>
+<p>Reservas</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">(Acciones y participaciones en patrimonio propias)</p>
+<p>(Acciones y participaciones en patrimonio propias)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Resultados de ejercicios anteriores</p>
+<p>Resultados de ejercicios anteriores</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Otras aportaciones de socios</p>
+<p>Otras aportaciones de socios</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Resultado del ejercicio</p>
+<p>Resultado del ejercicio</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">(Dividendo a cuenta)</p>
+<p>(Dividendo a cuenta)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Otros instrumentos de patrimonio neto</p>
+<p>Otros instrumentos de patrimonio neto</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Ajustes por cambios de valor</p>
+<p>Ajustes por cambios de valor</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Subvenciones donaciones y legados recibidos</p>
+<p>Subvenciones donaciones y legados recibidos</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">TOTAL</p>
+<p>TOTAL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Escriturado</p>
+<p>Escriturado</p>
 </td>
 <td>
-<p class="cabeza_tabla">No exigido</p>
+<p>No exigido</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>A. SALDO, FINAL DEL AÑO 200X — 2</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">I. Ajustes por cambios de criterio 200X-2 y anteriores.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">II. Ajustes por errores 200X-2 y anteriores.</p>
+<p>I. Ajustes por cambios de criterio 200X-2 y anteriores.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>II. Ajustes por errores 200X-2 y anteriores.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <strong>B. SALDO AJUSTADO, INICIO DEL AÑO 200X-1</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">I. Total ingresos y gastos reconocidos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">II. Operaciones con socios o propietarios.</p>
+<p>I. Total ingresos y gastos reconocidos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1. Aumentos de capital.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2. ( - ) Reducciones de capital.</p>
+<p>II. Operaciones con socios o propietarios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3. Conversión de pasivos financieros en patrimonio neto</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">(conversión obligaciones, condonaciones de deudas).</p>
+<p>1. Aumentos de capital.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4. ( - ) Distribución de dividendos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5. Operaciones con acciones o participaciones propias (netas).</p>
+<p>2. ( - ) Reducciones de capital.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">6. Incremento (reducción) de patrimonio neto resultante de una combinación de negocios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">7. Otras operaciones con socios o propietarios.</p>
+<p>3. Conversión de pasivos financieros en patrimonio neto</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">III. Otras variaciones del patrimonio neto.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>(conversión obligaciones, condonaciones de deudas).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4. ( - ) Distribución de dividendos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5. Operaciones con acciones o participaciones propias (netas).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6. Incremento (reducción) de patrimonio neto resultante de una combinación de negocios.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7. Otras operaciones con socios o propietarios.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III. Otras variaciones del patrimonio neto.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <strong>C. SALDO, FINAL DEL AÑO 200X —1</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">I. Ajustes por cambios de criterio 200X-1.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">II. Ajustes por errores 200X-1.</p>
+<p>I. Ajustes por cambios de criterio 200X-1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>II. Ajustes por errores 200X-1.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <strong>D. SALDO AJUSTADO, INICIO DEL AÑO 200X</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">I. Total ingresos y gastos reconocidos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">II. Operaciones con socios o propietarios.</p>
+<p>I. Total ingresos y gastos reconocidos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1. Aumentos de capital.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2. ( - ) Reducciones de capital.</p>
+<p>II. Operaciones con socios o propietarios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3. Conversión de pasivos financieros en patrimonio neto</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">(conversión obligaciones, condonaciones de deudas).</p>
+<p>1. Aumentos de capital.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4. ( - ) Distribución de dividendos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5. Operaciones con acciones o participaciones propias (netas).</p>
+<p>2. ( - ) Reducciones de capital.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">6. Incremento (reducción) de patrimonio neto resultante de una combinación de negocios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">7. Otras operaciones con socios o propietarios.</p>
+<p>3. Conversión de pasivos financieros en patrimonio neto</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">III. Otras variaciones del patrimonio neto.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>(conversión obligaciones, condonaciones de deudas).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4. ( - ) Distribución de dividendos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5. Operaciones con acciones o participaciones propias (netas).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6. Incremento (reducción) de patrimonio neto resultante de una combinación de negocios.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7. Otras operaciones con socios o propietarios.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III. Otras variaciones del patrimonio neto.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <strong>E. SALDO, FINAL DEL AÑO 200X</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -7224,119 +7224,102 @@ Se revelará el valor en libros de cada una de las categorías de activos financ
 
 a.1) Activos financieros, salvo inversiones en el patrimonio de empresas del grupo, multigrupo y asociadas.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td rowspan="4">
-<p class="cabeza_tabla">Categorías</p>
+<p>Categorías</p>
 </td>
 <td colspan="14">
-<p class="cabeza_tabla">Clases</p>
+<p>Clases</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td colspan="6">
-<p class="cabeza_tabla">Instrumentos financieros a largo plazo</p>
+<p>Instrumentos financieros a largo plazo</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Instrumentos financieros a corto plazo</p>
+<p>Instrumentos financieros a corto plazo</p>
 </td>
 <td colspan="2" rowspan="2">
-<p class="cabeza_tabla">Total</p>
+<p>Total</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Instrumentos de patrimonio</p>
+<p>Instrumentos de patrimonio</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Valores representativos de deuda</p>
+<p>Valores representativos de deuda</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Créditos Derivados</p>
-<p class="cabeza_tabla">Otros</p>
+<p>Créditos Derivados</p>
+<p>Otros</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Instrumentos de patrimonio</p>
+<p>Instrumentos de patrimonio</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Valores representativos</p>
-<p class="cabeza_tabla">de deuda</p>
+<p>Valores representativos</p>
+<p>de deuda</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Créditos Derivados</p>
-<p class="cabeza_tabla">Otros</p>
+<p>Créditos Derivados</p>
+<p>Otros</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Activos a valor razonable con cambios en pérdidas y ganancias.</p>
-<p class="cuerpo_tabla_izq">– Cartera de negociación.</p>
-<p class="cuerpo_tabla_izq">– Designados.</p>
-<p class="cuerpo_tabla_izq">– Otros.</p>
+<p>Activos a valor razonable con cambios en pérdidas y ganancias.</p>
+<p>– Cartera de negociación.</p>
+<p>– Designados.</p>
+<p>– Otros.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -7353,9 +7336,9 @@ a.1) Activos financieros, salvo inversiones en el patrimonio de empresas del gru
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Activos financieros a coste amortizado.</p>
+<p>Activos financieros a coste amortizado.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -7372,9 +7355,9 @@ a.1) Activos financieros, salvo inversiones en el patrimonio de empresas del gru
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Activos financieros a coste.</p>
+<p>Activos financieros a coste.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -7391,9 +7374,9 @@ a.1) Activos financieros, salvo inversiones en el patrimonio de empresas del gru
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Activos a valor razonable con cambios en el patrimonio neto.</p>
+<p>Activos a valor razonable con cambios en el patrimonio neto.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -7410,9 +7393,9 @@ a.1) Activos financieros, salvo inversiones en el patrimonio de empresas del gru
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Derivados de cobertura.</p>
+<p>Derivados de cobertura.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -7429,9 +7412,9 @@ a.1) Activos financieros, salvo inversiones en el patrimonio de empresas del gru
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Total.</p>
+<p>Total.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -7453,115 +7436,98 @@ a.1) Activos financieros, salvo inversiones en el patrimonio de empresas del gru
 
 a.2) Pasivos financieros.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td rowspan="4">
-<p class="cabeza_tabla">Categorías</p>
+<p>Categorías</p>
 </td>
 <td colspan="14">
-<p class="cabeza_tabla">Clases</p>
+<p>Clases</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td colspan="6">
-<p class="cabeza_tabla">Instrumentos financieros a largo plazo</p>
+<p>Instrumentos financieros a largo plazo</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Instrumentos financieros a corto plazo</p>
+<p>Instrumentos financieros a corto plazo</p>
 </td>
 <td colspan="2" rowspan="2">
-<p class="cabeza_tabla">Total</p>
+<p>Total</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Deudas con entidades de crédito</p>
+<p>Deudas con entidades de crédito</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Obligaciones y otros valores negociables</p>
+<p>Obligaciones y otros valores negociables</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Derivados</p>
-<p class="cabeza_tabla">Otros</p>
+<p>Derivados</p>
+<p>Otros</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Deudas con entidades de crédito</p>
+<p>Deudas con entidades de crédito</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Obligaciones y otros valores negociables</p>
+<p>Obligaciones y otros valores negociables</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Derivados</p>
-<p class="cabeza_tabla">Otros</p>
+<p>Derivados</p>
+<p>Otros</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Pasivos financieros a coste amortizado o coste.</p>
+<p>Pasivos financieros a coste amortizado o coste.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -7578,12 +7544,12 @@ a.2) Pasivos financieros.
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Pasivos a valor razonable con cambios en pérdidas y ganancias.</p>
-<p class="cuerpo_tabla_izq">– Cartera de negociación.</p>
-<p class="cuerpo_tabla_izq">– Designados.</p>
-<p class="cuerpo_tabla_izq">– Otros.</p>
+<p>Pasivos a valor razonable con cambios en pérdidas y ganancias.</p>
+<p>– Cartera de negociación.</p>
+<p>– Designados.</p>
+<p>– Otros.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -7600,9 +7566,9 @@ a.2) Pasivos financieros.
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Derivados de cobertura.</p>
+<p>Derivados de cobertura.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -7619,9 +7585,9 @@ a.2) Pasivos financieros.
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Total.</p>
+<p>Total.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -7995,221 +7961,221 @@ Explicación de la diferencia que exista entre el importe neto de los ingresos y
 
 CONCILIACIÓN DEL IMPORTE NETO DE INGRESOS Y GASTOS DEL EJERCICIO CON LA BASE IMPONIBLE DEL IMPUESTO SOBRE BENEFICIOS
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla"> </p>
+<p> </p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Cuenta de Pérdidas</p>
-<p class="cabeza_tabla">y Ganancias</p>
+<p>Cuenta de Pérdidas</p>
+<p>y Ganancias</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Ingresos y gastos</p>
-<p class="cabeza_tabla">directamente imputados</p>
-<p class="cabeza_tabla">al patrimonio neto</p>
+<p>Ingresos y gastos</p>
+<p>directamente imputados</p>
+<p>al patrimonio neto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Saldo de ingresos y gastos del ejercicio</p>
+<p>Saldo de ingresos y gastos del ejercicio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cabeza_tabla">Aumentos</p>
+<p>Aumentos</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Disminuciones</p>
+<p>Disminuciones</p>
 </td>
 <td>
-<p class="cabeza_tabla">Aumentos</p>
+<p>Aumentos</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Disminuciones</p>
+<p>Disminuciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Impuesto sobre Sociedades</p>
+<p>Impuesto sobre Sociedades</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Diferencias permanentes</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Diferencias temporarias:</p>
+<p>Diferencias permanentes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– con origen en el ejercicio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– con origen en ejercicios anteriores</p>
+<p>Diferencias temporarias:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Compensación de bases imponibles negativas de ejercicios anteriores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">(. . . . . . . .)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>. . . . . . . . .</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Base imponible (resultado fiscal)</p>
+<p>– con origen en el ejercicio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">. . . . . . . . .</p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>. . . . . . . . .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>. . . . . . . . .</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– con origen en ejercicios anteriores</p>
+</td>
+<td>
+<p>. . . . . . . . .</p>
+</td>
+<td>
+<p>. . . . . . . . .</p>
+</td>
+<td>
+<p>. . . . . . . . .</p>
+</td>
+<td>
+<p>. . . . . . . . .</p>
+</td>
+<td>
+<p>. . . . . . . . .</p>
+</td>
+<td>
+<p>. . . . . . . . .</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Compensación de bases imponibles negativas de ejercicios anteriores</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(. . . . . . . .)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Base imponible (resultado fiscal)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>. . . . . . . . .</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -8747,1131 +8713,1131 @@ Las empresas que puedan formular cuenta de pérdidas y ganancias abreviada podr�
 
 ### BALANCE ABREVIADO AL CIERRE DEL EJERCICIO 200X
 
-<table class="tabla_ancha" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">N° CUENTAS</p>
+<p>N° CUENTAS</p>
 </th>
 <th>
-<p class="cabeza_tabla">ACTIVO</p>
+<p>ACTIVO</p>
 </th>
 <th>
-<p class="cabeza_tabla">NOTAS de la MEMORIA</p>
+<p>NOTAS de la MEMORIA</p>
 </th>
 <th>
-<p class="cabeza_tabla">200X</p>
+<p>200X</p>
 </th>
 <th>
-<p class="cabeza_tabla">200X-1</p>
+<p>200X-1</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>A) ACTIVO NO CORRIENTE</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">20,(280),(290)</p>
+<p>20,(280),(290)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>I. Inmovilizado intangible.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">21,(281),(291),23</p>
+<p>21,(281),(291),23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>II. Inmovilizado material.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">22,(282),(292)</p>
+<p>22,(282),(292)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>III. Inversiones inmobiliarias.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2403,2404,2413,2414,2423,2424,(2493),(2494),(293),</p>
-<p class="cuerpo_tabla_centro">(2943),(2944),(2953),(2954)</p>
+<p>2403,2404,2413,2414,2423,2424,(2493),(2494),(293),</p>
+<p>(2943),(2944),(2953),(2954)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>IV. Inversiones en empresas del grupo y asociadas a largo plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2405,2415,2425,(2495),250,251,252,253,254,255,257,258,</p>
+<p>2405,2415,2425,(2495),250,251,252,253,254,255,257,258,</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>V. Inversiones financieras a largo plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">(259),26,(2945),(2955),(297), (298)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">474</p>
+<p>(259),26,(2945),(2955),(297), (298)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>474</p>
+</td>
+<td>
+<p>
 <strong>VI. Activos por Impuesto diferido.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>B) ACTIVO CORRIENTE</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">580,581,582,583,584,(599)</p>
+<p>580,581,582,583,584,(599)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>I. Activos no corrientes mantenidos para la venta.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">30,31,32,33,34,35,36,(39),407</p>
+<p>30,31,32,33,34,35,36,(39),407</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>II. Existencias.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>III. Deudores comerciales y otras cuentas a cobrar.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">430,431,432,433,434,435,436, (437),(490),(493)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Clientes por ventas y prestaciones de servicios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">5580</p>
+<p>430,431,432,433,434,435,436, (437),(490),(493)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2. Accionistas (socios) por desembolsos exigidos.</p>
+<p>1. Clientes por ventas y prestaciones de servicios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">44,460,470,471,472,544</p>
+<p>5580</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3. Otros deudores.</p>
+<p>2. Accionistas (socios) por desembolsos exigidos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>44,460,470,471,472,544</p>
+</td>
+<td>
+<p>3. Otros deudores.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">5303,5304,5313,5314,5323,5324,5333,5334,</p>
-<p class="cuerpo_tabla_centro">5343,5344,5353,5354,(5393),(5394),5523,5524,</p>
-<p class="cuerpo_tabla_centro">(593),(5943),(5944),(5953),(5954)</p>
+<p>5303,5304,5313,5314,5323,5324,5333,5334,</p>
+<p>5343,5344,5353,5354,(5393),(5394),5523,5524,</p>
+<p>(593),(5943),(5944),(5953),(5954)</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>IV. Inversiones en empresas del grupo y asociadas a corto plazo.</strong>
 </p>
 </td>
 <td rowspan="2"> </td>
 <td rowspan="2"> </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">5305,5315,5325,5335,</p>
-<p class="cuerpo_tabla_centro">5345,5355,(5395),540,541,542,543,545,546,547,548, (549),551,</p>
-<p class="cuerpo_tabla_centro">5525,5590,5593,565,566,(5945),(5955),(597),(598)</p>
+<p>5305,5315,5325,5335,</p>
+<p>5345,5355,(5395),540,541,542,543,545,546,547,548, (549),551,</p>
+<p>5525,5590,5593,565,566,(5945),(5955),(597),(598)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>V. Inversiones financieras a corto plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">480,567</p>
+<p>480,567</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>VI. Periodificaciones a corto plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">57</p>
+<p>57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>VII. Efectivo y otros activos líquidos equivalentes.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>TOTAL ACTIVO (A + B)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">N° CUENTAS</p>
+<p>N° CUENTAS</p>
 </th>
 <th>
-<p class="cabeza_tabla">PATRIMONIO NETO Y PASIVO</p>
+<p>PATRIMONIO NETO Y PASIVO</p>
 </th>
 <th>
-<p class="cabeza_tabla">NOTAS de la</p>
-<p class="cabeza_tabla">MEMORIA</p>
+<p>NOTAS de la</p>
+<p>MEMORIA</p>
 </th>
 <th>
-<p class="cabeza_tabla">200X</p>
+<p>200X</p>
 </th>
 <th>
-<p class="cabeza_tabla">200X-1</p>
+<p>200X-1</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>A) PATRIMONIO NETO</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>A-1) Fondos propios.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>I. Capital.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">100,101,102</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Capital escriturado.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(1030), (1040)</p>
+<p>100,101,102</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2. (Capital no exigido).</p>
+<p>1. Capital escriturado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">110</p>
+<p>(1030), (1040)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>2. (Capital no exigido).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>110</p>
+</td>
+<td>
+<p>
 <strong>II. Prima de emisión.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">112,113,114,115,119</p>
+<p>112,113,114,115,119</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>III. Reservas.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(108),(109)</p>
+<p>(108),(109)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>IV. (Acciones y participaciones en patrimonio propias).</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">120,(121)</p>
+<p>120,(121)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>V. Resultados de ejercicios anteriores.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">118</p>
+<p>118</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>VI. Otras aportaciones de socios.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">129</p>
+<p>129</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>VII. Resultado del ejercicio.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(557)</p>
+<p>(557)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>VIII. (Dividendo a cuenta).</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">111</p>
+<p>111</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>IX. Otros instrumentos de patrimonio neto.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">133,1340,137</p>
+<p>133,1340,137</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>A-2) Ajustes por cambios de valor.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">130,131,132</p>
+<p>130,131,132</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>A-3) Subvenciones, donaciones y legados recibidos.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>B) PASIVO NO CORRIENTE</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">14</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>I. Provisiones a largo plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>II. Deudas a largo plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">1605, 170</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Deudas con entidades de crédito.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1625,174</p>
+<p>1605, 170</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2. Acreedores por arrendamiento financiero</p>
+<p>1. Deudas con entidades de crédito.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">1615,1635,171,172,173,175,176,177,178, 179,180,185,189</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3. Otras deudas a largo plazo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1603,1604,1613,1614,1623,1624,1633,1634</p>
+<p>1625,174</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>2. Acreedores por arrendamiento financiero</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1615,1635,171,172,173,175,176,177,178, 179,180,185,189</p>
+</td>
+<td>
+<p>3. Otras deudas a largo plazo.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1603,1604,1613,1614,1623,1624,1633,1634</p>
+</td>
+<td>
+<p>
 <strong>III. Deudas con empresas del grupo y asociadas a largo plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">479</p>
+<p>479</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>IV. Pasivos por impuesto diferido.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">181</p>
+<p>181</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>V. Periodificaciones a largo plazo</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>C) PASIVO CORRIENTE</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">585,586,587,588,589</p>
+<p>585,586,587,588,589</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>I. Pasivos vinculados con activos no corrientes mantenidos para la venta.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">499,529</p>
+<p>499,529</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>II. Provisiones a corto plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>III. Deudas a corto plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5105,520,527</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Deudas con entidades de crédito.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">5125,524</p>
+<p>5105,520,527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2. Acreedores por arrendamiento financiero.</p>
+<p>1. Deudas con entidades de crédito.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5125,524</p>
+</td>
+<td>
+<p>2. Acreedores por arrendamiento financiero.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">(1034),(1044), (190),(192),194,500,501,505,506,509,5115, 5135,5145,</p>
-<p class="cuerpo_tabla_centro">521,522, 523,525,526,528,551,5525,</p>
-<p class="cuerpo_tabla_centro">555,5565,5566,5595, 5598, 560,561,569</p>
+<p>(1034),(1044), (190),(192),194,500,501,505,506,509,5115, 5135,5145,</p>
+<p>521,522, 523,525,526,528,551,5525,</p>
+<p>555,5565,5566,5595, 5598, 560,561,569</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">3. Otras deudas a corto plazo.</p>
+<p>3. Otras deudas a corto plazo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">5103,5104,5113,5114,5123,5124,5133,5134, 5143,5144,5523,5524,5563,5564</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5103,5104,5113,5114,5123,5124,5133,5134, 5143,5144,5523,5524,5563,5564</p>
+</td>
+<td>
+<p>
 <strong>IV. Deudas con empresas del grupo y asociadas a corto plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>V. Acreedores comerciales y otras cuentas a pagar.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">400,401,403,404,405,(406)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Proveedores.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">41,438,465,466,475,476,477</p>
+<p>400,401,403,404,405,(406)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2. Otros acreedores.</p>
+<p>1. Proveedores.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">485,568</p>
+<p>41,438,465,466,475,476,477</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>2. Otros acreedores.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>485,568</p>
+</td>
+<td>
+<p>
 <strong>VI. Periodificaciones a corto plazo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <strong>TOTAL PATRIMONIO NETO Y PASIVO (A + B + C)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -9885,437 +9851,437 @@ Las empresas que puedan formular cuenta de pérdidas y ganancias abreviada podr�
 
 ### CUENTA DE PÉRDIDAS Y GANANCIAS ABREVIADA CORRESPONDIENTE AL EJERCICIO TERMINADO EL ... DE 200X
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">
+<p>
 <strong>N.° Cuentas</strong>
 </p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">
+<p>
 <strong>Nota</strong>
 </p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">
+<p>
 <strong>(Debe) Haber</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">
+<p>
 <strong>200X</strong>
 </p>
 </td>
 <td>
-<p class="cabeza_tabla">
+<p>
 <strong>200X-1</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">700,701,702,703,704, 705,(706),(708),(709)</p>
+<p>700,701,702,703,704, 705,(706),(708),(709)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>1. Importe neto de la cifra de negocios.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(6930), 71*, 7930</p>
+<p>(6930), 71*, 7930</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>2. Variación de existencias de productos terminados y en curso de fabricación.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">73</p>
+<p>73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>3. Trabajos realizados por la empresa para su activo.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(600), (601), (602), 606, (607), 608, 609, 61*, (6931), (6932), (6933), 7931, 7932, 7933</p>
+<p>(600), (601), (602), 606, (607), 608, 609, 61*, (6931), (6932), (6933), 7931, 7932, 7933</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>4. Aprovisionamientos.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">740, 747, 75</p>
+<p>740, 747, 75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>5. Otros ingresos de explotación.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(64), 7950, 7957</p>
+<p>(64), 7950, 7957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>6. Gastos de personal.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(62), (631), (634), 636, 639, (65), (694), (695), 794, 7954</p>
+<p>(62), (631), (634), 636, 639, (65), (694), (695), 794, 7954</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>7. Otros gastos de explotación.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(68)</p>
+<p>(68)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>8. Amortización del inmovilizado.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">746</p>
+<p>746</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>9. Imputación de subvenciones de inmovilizado no financiero y otras.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">7951, 7952, 7955, 7956</p>
+<p>7951, 7952, 7955, 7956</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>10. Excesos de provisiones.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(670), (671), (672), (690), (691), (692), 770, 771, 772, 790, 791, 792</p>
+<p>(670), (671), (672), (690), (691), (692), 770, 771, 772, 790, 791, 792</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>11. Deterioro y resultado por enajenaciones del inmovilizado.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>A) RESULTADO DE EXPLOTACIÓN (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">760, 761, 762, 767, 769</p>
+<p>760, 761, 762, 767, 769</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>12. Ingresos financieros.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(660), (661), (662), (664), (665), (669)</p>
+<p>(660), (661), (662), (664), (665), (669)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>13. Gastos financieros.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(663), 763</p>
+<p>(663), 763</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>14. Variación de valor razonable en instrumentos financiero.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(668), 768</p>
+<p>(668), 768</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>15. Diferencias de cambio.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(666), (667), (673), (675), (696), (697), (698), (699), 766, 773, 775, 796, 797, 798, 799</p>
+<p>(666), (667), (673), (675), (696), (697), (698), (699), 766, 773, 775, 796, 797, 798, 799</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>16. Deterioro y resultado por enajenaciones de instrumentos financieros.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>B) RESULTADO FINANCIERO (12 + 13 + 14 + 15 + 16)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>C) RESULTADO ANTES DE IMPUESTOS (A + B)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(6300)*, 6301*, (633), 638</p>
+<p>(6300)*, 6301*, (633), 638</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>17. Impuestos sobre beneficios.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>D) RESULTADO DEL EJERCICIO (C + 17)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -10349,989 +10315,989 @@ Las empresas que puedan formular cuenta de pérdidas y ganancias abreviada podr�
 
 **B) ESTADO ABREVIADO TOTAL DE CAMBIOS EN EL PATRIMONIO NETO CORRESPONDIENTE AL EJERCICIO TERMINADO EL... DE 200X**
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Capital</p>
+<p>Capital</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Prima de emisión</p>
+<p>Prima de emisión</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Reser-vas</p>
+<p>Reser-vas</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">(Acciones y participa- ciones en patrimonio propias)</p>
+<p>(Acciones y participa- ciones en patrimonio propias)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Resul- tados de ejercicios ante- riores</p>
+<p>Resul- tados de ejercicios ante- riores</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Otras aportaciones de socios</p>
+<p>Otras aportaciones de socios</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Resultado del ejercicio</p>
+<p>Resultado del ejercicio</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">(Dividendo a cuenta)</p>
+<p>(Dividendo a cuenta)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Otros instrumentos de patrimonio neto</p>
+<p>Otros instrumentos de patrimonio neto</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Ajustes por cambios de valor</p>
+<p>Ajustes por cambios de valor</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Subven- ciones, dona- ciones y legados recibidos</p>
+<p>Subven- ciones, dona- ciones y legados recibidos</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Total</p>
+<p>Total</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Escri- turado</p>
+<p>Escri- turado</p>
 </td>
 <td>
-<p class="cabeza_tabla">No exigido</p>
+<p>No exigido</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>A. SALDO, FINAL DEL AÑO 200X - 2</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">I. Ajustes por cambios de criterio 200X-2 y anteriores.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">II. Ajustes por errores 200X-2 y anteriores</p>
+<p>I. Ajustes por cambios de criterio 200X-2 y anteriores.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>II. Ajustes por errores 200X-2 y anteriores</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <strong>B. SALDO AJUSTADO, INICIO DEL AÑO 200X-1</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">I. Total ingresos y gastos reconocidos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">II. Operaciones con socios o propietarios.</p>
+<p>I. Total ingresos y gastos reconocidos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1. Aumentos de capital.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2. ( - ) Reducciones de capital.</p>
+<p>II. Operaciones con socios o propietarios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3. Otras operaciones con socios o propietarias.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">III. Otras variaciones del patrimonio neto.</p>
+<p>1. Aumentos de capital.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>2. ( - ) Reducciones de capital.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. Otras operaciones con socios o propietarias.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III. Otras variaciones del patrimonio neto.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <strong>C. SALDO, FINAL DEL AÑO 200X -1</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">I. Ajustes por cambios de criterio 200X-1.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">II. Ajustes por errores 200X-1.</p>
+<p>I. Ajustes por cambios de criterio 200X-1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>II. Ajustes por errores 200X-1.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <strong>D. SALDO AJUSTADO, INICIO DEL AÑO 200X</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">I. Total ingresos y gastos reconocidos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">II. Operaciones con socios o propietarios.</p>
+<p>I. Total ingresos y gastos reconocidos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1. Aumentos de capital.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2. ( - ) Reducciones de capital.</p>
+<p>II. Operaciones con socios o propietarios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3. Otras operaciones con socios o propietarios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">III. Otras variaciones del patrimonio neto.</p>
+<p>1. Aumentos de capital.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>2. ( - ) Reducciones de capital.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. Otras operaciones con socios o propietarios.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III. Otras variaciones del patrimonio neto.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <strong>E. SALDO, FINAL DEL AÑO 200X</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -11581,1250 +11547,1250 @@ Se incluirá información sobre:
 
 ### Grupo 1 — Financiación básica
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10.</p>
+<p>10.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">CAPITAL</p>
+<p>CAPITAL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">100.</p>
+<p>100.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Capital social</p>
+<p>Capital social</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">101.</p>
+<p>101.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Fondo social</p>
+<p>Fondo social</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">102.</p>
+<p>102.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Capital</p>
+<p>Capital</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">103.</p>
+<p>103.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Socios por desembolsos no exigidos</p>
+<p>Socios por desembolsos no exigidos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1030.</p>
+<p>1030.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Socios por desembolsos no exigidos, capital social</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1034.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Socios por desembolsos no exigidos, capital pendiente de inscripción</p>
+<p>Socios por desembolsos no exigidos, capital social</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">104.</p>
+<p> </p>
+</td>
+<td>
+<p>1034.</p>
+</td>
+<td>
+<p>Socios por desembolsos no exigidos, capital pendiente de inscripción</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>104.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Socios por aportaciones no dinerarias pendientes</p>
+<p>Socios por aportaciones no dinerarias pendientes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1040.</p>
+<p>1040.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Socios por aportaciones no dinerarias pendientes, capital social</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1044.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Socios por aportaciones no dinerarias pendientes, capital pendiente de inscripción</p>
+<p>Socios por aportaciones no dinerarias pendientes, capital social</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">108.</p>
+<p> </p>
+</td>
+<td>
+<p>1044.</p>
+</td>
+<td>
+<p>Socios por aportaciones no dinerarias pendientes, capital pendiente de inscripción</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>108.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acciones o participaciones propias en situaciones especiales</p>
+<p>Acciones o participaciones propias en situaciones especiales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">109.</p>
+<p>109.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acciones o participaciones propias para reducción de capital</p>
+<p>Acciones o participaciones propias para reducción de capital</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">11.</p>
+<p>11.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">RESERVAS Y OTROS INSTRUMENTOS DE PATRIMONIO</p>
+<p>RESERVAS Y OTROS INSTRUMENTOS DE PATRIMONIO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">110.</p>
+<p>110.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Prima de emisión o asunción</p>
+<p>Prima de emisión o asunción</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">111.</p>
+<p>111.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otros instrumentos de patrimonio neto</p>
+<p>Otros instrumentos de patrimonio neto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1110.</p>
+<p>1110.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Patrimonio neto por emisión de instrumentos financieros compuestos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1111.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Resto de instrumentos de patrimonio neto</p>
+<p>Patrimonio neto por emisión de instrumentos financieros compuestos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">112.</p>
+<p> </p>
+</td>
+<td>
+<p>1111.</p>
+</td>
+<td>
+<p>Resto de instrumentos de patrimonio neto</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>112.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reserva legal</p>
+<p>Reserva legal</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">113.</p>
+<p>113.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reservas voluntarias</p>
+<p>Reservas voluntarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">114.</p>
+<p>114.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reservas especiales</p>
+<p>Reservas especiales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1140.</p>
+<p>1140.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reservas para acciones o participaciones de la sociedad dominante</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1142.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reserva por capital amortizado</p>
+<p>Reservas para acciones o participaciones de la sociedad dominante</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1143.</p>
+<p>1142.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reserva por fondo de comercio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1144.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reservas por acciones propias aceptadas en garantía</p>
+<p>Reserva por capital amortizado</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">115.</p>
+<p> </p>
+</td>
+<td>
+<p>1143.</p>
+</td>
+<td>
+<p>Reserva por fondo de comercio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1144.</p>
+</td>
+<td>
+<p>Reservas por acciones propias aceptadas en garantía</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>115.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reservas por pérdidas y ganancias actuariales y otros ajustes</p>
+<p>Reservas por pérdidas y ganancias actuariales y otros ajustes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">118.</p>
+<p>118.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Aportaciones de socios o propietarios</p>
+<p>Aportaciones de socios o propietarios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">119.</p>
+<p>119.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Diferencias por ajuste del capital a euros</p>
+<p>Diferencias por ajuste del capital a euros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">12.</p>
+<p>12.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">RESULTADOS PENDIENTES DE APLICACIÓN</p>
+<p>RESULTADOS PENDIENTES DE APLICACIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">120.</p>
+<p>120.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Remanente</p>
+<p>Remanente</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">121.</p>
+<p>121.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Resultados negativos de ejercicios anteriores</p>
+<p>Resultados negativos de ejercicios anteriores</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">129.</p>
+<p>129.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Resultado del ejercicio</p>
+<p>Resultado del ejercicio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">13.</p>
+<p>13.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">SUBVENCIONES, DONACIONES Y AJUSTES POR CAMBIOS DE VALOR</p>
+<p>SUBVENCIONES, DONACIONES Y AJUSTES POR CAMBIOS DE VALOR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">130.</p>
+<p>130.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Subvenciones oficiales de capital</p>
+<p>Subvenciones oficiales de capital</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">131.</p>
+<p>131.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Donaciones y legados de capital</p>
+<p>Donaciones y legados de capital</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">132.</p>
+<p>132.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otras subvenciones, donaciones y legados</p>
+<p>Otras subvenciones, donaciones y legados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">133.</p>
+<p>133.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes por valoración en activos financieros a valor razonable con cambios en el patrimonio neto</p>
+<p>Ajustes por valoración en activos financieros a valor razonable con cambios en el patrimonio neto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">134.</p>
+<p>134.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Operaciones de cobertura</p>
+<p>Operaciones de cobertura</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1340.</p>
+<p>1340.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cobertura de flujos de efectivo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1341.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cobertura de una inversión neta en un negocio en el extranjero</p>
+<p>Cobertura de flujos de efectivo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">135.</p>
+<p> </p>
+</td>
+<td>
+<p>1341.</p>
+</td>
+<td>
+<p>Cobertura de una inversión neta en un negocio en el extranjero</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>135.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Diferencias de conversión</p>
+<p>Diferencias de conversión</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">136.</p>
+<p>136.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes por valoración en activos no corrientes y grupos enajenables de elementos, mantenidos para la venta</p>
+<p>Ajustes por valoración en activos no corrientes y grupos enajenables de elementos, mantenidos para la venta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">137.</p>
+<p>137.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos fiscales a distribuir en varios ejercicios</p>
+<p>Ingresos fiscales a distribuir en varios ejercicios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1370.</p>
+<p>1370.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingresos fiscales por diferencias permanentes a distribuir en varios ejercicios</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1371.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ingresos fiscales por deducciones y bonificaciones a distribuir en varios ejercicios</p>
+<p>Ingresos fiscales por diferencias permanentes a distribuir en varios ejercicios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">14.</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1371.</p>
+</td>
+<td>
+<p>Ingresos fiscales por deducciones y bonificaciones a distribuir en varios ejercicios</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">PROVISIONES</p>
+<p>PROVISIONES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">140.</p>
+<p>140.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Provisión por retribuciones a largo plazo al personal</p>
+<p>Provisión por retribuciones a largo plazo al personal</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">141.</p>
+<p>141.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Provisión para impuestos</p>
+<p>Provisión para impuestos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">142.</p>
+<p>142.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Provisión para otras responsabilidades</p>
+<p>Provisión para otras responsabilidades</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">143.</p>
+<p>143.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Provisión por desmantelamiento, retiro o rehabilitación del inmovilizado</p>
+<p>Provisión por desmantelamiento, retiro o rehabilitación del inmovilizado</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">145.</p>
+<p>145.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Provisión para actuaciones medioambientales</p>
+<p>Provisión para actuaciones medioambientales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">146.</p>
+<p>146.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Provisión para reestructuraciones</p>
+<p>Provisión para reestructuraciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">147.</p>
+<p>147.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Provisión por transacciones con pagos basados en instrumentos de patrimonio</p>
+<p>Provisión por transacciones con pagos basados en instrumentos de patrimonio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">15.</p>
+<p>15.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DEUDAS A LARGO PLAZO CON CARACTERÍSTICAS ESPECIALES</p>
+<p>DEUDAS A LARGO PLAZO CON CARACTERÍSTICAS ESPECIALES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">150.</p>
+<p>150.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acciones o participaciones a largo plazo consideradas como pasivos financieros</p>
+<p>Acciones o participaciones a largo plazo consideradas como pasivos financieros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">153.</p>
+<p>153.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Desembolsos no exigidos por acciones o participaciones consideradas como pasivos financieros</p>
+<p>Desembolsos no exigidos por acciones o participaciones consideradas como pasivos financieros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1533.</p>
+<p>1533.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desembolsos no exigidos, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1534.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Desembolsos no exigidos, empresas asociadas</p>
+<p>Desembolsos no exigidos, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1535.</p>
+<p>1534.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desembolsos no exigidos, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1536.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otros desembolsos no exigidos</p>
+<p>Desembolsos no exigidos, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">154.</p>
+<p> </p>
+</td>
+<td>
+<p>1535.</p>
+</td>
+<td>
+<p>Desembolsos no exigidos, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1536.</p>
+</td>
+<td>
+<p>Otros desembolsos no exigidos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>154.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Aportaciones no dinerarias pendientes por acciones o participaciones consideradas como pasivos financieros</p>
+<p>Aportaciones no dinerarias pendientes por acciones o participaciones consideradas como pasivos financieros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1543.</p>
+<p>1543.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aportaciones no dinerarias pendientes, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1544.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Aportaciones no dinerarias pendientes, empresas asociadas</p>
+<p>Aportaciones no dinerarias pendientes, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1545.</p>
+<p>1544.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aportaciones no dinerarias pendientes, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1546.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otras aportaciones no dinerarias pendientes</p>
+<p>Aportaciones no dinerarias pendientes, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">16.</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1545.</p>
+</td>
+<td>
+<p>Aportaciones no dinerarias pendientes, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1546.</p>
+</td>
+<td>
+<p>Otras aportaciones no dinerarias pendientes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DEUDAS A LARGO PLAZO CON PARTES VINCULADAS</p>
+<p>DEUDAS A LARGO PLAZO CON PARTES VINCULADAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">160.</p>
+<p>160.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas a largo plazo con entidades de crédito vinculadas</p>
+<p>Deudas a largo plazo con entidades de crédito vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1603.</p>
+<p>1603.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudas a largo plazo con entidades de crédito, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1604.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deudas a largo plazo con entidades de crédito, empresas asociadas</p>
+<p>Deudas a largo plazo con entidades de crédito, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1605.</p>
+<p>1604.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudas a largo plazo con otras entidades de crédito vinculadas</p>
+<p>Deudas a largo plazo con entidades de crédito, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">161.</p>
+<p> </p>
+</td>
+<td>
+<p>1605.</p>
+</td>
+<td>
+<p>Deudas a largo plazo con otras entidades de crédito vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>161.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a largo plazo, partes vinculadas</p>
+<p>Proveedores de inmovilizado a largo plazo, partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1613.</p>
+<p>1613.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a largo plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1614.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a largo plazo, empresas asociadas</p>
+<p>Proveedores de inmovilizado a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1615.</p>
+<p>1614.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a largo plazo, otras partes vinculadas</p>
+<p>Proveedores de inmovilizado a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">162.</p>
+<p> </p>
+</td>
+<td>
+<p>1615.</p>
+</td>
+<td>
+<p>Proveedores de inmovilizado a largo plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>162.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a largo plazo, partes vinculadas</p>
+<p>Acreedores por arrendamiento financiero a largo plazo, partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1623.</p>
+<p>1623.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a largo plazo, empresas de grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1624.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a largo plazo, empresas asociadas</p>
+<p>Acreedores por arrendamiento financiero a largo plazo, empresas de grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1625.</p>
+<p>1624.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a largo plazo, otras partes vinculadas.</p>
+<p>Acreedores por arrendamiento financiero a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">163.</p>
+<p> </p>
+</td>
+<td>
+<p>1625.</p>
+</td>
+<td>
+<p>Acreedores por arrendamiento financiero a largo plazo, otras partes vinculadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>163.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otras deudas a largo plazo con partes vinculadas</p>
+<p>Otras deudas a largo plazo con partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1633.</p>
+<p>1633.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras deudas a largo plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1634.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otras deudas a largo plazo, empresas asociadas</p>
+<p>Otras deudas a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1635.</p>
+<p>1634.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras deudas a largo plazo, con otras partes vinculadas</p>
+<p>Otras deudas a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">17.</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1635.</p>
+</td>
+<td>
+<p>Otras deudas a largo plazo, con otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DEUDAS A LARGO PLAZO POR PRÉSTAMOS RECIBIDOS, EMPRÉSTITOS Y OTROS CONCEPTOS</p>
+<p>DEUDAS A LARGO PLAZO POR PRÉSTAMOS RECIBIDOS, EMPRÉSTITOS Y OTROS CONCEPTOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">170.</p>
+<p>170.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas a largo plazo con entidades de crédito</p>
+<p>Deudas a largo plazo con entidades de crédito</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">171.</p>
+<p>171.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas a largo plazo</p>
+<p>Deudas a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">172.</p>
+<p>172.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas a largo plazo transformables en subvenciones, donaciones y legados</p>
+<p>Deudas a largo plazo transformables en subvenciones, donaciones y legados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">173.</p>
+<p>173.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a largo plazo</p>
+<p>Proveedores de inmovilizado a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">174.</p>
+<p>174.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a largo plazo</p>
+<p>Acreedores por arrendamiento financiero a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">175.</p>
+<p>175.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Efectos a pagar a largo plazo</p>
+<p>Efectos a pagar a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">176.</p>
+<p>176.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pasivos por derivados financieros a largo plazo</p>
+<p>Pasivos por derivados financieros a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1765.</p>
+<p>1765.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pasivos por derivados financieros a largo plazo, cartera de negociación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1768.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pasivos por derivados financieros a largo plazo, instrumentos de cobertura</p>
+<p>Pasivos por derivados financieros a largo plazo, cartera de negociación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">177.</p>
+<p> </p>
+</td>
+<td>
+<p>1768.</p>
+</td>
+<td>
+<p>Pasivos por derivados financieros a largo plazo, instrumentos de cobertura</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>177.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Obligaciones y bonos</p>
+<p>Obligaciones y bonos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">178.</p>
+<p>178.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Obligaciones y bonos convertibles</p>
+<p>Obligaciones y bonos convertibles</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">179.</p>
+<p>179.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas representadas en otros valores negociables</p>
+<p>Deudas representadas en otros valores negociables</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">18.</p>
+<p>18.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">PASIVOS POR FIANZAS, GARANTÍAS Y OTROS CONCEPTOS A LARGO PLAZO</p>
+<p>PASIVOS POR FIANZAS, GARANTÍAS Y OTROS CONCEPTOS A LARGO PLAZO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">180.</p>
+<p>180.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Fianzas recibidas a largo plazo</p>
+<p>Fianzas recibidas a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">181.</p>
+<p>181.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Anticipos recibidos por ventas o prestaciones de servicios a largo plazo</p>
+<p>Anticipos recibidos por ventas o prestaciones de servicios a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">185.</p>
+<p>185.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Depósitos recibidos a largo plazo</p>
+<p>Depósitos recibidos a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">189.</p>
+<p>189.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Garantías financieras a largo plazo</p>
+<p>Garantías financieras a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">19.</p>
+<p>19.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">SITUACIONES TRANSITORIAS DE FINANCIACIÓN</p>
+<p>SITUACIONES TRANSITORIAS DE FINANCIACIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">190.</p>
+<p>190.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acciones o participaciones emitidas</p>
+<p>Acciones o participaciones emitidas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">192.</p>
+<p>192.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Suscriptores de acciones</p>
+<p>Suscriptores de acciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">194.</p>
+<p>194.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Capital emitido pendiente de inscripción</p>
+<p>Capital emitido pendiente de inscripción</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">195.</p>
+<p>195.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acciones o participaciones emitidas consideradas como pasivos financieros</p>
+<p>Acciones o participaciones emitidas consideradas como pasivos financieros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">197.</p>
+<p>197.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Suscriptores de acciones consideradas como pasivos financieros</p>
+<p>Suscriptores de acciones consideradas como pasivos financieros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">199.</p>
+<p>199.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acciones o participaciones emitidas consideradas como pasivos financieros pendientes de inscripción.</p>
+<p>Acciones o participaciones emitidas consideradas como pasivos financieros pendientes de inscripción.</p>
 </td>
 </tr>
 </tbody>
@@ -12836,1446 +12802,1446 @@ Se incluirá información sobre:
 
 ### Grupo 2 — Activo no corriente
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">20.</p>
+<p>20.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">INMOVILIZACIONES INTANGIBLES</p>
+<p>INMOVILIZACIONES INTANGIBLES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">200.</p>
+<p>200.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Investigación</p>
+<p>Investigación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">201.</p>
+<p>201.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Desarrollo</p>
+<p>Desarrollo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">202.</p>
+<p>202.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Concesiones administrativas</p>
+<p>Concesiones administrativas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">203</p>
+<p>203</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Propiedad industrial</p>
+<p>Propiedad industrial</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">204.</p>
+<p>204.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Fondo de comercio</p>
+<p>Fondo de comercio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">205.</p>
+<p>205.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Derechos de traspaso</p>
+<p>Derechos de traspaso</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">206.</p>
+<p>206.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Aplicaciones informáticas</p>
+<p>Aplicaciones informáticas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">209.</p>
+<p>209.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Anticipos para inmovilizaciones intangibles</p>
+<p>Anticipos para inmovilizaciones intangibles</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">21.</p>
+<p>21.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">INMOVILIZACIONES MATERIALES</p>
+<p>INMOVILIZACIONES MATERIALES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">210.</p>
+<p>210.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Terrenos y bienes naturales</p>
+<p>Terrenos y bienes naturales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">211.</p>
+<p>211.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Construcciones</p>
+<p>Construcciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">212.</p>
+<p>212.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Instalaciones técnicas</p>
+<p>Instalaciones técnicas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">213.</p>
+<p>213.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Maquinaria</p>
+<p>Maquinaria</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">214.</p>
+<p>214.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Utillaje</p>
+<p>Utillaje</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">215.</p>
+<p>215.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otras instalaciones</p>
+<p>Otras instalaciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">216.</p>
+<p>216.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Mobiliario</p>
+<p>Mobiliario</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">217.</p>
+<p>217.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Equipos para procesos de información</p>
+<p>Equipos para procesos de información</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">218.</p>
+<p>218.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Elementos de transporte</p>
+<p>Elementos de transporte</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">219.</p>
+<p>219.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otro inmovilizado material</p>
+<p>Otro inmovilizado material</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">22.</p>
+<p>22.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">INVERSIONES INMOBILIARIAS</p>
+<p>INVERSIONES INMOBILIARIAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">220.</p>
+<p>220.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Inversiones en terrenos y bienes naturales</p>
+<p>Inversiones en terrenos y bienes naturales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">221.</p>
+<p>221.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Inversiones en construcciones</p>
+<p>Inversiones en construcciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">23.</p>
+<p>23.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">INMOVILIZACIONES MATERIALES EN CURSO</p>
+<p>INMOVILIZACIONES MATERIALES EN CURSO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">230.</p>
+<p>230.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Adaptación de terrenos y bienes naturales</p>
+<p>Adaptación de terrenos y bienes naturales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">231.</p>
+<p>231.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Construcciones en curso</p>
+<p>Construcciones en curso</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">232.</p>
+<p>232.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Instalaciones técnicas en montaje</p>
+<p>Instalaciones técnicas en montaje</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">233.</p>
+<p>233.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Maquinaria en montaje</p>
+<p>Maquinaria en montaje</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">237.</p>
+<p>237.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Equipos para procesos de información en montaje</p>
+<p>Equipos para procesos de información en montaje</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">239.</p>
+<p>239.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Anticipos para inmovilizaciones materiales</p>
+<p>Anticipos para inmovilizaciones materiales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">24.</p>
+<p>24.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">INVERSIONES FINANCIERAS A LARGO PLAZO EN PARTES VINCULADAS</p>
+<p>INVERSIONES FINANCIERAS A LARGO PLAZO EN PARTES VINCULADAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">240.</p>
+<p>240.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Participaciones a largo plazo en partes vinculadas</p>
+<p>Participaciones a largo plazo en partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2403.</p>
+<p>2403.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Participaciones a largo plazo en empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2404.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Participaciones a largo plazo en empresas asociadas</p>
+<p>Participaciones a largo plazo en empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2405.</p>
+<p>2404.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Participaciones a largo plazo en otras partes vinculadas</p>
+<p>Participaciones a largo plazo en empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">241.</p>
+<p> </p>
+</td>
+<td>
+<p>2405.</p>
+</td>
+<td>
+<p>Participaciones a largo plazo en otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>241.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a largo plazo de partes vinculadas</p>
+<p>Valores representativos de deuda a largo plazo de partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2413.</p>
+<p>2413.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a largo plazo de empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2414.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a largo plazo de empresas asociadas</p>
+<p>Valores representativos de deuda a largo plazo de empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2415.</p>
+<p>2414.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a largo plazo de otras partes vinculadas</p>
+<p>Valores representativos de deuda a largo plazo de empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">242.</p>
+<p> </p>
+</td>
+<td>
+<p>2415.</p>
+</td>
+<td>
+<p>Valores representativos de deuda a largo plazo de otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>242.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Créditos a largo plazo a partes vinculadas</p>
+<p>Créditos a largo plazo a partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2423.</p>
+<p>2423.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Créditos a largo plazo a empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2424.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Créditos a largo plazo a empresas asociadas</p>
+<p>Créditos a largo plazo a empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2425.</p>
+<p>2424.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Créditos a largo plazo a otras partes vinculadas</p>
+<p>Créditos a largo plazo a empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">249.</p>
+<p> </p>
+</td>
+<td>
+<p>2425.</p>
+</td>
+<td>
+<p>Créditos a largo plazo a otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>249.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a largo plazo en partes vinculadas</p>
+<p>Desembolsos pendientes sobre participaciones a largo plazo en partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2493.</p>
+<p>2493.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a largo plazo en empresas del grupo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2494.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a largo plazo en empresas asociadas.</p>
+<p>Desembolsos pendientes sobre participaciones a largo plazo en empresas del grupo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2495.</p>
+<p>2494.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a largo plazo en otras partes vinculadas</p>
+<p>Desembolsos pendientes sobre participaciones a largo plazo en empresas asociadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">25.</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2495.</p>
+</td>
+<td>
+<p>Desembolsos pendientes sobre participaciones a largo plazo en otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">OTRAS INVERSIONES FINANCIERAS A LARGO PLAZO</p>
+<p>OTRAS INVERSIONES FINANCIERAS A LARGO PLAZO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">250.</p>
+<p>250.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Inversiones financieras a largo plazo en instrumentos de patrimonio</p>
+<p>Inversiones financieras a largo plazo en instrumentos de patrimonio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">251.</p>
+<p>251.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a largo plazo</p>
+<p>Valores representativos de deuda a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">252.</p>
+<p>252.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Créditos a largo plazo</p>
+<p>Créditos a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">253.</p>
+<p>253.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Créditos a largo plazo por enajenación de inmovilizado</p>
+<p>Créditos a largo plazo por enajenación de inmovilizado</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">254.</p>
+<p>254.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Créditos a largo plazo al personal</p>
+<p>Créditos a largo plazo al personal</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">255.</p>
+<p>255.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Activos por derivados financieros a largo plazo</p>
+<p>Activos por derivados financieros a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2550.</p>
+<p>2550.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Activos por derivados financieros a largo plazo, cartera de negociación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2553.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Activos por derivados financieros a largo plazo, instrumentos de cobertura</p>
+<p>Activos por derivados financieros a largo plazo, cartera de negociación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">257.</p>
+<p> </p>
+</td>
+<td>
+<p>2553.</p>
+</td>
+<td>
+<p>Activos por derivados financieros a largo plazo, instrumentos de cobertura</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>257.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Derechos de reembolso derivados de contratos de seguro relativos a retribuciones a largo plazo al personal</p>
+<p>Derechos de reembolso derivados de contratos de seguro relativos a retribuciones a largo plazo al personal</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">258.</p>
+<p>258.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Imposiciones a largo plazo</p>
+<p>Imposiciones a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">259.</p>
+<p>259.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones en el patrimonio neto a largo plazo</p>
+<p>Desembolsos pendientes sobre participaciones en el patrimonio neto a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">26.</p>
+<p>26.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">FIANZAS Y DEPÓSITOS CONSTITUIDOS A LARGO PLAZO</p>
+<p>FIANZAS Y DEPÓSITOS CONSTITUIDOS A LARGO PLAZO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">260.</p>
+<p>260.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Fianzas constituidas a largo plazo</p>
+<p>Fianzas constituidas a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">265.</p>
+<p>265.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Depósitos constituidos a largo plazo</p>
+<p>Depósitos constituidos a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">28.</p>
+<p>28.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">AMORTIZACIÓN ACUMULADA DEL INMOVILIZADO</p>
+<p>AMORTIZACIÓN ACUMULADA DEL INMOVILIZADO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">280.</p>
+<p>280.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Amortización acumulada del inmovilizado intangible</p>
+<p>Amortización acumulada del inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2800.</p>
+<p>2800.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de investigación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2801.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de desarrollo</p>
+<p>Amortización acumulada de investigación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2802.</p>
+<p>2801.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de concesiones administrativas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2803.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de propiedad industrial</p>
+<p>Amortización acumulada de desarrollo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2804</p>
+<p>2802.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de fondo de comercio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2805.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de derechos de traspaso</p>
+<p>Amortización acumulada de concesiones administrativas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2806.</p>
+<p>2803.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de aplicaciones informáticas</p>
+<p>Amortización acumulada de propiedad industrial</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">281.</p>
+<p> </p>
+</td>
+<td>
+<p>2804</p>
+</td>
+<td>
+<p>Amortización acumulada de fondo de comercio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2805.</p>
+</td>
+<td>
+<p>Amortización acumulada de derechos de traspaso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2806.</p>
+</td>
+<td>
+<p>Amortización acumulada de aplicaciones informáticas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>281.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Amortización acumulada del inmovilizado material</p>
+<p>Amortización acumulada del inmovilizado material</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2811.</p>
+<p>2811.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de construcciones</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2812.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de instalaciones técnicas</p>
+<p>Amortización acumulada de construcciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2813.</p>
+<p>2812.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de maquinaria</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2814.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de utillaje</p>
+<p>Amortización acumulada de instalaciones técnicas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2815.</p>
+<p>2813.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de otras instalaciones</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2816.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de mobiliario</p>
+<p>Amortización acumulada de maquinaria</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2817.</p>
+<p>2814.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de equipos para procesos de información</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2818.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de elementos de transporte</p>
+<p>Amortización acumulada de utillaje</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2819.</p>
+<p>2815.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de otro inmovilizado material</p>
+<p>Amortización acumulada de otras instalaciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">282.</p>
+<p> </p>
+</td>
+<td>
+<p>2816.</p>
+</td>
+<td>
+<p>Amortización acumulada de mobiliario</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2817.</p>
+</td>
+<td>
+<p>Amortización acumulada de equipos para procesos de información</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2818.</p>
+</td>
+<td>
+<p>Amortización acumulada de elementos de transporte</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2819.</p>
+</td>
+<td>
+<p>Amortización acumulada de otro inmovilizado material</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>282.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Amortización acumulada de las inversiones inmobiliarias</p>
+<p>Amortización acumulada de las inversiones inmobiliarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">29.</p>
+<p>29.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DETERIORO DE VALOR DE ACTIVOS NO CORRIENTES</p>
+<p>DETERIORO DE VALOR DE ACTIVOS NO CORRIENTES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">290.</p>
+<p>290.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor del inmovilizado intangible</p>
+<p>Deterioro de valor del inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2900.</p>
+<p>2900.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de investigación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2901.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro del valor de desarrollo</p>
+<p>Deterioro de valor de investigación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2902.</p>
+<p>2901.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de concesiones administrativas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2903.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de propiedad industrial</p>
+<p>Deterioro del valor de desarrollo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2905.</p>
+<p>2902.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de derechos de traspaso</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2906.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de aplicaciones informáticas</p>
+<p>Deterioro de valor de concesiones administrativas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">291.</p>
+<p> </p>
+</td>
+<td>
+<p>2903.</p>
+</td>
+<td>
+<p>Deterioro de valor de propiedad industrial</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2905.</p>
+</td>
+<td>
+<p>Deterioro de valor de derechos de traspaso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2906.</p>
+</td>
+<td>
+<p>Deterioro de valor de aplicaciones informáticas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>291.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor del inmovilizado material</p>
+<p>Deterioro de valor del inmovilizado material</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2910.</p>
+<p>2910.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de terrenos y bienes naturales</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2911.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de construcciones</p>
+<p>Deterioro de valor de terrenos y bienes naturales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2912.</p>
+<p>2911.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de instalaciones técnicas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2913.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de maquinaria</p>
+<p>Deterioro de valor de construcciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2914.</p>
+<p>2912.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de utillaje</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2915.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de otras instalaciones</p>
+<p>Deterioro de valor de instalaciones técnicas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2916.</p>
+<p>2913.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de mobiliario</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2917.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de equipos para procesos de información</p>
+<p>Deterioro de valor de maquinaria</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2918.</p>
+<p>2914.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de elementos de transporte</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2919.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de otro inmovilizado material</p>
+<p>Deterioro de valor de utillaje</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">292.</p>
+<p> </p>
+</td>
+<td>
+<p>2915.</p>
+</td>
+<td>
+<p>Deterioro de valor de otras instalaciones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2916.</p>
+</td>
+<td>
+<p>Deterioro de valor de mobiliario</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2917.</p>
+</td>
+<td>
+<p>Deterioro de valor de equipos para procesos de información</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2918.</p>
+</td>
+<td>
+<p>Deterioro de valor de elementos de transporte</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2919.</p>
+</td>
+<td>
+<p>Deterioro de valor de otro inmovilizado material</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>292.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de las inversiones inmobiliarias</p>
+<p>Deterioro de valor de las inversiones inmobiliarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2920.</p>
+<p>2920.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de los terrenos y bienes naturales</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2921.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de construcciones</p>
+<p>Deterioro de valor de los terrenos y bienes naturales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">293.</p>
+<p> </p>
+</td>
+<td>
+<p>2921.</p>
+</td>
+<td>
+<p>Deterioro de valor de construcciones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>293.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de participaciones a largo plazo</p>
+<p>Deterioro de valor de participaciones a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2933.</p>
+<p>2933.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de participaciones a largo plazo en empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2934.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de participaciones a largo plazo en empresas asociadas</p>
+<p>Deterioro de valor de participaciones a largo plazo en empresas del grupo</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">2935.</td>
-<td class="cuerpo_tabla_izq">Deterioro de valor de participaciones a largo plazo en otras partes vinculadas</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">2936.</td>
-<td class="cuerpo_tabla_izq">Deterioro de valor de participaciones a largo plazo en otras empresas</td>
-</tr>
-<tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">294.</p>
+<p> </p>
+</td>
+<td>
+<p>2934.</p>
+</td>
+<td>
+<p>Deterioro de valor de participaciones a largo plazo en empresas asociadas</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>2935.</td>
+<td>Deterioro de valor de participaciones a largo plazo en otras partes vinculadas</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>2936.</td>
+<td>Deterioro de valor de participaciones a largo plazo en otras empresas</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>294.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a largo plazo de partes vinculadas</p>
+<p>Deterioro de valor de valores representativos de deuda a largo plazo de partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2943.</p>
+<p>2943.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a largo plazo de empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2944.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a largo plazo de empresas asociadas</p>
+<p>Deterioro de valor de valores representativos de deuda a largo plazo de empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2945.</p>
+<p>2944.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a largo plazo de otras partes vinculadas</p>
+<p>Deterioro de valor de valores representativos de deuda a largo plazo de empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">295.</p>
+<p> </p>
+</td>
+<td>
+<p>2945.</p>
+</td>
+<td>
+<p>Deterioro de valor de valores representativos de deuda a largo plazo de otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>295.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a largo plazo a partes vinculadas</p>
+<p>Deterioro de valor de créditos a largo plazo a partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2953.</p>
+<p>2953.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a largo plazo a empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2954.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a largo plazo a empresas asociadas</p>
+<p>Deterioro de valor de créditos a largo plazo a empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2955.</p>
+<p>2954.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a largo plazo a otras partes vinculadas</p>
+<p>Deterioro de valor de créditos a largo plazo a empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">297.</p>
+<p> </p>
+</td>
+<td>
+<p>2955.</p>
+</td>
+<td>
+<p>Deterioro de valor de créditos a largo plazo a otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>297.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a largo plazo</p>
+<p>Deterioro de valor de valores representativos de deuda a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">298.</p>
+<p>298.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a largo plazo</p>
+<p>Deterioro de valor de créditos a largo plazo</p>
 </td>
 </tr>
 </tbody>
@@ -14291,3642 +14257,3642 @@ Se incluirá información sobre:
 
 ### Grupo 3 — Existencias
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">30.</p>
+<p>30.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">COMERCIALES</p>
+<p>COMERCIALES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">300.</p>
+<p>300.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mercaderías A</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">301.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Mercaderías B</p>
+<p>Mercaderías A</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">31.</p>
+<p> </p>
+</td>
+<td>
+<p>301.</p>
+</td>
+<td>
+<p>Mercaderías B</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>31.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">MATERIAS PRIMAS</p>
+<p>MATERIAS PRIMAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">310.</p>
+<p>310.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Materias primas A</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">311.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Materias primas B</p>
+<p>Materias primas A</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">32.</p>
+<p> </p>
+</td>
+<td>
+<p>311.</p>
+</td>
+<td>
+<p>Materias primas B</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>32.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">OTROS APROVISIONAMIENTOS</p>
+<p>OTROS APROVISIONAMIENTOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">320.</p>
+<p>320.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Elementos y conjuntos incorporables</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">321.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Combustibles</p>
+<p>Elementos y conjuntos incorporables</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">322.</p>
+<p>321.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Repuestos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">325.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Materiales diversos</p>
+<p>Combustibles</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">326.</p>
+<p>322.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Embalajes</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">327.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Envases</p>
+<p>Repuestos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">328.</p>
+<p>325.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Material de oficina</p>
+<p>Materiales diversos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">33.</p>
+<p> </p>
+</td>
+<td>
+<p>326.</p>
+</td>
+<td>
+<p>Embalajes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>327.</p>
+</td>
+<td>
+<p>Envases</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>328.</p>
+</td>
+<td>
+<p>Material de oficina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>33.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">PRODUCTOS EN CURSO</p>
+<p>PRODUCTOS EN CURSO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">330.</p>
+<p>330.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Productos en curso A</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">331.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Productos en curso B</p>
+<p>Productos en curso A</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">34.</p>
+<p> </p>
+</td>
+<td>
+<p>331.</p>
+</td>
+<td>
+<p>Productos en curso B</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>34.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">PRODUCTOS SEMITERMINADOS</p>
+<p>PRODUCTOS SEMITERMINADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">340.</p>
+<p>340.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Productos semiterminados A</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">341.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Productos semiterminados B</p>
+<p>Productos semiterminados A</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">35.</p>
+<p> </p>
+</td>
+<td>
+<p>341.</p>
+</td>
+<td>
+<p>Productos semiterminados B</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>35.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">PRODUCTOS TERMINADOS</p>
+<p>PRODUCTOS TERMINADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">350.</p>
+<p>350.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Productos terminados A</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">351.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Productos terminados B</p>
+<p>Productos terminados A</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">36.</p>
+<p> </p>
+</td>
+<td>
+<p>351.</p>
+</td>
+<td>
+<p>Productos terminados B</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>36.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">SUBPRODUCTOS, RESIDUOS Y MATERIALES RECUPERADOS</p>
+<p>SUBPRODUCTOS, RESIDUOS Y MATERIALES RECUPERADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">360.</p>
+<p>360.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Subproductos A</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">361.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Subproductos B</p>
+<p>Subproductos A</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">365.</p>
+<p>361.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Residuos A</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">366.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Residuos B</p>
+<p>Subproductos B</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">368.</p>
+<p>365.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Materiales recuperados A</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">369.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Materiales recuperados B</p>
+<p>Residuos A</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39.</p>
+<p> </p>
+</td>
+<td>
+<p>366.</p>
+</td>
+<td>
+<p>Residuos B</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>368.</p>
+</td>
+<td>
+<p>Materiales recuperados A</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>369.</p>
+</td>
+<td>
+<p>Materiales recuperados B</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">DETERIORO DE VALOR DE LAS EXISTENCIAS</p>
+<p>DETERIORO DE VALOR DE LAS EXISTENCIAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">390.</p>
+<p>390.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de las mercaderías</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">391.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de las materias primas</p>
+<p>Deterioro de valor de las mercaderías</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">392.</p>
+<p>391.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de otros aprovisionamientos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">393.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de los productos en curso</p>
+<p>Deterioro de valor de las materias primas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">394.</p>
+<p>392.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de los productos semiterminados</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">395.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de los productos terminados</p>
+<p>Deterioro de valor de otros aprovisionamientos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">396.</p>
+<p>393.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de los subproductos, residuos y materiales recuperados</p>
+<p>Deterioro de valor de los productos en curso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>394.</p>
+</td>
+<td>
+<p>Deterioro de valor de los productos semiterminados</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>395.</p>
+</td>
+<td>
+<p>Deterioro de valor de los productos terminados</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>396.</p>
+</td>
+<td>
+<p>Deterioro de valor de los subproductos, residuos y materiales recuperados</p>
 </td>
 </tr>
 </table>
 
 ### Grupo 4 — Acreedores y deudores por operaciones comerciales
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">40.</p>
+<p>40.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">PROVEEDORES</p>
+<p>PROVEEDORES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">400.</p>
+<p>400.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Proveedores</p>
+<p>Proveedores</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4000.</p>
+<p>4000.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores (euros)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4004.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Proveedores (moneda extranjera)</p>
+<p>Proveedores (euros)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4009.</p>
+<p>4004.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores, facturas pendientes de recibir o de formalizar</p>
+<p>Proveedores (moneda extranjera)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">401.</p>
+<p> </p>
+</td>
+<td>
+<p>4009.</p>
+</td>
+<td>
+<p>Proveedores, facturas pendientes de recibir o de formalizar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>401.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Proveedores, efectos comerciales a pagar</p>
+<p>Proveedores, efectos comerciales a pagar</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">403.</p>
+<p>403.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Proveedores, empresas del grupo</p>
+<p>Proveedores, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4030.</p>
+<p>4030.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores, empresas del grupo (euros)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4031.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Efectos comerciales a pagar, empresas del grupo</p>
+<p>Proveedores, empresas del grupo (euros)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4034.</p>
+<p>4031.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores, empresas del grupo (moneda extranjera)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4036.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Envases y embalajes a devolver a proveedores, empresas del grupo</p>
+<p>Efectos comerciales a pagar, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4039.</p>
+<p>4034.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores, empresas del grupo, facturas pendientes de recibir o de formalizar</p>
+<p>Proveedores, empresas del grupo (moneda extranjera)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">404.</p>
+<p> </p>
+</td>
+<td>
+<p>4036.</p>
+</td>
+<td>
+<p>Envases y embalajes a devolver a proveedores, empresas del grupo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4039.</p>
+</td>
+<td>
+<p>Proveedores, empresas del grupo, facturas pendientes de recibir o de formalizar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>404.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Proveedores, empresas asociadas</p>
+<p>Proveedores, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">405.</p>
+<p>405.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Proveedores, otras partes vinculadas</p>
+<p>Proveedores, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">406</p>
+<p>406</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Envases y embalajes a devolver a proveedores</p>
+<p>Envases y embalajes a devolver a proveedores</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">407.</p>
+<p>407.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Anticipos a proveedores</p>
+<p>Anticipos a proveedores</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">41.</p>
+<p>41.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">ACREEDORES VARIOS</p>
+<p>ACREEDORES VARIOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">410.</p>
+<p>410.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acreedores por prestaciones de servicios</p>
+<p>Acreedores por prestaciones de servicios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4100.</p>
+<p>4100.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreedores por prestaciones de servicios (euros)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4104.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Acreedores por prestaciones de servicios, (moneda extranjera)</p>
+<p>Acreedores por prestaciones de servicios (euros)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4109.</p>
+<p>4104.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreedores por prestaciones de servicios, facturas pendientes de recibir o de formalizar</p>
+<p>Acreedores por prestaciones de servicios, (moneda extranjera)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">411.</p>
+<p> </p>
+</td>
+<td>
+<p>4109.</p>
+</td>
+<td>
+<p>Acreedores por prestaciones de servicios, facturas pendientes de recibir o de formalizar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>411.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acreedores, efectos comerciales a pagar</p>
+<p>Acreedores, efectos comerciales a pagar</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">419.</p>
+<p>419.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acreedores por operaciones en común</p>
+<p>Acreedores por operaciones en común</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">43.</p>
+<p>43.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">CLIENTES</p>
+<p>CLIENTES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">430.</p>
+<p>430.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Clientes</p>
+<p>Clientes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4300.</p>
+<p>4300.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Clientes (euros)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4304.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Clientes (moneda extranjera)</p>
+<p>Clientes (euros)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4309.</p>
+<p>4304.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Clientes, facturas pendientes de formalizar</p>
+<p>Clientes (moneda extranjera)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">431.</p>
+<p> </p>
+</td>
+<td>
+<p>4309.</p>
+</td>
+<td>
+<p>Clientes, facturas pendientes de formalizar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>431.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Clientes, efectos comerciales a cobrar</p>
+<p>Clientes, efectos comerciales a cobrar</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4310.</p>
+<p>4310.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Efectos comerciales en cartera</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4311.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Efectos comerciales descontados</p>
+<p>Efectos comerciales en cartera</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4312.</p>
+<p>4311.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Efectos comerciales en gestión de cobro</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4315.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Efectos comerciales impagados</p>
+<p>Efectos comerciales descontados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">432.</p>
+<p> </p>
+</td>
+<td>
+<p>4312.</p>
+</td>
+<td>
+<p>Efectos comerciales en gestión de cobro</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4315.</p>
+</td>
+<td>
+<p>Efectos comerciales impagados</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>432.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Clientes, operaciones de «factoring»</p>
+<p>Clientes, operaciones de «factoring»</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">433.</p>
+<p>433.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Clientes, empresas del grupo</p>
+<p>Clientes, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4330.</p>
+<p>4330.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Clientes empresas del grupo (euros)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4331.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Efectos comerciales a cobrar, empresas del grupo</p>
+<p>Clientes empresas del grupo (euros)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4332.</p>
+<p>4331.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Clientes empresas del grupo, operaciones de «factoring»</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4334.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Clientes empresas del grupo (moneda extranjera)</p>
+<p>Efectos comerciales a cobrar, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4336.</p>
+<p>4332.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Clientes empresas del grupo de dudoso cobro</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4337.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Envases y embalajes a devolver a clientes, empresas del grupo</p>
+<p>Clientes empresas del grupo, operaciones de «factoring»</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4339.</p>
+<p>4334.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Clientes empresas del grupo, facturas pendientes de formalizar</p>
+<p>Clientes empresas del grupo (moneda extranjera)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">434.</p>
+<p> </p>
+</td>
+<td>
+<p>4336.</p>
+</td>
+<td>
+<p>Clientes empresas del grupo de dudoso cobro</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4337.</p>
+</td>
+<td>
+<p>Envases y embalajes a devolver a clientes, empresas del grupo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4339.</p>
+</td>
+<td>
+<p>Clientes empresas del grupo, facturas pendientes de formalizar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>434.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Clientes, empresas asociadas</p>
+<p>Clientes, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">435.</p>
+<p>435.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Clientes, otras partes vinculadas</p>
+<p>Clientes, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">436.</p>
+<p>436.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Clientes de dudoso cobro</p>
+<p>Clientes de dudoso cobro</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">437.</p>
+<p>437.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Envases y embalajes a devolver por clientes</p>
+<p>Envases y embalajes a devolver por clientes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">438.</p>
+<p>438.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Anticipos de clientes</p>
+<p>Anticipos de clientes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">44.</p>
+<p>44.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DEUDORES VARIOS</p>
+<p>DEUDORES VARIOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">440.</p>
+<p>440.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudores</p>
+<p>Deudores</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4400.</p>
+<p>4400.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudores (euros)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4404.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deudores (moneda extranjera)</p>
+<p>Deudores (euros)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4409.</p>
+<p>4404.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudores, facturas pendientes de formalizar</p>
+<p>Deudores (moneda extranjera)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">441.</p>
+<p> </p>
+</td>
+<td>
+<p>4409.</p>
+</td>
+<td>
+<p>Deudores, facturas pendientes de formalizar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>441.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudores, efectos comerciales a cobrar</p>
+<p>Deudores, efectos comerciales a cobrar</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4410.</p>
+<p>4410.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudores, efectos comerciales en cartera</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4411.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deudores, efectos comerciales descontados</p>
+<p>Deudores, efectos comerciales en cartera</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4412.</p>
+<p>4411.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudores, efectos comerciales en gestión de cobro</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4415.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deudores, efectos comerciales impagados</p>
+<p>Deudores, efectos comerciales descontados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">446.</p>
+<p> </p>
+</td>
+<td>
+<p>4412.</p>
+</td>
+<td>
+<p>Deudores, efectos comerciales en gestión de cobro</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4415.</p>
+</td>
+<td>
+<p>Deudores, efectos comerciales impagados</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>446.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudores de dudoso cobro</p>
+<p>Deudores de dudoso cobro</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">449.</p>
+<p>449.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudores por operaciones en común</p>
+<p>Deudores por operaciones en común</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">46.</p>
+<p>46.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">PERSONAL</p>
+<p>PERSONAL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">460.</p>
+<p>460.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Anticipos de remuneraciones</p>
+<p>Anticipos de remuneraciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">465.</p>
+<p>465.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Remuneraciones pendientes de pago</p>
+<p>Remuneraciones pendientes de pago</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">466.</p>
+<p>466.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Remuneraciones mediante sistemas de aportación definida pendientes de pago</p>
+<p>Remuneraciones mediante sistemas de aportación definida pendientes de pago</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">47.</p>
+<p>47.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">ADMINISTRACIONES PÚBLICAS</p>
+<p>ADMINISTRACIONES PÚBLICAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">470.</p>
+<p>470.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Hacienda Pública, deudora por diversos conceptos</p>
+<p>Hacienda Pública, deudora por diversos conceptos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4700.</p>
+<p>4700.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hacienda Pública, deudora por IVA</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4708.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hacienda Pública, deudora por subvenciones concedidas</p>
+<p>Hacienda Pública, deudora por IVA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4709.</p>
+<p>4708.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hacienda Pública, deudora por devolución de impuestos</p>
+<p>Hacienda Pública, deudora por subvenciones concedidas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">471.</p>
+<p> </p>
+</td>
+<td>
+<p>4709.</p>
+</td>
+<td>
+<p>Hacienda Pública, deudora por devolución de impuestos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>471.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Organismos de la Seguridad Social, deudores</p>
+<p>Organismos de la Seguridad Social, deudores</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">472.</p>
+<p>472.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Hacienda Pública, IVA soportado</p>
+<p>Hacienda Pública, IVA soportado</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">473.</p>
+<p>473.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Hacienda Pública, retenciones y pagos a cuenta</p>
+<p>Hacienda Pública, retenciones y pagos a cuenta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">474.</p>
+<p>474.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Activos por impuesto diferido</p>
+<p>Activos por impuesto diferido</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4740.</p>
+<p>4740.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Activos por diferencias temporarias deducibles</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4742.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Derechos por deducciones y bonificaciones pendientes de aplicar</p>
+<p>Activos por diferencias temporarias deducibles</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4745.</p>
+<p>4742.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Crédito por pérdidas a compensar del ejercicio</p>
+<p>Derechos por deducciones y bonificaciones pendientes de aplicar</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">475.</p>
+<p> </p>
+</td>
+<td>
+<p>4745.</p>
+</td>
+<td>
+<p>Crédito por pérdidas a compensar del ejercicio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>475.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Hacienda Pública, acreedora por conceptos fiscales</p>
+<p>Hacienda Pública, acreedora por conceptos fiscales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4750.</p>
+<p>4750.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hacienda Pública, acreedora por IVA</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4751.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hacienda Pública, acreedora por retenciones practicadas</p>
+<p>Hacienda Pública, acreedora por IVA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4752.</p>
+<p>4751.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hacienda Pública, acreedora por impuesto sobre sociedades</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4758.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hacienda Pública, acreedora por subvenciones a reintegrar</p>
+<p>Hacienda Pública, acreedora por retenciones practicadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">476.</p>
+<p> </p>
+</td>
+<td>
+<p>4752.</p>
+</td>
+<td>
+<p>Hacienda Pública, acreedora por impuesto sobre sociedades</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4758.</p>
+</td>
+<td>
+<p>Hacienda Pública, acreedora por subvenciones a reintegrar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>476.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Organismos de la Seguridad Social, acreedores</p>
+<p>Organismos de la Seguridad Social, acreedores</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">477.</p>
+<p>477.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Hacienda Pública, IVA repercutido</p>
+<p>Hacienda Pública, IVA repercutido</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">479.</p>
+<p>479.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pasivos por diferencias temporarias imponibles</p>
+<p>Pasivos por diferencias temporarias imponibles</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">48.</p>
+<p>48.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">AJUSTES POR PERIODIFICACIÓN</p>
+<p>AJUSTES POR PERIODIFICACIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">480.</p>
+<p>480.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Gastos anticipados</p>
+<p>Gastos anticipados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">485</p>
+<p>485</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos anticipados</p>
+<p>Ingresos anticipados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">49.</p>
+<p>49.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DETERIORO DE VALOR DE CRÉDITOS COMERCIALES Y PROVISIONES A CORTO PLAZO</p>
+<p>DETERIORO DE VALOR DE CRÉDITOS COMERCIALES Y PROVISIONES A CORTO PLAZO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">490.</p>
+<p>490.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos por operaciones comerciales</p>
+<p>Deterioro de valor de créditos por operaciones comerciales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">493.</p>
+<p>493.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos por operaciones comerciales con partes vinculadas</p>
+<p>Deterioro de valor de créditos por operaciones comerciales con partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4933.</p>
+<p>4933.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos por operaciones comerciales con empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4934.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos por operaciones comerciales con empresas asociadas</p>
+<p>Deterioro de valor de créditos por operaciones comerciales con empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4935.</p>
+<p>4934.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos por operaciones comerciales con otras partes vinculadas</p>
+<p>Deterioro de valor de créditos por operaciones comerciales con empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">499.</p>
+<p> </p>
+</td>
+<td>
+<p>4935.</p>
+</td>
+<td>
+<p>Deterioro de valor de créditos por operaciones comerciales con otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>499.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Provisiones por operaciones comerciales</p>
+<p>Provisiones por operaciones comerciales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4994.</p>
+<p>4994.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión por contratos onerosos</p>
+<p>Provisión por contratos onerosos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4999.</p>
+<p>4999.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión para otras operaciones comerciales</p>
+<p>Provisión para otras operaciones comerciales</p>
 </td>
 </tr>
 </table>
 
 ### Grupo 5 — Cuentas financieras
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50.</p>
+<p>50.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">EMPRÉSTITOS, DEUDAS CON CARÁCTERÍSTICAS ESPECIALES Y OTRAS EMISIONES ANÁLOGAS A CORTO PLAZO</p>
+<p>EMPRÉSTITOS, DEUDAS CON CARÁCTERÍSTICAS ESPECIALES Y OTRAS EMISIONES ANÁLOGAS A CORTO PLAZO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">500.</p>
+<p>500.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Obligaciones y bonos a corto plazo Obligaciones y bonos convertibles a corto plazo</p>
+<p>Obligaciones y bonos a corto plazo Obligaciones y bonos convertibles a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">501.</p>
+<p>501.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acciones o participaciones a corto plazo consideradas como pasivos financieros</p>
+<p>Acciones o participaciones a corto plazo consideradas como pasivos financieros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">505.</p>
+<p>505.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas representadas en otros valores negociables a corto plazo</p>
+<p>Deudas representadas en otros valores negociables a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">506.</p>
+<p>506.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de empréstitos y otras emisiones análogas</p>
+<p>Intereses a corto plazo de empréstitos y otras emisiones análogas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">507.</p>
+<p>507.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Dividendos de acciones o participaciones consideradas como pasivos financieros</p>
+<p>Dividendos de acciones o participaciones consideradas como pasivos financieros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">509.</p>
+<p>509.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Valores negociables amortizados</p>
+<p>Valores negociables amortizados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5090.</p>
+<p>5090.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligaciones y bonos amortizados</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5091.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligaciones y bonos convertibles amortizados</p>
+<p>Obligaciones y bonos amortizados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5095.</p>
+<p>5091.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros valores negociables amortizados</p>
+<p>Obligaciones y bonos convertibles amortizados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">51.</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5095.</p>
+</td>
+<td>
+<p>Otros valores negociables amortizados</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>51.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DEUDAS A CORTO PLAZO CON PARTES VINCULADAS</p>
+<p>DEUDAS A CORTO PLAZO CON PARTES VINCULADAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">510.</p>
+<p>510.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas a corto plazo con entidades de crédito vinculadas</p>
+<p>Deudas a corto plazo con entidades de crédito vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5103.</p>
+<p>5103.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudas a corto plazo con entidades de crédito, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5104.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deudas a corto plazo con entidades de crédito, empresas asociadas</p>
+<p>Deudas a corto plazo con entidades de crédito, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5105.</p>
+<p>5104.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudas a corto plazo con otras entidades de crédito vinculadas</p>
+<p>Deudas a corto plazo con entidades de crédito, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">511.</p>
+<p> </p>
+</td>
+<td>
+<p>5105.</p>
+</td>
+<td>
+<p>Deudas a corto plazo con otras entidades de crédito vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>511.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a corto plazo, partes vinculadas</p>
+<p>Proveedores de inmovilizado a corto plazo, partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5113.</p>
+<p>5113.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a corto plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5114.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a corto plazo, empresas asociadas</p>
+<p>Proveedores de inmovilizado a corto plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5115.</p>
+<p>5114.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a corto plazo, otras partes vinculadas</p>
+<p>Proveedores de inmovilizado a corto plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">512.</p>
+<p> </p>
+</td>
+<td>
+<p>5115.</p>
+</td>
+<td>
+<p>Proveedores de inmovilizado a corto plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>512.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a corto plazo, partes vinculadas.</p>
+<p>Acreedores por arrendamiento financiero a corto plazo, partes vinculadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5123.</p>
+<p>5123.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a corto plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5124.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a corto plazo, empresas asociadas</p>
+<p>Acreedores por arrendamiento financiero a corto plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5125.</p>
+<p>5124.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a corto plazo, otras partes vinculadas</p>
+<p>Acreedores por arrendamiento financiero a corto plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">513.</p>
+<p> </p>
+</td>
+<td>
+<p>5125.</p>
+</td>
+<td>
+<p>Acreedores por arrendamiento financiero a corto plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>513.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otras deudas a corto plazo con partes vinculadas</p>
+<p>Otras deudas a corto plazo con partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5133.</p>
+<p>5133.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras deudas a corto plazo con empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5134.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otras deudas a corto plazo con empresas asociadas</p>
+<p>Otras deudas a corto plazo con empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5135.</p>
+<p>5134.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras deudas a corto plazo con otras partes vinculadas</p>
+<p>Otras deudas a corto plazo con empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">514.</p>
+<p> </p>
+</td>
+<td>
+<p>5135.</p>
+</td>
+<td>
+<p>Otras deudas a corto plazo con otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>514.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de deudas con partes vinculadas</p>
+<p>Intereses a corto plazo de deudas con partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5143.</p>
+<p>5143.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de deudas, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5144.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de deudas, empresas asociadas</p>
+<p>Intereses a corto plazo de deudas, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5145.</p>
+<p>5144.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de deudas, otras partes vinculadas</p>
+<p>Intereses a corto plazo de deudas, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">52.</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5145.</p>
+</td>
+<td>
+<p>Intereses a corto plazo de deudas, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>52.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DEUDAS A CORTO PLAZO POR PRÉSTAMOS RECIBIDOS Y OTROS CONCEPTOS</p>
+<p>DEUDAS A CORTO PLAZO POR PRÉSTAMOS RECIBIDOS Y OTROS CONCEPTOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">520.</p>
+<p>520.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas a corto plazo con entidades de crédito</p>
+<p>Deudas a corto plazo con entidades de crédito</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5200.</p>
+<p>5200.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Préstamos a corto plazo de entidades de crédito</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5201.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deudas a corto plazo por crédito dispuesto</p>
+<p>Préstamos a corto plazo de entidades de crédito</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5208.</p>
+<p>5201.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudas por efectos descontados</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5209.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deudas por operaciones de «factoring»</p>
+<p>Deudas a corto plazo por crédito dispuesto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">521.</p>
+<p> </p>
+</td>
+<td>
+<p>5208.</p>
+</td>
+<td>
+<p>Deudas por efectos descontados</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5209.</p>
+</td>
+<td>
+<p>Deudas por operaciones de «factoring»</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>521.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas a corto plazo</p>
+<p>Deudas a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">522.</p>
+<p>522.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas a corto plazo transformables en subvenciones, donaciones y legados</p>
+<p>Deudas a corto plazo transformables en subvenciones, donaciones y legados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">523.</p>
+<p>523.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a corto plazo</p>
+<p>Proveedores de inmovilizado a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">524.</p>
+<p>524.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a corto plazo</p>
+<p>Acreedores por arrendamiento financiero a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">525.</p>
+<p>525.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Efectos a pagar a corto plazo</p>
+<p>Efectos a pagar a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">526.</p>
+<p>526.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Dividendo activo a pagar</p>
+<p>Dividendo activo a pagar</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">527.</p>
+<p>527.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de deudas con entidades de crédito</p>
+<p>Intereses a corto plazo de deudas con entidades de crédito</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">528.</p>
+<p>528.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de deudas</p>
+<p>Intereses a corto plazo de deudas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">529.</p>
+<p>529.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Provisiones a corto plazo</p>
+<p>Provisiones a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5290.</p>
+<p>5290.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión a corto plazo por retribuciones al personal</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5291.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provisión a corto plazo para impuestos</p>
+<p>Provisión a corto plazo por retribuciones al personal</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5292.</p>
+<p>5291.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión a corto plazo para otras responsabilidades</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5293.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provisión a corto plazo por desmantelamiento, retiro o rehabilitación del inmovilizado</p>
+<p>Provisión a corto plazo para impuestos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5295.</p>
+<p>5292.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión a corto plazo para actuaciones medioambientales</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5296.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provisión a corto plazo para reestructuraciones</p>
+<p>Provisión a corto plazo para otras responsabilidades</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5297.</p>
+<p>5293.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión a corto plazo por transacciones con pagos basados en instrumentos de patrimonio</p>
+<p>Provisión a corto plazo por desmantelamiento, retiro o rehabilitación del inmovilizado</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">53.</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5295.</p>
+</td>
+<td>
+<p>Provisión a corto plazo para actuaciones medioambientales</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5296.</p>
+</td>
+<td>
+<p>Provisión a corto plazo para reestructuraciones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5297.</p>
+</td>
+<td>
+<p>Provisión a corto plazo por transacciones con pagos basados en instrumentos de patrimonio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>53.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">INVERSIONES FINANCIERAS A CORTO PLAZO EN PARTES VINCULADAS</p>
+<p>INVERSIONES FINANCIERAS A CORTO PLAZO EN PARTES VINCULADAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">530.</p>
+<p>530.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Participaciones a corto plazo en partes vinculadas</p>
+<p>Participaciones a corto plazo en partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5303.</p>
+<p>5303.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Participaciones a corto plazo, en empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5304.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Participaciones a corto plazo, en empresas asociadas</p>
+<p>Participaciones a corto plazo, en empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5305.</p>
+<p>5304.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Participaciones a corto plazo, en otras partes vinculadas</p>
+<p>Participaciones a corto plazo, en empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">531.</p>
+<p> </p>
+</td>
+<td>
+<p>5305.</p>
+</td>
+<td>
+<p>Participaciones a corto plazo, en otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>531.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a corto plazo de partes vinculadas</p>
+<p>Valores representativos de deuda a corto plazo de partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5313.</p>
+<p>5313.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a corto plazo de empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5314.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a corto plazo de empresas asociadas</p>
+<p>Valores representativos de deuda a corto plazo de empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5315.</p>
+<p>5314.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a corto plazo de otras partes vinculadas</p>
+<p>Valores representativos de deuda a corto plazo de empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">532.</p>
+<p> </p>
+</td>
+<td>
+<p>5315.</p>
+</td>
+<td>
+<p>Valores representativos de deuda a corto plazo de otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>532.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Créditos a corto plazo a partes vinculadas</p>
+<p>Créditos a corto plazo a partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5323.</p>
+<p>5323.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Créditos a corto plazo a empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5324.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Créditos a corto plazo a empresas asociadas</p>
+<p>Créditos a corto plazo a empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5325.</p>
+<p>5324.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Créditos a corto plazo a otras partes vinculadas</p>
+<p>Créditos a corto plazo a empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">533.</p>
+<p> </p>
+</td>
+<td>
+<p>5325.</p>
+</td>
+<td>
+<p>Créditos a corto plazo a otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>533.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de valores representativos de deuda de partes vinculadas</p>
+<p>Intereses a corto plazo de valores representativos de deuda de partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5333.</p>
+<p>5333.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de valores representativos de deuda de empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5334.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de valores representativos de deuda de empresas asociadas</p>
+<p>Intereses a corto plazo de valores representativos de deuda de empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5335.</p>
+<p>5334.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de valores representativos de deuda de otras partes vinculadas</p>
+<p>Intereses a corto plazo de valores representativos de deuda de empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">534.</p>
+<p> </p>
+</td>
+<td>
+<p>5335.</p>
+</td>
+<td>
+<p>Intereses a corto plazo de valores representativos de deuda de otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>534.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de créditos a partes vinculadas</p>
+<p>Intereses a corto plazo de créditos a partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5343.</p>
+<p>5343.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de créditos a empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5344.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de créditos a empresas asociadas</p>
+<p>Intereses a corto plazo de créditos a empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5345.</p>
+<p>5344.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de créditos a otras partes vinculadas</p>
+<p>Intereses a corto plazo de créditos a empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">535.</p>
+<p> </p>
+</td>
+<td>
+<p>5345.</p>
+</td>
+<td>
+<p>Intereses a corto plazo de créditos a otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>535.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Dividendo a cobrar de inversiones financieras en partes vinculadas</p>
+<p>Dividendo a cobrar de inversiones financieras en partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5353.</p>
+<p>5353.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dividendo a cobrar de empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5354.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Dividendo a cobrar de empresas asociadas</p>
+<p>Dividendo a cobrar de empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5355.</p>
+<p>5354.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dividendo a cobrar de otras partes vinculadas</p>
+<p>Dividendo a cobrar de empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">539.</p>
+<p> </p>
+</td>
+<td>
+<p>5355.</p>
+</td>
+<td>
+<p>Dividendo a cobrar de otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>539.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a corto plazo en partes vinculadas</p>
+<p>Desembolsos pendientes sobre participaciones a corto plazo en partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5393.</p>
+<p>5393.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a corto plazo en empresas del grupo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5394.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a corto plazo en empresas asociadas.</p>
+<p>Desembolsos pendientes sobre participaciones a corto plazo en empresas del grupo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5395.</p>
+<p>5394.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a corto plazo en otras partes vinculadas</p>
+<p>Desembolsos pendientes sobre participaciones a corto plazo en empresas asociadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">54.</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5395.</p>
+</td>
+<td>
+<p>Desembolsos pendientes sobre participaciones a corto plazo en otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>54.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">OTRAS INVERSIONES FINANCIERAS A CORTO PLAZO</p>
+<p>OTRAS INVERSIONES FINANCIERAS A CORTO PLAZO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">540.</p>
+<p>540.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Inversiones financieras a corto plazo en instrumentos de patrimonio</p>
+<p>Inversiones financieras a corto plazo en instrumentos de patrimonio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">541.</p>
+<p>541.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a corto plazo</p>
+<p>Valores representativos de deuda a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">542.</p>
+<p>542.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Créditos a corto plazo</p>
+<p>Créditos a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">543.</p>
+<p>543.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Créditos a corto plazo por enajenación de inmovilizado</p>
+<p>Créditos a corto plazo por enajenación de inmovilizado</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">544.</p>
+<p>544.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Créditos a corto plazo al personal</p>
+<p>Créditos a corto plazo al personal</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">545.</p>
+<p>545.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Dividendo a cobrar</p>
+<p>Dividendo a cobrar</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">546.</p>
+<p>546.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de valores representativos de deudas</p>
+<p>Intereses a corto plazo de valores representativos de deudas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">547.</p>
+<p>547.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de créditos</p>
+<p>Intereses a corto plazo de créditos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">548.</p>
+<p>548.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Imposiciones a corto plazo</p>
+<p>Imposiciones a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">549.</p>
+<p>549.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones en el patrimonio neto a corto plazo</p>
+<p>Desembolsos pendientes sobre participaciones en el patrimonio neto a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">55.</p>
+<p>55.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">OTRAS CUENTAS NO BANCARIAS</p>
+<p>OTRAS CUENTAS NO BANCARIAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">550.</p>
+<p>550.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Titular de la explotación</p>
+<p>Titular de la explotación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">551.</p>
+<p>551.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Cuenta corriente con socios y administradores</p>
+<p>Cuenta corriente con socios y administradores</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">552.</p>
+<p>552.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Cuenta corriente con otras personas y entidades vinculadas</p>
+<p>Cuenta corriente con otras personas y entidades vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5523.</p>
+<p>5523.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuenta corriente con empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5524.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cuenta corriente con empresas asociadas</p>
+<p>Cuenta corriente con empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5525.</p>
+<p>5524.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuenta corriente con otras partes vinculadas</p>
+<p>Cuenta corriente con empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">553.</p>
+<p> </p>
+</td>
+<td>
+<p>5525.</p>
+</td>
+<td>
+<p>Cuenta corriente con otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>553.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Cuentas corrientes en fusiones y escisiones</p>
+<p>Cuentas corrientes en fusiones y escisiones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5530.</p>
+<p>5530.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Socios de sociedad disuelta</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5531.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Socios, cuenta de fusión</p>
+<p>Socios de sociedad disuelta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5532.</p>
+<p>5531.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Socios de sociedad escindida</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5533.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Socios, cuenta de escisión</p>
+<p>Socios, cuenta de fusión</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">554.</p>
+<p> </p>
+</td>
+<td>
+<p>5532.</p>
+</td>
+<td>
+<p>Socios de sociedad escindida</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5533.</p>
+</td>
+<td>
+<p>Socios, cuenta de escisión</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>554.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Cuenta corriente con uniones temporales de empresas y comunidades de bienes</p>
+<p>Cuenta corriente con uniones temporales de empresas y comunidades de bienes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">555.</p>
+<p>555.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Partidas pendientes de aplicación</p>
+<p>Partidas pendientes de aplicación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">556.</p>
+<p>556.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Desembolsos exigidos sobre participaciones en el patrimonio neto</p>
+<p>Desembolsos exigidos sobre participaciones en el patrimonio neto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5563.</p>
+<p>5563.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desembolsos exigidos sobre participaciones, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5564.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Desembolsos exigidos sobre participaciones, empresas asociadas</p>
+<p>Desembolsos exigidos sobre participaciones, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5565.</p>
+<p>5564.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desembolsos exigidos sobre participaciones, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5566.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Desembolsos exigidos sobre participaciones de otras empresas</p>
+<p>Desembolsos exigidos sobre participaciones, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">557.</p>
+<p> </p>
+</td>
+<td>
+<p>5565.</p>
+</td>
+<td>
+<p>Desembolsos exigidos sobre participaciones, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5566.</p>
+</td>
+<td>
+<p>Desembolsos exigidos sobre participaciones de otras empresas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>557.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Dividendo activo a cuenta</p>
+<p>Dividendo activo a cuenta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">558.</p>
+<p>558.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Socios por desembolsos exigidos</p>
+<p>Socios por desembolsos exigidos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5580.</p>
+<p>5580.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Socios por desembolsos exigidos sobre acciones o participaciones ordinarias</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5585.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Socios por desembolsos exigidos sobre acciones o participaciones consideradas como pasivos financieros</p>
+<p>Socios por desembolsos exigidos sobre acciones o participaciones ordinarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">559.</p>
+<p> </p>
+</td>
+<td>
+<p>5585.</p>
+</td>
+<td>
+<p>Socios por desembolsos exigidos sobre acciones o participaciones consideradas como pasivos financieros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>559.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Derivados financieros a corto plazo</p>
+<p>Derivados financieros a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5590.</p>
+<p>5590.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Activos por derivados financieros a corto plazo, cartera de negociación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5593.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Activos por derivados financieros a corto plazo, instrumentos de cobertura</p>
+<p>Activos por derivados financieros a corto plazo, cartera de negociación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5595.</p>
+<p>5593.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pasivos por derivados financieros a corto plazo, cartera de negociación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5598.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pasivos por derivados financieros a corto plazo, instrumentos de cobertura</p>
+<p>Activos por derivados financieros a corto plazo, instrumentos de cobertura</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">56.</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5595.</p>
+</td>
+<td>
+<p>Pasivos por derivados financieros a corto plazo, cartera de negociación</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5598.</p>
+</td>
+<td>
+<p>Pasivos por derivados financieros a corto plazo, instrumentos de cobertura</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>56.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">FIANZAS Y DEPÓSITOS RECIBIDOS Y CONSTITUIDOS A CORTO PLAZO Y AJUSTES POR PERIODIFICACIÓN</p>
+<p>FIANZAS Y DEPÓSITOS RECIBIDOS Y CONSTITUIDOS A CORTO PLAZO Y AJUSTES POR PERIODIFICACIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">560.</p>
+<p>560.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Fianzas recibidas a corto plazo</p>
+<p>Fianzas recibidas a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">561.</p>
+<p>561.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Depósitos recibidos a corto plazo</p>
+<p>Depósitos recibidos a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">565.</p>
+<p>565.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Fianzas constituidas a corto plazo</p>
+<p>Fianzas constituidas a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">566.</p>
+<p>566.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Depósitos constituidos a corto plazo</p>
+<p>Depósitos constituidos a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">567.</p>
+<p>567.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses pagados por anticipado</p>
+<p>Intereses pagados por anticipado</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">568.</p>
+<p>568.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses cobrados por anticipado</p>
+<p>Intereses cobrados por anticipado</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">569.</p>
+<p>569.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Garantías financieras a corto plazo</p>
+<p>Garantías financieras a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">57.</p>
+<p>57.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">TESORERÍA</p>
+<p>TESORERÍA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">570.</p>
+<p>570.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Caja, euros</p>
+<p>Caja, euros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">571.</p>
+<p>571.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Caja, moneda extranjera</p>
+<p>Caja, moneda extranjera</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">572.</p>
+<p>572.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Bancos e instituciones de crédito c/c vista, euros</p>
+<p>Bancos e instituciones de crédito c/c vista, euros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">573.</p>
+<p>573.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Bancos e instituciones de crédito c/c vista, moneda extranjera</p>
+<p>Bancos e instituciones de crédito c/c vista, moneda extranjera</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">574.</p>
+<p>574.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Bancos e instituciones de crédito, cuentas de ahorro, euros</p>
+<p>Bancos e instituciones de crédito, cuentas de ahorro, euros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">575.</p>
+<p>575.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Bancos e instituciones de crédito, cuentas de ahorro, moneda extranjera</p>
+<p>Bancos e instituciones de crédito, cuentas de ahorro, moneda extranjera</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">576.</p>
+<p>576.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Inversiones a corto plazo de gran liquidez</p>
+<p>Inversiones a corto plazo de gran liquidez</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">58.</p>
+<p>58.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">ACTIVOS NO CORRIENTES MANTENIDOS PARA LA VENTA Y ACTIVOS Y PASIVOS ASOCIADOS</p>
+<p>ACTIVOS NO CORRIENTES MANTENIDOS PARA LA VENTA Y ACTIVOS Y PASIVOS ASOCIADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">580.</p>
+<p>580.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Inmovilizado</p>
+<p>Inmovilizado</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">581.</p>
+<p>581.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Inversiones con personas y entidades vinculadas</p>
+<p>Inversiones con personas y entidades vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">582.</p>
+<p>582.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Inversiones financieras</p>
+<p>Inversiones financieras</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">583.</p>
+<p>583.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Existencias, deudores comerciales y otras cuentas a cobrar</p>
+<p>Existencias, deudores comerciales y otras cuentas a cobrar</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">584.</p>
+<p>584.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otros activos</p>
+<p>Otros activos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">585.</p>
+<p>585.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Provisiones</p>
+<p>Provisiones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">586.</p>
+<p>586.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas con características especiales</p>
+<p>Deudas con características especiales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">587.</p>
+<p>587.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas con personas y entidades vinculadas</p>
+<p>Deudas con personas y entidades vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">588.</p>
+<p>588.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acreedores comerciales y otras cuentas a pagar</p>
+<p>Acreedores comerciales y otras cuentas a pagar</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">589.</p>
+<p>589.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otros pasivos</p>
+<p>Otros pasivos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">59.</p>
+<p>59.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DETERIORO DEL VALOR DE INVERSIONES FINANCIERAS A CORTO PLAZO Y DE ACTIVOS NO CORRIENTES MANTENIDOS PARA LA VENTA</p>
+<p>DETERIORO DEL VALOR DE INVERSIONES FINANCIERAS A CORTO PLAZO Y DE ACTIVOS NO CORRIENTES MANTENIDOS PARA LA VENTA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">593.</p>
+<p>593.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de participaciones a corto plazo</p>
+<p>Deterioro de valor de participaciones a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5933.</p>
+<p>5933.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de participaciones a corto plazo en empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5934.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de participaciones a corto plazo en empresas asociadas</p>
+<p>Deterioro de valor de participaciones a corto plazo en empresas del grupo</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">5935.</td>
-<td class="cuerpo_tabla_izq">Deterioro de valor de participaciones a corto plazo en otras partes vinculadas</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">5936.</td>
-<td class="cuerpo_tabla_izq">Deterioro de valor de participaciones a corto plazo en otras empresas.</td>
-</tr>
-<tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">594.</p>
+<p> </p>
+</td>
+<td>
+<p>5934.</p>
+</td>
+<td>
+<p>Deterioro de valor de participaciones a corto plazo en empresas asociadas</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>5935.</td>
+<td>Deterioro de valor de participaciones a corto plazo en otras partes vinculadas</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>5936.</td>
+<td>Deterioro de valor de participaciones a corto plazo en otras empresas.</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>594.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a corto plazo de partes vinculadas</p>
+<p>Deterioro de valor de valores representativos de deuda a corto plazo de partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5943.</p>
+<p>5943.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a corto plazo de empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5944.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a corto plazo de empresas asociadas</p>
+<p>Deterioro de valor de valores representativos de deuda a corto plazo de empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5945.</p>
+<p>5944.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a corto plazo de otras partes vinculadas</p>
+<p>Deterioro de valor de valores representativos de deuda a corto plazo de empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">595.</p>
+<p> </p>
+</td>
+<td>
+<p>5945.</p>
+</td>
+<td>
+<p>Deterioro de valor de valores representativos de deuda a corto plazo de otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>595.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a corto plazo a partes vinculadas</p>
+<p>Deterioro de valor de créditos a corto plazo a partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5953.</p>
+<p>5953.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a corto plazo a empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5954.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a corto plazo a empresas asociadas</p>
+<p>Deterioro de valor de créditos a corto plazo a empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5955.</p>
+<p>5954.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a corto plazo a otras partes vinculadas</p>
+<p>Deterioro de valor de créditos a corto plazo a empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">597.</p>
+<p> </p>
+</td>
+<td>
+<p>5955.</p>
+</td>
+<td>
+<p>Deterioro de valor de créditos a corto plazo a otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>597.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a corto plazo</p>
+<p>Deterioro de valor de valores representativos de deuda a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">598.</p>
+<p>598.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a corto plazo</p>
+<p>Deterioro de valor de créditos a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">599.</p>
+<p>599.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de activos no corrientes mantenidos para la venta</p>
+<p>Deterioro de valor de activos no corrientes mantenidos para la venta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5990.</p>
+<p>5990.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de inmovilizado no corriente mantenido para la venta</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5991.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de inversiones con personas y entidades vinculadas no corrientes mantenidas para la venta</p>
+<p>Deterioro de valor de inmovilizado no corriente mantenido para la venta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5992.</p>
+<p>5991.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de inversiones financieras no corrientes mantenidas para la venta</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5993.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de existencias, deudores comerciales y otras cuentas a cobrar integrados en un grupo enajenable mantenido para la venta</p>
+<p>Deterioro de valor de inversiones con personas y entidades vinculadas no corrientes mantenidas para la venta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5994.</p>
+<p>5992.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de otros activos mantenidos para la venta</p>
+<p>Deterioro de valor de inversiones financieras no corrientes mantenidas para la venta</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5993.</p>
+</td>
+<td>
+<p>Deterioro de valor de existencias, deudores comerciales y otras cuentas a cobrar integrados en un grupo enajenable mantenido para la venta</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5994.</p>
+</td>
+<td>
+<p>Deterioro de valor de otros activos mantenidos para la venta</p>
 </td>
 </tr>
 </tbody>
@@ -17940,2148 +17906,2148 @@ Se incluirá información sobre:
 
 ### Grupo 6 — Compras y gastos
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">60.</p>
+<p>60.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">COMPRAS</p>
+<p>COMPRAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">600.</p>
+<p>600.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Compras de mercaderías</p>
+<p>Compras de mercaderías</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">601.</p>
+<p>601.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Compras de materias primas</p>
+<p>Compras de materias primas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">602.</p>
+<p>602.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Compras de otros aprovisionamientos</p>
+<p>Compras de otros aprovisionamientos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">606.</p>
+<p>606.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Descuentos sobre compras por pronto pago</p>
+<p>Descuentos sobre compras por pronto pago</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6060.</p>
+<p>6060.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Descuentos sobre compras por pronto pago de mercaderías</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6061.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Descuentos sobre compras por pronto pago de materias primas</p>
+<p>Descuentos sobre compras por pronto pago de mercaderías</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6062.</p>
+<p>6061.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Descuentos sobre compras por pronto pago de otros aprovisionamientos</p>
+<p>Descuentos sobre compras por pronto pago de materias primas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">607.</p>
+<p> </p>
+</td>
+<td>
+<p>6062.</p>
+</td>
+<td>
+<p>Descuentos sobre compras por pronto pago de otros aprovisionamientos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>607.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Trabajos realizados por otras empresas</p>
+<p>Trabajos realizados por otras empresas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">608.</p>
+<p>608.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Devoluciones de compras y operaciones similares</p>
+<p>Devoluciones de compras y operaciones similares</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6080.</p>
+<p>6080.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Devoluciones de compras de mercaderías</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6081.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Devoluciones de compras de materias primas</p>
+<p>Devoluciones de compras de mercaderías</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6082.</p>
+<p>6081.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Devoluciones de compras de otros aprovisionamientos</p>
+<p>Devoluciones de compras de materias primas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">609.</p>
+<p> </p>
+</td>
+<td>
+<p>6082.</p>
+</td>
+<td>
+<p>Devoluciones de compras de otros aprovisionamientos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>609.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">«Rappels» por compras</p>
+<p>«Rappels» por compras</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6090.</p>
+<p>6090.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">«Rappels» por compras de mercaderías</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6091.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">«Rappels» por compras de materias primas</p>
+<p>«Rappels» por compras de mercaderías</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6092.</p>
+<p>6091.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">«Rappels» por compras de otros aprovisionamientos</p>
+<p>«Rappels» por compras de materias primas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">61.</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6092.</p>
+</td>
+<td>
+<p>«Rappels» por compras de otros aprovisionamientos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>61.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">VARIACIÓN DE EXISTENCIAS</p>
+<p>VARIACIÓN DE EXISTENCIAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">610.</p>
+<p>610.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Variación de existencias de mercaderías</p>
+<p>Variación de existencias de mercaderías</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">611.</p>
+<p>611.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Variación de existencias de materias primas</p>
+<p>Variación de existencias de materias primas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">612.</p>
+<p>612.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Variación de existencias de otros aprovisionamientos</p>
+<p>Variación de existencias de otros aprovisionamientos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">62.</p>
+<p>62.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">SERVICIOS EXTERIORES</p>
+<p>SERVICIOS EXTERIORES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">620.</p>
+<p>620.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Gastos en investigación y desarrollo del ejercicio</p>
+<p>Gastos en investigación y desarrollo del ejercicio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">621.</p>
+<p>621.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Arrendamientos y cánones</p>
+<p>Arrendamientos y cánones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">622.</p>
+<p>622.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reparaciones y conservación</p>
+<p>Reparaciones y conservación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">623.</p>
+<p>623.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Servicios de profesionales independientes</p>
+<p>Servicios de profesionales independientes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">624.</p>
+<p>624.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Transportes</p>
+<p>Transportes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">625.</p>
+<p>625.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Primas de seguros</p>
+<p>Primas de seguros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">626.</p>
+<p>626.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Servicios bancarios y similares</p>
+<p>Servicios bancarios y similares</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">627.</p>
+<p>627.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Publicidad, propaganda y relaciones públicas</p>
+<p>Publicidad, propaganda y relaciones públicas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">628.</p>
+<p>628.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Suministros</p>
+<p>Suministros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">629.</p>
+<p>629.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otros servicios</p>
+<p>Otros servicios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">63.</p>
+<p>63.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">TRIBUTOS</p>
+<p>TRIBUTOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">630.</p>
+<p>630.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Impuesto sobre beneficios</p>
+<p>Impuesto sobre beneficios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6300.</p>
+<p>6300.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Impuesto corriente</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6301.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Impuesto diferido</p>
+<p>Impuesto corriente</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">631.</p>
+<p> </p>
+</td>
+<td>
+<p>6301.</p>
+</td>
+<td>
+<p>Impuesto diferido</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>631.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otros tributos</p>
+<p>Otros tributos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">633.</p>
+<p>633.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes negativos en la imposición sobre beneficios</p>
+<p>Ajustes negativos en la imposición sobre beneficios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">634.</p>
+<p>634.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes negativos en la imposición indirecta</p>
+<p>Ajustes negativos en la imposición indirecta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6341.</p>
+<p>6341.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ajustes negativos en IVA de activo corriente</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6342.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ajustes negativos en IVA de inversiones</p>
+<p>Ajustes negativos en IVA de activo corriente</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">636.</p>
+<p> </p>
+</td>
+<td>
+<p>6342.</p>
+</td>
+<td>
+<p>Ajustes negativos en IVA de inversiones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>636.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Devolución de impuestos</p>
+<p>Devolución de impuestos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">638.</p>
+<p>638.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes positivos en la imposición sobre beneficios</p>
+<p>Ajustes positivos en la imposición sobre beneficios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">639.</p>
+<p>639.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes positivos en la imposición indirecta</p>
+<p>Ajustes positivos en la imposición indirecta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6391.</p>
+<p>6391.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ajustes positivos en IVA de activo corriente</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6392.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ajustes positivos en IVA de inversiones</p>
+<p>Ajustes positivos en IVA de activo corriente</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64.</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6392.</p>
+</td>
+<td>
+<p>Ajustes positivos en IVA de inversiones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">GASTOS DE PERSONAL</p>
+<p>GASTOS DE PERSONAL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">640.</p>
+<p>640.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Sueldos y salarios</p>
+<p>Sueldos y salarios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">641.</p>
+<p>641.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Indemnizaciones</p>
+<p>Indemnizaciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">642.</p>
+<p>642.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Seguridad Social a cargo de la empresa</p>
+<p>Seguridad Social a cargo de la empresa</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">643.</p>
+<p>643.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Retribuciones a largo plazo mediante sistemas de aportación definida</p>
+<p>Retribuciones a largo plazo mediante sistemas de aportación definida</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">644.</p>
+<p>644.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Retribuciones a largo plazo mediante sistemas de prestación definida</p>
+<p>Retribuciones a largo plazo mediante sistemas de prestación definida</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6440.</p>
+<p>6440.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Contribuciones anuales</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6442.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otros costes</p>
+<p>Contribuciones anuales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">645.</p>
+<p> </p>
+</td>
+<td>
+<p>6442.</p>
+</td>
+<td>
+<p>Otros costes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>645.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Retribuciones al personal mediante instrumentos de patrimonio</p>
+<p>Retribuciones al personal mediante instrumentos de patrimonio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6450.</p>
+<p>6450.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Retribuciones al personal liquidados con instrumentos de patrimonio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6457.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Retribuciones al personal liquidados en efectivo basado en instrumentos de patrimonio</p>
+<p>Retribuciones al personal liquidados con instrumentos de patrimonio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">649.</p>
+<p> </p>
+</td>
+<td>
+<p>6457.</p>
+</td>
+<td>
+<p>Retribuciones al personal liquidados en efectivo basado en instrumentos de patrimonio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>649.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otros gastos sociales</p>
+<p>Otros gastos sociales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">65.</p>
+<p>65.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">OTROS GASTOS DE GESTIÓN</p>
+<p>OTROS GASTOS DE GESTIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">650.</p>
+<p>650.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas de créditos comerciales incobrables</p>
+<p>Pérdidas de créditos comerciales incobrables</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">651.</p>
+<p>651.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Resultados de operaciones en común</p>
+<p>Resultados de operaciones en común</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6510.</p>
+<p>6510.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beneficio transferido (gestor)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6511.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdida soportada (partícipe o asociado no gestor)</p>
+<p>Beneficio transferido (gestor)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">659.</p>
+<p> </p>
+</td>
+<td>
+<p>6511.</p>
+</td>
+<td>
+<p>Pérdida soportada (partícipe o asociado no gestor)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>659.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otras pérdidas en gestión corriente</p>
+<p>Otras pérdidas en gestión corriente</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">66.</p>
+<p>66.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">GASTOS FINANCIEROS</p>
+<p>GASTOS FINANCIEROS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">660.</p>
+<p>660.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Gastos financieros por actualización de provisiones</p>
+<p>Gastos financieros por actualización de provisiones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">661.</p>
+<p>661.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses de obligaciones y bonos</p>
+<p>Intereses de obligaciones y bonos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6610.</p>
+<p>6610.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses de obligaciones y bonos a largo plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6611.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses de obligaciones y bonos a largo plazo, empresas asociadas</p>
+<p>Intereses de obligaciones y bonos a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6612.</p>
+<p>6611.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses de obligaciones y bonos a largo plazo, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6613.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses de obligaciones y bonos a largo plazo, otras empresas</p>
+<p>Intereses de obligaciones y bonos a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6615.</p>
+<p>6612.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses de obligaciones y bonos a corto plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6616.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses de obligaciones y bonos a corto plazo, empresas asociadas</p>
+<p>Intereses de obligaciones y bonos a largo plazo, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6617.</p>
+<p>6613.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses de obligaciones y bonos a corto plazo, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6618.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses de obligaciones y bonos a corto plazo, otras empresas</p>
+<p>Intereses de obligaciones y bonos a largo plazo, otras empresas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">662.</p>
+<p> </p>
+</td>
+<td>
+<p>6615.</p>
+</td>
+<td>
+<p>Intereses de obligaciones y bonos a corto plazo, empresas del grupo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6616.</p>
+</td>
+<td>
+<p>Intereses de obligaciones y bonos a corto plazo, empresas asociadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6617.</p>
+</td>
+<td>
+<p>Intereses de obligaciones y bonos a corto plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6618.</p>
+</td>
+<td>
+<p>Intereses de obligaciones y bonos a corto plazo, otras empresas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>662.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses de deudas</p>
+<p>Intereses de deudas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6620.</p>
+<p>6620.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses de deudas, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6621.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses de deudas, empresas asociadas</p>
+<p>Intereses de deudas, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6622.</p>
+<p>6621.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses de deudas, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6623.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses de deudas con entidades de crédito</p>
+<p>Intereses de deudas, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6624.</p>
+<p>6622.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses de deudas, otras empresas</p>
+<p>Intereses de deudas, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">663.</p>
+<p> </p>
+</td>
+<td>
+<p>6623.</p>
+</td>
+<td>
+<p>Intereses de deudas con entidades de crédito</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6624.</p>
+</td>
+<td>
+<p>Intereses de deudas, otras empresas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>663.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por valoración de instrumentos financieros por su valor razonable</p>
+<p>Pérdidas por valoración de instrumentos financieros por su valor razonable</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6630.</p>
+<p>6630.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas de cartera de negociación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6631.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas de designados por la empresa</p>
+<p>Pérdidas de cartera de negociación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6632.</p>
+<p>6631.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto</p>
+<p>Pérdidas de designados por la empresa</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6632.</p>
+</td>
+<td>
+<p>Pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6633.</p>
+<p>6633.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas de instrumentos de cobertura</p>
+<p>Pérdidas de instrumentos de cobertura</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">6634.</td>
-<td class="cuerpo_tabla_izq">Pérdidas de otros instrumentos financieros</td>
+<td> </td>
+<td> </td>
+<td>6634.</td>
+<td>Pérdidas de otros instrumentos financieros</td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">664.</p>
+<p>664.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Gastos por dividendos de acciones o participaciones consideradas como pasivos financieros</p>
+<p>Gastos por dividendos de acciones o participaciones consideradas como pasivos financieros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6640.</p>
+<p>6640.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dividendos de pasivos, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6641.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Dividendos de pasivos, empresas asociadas</p>
+<p>Dividendos de pasivos, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6642.</p>
+<p>6641.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dividendos de pasivos, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6643.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Dividendos de pasivos, otras empresas</p>
+<p>Dividendos de pasivos, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">665.</p>
+<p> </p>
+</td>
+<td>
+<p>6642.</p>
+</td>
+<td>
+<p>Dividendos de pasivos, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6643.</p>
+</td>
+<td>
+<p>Dividendos de pasivos, otras empresas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>665.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses por descuento de efectos y operaciones de «factoring»</p>
+<p>Intereses por descuento de efectos y operaciones de «factoring»</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6650.</p>
+<p>6650.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses por descuento de efectos en entidades de crédito del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6651.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses por descuento de efectos en entidades de crédito asociadas</p>
+<p>Intereses por descuento de efectos en entidades de crédito del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6652.</p>
+<p>6651.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses por descuento de efectos en otras entidades de crédito vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6653.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses por descuento de efectos en otras entidades de crédito</p>
+<p>Intereses por descuento de efectos en entidades de crédito asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6654.</p>
+<p>6652.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses por operaciones de «factoring» con entidades de crédito del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6657.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses por operaciones de «factoring» con otras entidades de crédito</p>
+<p>Intereses por descuento de efectos en otras entidades de crédito vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">666.</p>
+<p> </p>
+</td>
+<td>
+<p>6653.</p>
+</td>
+<td>
+<p>Intereses por descuento de efectos en otras entidades de crédito</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6654.</p>
+</td>
+<td>
+<p>Intereses por operaciones de «factoring» con entidades de crédito del grupo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6657.</p>
+</td>
+<td>
+<p>Intereses por operaciones de «factoring» con otras entidades de crédito</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>666.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas en participaciones y valores representativos de deuda</p>
+<p>Pérdidas en participaciones y valores representativos de deuda</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6660.</p>
+<p>6660.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas en valores representativos de deuda a largo plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6661.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas en valores representativos de deuda a largo plazo, empresas asociadas</p>
+<p>Pérdidas en valores representativos de deuda a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6662.</p>
+<p>6661.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas en valores representativos de deuda a largo plazo, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6663.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas en participaciones y valores representativos de deuda a largo plazo, otras empresas</p>
+<p>Pérdidas en valores representativos de deuda a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6665.</p>
+<p>6662.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas en participaciones y valores representativos de deuda a corto plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6666.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas en participaciones y valores representativos de deuda a corto plazo, empresas asociadas</p>
+<p>Pérdidas en valores representativos de deuda a largo plazo, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6667.</p>
+<p>6663.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas en valores representativos de deuda a corto plazo, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6668.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas en valores representativos de deuda a corto plazo, otras empresas</p>
+<p>Pérdidas en participaciones y valores representativos de deuda a largo plazo, otras empresas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">667.</p>
+<p> </p>
+</td>
+<td>
+<p>6665.</p>
+</td>
+<td>
+<p>Pérdidas en participaciones y valores representativos de deuda a corto plazo, empresas del grupo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6666.</p>
+</td>
+<td>
+<p>Pérdidas en participaciones y valores representativos de deuda a corto plazo, empresas asociadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6667.</p>
+</td>
+<td>
+<p>Pérdidas en valores representativos de deuda a corto plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6668.</p>
+</td>
+<td>
+<p>Pérdidas en valores representativos de deuda a corto plazo, otras empresas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>667.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas de créditos no comerciales</p>
+<p>Pérdidas de créditos no comerciales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6670.</p>
+<p>6670.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas de créditos a largo plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6671.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas de créditos a largo plazo, empresas asociadas</p>
+<p>Pérdidas de créditos a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6672.</p>
+<p>6671.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas de créditos a largo plazo, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6673.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas de créditos a largo plazo, otras empresas</p>
+<p>Pérdidas de créditos a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6675.</p>
+<p>6672.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas de créditos a corto plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6676.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas de créditos a corto plazo, empresas asociadas</p>
+<p>Pérdidas de créditos a largo plazo, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6677.</p>
+<p>6673.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas de créditos a corto plazo, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6678.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas de créditos a corto plazo, otras empresas</p>
+<p>Pérdidas de créditos a largo plazo, otras empresas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">668.</p>
+<p> </p>
+</td>
+<td>
+<p>6675.</p>
+</td>
+<td>
+<p>Pérdidas de créditos a corto plazo, empresas del grupo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6676.</p>
+</td>
+<td>
+<p>Pérdidas de créditos a corto plazo, empresas asociadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6677.</p>
+</td>
+<td>
+<p>Pérdidas de créditos a corto plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6678.</p>
+</td>
+<td>
+<p>Pérdidas de créditos a corto plazo, otras empresas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>668.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Diferencias negativas de cambio</p>
+<p>Diferencias negativas de cambio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">669.</p>
+<p>669.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otros gastos financieros</p>
+<p>Otros gastos financieros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">67.</p>
+<p>67.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">PÉRDIDAS PROCEDENTES DE ACTIVOS NO CORRIENTES Y GASTOS EXCEPCIONALES</p>
+<p>PÉRDIDAS PROCEDENTES DE ACTIVOS NO CORRIENTES Y GASTOS EXCEPCIONALES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">670.</p>
+<p>670.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas procedentes del inmovilizado intangible</p>
+<p>Pérdidas procedentes del inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">671.</p>
+<p>671.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas procedentes del inmovilizado material</p>
+<p>Pérdidas procedentes del inmovilizado material</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">672.</p>
+<p>672.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas procedentes de las inversiones inmobiliarias</p>
+<p>Pérdidas procedentes de las inversiones inmobiliarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">673.</p>
+<p>673.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas procedentes de participaciones a largo plazo en partes vinculadas</p>
+<p>Pérdidas procedentes de participaciones a largo plazo en partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6733.</p>
+<p>6733.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas procedentes de participaciones a largo plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6734.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas procedentes de participaciones a largo plazo, empresas asociadas</p>
+<p>Pérdidas procedentes de participaciones a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6735.</p>
+<p>6734.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas procedentes de participaciones a largo plazo, otras partes vinculadas</p>
+<p>Pérdidas procedentes de participaciones a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">675.</p>
+<p> </p>
+</td>
+<td>
+<p>6735.</p>
+</td>
+<td>
+<p>Pérdidas procedentes de participaciones a largo plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>675.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por operaciones con obligaciones propias</p>
+<p>Pérdidas por operaciones con obligaciones propias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">678.</p>
+<p>678.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Gastos excepcionales</p>
+<p>Gastos excepcionales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">68.</p>
+<p>68.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DOTACIONES PARA AMORTIZACIONES</p>
+<p>DOTACIONES PARA AMORTIZACIONES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">680.</p>
+<p>680.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Amortización del inmovilizado intangible</p>
+<p>Amortización del inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">681.</p>
+<p>681.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Amortización del inmovilizado material</p>
+<p>Amortización del inmovilizado material</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">682.</p>
+<p>682.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Amortización de las inversiones inmobiliarias</p>
+<p>Amortización de las inversiones inmobiliarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">69.</p>
+<p>69.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">PÉRDIDAS POR DETERIOROY OTRAS DOTACIONES</p>
+<p>PÉRDIDAS POR DETERIOROY OTRAS DOTACIONES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">690.</p>
+<p>690.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro del inmovilizado intangible</p>
+<p>Pérdidas por deterioro del inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">691.</p>
+<p>691.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro del inmovilizado material</p>
+<p>Pérdidas por deterioro del inmovilizado material</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">692.</p>
+<p>692.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de las inversiones inmobiliarias</p>
+<p>Pérdidas por deterioro de las inversiones inmobiliarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">693.</p>
+<p>693.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de existencias</p>
+<p>Pérdidas por deterioro de existencias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6930.</p>
+<p>6930.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de productos terminados y en curso de fabricación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6931.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de mercaderías</p>
+<p>Pérdidas por deterioro de productos terminados y en curso de fabricación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6932.</p>
+<p>6931.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de materias primas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6933.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de otros aprovisionamientos</p>
+<p>Pérdidas por deterioro de mercaderías</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">694.</p>
+<p> </p>
+</td>
+<td>
+<p>6932.</p>
+</td>
+<td>
+<p>Pérdidas por deterioro de materias primas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6933.</p>
+</td>
+<td>
+<p>Pérdidas por deterioro de otros aprovisionamientos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>694.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de créditos por operaciones comerciales</p>
+<p>Pérdidas por deterioro de créditos por operaciones comerciales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">695.</p>
+<p>695.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Dotación a la provisión por operaciones comerciales</p>
+<p>Dotación a la provisión por operaciones comerciales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6954.</p>
+<p>6954.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dotación a la provisión por contratos onerosos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6959.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Dotación a la provisión para otras operaciones comerciales</p>
+<p>Dotación a la provisión por contratos onerosos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">696.</p>
+<p> </p>
+</td>
+<td>
+<p>6959.</p>
+</td>
+<td>
+<p>Dotación a la provisión para otras operaciones comerciales</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>696.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de participaciones y valores representativos de deuda a largo plazo</p>
+<p>Pérdidas por deterioro de participaciones y valores representativos de deuda a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6960.</p>
+<p>6960.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6961.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas asociadas</p>
+<p>Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6962.</p>
+<p>6961.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6963.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, otras empresas</p>
+<p>Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6965.</p>
+<p>6962.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro en valores representativos de deuda a largo plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6966.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro en valores representativos de deuda a largo plazo, empresas asociadas</p>
+<p>Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6967.</p>
+<p>6963.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro en valores representativos de deuda a largo plazo, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6968.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro en valores representativos de deuda a largo plazo, de otras empresas</p>
+<p>Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, otras empresas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">697.</p>
+<p> </p>
+</td>
+<td>
+<p>6965.</p>
+</td>
+<td>
+<p>Pérdidas por deterioro en valores representativos de deuda a largo plazo, empresas del grupo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6966.</p>
+</td>
+<td>
+<p>Pérdidas por deterioro en valores representativos de deuda a largo plazo, empresas asociadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6967.</p>
+</td>
+<td>
+<p>Pérdidas por deterioro en valores representativos de deuda a largo plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6968.</p>
+</td>
+<td>
+<p>Pérdidas por deterioro en valores representativos de deuda a largo plazo, de otras empresas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>697.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de créditos a largo plazo</p>
+<p>Pérdidas por deterioro de créditos a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6970.</p>
+<p>6970.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de créditos a largo plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6971.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de créditos a largo plazo, empresas asociadas</p>
+<p>Pérdidas por deterioro de créditos a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6972.</p>
+<p>6971.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de créditos a largo plazo, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6973.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de créditos a largo plazo, otras empresas</p>
+<p>Pérdidas por deterioro de créditos a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">698.</p>
+<p> </p>
+</td>
+<td>
+<p>6972.</p>
+</td>
+<td>
+<p>Pérdidas por deterioro de créditos a largo plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6973.</p>
+</td>
+<td>
+<p>Pérdidas por deterioro de créditos a largo plazo, otras empresas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>698.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de participaciones y valores representativos de deuda a corto plazo</p>
+<p>Pérdidas por deterioro de participaciones y valores representativos de deuda a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6980.</p>
+<p>6980.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6981.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas asociadas</p>
+<p>Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6985.</p>
+<p>6981.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro en valores representativos de deuda a corto plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6986.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro en valores representativos de deuda a corto plazo, empresas asociadas</p>
+<p>Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6987.</p>
+<p>6985.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro en valores representativos de deuda a corto plazo, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6988.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro en valores representativos de deuda a corto plazo, de otras empresas</p>
+<p>Pérdidas por deterioro en valores representativos de deuda a corto plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">699.</p>
+<p> </p>
+</td>
+<td>
+<p>6986.</p>
+</td>
+<td>
+<p>Pérdidas por deterioro en valores representativos de deuda a corto plazo, empresas asociadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6987.</p>
+</td>
+<td>
+<p>Pérdidas por deterioro en valores representativos de deuda a corto plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6988.</p>
+</td>
+<td>
+<p>Pérdidas por deterioro en valores representativos de deuda a corto plazo, de otras empresas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>699.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de créditos a corto plazo</p>
+<p>Pérdidas por deterioro de créditos a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6990.</p>
+<p>6990.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de créditos a corto plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6991.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de créditos a corto plazo, empresas asociadas</p>
+<p>Pérdidas por deterioro de créditos a corto plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6992.</p>
+<p>6991.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de créditos a corto plazo, otras partes vinculadas</p>
+<p>Pérdidas por deterioro de créditos a corto plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6993.</p>
+<p>6992.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de créditos a corto plazo, otras empresas</p>
+<p>Pérdidas por deterioro de créditos a corto plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6993.</p>
+</td>
+<td>
+<p>Pérdidas por deterioro de créditos a corto plazo, otras empresas</p>
 </td>
 </tr>
 </tbody>
@@ -20095,1815 +20061,1815 @@ Se incluirá información sobre:
 
 ### Grupo 7 — Ventas e ingresos
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">70.</p>
+<p>70.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">VENTAS DE MERCADERÍAS, DE PRODUCCIÓN PROPIA, DE SERVICIOS, ETC</p>
+<p>VENTAS DE MERCADERÍAS, DE PRODUCCIÓN PROPIA, DE SERVICIOS, ETC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">700.</p>
+<p>700.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Ventas de mercaderías</p>
+<p>Ventas de mercaderías</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">701.</p>
+<p>701.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Ventas de productos terminados</p>
+<p>Ventas de productos terminados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">702.</p>
+<p>702.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Ventas de productos semiterminados</p>
+<p>Ventas de productos semiterminados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">703.</p>
+<p>703.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Ventas de subproductos y residuos</p>
+<p>Ventas de subproductos y residuos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">704.</p>
+<p>704.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Ventas de envases y embalajes</p>
+<p>Ventas de envases y embalajes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">705.</p>
+<p>705.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Prestaciones de servicios</p>
+<p>Prestaciones de servicios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">706.</p>
+<p>706.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Descuentos sobre ventas por pronto pago</p>
+<p>Descuentos sobre ventas por pronto pago</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7060.</p>
+<p>7060.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Descuentos sobre ventas por pronto pago de mercaderías</p>
+<p>Descuentos sobre ventas por pronto pago de mercaderías</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7061.</p>
+<p>7061.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Descuentos sobre ventas por pronto pago de productos terminados</p>
+<p>Descuentos sobre ventas por pronto pago de productos terminados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7062.</p>
+<p>7062.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Descuentos sobre ventas por pronto pago de productos semiterminados</p>
+<p>Descuentos sobre ventas por pronto pago de productos semiterminados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7063.</p>
+<p>7063.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Descuentos sobre ventas por pronto pago de subproductos y residuos</p>
+<p>Descuentos sobre ventas por pronto pago de subproductos y residuos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">708.</p>
+<p>708.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Devoluciones de ventas y operaciones similares</p>
+<p>Devoluciones de ventas y operaciones similares</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7080.</p>
+<p>7080.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Devoluciones de ventas de mercaderías</p>
+<p>Devoluciones de ventas de mercaderías</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7081.</p>
+<p>7081.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Devoluciones de ventas de productos terminados</p>
+<p>Devoluciones de ventas de productos terminados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7082.</p>
+<p>7082.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Devoluciones de ventas de productos semiterminados</p>
+<p>Devoluciones de ventas de productos semiterminados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7083.</p>
+<p>7083.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Devoluciones de ventas de subproductos y residuos</p>
+<p>Devoluciones de ventas de subproductos y residuos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7084.</p>
+<p>7084.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Devoluciones de ventas de envases y embalajes</p>
+<p>Devoluciones de ventas de envases y embalajes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">709.</p>
+<p>709.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">«Rappels» sobre ventas</p>
+<p>«Rappels» sobre ventas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7090.</p>
+<p>7090.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">«Rappels» sobre ventas de mercaderías</p>
+<p>«Rappels» sobre ventas de mercaderías</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7091.</p>
+<p>7091.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">«Rappels» sobre ventas de productos terminados</p>
+<p>«Rappels» sobre ventas de productos terminados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7092.</p>
+<p>7092.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">«Rappels» sobre ventas de productos semiterminados</p>
+<p>«Rappels» sobre ventas de productos semiterminados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7093.</p>
+<p>7093.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">«Rappels» sobre ventas de subproductos y residuos</p>
+<p>«Rappels» sobre ventas de subproductos y residuos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7094.</p>
+<p>7094.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">«Rappels» sobre ventas de envases y embalajes</p>
+<p>«Rappels» sobre ventas de envases y embalajes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">71.</p>
+<p>71.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">VARIACIÓN DE EXISTENCIAS</p>
+<p>VARIACIÓN DE EXISTENCIAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">710.</p>
+<p>710.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Variación de existencias de productos en curso</p>
+<p>Variación de existencias de productos en curso</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">711.</p>
+<p>711.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Variación de existencias de productos semiterminados</p>
+<p>Variación de existencias de productos semiterminados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">712.</p>
+<p>712.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Variación de existencias de productos terminados</p>
+<p>Variación de existencias de productos terminados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">713.</p>
+<p>713.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Variación de existencias de subproductos, residuos y materiales recuperados</p>
+<p>Variación de existencias de subproductos, residuos y materiales recuperados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">73.</p>
+<p>73.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">TRABAJOS REALIZADOS PARA LA EMPRESA</p>
+<p>TRABAJOS REALIZADOS PARA LA EMPRESA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">730.</p>
+<p>730.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Trabajos realizados para el inmovilizado intangible</p>
+<p>Trabajos realizados para el inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">731.</p>
+<p>731.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Trabajos realizados para el inmovilizado material</p>
+<p>Trabajos realizados para el inmovilizado material</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">732.</p>
+<p>732.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Trabajos realizados en inversiones inmobiliarias</p>
+<p>Trabajos realizados en inversiones inmobiliarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">733.</p>
+<p>733.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Trabajos realizados para el inmovilizado material en curso</p>
+<p>Trabajos realizados para el inmovilizado material en curso</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">74.</p>
+<p>74.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">SUBVENCIONES, DONACIONESY LEGADOS</p>
+<p>SUBVENCIONES, DONACIONESY LEGADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">740.</p>
+<p>740.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Subvenciones, donaciones y legados a la explotación</p>
+<p>Subvenciones, donaciones y legados a la explotación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">746.</p>
+<p>746.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Subvenciones, donaciones y legados de capital transferidos al resultado del ejercicio</p>
+<p>Subvenciones, donaciones y legados de capital transferidos al resultado del ejercicio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">747.</p>
+<p>747.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Otras subvenciones, donaciones y legados transferidos al resultado del ejercicio</p>
+<p>Otras subvenciones, donaciones y legados transferidos al resultado del ejercicio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">75.</p>
+<p>75.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">OTROS INGRESOS DE GESTIÓN</p>
+<p>OTROS INGRESOS DE GESTIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">751.</p>
+<p>751.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Resultados de operaciones en común</p>
+<p>Resultados de operaciones en común</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7510.</p>
+<p>7510.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdida transferida (gestor)</p>
+<p>Pérdida transferida (gestor)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7511.</p>
+<p>7511.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficio atribuido (partícipe o asociado no gestor)</p>
+<p>Beneficio atribuido (partícipe o asociado no gestor)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">752.</p>
+<p>752.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Ingresos por arrendamientos</p>
+<p>Ingresos por arrendamientos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">753.</p>
+<p>753.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Ingresos de propiedad industrial cedida en explotación</p>
+<p>Ingresos de propiedad industrial cedida en explotación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">754.</p>
+<p>754.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Ingresos por comisiones</p>
+<p>Ingresos por comisiones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">755.</p>
+<p>755.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Ingresos por servicios al personal</p>
+<p>Ingresos por servicios al personal</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">759.</p>
+<p>759.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Ingresos por servicios diversos</p>
+<p>Ingresos por servicios diversos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">76.</p>
+<p>76.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">INGRESOS FINANCIEROS</p>
+<p>INGRESOS FINANCIEROS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">760.</p>
+<p>760.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Ingresos de participaciones en instrumentos de patrimonio</p>
+<p>Ingresos de participaciones en instrumentos de patrimonio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7600.</p>
+<p>7600.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos de participaciones en instrumentos de patrimonio, empresas del grupo</p>
+<p>Ingresos de participaciones en instrumentos de patrimonio, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7601.</p>
+<p>7601.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos de participaciones en instrumentos de patrimonio, empresas asociadas</p>
+<p>Ingresos de participaciones en instrumentos de patrimonio, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7602.</p>
+<p>7602.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos de participaciones en instrumentos de patrimonio, otras partes vinculadas</p>
+<p>Ingresos de participaciones en instrumentos de patrimonio, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7603.</p>
+<p>7603.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos de participaciones en instrumentos de patrimonio, otras empresas</p>
+<p>Ingresos de participaciones en instrumentos de patrimonio, otras empresas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">761.</p>
+<p>761.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Ingresos de valores representativos de deuda</p>
+<p>Ingresos de valores representativos de deuda</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7610.</p>
+<p>7610.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos de valores representativos de deuda, empresas del grupo</p>
+<p>Ingresos de valores representativos de deuda, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7611.</p>
+<p>7611.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos de valores representativos de deuda, empresas asociadas</p>
+<p>Ingresos de valores representativos de deuda, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7612.</p>
+<p>7612.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos de valores representativos de deuda, otras partes vinculadas</p>
+<p>Ingresos de valores representativos de deuda, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7613.</p>
+<p>7613.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos de valores representativos de deuda, otras empresas</p>
+<p>Ingresos de valores representativos de deuda, otras empresas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">762.</p>
+<p>762.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Ingresos de créditos</p>
+<p>Ingresos de créditos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7620.</p>
+<p>7620.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos de créditos a largo plazo</p>
+<p>Ingresos de créditos a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">76200.</p>
+<p>76200.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingresos de créditos a largo plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">76201.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ingresos de créditos a largo plazo, empresas asociadas</p>
+<p>Ingresos de créditos a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">76202.</p>
+<p>76201.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingresos de créditos a largo plazo, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">76203.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ingresos de créditos a largo plazo, otras empresas</p>
+<p>Ingresos de créditos a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7621.</p>
+<p> </p>
+</td>
+<td>
+<p>76202.</p>
+</td>
+<td>
+<p>Ingresos de créditos a largo plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>76203.</p>
+</td>
+<td>
+<p>Ingresos de créditos a largo plazo, otras empresas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>7621.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos de créditos a corto plazo</p>
+<p>Ingresos de créditos a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">76210.</p>
+<p>76210.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingresos de créditos a corto plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">76211.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ingresos de créditos a corto plazo, empresas asociadas</p>
+<p>Ingresos de créditos a corto plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">76212.</p>
+<p>76211.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingresos de créditos a corto plazo, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">76213.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ingresos de créditos a corto plazo, otras empresas</p>
+<p>Ingresos de créditos a corto plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">763.</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>76212.</p>
+</td>
+<td>
+<p>Ingresos de créditos a corto plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>76213.</p>
+</td>
+<td>
+<p>Ingresos de créditos a corto plazo, otras empresas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>763.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Beneficios por valoración de instrumentos financieros por su valor razonable</p>
+<p>Beneficios por valoración de instrumentos financieros por su valor razonable</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7630.</p>
+<p>7630.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios de cartera de negociación</p>
+<p>Beneficios de cartera de negociación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7631.</p>
+<p>7631.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios de designados por la empresa</p>
+<p>Beneficios de designados por la empresa</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7632.</p>
+<p>7632.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios de activos financieros a valor razonable con cambios en el patrimonio neto</p>
+<p>Beneficios de activos financieros a valor razonable con cambios en el patrimonio neto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7633.</p>
+<p>7633.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios de instrumentos de cobertura</p>
+<p>Beneficios de instrumentos de cobertura</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">7634.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Beneficios de otros instrumentos financieros</td>
+<td> </td>
+<td> </td>
+<td>7634.</td>
+<td colspan="2">Beneficios de otros instrumentos financieros</td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">766.</p>
+<p>766.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Beneficios en participaciones y valores representativos de deuda</p>
+<p>Beneficios en participaciones y valores representativos de deuda</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7660.</p>
+<p>7660.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios en valores representativos de deuda a largo plazo, empresas del grupo</p>
+<p>Beneficios en valores representativos de deuda a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7661.</p>
+<p>7661.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios en valores representativos de deuda a largo plazo, empresas asociadas</p>
+<p>Beneficios en valores representativos de deuda a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7662.</p>
+<p>7662.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios en valores representativos de deuda a largo plazo, otras partes vinculadas</p>
+<p>Beneficios en valores representativos de deuda a largo plazo, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7663.</p>
+<p>7663.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios en participaciones y valores representativos de deuda a largo plazo, otras empresas</p>
+<p>Beneficios en participaciones y valores representativos de deuda a largo plazo, otras empresas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7665.</p>
+<p>7665.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios en participaciones y valores representativos de deuda a corto plazo, empresas del grupo</p>
+<p>Beneficios en participaciones y valores representativos de deuda a corto plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7666.</p>
+<p>7666.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios en participaciones y valores representativos de deuda a corto plazo, empresas asociadas</p>
+<p>Beneficios en participaciones y valores representativos de deuda a corto plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7667.</p>
+<p>7667.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios en valores representativos de deuda a corto plazo, otras partes vinculadas</p>
+<p>Beneficios en valores representativos de deuda a corto plazo, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7668.</p>
+<p>7668.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios en valores representativos de deuda a corto plazo, otras empresas</p>
+<p>Beneficios en valores representativos de deuda a corto plazo, otras empresas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">767.</p>
+<p>767.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Ingresos de activos afectos y de derechos de reembolso relativos a retribuciones a largo plazo</p>
+<p>Ingresos de activos afectos y de derechos de reembolso relativos a retribuciones a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">768.</p>
+<p>768.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Diferencias positivas de cambio</p>
+<p>Diferencias positivas de cambio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">769.</p>
+<p>769.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Otros ingresos financieros</p>
+<p>Otros ingresos financieros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">77.</p>
+<p>77.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">BENEFICIOS PROCEDENTES DE ACTIVOS NO CORRIENTES E INGRESOS EXCEPCIONALES</p>
+<p>BENEFICIOS PROCEDENTES DE ACTIVOS NO CORRIENTES E INGRESOS EXCEPCIONALES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">770.</p>
+<p>770.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Beneficios procedentes del inmovilizado intangible</p>
+<p>Beneficios procedentes del inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">771.</p>
+<p>771.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Beneficios procedentes del inmovilizado material</p>
+<p>Beneficios procedentes del inmovilizado material</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">772.</p>
+<p>772.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Beneficios procedentes de las inversiones inmobiliarias</p>
+<p>Beneficios procedentes de las inversiones inmobiliarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">773.</p>
+<p>773.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Beneficios procedentes de participaciones a largo plazo en partes vinculadas</p>
+<p>Beneficios procedentes de participaciones a largo plazo en partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7733.</p>
+<p>7733.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios procedentes de participaciones a largo plazo, empresas del grupo</p>
+<p>Beneficios procedentes de participaciones a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7734.</p>
+<p>7734.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios procedentes de participaciones a largo plazo, empresas asociadas</p>
+<p>Beneficios procedentes de participaciones a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7735.</p>
+<p>7735.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios procedentes de participaciones a largo plazo, otras partes vinculadas</p>
+<p>Beneficios procedentes de participaciones a largo plazo, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">774.</p>
+<p>774.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Diferencia negativa en combinaciones de negocios</p>
+<p>Diferencia negativa en combinaciones de negocios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">775.</p>
+<p>775.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Beneficios por operaciones con obligaciones propias</p>
+<p>Beneficios por operaciones con obligaciones propias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">778.</p>
+<p>778.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Ingresos excepcionales</p>
+<p>Ingresos excepcionales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79.</p>
+<p>79.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">EXCESOS Y APLICACIONES DE PROVISIONES Y DE PÉRDIDAS POR DETERIORO</p>
+<p>EXCESOS Y APLICACIONES DE PROVISIONES Y DE PÉRDIDAS POR DETERIORO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">790.</p>
+<p>790.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Reversión del deterioro del inmovilizado intangible</p>
+<p>Reversión del deterioro del inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">791.</p>
+<p>791.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Reversión del deterioro del inmovilizado material</p>
+<p>Reversión del deterioro del inmovilizado material</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">792.</p>
+<p>792.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de las inversiones inmobiliarias</p>
+<p>Reversión del deterioro de las inversiones inmobiliarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">793.</p>
+<p>793.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de existencias</p>
+<p>Reversión del deterioro de existencias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7930.</p>
+<p>7930.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de productos terminados y en curso de fabricación</p>
+<p>Reversión del deterioro de productos terminados y en curso de fabricación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7931.</p>
+<p>7931.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de mercaderías</p>
+<p>Reversión del deterioro de mercaderías</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7932.</p>
+<p>7932.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de materias primas</p>
+<p>Reversión del deterioro de materias primas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7933.</p>
+<p>7933.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de otros aprovisionamientos</p>
+<p>Reversión del deterioro de otros aprovisionamientos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">794.</p>
+<p>794.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de créditos por operaciones comerciales</p>
+<p>Reversión del deterioro de créditos por operaciones comerciales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">795.</p>
+<p>795.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Exceso de provisiones</p>
+<p>Exceso de provisiones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7950.</p>
+<p>7950.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Exceso de provisión por retribuciones al personal</p>
+<p>Exceso de provisión por retribuciones al personal</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7951.</p>
+<p>7951.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Exceso de provisión para impuestos</p>
+<p>Exceso de provisión para impuestos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7952.</p>
+<p>7952.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Exceso de provisión para otras responsabilidades</p>
+<p>Exceso de provisión para otras responsabilidades</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7954.</p>
+<p>7954.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Exceso de provisión por operaciones comerciales</p>
+<p>Exceso de provisión por operaciones comerciales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">79544.</p>
+<p>79544.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Exceso de provisión por contratos onerosos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">79549.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Exceso de provisión para otras operaciones comerciales</p>
+<p>Exceso de provisión por contratos onerosos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7955.</p>
+<p> </p>
+</td>
+<td>
+<p>79549.</p>
+</td>
+<td>
+<p>Exceso de provisión para otras operaciones comerciales</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>7955.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Exceso de provisión para actuaciones medioambientales</p>
+<p>Exceso de provisión para actuaciones medioambientales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7956.</p>
+<p>7956.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Exceso de provisión para reestructuraciones</p>
+<p>Exceso de provisión para reestructuraciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7957.</p>
+<p>7957.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Exceso de provisión por transacciones con pagos basados en instrumentos de patrimonio</p>
+<p>Exceso de provisión por transacciones con pagos basados en instrumentos de patrimonio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">796.</p>
+<p>796.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de participaciones y valores representativos de deuda a largo plazo</p>
+<p>Reversión del deterioro de participaciones y valores representativos de deuda a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7960.</p>
+<p>7960.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas del grupo</p>
+<p>Reversión del deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7961.</p>
+<p>7961.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas asociadas</p>
+<p>Reversión del deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7965.</p>
+<p>7965.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de valores representativos de deuda a largo plazo, empresas del grupo</p>
+<p>Reversión del deterioro de valores representativos de deuda a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7966.</p>
+<p>7966.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de valores representativos de deuda a largo plazo, empresas asociadas</p>
+<p>Reversión del deterioro de valores representativos de deuda a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7967.</p>
+<p>7967.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de valores representativos de deuda a largo plazo, otras partes vinculadas</p>
+<p>Reversión del deterioro de valores representativos de deuda a largo plazo, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7968.</p>
+<p>7968.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de valores representativos de deuda a largo plazo, otras empresas</p>
+<p>Reversión del deterioro de valores representativos de deuda a largo plazo, otras empresas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">797.</p>
+<p>797.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de créditos a largo plazo</p>
+<p>Reversión del deterioro de créditos a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7970.</p>
+<p>7970.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de créditos a largo plazo, empresas del grupo</p>
+<p>Reversión del deterioro de créditos a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7971.</p>
+<p>7971.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de créditos a largo plazo, empresas asociadas</p>
+<p>Reversión del deterioro de créditos a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7972.</p>
+<p>7972.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de créditos a largo plazo, otras partes vinculadas</p>
+<p>Reversión del deterioro de créditos a largo plazo, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7973.</p>
+<p>7973.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de créditos a largo plazo, otras empresas</p>
+<p>Reversión del deterioro de créditos a largo plazo, otras empresas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">798.</p>
+<p>798.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de participaciones y valores representativos de deuda a corto plazo</p>
+<p>Reversión del deterioro de participaciones y valores representativos de deuda a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7980.</p>
+<p>7980.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas del grupo</p>
+<p>Reversión del deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7981.</p>
+<p>7981.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas asociadas</p>
+<p>Reversión del deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7985.</p>
+<p>7985.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro en valores representativos de deuda a corto plazo, empresas del grupo</p>
+<p>Reversión del deterioro en valores representativos de deuda a corto plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7986.</p>
+<p>7986.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro en valores representativos de deuda a corto plazo, empresas asociadas</p>
+<p>Reversión del deterioro en valores representativos de deuda a corto plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7987.</p>
+<p>7987.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro en valores representativos de deuda a corto plazo, otras partes vinculadas</p>
+<p>Reversión del deterioro en valores representativos de deuda a corto plazo, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7988.</p>
+<p>7988.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro en valores representativos de deuda a corto plazo, otras empresas</p>
+<p>Reversión del deterioro en valores representativos de deuda a corto plazo, otras empresas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">799.</p>
+<p>799.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de créditos a corto plazo</p>
+<p>Reversión del deterioro de créditos a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7990.</p>
+<p>7990.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de créditos a corto plazo, empresas del grupo</p>
+<p>Reversión del deterioro de créditos a corto plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7991.</p>
+<p>7991.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de créditos a corto plazo, empresas asociadas</p>
+<p>Reversión del deterioro de créditos a corto plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7992.</p>
+<p>7992.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de créditos a corto plazo, otras partes vinculadas</p>
+<p>Reversión del deterioro de créditos a corto plazo, otras partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7993.</p>
+<p>7993.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de créditos a corto plazo, otras empresas</p>
+<p>Reversión del deterioro de créditos a corto plazo, otras empresas</p>
 </td>
 </tr>
 </tbody>
@@ -21915,362 +21881,362 @@ Se incluirá información sobre:
 
 ### Grupo 8 — Gastos imputados al patrimonio neto
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">80.</p>
+<p>80.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">GASTOS FINANCIEROS POR VALORACIÓN DE ACTIVOS Y PASIVOS</p>
+<p>GASTOS FINANCIEROS POR VALORACIÓN DE ACTIVOS Y PASIVOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">800.</p>
+<p>800.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto</p>
+<p>Pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">802.</p>
+<p>802.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Transferencia de beneficios en activos financieros a valor razonable con cambios en el patrimonio neto</p>
+<p>Transferencia de beneficios en activos financieros a valor razonable con cambios en el patrimonio neto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">81.</p>
+<p>81.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">GASTOS EN OPERACIONES DE COBERTURA</p>
+<p>GASTOS EN OPERACIONES DE COBERTURA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">810.</p>
+<p>810.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por coberturas de flujos de efectivo</p>
+<p>Pérdidas por coberturas de flujos de efectivo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">811.</p>
+<p>811.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por coberturas de inversiones netas en un negocio en el extranjero</p>
+<p>Pérdidas por coberturas de inversiones netas en un negocio en el extranjero</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">812.</p>
+<p>812.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Transferencia de beneficios por coberturas de flujos de efectivo</p>
+<p>Transferencia de beneficios por coberturas de flujos de efectivo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">813.</p>
+<p>813.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Transferencia de beneficios por coberturas de inversiones netas en un negocio en el extranjero</p>
+<p>Transferencia de beneficios por coberturas de inversiones netas en un negocio en el extranjero</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">82.</p>
+<p>82.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">GASTOS POR DIFERENCIAS DE CONVERSIÓN</p>
+<p>GASTOS POR DIFERENCIAS DE CONVERSIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">820.</p>
+<p>820.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Diferencias de conversión negativas</p>
+<p>Diferencias de conversión negativas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">821.</p>
+<p>821.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Transferencia de diferencias de conversión positivas</p>
+<p>Transferencia de diferencias de conversión positivas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">83.</p>
+<p>83.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">IMPUESTO SOBRE BENEFICIOS</p>
+<p>IMPUESTO SOBRE BENEFICIOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">830.</p>
+<p>830.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Impuesto sobre beneficios</p>
+<p>Impuesto sobre beneficios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">8300.</p>
+<p>8300.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Impuesto corriente</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">8301.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Impuesto diferido</p>
+<p>Impuesto corriente</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">833.</p>
+<p> </p>
+</td>
+<td>
+<p>8301.</p>
+</td>
+<td>
+<p>Impuesto diferido</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>833.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes negativos en la imposición sobre beneficios</p>
+<p>Ajustes negativos en la imposición sobre beneficios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">834.</p>
+<p>834.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos fiscales por diferencias permanentes</p>
+<p>Ingresos fiscales por diferencias permanentes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">835.</p>
+<p>835.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos fiscales por deducciones y bonificaciones</p>
+<p>Ingresos fiscales por deducciones y bonificaciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">836.</p>
+<p>836.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Transferencia de diferencias permanentes</p>
+<p>Transferencia de diferencias permanentes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">837.</p>
+<p>837.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Transferencia de deducciones y bonificaciones</p>
+<p>Transferencia de deducciones y bonificaciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">838.</p>
+<p>838.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes positivos en la imposición sobre beneficios</p>
+<p>Ajustes positivos en la imposición sobre beneficios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">84.</p>
+<p>84.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">TRANSFERENCIAS DE SUBVENCIONES, DONACIONESY LEGADOS</p>
+<p>TRANSFERENCIAS DE SUBVENCIONES, DONACIONESY LEGADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">840.</p>
+<p>840.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Transferencia de subvenciones oficiales de capital</p>
+<p>Transferencia de subvenciones oficiales de capital</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">841.</p>
+<p>841.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Transferencia de donaciones y legados de capital</p>
+<p>Transferencia de donaciones y legados de capital</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">842.</p>
+<p>842.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Transferencia de otras subvenciones, donaciones y legados</p>
+<p>Transferencia de otras subvenciones, donaciones y legados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">85.</p>
+<p>85.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">GASTOS POR PÉRDIDAS ACTUARIALES Y AJUSTES EN LOS ACTIVOS POR RETRIBUCIONES A LARGO PLAZO DE PRESTACIÓN DEFINIDA</p>
+<p>GASTOS POR PÉRDIDAS ACTUARIALES Y AJUSTES EN LOS ACTIVOS POR RETRIBUCIONES A LARGO PLAZO DE PRESTACIÓN DEFINIDA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">850.</p>
+<p>850.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas actuariales</p>
+<p>Pérdidas actuariales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">851.</p>
+<p>851.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes negativos en activos por retribuciones a largo plazo de prestación definida</p>
+<p>Ajustes negativos en activos por retribuciones a largo plazo de prestación definida</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">86.</p>
+<p>86.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">GASTOS POR ACTIVOS NO CORRIENTES EN VENTA</p>
+<p>GASTOS POR ACTIVOS NO CORRIENTES EN VENTA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">860.</p>
+<p>860.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
+<p>Pérdidas en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">862.</p>
+<p>862.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Transferencia de beneficios en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
+<p>Transferencia de beneficios en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">89.</p>
+<p>89.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">GASTOS DE PARTICIPACIONES EN EMPRESAS DEL GRUPO O ASOCIADAS CON AJUSTES VALORATIVOS POSITIVOS PREVIOS</p>
+<p>GASTOS DE PARTICIPACIONES EN EMPRESAS DEL GRUPO O ASOCIADAS CON AJUSTES VALORATIVOS POSITIVOS PREVIOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">891.</p>
+<p>891.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de participaciones en el patrimonio, empresas del grupo</p>
+<p>Deterioro de participaciones en el patrimonio, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">892.</p>
+<p>892.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de participaciones en el patrimonio, empresas asociadas</p>
+<p>Deterioro de participaciones en el patrimonio, empresas asociadas</p>
 </td>
 </tr>
 </tbody>
@@ -22282,271 +22248,271 @@ Se incluirá información sobre:
 
 ### Grupo 9 — Ingresos imputados al patrimonio neto
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90.</p>
+<p>90.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INGRESOS FINANCIEROS POR VALORACIÓN DE ACTIVOSY PASIVOS</p>
+<p>INGRESOS FINANCIEROS POR VALORACIÓN DE ACTIVOSY PASIVOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">900.</p>
+<p>900.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beneficios en activos financieros a valor razonable con cambios en el patrimonio neto</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">902.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Transferencia de pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto</p>
+<p>Beneficios en activos financieros a valor razonable con cambios en el patrimonio neto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">91.</p>
+<p> </p>
+</td>
+<td>
+<p>902.</p>
+</td>
+<td>
+<p>Transferencia de pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>91.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INGRESOS EN OPERACIONES DE COBERTURA</p>
+<p>INGRESOS EN OPERACIONES DE COBERTURA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">910.</p>
+<p>910.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beneficios por coberturas de flujos de efectivo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">911.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Beneficios por coberturas de una inversión neta en un negocio en el extranjero</p>
+<p>Beneficios por coberturas de flujos de efectivo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">912.</p>
+<p>911.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia de pérdidas por coberturas de flujos de efectivo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">913.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Transferencia de pérdidas por coberturas de una inversión neta en un negocio en el extranjero</p>
+<p>Beneficios por coberturas de una inversión neta en un negocio en el extranjero</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">92.</p>
+<p> </p>
+</td>
+<td>
+<p>912.</p>
+</td>
+<td>
+<p>Transferencia de pérdidas por coberturas de flujos de efectivo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>913.</p>
+</td>
+<td>
+<p>Transferencia de pérdidas por coberturas de una inversión neta en un negocio en el extranjero</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>92.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INGRESOS POR DIFERENCIAS DE CONVERSIÓN</p>
+<p>INGRESOS POR DIFERENCIAS DE CONVERSIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">920.</p>
+<p>920.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Diferencias de conversión positivas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">921.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Transferencia de diferencias de conversión negativas</p>
+<p>Diferencias de conversión positivas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">94.</p>
+<p> </p>
+</td>
+<td>
+<p>921.</p>
+</td>
+<td>
+<p>Transferencia de diferencias de conversión negativas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>94.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INGRESOS POR SUBVENCIONES, DONACIONES Y LEGADOS</p>
+<p>INGRESOS POR SUBVENCIONES, DONACIONES Y LEGADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">940.</p>
+<p>940.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingresos de subvenciones oficiales de capital</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">941.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ingresos de donaciones y legados de capital</p>
+<p>Ingresos de subvenciones oficiales de capital</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">942.</p>
+<p>941.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingresos de otras subvenciones, donaciones y legados</p>
+<p>Ingresos de donaciones y legados de capital</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">95.</p>
+<p> </p>
+</td>
+<td>
+<p>942.</p>
+</td>
+<td>
+<p>Ingresos de otras subvenciones, donaciones y legados</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>95.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INGRESOS POR GANANCIAS ACTUARIALES Y AJUSTES EN LOS ACTIVOS POR RETRIBUCIONES A LARGO PLAZO DE PRESTACIÓN DEFINIDA</p>
+<p>INGRESOS POR GANANCIAS ACTUARIALES Y AJUSTES EN LOS ACTIVOS POR RETRIBUCIONES A LARGO PLAZO DE PRESTACIÓN DEFINIDA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">950.</p>
+<p>950.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ganancias actuariales</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">951.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ajustes positivos en activos por retribuciones a largo plazo de prestación definida</p>
+<p>Ganancias actuariales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">96.</p>
+<p> </p>
+</td>
+<td>
+<p>951.</p>
+</td>
+<td>
+<p>Ajustes positivos en activos por retribuciones a largo plazo de prestación definida</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>96.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INGRESOS POR ACTIVOS NO CORRIENTES EN VENTA</p>
+<p>INGRESOS POR ACTIVOS NO CORRIENTES EN VENTA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">960.</p>
+<p>960.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beneficios en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">962.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Transferencia de pérdidas en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
+<p>Beneficios en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">99.</p>
+<p> </p>
+</td>
+<td>
+<p>962.</p>
+</td>
+<td>
+<p>Transferencia de pérdidas en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>99.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INGRESOS DE PARTICIPACIONES EN EMPRESAS DEL GRUPO O ASOCIADAS CON AJUSTES VALORATIVOS NEGATIVOS PREVIOS</p>
+<p>INGRESOS DE PARTICIPACIONES EN EMPRESAS DEL GRUPO O ASOCIADAS CON AJUSTES VALORATIVOS NEGATIVOS PREVIOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">991.</p>
+<p>991.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Recuperación de ajustes valorativos negativos previos, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">992.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Recuperación de ajustes valorativos negativos previos, empresas asociadas</p>
+<p>Recuperación de ajustes valorativos negativos previos, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">993.</p>
+<p>992.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia por deterioro de ajustes valorativos negativos previos, empresas del grupo</p>
+<p>Recuperación de ajustes valorativos negativos previos, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">994.</p>
+<p>993.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia por deterioro de ajustes valorativos negativos previos, empresas asociadas</p>
+<p>Transferencia por deterioro de ajustes valorativos negativos previos, empresas del grupo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>994.</p>
+</td>
+<td>
+<p>Transferencia por deterioro de ajustes valorativos negativos previos, empresas asociadas</p>
 </td>
 </tr>
 </tbody>
@@ -22578,134 +22544,134 @@ f) Una cuenta que recoja pasivos financieros que, de acuerdo con lo establecido 
 
 g) La diferencia entre el valor por el que se reconocen inicialmente los pasivos financieros y su valor de reembolso, se registrará como un abono (o, cuando proceda, como un cargo) en la cuenta donde esté registrado el pasivo financiero con cargo (o abono) a la cuenta del subgrupo 66 que corresponda según la naturaleza del instrumento.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10.</p>
+<p>10.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">CAPITAL</p>
+<p>CAPITAL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">100.</p>
+<p>100.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Capital social</p>
+<p>Capital social</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">101.</p>
+<p>101.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Fondo social</p>
+<p>Fondo social</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">102.</p>
+<p>102.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Capital</p>
+<p>Capital</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">103.</p>
+<p>103.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Socios por desembolsos no exigidos</p>
-<p class="cuerpo_tabla_izq">1030. Socios por desembolsos no exigidos, capital social</p>
+<p>Socios por desembolsos no exigidos</p>
+<p>1030. Socios por desembolsos no exigidos, capital social</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1034.</p>
+<p>1034.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Socios por desembolsos no exigidos, capital pendiente de inscripción</p>
+<p>Socios por desembolsos no exigidos, capital pendiente de inscripción</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">104.</p>
+<p>104.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Socios por aportaciones no dinerarias pendientes</p>
+<p>Socios por aportaciones no dinerarias pendientes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1040.</p>
+<p>1040.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Socios por aportaciones no dinerarias pendientes, capital social</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1044.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Socios por aportaciones no dinerarias pendientes, capital pendiente de inscripción</p>
+<p>Socios por aportaciones no dinerarias pendientes, capital social</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">108.</p>
+<p> </p>
+</td>
+<td>
+<p>1044.</p>
+</td>
+<td>
+<p>Socios por aportaciones no dinerarias pendientes, capital pendiente de inscripción</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>108.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acciones o participaciones propias en situaciones especiales</p>
+<p>Acciones o participaciones propias en situaciones especiales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">109.</p>
+<p>109.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acciones o participaciones propias para reducción de capital</p>
+<p>Acciones o participaciones propias para reducción de capital</p>
 </td>
 </tr>
 </tbody>
@@ -22821,200 +22787,200 @@ a) Se cargará por el importe de la adquisición de las acciones, con abono, gen
 
 b) Se abonará por la reducción de capital, con cargo a la cuenta 100 por el importe del nominal de las acciones o participaciones. La diferencia entre el importe de adquisición de las acciones o participaciones y su valor nominal se cargará o abonará, según proceda, a cuentas del subgrupo 11.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">11.</p>
+<p>11.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">RESERVAS Y OTROS INSTRUMENTOS DE PATRIMONIO NETO</p>
+<p>RESERVAS Y OTROS INSTRUMENTOS DE PATRIMONIO NETO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">110.</p>
+<p>110.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Prima de emisión o asunción</p>
+<p>Prima de emisión o asunción</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">111.</p>
+<p>111.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otros instrumentos de patrimonio neto</p>
+<p>Otros instrumentos de patrimonio neto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1110.</p>
+<p>1110.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Patrimonio neto por emisión de instrumentos financieros compuestos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1111.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Resto de instrumentos de patrimonio neto</p>
+<p>Patrimonio neto por emisión de instrumentos financieros compuestos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">112.</p>
+<p> </p>
+</td>
+<td>
+<p>1111.</p>
+</td>
+<td>
+<p>Resto de instrumentos de patrimonio neto</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>112.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reserva legal</p>
+<p>Reserva legal</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">113.</p>
+<p>113.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reservas voluntarias</p>
+<p>Reservas voluntarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">114.</p>
+<p>114.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reservas especiales</p>
+<p>Reservas especiales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1140.</p>
+<p>1140.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reservas para acciones o participaciones de la sociedad dominante</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1141.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reservas estatutarias</p>
+<p>Reservas para acciones o participaciones de la sociedad dominante</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1142.</p>
+<p>1141.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reserva por capital amortizado</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1143.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reserva por fondo de comercio</p>
+<p>Reservas estatutarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1144.</p>
+<p>1142.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reservas por acciones propias aceptadas en garantía</p>
+<p>Reserva por capital amortizado</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">115.</p>
+<p> </p>
+</td>
+<td>
+<p>1143.</p>
+</td>
+<td>
+<p>Reserva por fondo de comercio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1144.</p>
+</td>
+<td>
+<p>Reservas por acciones propias aceptadas en garantía</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>115.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reservas por pérdidas y ganancias actuariales y otros ajustes</p>
+<p>Reservas por pérdidas y ganancias actuariales y otros ajustes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">118.</p>
+<p>118.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Aportaciones de socios o propietarios</p>
+<p>Aportaciones de socios o propietarios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">119.</p>
+<p>119.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Diferencias por ajuste del capital a euros</p>
+<p>Diferencias por ajuste del capital a euros</p>
 </td>
 </tr>
 </tbody>
@@ -23172,47 +23138,47 @@ b<sub>2</sub>) Por la disposición que de la aportación pueda realizarse.
 
 Diferencias originadas como consecuencia de la conversión a euros de la cifra de capital de acuerdo con el contenido de la Ley 46/1998, de 17 de diciembre, sobre Introducción del Euro.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">12.</p>
+<p>12.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">RESULTADOS PENDIENTES DE APLICACIÓN</p>
+<p>RESULTADOS PENDIENTES DE APLICACIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">120.</p>
+<p>120.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Remanente</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">121.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Resultados negativos de ejercicios anteriores</p>
+<p>Remanente</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">129.</p>
+<p>121.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Resultado del ejercicio</p>
+<p>Resultados negativos de ejercicios anteriores</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>129.</p>
+</td>
+<td>
+<p>Resultado del ejercicio</p>
 </td>
 </tr>
 </tbody>
@@ -23264,158 +23230,158 @@ b<sub>1</sub>) Para determinar el resultado del ejercicio, con abono a las cuent
 
 b<sub>2</sub>) Cuando se aplique el resultado positivo conforme al acuerdo de distribución del resultado, con abono a las cuentas que correspondan.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">13.</p>
+<p>13.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">SUBVENCIONES, DONACIONES Y AJUSTES POR CAMBIOS DE VALOR</p>
+<p>SUBVENCIONES, DONACIONES Y AJUSTES POR CAMBIOS DE VALOR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">130.</p>
+<p>130.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Subvenciones oficiales de capital</p>
+<p>Subvenciones oficiales de capital</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">131.</p>
+<p>131.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Donaciones y legados de capital</p>
+<p>Donaciones y legados de capital</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">132.</p>
+<p>132.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otras subvenciones, donaciones y legados</p>
+<p>Otras subvenciones, donaciones y legados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">133.</p>
+<p>133.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes por valoración en activos financieros a valor razonable con cambios en el patrimonio neto</p>
+<p>Ajustes por valoración en activos financieros a valor razonable con cambios en el patrimonio neto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">134.</p>
+<p>134.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Operaciones de cobertura</p>
+<p>Operaciones de cobertura</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1340.</p>
+<p>1340.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cobertura de flujos de efectivo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1341.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cobertura de una inversión en un negocio en el extranjero</p>
+<p>Cobertura de flujos de efectivo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">135.</p>
+<p> </p>
+</td>
+<td>
+<p>1341.</p>
+</td>
+<td>
+<p>Cobertura de una inversión en un negocio en el extranjero</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>135.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Diferencias de conversión</p>
+<p>Diferencias de conversión</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">136.</p>
+<p>136.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes por valoración en activos no corrientes y grupos enajenables de elementos, mantenidos para la venta</p>
+<p>Ajustes por valoración en activos no corrientes y grupos enajenables de elementos, mantenidos para la venta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">137.</p>
+<p>137.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos fiscales a distribuir en varios ejercicios</p>
+<p>Ingresos fiscales a distribuir en varios ejercicios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1370.</p>
+<p>1370.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingresos fiscales por diferencias permanentes a distribuir en varios ejercicios</p>
+<p>Ingresos fiscales por diferencias permanentes a distribuir en varios ejercicios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1371.</p>
+<p>1371.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingresos fiscales por deducciones y bonificaciones a distribuir en varios ejercicios</p>
+<p>Ingresos fiscales por deducciones y bonificaciones a distribuir en varios ejercicios</p>
 </td>
 </tr>
 </tbody>
@@ -23563,91 +23529,91 @@ b) Se cargará, al cierre del ejercicio, por la parte imputada en el ejercicio d
 
 Su movimiento es análogo al señalado para la cuenta 1370.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">14.</p>
+<p>14.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">PROVISIONES</p>
+<p>PROVISIONES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">140.</p>
+<p>140.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión por retribuciones a largo plazo al personal</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">141.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provisión para impuestos</p>
+<p>Provisión por retribuciones a largo plazo al personal</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">142.</p>
+<p>141.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión para otras responsabilidades</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">143.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provisión por desmantelamiento, retiro o rehabilitación del inmovilizado</p>
+<p>Provisión para impuestos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">145.</p>
+<p>142.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión para actuaciones medioambientales</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">146.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provisión para reestructuraciones</p>
+<p>Provisión para otras responsabilidades</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">147.</p>
+<p>143.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión por transacciones con pagos basados en instrumentos de patrimonio</p>
+<p>Provisión por desmantelamiento, retiro o rehabilitación del inmovilizado</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>145.</p>
+</td>
+<td>
+<p>Provisión para actuaciones medioambientales</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>146.</p>
+</td>
+<td>
+<p>Provisión para reestructuraciones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>147.</p>
+</td>
+<td>
+<p>Provisión por transacciones con pagos basados en instrumentos de patrimonio</p>
 </td>
 </tr>
 </tbody>
@@ -23815,159 +23781,159 @@ b<sub>1</sub>) Cuando se aplique la provisión, con abono, generalmente, a cuent
 
 b<sub>2</sub>) Por el exceso de provisión, con abono a la cuenta 7957.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">15.</p>
+<p>15.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DEUDAS A LARGO PLAZO CON CARACTERÍSTICAS ESPECIALES</p>
+<p>DEUDAS A LARGO PLAZO CON CARACTERÍSTICAS ESPECIALES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">150.</p>
+<p>150.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acciones o participaciones a largo plazo consideradas como pasivos financieros</p>
+<p>Acciones o participaciones a largo plazo consideradas como pasivos financieros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">153.</p>
+<p>153.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Desembolsos no exigidos por acciones o participaciones consideradas como pasivos financieros</p>
+<p>Desembolsos no exigidos por acciones o participaciones consideradas como pasivos financieros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1533.</p>
+<p>1533.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desembolsos no exigidos, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1534.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Desembolsos no exigidos, empresas asociadas</p>
+<p>Desembolsos no exigidos, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1535.</p>
+<p>1534.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desembolsos no exigidos, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1536.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otros desembolsos no exigidos</p>
+<p>Desembolsos no exigidos, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">154.</p>
+<p> </p>
+</td>
+<td>
+<p>1535.</p>
+</td>
+<td>
+<p>Desembolsos no exigidos, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1536.</p>
+</td>
+<td>
+<p>Otros desembolsos no exigidos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>154.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Aportaciones no dinerarias pendientes por acciones o participaciones consideradas como pasivos financieros</p>
+<p>Aportaciones no dinerarias pendientes por acciones o participaciones consideradas como pasivos financieros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1543.</p>
+<p>1543.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aportaciones no dinerarias pendientes, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1544.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Aportaciones no dinerarias pendientes, empresas asociadas</p>
+<p>Aportaciones no dinerarias pendientes, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1545.</p>
+<p>1544.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aportaciones no dinerarias pendientes, otras partes vinculadas</p>
+<p>Aportaciones no dinerarias pendientes, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1546.</p>
+<p>1545.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras aportaciones no dinerarias pendientes</p>
+<p>Aportaciones no dinerarias pendientes, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1546.</p>
+</td>
+<td>
+<p>Otras aportaciones no dinerarias pendientes</p>
 </td>
 </tr>
 </tbody>
@@ -24017,226 +23983,226 @@ a) Se cargarán por el valor nominal no desembolsado de las acciones suscritas o
 
 b) Se abonarán cuando se realicen los desembolsos, con cargo a las cuentas representativas de los bienes no dinerarios aportados.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">16.</p>
+<p>16.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DEUDAS A LARGO PLAZO CON PARTES VINCULADAS</p>
+<p>DEUDAS A LARGO PLAZO CON PARTES VINCULADAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">160.</p>
+<p>160.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas a largo plazo con entidades de crédito vinculadas</p>
+<p>Deudas a largo plazo con entidades de crédito vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1603.</p>
+<p>1603.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudas a largo plazo con entidades de crédito, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1604.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deudas a largo plazo con entidades de crédito, empresas asociadas</p>
+<p>Deudas a largo plazo con entidades de crédito, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1605.</p>
+<p>1604.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudas a largo plazo con otras entidades de crédito vinculadas</p>
+<p>Deudas a largo plazo con entidades de crédito, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">161.</p>
+<p> </p>
+</td>
+<td>
+<p>1605.</p>
+</td>
+<td>
+<p>Deudas a largo plazo con otras entidades de crédito vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>161.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a largo plazo, partes vinculadas</p>
+<p>Proveedores de inmovilizado a largo plazo, partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1613.</p>
+<p>1613.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a largo plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1614.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a largo plazo, empresas asociadas</p>
+<p>Proveedores de inmovilizado a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1615.</p>
+<p>1614.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a largo plazo, otras partes vinculadas</p>
+<p>Proveedores de inmovilizado a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">162.</p>
+<p> </p>
+</td>
+<td>
+<p>1615.</p>
+</td>
+<td>
+<p>Proveedores de inmovilizado a largo plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>162.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a largo plazo, partes vinculadas</p>
+<p>Acreedores por arrendamiento financiero a largo plazo, partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1623.</p>
+<p>1623.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a largo plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1624.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a largo plazo, empresas asociadas</p>
+<p>Acreedores por arrendamiento financiero a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1625.</p>
+<p>1624.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a largo plazo, otras partes vinculadas</p>
+<p>Acreedores por arrendamiento financiero a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">163.</p>
+<p> </p>
+</td>
+<td>
+<p>1625.</p>
+</td>
+<td>
+<p>Acreedores por arrendamiento financiero a largo plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>163.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otras deudas a largo plazo con partes vinculadas</p>
+<p>Otras deudas a largo plazo con partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1633.</p>
+<p>1633.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras deudas a largo plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1634.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otras deudas a largo plazo, empresas asociadas</p>
+<p>Otras deudas a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1635.</p>
+<p>1634.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras deudas a largo plazo, con otras partes vinculadas</p>
+<p>Otras deudas a largo plazo, empresas asociadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1635.</p>
+</td>
+<td>
+<p>Otras deudas a largo plazo, con otras partes vinculadas</p>
 </td>
 </tr>
 </tbody>
@@ -24308,130 +24274,130 @@ Las contraídas con partes vinculadas por préstamos recibidos y otros débitos 
 
 El movimiento de las cuentas citadas de cuatro cifras es análogo al señalado para la cuenta 160.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">17.</p>
+<p>17.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DEUDAS A LARGO PLAZO POR PRÉSTAMOS RECIBIDOS, EMPRÉSTITOS Y OTROS CONCEPTOS</p>
+<p>DEUDAS A LARGO PLAZO POR PRÉSTAMOS RECIBIDOS, EMPRÉSTITOS Y OTROS CONCEPTOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">170.</p>
+<p>170.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas a largo plazo con entidades de crédito</p>
+<p>Deudas a largo plazo con entidades de crédito</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">173.</p>
+<p>173.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a largo plazo</p>
+<p>Proveedores de inmovilizado a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">174.</p>
+<p>174.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a largo plazo</p>
+<p>Acreedores por arrendamiento financiero a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">175.</p>
+<p>175.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Efectos a pagar a largo plazo</p>
+<p>Efectos a pagar a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">176.</p>
+<p>176.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pasivos por derivados financieros a largo plazo</p>
+<p>Pasivos por derivados financieros a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1765.</p>
+<p>1765.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pasivos por derivados financieros a largo plazo, cartera de negociación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1768.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pasivos por derivados financieros a largo plazo, instrumentos de cobertura</p>
+<p>Pasivos por derivados financieros a largo plazo, cartera de negociación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">177.</p>
+<p> </p>
+</td>
+<td>
+<p>1768.</p>
+</td>
+<td>
+<p>Pasivos por derivados financieros a largo plazo, instrumentos de cobertura</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>177.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Obligaciones y bonos</p>
+<p>Obligaciones y bonos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">178.</p>
+<p>178.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Obligaciones y bonos convertibles</p>
+<p>Obligaciones y bonos convertibles</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">179.</p>
+<p>179.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas representadas en otros valores negociables</p>
+<p>Deudas representadas en otros valores negociables</p>
 </td>
 </tr>
 </tbody>
@@ -24605,58 +24571,58 @@ Otros pasivos financieros representados en valores negociables, ofrecidos al aho
 
 Su contenido y movimiento es análogo al señalado para la cuenta 178 ó 177, dependiendo de si se trata de un instrumento financiero compuesto o no.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">18.</p>
+<p>18.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">PASIVOS POR FIANZAS, GARANTÍAS Y OTROS CONCEPTOS A LARGO PLAZO</p>
+<p>PASIVOS POR FIANZAS, GARANTÍAS Y OTROS CONCEPTOS A LARGO PLAZO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">180.</p>
+<p>180.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fianzas recibidas a largo plazo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">181.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Anticipos recibidos por ventas o prestaciones de servicios a largo plazo</p>
+<p>Fianzas recibidas a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">185.</p>
+<p>181.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Depósitos recibidos a largo plazo</p>
+<p>Anticipos recibidos por ventas o prestaciones de servicios a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">189.</p>
+<p>185.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Garantías financieras a largo plazo</p>
+<p>Depósitos recibidos a largo plazo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>189.</p>
+</td>
+<td>
+<p>Garantías financieras a largo plazo</p>
 </td>
 </tr>
 </tbody>
@@ -24732,80 +24698,80 @@ b<sub>1</sub>) Por la disminución de la obligación y por los ingresos devengad
 
 b<sub>2</sub>) A la cancelación anticipada, con abono a cuentas del subgrupo 57.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">19.</p>
+<p>19.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">SITUACIONES TRANSITORIAS DE FINANCIACIÓN</p>
+<p>SITUACIONES TRANSITORIAS DE FINANCIACIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">190.</p>
+<p>190.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acciones o participaciones emitidas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">192.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Suscriptores de acciones</p>
+<p>Acciones o participaciones emitidas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">194.</p>
+<p>192.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Capital emitido pendiente de inscripción</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">195.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Acciones o participaciones emitidas consideradas como pasivos financieros</p>
+<p>Suscriptores de acciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">197.</p>
+<p>194.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Suscriptores de acciones consideradas como pasivos financieros</p>
+<p>Capital emitido pendiente de inscripción</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">199.</p>
+<p>195.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acciones o participaciones emitidas consideradas como pasivos financieros pendientes de inscripción</p>
+<p>Acciones o participaciones emitidas consideradas como pasivos financieros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>197.</p>
+</td>
+<td>
+<p>Suscriptores de acciones consideradas como pasivos financieros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>199.</p>
+</td>
+<td>
+<p>Acciones o participaciones emitidas consideradas como pasivos financieros pendientes de inscripción</p>
 </td>
 </tr>
 </tbody>
@@ -24931,102 +24897,102 @@ f) Una cuenta que recoja un activo no corriente que, de acuerdo con lo estableci
 
 g) La diferencia entre el valor por el que se reconocen inicialmente los activos financieros y su valor de reembolso se registrará como un cargo (o, cuando proceda, como un abono) en la cuenta donde esté registrado el activo financiero con abono (o cargo) a la cuenta del subgrupo 76 que corresponda según la naturaleza del instrumento.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">20.</p>
+<p>20.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INMOVILIZACIONES INTANGIBLES</p>
+<p>INMOVILIZACIONES INTANGIBLES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">200.</p>
+<p>200.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">201.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Desarrollo</p>
+<p>Investigación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">202.</p>
+<p>201.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Concesiones administrativas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">203.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Propiedad industrial</p>
+<p>Desarrollo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">204.</p>
+<p>202.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fondo de comercio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">205.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Derechos de traspaso</p>
+<p>Concesiones administrativas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">206.</p>
+<p>203.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aplicaciones informáticas</p>
+<p>Propiedad industrial</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">209.</p>
+<p>204.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anticipos para inmovilizaciones intangibles</p>
+<p>Fondo de comercio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>205.</p>
+</td>
+<td>
+<p>Derechos de traspaso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>206.</p>
+</td>
+<td>
+<p>Aplicaciones informáticas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>209.</p>
+</td>
+<td>
+<p>Anticipos para inmovilizaciones intangibles</p>
 </td>
 </tr>
 </tbody>
@@ -25144,124 +25110,124 @@ a) Se cargará por las entregas de efectivo a los proveedores, con abono a cuent
 
 b) Se abonará por las correspondientes entregas a conformidad, con cargo, generalmente, a cuentas de este subgrupo.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">21.</p>
+<p>21.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INMOVILIZACIONES MATERIALES</p>
+<p>INMOVILIZACIONES MATERIALES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">210.</p>
+<p>210.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Terrenos y bienes naturales</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">211.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Construcciones</p>
+<p>Terrenos y bienes naturales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">212.</p>
+<p>211.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones técnicas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">213.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Maquinaria</p>
+<p>Construcciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">214.</p>
+<p>212.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Utillaje</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">215.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otras instalaciones</p>
+<p>Instalaciones técnicas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">216.</p>
+<p>213.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mobiliario</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">217.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Equipos para procesos de información</p>
+<p>Maquinaria</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">218.</p>
+<p>214.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Elementos de transporte</p>
+<p>Utillaje</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">219.</p>
+<p>215.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otro inmovilizado material</p>
+<p>Otras instalaciones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>216.</p>
+</td>
+<td>
+<p>Mobiliario</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>217.</p>
+</td>
+<td>
+<p>Equipos para procesos de información</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>218.</p>
+</td>
+<td>
+<p>Elementos de transporte</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>219.</p>
+</td>
+<td>
+<p>Otro inmovilizado material</p>
 </td>
 </tr>
 </tbody>
@@ -25321,36 +25287,36 @@ Vehículos de todas clases utilizables para el transporte terrestre, marítimo o
 
 Cualesquiera otras inmovilizaciones materiales no incluidas en las demás cuentas del subgrupo 21. Se incluirán en esta cuenta los envases y embalajes que por sus características deban considerase como inmovilizado y los repuestos para inmovilizado cuyo ciclo de almacenamiento sea superior a un año.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">22.</p>
+<p>22.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INVERSIONES INMOBILIARIAS</p>
+<p>INVERSIONES INMOBILIARIAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">220.</p>
+<p>220.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inversiones en terrenos y bienes naturales</p>
+<p>Inversiones en terrenos y bienes naturales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">221.</p>
+<p>221.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inversiones en construcciones</p>
+<p>Inversiones en construcciones</p>
 </td>
 </tr>
 </tbody>
@@ -25370,80 +25336,80 @@ a) Se cargarán por el precio de adquisición o coste de producción o por su ca
 
 b) Se abonarán por las enajenaciones, por su cambio de uso y en general por su baja del activo, con cargo, generalmente, a cuentas de los subgrupos 21 ó 57 y en caso de pérdidas a la cuenta 672.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">23.</p>
+<p>23.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INMOVILIZACIONES MATERIALES EN CURSO</p>
+<p>INMOVILIZACIONES MATERIALES EN CURSO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">230.</p>
+<p>230.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Adaptación de terrenos y bienes naturales</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">231.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Construcciones en curso</p>
+<p>Adaptación de terrenos y bienes naturales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">232.</p>
+<p>231.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones técnicas en montaje</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">233.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Maquinaria en montaje</p>
+<p>Construcciones en curso</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">237.</p>
+<p>232.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Equipos para procesos de información en montaje</p>
+<p>Instalaciones técnicas en montaje</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">239.</p>
+<p>233.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anticipos para inmovilizaciones materiales</p>
+<p>Maquinaria en montaje</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>237.</p>
+</td>
+<td>
+<p>Equipos para procesos de información en montaje</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>239.</p>
+</td>
+<td>
+<p>Anticipos para inmovilizaciones materiales</p>
 </td>
 </tr>
 </tbody>
@@ -25475,226 +25441,226 @@ a) Se cargará por las entregas de efectivo a los proveedores, con abono, genera
 
 b) Se abonará por las correspondientes entregas a conformidad, con cargo, generalmente, a las cuentas de este subgrupo y del subgrupo 21.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">24.</p>
+<p>24.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">INVERSIONES FINANCIERAS A LARGO PLAZO EN PARTES VINCULADAS</p>
+<p>INVERSIONES FINANCIERAS A LARGO PLAZO EN PARTES VINCULADAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">240.</p>
+<p>240.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Participaciones a largo plazo en partes vinculadas</p>
+<p>Participaciones a largo plazo en partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2403.</p>
+<p>2403.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Participaciones a largo plazo en empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2404.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Participaciones a largo plazo en empresas asociadas</p>
+<p>Participaciones a largo plazo en empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2405.</p>
+<p>2404.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Participaciones a largo plazo en otras partes vinculadas</p>
+<p>Participaciones a largo plazo en empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">241.</p>
+<p> </p>
+</td>
+<td>
+<p>2405.</p>
+</td>
+<td>
+<p>Participaciones a largo plazo en otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>241.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a largo plazo de partes vinculadas</p>
+<p>Valores representativos de deuda a largo plazo de partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2413.</p>
+<p>2413.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a largo plazo de empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2414.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a largo plazo de empresas asociadas</p>
+<p>Valores representativos de deuda a largo plazo de empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2415.</p>
+<p>2414.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a largo plazo de otras partes vinculadas</p>
+<p>Valores representativos de deuda a largo plazo de empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">242.</p>
+<p> </p>
+</td>
+<td>
+<p>2415.</p>
+</td>
+<td>
+<p>Valores representativos de deuda a largo plazo de otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>242.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Créditos a largo plazo a partes vinculadas</p>
+<p>Créditos a largo plazo a partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2423.</p>
+<p>2423.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Créditos a largo plazo a empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2424.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Créditos a largo plazo a empresas asociadas</p>
+<p>Créditos a largo plazo a empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2425.</p>
+<p>2424.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Créditos a largo plazo a otras partes vinculadas</p>
+<p>Créditos a largo plazo a empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">249.</p>
+<p> </p>
+</td>
+<td>
+<p>2425.</p>
+</td>
+<td>
+<p>Créditos a largo plazo a otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>249.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a largo plazo en partes vinculadas</p>
+<p>Desembolsos pendientes sobre participaciones a largo plazo en partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2493.</p>
+<p>2493.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a largo plazo en empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2494.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a largo plazo en empresas asociadas</p>
+<p>Desembolsos pendientes sobre participaciones a largo plazo en empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2495.</p>
+<p>2494.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a largo plazo en otras partes vinculadas</p>
+<p>Desembolsos pendientes sobre participaciones a largo plazo en empresas asociadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2495.</p>
+</td>
+<td>
+<p>Desembolsos pendientes sobre participaciones a largo plazo en otras partes vinculadas</p>
 </td>
 </tr>
 </tbody>
@@ -25790,141 +25756,141 @@ a) Se abonarán a la adquisición o suscripción de los instrumentos de patrimon
 
 b) Se cargarán por los desembolsos que se vayan exigiendo, con abono a la cuenta 556 o a la cuenta 240 por los saldos pendientes cuando se enajenen instrumentos de patrimonio no desembolsados totalmente.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">25.</p>
+<p>25.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">OTRAS INVERSIONES FINANCIERAS A LARGO PLAZO</p>
+<p>OTRAS INVERSIONES FINANCIERAS A LARGO PLAZO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">250.</p>
+<p>250.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Inversiones financieras a largo plazo en instrumentos de patrimonio</p>
+<p>Inversiones financieras a largo plazo en instrumentos de patrimonio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">251.</p>
+<p>251.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a largo plazo</p>
+<p>Valores representativos de deuda a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">252.</p>
+<p>252.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Créditos a largo plazo</p>
+<p>Créditos a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">253.</p>
+<p>253.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Créditos a largo plazo por enajenación de inmovilizado</p>
+<p>Créditos a largo plazo por enajenación de inmovilizado</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">254.</p>
+<p>254.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Créditos a largo plazo al personal</p>
+<p>Créditos a largo plazo al personal</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">255.</p>
+<p>255.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Activos por derivados financieros a largo plazo</p>
+<p>Activos por derivados financieros a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2550.</p>
+<p>2550.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Activos por derivados financieros a largo plazo, cartera de negociación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2553.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Activos por derivados financieros a largo plazo, instrumentos de cobertura</p>
+<p>Activos por derivados financieros a largo plazo, cartera de negociación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">257.</p>
+<p> </p>
+</td>
+<td>
+<p>2553.</p>
+</td>
+<td>
+<p>Activos por derivados financieros a largo plazo, instrumentos de cobertura</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>257.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Derechos de reembolso derivados de contratos de seguro relativos a retribuciones a largo plazo al personal</p>
+<p>Derechos de reembolso derivados de contratos de seguro relativos a retribuciones a largo plazo al personal</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">258.</p>
+<p>258.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Imposiciones a largo plazo</p>
+<p>Imposiciones a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">259.</p>
+<p>259.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones en el patrimonio neto a largo plazo</p>
+<p>Desembolsos pendientes sobre participaciones en el patrimonio neto a largo plazo</p>
 </td>
 </tr>
 </tbody>
@@ -26100,26 +26066,26 @@ a) Se abonará a la adquisición o suscripción de los instrumentos de patrimoni
 
 b) Se cargará por los desembolsos que se vayan exigiendo, con abono a la cuenta 556 o a la cuenta 250 por los saldos pendientes cuando se enajenen instrumentos de patrimonio no desembolsados totalmente.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">26.</p>
+<p>26.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">FIANZAS Y DEPÓSITOS CONSTITUIDOS A LARGO PLAZO</p>
+<p>FIANZAS Y DEPÓSITOS CONSTITUIDOS A LARGO PLAZO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">260. 265.</p>
+<p>260. 265.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fianzas constituidas a largo plazo</p>
-<p class="cuerpo_tabla_izq">Depósitos constituidos a largo plazo</p>
+<p>Fianzas constituidas a largo plazo</p>
+<p>Depósitos constituidos a largo plazo</p>
 </td>
 </tr>
 </tbody>
@@ -26161,47 +26127,47 @@ a<sub>2</sub>) Por el ingreso financiero devengado hasta alcanzar el valor de re
 
 b) Se abonará a la cancelación anticipada, con cargo a cuentas del subgrupo 57.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">28.</p>
+<p>28.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">AMORTIZACIÓN ACUMULADA DEL INMOVILIZADO</p>
+<p>AMORTIZACIÓN ACUMULADA DEL INMOVILIZADO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">280.</p>
+<p>280.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Amortización acumulada del inmovilizado intangible</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">281.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Amortización acumulada del inmovilizado material</p>
+<p>Amortización acumulada del inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">282.</p>
+<p>281.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Amortización acumulada de las inversiones inmobiliarias</p>
+<p>Amortización acumulada del inmovilizado material</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>282.</p>
+</td>
+<td>
+<p>Amortización acumulada de las inversiones inmobiliarias</p>
 </td>
 </tr>
 </tbody>
@@ -26241,226 +26207,226 @@ a) Se abonará por la dotación anual, con cargo a la cuenta 682.
 
 b) Se cargará cuando se enajene la inversión inmobiliaria o se dé de baja del activo por cualquier otro motivo, con abono a cuentas del subgrupo 22.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">29.</p>
+<p>29.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DETERIORO DE VALOR DE ACTIVOS NO CORRIENTES</p>
+<p>DETERIORO DE VALOR DE ACTIVOS NO CORRIENTES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">290.</p>
+<p>290.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor del inmovilizado intangible</p>
+<p>Deterioro de valor del inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">291.</p>
+<p>291.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor del inmovilizado material</p>
+<p>Deterioro de valor del inmovilizado material</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">292.</p>
+<p>292.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de las inversiones inmobiliarias</p>
+<p>Deterioro de valor de las inversiones inmobiliarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">293.</p>
+<p>293.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de participaciones a largo plazo</p>
+<p>Deterioro de valor de participaciones a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2933.</p>
+<p>2933.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de participaciones a largo plazo en empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2934.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de participaciones a largo plazo en empresas asociadas</p>
+<p>Deterioro de valor de participaciones a largo plazo en empresas del grupo</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">2935.</td>
-<td class="cuerpo_tabla_izq">Deterioro de valor de participaciones a largo plazo en otras partes vinculadas</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">2936.</td>
-<td class="cuerpo_tabla_izq">Deterioro de valor de participaciones a largo plazo en otras empresas</td>
-</tr>
-<tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">294.</p>
+<p> </p>
+</td>
+<td>
+<p>2934.</p>
+</td>
+<td>
+<p>Deterioro de valor de participaciones a largo plazo en empresas asociadas</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>2935.</td>
+<td>Deterioro de valor de participaciones a largo plazo en otras partes vinculadas</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>2936.</td>
+<td>Deterioro de valor de participaciones a largo plazo en otras empresas</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>294.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a largo plazo de partes vinculadas</p>
+<p>Deterioro de valor de valores representativos de deuda a largo plazo de partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2943.</p>
+<p>2943.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a largo plazo de empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2944.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a largo plazo de empresas asociadas</p>
+<p>Deterioro de valor de valores representativos de deuda a largo plazo de empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2945.</p>
+<p>2944.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a largo plazo de otras partes vinculadas</p>
+<p>Deterioro de valor de valores representativos de deuda a largo plazo de empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">295.</p>
+<p> </p>
+</td>
+<td>
+<p>2945.</p>
+</td>
+<td>
+<p>Deterioro de valor de valores representativos de deuda a largo plazo de otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>295.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a largo plazo a partes vinculadas</p>
+<p>Deterioro de valor de créditos a largo plazo a partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2953.</p>
+<p>2953.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a largo plazo a empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2954.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a largo plazo a empresas asociadas</p>
+<p>Deterioro de valor de créditos a largo plazo a empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2955.</p>
+<p>2954.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a largo plazo a otras partes vinculadas</p>
+<p>Deterioro de valor de créditos a largo plazo a empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">297.</p>
+<p> </p>
+</td>
+<td>
+<p>2955.</p>
+</td>
+<td>
+<p>Deterioro de valor de créditos a largo plazo a otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>297.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a largo plazo</p>
+<p>Deterioro de valor de valores representativos de deuda a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">298.</p>
+<p>298.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a largo plazo</p>
+<p>Deterioro de valor de créditos a largo plazo</p>
 </td>
 </tr>
 </tbody>
@@ -26560,35 +26526,35 @@ Mercaderías, materias primas, otros aprovisionamientos, productos en curso, pro
 
 Una cuenta que recoja existencias que, de acuerdo con lo establecido en las normas de registro y valoración, formen parte de un grupo enajenable de elementos mantenidos para la venta, se abonará en el momento en que se cumplan las condiciones para su clasificación con cargo a la respectiva cuenta del subgrupo 58.
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">30.</p>
+<p>30.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">COMERCIALES</p>
+<p>COMERCIALES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">300.</p>
+<p>300.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mercaderías A</p>
+<p>Mercaderías A</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">301.</p>
+<p>301.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mercaderías B</p>
+<p>Mercaderías B</p>
 </td>
 </tr>
 </table>
@@ -26605,35 +26571,35 @@ b) Se cargarán por el importe del inventario de existencias de final del ejerci
 
 Si las mercaderías en camino son propiedad de la empresa, según las condiciones del contrato, figurarán como existencias al cierre del ejercicio en las respectivas cuentas del subgrupo 30. Esta regla se aplicará igualmente cuando se encuentren en camino productos, materias, etc., incluidos en los subgrupos siguientes.
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">31.</p>
+<p>31.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">MATERIAS PRIMAS</p>
+<p>MATERIAS PRIMAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">310.</p>
+<p>310.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Materias primas A</p>
+<p>Materias primas A</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">311.</p>
+<p>311.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Materias primas B</p>
+<p>Materias primas B</p>
 </td>
 </tr>
 </table>
@@ -26642,90 +26608,90 @@ Las que, mediante elaboración o transformación, se destinan a formar parte de 
 
 Las cuentas 310/319 figurarán en el activo corriente del balance y su movimiento es análogo al señalado para las cuentas 300/309.
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">32.</p>
+<p>32.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">OTROS APROVISIONAMIENTOS</p>
+<p>OTROS APROVISIONAMIENTOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">320.</p>
+<p>320.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Elementos y conjuntos incorporables</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">321.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Combustibles</p>
+<p>Elementos y conjuntos incorporables</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">322.</p>
+<p>321.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Repuestos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">325.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Materiales diversos</p>
+<p>Combustibles</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">326.</p>
+<p>322.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Embalajes</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">327.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Envases</p>
+<p>Repuestos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">328.</p>
+<p>325.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Material de oficina</p>
+<p>Materiales diversos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>326.</p>
+</td>
+<td>
+<p>Embalajes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>327.</p>
+</td>
+<td>
+<p>Envases</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>328.</p>
+</td>
+<td>
+<p>Material de oficina</p>
 </td>
 </tr>
 </table>
@@ -26760,35 +26726,35 @@ El destinado a la finalidad que indica su denominación, salvo que la empresa op
 
 Las cuentas 320/329 figurarán en el activo corriente del balance y su movimiento es análogo al señalado para las cuentas 300/309.
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">33.</p>
+<p>33.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">PRODUCTOS EN CURSO</p>
+<p>PRODUCTOS EN CURSO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">330.</p>
+<p>330.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Productos en curso A</p>
+<p>Productos en curso A</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">331.</p>
+<p>331.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Productos en curso B</p>
+<p>Productos en curso B</p>
 </td>
 </tr>
 </table>
@@ -26803,35 +26769,35 @@ a) Se abonarán, al cierre del ejercicio, por el importe del inventario de exist
 
 b) Se cargarán por el importe del inventario de existencias de final del ejercicio que se cierra, con abono a la cuenta 710.
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">34.</p>
+<p>34.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">PRODUCTOS SEMITERMINADOS</p>
+<p>PRODUCTOS SEMITERMINADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">340.</p>
+<p>340.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Productos semiterminados A</p>
+<p>Productos semiterminados A</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">341.</p>
+<p>341.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Productos semiterminados B</p>
+<p>Productos semiterminados B</p>
 </td>
 </tr>
 </table>
@@ -26840,35 +26806,35 @@ Los fabricados por la empresa y no destinados normalmente a su venta hasta tanto
 
 Las cuentas 340/349 figurarán en el activo corriente del balance y su movimiento es análogo al señalado para las cuentas 330/339.
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">35.</p>
+<p>35.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">PRODUCTOS TERMINADOS</p>
+<p>PRODUCTOS TERMINADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">350.</p>
+<p>350.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Productos terminados A</p>
+<p>Productos terminados A</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">351.</p>
+<p>351.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Productos terminados B</p>
+<p>Productos terminados B</p>
 </td>
 </tr>
 </table>
@@ -26877,79 +26843,79 @@ Los fabricados por la empresa y destinados al consumo final o a su utilización 
 
 Las cuentas 350/359 figurarán en el activo corriente del balance y su movimiento es análogo al señalado para las cuentas 330/339.
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">36.</p>
+<p>36.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">SUBPRODUCTOS, RESIDUOS Y MATERIALES RECUPERADOS</p>
+<p>SUBPRODUCTOS, RESIDUOS Y MATERIALES RECUPERADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">360.</p>
+<p>360.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Subproductos A</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">361.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Subproductos B</p>
+<p>Subproductos A</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">365.</p>
+<p>361.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Residuos A</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">366.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Residuos B</p>
+<p>Subproductos B</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">368.</p>
+<p>365.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Materiales recuperados A</p>
+<p>Residuos A</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">369.</p>
+<p>366.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Materiales recuperados B</p>
+<p>Residuos B</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>368.</p>
+</td>
+<td>
+<p>Materiales recuperados A</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>369.</p>
+</td>
+<td>
+<p>Materiales recuperados B</p>
 </td>
 </tr>
 </table>
@@ -26962,90 +26928,90 @@ Materiales recuperados: Los que, por tener valor intrínseco entran nuevamente e
 
 Las cuentas 360/369 figurarán en el activo corriente del balance y su movimiento es análogo al señalado para las cuentas 330/339.
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39.</p>
+<p>39.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">DETERIORO DE VALOR DE LAS EXISTENCIAS</p>
+<p>DETERIORO DE VALOR DE LAS EXISTENCIAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">390.</p>
+<p>390.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de las mercaderías</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">391.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de las materias primas</p>
+<p>Deterioro de valor de las mercaderías</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">392.</p>
+<p>391.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de otros aprovisionamientos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">393.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de los productos en curso</p>
+<p>Deterioro de valor de las materias primas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">394.</p>
+<p>392.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de los productos semiterminados</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">395.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de los productos terminados</p>
+<p>Deterioro de valor de otros aprovisionamientos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">396.</p>
+<p>393.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de los subproductos, residuos y materiales recuperados</p>
+<p>Deterioro de valor de los productos en curso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>394.</p>
+</td>
+<td>
+<p>Deterioro de valor de los productos semiterminados</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>395.</p>
+</td>
+<td>
+<p>Deterioro de valor de los productos terminados</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>396.</p>
+</td>
+<td>
+<p>Deterioro de valor de los subproductos, residuos y materiales recuperados</p>
 </td>
 </tr>
 </table>
@@ -27074,91 +27040,91 @@ c) Una cuenta que recoja activos financieros o pasivos financieros clasificados 
 
 d) Una cuenta que recoja acreedores o deudores por operaciones comerciales que, de acuerdo con lo establecido en las normas de registro y valoración, formen parte de un grupo enajenable de elementos mantenidos para la venta, se cargará o abonará, respectivamente, en el momento en que se cumplan las condiciones para su clasificación, con abono o cargo a la respectiva cuenta del subgrupo 58.
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">40.</p>
+<p>40.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">PROVEEDORES</p>
+<p>PROVEEDORES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">400.</p>
+<p>400.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">401.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Proveedores, efectos comerciales a pagar</p>
+<p>Proveedores</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">403.</p>
+<p>401.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">404.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Proveedores, empresas asociadas</p>
+<p>Proveedores, efectos comerciales a pagar</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">405.</p>
+<p>403.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores, otras partes vinculadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">406.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Envases y embalajes a devolver a proveedores</p>
+<p>Proveedores, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">407.</p>
+<p>404.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anticipos a proveedores</p>
+<p>Proveedores, empresas asociadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>405.</p>
+</td>
+<td>
+<p>Proveedores, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>406.</p>
+</td>
+<td>
+<p>Envases y embalajes a devolver a proveedores</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>407.</p>
+</td>
+<td>
+<p>Anticipos a proveedores</p>
 </td>
 </tr>
 </tbody>
@@ -27264,47 +27230,47 @@ a) Se cargará por las entregas de efectivo a los proveedores, con abono a cuent
 
 b) Se abonará por las remesas de mercaderías u otros bienes recibidos de proveedores «a conformidad», con cargo, generalmente, a cuentas del subgrupo 60.
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">41.</p>
+<p>41.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">ACREEDORES VARIOS</p>
+<p>ACREEDORES VARIOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">410.</p>
+<p>410.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreedores por prestaciones de servicios</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">411.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Acreedores, efectos comerciales a pagar</p>
+<p>Acreedores por prestaciones de servicios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">419.</p>
+<p>411.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreedores por operaciones en común</p>
+<p>Acreedores, efectos comerciales a pagar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>419.</p>
+</td>
+<td>
+<p>Acreedores por operaciones en común</p>
 </td>
 </tr>
 </tbody>
@@ -27372,113 +27338,113 @@ b<sub>2</sub>) Siendo la empresa partícipe gestor, por la pérdida que deba atr
 
 b<sub>3</sub>) Por el beneficio que corresponde a la empresa como partícipe no gestor, con abono a la cuenta 7511.
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">43.</p>
+<p>43.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">CLIENTES</p>
+<p>CLIENTES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">430.</p>
+<p>430.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Clientes</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">431.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Clientes, efectos comerciales a cobrar</p>
+<p>Clientes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">432.</p>
+<p>431.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Clientes, operaciones de «factoring»</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">433.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Clientes, empresas del grupo</p>
+<p>Clientes, efectos comerciales a cobrar</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">434.</p>
+<p>432.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Clientes, empresas asociadas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">435.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Clientes, otras partes vinculadas</p>
+<p>Clientes, operaciones de «factoring»</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">436.</p>
+<p>433.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Clientes de dudoso cobro</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">437.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Envases y embalajes a devolver por clientes</p>
+<p>Clientes, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">438.</p>
+<p>434.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anticipos de clientes</p>
+<p>Clientes, empresas asociadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>435.</p>
+</td>
+<td>
+<p>Clientes, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>436.</p>
+</td>
+<td>
+<p>Clientes de dudoso cobro</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>437.</p>
+</td>
+<td>
+<p>Envases y embalajes a devolver por clientes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>438.</p>
+</td>
+<td>
+<p>Anticipos de clientes</p>
 </td>
 </tr>
 </tbody>
@@ -27638,58 +27604,58 @@ a) Se abonará por las recepciones en efectivo, con cargo a la cuenta que corres
 
 b) Se cargará por las remesas de mercaderías u otros bienes a los clientes, con abono, generalmente, a cuentas del subgrupo 70.
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">44.</p>
+<p>44.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">DEUDORES VARIOS</p>
+<p>DEUDORES VARIOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">440.</p>
+<p>440.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudores</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">441.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deudores, efectos comerciales a cobrar</p>
+<p>Deudores</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">446.</p>
+<p>441.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudores de dudoso cobro</p>
+<p>Deudores, efectos comerciales a cobrar</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">449.</p>
+<p>446.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudores por operaciones en común</p>
+<p>Deudores de dudoso cobro</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>449.</p>
+</td>
+<td>
+<p>Deudores por operaciones en común</p>
 </td>
 </tr>
 </tbody>
@@ -27783,47 +27749,47 @@ b<sub>2</sub>) Siendo la empresa partícipe gestor, por el beneficio que debe at
 
 b<sub>3</sub>) Por la pérdida que corresponda a la empresa como partícipe no gestor, con cargo a la cuenta 6511.
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">46.</p>
+<p>46.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">PERSONAL</p>
+<p>PERSONAL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">460.</p>
+<p>460.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anticipos de remuneraciones</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">465.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Remuneraciones pendientes de pago</p>
+<p>Anticipos de remuneraciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">466.</p>
+<p>465.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Remuneraciones mediante sistemas de aportación definida pendientes de pago</p>
+<p>Remuneraciones pendientes de pago</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>466.</p>
+</td>
+<td>
+<p>Remuneraciones mediante sistemas de aportación definida pendientes de pago</p>
 </td>
 </tr>
 </tbody>
@@ -27869,239 +27835,239 @@ a) Se abonará por los importes devengados y no pagados, con cargo a la cuenta 6
 
 b) Se cargará cuando se paguen las contribuciones pendientes con abono a cuentas del subgrupo 57.
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">47.</p>
+<p>47.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">ADMINISTRACIONES PÚBLICAS</p>
+<p>ADMINISTRACIONES PÚBLICAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">470.</p>
+<p>470.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Hacienda Pública, deudora por diversos conceptos</p>
+<p>Hacienda Pública, deudora por diversos conceptos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4700.</p>
+<p>4700.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hacienda Pública, deudora por IVA 4708. Hacienda Pública, deudora por subvenciones concedidas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4709.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hacienda Pública, deudora por devolución de impuestos</p>
+<p>Hacienda Pública, deudora por IVA 4708. Hacienda Pública, deudora por subvenciones concedidas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">471.</p>
+<p> </p>
+</td>
+<td>
+<p>4709.</p>
+</td>
+<td>
+<p>Hacienda Pública, deudora por devolución de impuestos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>471.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Organismos de la Seguridad Social, deudores</p>
+<p>Organismos de la Seguridad Social, deudores</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">472.</p>
+<p>472.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Hacienda Pública, IVA soportado</p>
+<p>Hacienda Pública, IVA soportado</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">473.</p>
+<p>473.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Hacienda Pública, retenciones y pagos a cuenta</p>
+<p>Hacienda Pública, retenciones y pagos a cuenta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">474.</p>
+<p>474.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Activos por impuesto diferido</p>
+<p>Activos por impuesto diferido</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4740.</p>
+<p>4740.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Activos por diferencias temporarias deducibles</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4742.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Derechos por deducciones y bonificaciones pendientes de aplicar</p>
+<p>Activos por diferencias temporarias deducibles</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4745.</p>
+<p>4742.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Crédito por pérdidas a compensar del ejercicio</p>
+<p>Derechos por deducciones y bonificaciones pendientes de aplicar</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">475.</p>
+<p> </p>
+</td>
+<td>
+<p>4745.</p>
+</td>
+<td>
+<p>Crédito por pérdidas a compensar del ejercicio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>475.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Hacienda Pública, acreedora por conceptos fiscales</p>
+<p>Hacienda Pública, acreedora por conceptos fiscales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4750.</p>
+<p>4750.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hacienda Pública, acreedora por IVA</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4751.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hacienda Pública, acreedora por retenciones practicadas</p>
+<p>Hacienda Pública, acreedora por IVA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4752.</p>
+<p>4751.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hacienda Pública, acreedora por impuesto sobre sociedades</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4758.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hacienda Pública, acreedora por subvenciones a reintegrar</p>
+<p>Hacienda Pública, acreedora por retenciones practicadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">476.</p>
+<p> </p>
+</td>
+<td>
+<p>4752.</p>
+</td>
+<td>
+<p>Hacienda Pública, acreedora por impuesto sobre sociedades</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4758.</p>
+</td>
+<td>
+<p>Hacienda Pública, acreedora por subvenciones a reintegrar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>476.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Organismos de la Seguridad Social, acreedores</p>
+<p>Organismos de la Seguridad Social, acreedores</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">477.</p>
+<p>477.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Hacienda Pública, IVA repercutido</p>
+<p>Hacienda Pública, IVA repercutido</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">479.</p>
+<p>479.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pasivos por diferencias temporarias imponibles</p>
+<p>Pasivos por diferencias temporarias imponibles</p>
 </td>
 </tr>
 </tbody>
@@ -28363,36 +28329,36 @@ b<sub>3</sub>) Cuando se cancelen los pasivos por diferencias temporarias imponi
 
 b<sub>4</sub>) Cuando se cancelen los pasivos por diferencias temporarias imponibles originado en una transacción o suceso que se hubiese reconocido directamente en una partida del patrimonio neto, con abono a la cuenta 8301.
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">48.</p>
+<p>48.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">AJUSTES POR PERIODIFICACIÓN</p>
+<p>AJUSTES POR PERIODIFICACIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">480.</p>
+<p>480.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gastos anticipados</p>
+<p>Gastos anticipados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">485.</p>
+<p>485.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingresos anticipados</p>
+<p>Ingresos anticipados</p>
 </td>
 </tr>
 </tbody>
@@ -28422,117 +28388,117 @@ a) Se abonará, al cierre del ejercicio, con cargo a las cuentas del grupo 7 que
 
 b) Se cargará, al principio del ejercicio siguiente, con abono a cuentas del grupo 7.
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">49.</p>
+<p>49.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DETERIORO DE VALOR DE CRÉDITOS COMERCIALES Y PROVISIONES A CORTO PLAZO</p>
+<p>DETERIORO DE VALOR DE CRÉDITOS COMERCIALES Y PROVISIONES A CORTO PLAZO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">490.</p>
+<p>490.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos por operaciones comerciales</p>
+<p>Deterioro de valor de créditos por operaciones comerciales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">493.</p>
+<p>493.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos por operaciones comerciales con partes vinculadas</p>
+<p>Deterioro de valor de créditos por operaciones comerciales con partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4933.</p>
+<p>4933.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos por operaciones comerciales con empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4934.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos por operaciones comerciales con empresas asociadas</p>
+<p>Deterioro de valor de créditos por operaciones comerciales con empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4935.</p>
+<p>4934.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos por operaciones comerciales con otras partes vinculadas</p>
+<p>Deterioro de valor de créditos por operaciones comerciales con empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">499.</p>
+<p> </p>
+</td>
+<td>
+<p>4935.</p>
+</td>
+<td>
+<p>Deterioro de valor de créditos por operaciones comerciales con otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>499.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Provisiones por operaciones comerciales</p>
+<p>Provisiones por operaciones comerciales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4994.</p>
+<p>4994.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión por contratos onerosos</p>
+<p>Provisión por contratos onerosos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4999.</p>
+<p>4999.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión para otras operaciones comerciales</p>
+<p>Provisión para otras operaciones comerciales</p>
 </td>
 </tr>
 </tbody>
@@ -28624,91 +28590,91 @@ f) Una cuenta que recoja pasivos o activos incluidos en este grupo que, de acuer
 
 g) La diferencia entre el valor por el que se reconocen inicialmente los activos financieros o pasivos financieros y su valor de reembolso, se registrará como un cargo o abono (o cuando proceda, un abono o cargo), en la cuenta donde esté registrado el activo financiero o el pasivo financiero, teniendo como contrapartida la cuenta del subgrupo 76 ó 66, que corresponda según la naturaleza del instrumento.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50.</p>
+<p>50.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">EMPRÉSTITOS, DEUDAS CON CARACTERÍSTICAS ESPECIALES Y OTRAS EMISIONES ANÁLOGAS A CORTO PLAZO</p>
+<p>EMPRÉSTITOS, DEUDAS CON CARACTERÍSTICAS ESPECIALES Y OTRAS EMISIONES ANÁLOGAS A CORTO PLAZO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">500.</p>
+<p>500.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligaciones y bonos a corto plazo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">501.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligaciones y bonos convertibles a corto plazo</p>
+<p>Obligaciones y bonos a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">502.</p>
+<p>501.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acciones o participaciones a corto plazo consideradas como pasivos financieros</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">505.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deudas representadas en otros valores negociables a corto plazo</p>
+<p>Obligaciones y bonos convertibles a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">506.</p>
+<p>502.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de empréstitos y otras emisiones análogas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">507.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Dividendos de acciones o participaciones consideradas como pasivos financieros</p>
+<p>Acciones o participaciones a corto plazo consideradas como pasivos financieros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">509.</p>
+<p>505.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valores negociables amortizados</p>
+<p>Deudas representadas en otros valores negociables a corto plazo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>506.</p>
+</td>
+<td>
+<p>Intereses a corto plazo de empréstitos y otras emisiones análogas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>507.</p>
+</td>
+<td>
+<p>Dividendos de acciones o participaciones consideradas como pasivos financieros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>509.</p>
+</td>
+<td>
+<p>Valores negociables amortizados</p>
 </td>
 </tr>
 </tbody>
@@ -28794,279 +28760,279 @@ a) Se abonará por el valor de reembolso de los valores amortizados, con cargo a
 
 b) Se cargará por el valor de reembolso de los valores amortizados, con abono a cuentas del subgrupo 57.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">51.</p>
+<p>51.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DEUDAS A CORTO PLAZO CON PARTES VINCULADAS</p>
+<p>DEUDAS A CORTO PLAZO CON PARTES VINCULADAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">510.</p>
+<p>510.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas a corto plazo con entidades de crédito vinculadas</p>
+<p>Deudas a corto plazo con entidades de crédito vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5103.</p>
+<p>5103.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudas a corto plazo con entidades de crédito, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5104.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deudas a corto plazo con entidades de crédito, empresas asociadas</p>
+<p>Deudas a corto plazo con entidades de crédito, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5105.</p>
+<p>5104.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudas a corto plazo con otras entidades de crédito vinculadas</p>
+<p>Deudas a corto plazo con entidades de crédito, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">511.</p>
+<p> </p>
+</td>
+<td>
+<p>5105.</p>
+</td>
+<td>
+<p>Deudas a corto plazo con otras entidades de crédito vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>511.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a corto plazo, partes vinculadas</p>
+<p>Proveedores de inmovilizado a corto plazo, partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5113.</p>
+<p>5113.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a corto plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5114.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a corto plazo, empresas asociadas</p>
+<p>Proveedores de inmovilizado a corto plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5115.</p>
+<p>5114.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a corto plazo, otras partes vinculadas</p>
+<p>Proveedores de inmovilizado a corto plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">512.</p>
+<p> </p>
+</td>
+<td>
+<p>5115.</p>
+</td>
+<td>
+<p>Proveedores de inmovilizado a corto plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>512.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a corto plazo, partes vinculadas</p>
+<p>Acreedores por arrendamiento financiero a corto plazo, partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5123.</p>
+<p>5123.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a corto plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5124.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a corto plazo, empresas asociadas</p>
+<p>Acreedores por arrendamiento financiero a corto plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5125.</p>
+<p>5124.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a corto plazo, otras partes vinculadas</p>
+<p>Acreedores por arrendamiento financiero a corto plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">513.</p>
+<p> </p>
+</td>
+<td>
+<p>5125.</p>
+</td>
+<td>
+<p>Acreedores por arrendamiento financiero a corto plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>513.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otras deudas a corto plazo con partes vinculadas</p>
+<p>Otras deudas a corto plazo con partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5133.</p>
+<p>5133.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras deudas a corto plazo con empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5134.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otras deudas a corto plazo con empresas asociadas</p>
+<p>Otras deudas a corto plazo con empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5135.</p>
+<p>5134.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras deudas a corto plazo con otras partes vinculadas</p>
+<p>Otras deudas a corto plazo con empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">514.</p>
+<p> </p>
+</td>
+<td>
+<p>5135.</p>
+</td>
+<td>
+<p>Otras deudas a corto plazo con otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>514.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de deudas con partes vinculadas</p>
+<p>Intereses a corto plazo de deudas con partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5143.</p>
+<p>5143.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de deudas, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5144.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de deudas, empresas asociadas</p>
+<p>Intereses a corto plazo de deudas, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5145.</p>
+<p>5144.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de deudas, otras partes vinculadas</p>
+<p>Intereses a corto plazo de deudas, empresas asociadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5145.</p>
+</td>
+<td>
+<p>Intereses a corto plazo de deudas, otras partes vinculadas</p>
 </td>
 </tr>
 </tbody>
@@ -29152,278 +29118,278 @@ b<sub>1</sub>) Por la retención a cuenta de impuestos, cuando proceda, con abon
 
 b<sub>2</sub>) Al pago, con abono a cuentas del subgrupo 57.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">52.</p>
+<p>52.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DEUDAS A CORTO PLAZO POR PRÉSTAMOS RECIBIDOS Y OTROS CONCEPTOS</p>
+<p>DEUDAS A CORTO PLAZO POR PRÉSTAMOS RECIBIDOS Y OTROS CONCEPTOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">520.</p>
+<p>520.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas a corto plazo con entidades de crédito</p>
+<p>Deudas a corto plazo con entidades de crédito</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5200.</p>
+<p>5200.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Préstamos a corto plazo de entidades de crédito</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5201.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deudas a corto plazo por crédito dispuesto</p>
+<p>Préstamos a corto plazo de entidades de crédito</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5208.</p>
+<p>5201.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudas por efectos descontados</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5209.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deudas por operaciones de «factoring»</p>
+<p>Deudas a corto plazo por crédito dispuesto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">521.</p>
+<p> </p>
+</td>
+<td>
+<p>5208.</p>
+</td>
+<td>
+<p>Deudas por efectos descontados</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5209.</p>
+</td>
+<td>
+<p>Deudas por operaciones de «factoring»</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>521.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas a corto plazo</p>
+<p>Deudas a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">522.</p>
+<p>522.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deudas a corto plazo transformables en subvenciones, donaciones y legados</p>
+<p>Deudas a corto plazo transformables en subvenciones, donaciones y legados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">523.</p>
+<p>523.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Proveedores de inmovilizado a corto plazo</p>
+<p>Proveedores de inmovilizado a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">524.</p>
+<p>524.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Acreedores por arrendamiento financiero a corto plazo</p>
+<p>Acreedores por arrendamiento financiero a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">525.</p>
+<p>525.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Efectos a pagar a corto plazo</p>
+<p>Efectos a pagar a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">526.</p>
+<p>526.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Dividendo activo a pagar</p>
+<p>Dividendo activo a pagar</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">527.</p>
+<p>527.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de deudas con entidades de crédito</p>
+<p>Intereses a corto plazo de deudas con entidades de crédito</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">528.</p>
+<p>528.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de deudas</p>
+<p>Intereses a corto plazo de deudas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">529.</p>
+<p>529.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Provisiones a corto plazo</p>
+<p>Provisiones a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5290.</p>
+<p>5290.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión a corto plazo por retribuciones al personal</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5291.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provisión a corto plazo para impuestos</p>
+<p>Provisión a corto plazo por retribuciones al personal</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5292.</p>
+<p>5291.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión a corto plazo para otras responsabilidades</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5293.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provisión a corto plazo por desmantelamiento, retiro o rehabilitación del inmovilizado</p>
+<p>Provisión a corto plazo para impuestos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5295.</p>
+<p>5292.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión a corto plazo para actuaciones medioambientales</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5296.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provisión a corto plazo para reestructuraciones</p>
+<p>Provisión a corto plazo para otras responsabilidades</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5297.</p>
+<p>5293.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provisión a corto plazo por transacciones con pagos basados en instrumentos de patrimonio</p>
+<p>Provisión a corto plazo por desmantelamiento, retiro o rehabilitación del inmovilizado</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5295.</p>
+</td>
+<td>
+<p>Provisión a corto plazo para actuaciones medioambientales</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5296.</p>
+</td>
+<td>
+<p>Provisión a corto plazo para reestructuraciones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5297.</p>
+</td>
+<td>
+<p>Provisión a corto plazo por transacciones con pagos basados en instrumentos de patrimonio</p>
 </td>
 </tr>
 </tbody>
@@ -29621,385 +29587,385 @@ Las provisiones incluidas en el subgrupo 14 cuya cancelación se prevea en el co
 
 El movimiento de las cuentas citadas de cuatro cifras incluidas en este subgrupo es análogo al de las correspondientes cuentas del subgrupo 14.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">53.</p>
+<p>53.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">INVERSIONES FINANCIERAS A CORTO PLAZO EN PARTES VINCULADAS</p>
+<p>INVERSIONES FINANCIERAS A CORTO PLAZO EN PARTES VINCULADAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">530.</p>
+<p>530.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Participaciones a corto plazo en partes vinculadas.</p>
+<p>Participaciones a corto plazo en partes vinculadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5303.</p>
+<p>5303.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Participaciones a corto plazo en empresas del grupo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5304.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Participaciones a corto plazo en empresas asociadas.</p>
+<p>Participaciones a corto plazo en empresas del grupo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5305.</p>
+<p>5304.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Participaciones a corto plazo en otras partes vinculadas.</p>
+<p>Participaciones a corto plazo en empresas asociadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">531.</p>
+<p> </p>
+</td>
+<td>
+<p>5305.</p>
+</td>
+<td>
+<p>Participaciones a corto plazo en otras partes vinculadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>531.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a corto plazo de partes vinculadas.</p>
+<p>Valores representativos de deuda a corto plazo de partes vinculadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5313.</p>
+<p>5313.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a corto plazo de empresas del grupo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5314.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a corto plazo de empresas asociadas.</p>
+<p>Valores representativos de deuda a corto plazo de empresas del grupo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5315.</p>
+<p>5314.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a corto plazo de otras partes vinculadas.</p>
+<p>Valores representativos de deuda a corto plazo de empresas asociadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">532.</p>
+<p> </p>
+</td>
+<td>
+<p>5315.</p>
+</td>
+<td>
+<p>Valores representativos de deuda a corto plazo de otras partes vinculadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>532.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Créditos a corto plazo a partes vinculadas.</p>
+<p>Créditos a corto plazo a partes vinculadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5323.</p>
+<p>5323.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Créditos a corto plazo a empresas del grupo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5324.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Créditos a corto plazo a empresas asociadas.</p>
+<p>Créditos a corto plazo a empresas del grupo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5325.</p>
+<p>5324.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Créditos a corto plazo a otras partes vinculadas.</p>
+<p>Créditos a corto plazo a empresas asociadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">533.</p>
+<p> </p>
+</td>
+<td>
+<p>5325.</p>
+</td>
+<td>
+<p>Créditos a corto plazo a otras partes vinculadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>533.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de valores representativos de deuda de partes vinculadas.</p>
+<p>Intereses a corto plazo de valores representativos de deuda de partes vinculadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5333.</p>
+<p>5333.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de valores representativos de deuda de empresas del grupo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5334.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de valores representativos de deuda de empresas asociadas.</p>
+<p>Intereses a corto plazo de valores representativos de deuda de empresas del grupo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5335.</p>
+<p>5334.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de valores representativos de deuda de otras partes vinculadas.</p>
+<p>Intereses a corto plazo de valores representativos de deuda de empresas asociadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">534.</p>
+<p> </p>
+</td>
+<td>
+<p>5335.</p>
+</td>
+<td>
+<p>Intereses a corto plazo de valores representativos de deuda de otras partes vinculadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>534.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de créditos a partes vinculadas.</p>
+<p>Intereses a corto plazo de créditos a partes vinculadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5343.</p>
+<p>5343.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de créditos a empresas del grupo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5344.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de créditos a empresas asociadas.</p>
+<p>Intereses a corto plazo de créditos a empresas del grupo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5345.</p>
+<p>5344.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de créditos a otras partes vinculadas.</p>
+<p>Intereses a corto plazo de créditos a empresas asociadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">535.</p>
+<p> </p>
+</td>
+<td>
+<p>5345.</p>
+</td>
+<td>
+<p>Intereses a corto plazo de créditos a otras partes vinculadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>535.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Dividendo a cobrar de inversiones financieras en partes vinculadas.</p>
+<p>Dividendo a cobrar de inversiones financieras en partes vinculadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5353.</p>
+<p>5353.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dividendo a cobrar de empresas del grupo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5354.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Dividendo a cobrar de empresas asociadas.</p>
+<p>Dividendo a cobrar de empresas del grupo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5355.</p>
+<p>5354.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dividendo a cobrar de otras partes vinculadas.</p>
+<p>Dividendo a cobrar de empresas asociadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">539.</p>
+<p> </p>
+</td>
+<td>
+<p>5355.</p>
+</td>
+<td>
+<p>Dividendo a cobrar de otras partes vinculadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>539.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a corto plazo en partes vinculadas.</p>
+<p>Desembolsos pendientes sobre participaciones a corto plazo en partes vinculadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5393.</p>
+<p>5393.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a corto plazo en empresas del grupo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5394.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a corto plazo en empresas asociadas.</p>
+<p>Desembolsos pendientes sobre participaciones a corto plazo en empresas del grupo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5395.</p>
+<p>5394.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre participaciones a corto plazo en otras partes vinculadas.</p>
+<p>Desembolsos pendientes sobre participaciones a corto plazo en empresas asociadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5395.</p>
+</td>
+<td>
+<p>Desembolsos pendientes sobre participaciones a corto plazo en otras partes vinculadas.</p>
 </td>
 </tr>
 </tbody>
@@ -30153,124 +30119,124 @@ a) Se abonarán a la adquisición o suscripción de las acciones, por el importe
 
 b) Se cargarán por los desembolsos que se vayan exigiendo, con abono a la cuenta 556, o a la cuenta 530 por los saldos pendientes, cuando se enajenen instrumentos de patrimonio no desembolsados totalmente.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">54.</p>
+<p>54.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">OTRAS INVERSIONES FINANCIERAS A CORTO PLAZO</p>
+<p>OTRAS INVERSIONES FINANCIERAS A CORTO PLAZO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">540.</p>
+<p>540.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inversiones financieras a corto plazo en instrumentos de patrimonio.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">541.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Valores representativos de deuda a corto plazo.</p>
+<p>Inversiones financieras a corto plazo en instrumentos de patrimonio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">542.</p>
+<p>541.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Créditos a corto plazo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">543.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Créditos a corto plazo por enajenación de inmovilizado.</p>
+<p>Valores representativos de deuda a corto plazo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">544.</p>
+<p>542.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Créditos a corto plazo al personal.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">545.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Dividendo a cobrar.</p>
+<p>Créditos a corto plazo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">546.</p>
+<p>543.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de valores representativos de deuda.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">547.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses a corto plazo de créditos.</p>
+<p>Créditos a corto plazo por enajenación de inmovilizado.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">548.</p>
+<p>544.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Imposiciones a corto plazo.</p>
+<p>Créditos a corto plazo al personal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">549.</p>
+<p>545.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desembolsos pendientes sobre instrumentos de patrimonio a corto plazo.</p>
+<p>Dividendo a cobrar.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>546.</p>
+</td>
+<td>
+<p>Intereses a corto plazo de valores representativos de deuda.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>547.</p>
+</td>
+<td>
+<p>Intereses a corto plazo de créditos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>548.</p>
+</td>
+<td>
+<p>Imposiciones a corto plazo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>549.</p>
+</td>
+<td>
+<p>Desembolsos pendientes sobre instrumentos de patrimonio a corto plazo.</p>
 </td>
 </tr>
 </tbody>
@@ -30440,306 +30406,306 @@ a) Se abonará a la adquisición o suscripción de las acciones, por el importe 
 
 b) Se cargará por los desembolsos que se vayan exigiendo, con abono a la cuenta 556 o a la cuenta 540 por los saldos pendientes, cuando se enajenen instrumentos de patrimonio no desembolsados totalmente.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">55.</p>
+<p>55.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">OTRAS CUENTAS NO BANCARIAS</p>
+<p>OTRAS CUENTAS NO BANCARIAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">550.</p>
+<p>550.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Titular de la explotación.</p>
+<p>Titular de la explotación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">551.</p>
+<p>551.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Cuenta corriente con socios y administradores.</p>
+<p>Cuenta corriente con socios y administradores.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">552.</p>
+<p>552.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Cuenta corriente con otras personas y entidades vinculadas.</p>
+<p>Cuenta corriente con otras personas y entidades vinculadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5523.</p>
+<p>5523.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuenta corriente con empresas del grupo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5524.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cuenta corriente con empresas asociadas.</p>
+<p>Cuenta corriente con empresas del grupo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5525.</p>
+<p>5524.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuenta corriente con otras partes vinculadas.</p>
+<p>Cuenta corriente con empresas asociadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">553.</p>
+<p> </p>
+</td>
+<td>
+<p>5525.</p>
+</td>
+<td>
+<p>Cuenta corriente con otras partes vinculadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>553.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Cuentas corrientes en fusiones y escisiones.</p>
+<p>Cuentas corrientes en fusiones y escisiones.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5530.</p>
+<p>5530.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Socios de sociedad disuelta.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5531.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Socios, cuenta de fusión.</p>
+<p>Socios de sociedad disuelta.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5532.</p>
+<p>5531.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Socios de sociedad escindida.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5533.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Socios, cuenta de escisión.</p>
+<p>Socios, cuenta de fusión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">554.</p>
+<p> </p>
+</td>
+<td>
+<p>5532.</p>
+</td>
+<td>
+<p>Socios de sociedad escindida.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5533.</p>
+</td>
+<td>
+<p>Socios, cuenta de escisión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>554.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Cuenta corriente con uniones temporales de empresas y comunidades de bienes.</p>
+<p>Cuenta corriente con uniones temporales de empresas y comunidades de bienes.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">555.</p>
+<p>555.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Partidas pendientes de aplicación.</p>
+<p>Partidas pendientes de aplicación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">556.</p>
+<p>556.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Desembolsos exigidos sobre participaciones en el patrimonio neto.</p>
+<p>Desembolsos exigidos sobre participaciones en el patrimonio neto.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">557.</p>
+<p>557.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Dividendo activo a cuenta.</p>
+<p>Dividendo activo a cuenta.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">558.</p>
+<p>558.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Socios por desembolsos exigidos.</p>
+<p>Socios por desembolsos exigidos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5580.</p>
+<p>5580.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Socios por desembolsos exigidos sobre acciones o participaciones ordinarias.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5585.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Socios por desembolsos exigidos por acciones o participaciones consideradas como pasivos financieros.</p>
+<p>Socios por desembolsos exigidos sobre acciones o participaciones ordinarias.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">559.</p>
+<p> </p>
+</td>
+<td>
+<p>5585.</p>
+</td>
+<td>
+<p>Socios por desembolsos exigidos por acciones o participaciones consideradas como pasivos financieros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>559.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Derivados financieros a corto plazo.</p>
+<p>Derivados financieros a corto plazo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5590.</p>
+<p>5590.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Activos por derivados financieros a corto plazo, cartera de negociación.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5593.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Activos por derivados financieros a corto plazo, instrumentos de cobertura.</p>
+<p>Activos por derivados financieros a corto plazo, cartera de negociación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5595.</p>
+<p>5593.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pasivos por derivados financieros a corto plazo, cartera de negociación.</p>
+<p>Activos por derivados financieros a corto plazo, instrumentos de cobertura.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5598.</p>
+<p>5595.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pasivos por derivados financieros a corto plazo, instrumentos de cobertura.</p>
+<p>Pasivos por derivados financieros a corto plazo, cartera de negociación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5598.</p>
+</td>
+<td>
+<p>Pasivos por derivados financieros a corto plazo, instrumentos de cobertura.</p>
 </td>
 </tr>
 </tbody>
@@ -30959,91 +30925,91 @@ c) Cuando el derivado se utilice como instrumento de cobertura, en otras operaci
 
 d) Se cargará por las cantidades satisfechas en el momento de la liquidación, con abono, generalmente, a cuentas del subgrupo 57.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">56.</p>
+<p>56.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">FIANZAS Y DEPÓSITOS RECIBIDOS Y CONSTITUIDOS A CORTO PLAZO Y AJUSTES POR PERIODIFICACIÓN</p>
+<p>FIANZAS Y DEPÓSITOS RECIBIDOS Y CONSTITUIDOS A CORTO PLAZO Y AJUSTES POR PERIODIFICACIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">560.</p>
+<p>560.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fianzas recibidas a corto plazo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">561.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Depósitos recibidos a corto plazo.</p>
+<p>Fianzas recibidas a corto plazo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">565.</p>
+<p>561.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fianzas constituidas a corto plazo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">566.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Depósitos constituidos a corto plazo.</p>
+<p>Depósitos recibidos a corto plazo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">567.</p>
+<p>565.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intereses pagados por anticipado.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">568.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Intereses cobrados por anticipado.</p>
+<p>Fianzas constituidas a corto plazo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">569.</p>
+<p>566.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Garantías financieras a corto plazo.</p>
+<p>Depósitos constituidos a corto plazo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>567.</p>
+</td>
+<td>
+<p>Intereses pagados por anticipado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>568.</p>
+</td>
+<td>
+<p>Intereses cobrados por anticipado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>569.</p>
+</td>
+<td>
+<p>Garantías financieras a corto plazo.</p>
 </td>
 </tr>
 </tbody>
@@ -31151,91 +31117,91 @@ b<sub>1</sub>) Por la disminución de la obligación y por los ingresos devengad
 
 b<sub>2</sub>) A la cancelación, con abono a cuentas del subgrupo 57.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">57.</p>
+<p>57.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">TESORERÍA</p>
+<p>TESORERÍA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">570.</p>
+<p>570.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Caja, euros.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">571.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Caja, moneda extranjera.</p>
+<p>Caja, euros.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">572.</p>
+<p>571.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bancos e instituciones de crédito c/c vista, euros.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">573.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bancos e instituciones de crédito c/c vista, moneda extranjera.</p>
+<p>Caja, moneda extranjera.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">574.</p>
+<p>572.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bancos e instituciones de crédito, cuentas de ahorro, euros.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">575.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bancos e instituciones de crédito, cuentas de ahorro, moneda extranjera.</p>
+<p>Bancos e instituciones de crédito c/c vista, euros.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">576.</p>
+<p>573.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inversiones a corto plazo de gran liquidez.</p>
+<p>Bancos e instituciones de crédito c/c vista, moneda extranjera.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>574.</p>
+</td>
+<td>
+<p>Bancos e instituciones de crédito, cuentas de ahorro, euros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>575.</p>
+</td>
+<td>
+<p>Bancos e instituciones de crédito, cuentas de ahorro, moneda extranjera.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>576.</p>
+</td>
+<td>
+<p>Inversiones a corto plazo de gran liquidez.</p>
 </td>
 </tr>
 </tbody>
@@ -31275,124 +31241,124 @@ Su movimiento es el siguiente:
 
 Se cargará a la entrada de las inversiones financieras y se abonará a su salida, con abono y cargo a las cuentas que han de servir de contrapartida.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">58.</p>
+<p>58.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">ACTIVOS NO CORRIENTES MANTENIDOS PARA LA VENTA Y ACTIVOS Y PASIVOS ASOCIADOS</p>
+<p>ACTIVOS NO CORRIENTES MANTENIDOS PARA LA VENTA Y ACTIVOS Y PASIVOS ASOCIADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">580.</p>
+<p>580.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inmovilizado.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">581.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inversiones con personas y entidades vinculadas.</p>
+<p>Inmovilizado.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">582.</p>
+<p>581.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inversiones financieras.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">583.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Existencias, deudores comerciales y otras cuentas a cobrar.</p>
+<p>Inversiones con personas y entidades vinculadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">584.</p>
+<p>582.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros activos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">585.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Provisiones.</p>
+<p>Inversiones financieras.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">586.</p>
+<p>583.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deudas con características especiales.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">587.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deudas con personas y entidades vinculadas.</p>
+<p>Existencias, deudores comerciales y otras cuentas a cobrar.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">588.</p>
+<p>584.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreedores comerciales y otras cuentas a pagar.</p>
+<p>Otros activos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">589.</p>
+<p>585.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros pasivos.</p>
+<p>Provisiones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>586.</p>
+</td>
+<td>
+<p>Deudas con características especiales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>587.</p>
+</td>
+<td>
+<p>Deudas con personas y entidades vinculadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>588.</p>
+</td>
+<td>
+<p>Acreedores comerciales y otras cuentas a pagar.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>589.</p>
+</td>
+<td>
+<p>Otros pasivos.</p>
 </td>
 </tr>
 </tbody>
@@ -31448,204 +31414,204 @@ b2) En el caso de pasivos financieros que, a efectos de su valoración, estuvier
 
 b3) Si el grupo enajenable de elementos dejara de cumplir los requisitos para su clasificación como mantenido para la venta de acuerdo con lo dispuesto en las normas de registro y valoración contenidas en la segunda parte de este texto, con abono a las respectivas cuentas del pasivo corriente y no corriente.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">59.</p>
+<p>59.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">DETERIORO DEL VALOR DE INVERSIONES FINANCIERAS A CORTO PLAZO Y DE ACTIVOS NO CORRIENTES MANTENIDOS PARA LA VENTA</p>
+<p>DETERIORO DEL VALOR DE INVERSIONES FINANCIERAS A CORTO PLAZO Y DE ACTIVOS NO CORRIENTES MANTENIDOS PARA LA VENTA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">593.</p>
+<p>593.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de participaciones a corto plazo</p>
+<p>Deterioro de valor de participaciones a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5933.</p>
+<p>5933.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de participaciones a corto plazo en empresas del grupo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5934.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de participaciones a corto plazo en empresas asociadas.</p>
+<p>Deterioro de valor de participaciones a corto plazo en empresas del grupo.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">5935.</td>
-<td class="cuerpo_tabla_izq">Deterioro de valor de participaciones a corto plazo en otras partes vinculadas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">5936.</td>
-<td class="cuerpo_tabla_izq">Deterioro de valor de participaciones a corto plazo en otras empresas.</td>
-</tr>
-<tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">594.</p>
+<p> </p>
+</td>
+<td>
+<p>5934.</p>
+</td>
+<td>
+<p>Deterioro de valor de participaciones a corto plazo en empresas asociadas.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>5935.</td>
+<td>Deterioro de valor de participaciones a corto plazo en otras partes vinculadas.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>5936.</td>
+<td>Deterioro de valor de participaciones a corto plazo en otras empresas.</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>594.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a corto plazo de partes vinculadas.</p>
+<p>Deterioro de valor de valores representativos de deuda a corto plazo de partes vinculadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5943.</p>
+<p>5943.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a corto plazo de empresas del grupo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5944.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a corto plazo de empresas asociadas.</p>
+<p>Deterioro de valor de valores representativos de deuda a corto plazo de empresas del grupo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5945.</p>
+<p>5944.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a corto plazo de otras partes vinculadas.</p>
+<p>Deterioro de valor de valores representativos de deuda a corto plazo de empresas asociadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">595.</p>
+<p> </p>
+</td>
+<td>
+<p>5945.</p>
+</td>
+<td>
+<p>Deterioro de valor de valores representativos de deuda a corto plazo de otras partes vinculadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>595.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a corto plazo a partes vinculadas.</p>
+<p>Deterioro de valor de créditos a corto plazo a partes vinculadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5953.</p>
+<p>5953.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a corto plazo a empresas del grupo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5954.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a corto plazo a empresas asociadas.</p>
+<p>Deterioro de valor de créditos a corto plazo a empresas del grupo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5955.</p>
+<p>5954.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a corto plazo a otras partes vinculadas.</p>
+<p>Deterioro de valor de créditos a corto plazo a empresas asociadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">597.</p>
+<p> </p>
+</td>
+<td>
+<p>5955.</p>
+</td>
+<td>
+<p>Deterioro de valor de créditos a corto plazo a otras partes vinculadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>597.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de valores representativos de deuda a corto plazo.</p>
+<p>Deterioro de valor de valores representativos de deuda a corto plazo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">598.</p>
+<p>598.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de créditos a corto plazo.</p>
+<p>Deterioro de valor de créditos a corto plazo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">599.</p>
+<p>599.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Deterioro de valor de activos no corrientes mantenidos para la venta.</p>
+<p>Deterioro de valor de activos no corrientes mantenidos para la venta.</p>
 </td>
 </tr>
 </tbody>
@@ -31743,91 +31709,91 @@ Aprovisionamientos de mercaderías y demás bienes adquiridos por la empresa par
 
 En general todas las cuentas del grupo 6 se abonan, al cierre del ejercicio, con cargo a la cuenta 129; por ello, al exponer los movimientos de las sucesivas cuentas del grupo sólo se hará referencia al cargo. En las excepciones se citarán los motivos de abono y cuentas de contrapartida.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">60.</p>
+<p>60.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">COMPRAS</p>
+<p>COMPRAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">600.</p>
+<p>600.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Compras de mercaderías.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">601.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Compras de materias primas.</p>
+<p>Compras de mercaderías.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">602.</p>
+<p>601.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Compras de otros aprovisionamientos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">606.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Descuentos sobre compras por pronto pago.</p>
+<p>Compras de materias primas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">607.</p>
+<p>602.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trabajos realizados por otras empresas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">608.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Devoluciones de compras y operaciones similares.</p>
+<p>Compras de otros aprovisionamientos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">609.</p>
+<p>606.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">«Rappels» por compras.</p>
+<p>Descuentos sobre compras por pronto pago.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>607.</p>
+</td>
+<td>
+<p>Trabajos realizados por otras empresas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>608.</p>
+</td>
+<td>
+<p>Devoluciones de compras y operaciones similares.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>609.</p>
+</td>
+<td>
+<p>«Rappels» por compras.</p>
 </td>
 </tr>
 </tbody>
@@ -31875,47 +31841,47 @@ a) Se abonará por los «rappels» que correspondan a la empresa, concedidos por
 
 b) Se cargará por el saldo al cierre del ejercicio, con abono a la cuenta 129.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">61.</p>
+<p>61.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">VARIACIÓN DE EXISTENCIAS</p>
+<p>VARIACIÓN DE EXISTENCIAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">610.</p>
+<p>610.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Variación de existencias de mercaderías.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">611.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Variación de existencias de materias primas.</p>
+<p>Variación de existencias de mercaderías.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">612.</p>
+<p>611.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Variación de existencias de otros aprovisionamientos.</p>
+<p>Variación de existencias de materias primas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>612.</p>
+</td>
+<td>
+<p>Variación de existencias de otros aprovisionamientos.</p>
 </td>
 </tr>
 </tbody>
@@ -31929,124 +31895,124 @@ Su movimiento es el siguiente:
 
 Se cargarán por el importe de las existencias iniciales y se abonarán por el de las existencias finales, con abono y cargo, respectivamente, a cuentas de los subgrupos 30, 31 y 32. El saldo que resulte en estas cuentas se cargará o abonará, según los casos, a la cuenta 129.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">62.</p>
+<p>62.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">SERVICIOS EXTERIORES</p>
+<p>SERVICIOS EXTERIORES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">620.</p>
+<p>620.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gastos en investigación y desarrollo del ejercicio.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">621.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Arrendamientos y cánones.</p>
+<p>Gastos en investigación y desarrollo del ejercicio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">622.</p>
+<p>621.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reparaciones y conservación.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">623.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de profesionales independientes.</p>
+<p>Arrendamientos y cánones.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">624.</p>
+<p>622.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transportes.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">625.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Primas de seguros.</p>
+<p>Reparaciones y conservación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">626.</p>
+<p>623.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios bancarios y similares.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">627.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Publicidad, propaganda y relaciones públicas.</p>
+<p>Servicios de profesionales independientes.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">628.</p>
+<p>624.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Suministros.</p>
+<p>Transportes.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">629.</p>
+<p>625.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros servicios.</p>
+<p>Primas de seguros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>626.</p>
+</td>
+<td>
+<p>Servicios bancarios y similares.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>627.</p>
+</td>
+<td>
+<p>Publicidad, propaganda y relaciones públicas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>628.</p>
+</td>
+<td>
+<p>Suministros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>629.</p>
+</td>
+<td>
+<p>Otros servicios.</p>
 </td>
 </tr>
 </tbody>
@@ -32104,175 +32070,175 @@ Los no comprendidos en las cuentas anteriores.
 
 En esta cuenta se contabilizarán, entre otros, los gastos de viaje del personal de la empresa, incluidos los de transporte, y los gastos de oficina no incluidos en otras cuentas.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">63.</p>
+<p>63.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">TRIBUTOS</p>
+<p>TRIBUTOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">630.</p>
+<p>630.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Impuesto sobre beneficios.</p>
+<p>Impuesto sobre beneficios.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6300.</p>
+<p>6300.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Impuesto corriente.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6301.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Impuesto diferido.</p>
+<p>Impuesto corriente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">631.</p>
+<p> </p>
+</td>
+<td>
+<p>6301.</p>
+</td>
+<td>
+<p>Impuesto diferido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>631.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otros tributos.</p>
+<p>Otros tributos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">633.</p>
+<p>633.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes negativos en la imposición sobre beneficios.</p>
+<p>Ajustes negativos en la imposición sobre beneficios.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">634.</p>
+<p>634.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes negativos en la imposición indirecta.</p>
+<p>Ajustes negativos en la imposición indirecta.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6341.</p>
+<p>6341.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ajustes negativos en IVA de activo corriente.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6342.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ajustes negativos en IVA de inversiones.</p>
+<p>Ajustes negativos en IVA de activo corriente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">636.</p>
+<p> </p>
+</td>
+<td>
+<p>6342.</p>
+</td>
+<td>
+<p>Ajustes negativos en IVA de inversiones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>636.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Devolución de impuestos.</p>
+<p>Devolución de impuestos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">638.</p>
+<p>638.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes positivos en la imposición sobre beneficios.</p>
+<p>Ajustes positivos en la imposición sobre beneficios.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">639.</p>
+<p>639.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes positivos en la imposición indirecta.</p>
+<p>Ajustes positivos en la imposición indirecta.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6391.</p>
+<p>6391.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ajustes positivos en IVA de activo corriente.</p>
+<p>Ajustes positivos en IVA de activo corriente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6392.</p>
+<p>6392.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ajustes positivos en IVA de inversiones.</p>
+<p>Ajustes positivos en IVA de inversiones.</p>
 </td>
 </tr>
 </tbody>
@@ -32406,147 +32372,147 @@ a) Se abonarán por el importe de la regularización anual, con cargo a la cuent
 
 b) Se cargarán por el saldo al cierre del ejercicio, con abono a la cuenta 129.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64.</p>
+<p>64.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">GASTOS DE PERSONAL</p>
+<p>GASTOS DE PERSONAL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">640.</p>
+<p>640.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Sueldos y salarios</p>
+<p>Sueldos y salarios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">641.</p>
+<p>641.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Indemnizaciones</p>
+<p>Indemnizaciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">642.</p>
+<p>642.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Seguridad Social a cargo de la empresa</p>
+<p>Seguridad Social a cargo de la empresa</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">643.</p>
+<p>643.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Retribuciones a largo plazo mediante sistemas de aportación definida</p>
+<p>Retribuciones a largo plazo mediante sistemas de aportación definida</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">644.</p>
+<p>644.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Retribuciones a largo plazo mediante sistemas de prestación definida</p>
+<p>Retribuciones a largo plazo mediante sistemas de prestación definida</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6440.</p>
+<p>6440.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Contribuciones anuales</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6442.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otros costes</p>
+<p>Contribuciones anuales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">645.</p>
+<p> </p>
+</td>
+<td>
+<p>6442.</p>
+</td>
+<td>
+<p>Otros costes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>645.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Retribuciones al personal mediante instrumentos de patrimonio</p>
+<p>Retribuciones al personal mediante instrumentos de patrimonio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6450.</p>
+<p>6450.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Retribuciones al personal liquidadas con instrumentos de patrimonio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6457.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Retribuciones al personal liquidadas en efectivo basado en instrumentos de patrimonio</p>
+<p>Retribuciones al personal liquidadas con instrumentos de patrimonio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">649.</p>
+<p> </p>
+</td>
+<td>
+<p>6457.</p>
+</td>
+<td>
+<p>Retribuciones al personal liquidadas en efectivo basado en instrumentos de patrimonio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>649.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otros gastos sociales</p>
+<p>Otros gastos sociales</p>
 </td>
 </tr>
 </tbody>
@@ -32628,75 +32594,75 @@ Se citan, a título indicativo, las subvenciones a economatos y comedores; soste
 
 Se cargará por el importe de los gastos, con abono a cuentas de los grupos 5 ó 7, según se paguen en efectivo o en mercaderías u otros productos.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">65.</p>
+<p>65.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">OTROS GASTOS DE GESTIÓN</p>
+<p>OTROS GASTOS DE GESTIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">650.</p>
+<p>650.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas de créditos comerciales incobrables</p>
+<p>Pérdidas de créditos comerciales incobrables</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">651.</p>
+<p>651.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Resultados de operaciones en común</p>
+<p>Resultados de operaciones en común</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6510.</p>
+<p>6510.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beneficio transferido (gestor)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6511.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdida soportada (partícipe o asociado no gestor)</p>
+<p>Beneficio transferido (gestor)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="parrafo">659.</p>
+<p> </p>
+</td>
+<td>
+<p>6511.</p>
+</td>
+<td>
+<p>Pérdida soportada (partícipe o asociado no gestor)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>659.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otras pérdidas en gestión corriente</p>
+<p>Otras pérdidas en gestión corriente</p>
 </td>
 </tr>
 </tbody>
@@ -32730,186 +32696,186 @@ Se cargará por el importe de la pérdida, con abono a la cuenta 419, 449 o a cu
 
 Las que teniendo esta naturaleza, no figuran en cuentas anteriores. En particular, reflejará la regularización anual de utillaje y herramientas.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">66.</p>
+<p>66.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">GASTOS FINANCIEROS</p>
+<p>GASTOS FINANCIEROS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">660.</p>
+<p>660.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Gastos financieros por actualización de provisiones</p>
+<p>Gastos financieros por actualización de provisiones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">661.</p>
+<p>661.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses de obligaciones y bonos</p>
+<p>Intereses de obligaciones y bonos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">662.</p>
+<p>662.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses de deudas</p>
+<p>Intereses de deudas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">663.</p>
+<p>663.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por valoración de instrumentos financieros por su valor razonable</p>
+<p>Pérdidas por valoración de instrumentos financieros por su valor razonable</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6630.</p>
+<p>6630.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas de cartera de negociación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6631.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas de designados por la empresa</p>
+<p>Pérdidas de cartera de negociación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6632.</p>
+<p>6631.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto</p>
+<p>Pérdidas de designados por la empresa</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6632.</p>
+</td>
+<td>
+<p>Pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6633.</p>
+<p>6633.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas de instrumentos de cobertura</p>
+<p>Pérdidas de instrumentos de cobertura</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">6634.</td>
-<td class="cuerpo_tabla_izq">Pérdidas de otros instrumentos financieros</td>
+<td> </td>
+<td> </td>
+<td>6634.</td>
+<td>Pérdidas de otros instrumentos financieros</td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">664.</p>
+<p>664.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Gastos por dividendos de acciones o participaciones consideradas como pasivos financieros</p>
+<p>Gastos por dividendos de acciones o participaciones consideradas como pasivos financieros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">665.</p>
+<p>665.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Intereses por descuento de efectos y operaciones de «factoring»</p>
+<p>Intereses por descuento de efectos y operaciones de «factoring»</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">666.</p>
+<p>666.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas en participaciones y valores representativos de deuda</p>
+<p>Pérdidas en participaciones y valores representativos de deuda</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">667.</p>
+<p>667.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas de créditos no comerciales</p>
+<p>Pérdidas de créditos no comerciales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">668.</p>
+<p>668.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Diferencias negativas de cambio</p>
+<p>Diferencias negativas de cambio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">669.</p>
+<p>669.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otros gastos financieros</p>
+<p>Otros gastos financieros</p>
 </td>
 </tr>
 </tbody>
@@ -33013,122 +32979,122 @@ Gastos de naturaleza financiera no recogidos en otras cuentas de este subgrupo. 
 
 Se cargará por el importe de los gastos devengados, con abono, generalmente, a cuentas del subgrupo 57 o a una cuenta representativa de deudas.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">67.</p>
+<p>67.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">PÉRDIDAS PROCEDENTES DE ACTIVOS NO CORRIENTES Y GASTOS EXCEPCIONALES</p>
+<p>PÉRDIDAS PROCEDENTES DE ACTIVOS NO CORRIENTES Y GASTOS EXCEPCIONALES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">670.</p>
+<p>670.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas procedentes del inmovilizado intangible</p>
+<p>Pérdidas procedentes del inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">671.</p>
+<p>671.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas procedentes del inmovilizado material</p>
+<p>Pérdidas procedentes del inmovilizado material</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">672.</p>
+<p>672.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas procedentes de las inversiones inmobiliarias</p>
+<p>Pérdidas procedentes de las inversiones inmobiliarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">673.</p>
+<p>673.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas procedentes de participaciones a largo plazo en partes vinculadas</p>
+<p>Pérdidas procedentes de participaciones a largo plazo en partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6733.</p>
+<p>6733.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas procedentes de participaciones a largo plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6734.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas procedentes de participaciones a largo plazo, empresas asociadas</p>
+<p>Pérdidas procedentes de participaciones a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6735.</p>
+<p>6734.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas procedentes de participaciones a largo plazo, otras partes vinculadas</p>
+<p>Pérdidas procedentes de participaciones a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">675.</p>
+<p> </p>
+</td>
+<td>
+<p>6735.</p>
+</td>
+<td>
+<p>Pérdidas procedentes de participaciones a largo plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>675.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por operaciones con obligaciones propias</p>
+<p>Pérdidas por operaciones con obligaciones propias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">678.</p>
+<p>678.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Gastos excepcionales</p>
+<p>Gastos excepcionales</p>
 </td>
 </tr>
 </tbody>
@@ -33160,47 +33126,47 @@ Pérdidas y gastos de carácter excepcional y cuantía significativa que atendie
 
 A título indicativo se señalan los siguientes: los producidos por inundaciones, sanciones y multas, incendios, etc.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">68.</p>
+<p>68.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">DOTACIONES PARA AMORTIZACIONES</p>
+<p>DOTACIONES PARA AMORTIZACIONES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">680.</p>
+<p>680.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Amortización del inmovilizado intangible</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">681.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Amortización del inmovilizado material</p>
+<p>Amortización del inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">682.</p>
+<p>681.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Amortización de las inversiones inmobiliarias</p>
+<p>Amortización del inmovilizado material</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>682.</p>
+</td>
+<td>
+<p>Amortización de las inversiones inmobiliarias</p>
 </td>
 </tr>
 </tbody>
@@ -33212,152 +33178,152 @@ Expresión de la depreciación sistemática anual efectiva sufrida por el inmovi
 
 Se cargarán por la dotación del ejercicio, con abono a las cuentas 280, 281 y 282.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">69.</p>
+<p>69.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">PÉRDIDAS POR DETERIORO Y OTRAS DOTACIONES</p>
+<p>PÉRDIDAS POR DETERIORO Y OTRAS DOTACIONES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">690.</p>
+<p>690.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro del inmovilizado intangible</p>
+<p>Pérdidas por deterioro del inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">691.</p>
+<p>691.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro del inmovilizado material</p>
+<p>Pérdidas por deterioro del inmovilizado material</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">692.</p>
+<p>692.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de las inversiones inmobiliarias</p>
+<p>Pérdidas por deterioro de las inversiones inmobiliarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">693.</p>
+<p>693.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de existencias</p>
+<p>Pérdidas por deterioro de existencias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">694.</p>
+<p>694.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de créditos por operaciones comerciales</p>
+<p>Pérdidas por deterioro de créditos por operaciones comerciales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">695.</p>
+<p>695.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Dotación a la provisión por operaciones comerciales</p>
+<p>Dotación a la provisión por operaciones comerciales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6954.</p>
+<p>6954.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dotación a la provisión por contratos onerosos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6959.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Dotación a la provisión para otras operaciones comerciales</p>
+<p>Dotación a la provisión por contratos onerosos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">696.</p>
+<p> </p>
+</td>
+<td>
+<p>6959.</p>
+</td>
+<td>
+<p>Dotación a la provisión para otras operaciones comerciales</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>696.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de participaciones y valores representativos de deuda a largo plazo</p>
+<p>Pérdidas por deterioro de participaciones y valores representativos de deuda a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">697.</p>
+<p>697.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de créditos a largo plazo</p>
+<p>Pérdidas por deterioro de créditos a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">698.</p>
+<p>698.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de participaciones y valores representativos de deuda a corto plazo</p>
+<p>Pérdidas por deterioro de participaciones y valores representativos de deuda a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">699.</p>
+<p>699.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Pérdidas por deterioro de créditos a corto plazo</p>
+<p>Pérdidas por deterioro de créditos a corto plazo</p>
 </td>
 </tr>
 </tbody>
@@ -33435,113 +33401,113 @@ Enajenación de bienes y prestación de servicios que son objeto del tráfico de
 
 En general, todas las cuentas del grupo 7 se cargan al cierre del ejercicio, con abono a la cuenta 129; por ello, al exponer el juego de las sucesivas del grupo, sólo se hará referencia al abono. En las excepciones se citarán los motivos de cargo y cuentas de contrapartida.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">70.</p>
+<p>70.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">VENTAS DE MERCADERÍAS, DE PRODUCCIÓN PROPIA, DE SERVICIOS, ETC.</p>
+<p>VENTAS DE MERCADERÍAS, DE PRODUCCIÓN PROPIA, DE SERVICIOS, ETC.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">700.</p>
+<p>700.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ventas de mercaderías</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">701.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ventas de productos terminados</p>
+<p>Ventas de mercaderías</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">702.</p>
+<p>701.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ventas de productos semiterminados</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">703.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ventas de subproductos y residuos</p>
+<p>Ventas de productos terminados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">704.</p>
+<p>702.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ventas de envases y embalajes</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">705.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Prestaciones de servicios</p>
+<p>Ventas de productos semiterminados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">706.</p>
+<p>703.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Descuentos sobre ventas por pronto pago</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">708.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Devoluciones de ventas y operaciones similares</p>
+<p>Ventas de subproductos y residuos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">709.</p>
+<p>704.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">«Rappels» sobre ventas</p>
+<p>Ventas de envases y embalajes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>705.</p>
+</td>
+<td>
+<p>Prestaciones de servicios</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>706.</p>
+</td>
+<td>
+<p>Descuentos sobre ventas por pronto pago</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>708.</p>
+</td>
+<td>
+<p>Devoluciones de ventas y operaciones similares</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>709.</p>
+</td>
+<td>
+<p>«Rappels» sobre ventas</p>
 </td>
 </tr>
 </tbody>
@@ -33585,58 +33551,58 @@ a) Se cargará por los «rappels» que correspondan o sean concedidos a los clie
 
 b) Se abonará por el saldo al cierre de ejercicio, con cargo a la cuenta 129.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">71.</p>
+<p>71.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">VARIACIÓN DE EXISTENCIAS</p>
+<p>VARIACIÓN DE EXISTENCIAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">710.</p>
+<p>710.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Variación de existencias de productos en curso</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">711.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Variación de existencias de productos semiterminados</p>
+<p>Variación de existencias de productos en curso</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">712.</p>
+<p>711.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Variación de existencias de productos terminados</p>
+<p>Variación de existencias de productos semiterminados</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">713.</p>
+<p>712.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Variación de existencias de subproductos, residuos y materiales recuperados</p>
+<p>Variación de existencias de productos terminados</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>713.</p>
+</td>
+<td>
+<p>Variación de existencias de subproductos, residuos y materiales recuperados</p>
 </td>
 </tr>
 </tbody>
@@ -33650,58 +33616,58 @@ Su movimiento es el siguiente:
 
 Se cargarán por el importe de las existencias iniciales y se abonarán por el de las existencias finales, con abono y cargo, respectivamente, a cuentas de los subgrupos 33, 34, 35 y 36. El saldo que resulte de estas cuentas se cargará o abonará, según los casos, a la cuenta 129.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">73.</p>
+<p>73.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">TRABAJOS REALIZADOS PARA LA EMPRESA</p>
+<p>TRABAJOS REALIZADOS PARA LA EMPRESA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">730.</p>
+<p>730.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trabajos realizados para el inmovilizado intangible</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">731.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Trabajos realizados para el inmovilizado material</p>
+<p>Trabajos realizados para el inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">732.</p>
+<p>731.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trabajos realizados en inversiones inmobiliarias</p>
+<p>Trabajos realizados para el inmovilizado material</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">733.</p>
+<p>732.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trabajos realizados para el inmovilizado material en curso</p>
+<p>Trabajos realizados en inversiones inmobiliarias</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>733.</p>
+</td>
+<td>
+<p>Trabajos realizados para el inmovilizado material en curso</p>
 </td>
 </tr>
 </tbody>
@@ -33733,47 +33699,47 @@ Trabajos realizados durante el ejercicio y no terminados al cierre del mismo, in
 
 Se abonará por el importe anual de los gastos, con cargo a cuentas del subgrupo 23.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">74.</p>
+<p>74.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">SUBVENCIONES, DONACIONES Y LEGADOS</p>
+<p>SUBVENCIONES, DONACIONES Y LEGADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">740.</p>
+<p>740.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Subvenciones, donaciones y legados a la explotación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">746.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Subvenciones, donaciones y legados de capital transferidos al resultado del ejercicio</p>
+<p>Subvenciones, donaciones y legados a la explotación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">747.</p>
+<p>746.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras subvenciones, donaciones y legados transferidos al resultado del ejercicio</p>
+<p>Subvenciones, donaciones y legados de capital transferidos al resultado del ejercicio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>747.</p>
+</td>
+<td>
+<p>Otras subvenciones, donaciones y legados transferidos al resultado del ejercicio</p>
 </td>
 </tr>
 </tbody>
@@ -33799,108 +33765,108 @@ Importe traspasado al resultado del ejercicio de otras subvenciones, donaciones 
 
 Su movimiento queda explicado en la cuenta 842.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">75.</p>
+<p>75.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">OTROS INGRESOS DE GESTIÓN</p>
+<p>OTROS INGRESOS DE GESTIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">751.</p>
+<p>751.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Resultados de operaciones en común</p>
+<p>Resultados de operaciones en común</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7510.</p>
+<p>7510.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdida transferida (gestor)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7511.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Beneficio atribuido (partícipe o asociado no gestor)</p>
+<p>Pérdida transferida (gestor)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="parrafo">752.</p>
+<p> </p>
+</td>
+<td>
+<p>7511.</p>
+</td>
+<td>
+<p>Beneficio atribuido (partícipe o asociado no gestor)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>752.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos por arrendamientos</p>
+<p>Ingresos por arrendamientos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="parrafo">753.</p>
+<p>753.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos de propiedad industrial cedida en explotación</p>
+<p>Ingresos de propiedad industrial cedida en explotación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="parrafo">754.</p>
+<p>754.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos por comisiones</p>
+<p>Ingresos por comisiones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="parrafo">755.</p>
+<p>755.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos por servicios al personal</p>
+<p>Ingresos por servicios al personal</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="parrafo">759.</p>
+<p>759.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos por servicios diversos</p>
+<p>Ingresos por servicios diversos</p>
 </td>
 </tr>
 </tbody>
@@ -33954,192 +33920,192 @@ Los originados por la prestación eventual de ciertos servicios a otras empresas
 
 Su movimiento es análogo al señalado para la cuenta 752.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">76.</p>
+<p>76.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">INGRESOS FINANCIEROS</p>
+<p>INGRESOS FINANCIEROS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">760.</p>
+<p>760.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos de participaciones en instrumentos de patrimonio</p>
+<p>Ingresos de participaciones en instrumentos de patrimonio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">761.</p>
+<p>761.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos de valores representativos de deuda</p>
+<p>Ingresos de valores representativos de deuda</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">762.</p>
+<p>762.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos de créditos</p>
+<p>Ingresos de créditos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7620.</p>
+<p>7620.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingresos de créditos a largo plazo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7621.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ingresos de créditos a corto plazo</p>
+<p>Ingresos de créditos a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">763.</p>
+<p> </p>
+</td>
+<td>
+<p>7621.</p>
+</td>
+<td>
+<p>Ingresos de créditos a corto plazo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>763.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios por valoración de instrumentos financieros por su valor razonable</p>
+<p>Beneficios por valoración de instrumentos financieros por su valor razonable</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7630.</p>
+<p>7630.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beneficios de cartera de negociación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7631.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Beneficios de designados por la empresa</p>
+<p>Beneficios de cartera de negociación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7632.</p>
+<p>7631.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beneficios de activos financieros a valor razonable con cambios en el patrimonio neto</p>
+<p>Beneficios de designados por la empresa</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>7632.</p>
+</td>
+<td>
+<p>Beneficios de activos financieros a valor razonable con cambios en el patrimonio neto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7633.</p>
+<p>7633.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beneficios de instrumentos de cobertura</p>
+<p>Beneficios de instrumentos de cobertura</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">7634.</td>
-<td class="cuerpo_tabla_izq">Beneficios de otros instrumentos financieros</td>
+<td> </td>
+<td> </td>
+<td>7634.</td>
+<td>Beneficios de otros instrumentos financieros</td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">766.</p>
+<p>766.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios en participaciones y valores representativos de deuda</p>
+<p>Beneficios en participaciones y valores representativos de deuda</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">767.</p>
+<p>767.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos de activos afectos y de derechos de reembolso relativos a retribuciones a largo plazo</p>
+<p>Ingresos de activos afectos y de derechos de reembolso relativos a retribuciones a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">768.</p>
+<p>768.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Diferencias positivas de cambio</p>
+<p>Diferencias positivas de cambio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">769.</p>
+<p>769.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otros ingresos financieros</p>
+<p>Otros ingresos financieros</p>
 </td>
 </tr>
 </tbody>
@@ -34235,133 +34201,133 @@ Ingresos de naturaleza financiera no recogidos en otras cuentas de este subgrupo
 
 Se abonará por el importe de los ingresos devengados.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">77.</p>
+<p>77.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">BENEFICIOS PROCEDENTES DE ACTIVOS NO CORRIENTES E INGRESOS EXCEPCIONALES</p>
+<p>BENEFICIOS PROCEDENTES DE ACTIVOS NO CORRIENTES E INGRESOS EXCEPCIONALES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">770.</p>
+<p>770.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios procedentes del inmovilizado intangible</p>
+<p>Beneficios procedentes del inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">771.</p>
+<p>771.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios procedentes del inmovilizado material</p>
+<p>Beneficios procedentes del inmovilizado material</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">772.</p>
+<p>772.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios procedentes de las inversiones inmobiliarias</p>
+<p>Beneficios procedentes de las inversiones inmobiliarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">773.</p>
+<p>773.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios procedentes de participaciones a largo plazo en partes vinculadas</p>
+<p>Beneficios procedentes de participaciones a largo plazo en partes vinculadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7733.</p>
+<p>7733.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beneficios procedentes de participaciones a largo plazo, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7734.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Beneficios procedentes de participaciones a largo plazo, empresas asociadas</p>
+<p>Beneficios procedentes de participaciones a largo plazo, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7735.</p>
+<p>7734.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beneficios procedentes de participaciones a largo plazo, otras partes vinculadas</p>
+<p>Beneficios procedentes de participaciones a largo plazo, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">774.</p>
+<p> </p>
+</td>
+<td>
+<p>7735.</p>
+</td>
+<td>
+<p>Beneficios procedentes de participaciones a largo plazo, otras partes vinculadas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>774.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Diferencia negativa en combinaciones de negocios</p>
+<p>Diferencia negativa en combinaciones de negocios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">775.</p>
+<p>775.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Beneficios por operaciones con obligaciones propias</p>
+<p>Beneficios por operaciones con obligaciones propias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">778.</p>
+<p>778.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos excepcionales</p>
+<p>Ingresos excepcionales</p>
 </td>
 </tr>
 </tbody>
@@ -34399,250 +34365,250 @@ Beneficios e ingresos de carácter excepcional y cuantía significativa que aten
 
 Se incluirán, entre otros, los procedentes de aquéllos créditos que en su día fueron amortizados por insolvencias firmes.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79.</p>
+<p>79.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">EXCESOS Y APLICACIONES DE PROVISIONES Y DE PÉRDIDAS POR DETERIORO</p>
+<p>EXCESOS Y APLICACIONES DE PROVISIONES Y DE PÉRDIDAS POR DETERIORO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">790.</p>
+<p>790.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro del inmovilizado intangible</p>
+<p>Reversión del deterioro del inmovilizado intangible</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">791.</p>
+<p>791.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro del inmovilizado material</p>
+<p>Reversión del deterioro del inmovilizado material</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">792.</p>
+<p>792.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de las inversiones inmobiliarias</p>
+<p>Reversión del deterioro de las inversiones inmobiliarias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">793.</p>
+<p>793.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de existencias</p>
+<p>Reversión del deterioro de existencias</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">794.</p>
+<p>794.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de créditos por operaciones comerciales</p>
+<p>Reversión del deterioro de créditos por operaciones comerciales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">795.</p>
+<p>795.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Exceso de provisiones</p>
+<p>Exceso de provisiones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7950.</p>
+<p>7950.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Exceso de provisión por retribuciones a largo plazo al personal</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7951.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Exceso de provisión para impuestos</p>
+<p>Exceso de provisión por retribuciones a largo plazo al personal</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7952.</p>
+<p>7951.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Exceso de provisión para otras responsabilidades</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7954.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Exceso de provisión por operaciones comerciales</p>
+<p>Exceso de provisión para impuestos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>7952.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">79544. Exceso de provisión por contratos onerosos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">79549. Exceso de provisión para otras operaciones comerciales</p>
+<p>Exceso de provisión para otras responsabilidades</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7955.</p>
+<p>7954.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Exceso de provisión para actuaciones medioambientales</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7956.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Exceso de provisión para reestructuraciones</p>
+<p>Exceso de provisión por operaciones comerciales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7957.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Exceso de provisión por transacciones con pagos basados en instrumentos de patrimonio</p>
+<p>79544. Exceso de provisión por contratos onerosos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">796.</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>79549. Exceso de provisión para otras operaciones comerciales</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>7955.</p>
+</td>
+<td>
+<p>Exceso de provisión para actuaciones medioambientales</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>7956.</p>
+</td>
+<td>
+<p>Exceso de provisión para reestructuraciones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>7957.</p>
+</td>
+<td>
+<p>Exceso de provisión por transacciones con pagos basados en instrumentos de patrimonio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>796.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de participaciones y valores representativos de deuda a largo plazo</p>
+<p>Reversión del deterioro de participaciones y valores representativos de deuda a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">797.</p>
+<p>797.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de créditos a largo plazo</p>
+<p>Reversión del deterioro de créditos a largo plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">798.</p>
+<p>798.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de participaciones y valores representativos de deuda a corto plazo</p>
+<p>Reversión del deterioro de participaciones y valores representativos de deuda a corto plazo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">799.</p>
+<p>799.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reversión del deterioro de créditos a corto plazo</p>
+<p>Reversión del deterioro de créditos a corto plazo</p>
 </td>
 </tr>
 </tbody>
@@ -34708,36 +34674,36 @@ Se abonará por el importe de la corrección de valor, con cargo a las cuentas 5
 
 ### Grupo 8 — Gastos imputados al patrimonio neto
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">80.</p>
+<p>80.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">GASTOS FINANCIEROS POR VALORACIÓN DE ACTIVOS FINANCIEROS</p>
+<p>GASTOS FINANCIEROS POR VALORACIÓN DE ACTIVOS FINANCIEROS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">800.</p>
+<p>800.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas en activos financieros a valor razonable con cambios en el patrimonio neto</p>
+<p>Pérdidas en activos financieros a valor razonable con cambios en el patrimonio neto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">802.</p>
+<p>802.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia de beneficios en activos financieros a valor razonable con cambios en el patrimonio neto</p>
+<p>Transferencia de beneficios en activos financieros a valor razonable con cambios en el patrimonio neto</p>
 </td>
 </tr>
 </tbody>
@@ -34763,58 +34729,58 @@ a2) Cuando se haya producido una combinación de negocios por etapas, de acuerdo
 
 b) Se abonará, al cierre del ejercicio, con cargo a la cuenta 133.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">81.</p>
+<p>81.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">GASTOS EN OPERACIONES DE COBERTURA</p>
+<p>GASTOS EN OPERACIONES DE COBERTURA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">810.</p>
+<p>810.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas por coberturas de flujos de efectivo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">811.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pérdidas por coberturas de inversiones netas en un negocio en el extranjero</p>
+<p>Pérdidas por coberturas de flujos de efectivo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">812.</p>
+<p>811.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia de beneficios por coberturas de flujos de efectivo</p>
+<p>Pérdidas por coberturas de inversiones netas en un negocio en el extranjero</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">813.</p>
+<p>812.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia de beneficios por coberturas de inversiones netas en un negocio en el extranjero</p>
+<p>Transferencia de beneficios por coberturas de flujos de efectivo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>813.</p>
+</td>
+<td>
+<p>Transferencia de beneficios por coberturas de inversiones netas en un negocio en el extranjero</p>
 </td>
 </tr>
 </tbody>
@@ -34862,36 +34828,36 @@ a) Se cargará, en el momento de la venta o disposición por otra vía de la inv
 
 b) Se abonará, al cierre del ejercicio, con cargo a la cuenta 1341.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">82.</p>
+<p>82.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">GASTOS POR DIFERENCIAS DE CONVERSIÓN</p>
+<p>GASTOS POR DIFERENCIAS DE CONVERSIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">820.</p>
+<p>820.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Diferencias de conversión negativas</p>
+<p>Diferencias de conversión negativas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">821.</p>
+<p>821.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia de diferencias de conversión positivas</p>
+<p>Transferencia de diferencias de conversión positivas</p>
 </td>
 </tr>
 </tbody>
@@ -34913,119 +34879,119 @@ a) Se cargará, en el momento de baja, enajenación o cancelación del elemento 
 
 b) Se abonará, al cierre del ejercicio, con cargo a la cuenta 135.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">83.</p>
+<p>83.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">IMPUESTO SOBRE BENEFICIOS</p>
+<p>IMPUESTO SOBRE BENEFICIOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">830.</p>
+<p>830.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Impuesto sobre beneficios</p>
+<p>Impuesto sobre beneficios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">8300.</p>
+<p>8300.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Impuesto corriente</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">8301.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Impuesto diferido</p>
+<p>Impuesto corriente</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">833.</p>
+<p> </p>
+</td>
+<td>
+<p>8301.</p>
+</td>
+<td>
+<p>Impuesto diferido</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>833.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes negativos en la imposición sobre beneficios</p>
+<p>Ajustes negativos en la imposición sobre beneficios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">834.</p>
+<p>834.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos fiscales por diferencias permanentes</p>
+<p>Ingresos fiscales por diferencias permanentes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">835.</p>
+<p>835.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ingresos fiscales por deducciones y bonificaciones</p>
+<p>Ingresos fiscales por deducciones y bonificaciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">836.</p>
+<p>836.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Transferencia de diferencias permanentes</p>
+<p>Transferencia de diferencias permanentes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">837.</p>
+<p>837.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Transferencia de deducciones y bonificaciones</p>
+<p>Transferencia de deducciones y bonificaciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">838.</p>
+<p>838.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ajustes positivos en la imposición sobre beneficios</p>
+<p>Ajustes positivos en la imposición sobre beneficios</p>
 </td>
 </tr>
 </tbody>
@@ -35121,47 +35087,47 @@ a<sub>2</sub>) Por el menor importe del pasivo por diferencias temporarias impon
 
 b) Al cierre del cierre del ejercicio, se abonará con cargo a las correspondientes cuentas del subgrupo 13.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">84.</p>
+<p>84.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">TRANSFERENCIAS DE SUBVENCIONES, DONACIONES Y LEGADOS</p>
+<p>TRANSFERENCIAS DE SUBVENCIONES, DONACIONES Y LEGADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">840.</p>
+<p>840.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia de subvenciones oficiales de capital</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">841.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Transferencia de donaciones y legados de capital</p>
+<p>Transferencia de subvenciones oficiales de capital</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">842.</p>
+<p>841.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia de otras subvenciones, donaciones y legados</p>
+<p>Transferencia de donaciones y legados de capital</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>842.</p>
+</td>
+<td>
+<p>Transferencia de otras subvenciones, donaciones y legados</p>
 </td>
 </tr>
 </tbody>
@@ -35183,36 +35149,36 @@ a) Se cargará, en el momento de la imputación a la cuenta de pérdidas y ganan
 
 b) Se abonará, al cierre del ejercicio, con cargo a la cuenta 132.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">85.</p>
+<p>85.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">GASTOS POR PÉRDIDAS ACTUARIALES Y AJUSTES EN LOS ACTIVOS POR RETRIBUCIONES A LARGO PLAZO DE PRESTACIÓN DEFINIDA</p>
+<p>GASTOS POR PÉRDIDAS ACTUARIALES Y AJUSTES EN LOS ACTIVOS POR RETRIBUCIONES A LARGO PLAZO DE PRESTACIÓN DEFINIDA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">850.</p>
+<p>850.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas actuariales</p>
+<p>Pérdidas actuariales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">851.</p>
+<p>851.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ajustes negativos en activos por retribuciones a largo plazo de prestación definida</p>
+<p>Ajustes negativos en activos por retribuciones a largo plazo de prestación definida</p>
 </td>
 </tr>
 </tbody>
@@ -35234,36 +35200,36 @@ a) Se cargará, al cierre del ejercicio por el ajuste negativo que proceda reali
 
 b) Se abonará, al cierre del ejercicio, con cargo a la cuenta 115.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">86.</p>
+<p>86.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">GASTOS POR ACTIVOS NO CORRIENTES EN VENTA</p>
+<p>GASTOS POR ACTIVOS NO CORRIENTES EN VENTA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">860.</p>
+<p>860.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pérdidas en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
+<p>Pérdidas en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">862.</p>
+<p>862.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia de beneficios en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
+<p>Transferencia de beneficios en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
 </td>
 </tr>
 </tbody>
@@ -35285,36 +35251,36 @@ a) Se cargará en el momento en que se produzca la baja o enajenación del activ
 
 b) Se abonará, al cierre del ejercicio, con cargo a la cuenta 136.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">89.</p>
+<p>89.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">GASTOS DE PARTICIPACIONES EN EMPRESAS DEL GRUPO O ASOCIADAS CON AJUSTES VALORATIVOS POSITIVOS PREVIOS</p>
+<p>GASTOS DE PARTICIPACIONES EN EMPRESAS DEL GRUPO O ASOCIADAS CON AJUSTES VALORATIVOS POSITIVOS PREVIOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">891.</p>
+<p>891.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de participaciones en el patrimonio, empresas del grupo</p>
+<p>Deterioro de participaciones en el patrimonio, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">892.</p>
+<p>892.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deterioro de participaciones en el patrimonio, empresas asociadas</p>
+<p>Deterioro de participaciones en el patrimonio, empresas asociadas</p>
 </td>
 </tr>
 </tbody>
@@ -35340,36 +35306,36 @@ b) Se abonarán, al cierre del ejercicio, con cargo a la cuenta 133.
 
 ### Grupo 9 — Ingresos imputados al patrimonio neto
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90.</p>
+<p>90.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INGRESOS FINANCIEROS POR VALORACIÓN DE ACTIVOS FINANCIEROS</p>
+<p>INGRESOS FINANCIEROS POR VALORACIÓN DE ACTIVOS FINANCIEROS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">900.</p>
+<p>900.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beneficios en activos financieros a valor razonable con cambios en el patrimonio neto</p>
+<p>Beneficios en activos financieros a valor razonable con cambios en el patrimonio neto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">902.</p>
+<p>902.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia de pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto</p>
+<p>Transferencia de pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto</p>
 </td>
 </tr>
 </tbody>
@@ -35397,58 +35363,58 @@ a3) Cuando se haya producido una combinación de negocios por etapas, de acuerdo
 
 b) Se cargará, al cierre del ejercicio, con abono a la cuenta 133.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">91.</p>
+<p>91.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INGRESOS EN OPERACIONES DE COBERTURA</p>
+<p>INGRESOS EN OPERACIONES DE COBERTURA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">910.</p>
+<p>910.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beneficios por coberturas de flujos de efectivo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">911.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Beneficios por coberturas de una inversión neta en un negocio en el extranjero</p>
+<p>Beneficios por coberturas de flujos de efectivo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">912.</p>
+<p>911.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia de pérdidas por coberturas de flujos de efectivo</p>
+<p>Beneficios por coberturas de una inversión neta en un negocio en el extranjero</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">913.</p>
+<p>912.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia de pérdidas por coberturas de una inversión neta en un negocio en el extranjero</p>
+<p>Transferencia de pérdidas por coberturas de flujos de efectivo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>913.</p>
+</td>
+<td>
+<p>Transferencia de pérdidas por coberturas de una inversión neta en un negocio en el extranjero</p>
 </td>
 </tr>
 </tbody>
@@ -35496,36 +35462,36 @@ a) Se abonará, en el momento de la venta o disposición por otra vía de la inv
 
 b) Se cargará, al cierre del ejercicio, con abono a la cuenta 1341.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">92.</p>
+<p>92.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INGRESOS POR DIFERENCIAS DE CONVERSIÓN</p>
+<p>INGRESOS POR DIFERENCIAS DE CONVERSIÓN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">920.</p>
+<p>920.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Diferencias de conversión positivas</p>
+<p>Diferencias de conversión positivas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">921.</p>
+<p>921.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia de diferencias de conversión negativas</p>
+<p>Transferencia de diferencias de conversión negativas</p>
 </td>
 </tr>
 </tbody>
@@ -35547,47 +35513,47 @@ a) Se abonará, en el momento de baja, enajenación o cancelación del elemento 
 
 b) Se cargará, al cierre del ejercicio, con abono a la cuenta 135.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">94.</p>
+<p>94.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INGRESOS POR SUBVENCIONES, DONACIONES Y LEGADOS</p>
+<p>INGRESOS POR SUBVENCIONES, DONACIONES Y LEGADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">940.</p>
+<p>940.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingresos de subvenciones oficiales de capital</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">941.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ingresos de donaciones y legados de capital</p>
+<p>Ingresos de subvenciones oficiales de capital</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">942.</p>
+<p>941.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingresos de otras subvenciones, donaciones y legados</p>
+<p>Ingresos de donaciones y legados de capital</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>942.</p>
+</td>
+<td>
+<p>Ingresos de otras subvenciones, donaciones y legados</p>
 </td>
 </tr>
 </tbody>
@@ -35605,36 +35571,36 @@ a<sub>2</sub>) Por las deudas que se transforman en subvenciones donaciones o le
 
 b) Se cargarán, al cierre del ejercicio, con abono a las cuentas 130, 131 ó 132, según corresponda.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">95.</p>
+<p>95.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INGRESOS POR GANANCIAS ACTUARIALES Y AJUSTES EN LOS ACTIVOS POR RETRIBUCIONES A LARGO PLAZO DE PRESTACIÓN DEFINIDA</p>
+<p>INGRESOS POR GANANCIAS ACTUARIALES Y AJUSTES EN LOS ACTIVOS POR RETRIBUCIONES A LARGO PLAZO DE PRESTACIÓN DEFINIDA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">950.</p>
+<p>950.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ganancias actuariales</p>
+<p>Ganancias actuariales</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">951.</p>
+<p>951.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ajustes positivos en activos por retribuciones a largo plazo de prestación definida</p>
+<p>Ajustes positivos en activos por retribuciones a largo plazo de prestación definida</p>
 </td>
 </tr>
 </tbody>
@@ -35656,36 +35622,36 @@ a) Se abonará, al cierre del ejercicio por el ajuste positivo que proceda reali
 
 b) Se cargará, al cierre del ejercicio, con abono a la cuenta 115.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">96.</p>
+<p>96.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INGRESOS POR ACTIVOS NO CORRIENTES EN VENTA</p>
+<p>INGRESOS POR ACTIVOS NO CORRIENTES EN VENTA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">960.</p>
+<p>960.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beneficios en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
+<p>Beneficios en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">962.</p>
+<p>962.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia de pérdidas en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
+<p>Transferencia de pérdidas en activos no corrientes y grupos enajenables de elementos mantenidos para la venta</p>
 </td>
 </tr>
 </tbody>
@@ -35711,58 +35677,58 @@ a<sub>2</sub>) En el momento en que se produzca el deterioro del activo no corri
 
 b) Se cargará, al cierre del ejercicio, con abono a la cuenta 136.
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">99.</p>
+<p>99.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INGRESOS DE PARTICIPACIONES EN EL PATRIMONIO DE EMPRESAS DEL GRUPO O ASOCIADAS CON AJUSTES VALORATIVOS NEGATIVOS PREVIOS</p>
+<p>INGRESOS DE PARTICIPACIONES EN EL PATRIMONIO DE EMPRESAS DEL GRUPO O ASOCIADAS CON AJUSTES VALORATIVOS NEGATIVOS PREVIOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">991.</p>
+<p>991.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Recuperación de ajustes valorativos negativos previos, empresas del grupo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">992.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Recuperación de ajustes valorativos negativos previos, empresas asociadas</p>
+<p>Recuperación de ajustes valorativos negativos previos, empresas del grupo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">993.</p>
+<p>992.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia por deterioro de ajustes valorativos negativos previos, empresas del grupo</p>
+<p>Recuperación de ajustes valorativos negativos previos, empresas asociadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">994.</p>
+<p>993.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencia por deterioro de ajustes valorativos negativos previos, empresas asociadas</p>
+<p>Transferencia por deterioro de ajustes valorativos negativos previos, empresas del grupo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>994.</p>
+</td>
+<td>
+<p>Transferencia por deterioro de ajustes valorativos negativos previos, empresas asociadas</p>
 </td>
 </tr>
 </tbody>

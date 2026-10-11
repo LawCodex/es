@@ -1540,233 +1540,233 @@ Ocho. Se modifica el Anejo 3, exclusivamente en lo referente a los límites de e
 
 > A estas zonas periféricas de protección se añaden las que se ubican en el entorno de los siguientes núcleos urbanos y que se definen por las coordenadas UTM recogidas en el apartado III del Anejo V del PORN.
 
-> <table class="tabla">
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Término municipal</th>
-> <th class="cabeza_tabla">Núcleo</th>
-> <th class="cabeza_tabla">Área (Ha)</th>
+> <th>Término municipal</th>
+> <th>Núcleo</th>
+> <th>Área (Ha)</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq">Arroyo de Fraguas.</td>
-> <td class="cuerpo_tabla_izq">Arroyo de Fraguas.</td>
-> <td class="cuerpo_tabla_der">22,47 </td>
+> <td>Arroyo de Fraguas.</td>
+> <td>Arroyo de Fraguas.</td>
+> <td>22,47 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Bustares.</td>
-> <td class="cuerpo_tabla_izq">Bustares.</td>
-> <td class="cuerpo_tabla_der">84,72 </td>
+> <td>Bustares.</td>
+> <td>Bustares.</td>
+> <td>84,72 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Campillo de Ranas.</td>
-> <td class="cuerpo_tabla_izq">Espinar, El.</td>
-> <td class="cuerpo_tabla_der">7,31 </td>
+> <td>Campillo de Ranas.</td>
+> <td>Espinar, El.</td>
+> <td>7,31 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Campillo de Ranas.</td>
-> <td class="cuerpo_tabla_izq">Roblelacasa.</td>
-> <td class="cuerpo_tabla_der">12,72 </td>
+> <td>Campillo de Ranas.</td>
+> <td>Roblelacasa.</td>
+> <td>12,72 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Campillo de Ranas.</td>
-> <td class="cuerpo_tabla_izq">Robleluengo.</td>
-> <td class="cuerpo_tabla_der">14,20 </td>
+> <td>Campillo de Ranas.</td>
+> <td>Robleluengo.</td>
+> <td>14,20 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Campillo de Ranas.</td>
-> <td class="cuerpo_tabla_izq">Campillo de Ranas.</td>
-> <td class="cuerpo_tabla_der">46,16 </td>
+> <td>Campillo de Ranas.</td>
+> <td>Campillo de Ranas.</td>
+> <td>46,16 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Campillo de Ranas.</td>
-> <td class="cuerpo_tabla_izq">Campillejo.</td>
-> <td class="cuerpo_tabla_der">12,74 </td>
+> <td>Campillo de Ranas.</td>
+> <td>Campillejo.</td>
+> <td>12,74 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cantalojas.</td>
-> <td class="cuerpo_tabla_izq">Cantalojas.</td>
-> <td class="cuerpo_tabla_der">58,29 </td>
+> <td>Cantalojas.</td>
+> <td>Cantalojas.</td>
+> <td>58,29 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cardoso de La Sierra, El.</td>
-> <td class="cuerpo_tabla_izq">Colmenar de la Sierra.</td>
-> <td class="cuerpo_tabla_der">11,65 </td>
+> <td>Cardoso de La Sierra, El.</td>
+> <td>Colmenar de la Sierra.</td>
+> <td>11,65 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cardoso de La Sierra, El.</td>
-> <td class="cuerpo_tabla_izq">Corralejo.</td>
-> <td class="cuerpo_tabla_der">9,72 </td>
+> <td>Cardoso de La Sierra, El.</td>
+> <td>Corralejo.</td>
+> <td>9,72 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cardoso de La Sierra, El.</td>
-> <td class="cuerpo_tabla_izq">Cabida.</td>
-> <td class="cuerpo_tabla_der">7,75 </td>
+> <td>Cardoso de La Sierra, El.</td>
+> <td>Cabida.</td>
+> <td>7,75 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cardoso de La Sierra, El.</td>
-> <td class="cuerpo_tabla_izq">Cardoso de La Sierra, El.</td>
-> <td class="cuerpo_tabla_der">44,56 </td>
+> <td>Cardoso de La Sierra, El.</td>
+> <td>Cardoso de La Sierra, El.</td>
+> <td>44,56 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cardoso de La Sierra, El.</td>
-> <td class="cuerpo_tabla_izq">Peñalba de La Sierra.</td>
-> <td class="cuerpo_tabla_der">3,86 </td>
+> <td>Cardoso de La Sierra, El.</td>
+> <td>Peñalba de La Sierra.</td>
+> <td>3,86 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cardoso de La Sierra, El.</td>
-> <td class="cuerpo_tabla_izq">Bocígano.</td>
-> <td class="cuerpo_tabla_der">4,57 </td>
+> <td>Cardoso de La Sierra, El.</td>
+> <td>Bocígano.</td>
+> <td>4,57 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cogolludo.</td>
-> <td class="cuerpo_tabla_izq">Beleña de Sorbe.</td>
-> <td class="cuerpo_tabla_der">7,29 </td>
+> <td>Cogolludo.</td>
+> <td>Beleña de Sorbe.</td>
+> <td>7,29 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cogolludo.</td>
-> <td class="cuerpo_tabla_izq">Aleas.</td>
-> <td class="cuerpo_tabla_der">13,15 </td>
+> <td>Cogolludo.</td>
+> <td>Aleas.</td>
+> <td>13,15 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Condemios de Abajo.</td>
-> <td class="cuerpo_tabla_izq">Condemios de Abajo.</td>
-> <td class="cuerpo_tabla_der">3,84 </td>
+> <td>Condemios de Abajo.</td>
+> <td>Condemios de Abajo.</td>
+> <td>3,84 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Condemios de Arriba.</td>
-> <td class="cuerpo_tabla_izq">Condemios de Arriba.</td>
-> <td class="cuerpo_tabla_der">32,06 </td>
+> <td>Condemios de Arriba.</td>
+> <td>Condemios de Arriba.</td>
+> <td>32,06 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Aldeanueva de Atienza.</td>
-> <td class="cuerpo_tabla_izq">Aldeanueva de Atienza.</td>
-> <td class="cuerpo_tabla_der">100,46 </td>
+> <td>Aldeanueva de Atienza.</td>
+> <td>Aldeanueva de Atienza.</td>
+> <td>100,46 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Galve de Sorbe.</td>
-> <td class="cuerpo_tabla_izq">Galve de Sorbe.</td>
-> <td class="cuerpo_tabla_der">26,63 </td>
+> <td>Galve de Sorbe.</td>
+> <td>Galve de Sorbe.</td>
+> <td>26,63 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Gascueña de Bornova.</td>
-> <td class="cuerpo_tabla_izq">Gascueña de Bornova.</td>
-> <td class="cuerpo_tabla_der">55,47 </td>
+> <td>Gascueña de Bornova.</td>
+> <td>Gascueña de Bornova.</td>
+> <td>55,47 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Hiendelaencina.</td>
-> <td class="cuerpo_tabla_izq">Hiendelaencina.</td>
-> <td class="cuerpo_tabla_der">221,56 </td>
+> <td>Hiendelaencina.</td>
+> <td>Hiendelaencina.</td>
+> <td>221,56 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Umbralejo.</td>
-> <td class="cuerpo_tabla_izq">Umbralejo.</td>
-> <td class="cuerpo_tabla_der">4,72 </td>
+> <td>Umbralejo.</td>
+> <td>Umbralejo.</td>
+> <td>4,72 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Huerce, La.</td>
-> <td class="cuerpo_tabla_izq">Huerce, La.</td>
-> <td class="cuerpo_tabla_der">33,26 </td>
+> <td>Huerce, La.</td>
+> <td>Huerce, La.</td>
+> <td>33,26 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Huerce, La.</td>
-> <td class="cuerpo_tabla_izq">Valdepinillos.</td>
-> <td class="cuerpo_tabla_der">26,16 </td>
+> <td>Huerce, La.</td>
+> <td>Valdepinillos.</td>
+> <td>26,16 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Majaelrayo.</td>
-> <td class="cuerpo_tabla_izq">Majaelrayo.</td>
-> <td class="cuerpo_tabla_der">38,14 </td>
+> <td>Majaelrayo.</td>
+> <td>Majaelrayo.</td>
+> <td>38,14 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Monasterio.</td>
-> <td class="cuerpo_tabla_izq">Monasterio.</td>
-> <td class="cuerpo_tabla_der">6,16 </td>
+> <td>Monasterio.</td>
+> <td>Monasterio.</td>
+> <td>6,16 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Navas de Jadraque, Las.</td>
-> <td class="cuerpo_tabla_izq">Navas de Jadraque, Las.</td>
-> <td class="cuerpo_tabla_der">8,73 </td>
+> <td>Navas de Jadraque, Las.</td>
+> <td>Navas de Jadraque, Las.</td>
+> <td>8,73 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Ordial, El.</td>
-> <td class="cuerpo_tabla_izq">Nava de Jadraque, La.</td>
-> <td class="cuerpo_tabla_der">14,51 </td>
+> <td>Ordial, El.</td>
+> <td>Nava de Jadraque, La.</td>
+> <td>14,51 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Ordial, El.</td>
-> <td class="cuerpo_tabla_izq">Ordial, El.</td>
-> <td class="cuerpo_tabla_der">10,98 </td>
+> <td>Ordial, El.</td>
+> <td>Ordial, El.</td>
+> <td>10,98 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Pradena de Atienza.</td>
-> <td class="cuerpo_tabla_izq">Pradena de Atienza.</td>
-> <td class="cuerpo_tabla_der">21,31 </td>
+> <td>Pradena de Atienza.</td>
+> <td>Pradena de Atienza.</td>
+> <td>21,31 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Puebla de Valles.</td>
-> <td class="cuerpo_tabla_izq">Puebla de Valles.</td>
-> <td class="cuerpo_tabla_der">10,45 </td>
+> <td>Puebla de Valles.</td>
+> <td>Puebla de Valles.</td>
+> <td>10,45 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Retiendas.</td>
-> <td class="cuerpo_tabla_izq">Retiendas.</td>
-> <td class="cuerpo_tabla_der">30,01 </td>
+> <td>Retiendas.</td>
+> <td>Retiendas.</td>
+> <td>30,01 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Semillas.</td>
-> <td class="cuerpo_tabla_izq">Semillas.</td>
-> <td class="cuerpo_tabla_der">13,05 </td>
+> <td>Semillas.</td>
+> <td>Semillas.</td>
+> <td>13,05 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Tamajon.</td>
-> <td class="cuerpo_tabla_izq">Palancares.</td>
-> <td class="cuerpo_tabla_der">12,60 </td>
+> <td>Tamajon.</td>
+> <td>Palancares.</td>
+> <td>12,60 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Tamajon.</td>
-> <td class="cuerpo_tabla_izq">Almiruete.</td>
-> <td class="cuerpo_tabla_der">17,10 </td>
+> <td>Tamajon.</td>
+> <td>Almiruete.</td>
+> <td>17,10 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Tamajon.</td>
-> <td class="cuerpo_tabla_izq">Muriel.</td>
-> <td class="cuerpo_tabla_der">7,75 </td>
+> <td>Tamajon.</td>
+> <td>Muriel.</td>
+> <td>7,75 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Tamajon.</td>
-> <td class="cuerpo_tabla_izq">Tamajon.</td>
-> <td class="cuerpo_tabla_der">2,86 </td>
+> <td>Tamajon.</td>
+> <td>Tamajon.</td>
+> <td>2,86 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Tortuero.</td>
-> <td class="cuerpo_tabla_izq">Tortuero.</td>
-> <td class="cuerpo_tabla_der">14,73 </td>
+> <td>Tortuero.</td>
+> <td>Tortuero.</td>
+> <td>14,73 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Valdepeñas de la Sierra.</td>
-> <td class="cuerpo_tabla_izq">Alpedrete de la Sierra.</td>
-> <td class="cuerpo_tabla_der">36,64 </td>
+> <td>Valdepeñas de la Sierra.</td>
+> <td>Alpedrete de la Sierra.</td>
+> <td>36,64 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Valdesotos.</td>
-> <td class="cuerpo_tabla_izq">Valdesotos.</td>
-> <td class="cuerpo_tabla_der">30,85 </td>
+> <td>Valdesotos.</td>
+> <td>Valdesotos.</td>
+> <td>30,85 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Valverde de los Arroyos.</td>
-> <td class="cuerpo_tabla_izq">Valverde de los Arroyos.</td>
-> <td class="cuerpo_tabla_der">125,64 </td>
+> <td>Valverde de los Arroyos.</td>
+> <td>Valverde de los Arroyos.</td>
+> <td>125,64 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Villares de Jadraque.</td>
-> <td class="cuerpo_tabla_izq">Villares de Jadraque.</td>
-> <td class="cuerpo_tabla_der">44,54 </td>
+> <td>Villares de Jadraque.</td>
+> <td>Villares de Jadraque.</td>
+> <td>44,54 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2"> Total superficie.</td>
-> <td class="cuerpo_tabla_der">1.311,37»</td>
+> <td colspan="2"> Total superficie.</td>
+> <td>1.311,37»</td>
 > </tr>
 > </tbody>
 > </table>

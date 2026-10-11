@@ -1795,92 +1795,92 @@ A efectos del cálculo de los costes de generación de liquidación de cada grup
 
 8\. De acuerdo con lo establecido en el apartado 6, el precio de los combustibles fósiles a efectos de despacho se obtendrá, desde la entrada en vigor del presente real decreto y hasta que sean sustituidos de acuerdo con lo establecido en esta disposición transitoria, a partir de los siguientes precios de producto y retribución por costes de logística:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Precios del producto €/Tm</p>
+<p>Precios del producto €/Tm</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Hulla</p>
+<p>Hulla</p>
 </td>
 <td>
-<p class="cabeza_tabla">Fuel Oil</p>
-<p class="cabeza_tabla">BIA 1% S</p>
-<p class="cabeza_tabla">/0,3 %S</p>
+<p>Fuel Oil</p>
+<p>BIA 1% S</p>
+<p>/0,3 %S</p>
 </td>
 <td>
-<p class="cabeza_tabla">Fuel Oil BIA 0,73% S</p>
+<p>Fuel Oil BIA 0,73% S</p>
 </td>
 <td>
-<p class="cabeza_tabla">Diésel Oil</p>
+<p>Diésel Oil</p>
 </td>
 <td>
-<p class="cabeza_tabla">Gasoil 0,1% S</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">CANARIAS</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">385,94</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">423,34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">560,98</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">601,03</p>
+<p>Gasoil 0,1% S</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">BALEARES</p>
+<p>CANARIAS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">57,33</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">394,08</p>
+<p>385,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>423,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>560,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">602,22</p>
+<p>601,03</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CEUTA Y MELILLA</p>
+<p>BALEARES</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>57,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">394,08</p>
+<p>394,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">564,40</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">602,22</p>
+<p>602,22</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CEUTA Y MELILLA</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>394,08</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>564,40</p>
+</td>
+<td>
+<p>602,22</p>
 </td>
 </tr>
 </table>
@@ -2097,281 +2097,281 @@ Las instalaciones tipo correspondientes a los grupos de generación categoría A
 
 3\. La correspondencia entre la clasificación por familias utilizada en la normativa anterior a la entrada en vigor de este real decreto realizada en función de la potencia bruta y su correspondiente clasificación por instalación tipo utilizada en este real decreto, es la establecida a continuación:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Clasificación por familias (Normativa anterior)</p>
+<p>Clasificación por familias (Normativa anterior)</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Correspondencia con instalación tipo</p>
+<p>Correspondencia con instalación tipo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Tecnología</p>
+<p>Tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Intervalo potencia bruta</p>
-<p class="cabeza_tabla">(MW)</p>
+<p>Intervalo potencia bruta</p>
+<p>(MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tecnología</p>
+<p>Tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Intervalo potencia neta</p>
-<p class="cabeza_tabla">(MW)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Potencia &lt;5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Potencia &lt;5</p>
+<p>Intervalo potencia neta</p>
+<p>(MW)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
+<p>Grupos Diésel - 2T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 14</p>
+<p>Potencia &lt;5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
+<p>Grupos Diésel - 2T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</p>
+<p>Potencia &lt;5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
+<p>Grupos Diésel - 2T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Potencia ≥ 24</p>
+<p>5 ≤ Potencia &lt; 14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 2T</p>
+<p>Grupos Diésel - 2T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Potencia ≥ 20</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Potencia&lt;2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Potencia&lt;2</p>
+<p>5 ≤ Potencia &lt; 12</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
+<p>Grupos Diésel - 2T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2≤Potencia &lt;5</p>
+<p>14 ≤ Potencia &lt; 24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
+<p>Grupos Diésel - 2T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2≤Potencia &lt;4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</p>
+<p>12 ≤ Potencia &lt; 20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
+<p>Grupos Diésel - 2T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</p>
+<p>Potencia ≥ 24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Grupos Diésel - 4T</p>
+<p>Grupos Diésel - 2T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Potencia &lt; 50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Potencia &lt; 50</p>
+<p>Potencia ≥ 20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+<p>Grupos Diésel - 4T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Potencia &lt; 15</p>
+<p>Potencia&lt;2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+<p>Grupos Diésel - 4T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Potencia &lt; 13</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">15≤Potencia &lt; 25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">13≤Potencia &lt; 25</p>
+<p>Potencia&lt;2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+<p>Grupos Diésel - 4T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">25≤Potencia &lt; 50</p>
+<p>2≤Potencia &lt;5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+<p>Grupos Diésel - 4T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">25≤Potencia &lt; 50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Potencia ≥ 50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Potencia ≥ 50</p>
+<p>2≤Potencia &lt;4</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</p>
+<p>Grupos Diésel - 4T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Potencia ≤ 40</p>
+<p>5 ≤ Potencia &lt; 14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</p>
+<p>Grupos Diésel - 4T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Potencia ≤ 40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</p>
+<p>4 ≤ Potencia &lt; 14</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</p>
+<p>Grupos Diésel - 4T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</p>
+<p>14 ≤ Potencia &lt; 24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</p>
+<p>Grupos Diésel - 4T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</p>
+<p>14 ≤ Potencia &lt; 24</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</p>
+<p>Turbinas de gas aeroderivadas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</p>
+<p>Potencia &lt; 50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</p>
+<p>Turbinas de gas aeroderivadas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</p>
+<p>Potencia &lt; 50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p>Potencia &lt; 15</p>
+</td>
+<td>
+<p>Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p>Potencia &lt; 13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p>15≤Potencia &lt; 25</p>
+</td>
+<td>
+<p>Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p>13≤Potencia &lt; 25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p>25≤Potencia &lt; 50</p>
+</td>
+<td>
+<p>Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p>25≤Potencia &lt; 50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p>Potencia ≥ 50</p>
+</td>
+<td>
+<p>Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p>Potencia ≥ 50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turbinas de Vapor de Fuel</p>
+</td>
+<td>
+<p>Potencia ≤ 40</p>
+</td>
+<td>
+<p>Turbinas de Vapor de Fuel</p>
+</td>
+<td>
+<p>Potencia ≤ 40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turbinas de Vapor de Fuel</p>
+</td>
+<td>
+<p>40 &lt; Potencia ≤ 60</p>
+</td>
+<td>
+<p>Turbinas de Vapor de Fuel</p>
+</td>
+<td>
+<p>40 &lt; Potencia ≤ 60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turbinas de Vapor de Fuel</p>
+</td>
+<td>
+<p>60 &lt; Potencia ≤ 80</p>
+</td>
+<td>
+<p>Turbinas de Vapor de Fuel</p>
+</td>
+<td>
+<p>60 &lt; Potencia ≤ 80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ciclo combinado configuración 2x1</p>
+</td>
+<td>
+<p>200 ≤ Potencia ≤ 250</p>
+</td>
+<td>
+<p>Ciclo combinado configuración 2x1</p>
+</td>
+<td>
+<p>200 ≤ Potencia ≤ 250</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ciclo combinado configuración 3x1</p>
+</td>
+<td>
+<p>200 ≤ Potencia ≤ 250</p>
+</td>
+<td>
+<p>Ciclo combinado configuración 3x1</p>
+</td>
+<td>
+<p>200 ≤ Potencia ≤ 250</p>
 </td>
 </tr>
 </table>
@@ -2704,40 +2704,40 @@ La vida útil regulatoria de la nueva inversión será la que se establezca en l
 
 1\. Los factores de estacionalidad que se aplicarán en cada territorio no peninsular, fest<sub>h</sub>, para cada periodo punta, llano y valle son los siguientes:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Período</th>
-<th class="cabeza_tabla" colspan="4">Factores de estacionalidad</th>
+<th rowspan="2">Período</th>
+<th colspan="4">Factores de estacionalidad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Baleares</th>
-<th class="cabeza_tabla">Canarias</th>
-<th class="cabeza_tabla">Ceuta</th>
-<th class="cabeza_tabla">Melilla</th>
+<th>Baleares</th>
+<th>Canarias</th>
+<th>Ceuta</th>
+<th>Melilla</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Punta</td>
-<td class="cuerpo_tabla_centro">1,15</td>
-<td class="cuerpo_tabla_centro">1,04</td>
-<td class="cuerpo_tabla_centro">1,04</td>
-<td class="cuerpo_tabla_centro">1,07</td>
+<td>Punta</td>
+<td>1,15</td>
+<td>1,04</td>
+<td>1,04</td>
+<td>1,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Llano</td>
-<td class="cuerpo_tabla_centro">1,00</td>
-<td class="cuerpo_tabla_centro">1,00</td>
-<td class="cuerpo_tabla_centro">1,00</td>
-<td class="cuerpo_tabla_centro">1,00</td>
+<td>Llano</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valle</td>
-<td class="cuerpo_tabla_centro">0,85</td>
-<td class="cuerpo_tabla_centro">0,96</td>
-<td class="cuerpo_tabla_centro">0,96</td>
-<td class="cuerpo_tabla_centro">0,93</td>
+<td>Valle</td>
+<td>0,85</td>
+<td>0,96</td>
+<td>0,96</td>
+<td>0,93</td>
 </tr>
 </tbody>
 </table>
@@ -2754,130 +2754,130 @@ La vida útil regulatoria de la nueva inversión será la que se establezca en l
 
 a) Los valores de las horas anuales de funcionamiento estándar de cada grupo, Hi, en función de la tecnología y tamaño son, excepto para el primer y último año de vida útil regulatoria del grupo i, las siguientes:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tecnología</th>
+<th rowspan="2">Tecnología</th>
 <th rowspan="2">
-<p class="cabeza_tabla">Potencia</p>
-<p class="cabeza_tabla">(MW)</p>
+<p>Potencia</p>
+<p>(MW)</p>
 </th>
-<th class="cabeza_tabla" colspan="2">Horas de disponibilidad</th>
+<th colspan="2">Horas de disponibilidad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Año no bisiesto</th>
-<th class="cabeza_tabla">Año bisiesto</th>
+<th>Año no bisiesto</th>
+<th>Año bisiesto</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
-<td class="cuerpo_tabla_centro">7.998</td>
-<td class="cuerpo_tabla_centro">8.020</td>
+<td rowspan="4">Grupos Diésel - 4T</td>
+<td>Potencia &lt; 2</td>
+<td>7.998</td>
+<td>8.020</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt;4</td>
-<td class="cuerpo_tabla_centro">7.998</td>
-<td class="cuerpo_tabla_centro">8.020</td>
+<td>2 ≤ Potencia &lt;4</td>
+<td>7.998</td>
+<td>8.020</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
-<td class="cuerpo_tabla_centro">7.709</td>
-<td class="cuerpo_tabla_centro">7.730</td>
+<td>4 ≤ Potencia &lt; 14</td>
+<td>7.709</td>
+<td>7.730</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
-<td class="cuerpo_tabla_centro">7.709</td>
-<td class="cuerpo_tabla_centro">7.730</td>
+<td>14 ≤ Potencia &lt; 24</td>
+<td>7.709</td>
+<td>7.730</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
-<td class="cuerpo_tabla_centro">7.709</td>
-<td class="cuerpo_tabla_centro">7.730</td>
+<td rowspan="4">Grupos Diésel - 2T</td>
+<td>Potencia &lt; 5</td>
+<td>7.709</td>
+<td>7.730</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
-<td class="cuerpo_tabla_centro">7.709</td>
-<td class="cuerpo_tabla_centro">7.730</td>
+<td>5 ≤ Potencia &lt; 12</td>
+<td>7.709</td>
+<td>7.730</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
-<td class="cuerpo_tabla_centro">7.709</td>
-<td class="cuerpo_tabla_centro">7.730</td>
+<td>12 ≤ Potencia &lt; 20</td>
+<td>7.709</td>
+<td>7.730</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
-<td class="cuerpo_tabla_centro">7.709</td>
-<td class="cuerpo_tabla_centro">7.730</td>
+<td>Potencia ≥ 20</td>
+<td>7.709</td>
+<td>7.730</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
-<td class="cuerpo_tabla_izq">&lt; 50</td>
-<td class="cuerpo_tabla_centro">7.709</td>
-<td class="cuerpo_tabla_centro">7.730</td>
+<td>Turbinas de gas aeroderivadas</td>
+<td>&lt; 50</td>
+<td>7.709</td>
+<td>7.730</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
-<td class="cuerpo_tabla_centro">8.252</td>
-<td class="cuerpo_tabla_centro">8.275</td>
+<td rowspan="4">Turbinas de gas heavy duty</td>
+<td>Potencia &lt; 13</td>
+<td>8.252</td>
+<td>8.275</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
-<td class="cuerpo_tabla_centro">8.252</td>
-<td class="cuerpo_tabla_centro">8.275</td>
+<td>13 ≤ Potencia &lt; 25</td>
+<td>8.252</td>
+<td>8.275</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
-<td class="cuerpo_tabla_centro">7.783</td>
-<td class="cuerpo_tabla_centro">7.805</td>
+<td>25 ≤ Potencia &lt; 50</td>
+<td>7.783</td>
+<td>7.805</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
-<td class="cuerpo_tabla_centro">8.046</td>
-<td class="cuerpo_tabla_centro">8.068</td>
+<td>Potencia ≥ 50</td>
+<td>8.046</td>
+<td>8.068</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Vapor Fuel</td>
-<td class="cuerpo_tabla_izq">≤ 40</td>
-<td class="cuerpo_tabla_centro">7.709</td>
-<td class="cuerpo_tabla_centro">7.730</td>
+<td rowspan="3">Vapor Fuel</td>
+<td>≤ 40</td>
+<td>7.709</td>
+<td>7.730</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">&gt; 40 y &lt; 60</td>
-<td class="cuerpo_tabla_centro">7.735</td>
-<td class="cuerpo_tabla_centro">7.756</td>
+<td>&gt; 40 y &lt; 60</td>
+<td>7.735</td>
+<td>7.756</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">≥ 60</td>
-<td class="cuerpo_tabla_centro">7.849</td>
-<td class="cuerpo_tabla_centro">7.870</td>
+<td>≥ 60</td>
+<td>7.849</td>
+<td>7.870</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado</td>
-<td class="cuerpo_tabla_izq" rowspan="2">≥ 200 y ≤ 250</td>
-<td class="cuerpo_tabla_centro" rowspan="2">8.050</td>
-<td class="cuerpo_tabla_centro" rowspan="2">8.072</td>
+<td>Ciclo combinado</td>
+<td rowspan="2">≥ 200 y ≤ 250</td>
+<td rowspan="2">8.050</td>
+<td rowspan="2">8.072</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">configuración 2x1</td>
+<td>configuración 2x1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado</td>
-<td class="cuerpo_tabla_izq" rowspan="2">≥ 200 y ≤ 250</td>
-<td class="cuerpo_tabla_centro" rowspan="2">7.709</td>
-<td class="cuerpo_tabla_centro" rowspan="2">7.730</td>
+<td>Ciclo combinado</td>
+<td rowspan="2">≥ 200 y ≤ 250</td>
+<td rowspan="2">7.709</td>
+<td rowspan="2">7.730</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">configuración 3x1</td>
+<td>configuración 3x1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vapor Carbón</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7.994</td>
-<td class="cuerpo_tabla_centro">8.016</td>
+<td>Vapor Carbón</td>
+<td> </td>
+<td>7.994</td>
+<td>8.016</td>
 </tr>
 </tbody>
 </table>
@@ -3528,168 +3528,168 @@ El valor de la anualidad de la retribución por inversión (CIn) para el año 20
 | RO2-0186 | LLANOS BLANCOS 17, DIÉSEL 15 | 0,325 |
 | RO3-0018 | EL MULATO, HIDRÁULICA 1 | 0,015 |
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.º Registro</th>
-<th class="cabeza_tabla">Denominación oficial</th>
-<th class="cabeza_tabla">CIn 2015(desde la entrada en vigor del RD)M€</th>
+<th>N.º Registro</th>
+<th>Denominación oficial</th>
+<th>CIn 2015(desde la entrada en vigor del RD)M€</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0020</td>
-<td class="cuerpo_tabla_izq">MELILLA 5, G-5</td>
-<td class="cuerpo_tabla_der">0,000</td>
+<td>RO2-0020</td>
+<td>MELILLA 5, G-5</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0021</td>
-<td class="cuerpo_tabla_izq">MELILLA 6, G-6</td>
-<td class="cuerpo_tabla_der">0,000</td>
+<td>RO2-0021</td>
+<td>MELILLA 6, G-6</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0024</td>
-<td class="cuerpo_tabla_izq">MELILLA 9, G-9</td>
-<td class="cuerpo_tabla_der">0,378</td>
+<td>RO2-0024</td>
+<td>MELILLA 9, G-9</td>
+<td>0,378</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0025</td>
-<td class="cuerpo_tabla_izq">MELILLA 10, G-10</td>
-<td class="cuerpo_tabla_der">0,991</td>
+<td>RO2-0025</td>
+<td>MELILLA 10, G-10</td>
+<td>0,991</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0175</td>
-<td class="cuerpo_tabla_izq">MELILLA 11, DIÉSEL 10</td>
-<td class="cuerpo_tabla_der">1,331</td>
+<td>RO2-0175</td>
+<td>MELILLA 11, DIÉSEL 10</td>
+<td>1,331</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">MELILLA G. Electrógenos (*)</td>
-<td class="cuerpo_tabla_izq">MELILLA G. Electrógenos (*)</td>
-<td class="cuerpo_tabla_der">1,464</td>
+<td>MELILLA G. Electrógenos (*)</td>
+<td>MELILLA G. Electrógenos (*)</td>
+<td>1,464</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0180</td>
-<td class="cuerpo_tabla_izq">MELILLA G-12</td>
-<td class="cuerpo_tabla_der">2,207</td>
+<td>RO2-0180</td>
+<td>MELILLA G-12</td>
+<td>2,207</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0185</td>
-<td class="cuerpo_tabla_izq">MELILLA 13</td>
-<td class="cuerpo_tabla_der">2,263</td>
+<td>RO2-0185</td>
+<td>MELILLA 13</td>
+<td>2,263</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0011</td>
-<td class="cuerpo_tabla_izq">CEUTA 1, G-1</td>
-<td class="cuerpo_tabla_der">0,000</td>
+<td>RO2-0011</td>
+<td>CEUTA 1, G-1</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0026</td>
-<td class="cuerpo_tabla_izq">CEUTA 2, G-2</td>
-<td class="cuerpo_tabla_der">0,000</td>
+<td>RO2-0026</td>
+<td>CEUTA 2, G-2</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0015</td>
-<td class="cuerpo_tabla_izq">CEUTA 6, G-6</td>
-<td class="cuerpo_tabla_der">0,000</td>
+<td>RO2-0015</td>
+<td>CEUTA 6, G-6</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0016</td>
-<td class="cuerpo_tabla_izq">CEUTA 7, G-7</td>
-<td class="cuerpo_tabla_der">0,265</td>
+<td>RO2-0016</td>
+<td>CEUTA 7, G-7</td>
+<td>0,265</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0177</td>
-<td class="cuerpo_tabla_izq">CEUTA 8, G-8</td>
-<td class="cuerpo_tabla_der">0,381</td>
+<td>RO2-0177</td>
+<td>CEUTA 8, G-8</td>
+<td>0,381</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0178</td>
-<td class="cuerpo_tabla_izq">CEUTA 9, G-9</td>
-<td class="cuerpo_tabla_der">1,302</td>
+<td>RO2-0178</td>
+<td>CEUTA 9, G-9</td>
+<td>1,302</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0181</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 10</td>
-<td class="cuerpo_tabla_der">2,066</td>
+<td>RO2-0181</td>
+<td>CEUTA, GRUPO 10</td>
+<td>2,066</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0184</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 11</td>
-<td class="cuerpo_tabla_der">2,264</td>
+<td>RO2-0184</td>
+<td>CEUTA, GRUPO 11</td>
+<td>2,264</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0204</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 12</td>
-<td class="cuerpo_tabla_der">1,446</td>
+<td>RO2-0204</td>
+<td>CEUTA, GRUPO 12</td>
+<td>1,446</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0206</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 13</td>
-<td class="cuerpo_tabla_der">2,483</td>
+<td>RO2-0206</td>
+<td>CEUTA, GRUPO 13</td>
+<td>2,483</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DENTRO DE MELILLA G. Electrógenos (*) están los siguientes grupos:</td>
-<td class="cuerpo_tabla_der" colspan="2"> </td>
+<td>DENTRO DE MELILLA G. Electrógenos (*) están los siguientes grupos:</td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0027</td>
-<td class="cuerpo_tabla_izq">MELILLA 12, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0027</td>
+<td>MELILLA 12, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0028</td>
-<td class="cuerpo_tabla_izq">MELILLA 13, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0028</td>
+<td>MELILLA 13, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0029</td>
-<td class="cuerpo_tabla_izq">MELILLA 14, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0029</td>
+<td>MELILLA 14, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0030</td>
-<td class="cuerpo_tabla_izq">MELILLA 15, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0030</td>
+<td>MELILLA 15, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0031</td>
-<td class="cuerpo_tabla_izq">MELILLA 16, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0031</td>
+<td>MELILLA 16, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0032</td>
-<td class="cuerpo_tabla_izq">MELILLA 17, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0032</td>
+<td>MELILLA 17, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0033</td>
-<td class="cuerpo_tabla_izq">MELILLA 18, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0033</td>
+<td>MELILLA 18, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0034</td>
-<td class="cuerpo_tabla_izq">MELILLA 19, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0034</td>
+<td>MELILLA 19, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0035</td>
-<td class="cuerpo_tabla_izq">MELILLA 20, G. ELECTRÓGENO (ANTES CEUTA 10)</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0035</td>
+<td>MELILLA 20, G. ELECTRÓGENO (ANTES CEUTA 10)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0036</td>
-<td class="cuerpo_tabla_izq">MELILLA 21, G. ELECTRÓGENO (ANTES CEUTA 11)</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0036</td>
+<td>MELILLA 21, G. ELECTRÓGENO (ANTES CEUTA 11)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0037</td>
-<td class="cuerpo_tabla_izq">MELILLA 22, G. ELECTRÓGENO (ANTES CEUTA 12)</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0037</td>
+<td>MELILLA 22, G. ELECTRÓGENO (ANTES CEUTA 12)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0038</td>
-<td class="cuerpo_tabla_izq">MELILLA 23, G. ELECTRÓGENO (ANTES CEUTA 13)</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0038</td>
+<td>MELILLA 23, G. ELECTRÓGENO (ANTES CEUTA 13)</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -3708,57 +3708,57 @@ k y l: parámetros que se calcularán de acuerdo con lo previsto a continuación
 
 Los valores de k y l aplicables a Baleares se muestran en la tabla siguiente:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Inversión unitaria (por kW neto) Tipo de planta</th>
+<th colspan="3">Inversión unitaria (por kW neto) Tipo de planta</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Parámetros</th>
-<th class="cabeza_tabla">k</th>
-<th class="cabeza_tabla">l</th>
+<th>Parámetros</th>
+<th>k</th>
+<th>l</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Turbina de gas aeroderivada.</td>
-<td class="cuerpo_tabla_centro">1551,10</td>
-<td class="cuerpo_tabla_centro">-0,2099</td>
+<td>Turbina de gas aeroderivada.</td>
+<td>1551,10</td>
+<td>-0,2099</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbina de gas ciclo simple. Heavy Duty</td>
-<td class="cuerpo_tabla_centro">1314,65</td>
-<td class="cuerpo_tabla_centro">-0,1774</td>
+<td>Turbina de gas ciclo simple. Heavy Duty</td>
+<td>1314,65</td>
+<td>-0,1774</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado 1TG+1TV</td>
-<td class="cuerpo_tabla_centro">1669,17</td>
-<td class="cuerpo_tabla_centro">-0,1337</td>
+<td>Ciclo combinado 1TG+1TV</td>
+<td>1669,17</td>
+<td>-0,1337</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado 2TG+1TV</td>
-<td class="cuerpo_tabla_centro">997,14</td>
-<td class="cuerpo_tabla_centro">-0,0204</td>
+<td>Ciclo combinado 2TG+1TV</td>
+<td>997,14</td>
+<td>-0,0204</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado 3TG+1TV</td>
-<td class="cuerpo_tabla_centro">1105,08</td>
-<td class="cuerpo_tabla_centro">-0,0428</td>
+<td>Ciclo combinado 3TG+1TV</td>
+<td>1105,08</td>
+<td>-0,0428</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Motores diésel 4T</td>
-<td class="cuerpo_tabla_centro">2389,69</td>
-<td class="cuerpo_tabla_centro">-0,2264</td>
+<td>Motores diésel 4T</td>
+<td>2389,69</td>
+<td>-0,2264</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Motores diésel 2T</td>
-<td class="cuerpo_tabla_centro">2328,76</td>
-<td class="cuerpo_tabla_centro">-0,2244</td>
+<td>Motores diésel 2T</td>
+<td>2328,76</td>
+<td>-0,2244</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vapor Carbón</td>
-<td class="cuerpo_tabla_centro">3439,22</td>
-<td class="cuerpo_tabla_centro">-0,2090</td>
+<td>Vapor Carbón</td>
+<td>3439,22</td>
+<td>-0,2090</td>
 </tr>
 </tbody>
 </table>
@@ -3769,371 +3769,371 @@ El parámetro «k» aplicable a Canarias tomará el valor de la tabla de Baleare
 
 3\. Valores unitarios de la anualidad de operación y mantenimiento fijos de las instalaciones tipo.
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="5">Valores unitarios de la anualidad de operación y mantenimiento fijos Euros/MW</th>
+<th colspan="5">Valores unitarios de la anualidad de operación y mantenimiento fijos Euros/MW</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Tecnología</th>
-<th class="cabeza_tabla">Potencia Neta (MW)</th>
-<th class="cabeza_tabla">Baleares</th>
-<th class="cabeza_tabla">Canarias</th>
-<th class="cabeza_tabla">Ceuta y Melilla</th>
+<th>Tecnología</th>
+<th>Potencia Neta (MW)</th>
+<th>Baleares</th>
+<th>Canarias</th>
+<th>Ceuta y Melilla</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
-<td class="cuerpo_tabla_centro">78.584</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">90.083</td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia &lt; 5</td>
+<td>78.584</td>
+<td> </td>
+<td>90.083</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
-<td class="cuerpo_tabla_centro">55.125</td>
-<td class="cuerpo_tabla_centro">63.190</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>5 ≤ Potencia &lt; 12</td>
+<td>55.125</td>
+<td>63.190</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
-<td class="cuerpo_tabla_centro">46.559</td>
-<td class="cuerpo_tabla_centro">53.371</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>12 ≤ Potencia &lt; 20</td>
+<td>46.559</td>
+<td>53.371</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
-<td class="cuerpo_tabla_centro">55.299</td>
-<td class="cuerpo_tabla_centro">63.389</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia ≥ 20</td>
+<td>55.299</td>
+<td>63.389</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">141.808</td>
-<td class="cuerpo_tabla_centro">141.808</td>
+<td>Grupos Diésel - 4T</td>
+<td>Potencia &lt; 2</td>
+<td> </td>
+<td>141.808</td>
+<td>141.808</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">141.808</td>
-<td class="cuerpo_tabla_centro">141.808</td>
+<td>Grupos Diésel - 4T</td>
+<td>2 ≤ Potencia &lt; 4</td>
+<td> </td>
+<td>141.808</td>
+<td>141.808</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">116.391</td>
-<td class="cuerpo_tabla_centro">116.391</td>
+<td>Grupos Diésel - 4T</td>
+<td>4 ≤ Potencia &lt; 14</td>
+<td> </td>
+<td>116.391</td>
+<td>116.391</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
-<td class="cuerpo_tabla_centro">66.778</td>
-<td class="cuerpo_tabla_centro">76.550</td>
-<td class="cuerpo_tabla_centro">76.550</td>
+<td>Grupos Diésel - 4T</td>
+<td>14 ≤ Potencia &lt; 24</td>
+<td>66.778</td>
+<td>76.550</td>
+<td>76.550</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
-<td class="cuerpo_tabla_centro">21.540</td>
-<td class="cuerpo_tabla_centro">24.693</td>
-<td class="cuerpo_tabla_centro">24.693</td>
+<td>Turbinas de gas aeroderivadas</td>
+<td>Potencia &lt; 50</td>
+<td>21.540</td>
+<td>24.693</td>
+<td>24.693</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
-<td class="cuerpo_tabla_centro">36.194</td>
-<td class="cuerpo_tabla_centro">41.491</td>
-<td class="cuerpo_tabla_centro">41.491</td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia &lt; 13</td>
+<td>36.194</td>
+<td>41.491</td>
+<td>41.491</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
-<td class="cuerpo_tabla_centro">27.633</td>
-<td class="cuerpo_tabla_centro">31.678</td>
-<td class="cuerpo_tabla_centro">31.678</td>
+<td>Turbinas de gas heavy duty</td>
+<td>13 ≤ Potencia &lt; 25</td>
+<td>27.633</td>
+<td>31.678</td>
+<td>31.678</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
-<td class="cuerpo_tabla_centro">19.072</td>
-<td class="cuerpo_tabla_centro">21.864</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>25 ≤ Potencia &lt; 50</td>
+<td>19.072</td>
+<td>21.864</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
-<td class="cuerpo_tabla_centro">13.017</td>
-<td class="cuerpo_tabla_centro">14.923</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia ≥ 50</td>
+<td>13.017</td>
+<td>14.923</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">46.065</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de vapor de Carbón</td>
+<td> </td>
+<td>46.065</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
-<td class="cuerpo_tabla_centro">21.698</td>
-<td class="cuerpo_tabla_centro">24.873</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>Potencia ≤ 40</td>
+<td>21.698</td>
+<td>24.873</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">23.139</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>40 &lt; Potencia ≤ 60</td>
+<td> </td>
+<td>23.139</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">21.941</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>60 &lt; Potencia ≤ 80</td>
+<td> </td>
+<td>21.941</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_centro">32.717</td>
-<td class="cuerpo_tabla_centro">37.503</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Ciclo combinado configuración 2x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td>32.717</td>
+<td>37.503</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
-<td class="cuerpo_tabla_izq">201 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_centro">32.717</td>
-<td class="cuerpo_tabla_centro">37.503</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Ciclo combinado configuración 3x1</td>
+<td>201 ≤ Potencia ≤ 250</td>
+<td>32.717</td>
+<td>37.503</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hidráulica</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">129.857</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Hidráulica</td>
+<td> </td>
+<td> </td>
+<td>129.857</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
 4\. Valores de los parámetros a, b y c de la retribución por costes variables de funcionamiento de las instalaciones tipo aplicables durante el primer periodo regulatorio.
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="8">Parámetros Técnicos de liquidación por instalación tipo</th>
+<th colspan="8">Parámetros Técnicos de liquidación por instalación tipo</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Tecnología</th>
-<th class="cabeza_tabla">Potencia Neta (MW)</th>
-<th class="cabeza_tabla">Baleares</th>
-<th class="cabeza_tabla">Canarias</th>
-<th class="cabeza_tabla">Ceuta y Melilla</th>
-<th class="cabeza_tabla">a (th/h)</th>
-<th class="cabeza_tabla">b (th/h MW)</th>
-<th class="cabeza_tabla">c (th/h MW2)</th>
+<th>Tecnología</th>
+<th>Potencia Neta (MW)</th>
+<th>Baleares</th>
+<th>Canarias</th>
+<th>Ceuta y Melilla</th>
+<th>a (th/h)</th>
+<th>b (th/h MW)</th>
+<th>c (th/h MW2)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
-<td class="cuerpo_tabla_centro">IT-0001</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">IT-0100</td>
-<td class="cuerpo_tabla_der">-</td>
-<td class="cuerpo_tabla_der">-</td>
-<td class="cuerpo_tabla_der">-</td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia &lt; 5</td>
+<td>IT-0001</td>
+<td> </td>
+<td>IT-0100</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
-<td class="cuerpo_tabla_centro">IT-0002</td>
-<td class="cuerpo_tabla_centro">IT-0050</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der">1.241,03</td>
-<td class="cuerpo_tabla_der">2.481,86</td>
-<td class="cuerpo_tabla_der">6,25</td>
+<td>Grupos Diésel - 2T</td>
+<td>5 ≤ Potencia &lt; 12</td>
+<td>IT-0002</td>
+<td>IT-0050</td>
+<td> </td>
+<td>1.241,03</td>
+<td>2.481,86</td>
+<td>6,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
-<td class="cuerpo_tabla_centro">IT-0003</td>
-<td class="cuerpo_tabla_centro">IT-0051</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der">5.451,19</td>
-<td class="cuerpo_tabla_der">1.365,72</td>
-<td class="cuerpo_tabla_der">26,86</td>
+<td>Grupos Diésel - 2T</td>
+<td>12 ≤ Potencia &lt; 20</td>
+<td>IT-0003</td>
+<td>IT-0051</td>
+<td> </td>
+<td>5.451,19</td>
+<td>1.365,72</td>
+<td>26,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
-<td class="cuerpo_tabla_centro">IT-0004</td>
-<td class="cuerpo_tabla_centro">IT-0052</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der">7.252,84</td>
-<td class="cuerpo_tabla_der">1.411,93</td>
-<td class="cuerpo_tabla_der">14,34</td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia ≥ 20</td>
+<td>IT-0004</td>
+<td>IT-0052</td>
+<td> </td>
+<td>7.252,84</td>
+<td>1.411,93</td>
+<td>14,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">IT-0053</td>
-<td class="cuerpo_tabla_centro">IT-0101</td>
-<td class="cuerpo_tabla_der">397,36</td>
-<td class="cuerpo_tabla_der">2.185,37</td>
-<td class="cuerpo_tabla_der">-64,59</td>
+<td>Grupos Diésel - 4T</td>
+<td>Potencia &lt; 2</td>
+<td> </td>
+<td>IT-0053</td>
+<td>IT-0101</td>
+<td>397,36</td>
+<td>2.185,37</td>
+<td>-64,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">IT-0054</td>
-<td class="cuerpo_tabla_centro">IT-0102</td>
-<td class="cuerpo_tabla_der">857,50</td>
-<td class="cuerpo_tabla_der">1.604,48</td>
-<td class="cuerpo_tabla_der">170,53</td>
+<td>Grupos Diésel - 4T</td>
+<td>2 ≤ Potencia &lt; 4</td>
+<td> </td>
+<td>IT-0054</td>
+<td>IT-0102</td>
+<td>857,50</td>
+<td>1.604,48</td>
+<td>170,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">IT-0055</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_der">865,67</td>
-<td class="cuerpo_tabla_der">2.391,77</td>
-<td class="cuerpo_tabla_der">12,09</td>
+<td>Grupos Diésel - 4T</td>
+<td>4 ≤ Potencia &lt; 14</td>
+<td> </td>
+<td>IT-0055</td>
+<td>IT-0103</td>
+<td>865,67</td>
+<td>2.391,77</td>
+<td>12,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
-<td class="cuerpo_tabla_centro">IT-0005</td>
-<td class="cuerpo_tabla_centro">IT-0056</td>
-<td class="cuerpo_tabla_centro">IT-0104</td>
-<td class="cuerpo_tabla_der">9.097,35</td>
-<td class="cuerpo_tabla_der">1.092,29</td>
-<td class="cuerpo_tabla_der">34,33</td>
+<td>Grupos Diésel - 4T</td>
+<td>14 ≤ Potencia &lt; 24</td>
+<td>IT-0005</td>
+<td>IT-0056</td>
+<td>IT-0104</td>
+<td>9.097,35</td>
+<td>1.092,29</td>
+<td>34,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
-<td class="cuerpo_tabla_centro">IT-0006</td>
-<td class="cuerpo_tabla_centro">IT-0057</td>
-<td class="cuerpo_tabla_centro">IT-0105</td>
-<td class="cuerpo_tabla_der">8.819,01</td>
-<td class="cuerpo_tabla_der">2.167,21</td>
-<td class="cuerpo_tabla_der">1,15</td>
+<td>Turbinas de gas aeroderivadas</td>
+<td>Potencia &lt; 50</td>
+<td>IT-0006</td>
+<td>IT-0057</td>
+<td>IT-0105</td>
+<td>8.819,01</td>
+<td>2.167,21</td>
+<td>1,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
-<td class="cuerpo_tabla_centro">IT-0007</td>
-<td class="cuerpo_tabla_centro">IT-0058</td>
-<td class="cuerpo_tabla_centro">IT-0106</td>
-<td class="cuerpo_tabla_der">15.572,02</td>
-<td class="cuerpo_tabla_der">2.938,40</td>
-<td class="cuerpo_tabla_der">-4,91</td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia &lt; 13</td>
+<td>IT-0007</td>
+<td>IT-0058</td>
+<td>IT-0106</td>
+<td>15.572,02</td>
+<td>2.938,40</td>
+<td>-4,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
-<td class="cuerpo_tabla_centro">IT-0008</td>
-<td class="cuerpo_tabla_centro">IT-0059</td>
-<td class="cuerpo_tabla_centro">IT-0107</td>
-<td class="cuerpo_tabla_der">15.342,72</td>
-<td class="cuerpo_tabla_der">3.315,69</td>
-<td class="cuerpo_tabla_der">-19,28</td>
+<td>Turbinas de gas heavy duty</td>
+<td>13 ≤ Potencia &lt; 25</td>
+<td>IT-0008</td>
+<td>IT-0059</td>
+<td>IT-0107</td>
+<td>15.342,72</td>
+<td>3.315,69</td>
+<td>-19,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
-<td class="cuerpo_tabla_centro">IT-0009</td>
-<td class="cuerpo_tabla_centro">IT-0060</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der">28.793,99</td>
-<td class="cuerpo_tabla_der">2.020,42</td>
-<td class="cuerpo_tabla_der">5,56</td>
+<td>Turbinas de gas heavy duty</td>
+<td>25 ≤ Potencia &lt; 50</td>
+<td>IT-0009</td>
+<td>IT-0060</td>
+<td> </td>
+<td>28.793,99</td>
+<td>2.020,42</td>
+<td>5,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
-<td class="cuerpo_tabla_centro">IT-0010</td>
-<td class="cuerpo_tabla_centro">IT-0061</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der">57.544,53</td>
-<td class="cuerpo_tabla_der">1.912,30</td>
-<td class="cuerpo_tabla_der">0,42</td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia ≥ 50</td>
+<td>IT-0010</td>
+<td>IT-0061</td>
+<td> </td>
+<td>57.544,53</td>
+<td>1.912,30</td>
+<td>0,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">IT-0011</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der">33.654,30</td>
-<td class="cuerpo_tabla_der">2.070,44</td>
-<td class="cuerpo_tabla_der">1,35</td>
+<td>Turbinas de vapor de Carbón</td>
+<td> </td>
+<td>IT-0011</td>
+<td> </td>
+<td> </td>
+<td>33.654,30</td>
+<td>2.070,44</td>
+<td>1,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
-<td class="cuerpo_tabla_centro">IT-0012</td>
-<td class="cuerpo_tabla_centro">IT-0062</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der">8.336,26</td>
-<td class="cuerpo_tabla_der">2.795,35</td>
-<td class="cuerpo_tabla_der">0,80</td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>Potencia ≤ 40</td>
+<td>IT-0012</td>
+<td>IT-0062</td>
+<td> </td>
+<td>8.336,26</td>
+<td>2.795,35</td>
+<td>0,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">IT-0063</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der">12.852,80</td>
-<td class="cuerpo_tabla_der">2.622,14</td>
-<td class="cuerpo_tabla_der">0,40</td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>40 &lt; Potencia ≤ 60</td>
+<td> </td>
+<td>IT-0063</td>
+<td> </td>
+<td>12.852,80</td>
+<td>2.622,14</td>
+<td>0,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">IT-0064</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der">20.839,77</td>
-<td class="cuerpo_tabla_der">2.131,14</td>
-<td class="cuerpo_tabla_der">0,37</td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>60 &lt; Potencia ≤ 80</td>
+<td> </td>
+<td>IT-0064</td>
+<td> </td>
+<td>20.839,77</td>
+<td>2.131,14</td>
+<td>0,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_centro">IT-0013</td>
-<td class="cuerpo_tabla_centro">IT-0065</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der">81.214,70</td>
-<td class="cuerpo_tabla_der">830,13</td>
-<td class="cuerpo_tabla_der">3,46</td>
+<td>Ciclo combinado configuración 2x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td>IT-0013</td>
+<td>IT-0065</td>
+<td> </td>
+<td>81.214,70</td>
+<td>830,13</td>
+<td>3,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_centro">IT-0014</td>
-<td class="cuerpo_tabla_centro">IT-0066</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der">22.107,64</td>
-<td class="cuerpo_tabla_der">1.821,55</td>
-<td class="cuerpo_tabla_der">1,02</td>
+<td>Ciclo combinado configuración 3x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td>IT-0014</td>
+<td>IT-0066</td>
+<td> </td>
+<td>22.107,64</td>
+<td>1.821,55</td>
+<td>1,02</td>
 </tr>
 </tbody>
 </table>
@@ -4237,3117 +4237,3117 @@ El parámetro «d» de las instalaciones tipo, a aplicar para el cálculo de la 
 
 SISTEMA ELÉCTRICO BALEAR
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="3">Número de Registro</th>
-<th class="cabeza_tabla" rowspan="3">Denominación Central</th>
-<th class="cabeza_tabla" rowspan="3">Potencia Neta</th>
-<th class="cabeza_tabla" rowspan="3">Mínimo Técnico declarado</th>
-<th class="cabeza_tabla" rowspan="3">Fecha de alta</th>
-<th class="cabeza_tabla" rowspan="3">Combustible a efectos de este Real Decreto</th>
-<th class="cabeza_tabla" rowspan="3">Instalación Tipo</th>
-<th class="cabeza_tabla" colspan="3">Datos técnicos de despacho</th>
-<th class="cabeza_tabla" colspan="3">Datos de despacho</th>
-<th class="cabeza_tabla">Datos económicos</th>
+<th rowspan="3">Número de Registro</th>
+<th rowspan="3">Denominación Central</th>
+<th rowspan="3">Potencia Neta</th>
+<th rowspan="3">Mínimo Técnico declarado</th>
+<th rowspan="3">Fecha de alta</th>
+<th rowspan="3">Combustible a efectos de este Real Decreto</th>
+<th rowspan="3">Instalación Tipo</th>
+<th colspan="3">Datos técnicos de despacho</th>
+<th colspan="3">Datos de despacho</th>
+<th>Datos económicos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="3">Costes de funcionamiento</th>
-<th class="cabeza_tabla" colspan="3">Costes arranque</th>
-<th class="cabeza_tabla">Costes variables de operación y mantenimiento despacho</th>
+<th colspan="3">Costes de funcionamiento</th>
+<th colspan="3">Costes arranque</th>
+<th>Costes variables de operación y mantenimiento despacho</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">A (th/h)</th>
-<th class="cabeza_tabla">B (th/h.MW)</th>
-<th class="cabeza_tabla">C (th/h.MW2)</th>
-<th class="cabeza_tabla">A' (th)</th>
-<th class="cabeza_tabla">B' (horas)</th>
-<th class="cabeza_tabla">D (€/arranque)</th>
-<th class="cabeza_tabla">O&amp;MVDi (€/MWh )</th>
+<th>A (th/h)</th>
+<th>B (th/h.MW)</th>
+<th>C (th/h.MW2)</th>
+<th>A' (th)</th>
+<th>B' (horas)</th>
+<th>D (€/arranque)</th>
+<th>O&amp;MVDi (€/MWh )</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">RO1-1064</td>
-<td class="cuerpo_tabla_centro">ALCUDIA 1, GRUPO N.º 1</td>
-<td class="cuerpo_tabla_centro">113,6</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">14/12/1981</td>
-<td class="cuerpo_tabla_centro">Carbón</td>
-<td class="cuerpo_tabla_centro">IT-0011</td>
-<td class="cuerpo_tabla_centro">36.092,34</td>
-<td class="cuerpo_tabla_centro">1.964,27</td>
-<td class="cuerpo_tabla_centro">2,77</td>
-<td class="cuerpo_tabla_centro">1.105.780,00</td>
-<td class="cuerpo_tabla_centro">3,21123</td>
-<td class="cuerpo_tabla_centro">16.080,42</td>
-<td class="cuerpo_tabla_centro">4,91924258</td>
+<td>RO1-1064</td>
+<td>ALCUDIA 1, GRUPO N.º 1</td>
+<td>113,6</td>
+<td>80</td>
+<td>14/12/1981</td>
+<td>Carbón</td>
+<td>IT-0011</td>
+<td>36.092,34</td>
+<td>1.964,27</td>
+<td>2,77</td>
+<td>1.105.780,00</td>
+<td>3,21123</td>
+<td>16.080,42</td>
+<td>4,91924258</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO1-1065</td>
-<td class="cuerpo_tabla_centro">ALCUDIA 2, GRUPO N.º 2</td>
-<td class="cuerpo_tabla_centro">113,6</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">01/08/1982</td>
-<td class="cuerpo_tabla_centro">Carbón</td>
-<td class="cuerpo_tabla_centro">IT-0011</td>
-<td class="cuerpo_tabla_centro">36.092,34</td>
-<td class="cuerpo_tabla_centro">1.964,27</td>
-<td class="cuerpo_tabla_centro">2,77</td>
-<td class="cuerpo_tabla_centro">1.105.780,00</td>
-<td class="cuerpo_tabla_centro">3,21123</td>
-<td class="cuerpo_tabla_centro">16.080,42</td>
-<td class="cuerpo_tabla_centro">4,938504832</td>
+<td>RO1-1065</td>
+<td>ALCUDIA 2, GRUPO N.º 2</td>
+<td>113,6</td>
+<td>80</td>
+<td>01/08/1982</td>
+<td>Carbón</td>
+<td>IT-0011</td>
+<td>36.092,34</td>
+<td>1.964,27</td>
+<td>2,77</td>
+<td>1.105.780,00</td>
+<td>3,21123</td>
+<td>16.080,42</td>
+<td>4,938504832</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0057</td>
-<td class="cuerpo_tabla_centro">ALCUDIA 3, TURBINA DE GAS N.º 1</td>
-<td class="cuerpo_tabla_centro">32,7</td>
-<td class="cuerpo_tabla_centro">6,74</td>
-<td class="cuerpo_tabla_centro">01/02/1989</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0009</td>
-<td class="cuerpo_tabla_centro">31.391,05</td>
-<td class="cuerpo_tabla_centro">1.773,42</td>
-<td class="cuerpo_tabla_centro">11,58</td>
-<td class="cuerpo_tabla_centro">10094,784</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3.669,61</td>
-<td class="cuerpo_tabla_centro">23,09556429</td>
+<td>RO2-0057</td>
+<td>ALCUDIA 3, TURBINA DE GAS N.º 1</td>
+<td>32,7</td>
+<td>6,74</td>
+<td>01/02/1989</td>
+<td>Gasoil</td>
+<td>IT-0009</td>
+<td>31.391,05</td>
+<td>1.773,42</td>
+<td>11,58</td>
+<td>10094,784</td>
+<td>0,21715</td>
+<td>3.669,61</td>
+<td>23,09556429</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0058</td>
-<td class="cuerpo_tabla_centro">ALCUDIA 4, TURBINA DE GAS N.º 2</td>
-<td class="cuerpo_tabla_centro">32,7</td>
-<td class="cuerpo_tabla_centro">6,74</td>
-<td class="cuerpo_tabla_centro">10/02/1989</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0009</td>
-<td class="cuerpo_tabla_centro">31.391,05</td>
-<td class="cuerpo_tabla_centro">1.773,42</td>
-<td class="cuerpo_tabla_centro">11,58</td>
-<td class="cuerpo_tabla_centro">10094,784</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3.669,61</td>
-<td class="cuerpo_tabla_centro">24,41538686</td>
+<td>RO2-0058</td>
+<td>ALCUDIA 4, TURBINA DE GAS N.º 2</td>
+<td>32,7</td>
+<td>6,74</td>
+<td>10/02/1989</td>
+<td>Gasoil</td>
+<td>IT-0009</td>
+<td>31.391,05</td>
+<td>1.773,42</td>
+<td>11,58</td>
+<td>10094,784</td>
+<td>0,21715</td>
+<td>3.669,61</td>
+<td>24,41538686</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO1-1066</td>
-<td class="cuerpo_tabla_centro">ALCUDIA 5, GRUPO N.º 3</td>
-<td class="cuerpo_tabla_centro">120,6</td>
-<td class="cuerpo_tabla_centro">73</td>
-<td class="cuerpo_tabla_centro">01/08/1997</td>
-<td class="cuerpo_tabla_centro">Carbón</td>
-<td class="cuerpo_tabla_centro">IT-0011</td>
-<td class="cuerpo_tabla_centro">39.925,73</td>
-<td class="cuerpo_tabla_centro">1.964,27</td>
-<td class="cuerpo_tabla_centro">1,62</td>
-<td class="cuerpo_tabla_centro">1.256.007,40</td>
-<td class="cuerpo_tabla_centro">8,67612</td>
-<td class="cuerpo_tabla_centro">16.080,42</td>
-<td class="cuerpo_tabla_centro">4,815865758</td>
+<td>RO1-1066</td>
+<td>ALCUDIA 5, GRUPO N.º 3</td>
+<td>120,6</td>
+<td>73</td>
+<td>01/08/1997</td>
+<td>Carbón</td>
+<td>IT-0011</td>
+<td>39.925,73</td>
+<td>1.964,27</td>
+<td>1,62</td>
+<td>1.256.007,40</td>
+<td>8,67612</td>
+<td>16.080,42</td>
+<td>4,815865758</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO1-1067</td>
-<td class="cuerpo_tabla_centro">ALCUDIA 6, GRUPO N.º 4</td>
-<td class="cuerpo_tabla_centro">120,6</td>
-<td class="cuerpo_tabla_centro">73</td>
-<td class="cuerpo_tabla_centro">07/12/1997</td>
-<td class="cuerpo_tabla_centro">Carbón</td>
-<td class="cuerpo_tabla_centro">IT-0011</td>
-<td class="cuerpo_tabla_centro">39.925,73</td>
-<td class="cuerpo_tabla_centro">1.964,27</td>
-<td class="cuerpo_tabla_centro">1,62</td>
-<td class="cuerpo_tabla_centro">1.256.007,40</td>
-<td class="cuerpo_tabla_centro">8,67612</td>
-<td class="cuerpo_tabla_centro">16.080,42</td>
-<td class="cuerpo_tabla_centro">4,8208949</td>
+<td>RO1-1067</td>
+<td>ALCUDIA 6, GRUPO N.º 4</td>
+<td>120,6</td>
+<td>73</td>
+<td>07/12/1997</td>
+<td>Carbón</td>
+<td>IT-0011</td>
+<td>39.925,73</td>
+<td>1.964,27</td>
+<td>1,62</td>
+<td>1.256.007,40</td>
+<td>8,67612</td>
+<td>16.080,42</td>
+<td>4,8208949</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4">CA'S TRESORER, CC1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4">Gas Natural</td>
-<td class="cuerpo_tabla_centro">IT-0013</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="4"> </td>
+<td rowspan="4">CA'S TRESORER, CC1</td>
+<td> </td>
+<td> </td>
+<td rowspan="4"> </td>
+<td rowspan="4">Gas Natural</td>
+<td>IT-0013</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">71,00</td>
-<td class="cuerpo_tabla_centro">6,39</td>
-<td class="cuerpo_tabla_centro">1TG</td>
-<td class="cuerpo_tabla_centro">60.436,76</td>
-<td class="cuerpo_tabla_centro">1925,54</td>
-<td class="cuerpo_tabla_centro">0,53</td>
-<td class="cuerpo_tabla_centro">49.877,10</td>
-<td class="cuerpo_tabla_centro">0,72135</td>
-<td class="cuerpo_tabla_centro">11.116,77</td>
-<td class="cuerpo_tabla_centro">22,0980801</td>
+<td>71,00</td>
+<td>6,39</td>
+<td>1TG</td>
+<td>60.436,76</td>
+<td>1925,54</td>
+<td>0,53</td>
+<td>49.877,10</td>
+<td>0,72135</td>
+<td>11.116,77</td>
+<td>22,0980801</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">107,25</td>
-<td class="cuerpo_tabla_centro">30,00</td>
-<td class="cuerpo_tabla_centro">1TG+1TV</td>
-<td class="cuerpo_tabla_centro">118.213,53</td>
-<td class="cuerpo_tabla_centro">-390,57</td>
-<td class="cuerpo_tabla_centro">11,18</td>
-<td class="cuerpo_tabla_centro">281.985,03</td>
-<td class="cuerpo_tabla_centro">0,55379</td>
-<td class="cuerpo_tabla_centro">13.895,963</td>
-<td class="cuerpo_tabla_centro">22,0980801</td>
+<td>107,25</td>
+<td>30,00</td>
+<td>1TG+1TV</td>
+<td>118.213,53</td>
+<td>-390,57</td>
+<td>11,18</td>
+<td>281.985,03</td>
+<td>0,55379</td>
+<td>13.895,963</td>
+<td>22,0980801</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">214,5</td>
-<td class="cuerpo_tabla_centro">68,00</td>
-<td class="cuerpo_tabla_centro">2TG+1TV</td>
-<td class="cuerpo_tabla_centro">239.683,59</td>
-<td class="cuerpo_tabla_centro">-440,63</td>
-<td class="cuerpo_tabla_centro">5,76</td>
-<td class="cuerpo_tabla_centro">410.809,81</td>
-<td class="cuerpo_tabla_centro">0,60483</td>
-<td class="cuerpo_tabla_centro">27.791,925</td>
-<td class="cuerpo_tabla_centro">22,0980801</td>
+<td>214,5</td>
+<td>68,00</td>
+<td>2TG+1TV</td>
+<td>239.683,59</td>
+<td>-440,63</td>
+<td>5,76</td>
+<td>410.809,81</td>
+<td>0,60483</td>
+<td>27.791,925</td>
+<td>22,0980801</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4">CA'S TRESORER, CC2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4">Gas Natural</td>
-<td class="cuerpo_tabla_centro">IT-0013</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="4"> </td>
+<td rowspan="4">CA'S TRESORER, CC2</td>
+<td> </td>
+<td> </td>
+<td rowspan="4"> </td>
+<td rowspan="4">Gas Natural</td>
+<td>IT-0013</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">71,0</td>
-<td class="cuerpo_tabla_centro">6,39</td>
-<td class="cuerpo_tabla_centro">1TG</td>
-<td class="cuerpo_tabla_centro">60.436,76</td>
-<td class="cuerpo_tabla_centro">1925,54</td>
-<td class="cuerpo_tabla_centro">0,53</td>
-<td class="cuerpo_tabla_centro">49.877,10</td>
-<td class="cuerpo_tabla_centro">0,72135</td>
-<td class="cuerpo_tabla_centro">11.116,77</td>
-<td class="cuerpo_tabla_centro">21,5546702</td>
+<td>71,0</td>
+<td>6,39</td>
+<td>1TG</td>
+<td>60.436,76</td>
+<td>1925,54</td>
+<td>0,53</td>
+<td>49.877,10</td>
+<td>0,72135</td>
+<td>11.116,77</td>
+<td>21,5546702</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">107,25</td>
-<td class="cuerpo_tabla_centro">30,00</td>
-<td class="cuerpo_tabla_centro">1TG+1TV</td>
-<td class="cuerpo_tabla_centro">118.213,53</td>
-<td class="cuerpo_tabla_centro">-390,57</td>
-<td class="cuerpo_tabla_centro">11,18</td>
-<td class="cuerpo_tabla_centro">281.985,03</td>
-<td class="cuerpo_tabla_centro">0,55379</td>
-<td class="cuerpo_tabla_centro">13.895,963</td>
-<td class="cuerpo_tabla_centro">21,5546702</td>
+<td>107,25</td>
+<td>30,00</td>
+<td>1TG+1TV</td>
+<td>118.213,53</td>
+<td>-390,57</td>
+<td>11,18</td>
+<td>281.985,03</td>
+<td>0,55379</td>
+<td>13.895,963</td>
+<td>21,5546702</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">214,5</td>
-<td class="cuerpo_tabla_centro">68,00</td>
-<td class="cuerpo_tabla_centro">2TG+1TV</td>
-<td class="cuerpo_tabla_centro">239.683,59</td>
-<td class="cuerpo_tabla_centro">-440,63</td>
-<td class="cuerpo_tabla_centro">5,76</td>
-<td class="cuerpo_tabla_centro">410.809,81</td>
-<td class="cuerpo_tabla_centro">0,60483</td>
-<td class="cuerpo_tabla_centro">27.791,925</td>
-<td class="cuerpo_tabla_centro">21,5546702</td>
+<td>214,5</td>
+<td>68,00</td>
+<td>2TG+1TV</td>
+<td>239.683,59</td>
+<td>-440,63</td>
+<td>5,76</td>
+<td>410.809,81</td>
+<td>0,60483</td>
+<td>27.791,925</td>
+<td>21,5546702</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0063</td>
-<td class="cuerpo_tabla_centro">FORMENTERA 1, TURBINA DE GAS N.º 1</td>
-<td class="cuerpo_tabla_centro">11,5</td>
-<td class="cuerpo_tabla_centro">2,86</td>
-<td class="cuerpo_tabla_centro">01/03/1966</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0007</td>
-<td class="cuerpo_tabla_centro">19.938,33</td>
-<td class="cuerpo_tabla_centro">2.202,48</td>
-<td class="cuerpo_tabla_centro">29,24</td>
-<td class="cuerpo_tabla_centro">13850,36327</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3.669,61</td>
-<td class="cuerpo_tabla_centro">64,92428324</td>
+<td>RO2-0063</td>
+<td>FORMENTERA 1, TURBINA DE GAS N.º 1</td>
+<td>11,5</td>
+<td>2,86</td>
+<td>01/03/1966</td>
+<td>Gasoil</td>
+<td>IT-0007</td>
+<td>19.938,33</td>
+<td>2.202,48</td>
+<td>29,24</td>
+<td>13850,36327</td>
+<td>0,21715</td>
+<td>3.669,61</td>
+<td>64,92428324</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0044</td>
-<td class="cuerpo_tabla_centro">IBIZA 10, BURMEISTER N.º 6</td>
-<td class="cuerpo_tabla_centro">14,2</td>
-<td class="cuerpo_tabla_centro">8,67</td>
-<td class="cuerpo_tabla_centro">10/09/1982</td>
-<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0003</td>
-<td class="cuerpo_tabla_centro">5.647,58</td>
-<td class="cuerpo_tabla_centro">1.425,34</td>
-<td class="cuerpo_tabla_centro">29,24</td>
-<td class="cuerpo_tabla_centro">60251,0969</td>
-<td class="cuerpo_tabla_centro">10,99709</td>
-<td class="cuerpo_tabla_centro">107,523</td>
-<td class="cuerpo_tabla_centro">11,80042451</td>
+<td>RO2-0044</td>
+<td>IBIZA 10, BURMEISTER N.º 6</td>
+<td>14,2</td>
+<td>8,67</td>
+<td>10/09/1982</td>
+<td>Fuel Oil BIA 1%</td>
+<td>IT-0003</td>
+<td>5.647,58</td>
+<td>1.425,34</td>
+<td>29,24</td>
+<td>60251,0969</td>
+<td>10,99709</td>
+<td>107,523</td>
+<td>11,80042451</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0045</td>
-<td class="cuerpo_tabla_centro">IBIZA 11, BURMEISTER N.º 7</td>
-<td class="cuerpo_tabla_centro">14,2</td>
-<td class="cuerpo_tabla_centro">8,67</td>
-<td class="cuerpo_tabla_centro">10/06/1986</td>
-<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0003</td>
-<td class="cuerpo_tabla_centro">5.647,58</td>
-<td class="cuerpo_tabla_centro">1.425,34</td>
-<td class="cuerpo_tabla_centro">29,24</td>
-<td class="cuerpo_tabla_centro">60251,0969</td>
-<td class="cuerpo_tabla_centro">10,99709</td>
-<td class="cuerpo_tabla_centro">107,523</td>
-<td class="cuerpo_tabla_centro">11,84537478</td>
+<td>RO2-0045</td>
+<td>IBIZA 11, BURMEISTER N.º 7</td>
+<td>14,2</td>
+<td>8,67</td>
+<td>10/06/1986</td>
+<td>Fuel Oil BIA 1%</td>
+<td>IT-0003</td>
+<td>5.647,58</td>
+<td>1.425,34</td>
+<td>29,24</td>
+<td>60251,0969</td>
+<td>10,99709</td>
+<td>107,523</td>
+<td>11,84537478</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0059</td>
-<td class="cuerpo_tabla_centro">IBIZA 12, TURBINA DE GAS N.º 1</td>
-<td class="cuerpo_tabla_centro">21,1</td>
-<td class="cuerpo_tabla_centro">3,76</td>
-<td class="cuerpo_tabla_centro">15/07/1988</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0008</td>
-<td class="cuerpo_tabla_centro">24.050,69</td>
-<td class="cuerpo_tabla_centro">2.242,58</td>
-<td class="cuerpo_tabla_centro">14,51</td>
-<td class="cuerpo_tabla_centro">12293,68</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3.669,61</td>
-<td class="cuerpo_tabla_centro">24,00379736</td>
+<td>RO2-0059</td>
+<td>IBIZA 12, TURBINA DE GAS N.º 1</td>
+<td>21,1</td>
+<td>3,76</td>
+<td>15/07/1988</td>
+<td>Gasoil</td>
+<td>IT-0008</td>
+<td>24.050,69</td>
+<td>2.242,58</td>
+<td>14,51</td>
+<td>12293,68</td>
+<td>0,21715</td>
+<td>3.669,61</td>
+<td>24,00379736</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0046</td>
-<td class="cuerpo_tabla_centro">IBIZA 13, BURMEISTER N.º 8</td>
-<td class="cuerpo_tabla_centro">14,5</td>
-<td class="cuerpo_tabla_centro">8,51</td>
-<td class="cuerpo_tabla_centro">01/10/1993</td>
-<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0003</td>
-<td class="cuerpo_tabla_centro">6.463,50</td>
-<td class="cuerpo_tabla_centro">1.305,98</td>
-<td class="cuerpo_tabla_centro">21,39</td>
-<td class="cuerpo_tabla_centro">50988,66595</td>
-<td class="cuerpo_tabla_centro">8,38551</td>
-<td class="cuerpo_tabla_centro">107,523</td>
-<td class="cuerpo_tabla_centro">11,23443425</td>
+<td>RO2-0046</td>
+<td>IBIZA 13, BURMEISTER N.º 8</td>
+<td>14,5</td>
+<td>8,51</td>
+<td>01/10/1993</td>
+<td>Fuel Oil BIA 1%</td>
+<td>IT-0003</td>
+<td>6.463,50</td>
+<td>1.305,98</td>
+<td>21,39</td>
+<td>50988,66595</td>
+<td>8,38551</td>
+<td>107,523</td>
+<td>11,23443425</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0047</td>
-<td class="cuerpo_tabla_centro">IBIZA 14, BURMEISTER N.º 9</td>
-<td class="cuerpo_tabla_centro">14,5</td>
-<td class="cuerpo_tabla_centro">8,51</td>
-<td class="cuerpo_tabla_centro">01/12/1993</td>
-<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0003</td>
-<td class="cuerpo_tabla_centro">6.463,50</td>
-<td class="cuerpo_tabla_centro">1.305,98</td>
-<td class="cuerpo_tabla_centro">21,39</td>
-<td class="cuerpo_tabla_centro">50988,66595</td>
-<td class="cuerpo_tabla_centro">8,38551</td>
-<td class="cuerpo_tabla_centro">107,523</td>
-<td class="cuerpo_tabla_centro">11,34407213</td>
+<td>RO2-0047</td>
+<td>IBIZA 14, BURMEISTER N.º 9</td>
+<td>14,5</td>
+<td>8,51</td>
+<td>01/12/1993</td>
+<td>Fuel Oil BIA 1%</td>
+<td>IT-0003</td>
+<td>6.463,50</td>
+<td>1.305,98</td>
+<td>21,39</td>
+<td>50988,66595</td>
+<td>8,38551</td>
+<td>107,523</td>
+<td>11,34407213</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0060</td>
-<td class="cuerpo_tabla_centro">IBIZA 15, TURBINA DE GAS N.º 2</td>
-<td class="cuerpo_tabla_centro">11,5</td>
-<td class="cuerpo_tabla_centro">2,86</td>
-<td class="cuerpo_tabla_centro">01/01/1968</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0007</td>
-<td class="cuerpo_tabla_centro">19.923,22</td>
-<td class="cuerpo_tabla_centro">2.172,40</td>
-<td class="cuerpo_tabla_centro">40,81</td>
-<td class="cuerpo_tabla_centro">13850,36327</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3.669,61</td>
-<td class="cuerpo_tabla_centro">60,72115291</td>
+<td>RO2-0060</td>
+<td>IBIZA 15, TURBINA DE GAS N.º 2</td>
+<td>11,5</td>
+<td>2,86</td>
+<td>01/01/1968</td>
+<td>Gasoil</td>
+<td>IT-0007</td>
+<td>19.923,22</td>
+<td>2.172,40</td>
+<td>40,81</td>
+<td>13850,36327</td>
+<td>0,21715</td>
+<td>3.669,61</td>
+<td>60,72115291</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0159</td>
-<td class="cuerpo_tabla_centro">IBIZA 16, DIÉSEL MAN 1</td>
-<td class="cuerpo_tabla_centro">17,4</td>
-<td class="cuerpo_tabla_centro">9,35</td>
-<td class="cuerpo_tabla_centro">13/07/2001</td>
-<td class="cuerpo_tabla_centro">Gas Natural</td>
-<td class="cuerpo_tabla_centro">IT-0005</td>
-<td class="cuerpo_tabla_centro">9.556,47</td>
-<td class="cuerpo_tabla_centro">1.039,20</td>
-<td class="cuerpo_tabla_centro">36,41</td>
-<td class="cuerpo_tabla_centro">57689,1428</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">177,393</td>
-<td class="cuerpo_tabla_centro">21,63458272</td>
+<td>RO2-0159</td>
+<td>IBIZA 16, DIÉSEL MAN 1</td>
+<td>17,4</td>
+<td>9,35</td>
+<td>13/07/2001</td>
+<td>Gas Natural</td>
+<td>IT-0005</td>
+<td>9.556,47</td>
+<td>1.039,20</td>
+<td>36,41</td>
+<td>57689,1428</td>
+<td>6,74387</td>
+<td>177,393</td>
+<td>21,63458272</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0160</td>
-<td class="cuerpo_tabla_centro">IBIZA 17, DIÉSEL MAN 2</td>
-<td class="cuerpo_tabla_centro">17,4</td>
-<td class="cuerpo_tabla_centro">9,35</td>
-<td class="cuerpo_tabla_centro">01/08/2001</td>
-<td class="cuerpo_tabla_centro">Gas Natural</td>
-<td class="cuerpo_tabla_centro">IT-0005</td>
-<td class="cuerpo_tabla_centro">9.556,47</td>
-<td class="cuerpo_tabla_centro">1.039,20</td>
-<td class="cuerpo_tabla_centro">36,41</td>
-<td class="cuerpo_tabla_centro">57689,1428</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">177,393</td>
-<td class="cuerpo_tabla_centro">21,54837577</td>
+<td>RO2-0160</td>
+<td>IBIZA 17, DIÉSEL MAN 2</td>
+<td>17,4</td>
+<td>9,35</td>
+<td>01/08/2001</td>
+<td>Gas Natural</td>
+<td>IT-0005</td>
+<td>9.556,47</td>
+<td>1.039,20</td>
+<td>36,41</td>
+<td>57689,1428</td>
+<td>6,74387</td>
+<td>177,393</td>
+<td>21,54837577</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0182</td>
-<td class="cuerpo_tabla_centro">IBIZA 20 (MAN 3)</td>
-<td class="cuerpo_tabla_centro">17,4</td>
-<td class="cuerpo_tabla_centro">9,35</td>
-<td class="cuerpo_tabla_centro">12/05/2008</td>
-<td class="cuerpo_tabla_centro">Gas Natural</td>
-<td class="cuerpo_tabla_centro">IT-0005</td>
-<td class="cuerpo_tabla_centro">9.556,47</td>
-<td class="cuerpo_tabla_centro">1.039,20</td>
-<td class="cuerpo_tabla_centro">36,41</td>
-<td class="cuerpo_tabla_centro">57689,1428</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">182,663</td>
-<td class="cuerpo_tabla_centro">18,79163476</td>
+<td>RO2-0182</td>
+<td>IBIZA 20 (MAN 3)</td>
+<td>17,4</td>
+<td>9,35</td>
+<td>12/05/2008</td>
+<td>Gas Natural</td>
+<td>IT-0005</td>
+<td>9.556,47</td>
+<td>1.039,20</td>
+<td>36,41</td>
+<td>57689,1428</td>
+<td>6,74387</td>
+<td>182,663</td>
+<td>18,79163476</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0183</td>
-<td class="cuerpo_tabla_centro">IBIZA 21 (MAN 4)</td>
-<td class="cuerpo_tabla_centro">17,4</td>
-<td class="cuerpo_tabla_centro">9,35</td>
-<td class="cuerpo_tabla_centro">12/05/2008</td>
-<td class="cuerpo_tabla_centro">Gas Natural</td>
-<td class="cuerpo_tabla_centro">IT-0005</td>
-<td class="cuerpo_tabla_centro">9.556,47</td>
-<td class="cuerpo_tabla_centro">1.039,20</td>
-<td class="cuerpo_tabla_centro">36,41</td>
-<td class="cuerpo_tabla_centro">57689,1428</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">182,663</td>
-<td class="cuerpo_tabla_centro">21,21107232</td>
+<td>RO2-0183</td>
+<td>IBIZA 21 (MAN 4)</td>
+<td>17,4</td>
+<td>9,35</td>
+<td>12/05/2008</td>
+<td>Gas Natural</td>
+<td>IT-0005</td>
+<td>9.556,47</td>
+<td>1.039,20</td>
+<td>36,41</td>
+<td>57689,1428</td>
+<td>6,74387</td>
+<td>182,663</td>
+<td>21,21107232</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0201</td>
-<td class="cuerpo_tabla_centro">IBIZA 22, TURBINA DE GAS N.º 5</td>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">9,52</td>
-<td class="cuerpo_tabla_centro">29/10/2008</td>
-<td class="cuerpo_tabla_centro">Gas Natural</td>
-<td class="cuerpo_tabla_centro">IT-0006</td>
-<td class="cuerpo_tabla_centro">9.167,14</td>
-<td class="cuerpo_tabla_centro">2.154,04</td>
-<td class="cuerpo_tabla_centro">1,59</td>
-<td class="cuerpo_tabla_centro">8120</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">751,045</td>
-<td class="cuerpo_tabla_centro">11,42734684</td>
+<td>RO2-0201</td>
+<td>IBIZA 22, TURBINA DE GAS N.º 5</td>
+<td>23</td>
+<td>9,52</td>
+<td>29/10/2008</td>
+<td>Gas Natural</td>
+<td>IT-0006</td>
+<td>9.167,14</td>
+<td>2.154,04</td>
+<td>1,59</td>
+<td>8120</td>
+<td>0,21715</td>
+<td>751,045</td>
+<td>11,42734684</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0202</td>
-<td class="cuerpo_tabla_centro">IBIZA 23, TURBINA DE GAS N.º 6</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_centro">9,52</td>
-<td class="cuerpo_tabla_centro">24/07/2009</td>
-<td class="cuerpo_tabla_centro">Gas Natural</td>
-<td class="cuerpo_tabla_centro">IT-0006</td>
-<td class="cuerpo_tabla_centro">9.167,14</td>
-<td class="cuerpo_tabla_centro">2.154,04</td>
-<td class="cuerpo_tabla_centro">1,59</td>
-<td class="cuerpo_tabla_centro">8120</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">751,045</td>
-<td class="cuerpo_tabla_centro">11,29266375</td>
+<td>RO2-0202</td>
+<td>IBIZA 23, TURBINA DE GAS N.º 6</td>
+<td>24</td>
+<td>9,52</td>
+<td>24/07/2009</td>
+<td>Gas Natural</td>
+<td>IT-0006</td>
+<td>9.167,14</td>
+<td>2.154,04</td>
+<td>1,59</td>
+<td>8120</td>
+<td>0,21715</td>
+<td>751,045</td>
+<td>11,29266375</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0208</td>
-<td class="cuerpo_tabla_centro">IBIZA 24, TURBINA DE GAS N.º 6B</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_centro">9,52</td>
-<td class="cuerpo_tabla_centro">01/06/2012</td>
-<td class="cuerpo_tabla_centro">Gas Natural</td>
-<td class="cuerpo_tabla_centro">IT-0006</td>
-<td class="cuerpo_tabla_centro">9.167,14</td>
-<td class="cuerpo_tabla_centro">2.154,04</td>
-<td class="cuerpo_tabla_centro">1,59</td>
-<td class="cuerpo_tabla_centro">8120</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">751,045</td>
-<td class="cuerpo_tabla_centro">11,29266375</td>
+<td>RO2-0208</td>
+<td>IBIZA 24, TURBINA DE GAS N.º 6B</td>
+<td>24</td>
+<td>9,52</td>
+<td>01/06/2012</td>
+<td>Gas Natural</td>
+<td>IT-0006</td>
+<td>9.167,14</td>
+<td>2.154,04</td>
+<td>1,59</td>
+<td>8120</td>
+<td>0,21715</td>
+<td>751,045</td>
+<td>11,29266375</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0043</td>
-<td class="cuerpo_tabla_centro">IBIZA 9, BURMEISTER N.º 5</td>
-<td class="cuerpo_tabla_centro">14,2</td>
-<td class="cuerpo_tabla_centro">8,67</td>
-<td class="cuerpo_tabla_centro">01/07/1982</td>
-<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0003</td>
-<td class="cuerpo_tabla_centro">5.647,58</td>
-<td class="cuerpo_tabla_centro">1.425,34</td>
-<td class="cuerpo_tabla_centro">29,24</td>
-<td class="cuerpo_tabla_centro">57689,1428</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">107,523</td>
-<td class="cuerpo_tabla_centro">11,69903723</td>
+<td>RO2-0043</td>
+<td>IBIZA 9, BURMEISTER N.º 5</td>
+<td>14,2</td>
+<td>8,67</td>
+<td>01/07/1982</td>
+<td>Fuel Oil BIA 1%</td>
+<td>IT-0003</td>
+<td>5.647,58</td>
+<td>1.425,34</td>
+<td>29,24</td>
+<td>57689,1428</td>
+<td>6,74387</td>
+<td>107,523</td>
+<td>11,69903723</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0158</td>
-<td class="cuerpo_tabla_centro">IBIZA TURBINA DE GAS N.º 3</td>
-<td class="cuerpo_tabla_centro">17,7</td>
-<td class="cuerpo_tabla_centro">3,83</td>
-<td class="cuerpo_tabla_centro">23/07/2003</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0008</td>
-<td class="cuerpo_tabla_centro">24.128,89</td>
-<td class="cuerpo_tabla_centro">2.271,47</td>
-<td class="cuerpo_tabla_centro">11,62</td>
-<td class="cuerpo_tabla_centro">10094,784</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3.669,61</td>
-<td class="cuerpo_tabla_centro">25,34933433</td>
+<td>RO2-0158</td>
+<td>IBIZA TURBINA DE GAS N.º 3</td>
+<td>17,7</td>
+<td>3,83</td>
+<td>23/07/2003</td>
+<td>Gasoil</td>
+<td>IT-0008</td>
+<td>24.128,89</td>
+<td>2.271,47</td>
+<td>11,62</td>
+<td>10094,784</td>
+<td>0,21715</td>
+<td>3.669,61</td>
+<td>25,34933433</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0161</td>
-<td class="cuerpo_tabla_centro">IBIZA TURBINA DE GAS N.º 4</td>
-<td class="cuerpo_tabla_centro">17,7</td>
-<td class="cuerpo_tabla_centro">3,83</td>
-<td class="cuerpo_tabla_centro">17/05/2005</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0008</td>
-<td class="cuerpo_tabla_centro">24.128,89</td>
-<td class="cuerpo_tabla_centro">2.271,47</td>
-<td class="cuerpo_tabla_centro">11,62</td>
-<td class="cuerpo_tabla_centro">10094,784</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3.669,61</td>
-<td class="cuerpo_tabla_centro">26,81191498</td>
+<td>RO2-0161</td>
+<td>IBIZA TURBINA DE GAS N.º 4</td>
+<td>17,7</td>
+<td>3,83</td>
+<td>17/05/2005</td>
+<td>Gasoil</td>
+<td>IT-0008</td>
+<td>24.128,89</td>
+<td>2.271,47</td>
+<td>11,62</td>
+<td>10094,784</td>
+<td>0,21715</td>
+<td>3.669,61</td>
+<td>26,81191498</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0041</td>
-<td class="cuerpo_tabla_centro">MAHÓN 10, BURMEISTER N.º 2</td>
-<td class="cuerpo_tabla_centro">13,6</td>
-<td class="cuerpo_tabla_centro">6,6</td>
-<td class="cuerpo_tabla_centro">25/04/1991</td>
-<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0003</td>
-<td class="cuerpo_tabla_centro">6.319,17</td>
-<td class="cuerpo_tabla_centro">1.329,85</td>
-<td class="cuerpo_tabla_centro">22,88</td>
-<td class="cuerpo_tabla_centro">57689,1428</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">107,523</td>
-<td class="cuerpo_tabla_centro">12,13636797</td>
+<td>RO2-0041</td>
+<td>MAHÓN 10, BURMEISTER N.º 2</td>
+<td>13,6</td>
+<td>6,6</td>
+<td>25/04/1991</td>
+<td>Fuel Oil BIA 1%</td>
+<td>IT-0003</td>
+<td>6.319,17</td>
+<td>1.329,85</td>
+<td>22,88</td>
+<td>57689,1428</td>
+<td>6,74387</td>
+<td>107,523</td>
+<td>12,13636797</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0042</td>
-<td class="cuerpo_tabla_centro">MAHÓN 11, BURMEISTER N.º 3</td>
-<td class="cuerpo_tabla_centro">13,6</td>
-<td class="cuerpo_tabla_centro">6,6</td>
-<td class="cuerpo_tabla_centro">13/03/1991</td>
-<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0003</td>
-<td class="cuerpo_tabla_centro">6.319,17</td>
-<td class="cuerpo_tabla_centro">1.329,85</td>
-<td class="cuerpo_tabla_centro">22,88</td>
-<td class="cuerpo_tabla_centro">57689,1428</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">107,523</td>
-<td class="cuerpo_tabla_centro">12,05528598</td>
+<td>RO2-0042</td>
+<td>MAHÓN 11, BURMEISTER N.º 3</td>
+<td>13,6</td>
+<td>6,6</td>
+<td>13/03/1991</td>
+<td>Fuel Oil BIA 1%</td>
+<td>IT-0003</td>
+<td>6.319,17</td>
+<td>1.329,85</td>
+<td>22,88</td>
+<td>57689,1428</td>
+<td>6,74387</td>
+<td>107,523</td>
+<td>12,05528598</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0061</td>
-<td class="cuerpo_tabla_centro">MAHÓN 12, TURBINA DE GAS N.º 2</td>
-<td class="cuerpo_tabla_centro">32,7</td>
-<td class="cuerpo_tabla_centro">6,74</td>
-<td class="cuerpo_tabla_centro">01/01/1994</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0009</td>
-<td class="cuerpo_tabla_centro">31.391,05</td>
-<td class="cuerpo_tabla_centro">1.773,42</td>
-<td class="cuerpo_tabla_centro">11,58</td>
-<td class="cuerpo_tabla_centro">10094,784</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3.669,61</td>
-<td class="cuerpo_tabla_centro">20,53331957</td>
+<td>RO2-0061</td>
+<td>MAHÓN 12, TURBINA DE GAS N.º 2</td>
+<td>32,7</td>
+<td>6,74</td>
+<td>01/01/1994</td>
+<td>Gasoil</td>
+<td>IT-0009</td>
+<td>31.391,05</td>
+<td>1.773,42</td>
+<td>11,58</td>
+<td>10094,784</td>
+<td>0,21715</td>
+<td>3.669,61</td>
+<td>20,53331957</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0077</td>
-<td class="cuerpo_tabla_centro">MAHÓN 13, TURBINA DE GAS N.º 1</td>
-<td class="cuerpo_tabla_centro">33,7</td>
-<td class="cuerpo_tabla_centro">6,74</td>
-<td class="cuerpo_tabla_centro">01/07/1999</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0009</td>
-<td class="cuerpo_tabla_centro">31.391,05</td>
-<td class="cuerpo_tabla_centro">1.773,42</td>
-<td class="cuerpo_tabla_centro">11,58</td>
-<td class="cuerpo_tabla_centro">10094,784</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3.669,61</td>
-<td class="cuerpo_tabla_centro">22,80073525</td>
+<td>RO2-0077</td>
+<td>MAHÓN 13, TURBINA DE GAS N.º 1</td>
+<td>33,7</td>
+<td>6,74</td>
+<td>01/07/1999</td>
+<td>Gasoil</td>
+<td>IT-0009</td>
+<td>31.391,05</td>
+<td>1.773,42</td>
+<td>11,58</td>
+<td>10094,784</td>
+<td>0,21715</td>
+<td>3.669,61</td>
+<td>22,80073525</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO1-1074</td>
-<td class="cuerpo_tabla_centro">MAHÓN 14, TURBINA DE GAS N.º 3</td>
-<td class="cuerpo_tabla_centro">39,4</td>
-<td class="cuerpo_tabla_centro">9,52</td>
-<td class="cuerpo_tabla_centro">01/06/2004</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0006</td>
-<td class="cuerpo_tabla_centro">9.167,14</td>
-<td class="cuerpo_tabla_centro">2.154,04</td>
-<td class="cuerpo_tabla_centro">1,59</td>
-<td class="cuerpo_tabla_centro">8120</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">751,045</td>
-<td class="cuerpo_tabla_centro">16,02373654</td>
+<td>RO1-1074</td>
+<td>MAHÓN 14, TURBINA DE GAS N.º 3</td>
+<td>39,4</td>
+<td>9,52</td>
+<td>01/06/2004</td>
+<td>Gasoil</td>
+<td>IT-0006</td>
+<td>9.167,14</td>
+<td>2.154,04</td>
+<td>1,59</td>
+<td>8120</td>
+<td>0,21715</td>
+<td>751,045</td>
+<td>16,02373654</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0203</td>
-<td class="cuerpo_tabla_centro">MAHÓN 16, TURBINA DE GAS N.º 5</td>
-<td class="cuerpo_tabla_centro">48,6</td>
-<td class="cuerpo_tabla_centro">9,52</td>
-<td class="cuerpo_tabla_centro">18/06/2009</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0006</td>
-<td class="cuerpo_tabla_centro">9.167,14</td>
-<td class="cuerpo_tabla_centro">2.154,04</td>
-<td class="cuerpo_tabla_centro">1,59</td>
-<td class="cuerpo_tabla_centro">8120</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">751,045</td>
-<td class="cuerpo_tabla_centro">15,24327685</td>
+<td>RO2-0203</td>
+<td>MAHÓN 16, TURBINA DE GAS N.º 5</td>
+<td>48,6</td>
+<td>9,52</td>
+<td>18/06/2009</td>
+<td>Gasoil</td>
+<td>IT-0006</td>
+<td>9.167,14</td>
+<td>2.154,04</td>
+<td>1,59</td>
+<td>8120</td>
+<td>0,21715</td>
+<td>751,045</td>
+<td>15,24327685</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0037</td>
-<td class="cuerpo_tabla_centro">MAHÓN 9, BURMEISTER N.º 1</td>
-<td class="cuerpo_tabla_centro">13,6</td>
-<td class="cuerpo_tabla_centro">6,6</td>
-<td class="cuerpo_tabla_centro">11/06/1991</td>
-<td class="cuerpo_tabla_centro">Fuel Oil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0003</td>
-<td class="cuerpo_tabla_centro">6.319,17</td>
-<td class="cuerpo_tabla_centro">1.329,85</td>
-<td class="cuerpo_tabla_centro">22,88</td>
-<td class="cuerpo_tabla_centro">57689,1428</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">107,523</td>
-<td class="cuerpo_tabla_centro">12,04030926</td>
+<td>RO2-0037</td>
+<td>MAHÓN 9, BURMEISTER N.º 1</td>
+<td>13,6</td>
+<td>6,6</td>
+<td>11/06/1991</td>
+<td>Fuel Oil BIA 1%</td>
+<td>IT-0003</td>
+<td>6.319,17</td>
+<td>1.329,85</td>
+<td>22,88</td>
+<td>57689,1428</td>
+<td>6,74387</td>
+<td>107,523</td>
+<td>12,04030926</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0198</td>
-<td class="cuerpo_tabla_centro">MAHÓN TG4</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">9,52</td>
-<td class="cuerpo_tabla_centro">21/10/2008</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0006</td>
-<td class="cuerpo_tabla_centro">9.167,14</td>
-<td class="cuerpo_tabla_centro">2.154,04</td>
-<td class="cuerpo_tabla_centro">1,59</td>
-<td class="cuerpo_tabla_centro">8120</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">751,045</td>
-<td class="cuerpo_tabla_centro">14,65288346</td>
+<td>RO2-0198</td>
+<td>MAHÓN TG4</td>
+<td>50</td>
+<td>9,52</td>
+<td>21/10/2008</td>
+<td>Gasoil</td>
+<td>IT-0006</td>
+<td>9.167,14</td>
+<td>2.154,04</td>
+<td>1,59</td>
+<td>8120</td>
+<td>0,21715</td>
+<td>751,045</td>
+<td>14,65288346</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0031</td>
-<td class="cuerpo_tabla_centro">SON REUS 1, TURBINA DE GAS N.º 1</td>
-<td class="cuerpo_tabla_centro">33,7</td>
-<td class="cuerpo_tabla_centro">6,74</td>
-<td class="cuerpo_tabla_centro">05/07/2000</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0009</td>
-<td class="cuerpo_tabla_centro">31.391,05</td>
-<td class="cuerpo_tabla_centro">1.773,42</td>
-<td class="cuerpo_tabla_centro">11,58</td>
-<td class="cuerpo_tabla_centro">10094,784</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3.669,61</td>
-<td class="cuerpo_tabla_centro">23,37743058</td>
+<td>RO2-0031</td>
+<td>SON REUS 1, TURBINA DE GAS N.º 1</td>
+<td>33,7</td>
+<td>6,74</td>
+<td>05/07/2000</td>
+<td>Gasoil</td>
+<td>IT-0009</td>
+<td>31.391,05</td>
+<td>1.773,42</td>
+<td>11,58</td>
+<td>10094,784</td>
+<td>0,21715</td>
+<td>3.669,61</td>
+<td>23,37743058</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0032</td>
-<td class="cuerpo_tabla_centro">SON REUS 2, TURBINA DE GAS N.º 2</td>
-<td class="cuerpo_tabla_centro">33,7</td>
-<td class="cuerpo_tabla_centro">6,74</td>
-<td class="cuerpo_tabla_centro">07/07/2000</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0009</td>
-<td class="cuerpo_tabla_centro">31.391,05</td>
-<td class="cuerpo_tabla_centro">1.773,42</td>
-<td class="cuerpo_tabla_centro">11,58</td>
-<td class="cuerpo_tabla_centro">10094,784</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3.669,61</td>
-<td class="cuerpo_tabla_centro">23,9818555</td>
+<td>RO2-0032</td>
+<td>SON REUS 2, TURBINA DE GAS N.º 2</td>
+<td>33,7</td>
+<td>6,74</td>
+<td>07/07/2000</td>
+<td>Gasoil</td>
+<td>IT-0009</td>
+<td>31.391,05</td>
+<td>1.773,42</td>
+<td>11,58</td>
+<td>10094,784</td>
+<td>0,21715</td>
+<td>3.669,61</td>
+<td>23,9818555</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0033</td>
-<td class="cuerpo_tabla_centro">SON REUS 3, TURBINA DE GAS N.º 3</td>
-<td class="cuerpo_tabla_centro">33,7</td>
-<td class="cuerpo_tabla_centro">6,74</td>
-<td class="cuerpo_tabla_centro">31/07/2000</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0009</td>
-<td class="cuerpo_tabla_centro">31.391,05</td>
-<td class="cuerpo_tabla_centro">1.773,42</td>
-<td class="cuerpo_tabla_centro">11,58</td>
-<td class="cuerpo_tabla_centro">10094,784</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3.669,61</td>
-<td class="cuerpo_tabla_centro">23,88616697</td>
+<td>RO2-0033</td>
+<td>SON REUS 3, TURBINA DE GAS N.º 3</td>
+<td>33,7</td>
+<td>6,74</td>
+<td>31/07/2000</td>
+<td>Gasoil</td>
+<td>IT-0009</td>
+<td>31.391,05</td>
+<td>1.773,42</td>
+<td>11,58</td>
+<td>10094,784</td>
+<td>0,21715</td>
+<td>3.669,61</td>
+<td>23,88616697</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0034</td>
-<td class="cuerpo_tabla_centro">SON REUS 4, TURBINA DE GAS N.º 4</td>
-<td class="cuerpo_tabla_centro">33,7</td>
-<td class="cuerpo_tabla_centro">6,74</td>
-<td class="cuerpo_tabla_centro">07/08/2000</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0009</td>
-<td class="cuerpo_tabla_centro">31.391,05</td>
-<td class="cuerpo_tabla_centro">1.773,42</td>
-<td class="cuerpo_tabla_centro">11,58</td>
-<td class="cuerpo_tabla_centro">10094,784</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3.669,61</td>
-<td class="cuerpo_tabla_centro">22,43146211</td>
+<td>RO2-0034</td>
+<td>SON REUS 4, TURBINA DE GAS N.º 4</td>
+<td>33,7</td>
+<td>6,74</td>
+<td>07/08/2000</td>
+<td>Gasoil</td>
+<td>IT-0009</td>
+<td>31.391,05</td>
+<td>1.773,42</td>
+<td>11,58</td>
+<td>10094,784</td>
+<td>0,21715</td>
+<td>3.669,61</td>
+<td>22,43146211</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="5"> </td>
-<td class="cuerpo_tabla_centro" rowspan="5">SON REUS, CC1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="5"> </td>
-<td class="cuerpo_tabla_centro" rowspan="5">Gas Natural</td>
-<td class="cuerpo_tabla_centro">IT-0014</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="5"> </td>
+<td rowspan="5">SON REUS, CC1</td>
+<td> </td>
+<td> </td>
+<td rowspan="5"> </td>
+<td rowspan="5">Gas Natural</td>
+<td>IT-0014</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">48,7</td>
-<td class="cuerpo_tabla_centro">28,65</td>
-<td class="cuerpo_tabla_centro">1TG</td>
-<td class="cuerpo_tabla_centro">60.436,76</td>
-<td class="cuerpo_tabla_centro">1925,54</td>
-<td class="cuerpo_tabla_centro">0,53</td>
-<td class="cuerpo_tabla_centro">49.877,10</td>
-<td class="cuerpo_tabla_centro">0,72135</td>
-<td class="cuerpo_tabla_centro">10.796,09</td>
-<td class="cuerpo_tabla_centro">18,3273345</td>
+<td>48,7</td>
+<td>28,65</td>
+<td>1TG</td>
+<td>60.436,76</td>
+<td>1925,54</td>
+<td>0,53</td>
+<td>49.877,10</td>
+<td>0,72135</td>
+<td>10.796,09</td>
+<td>18,3273345</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">68,0</td>
-<td class="cuerpo_tabla_centro">42,70</td>
-<td class="cuerpo_tabla_centro">1TG+1TV</td>
-<td class="cuerpo_tabla_centro">43.062,18</td>
-<td class="cuerpo_tabla_centro">1.188,46</td>
-<td class="cuerpo_tabla_centro">3,97</td>
-<td class="cuerpo_tabla_centro">176511</td>
-<td class="cuerpo_tabla_centro">0,54568</td>
-<td class="cuerpo_tabla_centro">10.794,365</td>
-<td class="cuerpo_tabla_centro">18,3273345</td>
+<td>68,0</td>
+<td>42,70</td>
+<td>1TG+1TV</td>
+<td>43.062,18</td>
+<td>1.188,46</td>
+<td>3,97</td>
+<td>176511</td>
+<td>0,54568</td>
+<td>10.794,365</td>
+<td>18,3273345</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">136,0</td>
-<td class="cuerpo_tabla_centro">86,35</td>
-<td class="cuerpo_tabla_centro">2TG+1TV</td>
-<td class="cuerpo_tabla_centro">87.203,24</td>
-<td class="cuerpo_tabla_centro">1.193,07</td>
-<td class="cuerpo_tabla_centro">1,98</td>
-<td class="cuerpo_tabla_centro">298551</td>
-<td class="cuerpo_tabla_centro">0,56189</td>
-<td class="cuerpo_tabla_centro">21.588,73</td>
-<td class="cuerpo_tabla_centro">18,3273345</td>
+<td>136,0</td>
+<td>86,35</td>
+<td>2TG+1TV</td>
+<td>87.203,24</td>
+<td>1.193,07</td>
+<td>1,98</td>
+<td>298551</td>
+<td>0,56189</td>
+<td>21.588,73</td>
+<td>18,3273345</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">204,0</td>
-<td class="cuerpo_tabla_centro">130,00</td>
-<td class="cuerpo_tabla_centro">3TG+1TV</td>
-<td class="cuerpo_tabla_centro">131.932,88</td>
-<td class="cuerpo_tabla_centro">1.188,19</td>
-<td class="cuerpo_tabla_centro">1,34</td>
-<td class="cuerpo_tabla_centro">420591</td>
-<td class="cuerpo_tabla_centro">0,60483</td>
-<td class="cuerpo_tabla_centro">32.383,095</td>
-<td class="cuerpo_tabla_centro">18,3273345</td>
+<td>204,0</td>
+<td>130,00</td>
+<td>3TG+1TV</td>
+<td>131.932,88</td>
+<td>1.188,19</td>
+<td>1,34</td>
+<td>420591</td>
+<td>0,60483</td>
+<td>32.383,095</td>
+<td>18,3273345</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4">SON REUS, CC2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4">Gas Natural</td>
-<td class="cuerpo_tabla_centro">IT-0013</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="4"> </td>
+<td rowspan="4">SON REUS, CC2</td>
+<td> </td>
+<td> </td>
+<td rowspan="4"> </td>
+<td rowspan="4">Gas Natural</td>
+<td>IT-0013</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">63,3</td>
-<td class="cuerpo_tabla_centro">6,39</td>
-<td class="cuerpo_tabla_centro">1TG</td>
-<td class="cuerpo_tabla_centro">60.436,76</td>
-<td class="cuerpo_tabla_centro">1925,54</td>
-<td class="cuerpo_tabla_centro">0,53</td>
-<td class="cuerpo_tabla_centro">49.877,10</td>
-<td class="cuerpo_tabla_centro">0,72135</td>
-<td class="cuerpo_tabla_centro">11.116,77</td>
-<td class="cuerpo_tabla_centro">28,5098024</td>
+<td>63,3</td>
+<td>6,39</td>
+<td>1TG</td>
+<td>60.436,76</td>
+<td>1925,54</td>
+<td>0,53</td>
+<td>49.877,10</td>
+<td>0,72135</td>
+<td>11.116,77</td>
+<td>28,5098024</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">94,95</td>
-<td class="cuerpo_tabla_centro">30,00</td>
-<td class="cuerpo_tabla_centro">1TG+1TV</td>
-<td class="cuerpo_tabla_centro">118.213,53</td>
-<td class="cuerpo_tabla_centro">-390,57</td>
-<td class="cuerpo_tabla_centro">11,18</td>
-<td class="cuerpo_tabla_centro">281.985,03</td>
-<td class="cuerpo_tabla_centro">0,55379</td>
-<td class="cuerpo_tabla_centro">13.895,963</td>
-<td class="cuerpo_tabla_centro">28,5098024</td>
+<td>94,95</td>
+<td>30,00</td>
+<td>1TG+1TV</td>
+<td>118.213,53</td>
+<td>-390,57</td>
+<td>11,18</td>
+<td>281.985,03</td>
+<td>0,55379</td>
+<td>13.895,963</td>
+<td>28,5098024</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">189,9</td>
-<td class="cuerpo_tabla_centro">68,00</td>
-<td class="cuerpo_tabla_centro">2TG+1TV</td>
-<td class="cuerpo_tabla_centro">239.683,59</td>
-<td class="cuerpo_tabla_centro">-440,63</td>
-<td class="cuerpo_tabla_centro">5,76</td>
-<td class="cuerpo_tabla_centro">410.809,81</td>
-<td class="cuerpo_tabla_centro">0,60483</td>
-<td class="cuerpo_tabla_centro">27.791,925</td>
-<td class="cuerpo_tabla_centro">28,5098024</td>
+<td>189,9</td>
+<td>68,00</td>
+<td>2TG+1TV</td>
+<td>239.683,59</td>
+<td>-440,63</td>
+<td>5,76</td>
+<td>410.809,81</td>
+<td>0,60483</td>
+<td>27.791,925</td>
+<td>28,5098024</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Denominación Ciclo Combinado</th>
-<th class="cabeza_tabla">Denominación Grupo</th>
-<th class="cabeza_tabla">Potencia Neta (MW)</th>
-<th class="cabeza_tabla">Fecha de alta</th>
-<th class="cabeza_tabla">Número de Registro</th>
+<th>Denominación Ciclo Combinado</th>
+<th>Denominación Grupo</th>
+<th>Potencia Neta (MW)</th>
+<th>Fecha de alta</th>
+<th>Número de Registro</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">CA'S TRESORER CC1</td>
-<td class="cuerpo_tabla_izq">CA'S TRESORER TV, CC1</td>
-<td class="cuerpo_tabla_centro">72,500</td>
-<td class="cuerpo_tabla_centro">28/06/2007</td>
-<td class="cuerpo_tabla_centro">RO2-0197</td>
+<td rowspan="3">CA'S TRESORER CC1</td>
+<td>CA'S TRESORER TV, CC1</td>
+<td>72,500</td>
+<td>28/06/2007</td>
+<td>RO2-0197</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CA'S TRESORER TG1, CC1</td>
-<td class="cuerpo_tabla_centro">71,000</td>
-<td class="cuerpo_tabla_centro">28/07/2006</td>
-<td class="cuerpo_tabla_centro">RO2-0195</td>
+<td>CA'S TRESORER TG1, CC1</td>
+<td>71,000</td>
+<td>28/07/2006</td>
+<td>RO2-0195</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CA'S TRESORER TG2, CC1</td>
-<td class="cuerpo_tabla_centro">71,000</td>
-<td class="cuerpo_tabla_centro">04/08/2006</td>
-<td class="cuerpo_tabla_centro">RO2-0196</td>
+<td>CA'S TRESORER TG2, CC1</td>
+<td>71,000</td>
+<td>04/08/2006</td>
+<td>RO2-0196</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">CA'S TRESORER CC2</td>
-<td class="cuerpo_tabla_izq">CA'S TRESORER TG3, CC2</td>
-<td class="cuerpo_tabla_centro">71,000</td>
-<td class="cuerpo_tabla_centro">30/06/2009</td>
-<td class="cuerpo_tabla_centro">RO1-2012</td>
+<td rowspan="3">CA'S TRESORER CC2</td>
+<td>CA'S TRESORER TG3, CC2</td>
+<td>71,000</td>
+<td>30/06/2009</td>
+<td>RO1-2012</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CA'S TRESORER TG4, CC2</td>
-<td class="cuerpo_tabla_centro">71,000</td>
-<td class="cuerpo_tabla_centro">08/09/2009</td>
-<td class="cuerpo_tabla_centro">RO1-2013</td>
+<td>CA'S TRESORER TG4, CC2</td>
+<td>71,000</td>
+<td>08/09/2009</td>
+<td>RO1-2013</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CA'S TRESORER TV2, CC2</td>
-<td class="cuerpo_tabla_centro">72,500</td>
-<td class="cuerpo_tabla_centro">19/04/2010</td>
-<td class="cuerpo_tabla_centro">RO1-2014</td>
+<td>CA'S TRESORER TV2, CC2</td>
+<td>72,500</td>
+<td>19/04/2010</td>
+<td>RO1-2014</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">SON REUS, CC1</td>
-<td class="cuerpo_tabla_izq">SON REUS 5, TURBINA DE GAS N.º 5</td>
-<td class="cuerpo_tabla_centro">48,7</td>
-<td class="cuerpo_tabla_centro">01/07/2001</td>
-<td class="cuerpo_tabla_centro">RO1-1068</td>
+<td rowspan="4">SON REUS, CC1</td>
+<td>SON REUS 5, TURBINA DE GAS N.º 5</td>
+<td>48,7</td>
+<td>01/07/2001</td>
+<td>RO1-1068</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SON REUS 6, TURBINA DE GAS N.º 6</td>
-<td class="cuerpo_tabla_centro">48,7</td>
-<td class="cuerpo_tabla_centro">01/07/2001</td>
-<td class="cuerpo_tabla_centro">RO1-1069</td>
+<td>SON REUS 6, TURBINA DE GAS N.º 6</td>
+<td>48,7</td>
+<td>01/07/2001</td>
+<td>RO1-1069</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SON REUS 7, TURBINA DE GAS N.º 7</td>
-<td class="cuerpo_tabla_centro">48,7</td>
-<td class="cuerpo_tabla_centro">01/08/2001</td>
-<td class="cuerpo_tabla_centro">RO1-1070</td>
+<td>SON REUS 7, TURBINA DE GAS N.º 7</td>
+<td>48,7</td>
+<td>01/08/2001</td>
+<td>RO1-1070</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SON REUS VAPOR 10</td>
-<td class="cuerpo_tabla_centro">57,9</td>
-<td class="cuerpo_tabla_centro">04/07/2002</td>
-<td class="cuerpo_tabla_centro">RO1-1073</td>
+<td>SON REUS VAPOR 10</td>
+<td>57,9</td>
+<td>04/07/2002</td>
+<td>RO1-1073</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">SON REUS, CC2</td>
-<td class="cuerpo_tabla_izq">SON REUS 9, TURBINA DE GAS N.º 9 (CC2)</td>
-<td class="cuerpo_tabla_centro">63,300</td>
-<td class="cuerpo_tabla_centro">24/06/2003</td>
-<td class="cuerpo_tabla_centro">RO1-1072</td>
+<td rowspan="3">SON REUS, CC2</td>
+<td>SON REUS 9, TURBINA DE GAS N.º 9 (CC2)</td>
+<td>63,300</td>
+<td>24/06/2003</td>
+<td>RO1-1072</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SON REUS TURBINA DE GAS N.º 8 (CC2)</td>
-<td class="cuerpo_tabla_centro">63,300</td>
-<td class="cuerpo_tabla_centro">19/06/2003</td>
-<td class="cuerpo_tabla_centro">RO1-1071</td>
+<td>SON REUS TURBINA DE GAS N.º 8 (CC2)</td>
+<td>63,300</td>
+<td>19/06/2003</td>
+<td>RO1-1071</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SON REUS TURBINA DE VAPOR N.º 2 (CC2)</td>
-<td class="cuerpo_tabla_centro">63,300</td>
-<td class="cuerpo_tabla_centro">25/04/2005</td>
-<td class="cuerpo_tabla_centro">RO1-1075</td>
+<td>SON REUS TURBINA DE VAPOR N.º 2 (CC2)</td>
+<td>63,300</td>
+<td>25/04/2005</td>
+<td>RO1-1075</td>
 </tr>
 </tbody>
 </table>
 
 SISTEMA ELÉCTRICO CANARIO
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="3">Número de Registro</th>
-<th class="cabeza_tabla" rowspan="3">Denominación Central</th>
-<th class="cabeza_tabla" rowspan="3">Potencia Neta</th>
-<th class="cabeza_tabla" rowspan="3">Mínimo Técnico declarado</th>
-<th class="cabeza_tabla" rowspan="3">Fecha de alta</th>
-<th class="cabeza_tabla" rowspan="3">Combustible a efectos de este Real Decreto</th>
-<th class="cabeza_tabla" rowspan="3">Instalación tipo</th>
-<th class="cabeza_tabla" colspan="3">Datos técnicos de despacho</th>
-<th class="cabeza_tabla" colspan="3">Datos de despacho</th>
-<th class="cabeza_tabla" rowspan="2">Datos económicos. Costes variables de operación y mantenimiento despacho</th>
+<th rowspan="3">Número de Registro</th>
+<th rowspan="3">Denominación Central</th>
+<th rowspan="3">Potencia Neta</th>
+<th rowspan="3">Mínimo Técnico declarado</th>
+<th rowspan="3">Fecha de alta</th>
+<th rowspan="3">Combustible a efectos de este Real Decreto</th>
+<th rowspan="3">Instalación tipo</th>
+<th colspan="3">Datos técnicos de despacho</th>
+<th colspan="3">Datos de despacho</th>
+<th rowspan="2">Datos económicos. Costes variables de operación y mantenimiento despacho</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="3">Costes de funcionamiento</th>
-<th class="cabeza_tabla" colspan="3">Costes arranque</th>
+<th colspan="3">Costes de funcionamiento</th>
+<th colspan="3">Costes arranque</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">A (th/h)</th>
-<th class="cabeza_tabla">B (th/h.MW)</th>
-<th class="cabeza_tabla">C (th/h.MW2)</th>
-<th class="cabeza_tabla">A' (th)</th>
-<th class="cabeza_tabla">B' (horas)</th>
-<th class="cabeza_tabla">D (€/arranque)</th>
-<th class="cabeza_tabla">O&amp;MVDi (€/MWh )</th>
+<th>A (th/h)</th>
+<th>B (th/h.MW)</th>
+<th>C (th/h.MW2)</th>
+<th>A' (th)</th>
+<th>B' (horas)</th>
+<th>D (€/arranque)</th>
+<th>O&amp;MVDi (€/MWh )</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0105</td>
-<td class="cuerpo_tabla_centro">ARONA 1, GAS 1</td>
-<td class="cuerpo_tabla_centro">21,6</td>
-<td class="cuerpo_tabla_centro">4,85</td>
-<td class="cuerpo_tabla_centro">19/05/2003</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0057</td>
-<td class="cuerpo_tabla_centro">9.167,14</td>
-<td class="cuerpo_tabla_centro">2.154,04</td>
-<td class="cuerpo_tabla_centro">1,59</td>
-<td class="cuerpo_tabla_centro">8.120,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">818,4926475</td>
-<td class="cuerpo_tabla_centro">18,44349558</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0106</td>
-<td class="cuerpo_tabla_centro">ARONA 2, GAS 2</td>
-<td class="cuerpo_tabla_centro">21,6</td>
-<td class="cuerpo_tabla_centro">4,85</td>
-<td class="cuerpo_tabla_centro">03/06/2003</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0057</td>
-<td class="cuerpo_tabla_centro">9.167,14</td>
-<td class="cuerpo_tabla_centro">2.154,04</td>
-<td class="cuerpo_tabla_centro">1,59</td>
-<td class="cuerpo_tabla_centro">8.120,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">818,4926475</td>
-<td class="cuerpo_tabla_centro">18,91648304</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0089</td>
-<td class="cuerpo_tabla_centro">BARRANCO DE TIRAJANA 1, GAS 1</td>
-<td class="cuerpo_tabla_centro">32,34</td>
-<td class="cuerpo_tabla_centro">6,79</td>
-<td class="cuerpo_tabla_centro">01/07/1992</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0060</td>
-<td class="cuerpo_tabla_centro">29.363,27</td>
-<td class="cuerpo_tabla_centro">2.225,92</td>
-<td class="cuerpo_tabla_centro">1,36</td>
-<td class="cuerpo_tabla_centro">10.150,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3873,331944</td>
-<td class="cuerpo_tabla_centro">24,70598329</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0090</td>
-<td class="cuerpo_tabla_centro">BARRANCO DE TIRAJANA 2, GAS 2</td>
-<td class="cuerpo_tabla_centro">32,34</td>
-<td class="cuerpo_tabla_centro">6,79</td>
-<td class="cuerpo_tabla_centro">11/05/1995</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0060</td>
-<td class="cuerpo_tabla_centro">29.363,27</td>
-<td class="cuerpo_tabla_centro">2.225,92</td>
-<td class="cuerpo_tabla_centro">1,36</td>
-<td class="cuerpo_tabla_centro">10.150,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3873,331944</td>
-<td class="cuerpo_tabla_centro">23,76343636</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO1-1049</td>
-<td class="cuerpo_tabla_centro">BARRANCO DE TIRAJANA 3, VAPOR 1</td>
-<td class="cuerpo_tabla_centro">74,24</td>
-<td class="cuerpo_tabla_centro">27,84</td>
-<td class="cuerpo_tabla_centro">01/01/1996</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0064</td>
-<td class="cuerpo_tabla_centro">21.254,08</td>
-<td class="cuerpo_tabla_centro">2.159,80</td>
-<td class="cuerpo_tabla_centro">0,23</td>
-<td class="cuerpo_tabla_centro">357.255,00</td>
-<td class="cuerpo_tabla_centro">7,21595</td>
-<td class="cuerpo_tabla_centro">12038,118</td>
-<td class="cuerpo_tabla_centro">5,511993308</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO1-1050</td>
-<td class="cuerpo_tabla_centro">BARRANCO DE TIRAJANA 4, VAPOR 2</td>
-<td class="cuerpo_tabla_centro">74,24</td>
-<td class="cuerpo_tabla_centro">27,84</td>
-<td class="cuerpo_tabla_centro">05/06/1996</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0064</td>
-<td class="cuerpo_tabla_centro">21.254,08</td>
-<td class="cuerpo_tabla_centro">2.159,80</td>
-<td class="cuerpo_tabla_centro">0,23</td>
-<td class="cuerpo_tabla_centro">357.255,00</td>
-<td class="cuerpo_tabla_centro">7,21595</td>
-<td class="cuerpo_tabla_centro">12038,118</td>
-<td class="cuerpo_tabla_centro">5,459629502</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4">BARRANCO DE TIRAJANA, CC1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0065</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">68,7</td>
-<td class="cuerpo_tabla_centro">9,70</td>
-<td class="cuerpo_tabla_centro">1TG</td>
-<td class="cuerpo_tabla_centro">60436,761</td>
-<td class="cuerpo_tabla_centro">1925,54</td>
-<td class="cuerpo_tabla_centro">0,53</td>
-<td class="cuerpo_tabla_centro">49.877,10</td>
-<td class="cuerpo_tabla_centro">0,72135</td>
-<td class="cuerpo_tabla_centro">13183,89364</td>
-<td class="cuerpo_tabla_centro">20,2336195</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">103,05</td>
-<td class="cuerpo_tabla_centro">37,80</td>
-<td class="cuerpo_tabla_centro">1TG+1TV</td>
-<td class="cuerpo_tabla_centro">118213,531</td>
-<td class="cuerpo_tabla_centro">-390,57</td>
-<td class="cuerpo_tabla_centro">11,18</td>
-<td class="cuerpo_tabla_centro">281985,0306</td>
-<td class="cuerpo_tabla_centro">0,55379</td>
-<td class="cuerpo_tabla_centro">16.536,196</td>
-<td class="cuerpo_tabla_centro">20,2336195</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">206,1</td>
-<td class="cuerpo_tabla_centro">75,50</td>
-<td class="cuerpo_tabla_centro">2TG+1TV</td>
-<td class="cuerpo_tabla_centro">239683,594</td>
-<td class="cuerpo_tabla_centro">-440,63</td>
-<td class="cuerpo_tabla_centro">5,76</td>
-<td class="cuerpo_tabla_centro">410809,814</td>
-<td class="cuerpo_tabla_centro">0,60483</td>
-<td class="cuerpo_tabla_centro">33.072,3906</td>
-<td class="cuerpo_tabla_centro">20,2336195</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4">BARRANCO DE TIRAJANA, CC2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0065</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">75,0</td>
-<td class="cuerpo_tabla_centro">9,70</td>
-<td class="cuerpo_tabla_centro">1TG</td>
-<td class="cuerpo_tabla_centro">60436,761</td>
-<td class="cuerpo_tabla_centro">1925,54</td>
-<td class="cuerpo_tabla_centro">0,53</td>
-<td class="cuerpo_tabla_centro">49.877,10</td>
-<td class="cuerpo_tabla_centro">0,72135</td>
-<td class="cuerpo_tabla_centro">13183,89364</td>
-<td class="cuerpo_tabla_centro">17,4114924</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">113,5</td>
-<td class="cuerpo_tabla_centro">37,80</td>
-<td class="cuerpo_tabla_centro">1TG+1TV</td>
-<td class="cuerpo_tabla_centro">118213,531</td>
-<td class="cuerpo_tabla_centro">-390,57</td>
-<td class="cuerpo_tabla_centro">11,18</td>
-<td class="cuerpo_tabla_centro">281985,0306</td>
-<td class="cuerpo_tabla_centro">0,55379</td>
-<td class="cuerpo_tabla_centro">16.536,196</td>
-<td class="cuerpo_tabla_centro">17,4114924</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">227,0</td>
-<td class="cuerpo_tabla_centro">75,50</td>
-<td class="cuerpo_tabla_centro">2TG+1TV</td>
-<td class="cuerpo_tabla_centro">239683,594</td>
-<td class="cuerpo_tabla_centro">-440,63</td>
-<td class="cuerpo_tabla_centro">5,76</td>
-<td class="cuerpo_tabla_centro">410809,814</td>
-<td class="cuerpo_tabla_centro">0,60483</td>
-<td class="cuerpo_tabla_centro">33.072,3906</td>
-<td class="cuerpo_tabla_centro">17,4114924</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0094</td>
-<td class="cuerpo_tabla_centro">CANDELARIA 10, VAPOR 6</td>
-<td class="cuerpo_tabla_centro">37,28</td>
-<td class="cuerpo_tabla_centro">13,58</td>
-<td class="cuerpo_tabla_centro">01/10/1984</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0062</td>
-<td class="cuerpo_tabla_centro">8.388,39</td>
-<td class="cuerpo_tabla_centro">2.859,92</td>
-<td class="cuerpo_tabla_centro">0,46</td>
-<td class="cuerpo_tabla_centro">199.254,56</td>
-<td class="cuerpo_tabla_centro">18,7179</td>
-<td class="cuerpo_tabla_centro">9048,350632</td>
-<td class="cuerpo_tabla_centro">8,087967424</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0098</td>
-<td class="cuerpo_tabla_centro">CANDELARIA 11, GAS 1</td>
-<td class="cuerpo_tabla_centro">32,34</td>
-<td class="cuerpo_tabla_centro">6,79</td>
-<td class="cuerpo_tabla_centro">04/11/1988</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0060</td>
-<td class="cuerpo_tabla_centro">29.363,27</td>
-<td class="cuerpo_tabla_centro">2.225,92</td>
-<td class="cuerpo_tabla_centro">1,36</td>
-<td class="cuerpo_tabla_centro">10.150,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3873,331944</td>
-<td class="cuerpo_tabla_centro">21,19468128</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0099</td>
-<td class="cuerpo_tabla_centro">CANDELARIA 12, GAS 2</td>
-<td class="cuerpo_tabla_centro">32,34</td>
-<td class="cuerpo_tabla_centro">6,79</td>
-<td class="cuerpo_tabla_centro">13/07/1989</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0060</td>
-<td class="cuerpo_tabla_centro">29.363,27</td>
-<td class="cuerpo_tabla_centro">2.225,92</td>
-<td class="cuerpo_tabla_centro">1,36</td>
-<td class="cuerpo_tabla_centro">10.150,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3873,331944</td>
-<td class="cuerpo_tabla_centro">21,20336728</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0095</td>
-<td class="cuerpo_tabla_centro">CANDELARIA 3, DIÉSEL 1</td>
-<td class="cuerpo_tabla_centro">8,51</td>
-<td class="cuerpo_tabla_centro">4,58</td>
-<td class="cuerpo_tabla_centro">01/05/1972</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0006</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">57.689,14</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">127,9527739</td>
-<td class="cuerpo_tabla_centro">22,48735287</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0096</td>
-<td class="cuerpo_tabla_centro">CANDELARIA 4, DIÉSEL 2</td>
-<td class="cuerpo_tabla_centro">8,51</td>
-<td class="cuerpo_tabla_centro">4,58</td>
-<td class="cuerpo_tabla_centro">01/02/1973</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0050</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">57.689,14</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">127,9527739</td>
-<td class="cuerpo_tabla_centro">22,48735287</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0100</td>
-<td class="cuerpo_tabla_centro">CANDELARIA 5, GAS 3</td>
-<td class="cuerpo_tabla_centro">14,7</td>
-<td class="cuerpo_tabla_centro">6,79</td>
-<td class="cuerpo_tabla_centro">01/12/1972</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0059</td>
-<td class="cuerpo_tabla_centro">23.254,28</td>
-<td class="cuerpo_tabla_centro">2.742,84</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">14.210,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3873,331944</td>
-<td class="cuerpo_tabla_centro">24,40293174</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0097</td>
-<td class="cuerpo_tabla_centro">CANDELARIA 6, DIÉSEL 3</td>
-<td class="cuerpo_tabla_centro">8,51</td>
-<td class="cuerpo_tabla_centro">4,58</td>
-<td class="cuerpo_tabla_centro">01/11/1973</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0050</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">57.689,14</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">127,9527739</td>
-<td class="cuerpo_tabla_centro">22,48735287</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0093</td>
-<td class="cuerpo_tabla_centro">CANDELARIA 9, VAPOR 5</td>
-<td class="cuerpo_tabla_centro">37,28</td>
-<td class="cuerpo_tabla_centro">13,58</td>
-<td class="cuerpo_tabla_centro">14/03/1979</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0062</td>
-<td class="cuerpo_tabla_centro">8.388,39</td>
-<td class="cuerpo_tabla_centro">2.859,92</td>
-<td class="cuerpo_tabla_centro">0,46</td>
-<td class="cuerpo_tabla_centro">199.254,56</td>
-<td class="cuerpo_tabla_centro">18,7179</td>
-<td class="cuerpo_tabla_centro">9048,350632</td>
-<td class="cuerpo_tabla_centro">8,32707548</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0205</td>
-<td class="cuerpo_tabla_centro">COTESA</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">06/06/1995</td>
-<td class="cuerpo_tabla_centro">Gas residual refinería/ Gasoil 0,1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0142</td>
-<td class="cuerpo_tabla_centro">EL PALMAR 19, DIÉSEL 18</td>
-<td class="cuerpo_tabla_centro">3,1</td>
-<td class="cuerpo_tabla_centro">1,73</td>
-<td class="cuerpo_tabla_centro">04/12/2004</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0054</td>
-<td class="cuerpo_tabla_centro">865,97</td>
-<td class="cuerpo_tabla_centro">1.678,83</td>
-<td class="cuerpo_tabla_centro">81,52</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">72,71173897</td>
-<td class="cuerpo_tabla_centro">33,63432389</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0136</td>
-<td class="cuerpo_tabla_centro">EL PALMAR 13, DIÉSEL 12</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">0,85</td>
-<td class="cuerpo_tabla_centro">01/05/1988</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0053</td>
-<td class="cuerpo_tabla_centro">399,91</td>
-<td class="cuerpo_tabla_centro">1.895,46</td>
-<td class="cuerpo_tabla_centro">186,52</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">57,16857723</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0137</td>
-<td class="cuerpo_tabla_centro">EL PALMAR 14, DIÉSEL 13</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">0,85</td>
-<td class="cuerpo_tabla_centro">01/01/1987</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0053</td>
-<td class="cuerpo_tabla_centro">399,91</td>
-<td class="cuerpo_tabla_centro">1.895,46</td>
-<td class="cuerpo_tabla_centro">186,52</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">56,6556912</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0138</td>
-<td class="cuerpo_tabla_centro">EL PALMAR 15, DIÉSEL 14</td>
-<td class="cuerpo_tabla_centro">1,84</td>
-<td class="cuerpo_tabla_centro">0,96</td>
-<td class="cuerpo_tabla_centro">01/08/1987</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0053</td>
-<td class="cuerpo_tabla_centro">630,19</td>
-<td class="cuerpo_tabla_centro">1.780,00</td>
-<td class="cuerpo_tabla_centro">88,06</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">49,62568073</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0139</td>
-<td class="cuerpo_tabla_centro">EL PALMAR 16, DIÉSEL 15</td>
-<td class="cuerpo_tabla_centro">1,84</td>
-<td class="cuerpo_tabla_centro">0,96</td>
-<td class="cuerpo_tabla_centro">01/06/1988</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0053</td>
-<td class="cuerpo_tabla_centro">630,19</td>
-<td class="cuerpo_tabla_centro">1.780,00</td>
-<td class="cuerpo_tabla_centro">88,06</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">48,66506893</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0140</td>
-<td class="cuerpo_tabla_centro">EL PALMAR 17, DIÉSEL 16</td>
-<td class="cuerpo_tabla_centro">2,51</td>
-<td class="cuerpo_tabla_centro">1,44</td>
-<td class="cuerpo_tabla_centro">01/03/1996</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0054</td>
-<td class="cuerpo_tabla_centro">865,97</td>
-<td class="cuerpo_tabla_centro">1.678,83</td>
-<td class="cuerpo_tabla_centro">81,52</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">36,97499069</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0141</td>
-<td class="cuerpo_tabla_centro">EL PALMAR 18, DIÉSEL 17</td>
-<td class="cuerpo_tabla_centro">2,51</td>
-<td class="cuerpo_tabla_centro">1,44</td>
-<td class="cuerpo_tabla_centro">01/05/2000</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0054</td>
-<td class="cuerpo_tabla_centro">865,97</td>
-<td class="cuerpo_tabla_centro">1.678,83</td>
-<td class="cuerpo_tabla_centro">81,52</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">37,10245608</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0143</td>
-<td class="cuerpo_tabla_centro">EL PALMAR 20, DIÉSEL 19</td>
-<td class="cuerpo_tabla_centro">3,1</td>
-<td class="cuerpo_tabla_centro">1,73</td>
-<td class="cuerpo_tabla_centro">03/06/2005</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0054</td>
-<td class="cuerpo_tabla_centro">865,97</td>
-<td class="cuerpo_tabla_centro">1.678,83</td>
-<td class="cuerpo_tabla_centro">81,52</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">72,71173897</td>
-<td class="cuerpo_tabla_centro">34,06531016</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0211</td>
-<td class="cuerpo_tabla_centro">EL PALMAR 21, DIÉSEL MOVIL 3</td>
-<td class="cuerpo_tabla_centro">0,72</td>
-<td class="cuerpo_tabla_centro">0,39</td>
-<td class="cuerpo_tabla_centro">05/10/2012</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0053</td>
-<td class="cuerpo_tabla_centro">630,19</td>
-<td class="cuerpo_tabla_centro">1.780,00</td>
-<td class="cuerpo_tabla_centro">88,06</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">48,66506893</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0103</td>
-<td class="cuerpo_tabla_centro">GRANADILLA 1, GAS 1</td>
-<td class="cuerpo_tabla_centro">32,34</td>
-<td class="cuerpo_tabla_centro">6,79</td>
-<td class="cuerpo_tabla_centro">24/08/1990</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0060</td>
-<td class="cuerpo_tabla_centro">29.363,27</td>
-<td class="cuerpo_tabla_centro">2.225,92</td>
-<td class="cuerpo_tabla_centro">1,36</td>
-<td class="cuerpo_tabla_centro">10.150,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3873,331944</td>
-<td class="cuerpo_tabla_centro">22,24339966</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4">GRANADILLA, CC1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0065</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">68,7</td>
-<td class="cuerpo_tabla_centro">9,70</td>
-<td class="cuerpo_tabla_centro">1TG</td>
-<td class="cuerpo_tabla_centro">60436,761</td>
-<td class="cuerpo_tabla_centro">1925,54</td>
-<td class="cuerpo_tabla_centro">0,53</td>
-<td class="cuerpo_tabla_centro">49.877,10</td>
-<td class="cuerpo_tabla_centro">0,72135</td>
-<td class="cuerpo_tabla_centro">13183,89364</td>
-<td class="cuerpo_tabla_centro">19,0075198</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">103,05</td>
-<td class="cuerpo_tabla_centro">37,80</td>
-<td class="cuerpo_tabla_centro">1TG+1TV</td>
-<td class="cuerpo_tabla_centro">118213,531</td>
-<td class="cuerpo_tabla_centro">-390,57</td>
-<td class="cuerpo_tabla_centro">11,18</td>
-<td class="cuerpo_tabla_centro">281985,0306</td>
-<td class="cuerpo_tabla_centro">0,55379</td>
-<td class="cuerpo_tabla_centro">16.536,196</td>
-<td class="cuerpo_tabla_centro">19,0075198</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">206,1</td>
-<td class="cuerpo_tabla_centro">75,50</td>
-<td class="cuerpo_tabla_centro">2TG+1TV</td>
-<td class="cuerpo_tabla_centro">239683,594</td>
-<td class="cuerpo_tabla_centro">-440,63</td>
-<td class="cuerpo_tabla_centro">5,76</td>
-<td class="cuerpo_tabla_centro">410809,814</td>
-<td class="cuerpo_tabla_centro">0,60483</td>
-<td class="cuerpo_tabla_centro">33072,3906</td>
-<td class="cuerpo_tabla_centro">19,0075198</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0101</td>
-<td class="cuerpo_tabla_centro">GRANADILLA 2, DIÉSEL 1</td>
-<td class="cuerpo_tabla_centro">20,51</td>
-<td class="cuerpo_tabla_centro">14,09</td>
-<td class="cuerpo_tabla_centro">01/06/1991</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0052</td>
-<td class="cuerpo_tabla_centro">7.613,79</td>
-<td class="cuerpo_tabla_centro">1.381,90</td>
-<td class="cuerpo_tabla_centro">15,25</td>
-<td class="cuerpo_tabla_centro">79.576,42</td>
-<td class="cuerpo_tabla_centro">5,53611</td>
-<td class="cuerpo_tabla_centro">203,959799</td>
-<td class="cuerpo_tabla_centro">11,40856871</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0102</td>
-<td class="cuerpo_tabla_centro">GRANADILLA 3, DIÉSEL 2</td>
-<td class="cuerpo_tabla_centro">20,51</td>
-<td class="cuerpo_tabla_centro">14,09</td>
-<td class="cuerpo_tabla_centro">01/08/1991</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0052</td>
-<td class="cuerpo_tabla_centro">7.613,79</td>
-<td class="cuerpo_tabla_centro">1.381,90</td>
-<td class="cuerpo_tabla_centro">15,25</td>
-<td class="cuerpo_tabla_centro">79.576,42</td>
-<td class="cuerpo_tabla_centro">5,53611</td>
-<td class="cuerpo_tabla_centro">203,959799</td>
-<td class="cuerpo_tabla_centro">11,43231367</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO1-1054</td>
-<td class="cuerpo_tabla_centro">GRANADILLA 4, VAPOR 2</td>
-<td class="cuerpo_tabla_centro">74,24</td>
-<td class="cuerpo_tabla_centro">27,84</td>
-<td class="cuerpo_tabla_centro">05/09/1995</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0064</td>
-<td class="cuerpo_tabla_centro">21.254,08</td>
-<td class="cuerpo_tabla_centro">2.159,80</td>
-<td class="cuerpo_tabla_centro">0,23</td>
-<td class="cuerpo_tabla_centro">357.255,00</td>
-<td class="cuerpo_tabla_centro">7,21595</td>
-<td class="cuerpo_tabla_centro">12038,118</td>
-<td class="cuerpo_tabla_centro">5,232969854</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO1-1053</td>
-<td class="cuerpo_tabla_centro">GRANADILLA 5, VAPOR 1</td>
-<td class="cuerpo_tabla_centro">74,24</td>
-<td class="cuerpo_tabla_centro">27,84</td>
-<td class="cuerpo_tabla_centro">08/12/1995</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0064</td>
-<td class="cuerpo_tabla_centro">21.254,08</td>
-<td class="cuerpo_tabla_centro">2.159,80</td>
-<td class="cuerpo_tabla_centro">0,23</td>
-<td class="cuerpo_tabla_centro">357.255,00</td>
-<td class="cuerpo_tabla_centro">7,21595</td>
-<td class="cuerpo_tabla_centro">12038,118</td>
-<td class="cuerpo_tabla_centro">5,20835219</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0104</td>
-<td class="cuerpo_tabla_centro">GRANADILLA 6, GAS 2</td>
-<td class="cuerpo_tabla_centro">39,2</td>
-<td class="cuerpo_tabla_centro">6,79</td>
-<td class="cuerpo_tabla_centro">10/12/2001</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0060</td>
-<td class="cuerpo_tabla_centro">31.391,05</td>
-<td class="cuerpo_tabla_centro">1.773,42</td>
-<td class="cuerpo_tabla_centro">11,58</td>
-<td class="cuerpo_tabla_centro">10.094,78</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3988,381407</td>
-<td class="cuerpo_tabla_centro">20,53421749</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4">GRANADILLA, CC2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4"> </td>
-<td class="cuerpo_tabla_centro" rowspan="4">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0065</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">75,0</td>
-<td class="cuerpo_tabla_centro">9,70</td>
-<td class="cuerpo_tabla_centro">1TG</td>
-<td class="cuerpo_tabla_centro">60436,761</td>
-<td class="cuerpo_tabla_centro">1925,54</td>
-<td class="cuerpo_tabla_centro">0,53</td>
-<td class="cuerpo_tabla_centro">49.877,10</td>
-<td class="cuerpo_tabla_centro">0,72135</td>
-<td class="cuerpo_tabla_centro">13183,89364</td>
-<td class="cuerpo_tabla_centro">18,6949719</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">113,5</td>
-<td class="cuerpo_tabla_centro">37,80</td>
-<td class="cuerpo_tabla_centro">1TG+1TV</td>
-<td class="cuerpo_tabla_centro">118213,531</td>
-<td class="cuerpo_tabla_centro">-390,57</td>
-<td class="cuerpo_tabla_centro">11,18</td>
-<td class="cuerpo_tabla_centro">281985,0306</td>
-<td class="cuerpo_tabla_centro">0,55379</td>
-<td class="cuerpo_tabla_centro">16.536,196</td>
-<td class="cuerpo_tabla_centro">18,6949719</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">227,0</td>
-<td class="cuerpo_tabla_centro">75,50</td>
-<td class="cuerpo_tabla_centro">2TG+1TV</td>
-<td class="cuerpo_tabla_centro">239683,594</td>
-<td class="cuerpo_tabla_centro">-440,63</td>
-<td class="cuerpo_tabla_centro">5,76</td>
-<td class="cuerpo_tabla_centro">410809,814</td>
-<td class="cuerpo_tabla_centro">0,60483</td>
-<td class="cuerpo_tabla_centro">33.072,3906</td>
-<td class="cuerpo_tabla_centro">18,6949719</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0087</td>
-<td class="cuerpo_tabla_centro">JINAMAR 10, GAS 2</td>
-<td class="cuerpo_tabla_centro">32,34</td>
-<td class="cuerpo_tabla_centro">6,79</td>
-<td class="cuerpo_tabla_centro">26/01/1989</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0060</td>
-<td class="cuerpo_tabla_centro">29.363,27</td>
-<td class="cuerpo_tabla_centro">2.225,92</td>
-<td class="cuerpo_tabla_centro">1,36</td>
-<td class="cuerpo_tabla_centro">10.150,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3873,331944</td>
-<td class="cuerpo_tabla_centro">22,69785764</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0088</td>
-<td class="cuerpo_tabla_centro">JINAMAR 11, GAS 3</td>
-<td class="cuerpo_tabla_centro">32,34</td>
-<td class="cuerpo_tabla_centro">6,79</td>
-<td class="cuerpo_tabla_centro">01/05/1989</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0060</td>
-<td class="cuerpo_tabla_centro">29.363,27</td>
-<td class="cuerpo_tabla_centro">2.225,92</td>
-<td class="cuerpo_tabla_centro">1,36</td>
-<td class="cuerpo_tabla_centro">10.150,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3873,331944</td>
-<td class="cuerpo_tabla_centro">21,75934061</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0084</td>
-<td class="cuerpo_tabla_centro">JINAMAR 12, DIÉSEL 4</td>
-<td class="cuerpo_tabla_centro">20,51</td>
-<td class="cuerpo_tabla_centro">14,09</td>
-<td class="cuerpo_tabla_centro">07/06/1990</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0052</td>
-<td class="cuerpo_tabla_centro">7.613,79</td>
-<td class="cuerpo_tabla_centro">1.381,90</td>
-<td class="cuerpo_tabla_centro">15,25</td>
-<td class="cuerpo_tabla_centro">79.576,42</td>
-<td class="cuerpo_tabla_centro">5,53611</td>
-<td class="cuerpo_tabla_centro">203,959799</td>
-<td class="cuerpo_tabla_centro">12,69410963</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0085</td>
-<td class="cuerpo_tabla_centro">JINAMAR 13, DIÉSEL 5</td>
-<td class="cuerpo_tabla_centro">20,51</td>
-<td class="cuerpo_tabla_centro">14,09</td>
-<td class="cuerpo_tabla_centro">08/08/1990</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0052</td>
-<td class="cuerpo_tabla_centro">7.613,79</td>
-<td class="cuerpo_tabla_centro">1.381,90</td>
-<td class="cuerpo_tabla_centro">15,25</td>
-<td class="cuerpo_tabla_centro">79.576,42</td>
-<td class="cuerpo_tabla_centro">5,53611</td>
-<td class="cuerpo_tabla_centro">203,959799</td>
-<td class="cuerpo_tabla_centro">12,59885711</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0081</td>
-<td class="cuerpo_tabla_centro">JINAMAR 2, DIÉSEL 1</td>
-<td class="cuerpo_tabla_centro">8,51</td>
-<td class="cuerpo_tabla_centro">4,58</td>
-<td class="cuerpo_tabla_centro">01/02/1973</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0050</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">57.689,14</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">127,9527739</td>
-<td class="cuerpo_tabla_centro">24,00818225</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0082</td>
-<td class="cuerpo_tabla_centro">JINAMAR 3, DIÉSEL 2</td>
-<td class="cuerpo_tabla_centro">8,51</td>
-<td class="cuerpo_tabla_centro">4,58</td>
-<td class="cuerpo_tabla_centro">27/08/1973</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0050</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">57.689,14</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">127,9527739</td>
-<td class="cuerpo_tabla_centro">22,48735287</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0083</td>
-<td class="cuerpo_tabla_centro">JINAMAR 4, DIÉSEL 3</td>
-<td class="cuerpo_tabla_centro">8,51</td>
-<td class="cuerpo_tabla_centro">4,58</td>
-<td class="cuerpo_tabla_centro">01/02/1974</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0050</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">57.689,14</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">127,9527739</td>
-<td class="cuerpo_tabla_centro">22,2381091</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0086</td>
-<td class="cuerpo_tabla_centro">JINAMAR 7, GAS 1</td>
-<td class="cuerpo_tabla_centro">17,64</td>
-<td class="cuerpo_tabla_centro">6,79</td>
-<td class="cuerpo_tabla_centro">21/04/1981</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0059</td>
-<td class="cuerpo_tabla_centro">23.287,86</td>
-<td class="cuerpo_tabla_centro">2.737,04</td>
-<td class="cuerpo_tabla_centro">6,37</td>
-<td class="cuerpo_tabla_centro">12.180,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3873,331944</td>
-<td class="cuerpo_tabla_centro">23,4912697</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO1-1047</td>
-<td class="cuerpo_tabla_centro">JINAMAR 8, VAPOR 4</td>
-<td class="cuerpo_tabla_centro">55,56</td>
-<td class="cuerpo_tabla_centro">17,7</td>
-<td class="cuerpo_tabla_centro">01/08/1982</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0063</td>
-<td class="cuerpo_tabla_centro">12.991,35</td>
-<td class="cuerpo_tabla_centro">2.677,03</td>
-<td class="cuerpo_tabla_centro">0,19</td>
-<td class="cuerpo_tabla_centro">269.052,81</td>
-<td class="cuerpo_tabla_centro">17,43684</td>
-<td class="cuerpo_tabla_centro">11114,44123</td>
-<td class="cuerpo_tabla_centro">7,148321746</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO1-1048</td>
-<td class="cuerpo_tabla_centro">JINAMAR 9, VAPOR 5</td>
-<td class="cuerpo_tabla_centro">55,56</td>
-<td class="cuerpo_tabla_centro">17,7</td>
-<td class="cuerpo_tabla_centro">05/12/1984</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0063</td>
-<td class="cuerpo_tabla_centro">12.991,35</td>
-<td class="cuerpo_tabla_centro">2.677,03</td>
-<td class="cuerpo_tabla_centro">0,19</td>
-<td class="cuerpo_tabla_centro">269.052,81</td>
-<td class="cuerpo_tabla_centro">17,43684</td>
-<td class="cuerpo_tabla_centro">11114,44123</td>
-<td class="cuerpo_tabla_centro">7,369001112</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0118</td>
-<td class="cuerpo_tabla_centro">LAS SALINAS 1, DIÉSEL 1</td>
-<td class="cuerpo_tabla_centro">3,82</td>
-<td class="cuerpo_tabla_centro">2,4</td>
-<td class="cuerpo_tabla_centro">06/10/1975</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0054</td>
-<td class="cuerpo_tabla_centro">504,22</td>
-<td class="cuerpo_tabla_centro">2.248,31</td>
-<td class="cuerpo_tabla_centro">23,65</td>
-<td class="cuerpo_tabla_centro">9.675,39</td>
-<td class="cuerpo_tabla_centro">6,04355</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">28,99447731</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0179</td>
-<td class="cuerpo_tabla_centro">LAS SALINAS 10, DIÉSEL 7</td>
-<td class="cuerpo_tabla_centro">17,2</td>
-<td class="cuerpo_tabla_centro">11,8</td>
-<td class="cuerpo_tabla_centro">16/07/2004</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0056</td>
-<td class="cuerpo_tabla_centro">9.556,47</td>
-<td class="cuerpo_tabla_centro">1.039,20</td>
-<td class="cuerpo_tabla_centro">36,11</td>
-<td class="cuerpo_tabla_centro">57.689,14</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">206,7067848</td>
-<td class="cuerpo_tabla_centro">21,98163647</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0199</td>
-<td class="cuerpo_tabla_centro">LAS SALINAS 11, DIÉSEL 8</td>
-<td class="cuerpo_tabla_centro">17,2</td>
-<td class="cuerpo_tabla_centro">11,8</td>
-<td class="cuerpo_tabla_centro">25/07/2005</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0056</td>
-<td class="cuerpo_tabla_centro">9.556,47</td>
-<td class="cuerpo_tabla_centro">1.039,20</td>
-<td class="cuerpo_tabla_centro">36,11</td>
-<td class="cuerpo_tabla_centro">57.689,14</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">206,7067848</td>
-<td class="cuerpo_tabla_centro">22,12963861</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0200</td>
-<td class="cuerpo_tabla_centro">LAS SALINAS 12, DIÉSEL 9</td>
-<td class="cuerpo_tabla_centro">17,2</td>
-<td class="cuerpo_tabla_centro">11,8</td>
-<td class="cuerpo_tabla_centro">28/09/2005</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0056</td>
-<td class="cuerpo_tabla_centro">9.556,47</td>
-<td class="cuerpo_tabla_centro">1.039,20</td>
-<td class="cuerpo_tabla_centro">36,11</td>
-<td class="cuerpo_tabla_centro">57.689,14</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">206,7067848</td>
-<td class="cuerpo_tabla_centro">22,38439344</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0119</td>
-<td class="cuerpo_tabla_centro">LAS SALINAS 2, DIÉSEL 2</td>
-<td class="cuerpo_tabla_centro">3,82</td>
-<td class="cuerpo_tabla_centro">2,4</td>
-<td class="cuerpo_tabla_centro">01/02/1976</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0054</td>
-<td class="cuerpo_tabla_centro">504,22</td>
-<td class="cuerpo_tabla_centro">2.248,31</td>
-<td class="cuerpo_tabla_centro">23,65</td>
-<td class="cuerpo_tabla_centro">9.675,39</td>
-<td class="cuerpo_tabla_centro">6,04355</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">29,29342578</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0120</td>
-<td class="cuerpo_tabla_centro">LAS SALINAS 3, DIÉSEL 3</td>
-<td class="cuerpo_tabla_centro">4,11</td>
-<td class="cuerpo_tabla_centro">2,8</td>
-<td class="cuerpo_tabla_centro">01/02/1980</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0055</td>
-<td class="cuerpo_tabla_centro">346,04</td>
-<td class="cuerpo_tabla_centro">2.406,12</td>
-<td class="cuerpo_tabla_centro">17,63</td>
-<td class="cuerpo_tabla_centro">11.287,89</td>
-<td class="cuerpo_tabla_centro">6,04425</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">40,9710065</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0121</td>
-<td class="cuerpo_tabla_centro">LAS SALINAS 4, DIÉSEL 4</td>
-<td class="cuerpo_tabla_centro">6,21</td>
-<td class="cuerpo_tabla_centro">4,2</td>
-<td class="cuerpo_tabla_centro">15/11/1981</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0055</td>
-<td class="cuerpo_tabla_centro">1.588,74</td>
-<td class="cuerpo_tabla_centro">2.247,64</td>
-<td class="cuerpo_tabla_centro">10,23</td>
-<td class="cuerpo_tabla_centro">16.842,61</td>
-<td class="cuerpo_tabla_centro">6,04405</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">33,29885207</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0122</td>
-<td class="cuerpo_tabla_centro">LAS SALINAS 5, DIÉSEL 5</td>
-<td class="cuerpo_tabla_centro">6,21</td>
-<td class="cuerpo_tabla_centro">4,2</td>
-<td class="cuerpo_tabla_centro">07/10/1981</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0055</td>
-<td class="cuerpo_tabla_centro">1.588,74</td>
-<td class="cuerpo_tabla_centro">2.247,64</td>
-<td class="cuerpo_tabla_centro">10,23</td>
-<td class="cuerpo_tabla_centro">16.842,61</td>
-<td class="cuerpo_tabla_centro">6,04405</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">34,04457672</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0123</td>
-<td class="cuerpo_tabla_centro">LAS SALINAS 6, DIÉSEL 6</td>
-<td class="cuerpo_tabla_centro">20,51</td>
-<td class="cuerpo_tabla_centro">14,09</td>
-<td class="cuerpo_tabla_centro">18/06/1990</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0052</td>
-<td class="cuerpo_tabla_centro">7.613,79</td>
-<td class="cuerpo_tabla_centro">1.381,90</td>
-<td class="cuerpo_tabla_centro">15,25</td>
-<td class="cuerpo_tabla_centro">79.576,42</td>
-<td class="cuerpo_tabla_centro">5,53611</td>
-<td class="cuerpo_tabla_centro">203,959799</td>
-<td class="cuerpo_tabla_centro">12,49249904</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0124</td>
-<td class="cuerpo_tabla_centro">LAS SALINAS 7,GAS 1</td>
-<td class="cuerpo_tabla_centro">21,85</td>
-<td class="cuerpo_tabla_centro">6,79</td>
-<td class="cuerpo_tabla_centro">01/10/1992</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0059</td>
-<td class="cuerpo_tabla_centro">23.439,54</td>
-<td class="cuerpo_tabla_centro">2.526,18</td>
-<td class="cuerpo_tabla_centro">3,36</td>
-<td class="cuerpo_tabla_centro">14.210,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3873,331944</td>
-<td class="cuerpo_tabla_centro">30,99275751</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0125</td>
-<td class="cuerpo_tabla_centro">LAS SALINAS 8, GAS 2</td>
-<td class="cuerpo_tabla_centro">29,4</td>
-<td class="cuerpo_tabla_centro">9,69</td>
-<td class="cuerpo_tabla_centro">01/07/2000</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0060</td>
-<td class="cuerpo_tabla_centro">29.363,27</td>
-<td class="cuerpo_tabla_centro">2.225,92</td>
-<td class="cuerpo_tabla_centro">1,36</td>
-<td class="cuerpo_tabla_centro">10.150,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3873,331944</td>
-<td class="cuerpo_tabla_centro">25,67660445</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0135</td>
-<td class="cuerpo_tabla_centro">LAS SALINAS 9 (GAS MÓVIL 1)</td>
-<td class="cuerpo_tabla_centro">11,74</td>
-<td class="cuerpo_tabla_centro">2,93</td>
-<td class="cuerpo_tabla_centro">01/01/1988</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0058</td>
-<td class="cuerpo_tabla_centro">25.849,66</td>
-<td class="cuerpo_tabla_centro">2.113,22</td>
-<td class="cuerpo_tabla_centro">12,27</td>
-<td class="cuerpo_tabla_centro">10.150,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3873,331944</td>
-<td class="cuerpo_tabla_centro">69,40764102</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0149</td>
-<td class="cuerpo_tabla_centro">LLANOS BLANCOS 1, DIÉSEL MÓVIL 1</td>
-<td class="cuerpo_tabla_centro">1,07</td>
-<td class="cuerpo_tabla_centro">0.29</td>
-<td class="cuerpo_tabla_centro">01/06/1987</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0053</td>
-<td class="cuerpo_tabla_centro">347,82</td>
-<td class="cuerpo_tabla_centro">2.189,28</td>
-<td class="cuerpo_tabla_centro">57,43</td>
-<td class="cuerpo_tabla_centro">2.791,00</td>
-<td class="cuerpo_tabla_centro">1,44307</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">83,8013545</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0144</td>
-<td class="cuerpo_tabla_centro">LLANOS BLANCOS 11, DIÉSEL 9</td>
-<td class="cuerpo_tabla_centro">0,88</td>
-<td class="cuerpo_tabla_centro">0,44</td>
-<td class="cuerpo_tabla_centro">01/03/1996</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0053</td>
-<td class="cuerpo_tabla_centro">413,31</td>
-<td class="cuerpo_tabla_centro">1.778,65</td>
-<td class="cuerpo_tabla_centro">174,99</td>
-<td class="cuerpo_tabla_centro">2.791,00</td>
-<td class="cuerpo_tabla_centro">1,44307</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">81,04675844</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0145</td>
-<td class="cuerpo_tabla_centro">LLANOS BLANCOS 12, DIÉSEL 10</td>
-<td class="cuerpo_tabla_centro">1,07</td>
-<td class="cuerpo_tabla_centro">0,48</td>
-<td class="cuerpo_tabla_centro">11/09/1991</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0053</td>
-<td class="cuerpo_tabla_centro">693,68</td>
-<td class="cuerpo_tabla_centro">1.762,03</td>
-<td class="cuerpo_tabla_centro">127,38</td>
-<td class="cuerpo_tabla_centro">2.791,00</td>
-<td class="cuerpo_tabla_centro">1,44307</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">69,47077039</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0146</td>
-<td class="cuerpo_tabla_centro">LLANOS BLANCOS 13, DIÉSEL 11</td>
-<td class="cuerpo_tabla_centro">1,07</td>
-<td class="cuerpo_tabla_centro">0,48</td>
-<td class="cuerpo_tabla_centro">04/12/1991</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0053</td>
-<td class="cuerpo_tabla_centro">693,68</td>
-<td class="cuerpo_tabla_centro">1.762,03</td>
-<td class="cuerpo_tabla_centro">127,38</td>
-<td class="cuerpo_tabla_centro">2.791,00</td>
-<td class="cuerpo_tabla_centro">1,44307</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">69,35290075</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0147</td>
-<td class="cuerpo_tabla_centro">LLANOS BLANCOS 14, DIÉSEL 12</td>
-<td class="cuerpo_tabla_centro">1,26</td>
-<td class="cuerpo_tabla_centro">0,48</td>
-<td class="cuerpo_tabla_centro">01/02/1995</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0053</td>
-<td class="cuerpo_tabla_centro">622,56</td>
-<td class="cuerpo_tabla_centro">1.765,84</td>
-<td class="cuerpo_tabla_centro">72,6</td>
-<td class="cuerpo_tabla_centro">2.791,00</td>
-<td class="cuerpo_tabla_centro">1,44307</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">66,55279257</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0148</td>
-<td class="cuerpo_tabla_centro">LLANOS BLANCOS 15, DIÉSEL 13</td>
-<td class="cuerpo_tabla_centro">1,36</td>
-<td class="cuerpo_tabla_centro">0,48</td>
-<td class="cuerpo_tabla_centro">30/03/2000</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0053</td>
-<td class="cuerpo_tabla_centro">622,56</td>
-<td class="cuerpo_tabla_centro">1.765,84</td>
-<td class="cuerpo_tabla_centro">72,6</td>
-<td class="cuerpo_tabla_centro">2.791,00</td>
-<td class="cuerpo_tabla_centro">1,44307</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">62,87395791</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0176</td>
-<td class="cuerpo_tabla_centro">LLANOS BLANCOS 16, DIÉSEL, 14</td>
-<td class="cuerpo_tabla_centro">1,9</td>
-<td class="cuerpo_tabla_centro">0,91</td>
-<td class="cuerpo_tabla_centro">21/10/2005</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0053</td>
-<td class="cuerpo_tabla_centro">865,97</td>
-<td class="cuerpo_tabla_centro">1.678,83</td>
-<td class="cuerpo_tabla_centro">81,52</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">72,71173897</td>
-<td class="cuerpo_tabla_centro">46,09137694</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0186</td>
-<td class="cuerpo_tabla_centro">LLANOS BLANCOS 17, DIÉSEL 15</td>
-<td class="cuerpo_tabla_centro">1,9</td>
-<td class="cuerpo_tabla_centro">0,91</td>
-<td class="cuerpo_tabla_centro">17/10/2007</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0053</td>
-<td class="cuerpo_tabla_centro">865,97</td>
-<td class="cuerpo_tabla_centro">1.678,83</td>
-<td class="cuerpo_tabla_centro">81,52</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">72,71173897</td>
-<td class="cuerpo_tabla_centro">46,07529148</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO3-0019</td>
-<td class="cuerpo_tabla_centro">LLANOS BLANCOS 9, DIÉSEL 7</td>
-<td class="cuerpo_tabla_centro">0,67</td>
-<td class="cuerpo_tabla_centro">0,29</td>
-<td class="cuerpo_tabla_centro">01/08/1977</td>
-<td class="cuerpo_tabla_centro">Diéseloil</td>
-<td class="cuerpo_tabla_centro">IT-0053</td>
-<td class="cuerpo_tabla_centro">104,77</td>
-<td class="cuerpo_tabla_centro">2.697,39</td>
-<td class="cuerpo_tabla_centro">194,85</td>
-<td class="cuerpo_tabla_centro">2.791,00</td>
-<td class="cuerpo_tabla_centro">1,44307</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">109,2030179</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0131</td>
-<td class="cuerpo_tabla_centro">LOS GUINCHOS 10, DIÉSEL 10</td>
-<td class="cuerpo_tabla_centro">6,69</td>
-<td class="cuerpo_tabla_centro">4,2</td>
-<td class="cuerpo_tabla_centro">17/03/1983</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0055</td>
-<td class="cuerpo_tabla_centro">1.599,88</td>
-<td class="cuerpo_tabla_centro">2.243,21</td>
-<td class="cuerpo_tabla_centro">10,66</td>
-<td class="cuerpo_tabla_centro">16.842,61</td>
-<td class="cuerpo_tabla_centro">6,04405</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">31,61210672</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0132</td>
-<td class="cuerpo_tabla_centro">LOS GUINCHOS 12, DIÉSEL 11</td>
-<td class="cuerpo_tabla_centro">6,69</td>
-<td class="cuerpo_tabla_centro">5,2</td>
-<td class="cuerpo_tabla_centro">01/03/1995</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0055</td>
-<td class="cuerpo_tabla_centro">1.599,88</td>
-<td class="cuerpo_tabla_centro">2.243,21</td>
-<td class="cuerpo_tabla_centro">10,66</td>
-<td class="cuerpo_tabla_centro">16.842,61</td>
-<td class="cuerpo_tabla_centro">6,04405</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">29,37454498</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0133</td>
-<td class="cuerpo_tabla_centro">LOS GUINCHOS 13, DIÉSEL 12</td>
-<td class="cuerpo_tabla_centro">11,5</td>
-<td class="cuerpo_tabla_centro">6,63</td>
-<td class="cuerpo_tabla_centro">01/02/2001</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0055</td>
-<td class="cuerpo_tabla_centro">1.203,38</td>
-<td class="cuerpo_tabla_centro">2.038,81</td>
-<td class="cuerpo_tabla_centro">9,45</td>
-<td class="cuerpo_tabla_centro">58.446,37</td>
-<td class="cuerpo_tabla_centro">5,52231</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">23,67562899</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0134</td>
-<td class="cuerpo_tabla_centro">LOS GUINCHOS 14, DIÉSEL 13</td>
-<td class="cuerpo_tabla_centro">11,2</td>
-<td class="cuerpo_tabla_centro">6,63</td>
-<td class="cuerpo_tabla_centro">10/11/2003</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0055</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">15.172,71</td>
-<td class="cuerpo_tabla_centro">2,88669</td>
-<td class="cuerpo_tabla_centro">161,5685504</td>
-<td class="cuerpo_tabla_centro">26,93248976</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0187</td>
-<td class="cuerpo_tabla_centro">LOS GUINCHOS 15, GAS MÓVIL 2</td>
-<td class="cuerpo_tabla_centro">21,6</td>
-<td class="cuerpo_tabla_centro">4,85</td>
-<td class="cuerpo_tabla_centro">30/03/2006</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0057</td>
-<td class="cuerpo_tabla_centro">9.167,14</td>
-<td class="cuerpo_tabla_centro">2.154,04</td>
-<td class="cuerpo_tabla_centro">1,59</td>
-<td class="cuerpo_tabla_centro">8.120,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">818,4926475</td>
-<td class="cuerpo_tabla_centro">31,01029224</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0191</td>
-<td class="cuerpo_tabla_centro">LOS GUINCHOS 16 (DIÉSEL 14)</td>
-<td class="cuerpo_tabla_centro">11,5</td>
-<td class="cuerpo_tabla_centro">6,63</td>
-<td class="cuerpo_tabla_centro">01/07/2006</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0055</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">15.172,71</td>
-<td class="cuerpo_tabla_centro">2,88669</td>
-<td class="cuerpo_tabla_centro">161,5685504</td>
-<td class="cuerpo_tabla_centro">26,77791788</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0192</td>
-<td class="cuerpo_tabla_centro">LOS GUINCHOS 17 (DIÉSEL 15)</td>
-<td class="cuerpo_tabla_centro">11,5</td>
-<td class="cuerpo_tabla_centro">6,63</td>
-<td class="cuerpo_tabla_centro">01/08/2006</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0055</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">15.172,71</td>
-<td class="cuerpo_tabla_centro">2,88669</td>
-<td class="cuerpo_tabla_centro">161,5685504</td>
-<td class="cuerpo_tabla_centro">26,56744182</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0127</td>
-<td class="cuerpo_tabla_centro">LOS GUINCHOS 6, DIÉSEL 6</td>
-<td class="cuerpo_tabla_centro">3,82</td>
-<td class="cuerpo_tabla_centro">2,35</td>
-<td class="cuerpo_tabla_centro">01/02/1973</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0054</td>
-<td class="cuerpo_tabla_centro">504,22</td>
-<td class="cuerpo_tabla_centro">2.248,31</td>
-<td class="cuerpo_tabla_centro">23,65</td>
-<td class="cuerpo_tabla_centro">9.675,39</td>
-<td class="cuerpo_tabla_centro">6,04355</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">28,50325754</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0128</td>
-<td class="cuerpo_tabla_centro">LOS GUINCHOS 7, DIÉSEL 7</td>
-<td class="cuerpo_tabla_centro">3,82</td>
-<td class="cuerpo_tabla_centro">2,35</td>
-<td class="cuerpo_tabla_centro">07/12/1973</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0054</td>
-<td class="cuerpo_tabla_centro">504,22</td>
-<td class="cuerpo_tabla_centro">2.248,31</td>
-<td class="cuerpo_tabla_centro">23,65</td>
-<td class="cuerpo_tabla_centro">9.675,39</td>
-<td class="cuerpo_tabla_centro">6,04355</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">28,14652181</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0129</td>
-<td class="cuerpo_tabla_centro">LOS GUINCHOS 8, DIÉSEL 8</td>
-<td class="cuerpo_tabla_centro">3,82</td>
-<td class="cuerpo_tabla_centro">2,35</td>
-<td class="cuerpo_tabla_centro">01/05/1975</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0054</td>
-<td class="cuerpo_tabla_centro">504,22</td>
-<td class="cuerpo_tabla_centro">2.248,31</td>
-<td class="cuerpo_tabla_centro">23,65</td>
-<td class="cuerpo_tabla_centro">9.675,39</td>
-<td class="cuerpo_tabla_centro">6,04355</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">27,80194416</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0130</td>
-<td class="cuerpo_tabla_centro">LOS GUINCHOS 9, DIÉSEL 9</td>
-<td class="cuerpo_tabla_centro">4,3</td>
-<td class="cuerpo_tabla_centro">2,82</td>
-<td class="cuerpo_tabla_centro">07/07/1980</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0055</td>
-<td class="cuerpo_tabla_centro">346,04</td>
-<td class="cuerpo_tabla_centro">2.406,12</td>
-<td class="cuerpo_tabla_centro">17,63</td>
-<td class="cuerpo_tabla_centro">11.287,89</td>
-<td class="cuerpo_tabla_centro">6,04425</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">41,46980323</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0110</td>
-<td class="cuerpo_tabla_centro">PUNTA GRANDE 11, DIÉSEL 4</td>
-<td class="cuerpo_tabla_centro">12,85</td>
-<td class="cuerpo_tabla_centro">8,7</td>
-<td class="cuerpo_tabla_centro">14/07/1989</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0051</td>
-<td class="cuerpo_tabla_centro">3.418,40</td>
-<td class="cuerpo_tabla_centro">1.606,25</td>
-<td class="cuerpo_tabla_centro">14,55</td>
-<td class="cuerpo_tabla_centro">57.689,14</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">127,9527739</td>
-<td class="cuerpo_tabla_centro">11,82342316</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0111</td>
-<td class="cuerpo_tabla_centro">PUNTA GRANDE 12, DIÉSEL 5</td>
-<td class="cuerpo_tabla_centro">12,85</td>
-<td class="cuerpo_tabla_centro">8,7</td>
-<td class="cuerpo_tabla_centro">05/05/1989</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0051</td>
-<td class="cuerpo_tabla_centro">3.418,40</td>
-<td class="cuerpo_tabla_centro">1.606,25</td>
-<td class="cuerpo_tabla_centro">14,55</td>
-<td class="cuerpo_tabla_centro">57.689,14</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">127,9527739</td>
-<td class="cuerpo_tabla_centro">12,05824741</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0112</td>
-<td class="cuerpo_tabla_centro">PUNTA GRANDE 13, DIÉSEL 6</td>
-<td class="cuerpo_tabla_centro">20,51</td>
-<td class="cuerpo_tabla_centro">14,09</td>
-<td class="cuerpo_tabla_centro">01/09/1992</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0052</td>
-<td class="cuerpo_tabla_centro">7.613,79</td>
-<td class="cuerpo_tabla_centro">1.381,90</td>
-<td class="cuerpo_tabla_centro">15,25</td>
-<td class="cuerpo_tabla_centro">79.576,42</td>
-<td class="cuerpo_tabla_centro">5,53611</td>
-<td class="cuerpo_tabla_centro">203,959799</td>
-<td class="cuerpo_tabla_centro">12,00511999</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0116</td>
-<td class="cuerpo_tabla_centro">PUNTA GRANDE 14, GAS 2</td>
-<td class="cuerpo_tabla_centro">32,34</td>
-<td class="cuerpo_tabla_centro">6,79</td>
-<td class="cuerpo_tabla_centro">01/01/1998</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0060</td>
-<td class="cuerpo_tabla_centro">29.363,27</td>
-<td class="cuerpo_tabla_centro">2.225,92</td>
-<td class="cuerpo_tabla_centro">1,36</td>
-<td class="cuerpo_tabla_centro">10.150,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3873,331944</td>
-<td class="cuerpo_tabla_centro">28,32403325</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0113</td>
-<td class="cuerpo_tabla_centro">PUNTA GRANDE 15, DIÉSEL 7</td>
-<td class="cuerpo_tabla_centro">17,2</td>
-<td class="cuerpo_tabla_centro">11,8</td>
-<td class="cuerpo_tabla_centro">21/02/2002</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0056</td>
-<td class="cuerpo_tabla_centro">9.556,47</td>
-<td class="cuerpo_tabla_centro">1.039,20</td>
-<td class="cuerpo_tabla_centro">36,11</td>
-<td class="cuerpo_tabla_centro">57.689,14</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">206,7067848</td>
-<td class="cuerpo_tabla_centro">21,80018492</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0114</td>
-<td class="cuerpo_tabla_centro">PUNTA GRANDE 16, DIÉSEL 8</td>
-<td class="cuerpo_tabla_centro">17,2</td>
-<td class="cuerpo_tabla_centro">11,8</td>
-<td class="cuerpo_tabla_centro">21/01/2002</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0056</td>
-<td class="cuerpo_tabla_centro">9.556,47</td>
-<td class="cuerpo_tabla_centro">1.039,20</td>
-<td class="cuerpo_tabla_centro">36,11</td>
-<td class="cuerpo_tabla_centro">57.689,14</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">206,7067848</td>
-<td class="cuerpo_tabla_centro">21,74905269</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0107</td>
-<td class="cuerpo_tabla_centro">PUNTA GRANDE 2, DIÉSEL 1</td>
-<td class="cuerpo_tabla_centro">6,49</td>
-<td class="cuerpo_tabla_centro">4,2</td>
-<td class="cuerpo_tabla_centro">06/06/1986</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0055</td>
-<td class="cuerpo_tabla_centro">1.599,88</td>
-<td class="cuerpo_tabla_centro">2.243,21</td>
-<td class="cuerpo_tabla_centro">10,66</td>
-<td class="cuerpo_tabla_centro">16.842,61</td>
-<td class="cuerpo_tabla_centro">6,04405</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">33,64430149</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0108</td>
-<td class="cuerpo_tabla_centro">PUNTA GRANDE 3, DIÉSEL 2</td>
-<td class="cuerpo_tabla_centro">6,49</td>
-<td class="cuerpo_tabla_centro">4,2</td>
-<td class="cuerpo_tabla_centro">01/12/1986</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0055</td>
-<td class="cuerpo_tabla_centro">1.599,88</td>
-<td class="cuerpo_tabla_centro">2.243,21</td>
-<td class="cuerpo_tabla_centro">10,66</td>
-<td class="cuerpo_tabla_centro">16.842,61</td>
-<td class="cuerpo_tabla_centro">6,04405</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">33,67957051</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0109</td>
-<td class="cuerpo_tabla_centro">PUNTA GRANDE 7, DIÉSEL 3</td>
-<td class="cuerpo_tabla_centro">6,49</td>
-<td class="cuerpo_tabla_centro">4,2</td>
-<td class="cuerpo_tabla_centro">06/10/1987</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0055</td>
-<td class="cuerpo_tabla_centro">1.599,88</td>
-<td class="cuerpo_tabla_centro">2.243,21</td>
-<td class="cuerpo_tabla_centro">10,66</td>
-<td class="cuerpo_tabla_centro">16.842,61</td>
-<td class="cuerpo_tabla_centro">6,04405</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">33,81121183</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0115</td>
-<td class="cuerpo_tabla_centro">PUNTA GRANDE 9, GAS 1</td>
-<td class="cuerpo_tabla_centro">19,6</td>
-<td class="cuerpo_tabla_centro">6,79</td>
-<td class="cuerpo_tabla_centro">01/06/1988</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0059</td>
-<td class="cuerpo_tabla_centro">23.411,65</td>
-<td class="cuerpo_tabla_centro">2.530,00</td>
-<td class="cuerpo_tabla_centro">3,24</td>
-<td class="cuerpo_tabla_centro">14.210,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3873,331944</td>
-<td class="cuerpo_tabla_centro">34,53837956</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0194</td>
-<td class="cuerpo_tabla_centro">PUNTA GRANDE DIÉSEL 10</td>
-<td class="cuerpo_tabla_centro">17,6</td>
-<td class="cuerpo_tabla_centro">11,8</td>
-<td class="cuerpo_tabla_centro">01/03/2006</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0056</td>
-<td class="cuerpo_tabla_centro">9.556,47</td>
-<td class="cuerpo_tabla_centro">1.039,20</td>
-<td class="cuerpo_tabla_centro">36,41</td>
-<td class="cuerpo_tabla_centro">57.689,14</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">206,7067848</td>
-<td class="cuerpo_tabla_centro">21,81331169</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0193</td>
-<td class="cuerpo_tabla_centro">PUNTA GRANDE DIÉSEL 9</td>
-<td class="cuerpo_tabla_centro">17,6</td>
-<td class="cuerpo_tabla_centro">11,8</td>
-<td class="cuerpo_tabla_centro">01/02/2006</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 0,73%</td>
-<td class="cuerpo_tabla_centro">IT-0056</td>
-<td class="cuerpo_tabla_centro">9.556,47</td>
-<td class="cuerpo_tabla_centro">1.039,20</td>
-<td class="cuerpo_tabla_centro">36,41</td>
-<td class="cuerpo_tabla_centro">57.689,14</td>
-<td class="cuerpo_tabla_centro">6,74387</td>
-<td class="cuerpo_tabla_centro">206,7067848</td>
-<td class="cuerpo_tabla_centro">21,67986737</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">RO2-0215</td>
-<td class="cuerpo_tabla_centro">GUÍA DE ISORA GAS 1</td>
-<td class="cuerpo_tabla_centro">43,1</td>
-<td class="cuerpo_tabla_centro">4,8</td>
-<td class="cuerpo_tabla_centro">01/03/2006</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0057</td>
-<td class="cuerpo_tabla_centro">9.167,14</td>
-<td class="cuerpo_tabla_centro">2.154,04</td>
-<td class="cuerpo_tabla_centro">1,59</td>
-<td class="cuerpo_tabla_centro">8.120,00</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">818,493</td>
-<td class="cuerpo_tabla_centro">18,06</td>
+<td>RO2-0105</td>
+<td>ARONA 1, GAS 1</td>
+<td>21,6</td>
+<td>4,85</td>
+<td>19/05/2003</td>
+<td>Gasoil</td>
+<td>IT-0057</td>
+<td>9.167,14</td>
+<td>2.154,04</td>
+<td>1,59</td>
+<td>8.120,00</td>
+<td>0,21715</td>
+<td>818,4926475</td>
+<td>18,44349558</td>
+</tr>
+<tr>
+<td>RO2-0106</td>
+<td>ARONA 2, GAS 2</td>
+<td>21,6</td>
+<td>4,85</td>
+<td>03/06/2003</td>
+<td>Gasoil</td>
+<td>IT-0057</td>
+<td>9.167,14</td>
+<td>2.154,04</td>
+<td>1,59</td>
+<td>8.120,00</td>
+<td>0,21715</td>
+<td>818,4926475</td>
+<td>18,91648304</td>
+</tr>
+<tr>
+<td>RO2-0089</td>
+<td>BARRANCO DE TIRAJANA 1, GAS 1</td>
+<td>32,34</td>
+<td>6,79</td>
+<td>01/07/1992</td>
+<td>Gasoil</td>
+<td>IT-0060</td>
+<td>29.363,27</td>
+<td>2.225,92</td>
+<td>1,36</td>
+<td>10.150,00</td>
+<td>0,21715</td>
+<td>3873,331944</td>
+<td>24,70598329</td>
+</tr>
+<tr>
+<td>RO2-0090</td>
+<td>BARRANCO DE TIRAJANA 2, GAS 2</td>
+<td>32,34</td>
+<td>6,79</td>
+<td>11/05/1995</td>
+<td>Gasoil</td>
+<td>IT-0060</td>
+<td>29.363,27</td>
+<td>2.225,92</td>
+<td>1,36</td>
+<td>10.150,00</td>
+<td>0,21715</td>
+<td>3873,331944</td>
+<td>23,76343636</td>
+</tr>
+<tr>
+<td>RO1-1049</td>
+<td>BARRANCO DE TIRAJANA 3, VAPOR 1</td>
+<td>74,24</td>
+<td>27,84</td>
+<td>01/01/1996</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0064</td>
+<td>21.254,08</td>
+<td>2.159,80</td>
+<td>0,23</td>
+<td>357.255,00</td>
+<td>7,21595</td>
+<td>12038,118</td>
+<td>5,511993308</td>
+</tr>
+<tr>
+<td>RO1-1050</td>
+<td>BARRANCO DE TIRAJANA 4, VAPOR 2</td>
+<td>74,24</td>
+<td>27,84</td>
+<td>05/06/1996</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0064</td>
+<td>21.254,08</td>
+<td>2.159,80</td>
+<td>0,23</td>
+<td>357.255,00</td>
+<td>7,21595</td>
+<td>12038,118</td>
+<td>5,459629502</td>
+</tr>
+<tr>
+<td rowspan="4"> </td>
+<td rowspan="4">BARRANCO DE TIRAJANA, CC1</td>
+<td> </td>
+<td> </td>
+<td rowspan="4"> </td>
+<td rowspan="4">Gasoil</td>
+<td>IT-0065</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>68,7</td>
+<td>9,70</td>
+<td>1TG</td>
+<td>60436,761</td>
+<td>1925,54</td>
+<td>0,53</td>
+<td>49.877,10</td>
+<td>0,72135</td>
+<td>13183,89364</td>
+<td>20,2336195</td>
+</tr>
+<tr>
+<td>103,05</td>
+<td>37,80</td>
+<td>1TG+1TV</td>
+<td>118213,531</td>
+<td>-390,57</td>
+<td>11,18</td>
+<td>281985,0306</td>
+<td>0,55379</td>
+<td>16.536,196</td>
+<td>20,2336195</td>
+</tr>
+<tr>
+<td>206,1</td>
+<td>75,50</td>
+<td>2TG+1TV</td>
+<td>239683,594</td>
+<td>-440,63</td>
+<td>5,76</td>
+<td>410809,814</td>
+<td>0,60483</td>
+<td>33.072,3906</td>
+<td>20,2336195</td>
+</tr>
+<tr>
+<td rowspan="4"> </td>
+<td rowspan="4">BARRANCO DE TIRAJANA, CC2</td>
+<td> </td>
+<td> </td>
+<td rowspan="4"> </td>
+<td rowspan="4">Gasoil</td>
+<td>IT-0065</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>75,0</td>
+<td>9,70</td>
+<td>1TG</td>
+<td>60436,761</td>
+<td>1925,54</td>
+<td>0,53</td>
+<td>49.877,10</td>
+<td>0,72135</td>
+<td>13183,89364</td>
+<td>17,4114924</td>
+</tr>
+<tr>
+<td>113,5</td>
+<td>37,80</td>
+<td>1TG+1TV</td>
+<td>118213,531</td>
+<td>-390,57</td>
+<td>11,18</td>
+<td>281985,0306</td>
+<td>0,55379</td>
+<td>16.536,196</td>
+<td>17,4114924</td>
+</tr>
+<tr>
+<td>227,0</td>
+<td>75,50</td>
+<td>2TG+1TV</td>
+<td>239683,594</td>
+<td>-440,63</td>
+<td>5,76</td>
+<td>410809,814</td>
+<td>0,60483</td>
+<td>33.072,3906</td>
+<td>17,4114924</td>
+</tr>
+<tr>
+<td>RO2-0094</td>
+<td>CANDELARIA 10, VAPOR 6</td>
+<td>37,28</td>
+<td>13,58</td>
+<td>01/10/1984</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0062</td>
+<td>8.388,39</td>
+<td>2.859,92</td>
+<td>0,46</td>
+<td>199.254,56</td>
+<td>18,7179</td>
+<td>9048,350632</td>
+<td>8,087967424</td>
+</tr>
+<tr>
+<td>RO2-0098</td>
+<td>CANDELARIA 11, GAS 1</td>
+<td>32,34</td>
+<td>6,79</td>
+<td>04/11/1988</td>
+<td>Gasoil</td>
+<td>IT-0060</td>
+<td>29.363,27</td>
+<td>2.225,92</td>
+<td>1,36</td>
+<td>10.150,00</td>
+<td>0,21715</td>
+<td>3873,331944</td>
+<td>21,19468128</td>
+</tr>
+<tr>
+<td>RO2-0099</td>
+<td>CANDELARIA 12, GAS 2</td>
+<td>32,34</td>
+<td>6,79</td>
+<td>13/07/1989</td>
+<td>Gasoil</td>
+<td>IT-0060</td>
+<td>29.363,27</td>
+<td>2.225,92</td>
+<td>1,36</td>
+<td>10.150,00</td>
+<td>0,21715</td>
+<td>3873,331944</td>
+<td>21,20336728</td>
+</tr>
+<tr>
+<td>RO2-0095</td>
+<td>CANDELARIA 3, DIÉSEL 1</td>
+<td>8,51</td>
+<td>4,58</td>
+<td>01/05/1972</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0006</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>57.689,14</td>
+<td>6,74387</td>
+<td>127,9527739</td>
+<td>22,48735287</td>
+</tr>
+<tr>
+<td>RO2-0096</td>
+<td>CANDELARIA 4, DIÉSEL 2</td>
+<td>8,51</td>
+<td>4,58</td>
+<td>01/02/1973</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0050</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>57.689,14</td>
+<td>6,74387</td>
+<td>127,9527739</td>
+<td>22,48735287</td>
+</tr>
+<tr>
+<td>RO2-0100</td>
+<td>CANDELARIA 5, GAS 3</td>
+<td>14,7</td>
+<td>6,79</td>
+<td>01/12/1972</td>
+<td>Gasoil</td>
+<td>IT-0059</td>
+<td>23.254,28</td>
+<td>2.742,84</td>
+<td>6,13</td>
+<td>14.210,00</td>
+<td>0,21715</td>
+<td>3873,331944</td>
+<td>24,40293174</td>
+</tr>
+<tr>
+<td>RO2-0097</td>
+<td>CANDELARIA 6, DIÉSEL 3</td>
+<td>8,51</td>
+<td>4,58</td>
+<td>01/11/1973</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0050</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>57.689,14</td>
+<td>6,74387</td>
+<td>127,9527739</td>
+<td>22,48735287</td>
+</tr>
+<tr>
+<td>RO2-0093</td>
+<td>CANDELARIA 9, VAPOR 5</td>
+<td>37,28</td>
+<td>13,58</td>
+<td>14/03/1979</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0062</td>
+<td>8.388,39</td>
+<td>2.859,92</td>
+<td>0,46</td>
+<td>199.254,56</td>
+<td>18,7179</td>
+<td>9048,350632</td>
+<td>8,32707548</td>
+</tr>
+<tr>
+<td>RO2-0205</td>
+<td>COTESA</td>
+<td> </td>
+<td>23</td>
+<td>06/06/1995</td>
+<td>Gas residual refinería/ Gasoil 0,1</td>
+<td> </td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td> </td>
+</tr>
+<tr>
+<td>RO2-0142</td>
+<td>EL PALMAR 19, DIÉSEL 18</td>
+<td>3,1</td>
+<td>1,73</td>
+<td>04/12/2004</td>
+<td>Diéseloil</td>
+<td>IT-0054</td>
+<td>865,97</td>
+<td>1.678,83</td>
+<td>81,52</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>72,71173897</td>
+<td>33,63432389</td>
+</tr>
+<tr>
+<td>RO2-0136</td>
+<td>EL PALMAR 13, DIÉSEL 12</td>
+<td>1,4</td>
+<td>0,85</td>
+<td>01/05/1988</td>
+<td>Diéseloil</td>
+<td>IT-0053</td>
+<td>399,91</td>
+<td>1.895,46</td>
+<td>186,52</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>57,16857723</td>
+</tr>
+<tr>
+<td>RO2-0137</td>
+<td>EL PALMAR 14, DIÉSEL 13</td>
+<td>1,4</td>
+<td>0,85</td>
+<td>01/01/1987</td>
+<td>Diéseloil</td>
+<td>IT-0053</td>
+<td>399,91</td>
+<td>1.895,46</td>
+<td>186,52</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>56,6556912</td>
+</tr>
+<tr>
+<td>RO2-0138</td>
+<td>EL PALMAR 15, DIÉSEL 14</td>
+<td>1,84</td>
+<td>0,96</td>
+<td>01/08/1987</td>
+<td>Diéseloil</td>
+<td>IT-0053</td>
+<td>630,19</td>
+<td>1.780,00</td>
+<td>88,06</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>49,62568073</td>
+</tr>
+<tr>
+<td>RO2-0139</td>
+<td>EL PALMAR 16, DIÉSEL 15</td>
+<td>1,84</td>
+<td>0,96</td>
+<td>01/06/1988</td>
+<td>Diéseloil</td>
+<td>IT-0053</td>
+<td>630,19</td>
+<td>1.780,00</td>
+<td>88,06</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>48,66506893</td>
+</tr>
+<tr>
+<td>RO2-0140</td>
+<td>EL PALMAR 17, DIÉSEL 16</td>
+<td>2,51</td>
+<td>1,44</td>
+<td>01/03/1996</td>
+<td>Diéseloil</td>
+<td>IT-0054</td>
+<td>865,97</td>
+<td>1.678,83</td>
+<td>81,52</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>36,97499069</td>
+</tr>
+<tr>
+<td>RO2-0141</td>
+<td>EL PALMAR 18, DIÉSEL 17</td>
+<td>2,51</td>
+<td>1,44</td>
+<td>01/05/2000</td>
+<td>Diéseloil</td>
+<td>IT-0054</td>
+<td>865,97</td>
+<td>1.678,83</td>
+<td>81,52</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>37,10245608</td>
+</tr>
+<tr>
+<td>RO2-0143</td>
+<td>EL PALMAR 20, DIÉSEL 19</td>
+<td>3,1</td>
+<td>1,73</td>
+<td>03/06/2005</td>
+<td>Diéseloil</td>
+<td>IT-0054</td>
+<td>865,97</td>
+<td>1.678,83</td>
+<td>81,52</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>72,71173897</td>
+<td>34,06531016</td>
+</tr>
+<tr>
+<td>RO2-0211</td>
+<td>EL PALMAR 21, DIÉSEL MOVIL 3</td>
+<td>0,72</td>
+<td>0,39</td>
+<td>05/10/2012</td>
+<td>Diéseloil</td>
+<td>IT-0053</td>
+<td>630,19</td>
+<td>1.780,00</td>
+<td>88,06</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>48,66506893</td>
+</tr>
+<tr>
+<td>RO2-0103</td>
+<td>GRANADILLA 1, GAS 1</td>
+<td>32,34</td>
+<td>6,79</td>
+<td>24/08/1990</td>
+<td>Gasoil</td>
+<td>IT-0060</td>
+<td>29.363,27</td>
+<td>2.225,92</td>
+<td>1,36</td>
+<td>10.150,00</td>
+<td>0,21715</td>
+<td>3873,331944</td>
+<td>22,24339966</td>
+</tr>
+<tr>
+<td rowspan="4"> </td>
+<td rowspan="4">GRANADILLA, CC1</td>
+<td> </td>
+<td> </td>
+<td rowspan="4"> </td>
+<td rowspan="4">Gasoil</td>
+<td>IT-0065</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>68,7</td>
+<td>9,70</td>
+<td>1TG</td>
+<td>60436,761</td>
+<td>1925,54</td>
+<td>0,53</td>
+<td>49.877,10</td>
+<td>0,72135</td>
+<td>13183,89364</td>
+<td>19,0075198</td>
+</tr>
+<tr>
+<td>103,05</td>
+<td>37,80</td>
+<td>1TG+1TV</td>
+<td>118213,531</td>
+<td>-390,57</td>
+<td>11,18</td>
+<td>281985,0306</td>
+<td>0,55379</td>
+<td>16.536,196</td>
+<td>19,0075198</td>
+</tr>
+<tr>
+<td>206,1</td>
+<td>75,50</td>
+<td>2TG+1TV</td>
+<td>239683,594</td>
+<td>-440,63</td>
+<td>5,76</td>
+<td>410809,814</td>
+<td>0,60483</td>
+<td>33072,3906</td>
+<td>19,0075198</td>
+</tr>
+<tr>
+<td>RO2-0101</td>
+<td>GRANADILLA 2, DIÉSEL 1</td>
+<td>20,51</td>
+<td>14,09</td>
+<td>01/06/1991</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0052</td>
+<td>7.613,79</td>
+<td>1.381,90</td>
+<td>15,25</td>
+<td>79.576,42</td>
+<td>5,53611</td>
+<td>203,959799</td>
+<td>11,40856871</td>
+</tr>
+<tr>
+<td>RO2-0102</td>
+<td>GRANADILLA 3, DIÉSEL 2</td>
+<td>20,51</td>
+<td>14,09</td>
+<td>01/08/1991</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0052</td>
+<td>7.613,79</td>
+<td>1.381,90</td>
+<td>15,25</td>
+<td>79.576,42</td>
+<td>5,53611</td>
+<td>203,959799</td>
+<td>11,43231367</td>
+</tr>
+<tr>
+<td>RO1-1054</td>
+<td>GRANADILLA 4, VAPOR 2</td>
+<td>74,24</td>
+<td>27,84</td>
+<td>05/09/1995</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0064</td>
+<td>21.254,08</td>
+<td>2.159,80</td>
+<td>0,23</td>
+<td>357.255,00</td>
+<td>7,21595</td>
+<td>12038,118</td>
+<td>5,232969854</td>
+</tr>
+<tr>
+<td>RO1-1053</td>
+<td>GRANADILLA 5, VAPOR 1</td>
+<td>74,24</td>
+<td>27,84</td>
+<td>08/12/1995</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0064</td>
+<td>21.254,08</td>
+<td>2.159,80</td>
+<td>0,23</td>
+<td>357.255,00</td>
+<td>7,21595</td>
+<td>12038,118</td>
+<td>5,20835219</td>
+</tr>
+<tr>
+<td>RO2-0104</td>
+<td>GRANADILLA 6, GAS 2</td>
+<td>39,2</td>
+<td>6,79</td>
+<td>10/12/2001</td>
+<td>Gasoil</td>
+<td>IT-0060</td>
+<td>31.391,05</td>
+<td>1.773,42</td>
+<td>11,58</td>
+<td>10.094,78</td>
+<td>0,21715</td>
+<td>3988,381407</td>
+<td>20,53421749</td>
+</tr>
+<tr>
+<td rowspan="4"> </td>
+<td rowspan="4">GRANADILLA, CC2</td>
+<td> </td>
+<td> </td>
+<td rowspan="4"> </td>
+<td rowspan="4">Gasoil</td>
+<td>IT-0065</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>75,0</td>
+<td>9,70</td>
+<td>1TG</td>
+<td>60436,761</td>
+<td>1925,54</td>
+<td>0,53</td>
+<td>49.877,10</td>
+<td>0,72135</td>
+<td>13183,89364</td>
+<td>18,6949719</td>
+</tr>
+<tr>
+<td>113,5</td>
+<td>37,80</td>
+<td>1TG+1TV</td>
+<td>118213,531</td>
+<td>-390,57</td>
+<td>11,18</td>
+<td>281985,0306</td>
+<td>0,55379</td>
+<td>16.536,196</td>
+<td>18,6949719</td>
+</tr>
+<tr>
+<td>227,0</td>
+<td>75,50</td>
+<td>2TG+1TV</td>
+<td>239683,594</td>
+<td>-440,63</td>
+<td>5,76</td>
+<td>410809,814</td>
+<td>0,60483</td>
+<td>33.072,3906</td>
+<td>18,6949719</td>
+</tr>
+<tr>
+<td>RO2-0087</td>
+<td>JINAMAR 10, GAS 2</td>
+<td>32,34</td>
+<td>6,79</td>
+<td>26/01/1989</td>
+<td>Gasoil</td>
+<td>IT-0060</td>
+<td>29.363,27</td>
+<td>2.225,92</td>
+<td>1,36</td>
+<td>10.150,00</td>
+<td>0,21715</td>
+<td>3873,331944</td>
+<td>22,69785764</td>
+</tr>
+<tr>
+<td>RO2-0088</td>
+<td>JINAMAR 11, GAS 3</td>
+<td>32,34</td>
+<td>6,79</td>
+<td>01/05/1989</td>
+<td>Gasoil</td>
+<td>IT-0060</td>
+<td>29.363,27</td>
+<td>2.225,92</td>
+<td>1,36</td>
+<td>10.150,00</td>
+<td>0,21715</td>
+<td>3873,331944</td>
+<td>21,75934061</td>
+</tr>
+<tr>
+<td>RO2-0084</td>
+<td>JINAMAR 12, DIÉSEL 4</td>
+<td>20,51</td>
+<td>14,09</td>
+<td>07/06/1990</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0052</td>
+<td>7.613,79</td>
+<td>1.381,90</td>
+<td>15,25</td>
+<td>79.576,42</td>
+<td>5,53611</td>
+<td>203,959799</td>
+<td>12,69410963</td>
+</tr>
+<tr>
+<td>RO2-0085</td>
+<td>JINAMAR 13, DIÉSEL 5</td>
+<td>20,51</td>
+<td>14,09</td>
+<td>08/08/1990</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0052</td>
+<td>7.613,79</td>
+<td>1.381,90</td>
+<td>15,25</td>
+<td>79.576,42</td>
+<td>5,53611</td>
+<td>203,959799</td>
+<td>12,59885711</td>
+</tr>
+<tr>
+<td>RO2-0081</td>
+<td>JINAMAR 2, DIÉSEL 1</td>
+<td>8,51</td>
+<td>4,58</td>
+<td>01/02/1973</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0050</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>57.689,14</td>
+<td>6,74387</td>
+<td>127,9527739</td>
+<td>24,00818225</td>
+</tr>
+<tr>
+<td>RO2-0082</td>
+<td>JINAMAR 3, DIÉSEL 2</td>
+<td>8,51</td>
+<td>4,58</td>
+<td>27/08/1973</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0050</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>57.689,14</td>
+<td>6,74387</td>
+<td>127,9527739</td>
+<td>22,48735287</td>
+</tr>
+<tr>
+<td>RO2-0083</td>
+<td>JINAMAR 4, DIÉSEL 3</td>
+<td>8,51</td>
+<td>4,58</td>
+<td>01/02/1974</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0050</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>57.689,14</td>
+<td>6,74387</td>
+<td>127,9527739</td>
+<td>22,2381091</td>
+</tr>
+<tr>
+<td>RO2-0086</td>
+<td>JINAMAR 7, GAS 1</td>
+<td>17,64</td>
+<td>6,79</td>
+<td>21/04/1981</td>
+<td>Gasoil</td>
+<td>IT-0059</td>
+<td>23.287,86</td>
+<td>2.737,04</td>
+<td>6,37</td>
+<td>12.180,00</td>
+<td>0,21715</td>
+<td>3873,331944</td>
+<td>23,4912697</td>
+</tr>
+<tr>
+<td>RO1-1047</td>
+<td>JINAMAR 8, VAPOR 4</td>
+<td>55,56</td>
+<td>17,7</td>
+<td>01/08/1982</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0063</td>
+<td>12.991,35</td>
+<td>2.677,03</td>
+<td>0,19</td>
+<td>269.052,81</td>
+<td>17,43684</td>
+<td>11114,44123</td>
+<td>7,148321746</td>
+</tr>
+<tr>
+<td>RO1-1048</td>
+<td>JINAMAR 9, VAPOR 5</td>
+<td>55,56</td>
+<td>17,7</td>
+<td>05/12/1984</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0063</td>
+<td>12.991,35</td>
+<td>2.677,03</td>
+<td>0,19</td>
+<td>269.052,81</td>
+<td>17,43684</td>
+<td>11114,44123</td>
+<td>7,369001112</td>
+</tr>
+<tr>
+<td>RO2-0118</td>
+<td>LAS SALINAS 1, DIÉSEL 1</td>
+<td>3,82</td>
+<td>2,4</td>
+<td>06/10/1975</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0054</td>
+<td>504,22</td>
+<td>2.248,31</td>
+<td>23,65</td>
+<td>9.675,39</td>
+<td>6,04355</td>
+<td>70,61428497</td>
+<td>28,99447731</td>
+</tr>
+<tr>
+<td>RO2-0179</td>
+<td>LAS SALINAS 10, DIÉSEL 7</td>
+<td>17,2</td>
+<td>11,8</td>
+<td>16/07/2004</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0056</td>
+<td>9.556,47</td>
+<td>1.039,20</td>
+<td>36,11</td>
+<td>57.689,14</td>
+<td>6,74387</td>
+<td>206,7067848</td>
+<td>21,98163647</td>
+</tr>
+<tr>
+<td>RO2-0199</td>
+<td>LAS SALINAS 11, DIÉSEL 8</td>
+<td>17,2</td>
+<td>11,8</td>
+<td>25/07/2005</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0056</td>
+<td>9.556,47</td>
+<td>1.039,20</td>
+<td>36,11</td>
+<td>57.689,14</td>
+<td>6,74387</td>
+<td>206,7067848</td>
+<td>22,12963861</td>
+</tr>
+<tr>
+<td>RO2-0200</td>
+<td>LAS SALINAS 12, DIÉSEL 9</td>
+<td>17,2</td>
+<td>11,8</td>
+<td>28/09/2005</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0056</td>
+<td>9.556,47</td>
+<td>1.039,20</td>
+<td>36,11</td>
+<td>57.689,14</td>
+<td>6,74387</td>
+<td>206,7067848</td>
+<td>22,38439344</td>
+</tr>
+<tr>
+<td>RO2-0119</td>
+<td>LAS SALINAS 2, DIÉSEL 2</td>
+<td>3,82</td>
+<td>2,4</td>
+<td>01/02/1976</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0054</td>
+<td>504,22</td>
+<td>2.248,31</td>
+<td>23,65</td>
+<td>9.675,39</td>
+<td>6,04355</td>
+<td>70,61428497</td>
+<td>29,29342578</td>
+</tr>
+<tr>
+<td>RO2-0120</td>
+<td>LAS SALINAS 3, DIÉSEL 3</td>
+<td>4,11</td>
+<td>2,8</td>
+<td>01/02/1980</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0055</td>
+<td>346,04</td>
+<td>2.406,12</td>
+<td>17,63</td>
+<td>11.287,89</td>
+<td>6,04425</td>
+<td>156,9079191</td>
+<td>40,9710065</td>
+</tr>
+<tr>
+<td>RO2-0121</td>
+<td>LAS SALINAS 4, DIÉSEL 4</td>
+<td>6,21</td>
+<td>4,2</td>
+<td>15/11/1981</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0055</td>
+<td>1.588,74</td>
+<td>2.247,64</td>
+<td>10,23</td>
+<td>16.842,61</td>
+<td>6,04405</td>
+<td>156,9079191</td>
+<td>33,29885207</td>
+</tr>
+<tr>
+<td>RO2-0122</td>
+<td>LAS SALINAS 5, DIÉSEL 5</td>
+<td>6,21</td>
+<td>4,2</td>
+<td>07/10/1981</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0055</td>
+<td>1.588,74</td>
+<td>2.247,64</td>
+<td>10,23</td>
+<td>16.842,61</td>
+<td>6,04405</td>
+<td>156,9079191</td>
+<td>34,04457672</td>
+</tr>
+<tr>
+<td>RO2-0123</td>
+<td>LAS SALINAS 6, DIÉSEL 6</td>
+<td>20,51</td>
+<td>14,09</td>
+<td>18/06/1990</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0052</td>
+<td>7.613,79</td>
+<td>1.381,90</td>
+<td>15,25</td>
+<td>79.576,42</td>
+<td>5,53611</td>
+<td>203,959799</td>
+<td>12,49249904</td>
+</tr>
+<tr>
+<td>RO2-0124</td>
+<td>LAS SALINAS 7,GAS 1</td>
+<td>21,85</td>
+<td>6,79</td>
+<td>01/10/1992</td>
+<td>Gasoil</td>
+<td>IT-0059</td>
+<td>23.439,54</td>
+<td>2.526,18</td>
+<td>3,36</td>
+<td>14.210,00</td>
+<td>0,21715</td>
+<td>3873,331944</td>
+<td>30,99275751</td>
+</tr>
+<tr>
+<td>RO2-0125</td>
+<td>LAS SALINAS 8, GAS 2</td>
+<td>29,4</td>
+<td>9,69</td>
+<td>01/07/2000</td>
+<td>Gasoil</td>
+<td>IT-0060</td>
+<td>29.363,27</td>
+<td>2.225,92</td>
+<td>1,36</td>
+<td>10.150,00</td>
+<td>0,21715</td>
+<td>3873,331944</td>
+<td>25,67660445</td>
+</tr>
+<tr>
+<td>RO2-0135</td>
+<td>LAS SALINAS 9 (GAS MÓVIL 1)</td>
+<td>11,74</td>
+<td>2,93</td>
+<td>01/01/1988</td>
+<td>Gasoil</td>
+<td>IT-0058</td>
+<td>25.849,66</td>
+<td>2.113,22</td>
+<td>12,27</td>
+<td>10.150,00</td>
+<td>0,21715</td>
+<td>3873,331944</td>
+<td>69,40764102</td>
+</tr>
+<tr>
+<td>RO2-0149</td>
+<td>LLANOS BLANCOS 1, DIÉSEL MÓVIL 1</td>
+<td>1,07</td>
+<td>0.29</td>
+<td>01/06/1987</td>
+<td>Diéseloil</td>
+<td>IT-0053</td>
+<td>347,82</td>
+<td>2.189,28</td>
+<td>57,43</td>
+<td>2.791,00</td>
+<td>1,44307</td>
+<td>70,61428497</td>
+<td>83,8013545</td>
+</tr>
+<tr>
+<td>RO2-0144</td>
+<td>LLANOS BLANCOS 11, DIÉSEL 9</td>
+<td>0,88</td>
+<td>0,44</td>
+<td>01/03/1996</td>
+<td>Diéseloil</td>
+<td>IT-0053</td>
+<td>413,31</td>
+<td>1.778,65</td>
+<td>174,99</td>
+<td>2.791,00</td>
+<td>1,44307</td>
+<td>70,61428497</td>
+<td>81,04675844</td>
+</tr>
+<tr>
+<td>RO2-0145</td>
+<td>LLANOS BLANCOS 12, DIÉSEL 10</td>
+<td>1,07</td>
+<td>0,48</td>
+<td>11/09/1991</td>
+<td>Diéseloil</td>
+<td>IT-0053</td>
+<td>693,68</td>
+<td>1.762,03</td>
+<td>127,38</td>
+<td>2.791,00</td>
+<td>1,44307</td>
+<td>70,61428497</td>
+<td>69,47077039</td>
+</tr>
+<tr>
+<td>RO2-0146</td>
+<td>LLANOS BLANCOS 13, DIÉSEL 11</td>
+<td>1,07</td>
+<td>0,48</td>
+<td>04/12/1991</td>
+<td>Diéseloil</td>
+<td>IT-0053</td>
+<td>693,68</td>
+<td>1.762,03</td>
+<td>127,38</td>
+<td>2.791,00</td>
+<td>1,44307</td>
+<td>70,61428497</td>
+<td>69,35290075</td>
+</tr>
+<tr>
+<td>RO2-0147</td>
+<td>LLANOS BLANCOS 14, DIÉSEL 12</td>
+<td>1,26</td>
+<td>0,48</td>
+<td>01/02/1995</td>
+<td>Diéseloil</td>
+<td>IT-0053</td>
+<td>622,56</td>
+<td>1.765,84</td>
+<td>72,6</td>
+<td>2.791,00</td>
+<td>1,44307</td>
+<td>70,61428497</td>
+<td>66,55279257</td>
+</tr>
+<tr>
+<td>RO2-0148</td>
+<td>LLANOS BLANCOS 15, DIÉSEL 13</td>
+<td>1,36</td>
+<td>0,48</td>
+<td>30/03/2000</td>
+<td>Diéseloil</td>
+<td>IT-0053</td>
+<td>622,56</td>
+<td>1.765,84</td>
+<td>72,6</td>
+<td>2.791,00</td>
+<td>1,44307</td>
+<td>70,61428497</td>
+<td>62,87395791</td>
+</tr>
+<tr>
+<td>RO2-0176</td>
+<td>LLANOS BLANCOS 16, DIÉSEL, 14</td>
+<td>1,9</td>
+<td>0,91</td>
+<td>21/10/2005</td>
+<td>Diéseloil</td>
+<td>IT-0053</td>
+<td>865,97</td>
+<td>1.678,83</td>
+<td>81,52</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>72,71173897</td>
+<td>46,09137694</td>
+</tr>
+<tr>
+<td>RO2-0186</td>
+<td>LLANOS BLANCOS 17, DIÉSEL 15</td>
+<td>1,9</td>
+<td>0,91</td>
+<td>17/10/2007</td>
+<td>Diéseloil</td>
+<td>IT-0053</td>
+<td>865,97</td>
+<td>1.678,83</td>
+<td>81,52</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>72,71173897</td>
+<td>46,07529148</td>
+</tr>
+<tr>
+<td>RO3-0019</td>
+<td>LLANOS BLANCOS 9, DIÉSEL 7</td>
+<td>0,67</td>
+<td>0,29</td>
+<td>01/08/1977</td>
+<td>Diéseloil</td>
+<td>IT-0053</td>
+<td>104,77</td>
+<td>2.697,39</td>
+<td>194,85</td>
+<td>2.791,00</td>
+<td>1,44307</td>
+<td>70,61428497</td>
+<td>109,2030179</td>
+</tr>
+<tr>
+<td>RO2-0131</td>
+<td>LOS GUINCHOS 10, DIÉSEL 10</td>
+<td>6,69</td>
+<td>4,2</td>
+<td>17/03/1983</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0055</td>
+<td>1.599,88</td>
+<td>2.243,21</td>
+<td>10,66</td>
+<td>16.842,61</td>
+<td>6,04405</td>
+<td>156,9079191</td>
+<td>31,61210672</td>
+</tr>
+<tr>
+<td>RO2-0132</td>
+<td>LOS GUINCHOS 12, DIÉSEL 11</td>
+<td>6,69</td>
+<td>5,2</td>
+<td>01/03/1995</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0055</td>
+<td>1.599,88</td>
+<td>2.243,21</td>
+<td>10,66</td>
+<td>16.842,61</td>
+<td>6,04405</td>
+<td>156,9079191</td>
+<td>29,37454498</td>
+</tr>
+<tr>
+<td>RO2-0133</td>
+<td>LOS GUINCHOS 13, DIÉSEL 12</td>
+<td>11,5</td>
+<td>6,63</td>
+<td>01/02/2001</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0055</td>
+<td>1.203,38</td>
+<td>2.038,81</td>
+<td>9,45</td>
+<td>58.446,37</td>
+<td>5,52231</td>
+<td>156,9079191</td>
+<td>23,67562899</td>
+</tr>
+<tr>
+<td>RO2-0134</td>
+<td>LOS GUINCHOS 14, DIÉSEL 13</td>
+<td>11,2</td>
+<td>6,63</td>
+<td>10/11/2003</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0055</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>15.172,71</td>
+<td>2,88669</td>
+<td>161,5685504</td>
+<td>26,93248976</td>
+</tr>
+<tr>
+<td>RO2-0187</td>
+<td>LOS GUINCHOS 15, GAS MÓVIL 2</td>
+<td>21,6</td>
+<td>4,85</td>
+<td>30/03/2006</td>
+<td>Gasoil</td>
+<td>IT-0057</td>
+<td>9.167,14</td>
+<td>2.154,04</td>
+<td>1,59</td>
+<td>8.120,00</td>
+<td>0,21715</td>
+<td>818,4926475</td>
+<td>31,01029224</td>
+</tr>
+<tr>
+<td>RO2-0191</td>
+<td>LOS GUINCHOS 16 (DIÉSEL 14)</td>
+<td>11,5</td>
+<td>6,63</td>
+<td>01/07/2006</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0055</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>15.172,71</td>
+<td>2,88669</td>
+<td>161,5685504</td>
+<td>26,77791788</td>
+</tr>
+<tr>
+<td>RO2-0192</td>
+<td>LOS GUINCHOS 17 (DIÉSEL 15)</td>
+<td>11,5</td>
+<td>6,63</td>
+<td>01/08/2006</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0055</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>15.172,71</td>
+<td>2,88669</td>
+<td>161,5685504</td>
+<td>26,56744182</td>
+</tr>
+<tr>
+<td>RO2-0127</td>
+<td>LOS GUINCHOS 6, DIÉSEL 6</td>
+<td>3,82</td>
+<td>2,35</td>
+<td>01/02/1973</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0054</td>
+<td>504,22</td>
+<td>2.248,31</td>
+<td>23,65</td>
+<td>9.675,39</td>
+<td>6,04355</td>
+<td>70,61428497</td>
+<td>28,50325754</td>
+</tr>
+<tr>
+<td>RO2-0128</td>
+<td>LOS GUINCHOS 7, DIÉSEL 7</td>
+<td>3,82</td>
+<td>2,35</td>
+<td>07/12/1973</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0054</td>
+<td>504,22</td>
+<td>2.248,31</td>
+<td>23,65</td>
+<td>9.675,39</td>
+<td>6,04355</td>
+<td>70,61428497</td>
+<td>28,14652181</td>
+</tr>
+<tr>
+<td>RO2-0129</td>
+<td>LOS GUINCHOS 8, DIÉSEL 8</td>
+<td>3,82</td>
+<td>2,35</td>
+<td>01/05/1975</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0054</td>
+<td>504,22</td>
+<td>2.248,31</td>
+<td>23,65</td>
+<td>9.675,39</td>
+<td>6,04355</td>
+<td>70,61428497</td>
+<td>27,80194416</td>
+</tr>
+<tr>
+<td>RO2-0130</td>
+<td>LOS GUINCHOS 9, DIÉSEL 9</td>
+<td>4,3</td>
+<td>2,82</td>
+<td>07/07/1980</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0055</td>
+<td>346,04</td>
+<td>2.406,12</td>
+<td>17,63</td>
+<td>11.287,89</td>
+<td>6,04425</td>
+<td>156,9079191</td>
+<td>41,46980323</td>
+</tr>
+<tr>
+<td>RO2-0110</td>
+<td>PUNTA GRANDE 11, DIÉSEL 4</td>
+<td>12,85</td>
+<td>8,7</td>
+<td>14/07/1989</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0051</td>
+<td>3.418,40</td>
+<td>1.606,25</td>
+<td>14,55</td>
+<td>57.689,14</td>
+<td>6,74387</td>
+<td>127,9527739</td>
+<td>11,82342316</td>
+</tr>
+<tr>
+<td>RO2-0111</td>
+<td>PUNTA GRANDE 12, DIÉSEL 5</td>
+<td>12,85</td>
+<td>8,7</td>
+<td>05/05/1989</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0051</td>
+<td>3.418,40</td>
+<td>1.606,25</td>
+<td>14,55</td>
+<td>57.689,14</td>
+<td>6,74387</td>
+<td>127,9527739</td>
+<td>12,05824741</td>
+</tr>
+<tr>
+<td>RO2-0112</td>
+<td>PUNTA GRANDE 13, DIÉSEL 6</td>
+<td>20,51</td>
+<td>14,09</td>
+<td>01/09/1992</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0052</td>
+<td>7.613,79</td>
+<td>1.381,90</td>
+<td>15,25</td>
+<td>79.576,42</td>
+<td>5,53611</td>
+<td>203,959799</td>
+<td>12,00511999</td>
+</tr>
+<tr>
+<td>RO2-0116</td>
+<td>PUNTA GRANDE 14, GAS 2</td>
+<td>32,34</td>
+<td>6,79</td>
+<td>01/01/1998</td>
+<td>Gasoil</td>
+<td>IT-0060</td>
+<td>29.363,27</td>
+<td>2.225,92</td>
+<td>1,36</td>
+<td>10.150,00</td>
+<td>0,21715</td>
+<td>3873,331944</td>
+<td>28,32403325</td>
+</tr>
+<tr>
+<td>RO2-0113</td>
+<td>PUNTA GRANDE 15, DIÉSEL 7</td>
+<td>17,2</td>
+<td>11,8</td>
+<td>21/02/2002</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0056</td>
+<td>9.556,47</td>
+<td>1.039,20</td>
+<td>36,11</td>
+<td>57.689,14</td>
+<td>6,74387</td>
+<td>206,7067848</td>
+<td>21,80018492</td>
+</tr>
+<tr>
+<td>RO2-0114</td>
+<td>PUNTA GRANDE 16, DIÉSEL 8</td>
+<td>17,2</td>
+<td>11,8</td>
+<td>21/01/2002</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0056</td>
+<td>9.556,47</td>
+<td>1.039,20</td>
+<td>36,11</td>
+<td>57.689,14</td>
+<td>6,74387</td>
+<td>206,7067848</td>
+<td>21,74905269</td>
+</tr>
+<tr>
+<td>RO2-0107</td>
+<td>PUNTA GRANDE 2, DIÉSEL 1</td>
+<td>6,49</td>
+<td>4,2</td>
+<td>06/06/1986</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0055</td>
+<td>1.599,88</td>
+<td>2.243,21</td>
+<td>10,66</td>
+<td>16.842,61</td>
+<td>6,04405</td>
+<td>156,9079191</td>
+<td>33,64430149</td>
+</tr>
+<tr>
+<td>RO2-0108</td>
+<td>PUNTA GRANDE 3, DIÉSEL 2</td>
+<td>6,49</td>
+<td>4,2</td>
+<td>01/12/1986</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0055</td>
+<td>1.599,88</td>
+<td>2.243,21</td>
+<td>10,66</td>
+<td>16.842,61</td>
+<td>6,04405</td>
+<td>156,9079191</td>
+<td>33,67957051</td>
+</tr>
+<tr>
+<td>RO2-0109</td>
+<td>PUNTA GRANDE 7, DIÉSEL 3</td>
+<td>6,49</td>
+<td>4,2</td>
+<td>06/10/1987</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0055</td>
+<td>1.599,88</td>
+<td>2.243,21</td>
+<td>10,66</td>
+<td>16.842,61</td>
+<td>6,04405</td>
+<td>156,9079191</td>
+<td>33,81121183</td>
+</tr>
+<tr>
+<td>RO2-0115</td>
+<td>PUNTA GRANDE 9, GAS 1</td>
+<td>19,6</td>
+<td>6,79</td>
+<td>01/06/1988</td>
+<td>Gasoil</td>
+<td>IT-0059</td>
+<td>23.411,65</td>
+<td>2.530,00</td>
+<td>3,24</td>
+<td>14.210,00</td>
+<td>0,21715</td>
+<td>3873,331944</td>
+<td>34,53837956</td>
+</tr>
+<tr>
+<td>RO2-0194</td>
+<td>PUNTA GRANDE DIÉSEL 10</td>
+<td>17,6</td>
+<td>11,8</td>
+<td>01/03/2006</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0056</td>
+<td>9.556,47</td>
+<td>1.039,20</td>
+<td>36,41</td>
+<td>57.689,14</td>
+<td>6,74387</td>
+<td>206,7067848</td>
+<td>21,81331169</td>
+</tr>
+<tr>
+<td>RO2-0193</td>
+<td>PUNTA GRANDE DIÉSEL 9</td>
+<td>17,6</td>
+<td>11,8</td>
+<td>01/02/2006</td>
+<td>Fueloil BIA 0,73%</td>
+<td>IT-0056</td>
+<td>9.556,47</td>
+<td>1.039,20</td>
+<td>36,41</td>
+<td>57.689,14</td>
+<td>6,74387</td>
+<td>206,7067848</td>
+<td>21,67986737</td>
+</tr>
+<tr>
+<td>RO2-0215</td>
+<td>GUÍA DE ISORA GAS 1</td>
+<td>43,1</td>
+<td>4,8</td>
+<td>01/03/2006</td>
+<td>Gasoil</td>
+<td>IT-0057</td>
+<td>9.167,14</td>
+<td>2.154,04</td>
+<td>1,59</td>
+<td>8.120,00</td>
+<td>0,21715</td>
+<td>818,493</td>
+<td>18,06</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Denominación Ciclo</th>
-<th class="cabeza_tabla">Denominación Grupo</th>
-<th class="cabeza_tabla">Potencia Neta</th>
-<th class="cabeza_tabla">Fecha de alta</th>
-<th class="cabeza_tabla">Número de Registro</th>
+<th>Denominación Ciclo</th>
+<th>Denominación Grupo</th>
+<th>Potencia Neta</th>
+<th>Fecha de alta</th>
+<th>Número de Registro</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRANCO DE TIRAJANA, CC1</td>
-<td class="cuerpo_tabla_izq">BARRANCO DE TIRAJANA 5, GAS 3 (CC1)</td>
-<td class="cuerpo_tabla_centro">68,700</td>
-<td class="cuerpo_tabla_centro">19/07/2003</td>
-<td class="cuerpo_tabla_centro">RO1-1051</td>
+<td rowspan="3">BARRANCO DE TIRAJANA, CC1</td>
+<td>BARRANCO DE TIRAJANA 5, GAS 3 (CC1)</td>
+<td>68,700</td>
+<td>19/07/2003</td>
+<td>RO1-1051</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BARRANCO DE TIRAJANA 6, GAS 4 (CC1)</td>
-<td class="cuerpo_tabla_centro">68,700</td>
-<td class="cuerpo_tabla_centro">21/08/2003</td>
-<td class="cuerpo_tabla_centro">RO1-1052</td>
+<td>BARRANCO DE TIRAJANA 6, GAS 4 (CC1)</td>
+<td>68,700</td>
+<td>21/08/2003</td>
+<td>RO1-1052</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BARRANCO DE TIRAJANA 7, VAPOR 3 (CC1)</td>
-<td class="cuerpo_tabla_centro">68,7</td>
-<td class="cuerpo_tabla_centro">22/11/2004</td>
-<td class="cuerpo_tabla_centro">RO1-2000</td>
+<td>BARRANCO DE TIRAJANA 7, VAPOR 3 (CC1)</td>
+<td>68,7</td>
+<td>22/11/2004</td>
+<td>RO1-2000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRANCO DE TIRAJANA, CC2</td>
-<td class="cuerpo_tabla_izq">BARRANCO DE TIRAJANA 8, GAS 5 CC2</td>
-<td class="cuerpo_tabla_centro">75,000</td>
-<td class="cuerpo_tabla_centro">01/08/2006</td>
-<td class="cuerpo_tabla_centro">RO2-0188</td>
+<td rowspan="3">BARRANCO DE TIRAJANA, CC2</td>
+<td>BARRANCO DE TIRAJANA 8, GAS 5 CC2</td>
+<td>75,000</td>
+<td>01/08/2006</td>
+<td>RO2-0188</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BARRANCO DE TIRAJANA 9, GAS 6 CC2</td>
-<td class="cuerpo_tabla_centro">75,000</td>
-<td class="cuerpo_tabla_centro">27/11/2006</td>
-<td class="cuerpo_tabla_centro">RO2-0189</td>
+<td>BARRANCO DE TIRAJANA 9, GAS 6 CC2</td>
+<td>75,000</td>
+<td>27/11/2006</td>
+<td>RO2-0189</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BARRANCO DE TIRAJANA 10, VAPOR 4 CC2</td>
-<td class="cuerpo_tabla_centro">77,000</td>
-<td class="cuerpo_tabla_centro">18/06/2008</td>
-<td class="cuerpo_tabla_centro">RO2-0190</td>
+<td>BARRANCO DE TIRAJANA 10, VAPOR 4 CC2</td>
+<td>77,000</td>
+<td>18/06/2008</td>
+<td>RO2-0190</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">GRANADILLA, CC1</td>
-<td class="cuerpo_tabla_izq">GRANADILLA 7, GAS 3 (CC1)</td>
-<td class="cuerpo_tabla_centro">68,700</td>
-<td class="cuerpo_tabla_centro">21/09/2003</td>
-<td class="cuerpo_tabla_centro">RO1-1055</td>
+<td rowspan="3">GRANADILLA, CC1</td>
+<td>GRANADILLA 7, GAS 3 (CC1)</td>
+<td>68,700</td>
+<td>21/09/2003</td>
+<td>RO1-1055</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">GRANADILLA 8, GAS 4 (CC1)</td>
-<td class="cuerpo_tabla_centro">68,700</td>
-<td class="cuerpo_tabla_centro">09/04/2004</td>
-<td class="cuerpo_tabla_centro">RO1-1056</td>
+<td>GRANADILLA 8, GAS 4 (CC1)</td>
+<td>68,700</td>
+<td>09/04/2004</td>
+<td>RO1-1056</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">GRANADILLA 9, VAPOR, 3 (CC1)</td>
-<td class="cuerpo_tabla_centro">68,700</td>
-<td class="cuerpo_tabla_centro">01/06/2005</td>
-<td class="cuerpo_tabla_centro">RO1-1087</td>
+<td>GRANADILLA 9, VAPOR, 3 (CC1)</td>
+<td>68,700</td>
+<td>01/06/2005</td>
+<td>RO1-1087</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">GRANADILLA, CC2</td>
-<td class="cuerpo_tabla_izq">GRANADILLA 10, TG5 (CC2)</td>
-<td class="cuerpo_tabla_centro">75,000</td>
-<td class="cuerpo_tabla_centro">16/06/2010</td>
-<td class="cuerpo_tabla_centro">RO1-2015</td>
+<td rowspan="3">GRANADILLA, CC2</td>
+<td>GRANADILLA 10, TG5 (CC2)</td>
+<td>75,000</td>
+<td>16/06/2010</td>
+<td>RO1-2015</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">GRANADILLA 11, TG6 (CC2)</td>
-<td class="cuerpo_tabla_centro">75,000</td>
-<td class="cuerpo_tabla_centro">09/07/2010</td>
-<td class="cuerpo_tabla_centro">RO1-2016</td>
+<td>GRANADILLA 11, TG6 (CC2)</td>
+<td>75,000</td>
+<td>09/07/2010</td>
+<td>RO1-2016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">GRANADILLA 12, VAPOR 4 (CC2)</td>
-<td class="cuerpo_tabla_centro">76,200</td>
-<td class="cuerpo_tabla_centro">21/10/2011</td>
-<td class="cuerpo_tabla_centro">RO1-1063</td>
+<td>GRANADILLA 12, VAPOR 4 (CC2)</td>
+<td>76,200</td>
+<td>21/10/2011</td>
+<td>RO1-1063</td>
 </tr>
 </tbody>
 </table>
 
 SISTEMA ELÉCTRICO DE CEUTA Y MELILLA
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="3">Número de Registro</th>
-<th class="cabeza_tabla" rowspan="3">Denominación Central</th>
-<th class="cabeza_tabla" rowspan="3">Potencia Neta</th>
-<th class="cabeza_tabla" rowspan="3">Mínimo Técnico declarado</th>
-<th class="cabeza_tabla" rowspan="3">Fecha de alta</th>
-<th class="cabeza_tabla" rowspan="3">Combustible a efectos de este Real Decreto</th>
-<th class="cabeza_tabla" rowspan="3">Instalación tipo</th>
-<th class="cabeza_tabla" colspan="3">Datos técnicos despacho</th>
-<th class="cabeza_tabla" colspan="3">Daos de despacho</th>
-<th class="cabeza_tabla" rowspan="2">Datos costes variables de operación y mantenimiento despacho</th>
+<th rowspan="3">Número de Registro</th>
+<th rowspan="3">Denominación Central</th>
+<th rowspan="3">Potencia Neta</th>
+<th rowspan="3">Mínimo Técnico declarado</th>
+<th rowspan="3">Fecha de alta</th>
+<th rowspan="3">Combustible a efectos de este Real Decreto</th>
+<th rowspan="3">Instalación tipo</th>
+<th colspan="3">Datos técnicos despacho</th>
+<th colspan="3">Daos de despacho</th>
+<th rowspan="2">Datos costes variables de operación y mantenimiento despacho</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="3">Costes de funcionamiento</th>
-<th class="cabeza_tabla" colspan="3">Costes arranque</th>
+<th colspan="3">Costes de funcionamiento</th>
+<th colspan="3">Costes arranque</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">A (th/h)</th>
-<th class="cabeza_tabla">B (th/h.MW)</th>
-<th class="cabeza_tabla">C (th/h.MW2)</th>
-<th class="cabeza_tabla">A' (th)</th>
-<th class="cabeza_tabla">B' (horas)</th>
-<th class="cabeza_tabla">D (€/arranque)</th>
-<th class="cabeza_tabla">O&amp;MVDi (€/MWh )</th>
+<th>A (th/h)</th>
+<th>B (th/h.MW)</th>
+<th>C (th/h.MW2)</th>
+<th>A' (th)</th>
+<th>B' (horas)</th>
+<th>D (€/arranque)</th>
+<th>O&amp;MVDi (€/MWh )</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0020</td>
-<td class="cuerpo_tabla_centro">MELILLA 5, G-5</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">2,82</td>
-<td class="cuerpo_tabla_centro">01/12/1980</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_centro">1.213,64</td>
-<td class="cuerpo_tabla_centro">2.232,14</td>
-<td class="cuerpo_tabla_centro">19,52</td>
-<td class="cuerpo_tabla_centro">14.065,26</td>
-<td class="cuerpo_tabla_centro">6,04419</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">40,32268879</td>
+<td>RO2-0020</td>
+<td>MELILLA 5, G-5</td>
+<td>5,3</td>
+<td>2,82</td>
+<td>01/12/1980</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0103</td>
+<td>1.213,64</td>
+<td>2.232,14</td>
+<td>19,52</td>
+<td>14.065,26</td>
+<td>6,04419</td>
+<td>156,9079191</td>
+<td>40,32268879</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0021</td>
-<td class="cuerpo_tabla_centro">MELILLA 6, G-6</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">2,82</td>
-<td class="cuerpo_tabla_centro">01/11/1980</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_centro">1.213,64</td>
-<td class="cuerpo_tabla_centro">2.232,14</td>
-<td class="cuerpo_tabla_centro">19,52</td>
-<td class="cuerpo_tabla_centro">14.065,26</td>
-<td class="cuerpo_tabla_centro">6,04419</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">40,87740569</td>
+<td>RO2-0021</td>
+<td>MELILLA 6, G-6</td>
+<td>5,3</td>
+<td>2,82</td>
+<td>01/11/1980</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0103</td>
+<td>1.213,64</td>
+<td>2.232,14</td>
+<td>19,52</td>
+<td>14.065,26</td>
+<td>6,04419</td>
+<td>156,9079191</td>
+<td>40,87740569</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0024</td>
-<td class="cuerpo_tabla_centro">MELILLA 9, G-9</td>
-<td class="cuerpo_tabla_centro">11,5</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">01/07/1991</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0106</td>
-<td class="cuerpo_tabla_centro">19.938,33</td>
-<td class="cuerpo_tabla_centro">2.202,48</td>
-<td class="cuerpo_tabla_centro">29,24</td>
-<td class="cuerpo_tabla_centro">13.850,36</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3873,331944</td>
-<td class="cuerpo_tabla_centro">133,1744561</td>
+<td>RO2-0024</td>
+<td>MELILLA 9, G-9</td>
+<td>11,5</td>
+<td>1</td>
+<td>01/07/1991</td>
+<td>Gasoil</td>
+<td>IT-0106</td>
+<td>19.938,33</td>
+<td>2.202,48</td>
+<td>29,24</td>
+<td>13.850,36</td>
+<td>0,21715</td>
+<td>3873,331944</td>
+<td>133,1744561</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0025</td>
-<td class="cuerpo_tabla_centro">MELILLA 10, G-10</td>
-<td class="cuerpo_tabla_centro">8,51</td>
-<td class="cuerpo_tabla_centro">4,58</td>
-<td class="cuerpo_tabla_centro">01/06/1997</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">15.142,71</td>
-<td class="cuerpo_tabla_centro">2,88669</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">30,20301242</td>
+<td>RO2-0025</td>
+<td>MELILLA 10, G-10</td>
+<td>8,51</td>
+<td>4,58</td>
+<td>01/06/1997</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0103</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>15.142,71</td>
+<td>2,88669</td>
+<td>156,9079191</td>
+<td>30,20301242</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0175</td>
-<td class="cuerpo_tabla_centro">MELILLA 11, DIÉSEL 10</td>
-<td class="cuerpo_tabla_centro">11,8</td>
-<td class="cuerpo_tabla_centro">6,68</td>
-<td class="cuerpo_tabla_centro">01/10/2002</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">15.172,71</td>
-<td class="cuerpo_tabla_centro">2,88669</td>
-<td class="cuerpo_tabla_centro">161,5685504</td>
-<td class="cuerpo_tabla_centro">26,97183613</td>
+<td>RO2-0175</td>
+<td>MELILLA 11, DIÉSEL 10</td>
+<td>11,8</td>
+<td>6,68</td>
+<td>01/10/2002</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0103</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>15.172,71</td>
+<td>2,88669</td>
+<td>161,5685504</td>
+<td>26,97183613</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0027</td>
-<td class="cuerpo_tabla_centro">MELILLA 12, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">01/01/2003</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0101</td>
-<td class="cuerpo_tabla_centro">2.060,90</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">65,52007469</td>
+<td>RO3-0027</td>
+<td>MELILLA 12, G. ELECTRÓGENO</td>
+<td>0,8</td>
+<td>0,8</td>
+<td>01/01/2003</td>
+<td>Gasoil</td>
+<td>IT-0101</td>
+<td>2.060,90</td>
+<td>0</td>
+<td>0</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>65,52007469</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0028</td>
-<td class="cuerpo_tabla_centro">MELILLA 13, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">01/01/2003</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0101</td>
-<td class="cuerpo_tabla_centro">2.060,90</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">65,52007469</td>
+<td>RO3-0028</td>
+<td>MELILLA 13, G. ELECTRÓGENO</td>
+<td>0,8</td>
+<td>0,8</td>
+<td>01/01/2003</td>
+<td>Gasoil</td>
+<td>IT-0101</td>
+<td>2.060,90</td>
+<td>0</td>
+<td>0</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>65,52007469</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0029</td>
-<td class="cuerpo_tabla_centro">MELILLA 14, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">01/01/2003</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0101</td>
-<td class="cuerpo_tabla_centro">2.060,90</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">65,52007469</td>
+<td>RO3-0029</td>
+<td>MELILLA 14, G. ELECTRÓGENO</td>
+<td>0,8</td>
+<td>0,8</td>
+<td>01/01/2003</td>
+<td>Gasoil</td>
+<td>IT-0101</td>
+<td>2.060,90</td>
+<td>0</td>
+<td>0</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>65,52007469</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0030</td>
-<td class="cuerpo_tabla_centro">MELILLA 15, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">01/01/2003</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0101</td>
-<td class="cuerpo_tabla_centro">2.060,90</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">65,52007469</td>
+<td>RO3-0030</td>
+<td>MELILLA 15, G. ELECTRÓGENO</td>
+<td>0,8</td>
+<td>0,8</td>
+<td>01/01/2003</td>
+<td>Gasoil</td>
+<td>IT-0101</td>
+<td>2.060,90</td>
+<td>0</td>
+<td>0</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>65,52007469</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0031</td>
-<td class="cuerpo_tabla_centro">MELILLA 16, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">01/01/2003</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0101</td>
-<td class="cuerpo_tabla_centro">2.060,90</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">65,52007469</td>
+<td>RO3-0031</td>
+<td>MELILLA 16, G. ELECTRÓGENO</td>
+<td>0,8</td>
+<td>0,8</td>
+<td>01/01/2003</td>
+<td>Gasoil</td>
+<td>IT-0101</td>
+<td>2.060,90</td>
+<td>0</td>
+<td>0</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>65,52007469</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0032</td>
-<td class="cuerpo_tabla_centro">MELILLA 17, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">01/01/2003</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0101</td>
-<td class="cuerpo_tabla_centro">2.060,90</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">65,52007469</td>
+<td>RO3-0032</td>
+<td>MELILLA 17, G. ELECTRÓGENO</td>
+<td>0,8</td>
+<td>0,8</td>
+<td>01/01/2003</td>
+<td>Gasoil</td>
+<td>IT-0101</td>
+<td>2.060,90</td>
+<td>0</td>
+<td>0</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>65,52007469</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0033</td>
-<td class="cuerpo_tabla_centro">MELILLA 18, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">01/01/2003</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0101</td>
-<td class="cuerpo_tabla_centro">2.060,90</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">65,52007469</td>
+<td>RO3-0033</td>
+<td>MELILLA 18, G. ELECTRÓGENO</td>
+<td>0,8</td>
+<td>0,8</td>
+<td>01/01/2003</td>
+<td>Gasoil</td>
+<td>IT-0101</td>
+<td>2.060,90</td>
+<td>0</td>
+<td>0</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>65,52007469</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0034</td>
-<td class="cuerpo_tabla_centro">MELILLA 19, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">01/01/2003</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0101</td>
-<td class="cuerpo_tabla_centro">2.060,90</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">65,52007469</td>
+<td>RO3-0034</td>
+<td>MELILLA 19, G. ELECTRÓGENO</td>
+<td>0,8</td>
+<td>0,8</td>
+<td>01/01/2003</td>
+<td>Gasoil</td>
+<td>IT-0101</td>
+<td>2.060,90</td>
+<td>0</td>
+<td>0</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>65,52007469</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0035</td>
-<td class="cuerpo_tabla_centro">MELILLA 20, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">01/01/2003</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0101</td>
-<td class="cuerpo_tabla_centro">2.060,90</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">65,52007469</td>
+<td>RO3-0035</td>
+<td>MELILLA 20, G. ELECTRÓGENO</td>
+<td>0,8</td>
+<td>0,8</td>
+<td>01/01/2003</td>
+<td>Gasoil</td>
+<td>IT-0101</td>
+<td>2.060,90</td>
+<td>0</td>
+<td>0</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>65,52007469</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0036</td>
-<td class="cuerpo_tabla_centro">MELILLA 21, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">01/01/2003</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0101</td>
-<td class="cuerpo_tabla_centro">2.060,90</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">65,52007469</td>
+<td>RO3-0036</td>
+<td>MELILLA 21, G. ELECTRÓGENO</td>
+<td>0,8</td>
+<td>0,8</td>
+<td>01/01/2003</td>
+<td>Gasoil</td>
+<td>IT-0101</td>
+<td>2.060,90</td>
+<td>0</td>
+<td>0</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>65,52007469</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0037</td>
-<td class="cuerpo_tabla_centro">MELILLA 22, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">01/01/2003</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0101</td>
-<td class="cuerpo_tabla_centro">2.060,90</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">65,52007469</td>
+<td>RO3-0037</td>
+<td>MELILLA 22, G. ELECTRÓGENO</td>
+<td>0,8</td>
+<td>0,8</td>
+<td>01/01/2003</td>
+<td>Gasoil</td>
+<td>IT-0101</td>
+<td>2.060,90</td>
+<td>0</td>
+<td>0</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>65,52007469</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0038</td>
-<td class="cuerpo_tabla_centro">MELILLA 23, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">01/01/2003</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0101</td>
-<td class="cuerpo_tabla_centro">2.060,90</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">5.075,00</td>
-<td class="cuerpo_tabla_centro">1,4429</td>
-<td class="cuerpo_tabla_centro">70,61428497</td>
-<td class="cuerpo_tabla_centro">65,52007469</td>
+<td>RO3-0038</td>
+<td>MELILLA 23, G. ELECTRÓGENO</td>
+<td>0,8</td>
+<td>0,8</td>
+<td>01/01/2003</td>
+<td>Gasoil</td>
+<td>IT-0101</td>
+<td>2.060,90</td>
+<td>0</td>
+<td>0</td>
+<td>5.075,00</td>
+<td>1,4429</td>
+<td>70,61428497</td>
+<td>65,52007469</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0180</td>
-<td class="cuerpo_tabla_centro">MELILLA 12</td>
-<td class="cuerpo_tabla_centro">11,8</td>
-<td class="cuerpo_tabla_centro">6,63</td>
-<td class="cuerpo_tabla_centro">12/02/2007</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">15.172,71</td>
-<td class="cuerpo_tabla_centro">2,88669</td>
-<td class="cuerpo_tabla_centro">161,5685504</td>
-<td class="cuerpo_tabla_centro">27,09618781</td>
+<td>RO2-0180</td>
+<td>MELILLA 12</td>
+<td>11,8</td>
+<td>6,63</td>
+<td>12/02/2007</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0103</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>15.172,71</td>
+<td>2,88669</td>
+<td>161,5685504</td>
+<td>27,09618781</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0185</td>
-<td class="cuerpo_tabla_centro">MELILLA 13</td>
-<td class="cuerpo_tabla_centro">11,8</td>
-<td class="cuerpo_tabla_centro">6,63</td>
-<td class="cuerpo_tabla_centro">15/04/2008</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">15.172,71</td>
-<td class="cuerpo_tabla_centro">2,88669</td>
-<td class="cuerpo_tabla_centro">161,5685504</td>
-<td class="cuerpo_tabla_centro">27,09618781</td>
+<td>RO2-0185</td>
+<td>MELILLA 13</td>
+<td>11,8</td>
+<td>6,63</td>
+<td>15/04/2008</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0103</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>15.172,71</td>
+<td>2,88669</td>
+<td>161,5685504</td>
+<td>27,09618781</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0011</td>
-<td class="cuerpo_tabla_centro">CEUTA 1, G-1</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">2,84</td>
-<td class="cuerpo_tabla_centro">01/10/1980</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_centro">1.213,64</td>
-<td class="cuerpo_tabla_centro">2.232,14</td>
-<td class="cuerpo_tabla_centro">19,52</td>
-<td class="cuerpo_tabla_centro">14.065,26</td>
-<td class="cuerpo_tabla_centro">6,04419</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">44,04850902</td>
+<td>RO2-0011</td>
+<td>CEUTA 1, G-1</td>
+<td>5,3</td>
+<td>2,84</td>
+<td>01/10/1980</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0103</td>
+<td>1.213,64</td>
+<td>2.232,14</td>
+<td>19,52</td>
+<td>14.065,26</td>
+<td>6,04419</td>
+<td>156,9079191</td>
+<td>44,04850902</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0026</td>
-<td class="cuerpo_tabla_centro">CEUTA 2, G-2</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">2,84</td>
-<td class="cuerpo_tabla_centro">01/11/1980</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_centro">1.213,64</td>
-<td class="cuerpo_tabla_centro">2.232,14</td>
-<td class="cuerpo_tabla_centro">19,52</td>
-<td class="cuerpo_tabla_centro">14.065,26</td>
-<td class="cuerpo_tabla_centro">6,04419</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">44,10319223</td>
+<td>RO2-0026</td>
+<td>CEUTA 2, G-2</td>
+<td>5,3</td>
+<td>2,84</td>
+<td>01/11/1980</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0103</td>
+<td>1.213,64</td>
+<td>2.232,14</td>
+<td>19,52</td>
+<td>14.065,26</td>
+<td>6,04419</td>
+<td>156,9079191</td>
+<td>44,10319223</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0014</td>
-<td class="cuerpo_tabla_centro">CEUTA 5, G-3</td>
-<td class="cuerpo_tabla_centro">1,9</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">01/06/1985</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>RO2-0014</td>
+<td>CEUTA 5, G-3</td>
+<td>1,9</td>
+<td>-</td>
+<td>01/06/1985</td>
+<td>-</td>
+<td> </td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0015</td>
-<td class="cuerpo_tabla_centro">CEUTA 6, G-6</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">2,84</td>
-<td class="cuerpo_tabla_centro">01/11/1986</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_centro">1.213,64</td>
-<td class="cuerpo_tabla_centro">2.232,14</td>
-<td class="cuerpo_tabla_centro">19,52</td>
-<td class="cuerpo_tabla_centro">14.065,26</td>
-<td class="cuerpo_tabla_centro">6,04419</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">43,86421515</td>
+<td>RO2-0015</td>
+<td>CEUTA 6, G-6</td>
+<td>5,3</td>
+<td>2,84</td>
+<td>01/11/1986</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0103</td>
+<td>1.213,64</td>
+<td>2.232,14</td>
+<td>19,52</td>
+<td>14.065,26</td>
+<td>6,04419</td>
+<td>156,9079191</td>
+<td>43,86421515</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0016</td>
-<td class="cuerpo_tabla_centro">CEUTA 7, G-7</td>
-<td class="cuerpo_tabla_centro">6,21</td>
-<td class="cuerpo_tabla_centro">2,84</td>
-<td class="cuerpo_tabla_centro">01/07/1993</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_centro">1.588,74</td>
-<td class="cuerpo_tabla_centro">2.247,64</td>
-<td class="cuerpo_tabla_centro">10,23</td>
-<td class="cuerpo_tabla_centro">16.842,61</td>
-<td class="cuerpo_tabla_centro">6,04405</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">42,0555426</td>
+<td>RO2-0016</td>
+<td>CEUTA 7, G-7</td>
+<td>6,21</td>
+<td>2,84</td>
+<td>01/07/1993</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0103</td>
+<td>1.588,74</td>
+<td>2.247,64</td>
+<td>10,23</td>
+<td>16.842,61</td>
+<td>6,04405</td>
+<td>156,9079191</td>
+<td>42,0555426</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0177</td>
-<td class="cuerpo_tabla_centro">CEUTA 8, G-8</td>
-<td class="cuerpo_tabla_centro">8,51</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">01/12/1998</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">15.138,95</td>
-<td class="cuerpo_tabla_centro">2,88669</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">32,0557959</td>
+<td>RO2-0177</td>
+<td>CEUTA 8, G-8</td>
+<td>8,51</td>
+<td>4,6</td>
+<td>01/12/1998</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0103</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>15.138,95</td>
+<td>2,88669</td>
+<td>156,9079191</td>
+<td>32,0557959</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0178</td>
-<td class="cuerpo_tabla_centro">CEUTA 9, G-9</td>
-<td class="cuerpo_tabla_centro">11,5</td>
-<td class="cuerpo_tabla_centro">6,6</td>
-<td class="cuerpo_tabla_centro">01/12/2001</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_centro">1.203,38</td>
-<td class="cuerpo_tabla_centro">2.038,81</td>
-<td class="cuerpo_tabla_centro">9,45</td>
-<td class="cuerpo_tabla_centro">58.446,37</td>
-<td class="cuerpo_tabla_centro">5,52231</td>
-<td class="cuerpo_tabla_centro">156,9079191</td>
-<td class="cuerpo_tabla_centro">24,19693791</td>
+<td>RO2-0178</td>
+<td>CEUTA 9, G-9</td>
+<td>11,5</td>
+<td>6,6</td>
+<td>01/12/2001</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0103</td>
+<td>1.203,38</td>
+<td>2.038,81</td>
+<td>9,45</td>
+<td>58.446,37</td>
+<td>5,52231</td>
+<td>156,9079191</td>
+<td>24,19693791</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0184</td>
-<td class="cuerpo_tabla_centro">CEUTA, GRUPO 11</td>
-<td class="cuerpo_tabla_centro">11,8</td>
-<td class="cuerpo_tabla_centro">6,6</td>
-<td class="cuerpo_tabla_centro">13/03/2009</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">15.172,71</td>
-<td class="cuerpo_tabla_centro">2,88669</td>
-<td class="cuerpo_tabla_centro">161,5685504</td>
-<td class="cuerpo_tabla_centro">27,05435912</td>
+<td>RO2-0184</td>
+<td>CEUTA, GRUPO 11</td>
+<td>11,8</td>
+<td>6,6</td>
+<td>13/03/2009</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0103</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>15.172,71</td>
+<td>2,88669</td>
+<td>161,5685504</td>
+<td>27,05435912</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0204</td>
-<td class="cuerpo_tabla_centro">CEUTA, GRUPO 12</td>
-<td class="cuerpo_tabla_centro">13,3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">01/12/2010</td>
-<td class="cuerpo_tabla_centro">Gasoil</td>
-<td class="cuerpo_tabla_centro">IT-0107</td>
-<td class="cuerpo_tabla_centro">31.391,05</td>
-<td class="cuerpo_tabla_centro">1.773,42</td>
-<td class="cuerpo_tabla_centro">11,58</td>
-<td class="cuerpo_tabla_centro">10.094,78</td>
-<td class="cuerpo_tabla_centro">0,21715</td>
-<td class="cuerpo_tabla_centro">3.720,04</td>
-<td class="cuerpo_tabla_centro">32,7666851</td>
+<td>RO2-0204</td>
+<td>CEUTA, GRUPO 12</td>
+<td>13,3</td>
+<td>1</td>
+<td>01/12/2010</td>
+<td>Gasoil</td>
+<td>IT-0107</td>
+<td>31.391,05</td>
+<td>1.773,42</td>
+<td>11,58</td>
+<td>10.094,78</td>
+<td>0,21715</td>
+<td>3.720,04</td>
+<td>32,7666851</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0181</td>
-<td class="cuerpo_tabla_centro">CEUTA, GRUPO 10</td>
-<td class="cuerpo_tabla_centro">11,8</td>
-<td class="cuerpo_tabla_centro">6,6</td>
-<td class="cuerpo_tabla_centro">03/07/2008</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">15.172,71</td>
-<td class="cuerpo_tabla_centro">2,88669</td>
-<td class="cuerpo_tabla_centro">161,5685504</td>
-<td class="cuerpo_tabla_centro">27,15937907</td>
+<td>RO2-0181</td>
+<td>CEUTA, GRUPO 10</td>
+<td>11,8</td>
+<td>6,6</td>
+<td>03/07/2008</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0103</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>15.172,71</td>
+<td>2,88669</td>
+<td>161,5685504</td>
+<td>27,15937907</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0206</td>
-<td class="cuerpo_tabla_centro">CEUTA, GRUPO 13</td>
-<td class="cuerpo_tabla_centro">11,8</td>
-<td class="cuerpo_tabla_centro">6,6</td>
-<td class="cuerpo_tabla_centro">16/06/2011</td>
-<td class="cuerpo_tabla_centro">Fueloil BIA 1%</td>
-<td class="cuerpo_tabla_centro">IT-0103</td>
-<td class="cuerpo_tabla_centro">1.286,06</td>
-<td class="cuerpo_tabla_centro">2.511,43</td>
-<td class="cuerpo_tabla_centro">6,13</td>
-<td class="cuerpo_tabla_centro">15.172,71</td>
-<td class="cuerpo_tabla_centro">2,88669</td>
-<td class="cuerpo_tabla_centro">161,5685504</td>
-<td class="cuerpo_tabla_centro">27,13535559</td>
+<td>RO2-0206</td>
+<td>CEUTA, GRUPO 13</td>
+<td>11,8</td>
+<td>6,6</td>
+<td>16/06/2011</td>
+<td>Fueloil BIA 1%</td>
+<td>IT-0103</td>
+<td>1.286,06</td>
+<td>2.511,43</td>
+<td>6,13</td>
+<td>15.172,71</td>
+<td>2,88669</td>
+<td>161,5685504</td>
+<td>27,13535559</td>
 </tr>
 </tbody>
 </table>
@@ -7364,557 +7364,557 @@ En el caso de que en una transición entre modos de operación de un ciclo combi
 
 1\. Los valores unitarios de operación y mantenimiento variable en €/Mwh de las instalaciones tipo serán los siguientes:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tecnología</th>
-<th class="cabeza_tabla" rowspan="2">Intervalo Potencia Neta (MW)</th>
-<th class="cabeza_tabla" colspan="3">2012</th>
+<th rowspan="2">Tecnología</th>
+<th rowspan="2">Intervalo Potencia Neta (MW)</th>
+<th colspan="3">2012</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Baleares</th>
-<th class="cabeza_tabla">Canarias</th>
-<th class="cabeza_tabla">Ceuta y Melilla</th>
+<th>Baleares</th>
+<th>Canarias</th>
+<th>Ceuta y Melilla</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia &lt; 5</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">22,28</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>5 ≤ Potencia &lt; 12</td>
+<td> </td>
+<td>22,28</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
-<td class="cuerpo_tabla_centro">11,61</td>
-<td class="cuerpo_tabla_centro">11,53</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>12 ≤ Potencia &lt; 20</td>
+<td>11,61</td>
+<td>11,53</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">11,94</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia ≥ 20</td>
+<td> </td>
+<td>11,94</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">68,90</td>
-<td class="cuerpo_tabla_centro">65,35</td>
+<td>Grupos Diésel - 4T</td>
+<td>Potencia &lt; 2</td>
+<td> </td>
+<td>68,90</td>
+<td>65,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">34,38</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 4T</td>
+<td>2 ≤ Potencia &lt; 4</td>
+<td> </td>
+<td>34,38</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">29,51</td>
-<td class="cuerpo_tabla_centro">28,21</td>
+<td>Grupos Diésel - 4T</td>
+<td>4 ≤ Potencia &lt; 14</td>
+<td> </td>
+<td>29,51</td>
+<td>28,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
-<td class="cuerpo_tabla_centro">21,21</td>
-<td class="cuerpo_tabla_centro">21,14</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 4T</td>
+<td>14 ≤ Potencia &lt; 24</td>
+<td>21,21</td>
+<td>21,14</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
-<td class="cuerpo_tabla_centro">13,32</td>
-<td class="cuerpo_tabla_centro">18,06</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de gas aeroderivadas</td>
+<td>Potencia &lt; 50</td>
+<td>13,32</td>
+<td>18,06</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
-<td class="cuerpo_tabla_centro">63,69</td>
-<td class="cuerpo_tabla_centro">69,90</td>
-<td class="cuerpo_tabla_centro">128,79</td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia &lt; 13</td>
+<td>63,69</td>
+<td>69,90</td>
+<td>128,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
-<td class="cuerpo_tabla_centro">25,92</td>
-<td class="cuerpo_tabla_centro">34,11</td>
-<td class="cuerpo_tabla_centro">36,19</td>
+<td>Turbinas de gas heavy duty</td>
+<td>13 ≤ Potencia &lt; 25</td>
+<td>25,92</td>
+<td>34,11</td>
+<td>36,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
-<td class="cuerpo_tabla_centro">23,72</td>
-<td class="cuerpo_tabla_centro">23,30</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>25 ≤ Potencia &lt; 50</td>
+<td>23,72</td>
+<td>23,30</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia ≥ 50</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">4,85</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de vapor de Carbón</td>
+<td> </td>
+<td>4,85</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
-<td class="cuerpo_tabla_centro">0,00</td>
-<td class="cuerpo_tabla_centro">8,16</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>Potencia ≤ 40</td>
+<td>0,00</td>
+<td>8,16</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
-<td class="cuerpo_tabla_centro">0,00</td>
-<td class="cuerpo_tabla_centro">7,47</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>40 &lt; Potencia ≤ 60</td>
+<td>0,00</td>
+<td>7,47</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
-<td class="cuerpo_tabla_centro">0,00</td>
-<td class="cuerpo_tabla_centro">5,20</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>60 &lt; Potencia ≤ 80</td>
+<td>0,00</td>
+<td>5,20</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_centro">23,78</td>
-<td class="cuerpo_tabla_centro">18,79</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Ciclo combinado configuración 2x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td>23,78</td>
+<td>18,79</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Funcionamiento 1 TG+1 TV</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Funcionamiento 2 TG+1 TV</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_centro">17,03</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Ciclo combinado configuración 3x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td>17,03</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Funcionamiento 1 TG+1 TV</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Funcionamiento 2 TG+1 TV</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 3 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Funcionamiento 3 TG+1 TV</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tecnología</th>
-<th class="cabeza_tabla" rowspan="2">Intervalo Potencia Neta (MW)</th>
-<th class="cabeza_tabla" colspan="3">2013</th>
+<th rowspan="2">Tecnología</th>
+<th rowspan="2">Intervalo Potencia Neta (MW)</th>
+<th colspan="3">2013</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Baleares</th>
-<th class="cabeza_tabla">Canarias</th>
-<th class="cabeza_tabla">Ceuta y Melilla</th>
+<th>Baleares</th>
+<th>Canarias</th>
+<th>Ceuta y Melilla</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia &lt; 5</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">22,11</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>5 ≤ Potencia &lt; 12</td>
+<td> </td>
+<td>22,11</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
-<td class="cuerpo_tabla_centro">11,52</td>
-<td class="cuerpo_tabla_centro">11,44</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>12 ≤ Potencia &lt; 20</td>
+<td>11,52</td>
+<td>11,44</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">11,85</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia ≥ 20</td>
+<td> </td>
+<td>11,85</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">68,35</td>
-<td class="cuerpo_tabla_centro">64,83</td>
+<td>Grupos Diésel - 4T</td>
+<td>Potencia &lt; 2</td>
+<td> </td>
+<td>68,35</td>
+<td>64,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">34,10</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 4T</td>
+<td>2 ≤ Potencia &lt; 4</td>
+<td> </td>
+<td>34,10</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">29,28</td>
-<td class="cuerpo_tabla_centro">27,99</td>
+<td>Grupos Diésel - 4T</td>
+<td>4 ≤ Potencia &lt; 14</td>
+<td> </td>
+<td>29,28</td>
+<td>27,99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
-<td class="cuerpo_tabla_centro">21,04</td>
-<td class="cuerpo_tabla_centro">20,97</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 4T</td>
+<td>14 ≤ Potencia &lt; 24</td>
+<td>21,04</td>
+<td>20,97</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
-<td class="cuerpo_tabla_centro">13,21</td>
-<td class="cuerpo_tabla_centro">17,92</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de gas aeroderivadas</td>
+<td>Potencia &lt; 50</td>
+<td>13,21</td>
+<td>17,92</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
-<td class="cuerpo_tabla_centro">63,18</td>
-<td class="cuerpo_tabla_centro">69,34</td>
-<td class="cuerpo_tabla_centro">127,76</td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia &lt; 13</td>
+<td>63,18</td>
+<td>69,34</td>
+<td>127,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
-<td class="cuerpo_tabla_centro">25,71</td>
-<td class="cuerpo_tabla_centro">33,83</td>
-<td class="cuerpo_tabla_centro">35,90</td>
+<td>Turbinas de gas heavy duty</td>
+<td>13 ≤ Potencia &lt; 25</td>
+<td>25,71</td>
+<td>33,83</td>
+<td>35,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
-<td class="cuerpo_tabla_centro">23,53</td>
-<td class="cuerpo_tabla_centro">23,12</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>25 ≤ Potencia &lt; 50</td>
+<td>23,53</td>
+<td>23,12</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia ≥ 50</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">4,82</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de vapor de Carbón</td>
+<td> </td>
+<td>4,82</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">8,10</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>Potencia ≤ 40</td>
+<td> </td>
+<td>8,10</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7,41</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>40 &lt; Potencia ≤ 60</td>
+<td> </td>
+<td>7,41</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5,16</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>60 &lt; Potencia ≤ 80</td>
+<td> </td>
+<td>5,16</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_centro">23,59</td>
-<td class="cuerpo_tabla_centro">18,64</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Ciclo combinado configuración 2x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td>23,59</td>
+<td>18,64</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Funcionamiento 1 TG+1 TV</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Funcionamiento 2 TG+1 TV</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_centro">16,90</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Ciclo combinado configuración 3x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td>16,90</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Funcionamiento 1 TG+1 TV</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Funcionamiento 2 TG+1 TV</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 3 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Funcionamiento 3 TG+1 TV</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tecnología</th>
-<th class="cabeza_tabla" rowspan="2">Intervalo Potencia Neta (MW)</th>
-<th class="cabeza_tabla" colspan="3">2014</th>
+<th rowspan="2">Tecnología</th>
+<th rowspan="2">Intervalo Potencia Neta (MW)</th>
+<th colspan="3">2014</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Baleares</th>
-<th class="cabeza_tabla">Canarias</th>
-<th class="cabeza_tabla">Ceuta y Melilla</th>
+<th>Baleares</th>
+<th>Canarias</th>
+<th>Ceuta y Melilla</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia &lt; 5</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">21,93</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>5 ≤ Potencia &lt; 12</td>
+<td> </td>
+<td>21,93</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
-<td class="cuerpo_tabla_centro">11,42</td>
-<td class="cuerpo_tabla_centro">11,35</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>12 ≤ Potencia &lt; 20</td>
+<td>11,42</td>
+<td>11,35</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">11,75</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia ≥ 20</td>
+<td> </td>
+<td>11,75</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">67,80</td>
-<td class="cuerpo_tabla_centro">64,31</td>
+<td>Grupos Diésel - 4T</td>
+<td>Potencia &lt; 2</td>
+<td> </td>
+<td>67,80</td>
+<td>64,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">33,83</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 4T</td>
+<td>2 ≤ Potencia &lt; 4</td>
+<td> </td>
+<td>33,83</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">29,04</td>
-<td class="cuerpo_tabla_centro">27,76</td>
+<td>Grupos Diésel - 4T</td>
+<td>4 ≤ Potencia &lt; 14</td>
+<td> </td>
+<td>29,04</td>
+<td>27,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
-<td class="cuerpo_tabla_centro">20,87</td>
-<td class="cuerpo_tabla_centro">20,80</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Grupos Diésel - 4T</td>
+<td>14 ≤ Potencia &lt; 24</td>
+<td>20,87</td>
+<td>20,80</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
-<td class="cuerpo_tabla_centro">13,11</td>
-<td class="cuerpo_tabla_centro">17,78</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de gas aeroderivadas</td>
+<td>Potencia &lt; 50</td>
+<td>13,11</td>
+<td>17,78</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
-<td class="cuerpo_tabla_centro">62,68</td>
-<td class="cuerpo_tabla_centro">68,79</td>
-<td class="cuerpo_tabla_centro">126,74</td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia &lt; 13</td>
+<td>62,68</td>
+<td>68,79</td>
+<td>126,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
-<td class="cuerpo_tabla_centro">25,51</td>
-<td class="cuerpo_tabla_centro">33,56</td>
-<td class="cuerpo_tabla_centro">35,61</td>
+<td>Turbinas de gas heavy duty</td>
+<td>13 ≤ Potencia &lt; 25</td>
+<td>25,51</td>
+<td>33,56</td>
+<td>35,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
-<td class="cuerpo_tabla_centro">23,34</td>
-<td class="cuerpo_tabla_centro">22,93</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>25 ≤ Potencia &lt; 50</td>
+<td>23,34</td>
+<td>22,93</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia ≥ 50</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">4,78</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de vapor de Carbón</td>
+<td> </td>
+<td>4,78</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">8,03</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>Potencia ≤ 40</td>
+<td> </td>
+<td>8,03</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7,35</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>40 &lt; Potencia ≤ 60</td>
+<td> </td>
+<td>7,35</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5,12</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>60 &lt; Potencia ≤ 80</td>
+<td> </td>
+<td>5,12</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_centro">23,40</td>
-<td class="cuerpo_tabla_centro">18,49</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Ciclo combinado configuración 2x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td>23,40</td>
+<td>18,49</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Funcionamiento 1 TG+1 TV</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Funcionamiento 2 TG+1 TV</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_centro">16,76</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Ciclo combinado configuración 3x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td>16,76</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Funcionamiento 1 TG+1 TV</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Funcionamiento 2 TG+1 TV</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 3 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Funcionamiento 3 TG+1 TV</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -7923,599 +7923,599 @@ Los valores unitarios de operación y mantenimiento variable a aplicar durante l
 
 2\. El parámetro «d» de la retribución por costes variables de operación y mantenimiento adicionales debidos al arranque, en euros por arranque, de las instalaciones tipo para los años 2012, 2013 y 2014, será:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tecnología</th>
-<th class="cabeza_tabla" rowspan="2">Intervalo Potencia Neta (MW)</th>
-<th class="cabeza_tabla" colspan="3">2012</th>
+<th rowspan="2">Tecnología</th>
+<th rowspan="2">Intervalo Potencia Neta (MW)</th>
+<th colspan="3">2012</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Baleares</th>
-<th class="cabeza_tabla">Canarias</th>
-<th class="cabeza_tabla">Ceuta y Melilla</th>
+<th>Baleares</th>
+<th>Canarias</th>
+<th>Ceuta y Melilla</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia &lt; 5</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">127,953</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>5 ≤ Potencia &lt; 12</td>
+<td> </td>
+<td>127,953</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
-<td class="cuerpo_tabla_der">107,523</td>
-<td class="cuerpo_tabla_der">127,953</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>12 ≤ Potencia &lt; 20</td>
+<td>107,523</td>
+<td>127,953</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">127,953</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia ≥ 20</td>
+<td> </td>
+<td>127,953</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">70,964</td>
-<td class="cuerpo_tabla_der">70,614</td>
+<td>Grupos Diésel - 4T</td>
+<td>Potencia &lt; 2</td>
+<td> </td>
+<td>70,964</td>
+<td>70,614</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">71,080</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 4T</td>
+<td>2 ≤ Potencia &lt; 4</td>
+<td> </td>
+<td>71,080</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">157,984</td>
-<td class="cuerpo_tabla_der">158,573</td>
+<td>Grupos Diésel - 4T</td>
+<td>4 ≤ Potencia &lt; 14</td>
+<td> </td>
+<td>157,984</td>
+<td>158,573</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
-<td class="cuerpo_tabla_der">180,028</td>
-<td class="cuerpo_tabla_der">206,707</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 4T</td>
+<td>14 ≤ Potencia &lt; 24</td>
+<td>180,028</td>
+<td>206,707</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
-<td class="cuerpo_tabla_der">751,045</td>
-<td class="cuerpo_tabla_der">818,493</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de gas aeroderivadas</td>
+<td>Potencia &lt; 50</td>
+<td>751,045</td>
+<td>818,493</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
-<td class="cuerpo_tabla_der">3.669,609</td>
-<td class="cuerpo_tabla_der">3.873,332</td>
-<td class="cuerpo_tabla_der">3.873,332</td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia &lt; 13</td>
+<td>3.669,609</td>
+<td>3.873,332</td>
+<td>3.873,332</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
-<td class="cuerpo_tabla_der">3.479,191</td>
-<td class="cuerpo_tabla_der">3.873,332</td>
-<td class="cuerpo_tabla_der">3.873,332</td>
+<td>Turbinas de gas heavy duty</td>
+<td>13 ≤ Potencia &lt; 25</td>
+<td>3.479,191</td>
+<td>3.873,332</td>
+<td>3.873,332</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
-<td class="cuerpo_tabla_der">3.692,109</td>
-<td class="cuerpo_tabla_der">3.884,837</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>25 ≤ Potencia &lt; 50</td>
+<td>3.692,109</td>
+<td>3.884,837</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
-<td class="cuerpo_tabla_der">11.116,770</td>
-<td class="cuerpo_tabla_der">13.183,894</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia ≥ 50</td>
+<td>11.116,770</td>
+<td>13.183,894</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">16.080,422</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de vapor de Carbón</td>
+<td> </td>
+<td>16.080,422</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">9.048,351</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>Potencia ≤ 40</td>
+<td> </td>
+<td>9.048,351</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.114,441</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>40 &lt; Potencia ≤ 60</td>
+<td> </td>
+<td>11.114,441</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">12.038,118</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>60 &lt; Potencia ≤ 80</td>
+<td> </td>
+<td>12.038,118</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Ciclo combinado configuración 2x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 1TG</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">11.116,770</td>
-<td class="cuerpo_tabla_der">13.183,891</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 1 1TG</td>
+<td> </td>
+<td>11.116,770</td>
+<td>13.183,891</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">27.791,925</td>
-<td class="cuerpo_tabla_der">33.072,391</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 1 TG+1 TV</td>
+<td> </td>
+<td>27.791,925</td>
+<td>33.072,391</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">27.791,925</td>
-<td class="cuerpo_tabla_der">33.072,391</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 2 TG+1 TV</td>
+<td> </td>
+<td>27.791,925</td>
+<td>33.072,391</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Ciclo combinado configuración 3x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 1TG</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">10.796,094</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 1 1TG</td>
+<td> </td>
+<td>10.796,094</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">32.383,095</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 1 TG+1 TV</td>
+<td> </td>
+<td>32.383,095</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">32.383,095</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 2 TG+1 TV</td>
+<td> </td>
+<td>32.383,095</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 3 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">32.383,095</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 3 TG+1 TV</td>
+<td> </td>
+<td>32.383,095</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tecnología</th>
-<th class="cabeza_tabla" rowspan="2">Intervalo Potencia Neta (MW)</th>
-<th class="cabeza_tabla" colspan="3">2013</th>
+<th rowspan="2">Tecnología</th>
+<th rowspan="2">Intervalo Potencia Neta (MW)</th>
+<th colspan="3">2013</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Baleares</th>
-<th class="cabeza_tabla">Canarias</th>
-<th class="cabeza_tabla">Ceuta y Melilla</th>
+<th>Baleares</th>
+<th>Canarias</th>
+<th>Ceuta y Melilla</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia &lt; 5</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">126,929</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>5 ≤ Potencia &lt; 12</td>
+<td> </td>
+<td>126,929</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
-<td class="cuerpo_tabla_der">106,663</td>
-<td class="cuerpo_tabla_der">126,929</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>12 ≤ Potencia &lt; 20</td>
+<td>106,663</td>
+<td>126,929</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">126,929</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia ≥ 20</td>
+<td> </td>
+<td>126,929</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">70,396</td>
-<td class="cuerpo_tabla_der">70,049</td>
+<td>Grupos Diésel - 4T</td>
+<td>Potencia &lt; 2</td>
+<td> </td>
+<td>70,396</td>
+<td>70,049</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">70,512</td>
-<td class="cuerpo_tabla_der">0,000</td>
+<td>Grupos Diésel - 4T</td>
+<td>2 ≤ Potencia &lt; 4</td>
+<td> </td>
+<td>70,512</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">156,720</td>
-<td class="cuerpo_tabla_der">157,304</td>
+<td>Grupos Diésel - 4T</td>
+<td>4 ≤ Potencia &lt; 14</td>
+<td> </td>
+<td>156,720</td>
+<td>157,304</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
-<td class="cuerpo_tabla_der">178,588</td>
-<td class="cuerpo_tabla_der">205,053</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 4T</td>
+<td>14 ≤ Potencia &lt; 24</td>
+<td>178,588</td>
+<td>205,053</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
-<td class="cuerpo_tabla_der">745,037</td>
-<td class="cuerpo_tabla_der">811,945</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de gas aeroderivadas</td>
+<td>Potencia &lt; 50</td>
+<td>745,037</td>
+<td>811,945</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
-<td class="cuerpo_tabla_der">3.640,252</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.842,345</td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia &lt; 13</td>
+<td>3.640,252</td>
+<td> </td>
+<td>3.842,345</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
-<td class="cuerpo_tabla_der">3.451,357</td>
-<td class="cuerpo_tabla_der">3.842,345</td>
-<td class="cuerpo_tabla_der">3.842,345</td>
+<td>Turbinas de gas heavy duty</td>
+<td>13 ≤ Potencia &lt; 25</td>
+<td>3.451,357</td>
+<td>3.842,345</td>
+<td>3.842,345</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
-<td class="cuerpo_tabla_der">3.662,572</td>
-<td class="cuerpo_tabla_der">3.853,758</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>25 ≤ Potencia &lt; 50</td>
+<td>3.662,572</td>
+<td>3.853,758</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
-<td class="cuerpo_tabla_der">11.027,836</td>
-<td class="cuerpo_tabla_der">13.078,423</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia ≥ 50</td>
+<td>11.027,836</td>
+<td>13.078,423</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">15.951,779</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de vapor de Carbón</td>
+<td> </td>
+<td>15.951,779</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.975,964</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>Potencia ≤ 40</td>
+<td> </td>
+<td>8.975,964</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.025,525</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>40 &lt; Potencia ≤ 60</td>
+<td> </td>
+<td>11.025,525</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.941,813</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>60 &lt; Potencia ≤ 80</td>
+<td> </td>
+<td>11.941,813</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Ciclo combinado configuración 2x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 1TG</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">11.027,836</td>
-<td class="cuerpo_tabla_der">13.078,420</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 1 1TG</td>
+<td> </td>
+<td>11.027,836</td>
+<td>13.078,420</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">27.569,590</td>
-<td class="cuerpo_tabla_der">32.807,812</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 1 TG+1 TV</td>
+<td> </td>
+<td>27.569,590</td>
+<td>32.807,812</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">27.569,590</td>
-<td class="cuerpo_tabla_der">32.807,812</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 2 TG+1 TV</td>
+<td> </td>
+<td>27.569,590</td>
+<td>32.807,812</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Ciclo combinado configuración 3x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 1TG</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">10.709,725</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 1 1TG</td>
+<td> </td>
+<td>10.709,725</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">32.124,030</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 1 TG+1 TV</td>
+<td> </td>
+<td>32.124,030</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">32.124,030</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 2 TG+1 TV</td>
+<td> </td>
+<td>32.124,030</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 3 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">32.124,030</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 3 TG+1 TV</td>
+<td> </td>
+<td>32.124,030</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tecnología</th>
-<th class="cabeza_tabla" rowspan="2">Intervalo Potencia Neta (MW)</th>
-<th class="cabeza_tabla" colspan="3">2014</th>
+<th rowspan="2">Tecnología</th>
+<th rowspan="2">Intervalo Potencia Neta (MW)</th>
+<th colspan="3">2014</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Baleares</th>
-<th class="cabeza_tabla">Canarias</th>
-<th class="cabeza_tabla">Ceuta y Melilla</th>
+<th>Baleares</th>
+<th>Canarias</th>
+<th>Ceuta y Melilla</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia &lt; 5</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">125,914</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>5 ≤ Potencia &lt; 12</td>
+<td> </td>
+<td>125,914</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
-<td class="cuerpo_tabla_der">105,810</td>
-<td class="cuerpo_tabla_der">125,914</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>12 ≤ Potencia &lt; 20</td>
+<td>105,810</td>
+<td>125,914</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">125,914</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia ≥ 20</td>
+<td> </td>
+<td>125,914</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">69,833</td>
-<td class="cuerpo_tabla_der">70,049</td>
+<td>Grupos Diésel - 4T</td>
+<td>Potencia &lt; 2</td>
+<td> </td>
+<td>69,833</td>
+<td>70,049</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">69,948</td>
-<td class="cuerpo_tabla_der">0,000</td>
+<td>Grupos Diésel - 4T</td>
+<td>2 ≤ Potencia &lt; 4</td>
+<td> </td>
+<td>69,948</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">155,466</td>
-<td class="cuerpo_tabla_der">157,304</td>
+<td>Grupos Diésel - 4T</td>
+<td>4 ≤ Potencia &lt; 14</td>
+<td> </td>
+<td>155,466</td>
+<td>157,304</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
-<td class="cuerpo_tabla_der">177,159</td>
-<td class="cuerpo_tabla_der">203,413</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 4T</td>
+<td>14 ≤ Potencia &lt; 24</td>
+<td>177,159</td>
+<td>203,413</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
-<td class="cuerpo_tabla_der">739,076</td>
-<td class="cuerpo_tabla_der">805,449</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de gas aeroderivadas</td>
+<td>Potencia &lt; 50</td>
+<td>739,076</td>
+<td>805,449</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
-<td class="cuerpo_tabla_der">3.611,130</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.842,345</td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia &lt; 13</td>
+<td>3.611,130</td>
+<td> </td>
+<td>3.842,345</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
-<td class="cuerpo_tabla_der">3.423,746</td>
-<td class="cuerpo_tabla_der">3.811,607</td>
-<td class="cuerpo_tabla_der">3.842,345</td>
+<td>Turbinas de gas heavy duty</td>
+<td>13 ≤ Potencia &lt; 25</td>
+<td>3.423,746</td>
+<td>3.811,607</td>
+<td>3.842,345</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
-<td class="cuerpo_tabla_der">3.633,272</td>
-<td class="cuerpo_tabla_der">3.822,928</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>25 ≤ Potencia &lt; 50</td>
+<td>3.633,272</td>
+<td>3.822,928</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
-<td class="cuerpo_tabla_der">10.939,613</td>
-<td class="cuerpo_tabla_der">12.973,795</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia ≥ 50</td>
+<td>10.939,613</td>
+<td>12.973,795</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">15.824,164</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de vapor de Carbón</td>
+<td> </td>
+<td>15.824,164</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.904,156</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>Potencia ≤ 40</td>
+<td> </td>
+<td>8.904,156</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.937,321</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>40 &lt; Potencia ≤ 60</td>
+<td> </td>
+<td>10.937,321</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.846,279</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>60 &lt; Potencia ≤ 80</td>
+<td> </td>
+<td>11.846,279</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Ciclo combinado configuración 2x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 1TG</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">10.939,613</td>
-<td class="cuerpo_tabla_der">12.973,793</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 1 1TG</td>
+<td> </td>
+<td>10.939,613</td>
+<td>12.973,793</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">27.349,033</td>
-<td class="cuerpo_tabla_der">32.545,349</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 1 TG+1 TV</td>
+<td> </td>
+<td>27.349,033</td>
+<td>32.545,349</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">27.349,033</td>
-<td class="cuerpo_tabla_der">32.545,349</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 2 TG+1 TV</td>
+<td> </td>
+<td>27.349,033</td>
+<td>32.545,349</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Ciclo combinado configuración 3x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 1TG</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">10.624,047</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 1 1TG</td>
+<td> </td>
+<td>10.624,047</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 1 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">31.867,038</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 1 TG+1 TV</td>
+<td> </td>
+<td>31.867,038</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 2 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">31.867,038</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 2 TG+1 TV</td>
+<td> </td>
+<td>31.867,038</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento 3 TG+1 TV</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">31.867,038</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Funcionamiento 3 TG+1 TV</td>
+<td> </td>
+<td>31.867,038</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -8526,254 +8526,254 @@ El parámetro d a aplicar durante los meses del año 2015 en los que sea de apli
 
 a) Combustibles fósiles distintos de gas natural:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="5">Primer semestre 2012 - Precios del producto €/Tm</th>
+<th rowspan="2"> </th>
+<th colspan="5">Primer semestre 2012 - Precios del producto €/Tm</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Hulla</th>
-<th class="cabeza_tabla">Fuel oil BIA 1% S / 0,3 % S</th>
-<th class="cabeza_tabla">Fuel oil BIA 0,73% S</th>
-<th class="cabeza_tabla">Diésel oil</th>
-<th class="cabeza_tabla">GasoiL 0,1% S</th>
+<th>Hulla</th>
+<th>Fuel oil BIA 1% S / 0,3 % S</th>
+<th>Fuel oil BIA 0,73% S</th>
+<th>Diésel oil</th>
+<th>GasoiL 0,1% S</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Canarias</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">541,31</td>
-<td class="cuerpo_tabla_centro">582,34</td>
-<td class="cuerpo_tabla_centro">699,60</td>
-<td class="cuerpo_tabla_centro">740,11</td>
+<td>Canarias</td>
+<td>–</td>
+<td>541,31</td>
+<td>582,34</td>
+<td>699,60</td>
+<td>740,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Baleares</td>
-<td class="cuerpo_tabla_centro">74,00</td>
-<td class="cuerpo_tabla_centro">548,76</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">746,23</td>
+<td>Baleares</td>
+<td>74,00</td>
+<td>548,76</td>
+<td>–</td>
+<td>–</td>
+<td>746,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ceuta y Melilla</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">548,76</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">706,10</td>
-<td class="cuerpo_tabla_centro">746,23</td>
+<td>Ceuta y Melilla</td>
+<td>–</td>
+<td>548,76</td>
+<td>–</td>
+<td>706,10</td>
+<td>746,23</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="5">Segundo semestre 2012 - Precios del producto €/Tm</th>
+<th rowspan="2"> </th>
+<th colspan="5">Segundo semestre 2012 - Precios del producto €/Tm</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Hulla</th>
-<th class="cabeza_tabla">Fuel oil BIA 1% S / 0,3 % S</th>
-<th class="cabeza_tabla">Fuel oil BIA 0,73% S</th>
-<th class="cabeza_tabla">Diésel oil</th>
-<th class="cabeza_tabla">Gasoil 0,1% S</th>
+<th>Hulla</th>
+<th>Fuel oil BIA 1% S / 0,3 % S</th>
+<th>Fuel oil BIA 0,73% S</th>
+<th>Diésel oil</th>
+<th>Gasoil 0,1% S</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Canarias</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">514,82</td>
-<td class="cuerpo_tabla_centro">552,85</td>
-<td class="cuerpo_tabla_centro">699,39</td>
-<td class="cuerpo_tabla_centro">745,96</td>
+<td>Canarias</td>
+<td>–</td>
+<td>514,82</td>
+<td>552,85</td>
+<td>699,39</td>
+<td>745,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Baleares</td>
-<td class="cuerpo_tabla_centro">70,66</td>
-<td class="cuerpo_tabla_centro">516,67</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">748,02</td>
+<td>Baleares</td>
+<td>70,66</td>
+<td>516,67</td>
+<td>–</td>
+<td>–</td>
+<td>748,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ceuta y Melilla</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">516,67</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">702,69</td>
-<td class="cuerpo_tabla_centro">748,02</td>
+<td>Ceuta y Melilla</td>
+<td>–</td>
+<td>516,67</td>
+<td>–</td>
+<td>702,69</td>
+<td>748,02</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="5">Primer semestre 2013 - Precios del producto €/Tm</th>
+<th rowspan="2"> </th>
+<th colspan="5">Primer semestre 2013 - Precios del producto €/Tm</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Hulla</th>
-<th class="cabeza_tabla">Fuel oil BIA 1% S / 0,3 % S</th>
-<th class="cabeza_tabla">Fuel oil BIA 0,73% S</th>
-<th class="cabeza_tabla">Diésel oil</th>
-<th class="cabeza_tabla">Gasoil 0,1% S</th>
+<th>Hulla</th>
+<th>Fuel oil BIA 1% S / 0,3 % S</th>
+<th>Fuel oil BIA 0,73% S</th>
+<th>Diésel oil</th>
+<th>Gasoil 0,1% S</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Canarias</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">480,06</td>
-<td class="cuerpo_tabla_centro">525,40</td>
-<td class="cuerpo_tabla_centro">654,49</td>
-<td class="cuerpo_tabla_centro">696,34</td>
+<td>Canarias</td>
+<td>–</td>
+<td>480,06</td>
+<td>525,40</td>
+<td>654,49</td>
+<td>696,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Baleares</td>
-<td class="cuerpo_tabla_centro">63,69</td>
-<td class="cuerpo_tabla_centro">482,52</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">700,29</td>
+<td>Baleares</td>
+<td>63,69</td>
+<td>482,52</td>
+<td>–</td>
+<td>–</td>
+<td>700,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ceuta y Melilla</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">482,52</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">659,36</td>
-<td class="cuerpo_tabla_centro">700,29</td>
+<td>Ceuta y Melilla</td>
+<td>–</td>
+<td>482,52</td>
+<td>–</td>
+<td>659,36</td>
+<td>700,29</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="5">Segundo semestre 2013 - Precios del producto €/Tm</th>
+<th rowspan="2"> </th>
+<th colspan="5">Segundo semestre 2013 - Precios del producto €/Tm</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Hulla</th>
-<th class="cabeza_tabla">Fuel oil BIA 1% S / 0,3 % S</th>
-<th class="cabeza_tabla">Fuel oil BIA 0,73% S</th>
-<th class="cabeza_tabla">Diésel oil</th>
-<th class="cabeza_tabla">Gasoil 0,1% S</th>
+<th>Hulla</th>
+<th>Fuel oil BIA 1% S / 0,3 % S</th>
+<th>Fuel oil BIA 0,73% S</th>
+<th>Diésel oil</th>
+<th>Gasoil 0,1% S</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Canarias</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">455,94</td>
-<td class="cuerpo_tabla_centro">513,25</td>
-<td class="cuerpo_tabla_centro">649,99</td>
-<td class="cuerpo_tabla_centro">694,43</td>
+<td>Canarias</td>
+<td>–</td>
+<td>455,94</td>
+<td>513,25</td>
+<td>649,99</td>
+<td>694,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Baleares</td>
-<td class="cuerpo_tabla_centro">59,41</td>
-<td class="cuerpo_tabla_centro">461,20</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">697,23</td>
+<td>Baleares</td>
+<td>59,41</td>
+<td>461,20</td>
+<td>–</td>
+<td>–</td>
+<td>697,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ceuta y Melilla</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">461,20</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">654,13</td>
-<td class="cuerpo_tabla_centro">697,23</td>
+<td>Ceuta y Melilla</td>
+<td>–</td>
+<td>461,20</td>
+<td>–</td>
+<td>654,13</td>
+<td>697,23</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="5">Primer semestre 2014 - Precios del producto €/Tm</th>
+<th rowspan="2"> </th>
+<th colspan="5">Primer semestre 2014 - Precios del producto €/Tm</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Hulla</th>
-<th class="cabeza_tabla">Fuel oil BIA 1% S / 0,3 % S</th>
-<th class="cabeza_tabla">Fuel oil BIA 0,73% S</th>
-<th class="cabeza_tabla">Diésel oil</th>
-<th class="cabeza_tabla">Gasoil 0,1% S</th>
+<th>Hulla</th>
+<th>Fuel oil BIA 1% S / 0,3 % S</th>
+<th>Fuel oil BIA 0,73% S</th>
+<th>Diésel oil</th>
+<th>Gasoil 0,1% S</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Canarias</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">460,58</td>
-<td class="cuerpo_tabla_centro">513,74</td>
-<td class="cuerpo_tabla_centro">624,37</td>
-<td class="cuerpo_tabla_centro">667,11</td>
+<td>Canarias</td>
+<td>–</td>
+<td>460,58</td>
+<td>513,74</td>
+<td>624,37</td>
+<td>667,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Baleares</td>
-<td class="cuerpo_tabla_centro">56,12</td>
-<td class="cuerpo_tabla_centro">469,88</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">667,29</td>
+<td>Baleares</td>
+<td>56,12</td>
+<td>469,88</td>
+<td>–</td>
+<td>–</td>
+<td>667,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ceuta y Melilla</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">469,88</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">626,65</td>
-<td class="cuerpo_tabla_centro">667,29</td>
+<td>Ceuta y Melilla</td>
+<td>–</td>
+<td>469,88</td>
+<td>–</td>
+<td>626,65</td>
+<td>667,29</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="5">Segundo semestre 2014 - Precios del producto €/Tm</th>
+<th rowspan="2"> </th>
+<th colspan="5">Segundo semestre 2014 - Precios del producto €/Tm</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Hulla</th>
-<th class="cabeza_tabla">Fuel oil BIA 1% S / 0,3 % S</th>
-<th class="cabeza_tabla">Fuel oil BIA 0,73% S</th>
-<th class="cabeza_tabla">Diésel oil</th>
-<th class="cabeza_tabla">Gasoil 0,1% S</th>
+<th>Hulla</th>
+<th>Fuel oil BIA 1% S / 0,3 % S</th>
+<th>Fuel oil BIA 0,73% S</th>
+<th>Diésel oil</th>
+<th>Gasoil 0,1% S</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Canarias</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">385,94</td>
-<td class="cuerpo_tabla_centro">423,34</td>
-<td class="cuerpo_tabla_centro">560,98</td>
-<td class="cuerpo_tabla_centro">601,03</td>
+<td>Canarias</td>
+<td>–</td>
+<td>385,94</td>
+<td>423,34</td>
+<td>560,98</td>
+<td>601,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Baleares</td>
-<td class="cuerpo_tabla_centro">57,33</td>
-<td class="cuerpo_tabla_centro">394,08</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">602,22</td>
+<td>Baleares</td>
+<td>57,33</td>
+<td>394,08</td>
+<td>–</td>
+<td>–</td>
+<td>602,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ceuta y Melilla</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">394,08</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">564,40</td>
-<td class="cuerpo_tabla_centro">602,22</td>
+<td>Ceuta y Melilla</td>
+<td>–</td>
+<td>394,08</td>
+<td>–</td>
+<td>564,40</td>
+<td>602,22</td>
 </tr>
 </tbody>
 </table>
@@ -8782,359 +8782,359 @@ Los precios del producto para el año 2015 serán aprobados por Resolución de l
 
 La retribución por costes de logística a aplicar para el año 2012, 2013 y 2014 serán los siguientes:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">2012</th>
-<th class="cabeza_tabla" rowspan="2">Hulla</th>
+<th>2012</th>
+<th rowspan="2">Hulla</th>
 <th rowspan="2">
-<p class="cabeza_tabla">Fuel oil BIA 1%</p>
-<p class="cabeza_tabla">0.7-0.73%</p>
+<p>Fuel oil BIA 1%</p>
+<p>0.7-0.73%</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">Fuel oil BIA 0,3%</th>
-<th class="cabeza_tabla" rowspan="2">Diésel oil</th>
-<th class="cabeza_tabla" rowspan="2">Gasoil</th>
+<th rowspan="2">Fuel oil BIA 0,3%</th>
+<th rowspan="2">Diésel oil</th>
+<th rowspan="2">Gasoil</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">€/tm</th>
+<th>€/tm</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Baleares </em>
 </td>
-<td class="cuerpo_tabla_centro" colspan="5"> </td>
+<td colspan="5"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mallorca</td>
-<td class="cuerpo_tabla_centro">13,40</td>
-<td class="cuerpo_tabla_centro">40,85</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">44,20</td>
+<td>Mallorca</td>
+<td>13,40</td>
+<td>40,85</td>
+<td> </td>
+<td> </td>
+<td>44,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Menorca</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">33,48</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">42,17</td>
+<td>Menorca</td>
+<td> </td>
+<td>33,48</td>
+<td> </td>
+<td> </td>
+<td>42,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ibiza-Formentera</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">35,29</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">43,98</td>
+<td>Ibiza-Formentera</td>
+<td> </td>
+<td>35,29</td>
+<td> </td>
+<td> </td>
+<td>43,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Canarias </em>
 </td>
-<td class="cuerpo_tabla_centro" colspan="5"> </td>
+<td colspan="5"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tenerife</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">21,03</td>
-<td class="cuerpo_tabla_centro">32,60</td>
-<td class="cuerpo_tabla_centro">21,03</td>
-<td class="cuerpo_tabla_centro">21,03</td>
+<td>Tenerife</td>
+<td> </td>
+<td>21,03</td>
+<td>32,60</td>
+<td>21,03</td>
+<td>21,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gran Canaria</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">25,49</td>
-<td class="cuerpo_tabla_centro">43,48</td>
-<td class="cuerpo_tabla_centro">31,91</td>
-<td class="cuerpo_tabla_centro">31,91</td>
+<td>Gran Canaria</td>
+<td> </td>
+<td>25,49</td>
+<td>43,48</td>
+<td>31,91</td>
+<td>31,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fuerteventura</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">25,49</td>
-<td class="cuerpo_tabla_centro">43,48</td>
-<td class="cuerpo_tabla_centro">38,34</td>
-<td class="cuerpo_tabla_centro">38,34</td>
+<td>Fuerteventura</td>
+<td> </td>
+<td>25,49</td>
+<td>43,48</td>
+<td>38,34</td>
+<td>38,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lanzarote</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">25,49</td>
-<td class="cuerpo_tabla_centro">43,48</td>
-<td class="cuerpo_tabla_centro">35,77</td>
-<td class="cuerpo_tabla_centro">35,77</td>
+<td>Lanzarote</td>
+<td> </td>
+<td>25,49</td>
+<td>43,48</td>
+<td>35,77</td>
+<td>35,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">La Palma, Hierro y Gomera</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">38,34</td>
-<td class="cuerpo_tabla_centro">56,32</td>
-<td class="cuerpo_tabla_centro">56,36</td>
-<td class="cuerpo_tabla_centro">35,77</td>
+<td>La Palma, Hierro y Gomera</td>
+<td> </td>
+<td>38,34</td>
+<td>56,32</td>
+<td>56,36</td>
+<td>35,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Ceuta y Melilla </em>
 </td>
-<td class="cuerpo_tabla_centro" colspan="5"> </td>
+<td colspan="5"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ceuta</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">33,58</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">37,26</td>
-<td class="cuerpo_tabla_centro">37,26</td>
+<td>Ceuta</td>
+<td> </td>
+<td>33,58</td>
+<td> </td>
+<td>37,26</td>
+<td>37,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Melilla</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">60,18</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">66,05</td>
+<td>Melilla</td>
+<td> </td>
+<td>60,18</td>
+<td> </td>
+<td> </td>
+<td>66,05</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">2013</th>
-<th class="cabeza_tabla" rowspan="2">Hulla</th>
+<th>2013</th>
+<th rowspan="2">Hulla</th>
 <th rowspan="2">
-<p class="cabeza_tabla">Fuel oil BIA 1%</p>
-<p class="cabeza_tabla">0,7-0,73%</p>
+<p>Fuel oil BIA 1%</p>
+<p>0,7-0,73%</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">Fuel oil BIA 0,3%</th>
-<th class="cabeza_tabla" rowspan="2">Diésel oil</th>
-<th class="cabeza_tabla" rowspan="2">Gasoil</th>
+<th rowspan="2">Fuel oil BIA 0,3%</th>
+<th rowspan="2">Diésel oil</th>
+<th rowspan="2">Gasoil</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">€/tm</th>
+<th>€/tm</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Baleares </em>
 </td>
-<td class="cuerpo_tabla_centro" colspan="5"> </td>
+<td colspan="5"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mallorca</td>
-<td class="cuerpo_tabla_centro">13,30</td>
-<td class="cuerpo_tabla_centro">40,52</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">43,85</td>
+<td>Mallorca</td>
+<td>13,30</td>
+<td>40,52</td>
+<td> </td>
+<td> </td>
+<td>43,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Menorca</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">33,21</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">41,83</td>
+<td>Menorca</td>
+<td> </td>
+<td>33,21</td>
+<td> </td>
+<td> </td>
+<td>41,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ibiza-Formentera</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">35,01</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">43,63</td>
+<td>Ibiza-Formentera</td>
+<td> </td>
+<td>35,01</td>
+<td> </td>
+<td> </td>
+<td>43,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Canarias </em>
 </td>
-<td class="cuerpo_tabla_centro" colspan="5"> </td>
+<td colspan="5"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tenerife</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">20,87</td>
-<td class="cuerpo_tabla_centro">32,33</td>
-<td class="cuerpo_tabla_centro">20,87</td>
-<td class="cuerpo_tabla_centro">20,87</td>
+<td>Tenerife</td>
+<td> </td>
+<td>20,87</td>
+<td>32,33</td>
+<td>20,87</td>
+<td>20,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gran Canaria</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">25,29</td>
-<td class="cuerpo_tabla_centro">43,13</td>
-<td class="cuerpo_tabla_centro">31,66</td>
-<td class="cuerpo_tabla_centro">31,66</td>
+<td>Gran Canaria</td>
+<td> </td>
+<td>25,29</td>
+<td>43,13</td>
+<td>31,66</td>
+<td>31,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fuerteventura</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">25,29</td>
-<td class="cuerpo_tabla_centro">43,13</td>
-<td class="cuerpo_tabla_centro">38,03</td>
-<td class="cuerpo_tabla_centro">38,03</td>
+<td>Fuerteventura</td>
+<td> </td>
+<td>25,29</td>
+<td>43,13</td>
+<td>38,03</td>
+<td>38,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lanzarote</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">25,29</td>
-<td class="cuerpo_tabla_centro">43,13</td>
-<td class="cuerpo_tabla_centro">35,48</td>
-<td class="cuerpo_tabla_centro">35,48</td>
+<td>Lanzarote</td>
+<td> </td>
+<td>25,29</td>
+<td>43,13</td>
+<td>35,48</td>
+<td>35,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">La Palma, Hierro y Gomera</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">38,03</td>
-<td class="cuerpo_tabla_centro">55,87</td>
-<td class="cuerpo_tabla_centro">55,90</td>
-<td class="cuerpo_tabla_centro">35,48</td>
+<td>La Palma, Hierro y Gomera</td>
+<td> </td>
+<td>38,03</td>
+<td>55,87</td>
+<td>55,90</td>
+<td>35,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Ceuta y Melilla </em>
 </td>
-<td class="cuerpo_tabla_centro" colspan="5"> </td>
+<td colspan="5"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ceuta</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">33,31</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">36,97</td>
-<td class="cuerpo_tabla_centro">36,97</td>
+<td>Ceuta</td>
+<td> </td>
+<td>33,31</td>
+<td> </td>
+<td>36,97</td>
+<td>36,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Melilla</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">59,69</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">65,52</td>
+<td>Melilla</td>
+<td> </td>
+<td>59,69</td>
+<td> </td>
+<td> </td>
+<td>65,52</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">2014</th>
-<th class="cabeza_tabla" rowspan="2">Hulla</th>
+<th>2014</th>
+<th rowspan="2">Hulla</th>
 <th rowspan="2">
-<p class="cabeza_tabla">Fuel oil BIA 1%</p>
-<p class="cabeza_tabla">0,7-0,73%</p>
+<p>Fuel oil BIA 1%</p>
+<p>0,7-0,73%</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">Fuel oil BIA 0,3%</th>
-<th class="cabeza_tabla" rowspan="2">Diésel oil</th>
-<th class="cabeza_tabla" rowspan="2">Gasoil</th>
+<th rowspan="2">Fuel oil BIA 0,3%</th>
+<th rowspan="2">Diésel oil</th>
+<th rowspan="2">Gasoil</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">€/tm</th>
+<th>€/tm</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Baleares </em>
 </td>
-<td class="cuerpo_tabla_centro" colspan="5"> </td>
+<td colspan="5"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mallorca</td>
-<td class="cuerpo_tabla_centro">13,19</td>
-<td class="cuerpo_tabla_centro">40,20</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">43,50</td>
+<td>Mallorca</td>
+<td>13,19</td>
+<td>40,20</td>
+<td> </td>
+<td> </td>
+<td>43,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Menorca</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">32,94</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">41,50</td>
+<td>Menorca</td>
+<td> </td>
+<td>32,94</td>
+<td> </td>
+<td> </td>
+<td>41,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ibiza-Formentera</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">34,73</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">43,28</td>
+<td>Ibiza-Formentera</td>
+<td> </td>
+<td>34,73</td>
+<td> </td>
+<td> </td>
+<td>43,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Canarias </em>
 </td>
-<td class="cuerpo_tabla_centro" colspan="5"> </td>
+<td colspan="5"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tenerife</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">20,70</td>
-<td class="cuerpo_tabla_centro">32,08</td>
-<td class="cuerpo_tabla_centro">20,70</td>
-<td class="cuerpo_tabla_centro">20,70</td>
+<td>Tenerife</td>
+<td> </td>
+<td>20,70</td>
+<td>32,08</td>
+<td>20,70</td>
+<td>20,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gran Canaria</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">25,08</td>
-<td class="cuerpo_tabla_centro">42,78</td>
-<td class="cuerpo_tabla_centro">31,41</td>
-<td class="cuerpo_tabla_centro">31,41</td>
+<td>Gran Canaria</td>
+<td> </td>
+<td>25,08</td>
+<td>42,78</td>
+<td>31,41</td>
+<td>31,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fuerteventura</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">25,08</td>
-<td class="cuerpo_tabla_centro">42,78</td>
-<td class="cuerpo_tabla_centro">37,73</td>
-<td class="cuerpo_tabla_centro">37,73</td>
+<td>Fuerteventura</td>
+<td> </td>
+<td>25,08</td>
+<td>42,78</td>
+<td>37,73</td>
+<td>37,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lanzarote</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">25,08</td>
-<td class="cuerpo_tabla_centro">42,78</td>
-<td class="cuerpo_tabla_centro">35,20</td>
-<td class="cuerpo_tabla_centro">35,20</td>
+<td>Lanzarote</td>
+<td> </td>
+<td>25,08</td>
+<td>42,78</td>
+<td>35,20</td>
+<td>35,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">La Palma, Hierro y Gomera</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">37,73</td>
-<td class="cuerpo_tabla_centro">55,42</td>
-<td class="cuerpo_tabla_centro">55,46</td>
-<td class="cuerpo_tabla_centro">35,20</td>
+<td>La Palma, Hierro y Gomera</td>
+<td> </td>
+<td>37,73</td>
+<td>55,42</td>
+<td>55,46</td>
+<td>35,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Ceuta y Melilla </em>
 </td>
-<td class="cuerpo_tabla_centro" colspan="5"> </td>
+<td colspan="5"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ceuta</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">33,04</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">36,67</td>
-<td class="cuerpo_tabla_centro">36,67</td>
+<td>Ceuta</td>
+<td> </td>
+<td>33,04</td>
+<td> </td>
+<td>36,67</td>
+<td>36,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Melilla</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">59,22</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">65,00</td>
+<td>Melilla</td>
+<td> </td>
+<td>59,22</td>
+<td> </td>
+<td> </td>
+<td>65,00</td>
 </tr>
 </tbody>
 </table>
@@ -9145,296 +9145,296 @@ b) Gas natural:
 
 El precio del combustible, prc (c,i,h,j) en euros/tonelada, del gas natural para el año 2012 y primer semestre del 2013 a aplicar en la liquidación de la retribución por costes variables de generación en el territorio Balear tomará los valores que se indican a continuación:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="3"> </th>
-<th class="cabeza_tabla" colspan="3">2012</th>
+<th rowspan="3"> </th>
+<th colspan="3">2012</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="3">prc (i,h,j) €/t</th>
+<th colspan="3">prc (i,h,j) €/t</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">CCGT 1 de Son Reus</th>
-<th class="cabeza_tabla">CCGT 2 de Cas Tresorer</th>
-<th class="cabeza_tabla">CCGT 2 de ibiza</th>
+<th>CCGT 1 de Son Reus</th>
+<th>CCGT 2 de Cas Tresorer</th>
+<th>CCGT 2 de ibiza</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Enero</td>
-<td class="cuerpo_tabla_der">1.143,55</td>
-<td class="cuerpo_tabla_der">509,45</td>
-<td class="cuerpo_tabla_der">4.273,98</td>
+<td>Enero</td>
+<td>1.143,55</td>
+<td>509,45</td>
+<td>4.273,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Febrero</td>
-<td class="cuerpo_tabla_der">480,51</td>
-<td class="cuerpo_tabla_der">516,68</td>
-<td class="cuerpo_tabla_der">73.183,53</td>
+<td>Febrero</td>
+<td>480,51</td>
+<td>516,68</td>
+<td>73.183,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Marzo</td>
-<td class="cuerpo_tabla_der">1.130,59</td>
-<td class="cuerpo_tabla_der">540,88</td>
-<td class="cuerpo_tabla_der">148.175,97</td>
+<td>Marzo</td>
+<td>1.130,59</td>
+<td>540,88</td>
+<td>148.175,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abril</td>
-<td class="cuerpo_tabla_der">924,76</td>
-<td class="cuerpo_tabla_der">553,19</td>
-<td class="cuerpo_tabla_der">1.088.847,57</td>
+<td>Abril</td>
+<td>924,76</td>
+<td>553,19</td>
+<td>1.088.847,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mayo</td>
-<td class="cuerpo_tabla_der">1.550,56</td>
-<td class="cuerpo_tabla_der">534,38</td>
-<td class="cuerpo_tabla_der">3.198,32</td>
+<td>Mayo</td>
+<td>1.550,56</td>
+<td>534,38</td>
+<td>3.198,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Junio</td>
-<td class="cuerpo_tabla_der">622,55</td>
-<td class="cuerpo_tabla_der">497,15</td>
-<td class="cuerpo_tabla_der">732,17</td>
+<td>Junio</td>
+<td>622,55</td>
+<td>497,15</td>
+<td>732,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Julio</td>
-<td class="cuerpo_tabla_der">648,51</td>
-<td class="cuerpo_tabla_der">511,93</td>
-<td class="cuerpo_tabla_der">590,81</td>
+<td>Julio</td>
+<td>648,51</td>
+<td>511,93</td>
+<td>590,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Agosto</td>
-<td class="cuerpo_tabla_der">536,59</td>
-<td class="cuerpo_tabla_der">499,27</td>
-<td class="cuerpo_tabla_der">457,67</td>
+<td>Agosto</td>
+<td>536,59</td>
+<td>499,27</td>
+<td>457,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Septiembre</td>
-<td class="cuerpo_tabla_der">4.910,22</td>
-<td class="cuerpo_tabla_der">564,51</td>
-<td class="cuerpo_tabla_der">467,14</td>
+<td>Septiembre</td>
+<td>4.910,22</td>
+<td>564,51</td>
+<td>467,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Octubre</td>
-<td class="cuerpo_tabla_der">1.829,87</td>
-<td class="cuerpo_tabla_der">503,86</td>
-<td class="cuerpo_tabla_der">445,01</td>
+<td>Octubre</td>
+<td>1.829,87</td>
+<td>503,86</td>
+<td>445,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Noviembre</td>
-<td class="cuerpo_tabla_der">561,95</td>
-<td class="cuerpo_tabla_der">723,22</td>
-<td class="cuerpo_tabla_der">400,12</td>
+<td>Noviembre</td>
+<td>561,95</td>
+<td>723,22</td>
+<td>400,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Diciembre</td>
-<td class="cuerpo_tabla_der">1.318,31</td>
-<td class="cuerpo_tabla_der">607,57</td>
-<td class="cuerpo_tabla_der">439,81</td>
+<td>Diciembre</td>
+<td>1.318,31</td>
+<td>607,57</td>
+<td>439,81</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="3"> </th>
-<th class="cabeza_tabla" colspan="3">primer semestre 2013</th>
+<th rowspan="3"> </th>
+<th colspan="3">primer semestre 2013</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="3">prc (i,h,j) €/t</th>
+<th colspan="3">prc (i,h,j) €/t</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">CCGT 1 de Son Reus</th>
-<th class="cabeza_tabla">CCGT 2 de Cas Tresorer</th>
-<th class="cabeza_tabla">CCGT 2 de ibiza</th>
+<th>CCGT 1 de Son Reus</th>
+<th>CCGT 2 de Cas Tresorer</th>
+<th>CCGT 2 de ibiza</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Enero</td>
-<td class="cuerpo_tabla_der">45.400,09</td>
-<td class="cuerpo_tabla_der">566,08</td>
-<td class="cuerpo_tabla_der">434,77</td>
+<td>Enero</td>
+<td>45.400,09</td>
+<td>566,08</td>
+<td>434,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Febrero</td>
-<td class="cuerpo_tabla_der">1.385,45</td>
-<td class="cuerpo_tabla_der">521,60</td>
-<td class="cuerpo_tabla_der">425,68</td>
+<td>Febrero</td>
+<td>1.385,45</td>
+<td>521,60</td>
+<td>425,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Marzo</td>
-<td class="cuerpo_tabla_der">3.533,29</td>
-<td class="cuerpo_tabla_der">553,79</td>
-<td class="cuerpo_tabla_der">430,57</td>
+<td>Marzo</td>
+<td>3.533,29</td>
+<td>553,79</td>
+<td>430,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abril</td>
-<td class="cuerpo_tabla_der">7.912,99</td>
-<td class="cuerpo_tabla_der">638,15</td>
-<td class="cuerpo_tabla_der">449,83</td>
+<td>Abril</td>
+<td>7.912,99</td>
+<td>638,15</td>
+<td>449,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mayo</td>
-<td class="cuerpo_tabla_der">1.493,10</td>
-<td class="cuerpo_tabla_der">573,26</td>
-<td class="cuerpo_tabla_der">431,82</td>
+<td>Mayo</td>
+<td>1.493,10</td>
+<td>573,26</td>
+<td>431,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Junio</td>
-<td class="cuerpo_tabla_der">719,34</td>
-<td class="cuerpo_tabla_der">4.282,92</td>
-<td class="cuerpo_tabla_der">438,92</td>
+<td>Junio</td>
+<td>719,34</td>
+<td>4.282,92</td>
+<td>438,92</td>
 </tr>
 </tbody>
 </table>
 
 El valor del poder calorífico inferior, pci, a los efectos del cálculo de pr(i,h,j) para el año 2012 y primer semestre de 2013, tomará los valores que se indican a continuación, expresados en te/tm en:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="3"> </th>
-<th class="cabeza_tabla" colspan="3">2012</th>
+<th rowspan="3"> </th>
+<th colspan="3">2012</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="3">pci te/Tm</th>
+<th colspan="3">pci te/Tm</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">CCGT 1 de Son Reus</th>
-<th class="cabeza_tabla">CCGT 2 de Cas Tresorer</th>
-<th class="cabeza_tabla">CCGT 2 de ibiza</th>
+<th>CCGT 1 de Son Reus</th>
+<th>CCGT 2 de Cas Tresorer</th>
+<th>CCGT 2 de ibiza</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Enero</td>
-<td class="cuerpo_tabla_der">11.463,58</td>
-<td class="cuerpo_tabla_der">11.463,58</td>
-<td class="cuerpo_tabla_der">11.415,77</td>
+<td>Enero</td>
+<td>11.463,58</td>
+<td>11.463,58</td>
+<td>11.415,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Febrero</td>
-<td class="cuerpo_tabla_der">11.611,07</td>
-<td class="cuerpo_tabla_der">11.611,07</td>
-<td class="cuerpo_tabla_der">11.623,32</td>
+<td>Febrero</td>
+<td>11.611,07</td>
+<td>11.611,07</td>
+<td>11.623,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Marzo</td>
-<td class="cuerpo_tabla_der">11.356,34</td>
-<td class="cuerpo_tabla_der">11.356,34</td>
-<td class="cuerpo_tabla_der">11.376,34</td>
+<td>Marzo</td>
+<td>11.356,34</td>
+<td>11.356,34</td>
+<td>11.376,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abril</td>
-<td class="cuerpo_tabla_der">11.411,67</td>
-<td class="cuerpo_tabla_der">11.411,67</td>
-<td class="cuerpo_tabla_der">11.382,30</td>
+<td>Abril</td>
+<td>11.411,67</td>
+<td>11.411,67</td>
+<td>11.382,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mayo</td>
-<td class="cuerpo_tabla_der">11.308,13</td>
-<td class="cuerpo_tabla_der">11.308,13</td>
-<td class="cuerpo_tabla_der">11.256,85</td>
+<td>Mayo</td>
+<td>11.308,13</td>
+<td>11.308,13</td>
+<td>11.256,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Junio</td>
-<td class="cuerpo_tabla_der">11.147,95</td>
-<td class="cuerpo_tabla_der">11.147,95</td>
-<td class="cuerpo_tabla_der">11.151,12</td>
+<td>Junio</td>
+<td>11.147,95</td>
+<td>11.147,95</td>
+<td>11.151,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Julio</td>
-<td class="cuerpo_tabla_der">11.311,48</td>
-<td class="cuerpo_tabla_der">11.311,48</td>
-<td class="cuerpo_tabla_der">11.341,17</td>
+<td>Julio</td>
+<td>11.311,48</td>
+<td>11.311,48</td>
+<td>11.341,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Agosto</td>
-<td class="cuerpo_tabla_der">11.559,56</td>
-<td class="cuerpo_tabla_der">11.559,56</td>
-<td class="cuerpo_tabla_der">11.585,00</td>
+<td>Agosto</td>
+<td>11.559,56</td>
+<td>11.559,56</td>
+<td>11.585,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Septiembre</td>
-<td class="cuerpo_tabla_der">11.535,69</td>
-<td class="cuerpo_tabla_der">11.535,69</td>
-<td class="cuerpo_tabla_der">11.516,54</td>
+<td>Septiembre</td>
+<td>11.535,69</td>
+<td>11.535,69</td>
+<td>11.516,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Octubre</td>
-<td class="cuerpo_tabla_der">11.385,37</td>
-<td class="cuerpo_tabla_der">11.385,37</td>
-<td class="cuerpo_tabla_der">11.365,54</td>
+<td>Octubre</td>
+<td>11.385,37</td>
+<td>11.385,37</td>
+<td>11.365,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Noviembre</td>
-<td class="cuerpo_tabla_der">11.341,83</td>
-<td class="cuerpo_tabla_der">11.341,83</td>
-<td class="cuerpo_tabla_der">11.358,31</td>
+<td>Noviembre</td>
+<td>11.341,83</td>
+<td>11.341,83</td>
+<td>11.358,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Diciembre</td>
-<td class="cuerpo_tabla_der">11.317,48</td>
-<td class="cuerpo_tabla_der">11.317,48</td>
-<td class="cuerpo_tabla_der">11.333,44</td>
+<td>Diciembre</td>
+<td>11.317,48</td>
+<td>11.317,48</td>
+<td>11.333,44</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="3"> </th>
-<th class="cabeza_tabla" colspan="3">Primer semestre 2013</th>
+<th rowspan="3"> </th>
+<th colspan="3">Primer semestre 2013</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="3">pci te/Tm</th>
+<th colspan="3">pci te/Tm</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">CCGT 1 de Son Reus</th>
-<th class="cabeza_tabla">CCGT 2 de Cas Tresorer</th>
-<th class="cabeza_tabla">CCGT 2 de ibiza</th>
+<th>CCGT 1 de Son Reus</th>
+<th>CCGT 2 de Cas Tresorer</th>
+<th>CCGT 2 de ibiza</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Enero</td>
-<td class="cuerpo_tabla_der">11.361,21</td>
-<td class="cuerpo_tabla_der">11.361,21</td>
-<td class="cuerpo_tabla_der">11.367,75</td>
+<td>Enero</td>
+<td>11.361,21</td>
+<td>11.361,21</td>
+<td>11.367,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Febrero</td>
-<td class="cuerpo_tabla_der">11.400,50</td>
-<td class="cuerpo_tabla_der">11.400,50</td>
-<td class="cuerpo_tabla_der">11.403,02</td>
+<td>Febrero</td>
+<td>11.400,50</td>
+<td>11.400,50</td>
+<td>11.403,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Marzo</td>
-<td class="cuerpo_tabla_der">11.410,47</td>
-<td class="cuerpo_tabla_der">11.410,47</td>
-<td class="cuerpo_tabla_der">11.417,28</td>
+<td>Marzo</td>
+<td>11.410,47</td>
+<td>11.410,47</td>
+<td>11.417,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abril</td>
-<td class="cuerpo_tabla_der">11.421,03</td>
-<td class="cuerpo_tabla_der">11.421,03</td>
-<td class="cuerpo_tabla_der">11.430,95</td>
+<td>Abril</td>
+<td>11.421,03</td>
+<td>11.421,03</td>
+<td>11.430,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mayo</td>
-<td class="cuerpo_tabla_der">11.381,93</td>
-<td class="cuerpo_tabla_der">11.381,93</td>
-<td class="cuerpo_tabla_der">11.379,72</td>
+<td>Mayo</td>
+<td>11.381,93</td>
+<td>11.381,93</td>
+<td>11.379,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Junio</td>
-<td class="cuerpo_tabla_der">11.305,19</td>
-<td class="cuerpo_tabla_der">11.305,19</td>
-<td class="cuerpo_tabla_der">11.254,07</td>
+<td>Junio</td>
+<td>11.305,19</td>
+<td>11.305,19</td>
+<td>11.254,07</td>
 </tr>
 </tbody>
 </table>
@@ -9596,239 +9596,239 @@ c) En el precio del combustible se deberá incluir, en su caso, los costes deriv
 | RO2-0213 | LLANOS BLANCOS 18, DIÉSEL 16 | PDTE | PDTE | PDTE |
 | RO3-0018 | EL MULATO, HIDRÁULICA 1 | 0,018 | 0,018 | 0,016 |
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.º Registro</th>
-<th class="cabeza_tabla">Denominación oficial</th>
+<th>N.º Registro</th>
+<th>Denominación oficial</th>
 <th>
-<p class="cabeza_tabla">CIn 2012</p>
-<p class="cabeza_tabla">M€</p>
+<p>CIn 2012</p>
+<p>M€</p>
 </th>
 <th>
-<p class="cabeza_tabla">CIn 2013</p>
-<p class="cabeza_tabla">M€</p>
+<p>CIn 2013</p>
+<p>M€</p>
 </th>
 <th>
-<p class="cabeza_tabla">CIn 2014</p>
-<p class="cabeza_tabla">M€</p>
+<p>CIn 2014</p>
+<p>M€</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0020</td>
-<td class="cuerpo_tabla_izq">MELILLA 5, G-5</td>
-<td class="cuerpo_tabla_centro">0,000</td>
-<td class="cuerpo_tabla_centro">0,000</td>
-<td class="cuerpo_tabla_centro">0,000</td>
+<td>RO2-0020</td>
+<td>MELILLA 5, G-5</td>
+<td>0,000</td>
+<td>0,000</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0021</td>
-<td class="cuerpo_tabla_izq">MELILLA 6, G-6</td>
-<td class="cuerpo_tabla_centro">0,000</td>
-<td class="cuerpo_tabla_centro">0,000</td>
-<td class="cuerpo_tabla_centro">0,000</td>
+<td>RO2-0021</td>
+<td>MELILLA 6, G-6</td>
+<td>0,000</td>
+<td>0,000</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0024</td>
-<td class="cuerpo_tabla_izq">MELILLA 9, G-9</td>
-<td class="cuerpo_tabla_centro">0,458</td>
-<td class="cuerpo_tabla_centro">0,440</td>
-<td class="cuerpo_tabla_centro">0,403</td>
+<td>RO2-0024</td>
+<td>MELILLA 9, G-9</td>
+<td>0,458</td>
+<td>0,440</td>
+<td>0,403</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0025</td>
-<td class="cuerpo_tabla_izq">MELILLA 10, G-10</td>
-<td class="cuerpo_tabla_centro">1,177</td>
-<td class="cuerpo_tabla_centro">1,166</td>
-<td class="cuerpo_tabla_centro">1,051</td>
+<td>RO2-0025</td>
+<td>MELILLA 10, G-10</td>
+<td>1,177</td>
+<td>1,166</td>
+<td>1,051</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0175</td>
-<td class="cuerpo_tabla_izq">MELILLA 11, DIÉSEL 10</td>
-<td class="cuerpo_tabla_centro">1,564</td>
-<td class="cuerpo_tabla_centro">1,575</td>
-<td class="cuerpo_tabla_centro">1,407</td>
+<td>RO2-0175</td>
+<td>MELILLA 11, DIÉSEL 10</td>
+<td>1,564</td>
+<td>1,575</td>
+<td>1,407</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">MELILLA G. Electrógenos (*)</td>
-<td class="cuerpo_tabla_izq">MELILLA G. Electrógenos (*)</td>
-<td class="cuerpo_tabla_centro">1,720</td>
-<td class="cuerpo_tabla_centro">1,734</td>
-<td class="cuerpo_tabla_centro">1,548</td>
+<td>MELILLA G. Electrógenos (*)</td>
+<td>MELILLA G. Electrógenos (*)</td>
+<td>1,720</td>
+<td>1,734</td>
+<td>1,548</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0180</td>
-<td class="cuerpo_tabla_izq">MELILLA G-12</td>
-<td class="cuerpo_tabla_centro">2,578</td>
-<td class="cuerpo_tabla_centro">2,621</td>
-<td class="cuerpo_tabla_centro">2,330</td>
+<td>RO2-0180</td>
+<td>MELILLA G-12</td>
+<td>2,578</td>
+<td>2,621</td>
+<td>2,330</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0185</td>
-<td class="cuerpo_tabla_izq">MELILLA 13</td>
-<td class="cuerpo_tabla_centro">2,641</td>
-<td class="cuerpo_tabla_centro">2,690</td>
-<td class="cuerpo_tabla_centro">2,389</td>
+<td>RO2-0185</td>
+<td>MELILLA 13</td>
+<td>2,641</td>
+<td>2,690</td>
+<td>2,389</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0011</td>
-<td class="cuerpo_tabla_izq">CEUTA 1, G-1</td>
-<td class="cuerpo_tabla_centro">0,000</td>
-<td class="cuerpo_tabla_centro">0,000</td>
-<td class="cuerpo_tabla_centro">0,000</td>
+<td>RO2-0011</td>
+<td>CEUTA 1, G-1</td>
+<td>0,000</td>
+<td>0,000</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0026</td>
-<td class="cuerpo_tabla_izq">CEUTA 2, G-2</td>
-<td class="cuerpo_tabla_centro">0,000</td>
-<td class="cuerpo_tabla_centro">0,000</td>
-<td class="cuerpo_tabla_centro">0,000</td>
+<td>RO2-0026</td>
+<td>CEUTA 2, G-2</td>
+<td>0,000</td>
+<td>0,000</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0015</td>
-<td class="cuerpo_tabla_izq">CEUTA 6, G-6</td>
-<td class="cuerpo_tabla_centro">0,000</td>
-<td class="cuerpo_tabla_centro">0,000</td>
-<td class="cuerpo_tabla_centro">0,000</td>
+<td>RO2-0015</td>
+<td>CEUTA 6, G-6</td>
+<td>0,000</td>
+<td>0,000</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0016</td>
-<td class="cuerpo_tabla_izq">CEUTA 7, G-7</td>
-<td class="cuerpo_tabla_centro">0,318</td>
-<td class="cuerpo_tabla_centro">0,309</td>
-<td class="cuerpo_tabla_centro">0,282</td>
+<td>RO2-0016</td>
+<td>CEUTA 7, G-7</td>
+<td>0,318</td>
+<td>0,309</td>
+<td>0,282</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0177</td>
-<td class="cuerpo_tabla_izq">CEUTA 8, G-8</td>
-<td class="cuerpo_tabla_centro">0,451</td>
-<td class="cuerpo_tabla_centro">0,450</td>
-<td class="cuerpo_tabla_centro">0,404</td>
+<td>RO2-0177</td>
+<td>CEUTA 8, G-8</td>
+<td>0,451</td>
+<td>0,450</td>
+<td>0,404</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0178</td>
-<td class="cuerpo_tabla_izq">CEUTA 9, G-9</td>
-<td class="cuerpo_tabla_centro">1,532</td>
-<td class="cuerpo_tabla_centro">1,539</td>
-<td class="cuerpo_tabla_centro">1,377</td>
+<td>RO2-0178</td>
+<td>CEUTA 9, G-9</td>
+<td>1,532</td>
+<td>1,539</td>
+<td>1,377</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0181</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 10</td>
-<td class="cuerpo_tabla_centro">2,416</td>
-<td class="cuerpo_tabla_centro">2,452</td>
-<td class="cuerpo_tabla_centro">2,182</td>
+<td>RO2-0181</td>
+<td>CEUTA, GRUPO 10</td>
+<td>2,416</td>
+<td>2,452</td>
+<td>2,182</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0184</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 11</td>
-<td class="cuerpo_tabla_centro">2,642</td>
-<td class="cuerpo_tabla_centro">2,691</td>
-<td class="cuerpo_tabla_centro">2,390</td>
+<td>RO2-0184</td>
+<td>CEUTA, GRUPO 11</td>
+<td>2,642</td>
+<td>2,691</td>
+<td>2,390</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0204</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 12</td>
-<td class="cuerpo_tabla_centro">1,684</td>
-<td class="cuerpo_tabla_centro">1,721</td>
-<td class="cuerpo_tabla_centro">1,525</td>
+<td>RO2-0204</td>
+<td>CEUTA, GRUPO 12</td>
+<td>1,684</td>
+<td>1,721</td>
+<td>1,525</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0206</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 13</td>
-<td class="cuerpo_tabla_centro">2,890</td>
-<td class="cuerpo_tabla_centro">2,956</td>
-<td class="cuerpo_tabla_centro">2,619</td>
+<td>RO2-0206</td>
+<td>CEUTA, GRUPO 13</td>
+<td>2,890</td>
+<td>2,956</td>
+<td>2,619</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DENTRO DE MELILLA G. Electrógenos (*) están los siguientes grupos:</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td>DENTRO DE MELILLA G. Electrógenos (*) están los siguientes grupos:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0027</td>
-<td class="cuerpo_tabla_izq">MELILLA 12, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0027</td>
+<td>MELILLA 12, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0028</td>
-<td class="cuerpo_tabla_izq">MELILLA 13, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0028</td>
+<td>MELILLA 13, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0029</td>
-<td class="cuerpo_tabla_izq">MELILLA 14, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0029</td>
+<td>MELILLA 14, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0030</td>
-<td class="cuerpo_tabla_izq">MELILLA 15, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0030</td>
+<td>MELILLA 15, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0031</td>
-<td class="cuerpo_tabla_izq">MELILLA 16, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0031</td>
+<td>MELILLA 16, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0032</td>
-<td class="cuerpo_tabla_izq">MELILLA 17, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0032</td>
+<td>MELILLA 17, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0033</td>
-<td class="cuerpo_tabla_izq">MELILLA 18, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0033</td>
+<td>MELILLA 18, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0034</td>
-<td class="cuerpo_tabla_izq">MELILLA 19, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0034</td>
+<td>MELILLA 19, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0035</td>
-<td class="cuerpo_tabla_izq">MELILLA 20, G. ELECTRÓGENO (ANTES CEUTA 10)</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0035</td>
+<td>MELILLA 20, G. ELECTRÓGENO (ANTES CEUTA 10)</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0036</td>
-<td class="cuerpo_tabla_izq">MELILLA 21, G. ELECTRÓGENO (ANTES CEUTA 11)</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0036</td>
+<td>MELILLA 21, G. ELECTRÓGENO (ANTES CEUTA 11)</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0037</td>
-<td class="cuerpo_tabla_izq">MELILLA 22, G. ELECTRÓGENO (ANTES CEUTA 12)</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0037</td>
+<td>MELILLA 22, G. ELECTRÓGENO (ANTES CEUTA 12)</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0038</td>
-<td class="cuerpo_tabla_izq">MELILLA 23, G. ELECTRÓGENO (ANTES CEUTA 13)</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0038</td>
+<td>MELILLA 23, G. ELECTRÓGENO (ANTES CEUTA 13)</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -9987,650 +9987,650 @@ La anualidad de la retribución por inversión CI<sub>n</sub> (i) de cada grupo 
 | RO2-0213 | LLANOS BLANCOS 18, DIÉSEL 16 | PDTE |
 | RO3-0018 | EL MULATO, HIDRÁULICA 1 | 0,014 |
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.º Registro</th>
-<th class="cabeza_tabla">Denominación oficial</th>
-<th class="cabeza_tabla">CIn 2015 M€</th>
+<th>N.º Registro</th>
+<th>Denominación oficial</th>
+<th>CIn 2015 M€</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0020</td>
-<td class="cuerpo_tabla_izq">MELILLA 5, G-5</td>
-<td class="cuerpo_tabla_centro">0,000</td>
+<td>RO2-0020</td>
+<td>MELILLA 5, G-5</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0021</td>
-<td class="cuerpo_tabla_izq">MELILLA 6, G-6</td>
-<td class="cuerpo_tabla_centro">0,000</td>
+<td>RO2-0021</td>
+<td>MELILLA 6, G-6</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0024</td>
-<td class="cuerpo_tabla_izq">MELILLA 9, G-9</td>
-<td class="cuerpo_tabla_centro">0,371</td>
+<td>RO2-0024</td>
+<td>MELILLA 9, G-9</td>
+<td>0,371</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0025</td>
-<td class="cuerpo_tabla_izq">MELILLA 10, G-10</td>
-<td class="cuerpo_tabla_centro">0,921</td>
+<td>RO2-0025</td>
+<td>MELILLA 10, G-10</td>
+<td>0,921</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0175</td>
-<td class="cuerpo_tabla_izq">MELILLA 11, DIÉSEL 10</td>
-<td class="cuerpo_tabla_centro">1,199</td>
+<td>RO2-0175</td>
+<td>MELILLA 11, DIÉSEL 10</td>
+<td>1,199</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">MELILLA G. Electrógenos (*)</td>
-<td class="cuerpo_tabla_izq">MELILLA G. Electrógenos (*)</td>
-<td class="cuerpo_tabla_centro">1,318</td>
+<td>MELILLA G. Electrógenos (*)</td>
+<td>MELILLA G. Electrógenos (*)</td>
+<td>1,318</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0180</td>
-<td class="cuerpo_tabla_izq">MELILLA G-12</td>
-<td class="cuerpo_tabla_centro">1,954</td>
+<td>RO2-0180</td>
+<td>MELILLA G-12</td>
+<td>1,954</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0185</td>
-<td class="cuerpo_tabla_izq">MELILLA 13</td>
-<td class="cuerpo_tabla_centro">1,998</td>
+<td>RO2-0185</td>
+<td>MELILLA 13</td>
+<td>1,998</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0011</td>
-<td class="cuerpo_tabla_izq">CEUTA 1, G-1</td>
-<td class="cuerpo_tabla_centro">0,000</td>
+<td>RO2-0011</td>
+<td>CEUTA 1, G-1</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0026</td>
-<td class="cuerpo_tabla_izq">CEUTA 2, G-2</td>
-<td class="cuerpo_tabla_centro">0,000</td>
+<td>RO2-0026</td>
+<td>CEUTA 2, G-2</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0015</td>
-<td class="cuerpo_tabla_izq">CEUTA 6, G-6</td>
-<td class="cuerpo_tabla_centro">0,000</td>
+<td>RO2-0015</td>
+<td>CEUTA 6, G-6</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0016</td>
-<td class="cuerpo_tabla_izq">CEUTA 7, G-7</td>
-<td class="cuerpo_tabla_centro">0,254</td>
+<td>RO2-0016</td>
+<td>CEUTA 7, G-7</td>
+<td>0,254</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0177</td>
-<td class="cuerpo_tabla_izq">CEUTA 8, G-8</td>
-<td class="cuerpo_tabla_centro">0,351</td>
+<td>RO2-0177</td>
+<td>CEUTA 8, G-8</td>
+<td>0,351</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0178</td>
-<td class="cuerpo_tabla_izq">CEUTA 9, G-9</td>
-<td class="cuerpo_tabla_centro">1,178</td>
+<td>RO2-0178</td>
+<td>CEUTA 9, G-9</td>
+<td>1,178</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0181</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 10</td>
-<td class="cuerpo_tabla_centro">1,836</td>
+<td>RO2-0181</td>
+<td>CEUTA, GRUPO 10</td>
+<td>1,836</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0184</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 11</td>
-<td class="cuerpo_tabla_centro">1,999</td>
+<td>RO2-0184</td>
+<td>CEUTA, GRUPO 11</td>
+<td>1,999</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0204</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 12</td>
-<td class="cuerpo_tabla_centro">1,267</td>
+<td>RO2-0204</td>
+<td>CEUTA, GRUPO 12</td>
+<td>1,267</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0206</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 13</td>
-<td class="cuerpo_tabla_centro">2,174</td>
+<td>RO2-0206</td>
+<td>CEUTA, GRUPO 13</td>
+<td>2,174</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DENTRO DE MELILLA G. Electrógenos (*) están los siguientes grupos:</td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
+<td>DENTRO DE MELILLA G. Electrógenos (*) están los siguientes grupos:</td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0027</td>
-<td class="cuerpo_tabla_izq">MELILLA 12, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0027</td>
+<td>MELILLA 12, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0028</td>
-<td class="cuerpo_tabla_izq">MELILLA 13, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0028</td>
+<td>MELILLA 13, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0029</td>
-<td class="cuerpo_tabla_izq">MELILLA 14, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0029</td>
+<td>MELILLA 14, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0030</td>
-<td class="cuerpo_tabla_izq">MELILLA 15, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0030</td>
+<td>MELILLA 15, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0031</td>
-<td class="cuerpo_tabla_izq">MELILLA 16, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0031</td>
+<td>MELILLA 16, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0032</td>
-<td class="cuerpo_tabla_izq">MELILLA 17, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0032</td>
+<td>MELILLA 17, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0033</td>
-<td class="cuerpo_tabla_izq">MELILLA 18, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0033</td>
+<td>MELILLA 18, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0034</td>
-<td class="cuerpo_tabla_izq">MELILLA 19, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0034</td>
+<td>MELILLA 19, G. ELECTRÓGENO</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0035</td>
-<td class="cuerpo_tabla_izq">MELILLA 20, G. ELECTRÓGENO (ANTES CEUTA 10)</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0035</td>
+<td>MELILLA 20, G. ELECTRÓGENO (ANTES CEUTA 10)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0036</td>
-<td class="cuerpo_tabla_izq">MELILLA 21, G. ELECTRÓGENO (ANTES CEUTA 11)</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0036</td>
+<td>MELILLA 21, G. ELECTRÓGENO (ANTES CEUTA 11)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0037</td>
-<td class="cuerpo_tabla_izq">MELILLA 22, G. ELECTRÓGENO (ANTES CEUTA 12)</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0037</td>
+<td>MELILLA 22, G. ELECTRÓGENO (ANTES CEUTA 12)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0038</td>
-<td class="cuerpo_tabla_izq">MELILLA 23, G. ELECTRÓGENO (ANTES CEUTA 13)</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RO3-0038</td>
+<td>MELILLA 23, G. ELECTRÓGENO (ANTES CEUTA 13)</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
 5\. Los valores unitarios de la anualidad de operación y mantenimiento fijos de las instalaciones tipo para el año 2012, 2013 y 2014 serán los siguientes:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="5">Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2012</th>
+<th colspan="5">Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2012</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Tecnología</th>
+<th>Tecnología</th>
 <th>
-<p class="cabeza_tabla">Potencia Neta</p>
-<p class="cabeza_tabla">(MW)</p>
+<p>Potencia Neta</p>
+<p>(MW)</p>
 </th>
-<th class="cabeza_tabla">Baleares</th>
-<th class="cabeza_tabla">Canarias</th>
-<th class="cabeza_tabla">Ceuta y Melilla</th>
+<th>Baleares</th>
+<th>Canarias</th>
+<th>Ceuta y Melilla</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
-<td class="cuerpo_tabla_der">80.582</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">92.373</td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia &lt; 5</td>
+<td>80.582</td>
+<td> </td>
+<td>92.373</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
-<td class="cuerpo_tabla_der">56.526</td>
-<td class="cuerpo_tabla_der">64.796</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>5 ≤ Potencia &lt; 12</td>
+<td>56.526</td>
+<td>64.796</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
-<td class="cuerpo_tabla_der">47.743</td>
-<td class="cuerpo_tabla_der">54.728</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>12 ≤ Potencia &lt; 20</td>
+<td>47.743</td>
+<td>54.728</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
-<td class="cuerpo_tabla_der">56.705</td>
-<td class="cuerpo_tabla_der">65.001</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia ≥ 20</td>
+<td>56.705</td>
+<td>65.001</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">145.413</td>
-<td class="cuerpo_tabla_der">145.413</td>
+<td>Grupos Diésel - 4T</td>
+<td>Potencia &lt; 2</td>
+<td> </td>
+<td>145.413</td>
+<td>145.413</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">145.413</td>
-<td class="cuerpo_tabla_der">145.413</td>
+<td>Grupos Diésel - 4T</td>
+<td>2 ≤ Potencia &lt; 4</td>
+<td> </td>
+<td>145.413</td>
+<td>145.413</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">119.350</td>
-<td class="cuerpo_tabla_der">119.350</td>
+<td>Grupos Diésel - 4T</td>
+<td>4 ≤ Potencia &lt; 14</td>
+<td> </td>
+<td>119.350</td>
+<td>119.350</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
-<td class="cuerpo_tabla_der">68.476</td>
-<td class="cuerpo_tabla_der">78.496</td>
-<td class="cuerpo_tabla_der">78.496</td>
+<td>Grupos Diésel - 4T</td>
+<td>14 ≤ Potencia &lt; 24</td>
+<td>68.476</td>
+<td>78.496</td>
+<td>78.496</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
-<td class="cuerpo_tabla_der">22.088</td>
-<td class="cuerpo_tabla_der">25.321</td>
-<td class="cuerpo_tabla_der">25.321</td>
+<td>Turbinas de gas aeroderivadas</td>
+<td>Potencia &lt; 50</td>
+<td>22.088</td>
+<td>25.321</td>
+<td>25.321</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
-<td class="cuerpo_tabla_der">37.115</td>
-<td class="cuerpo_tabla_der">42.546</td>
-<td class="cuerpo_tabla_der">42.546</td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia &lt; 13</td>
+<td>37.115</td>
+<td>42.546</td>
+<td>42.546</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
-<td class="cuerpo_tabla_der">28.336</td>
-<td class="cuerpo_tabla_der">32.483</td>
-<td class="cuerpo_tabla_der">32.483</td>
+<td>Turbinas de gas heavy duty</td>
+<td>13 ≤ Potencia &lt; 25</td>
+<td>28.336</td>
+<td>32.483</td>
+<td>32.483</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
-<td class="cuerpo_tabla_der">19.557</td>
-<td class="cuerpo_tabla_der">22.420</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>25 ≤ Potencia &lt; 50</td>
+<td>19.557</td>
+<td>22.420</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
-<td class="cuerpo_tabla_der">13.348</td>
-<td class="cuerpo_tabla_der">15.302</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia ≥ 50</td>
+<td>13.348</td>
+<td>15.302</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">47.236</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de vapor de Carbón</td>
+<td> </td>
+<td>47.236</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
-<td class="cuerpo_tabla_der">22.249</td>
-<td class="cuerpo_tabla_der">25.506</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>Potencia ≤ 40</td>
+<td>22.249</td>
+<td>25.506</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">23.727</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>40 &lt; Potencia ≤ 60</td>
+<td> </td>
+<td>23.727</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">22.499</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>60 &lt; Potencia ≤ 80</td>
+<td> </td>
+<td>22.499</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_der">33.549</td>
-<td class="cuerpo_tabla_der">38.457</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Ciclo combinado configuración 2x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td>33.549</td>
+<td>38.457</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_der">33.549</td>
-<td class="cuerpo_tabla_der">38.457</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Ciclo combinado configuración 3x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td>33.549</td>
+<td>38.457</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hidráulica</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">133.159</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Hidráulica</td>
+<td> </td>
+<td> </td>
+<td>133.159</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="5">Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2013</th>
+<th colspan="5">Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2013</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Tecnología</th>
+<th>Tecnología</th>
 <th>
-<p class="cabeza_tabla">Potencia Neta</p>
-<p class="cabeza_tabla">(MW)</p>
+<p>Potencia Neta</p>
+<p>(MW)</p>
 </th>
-<th class="cabeza_tabla">Baleares</th>
-<th class="cabeza_tabla">Canarias</th>
-<th class="cabeza_tabla">Ceuta y Melilla</th>
+<th>Baleares</th>
+<th>Canarias</th>
+<th>Ceuta y Melilla</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 5</td>
-<td class="cuerpo_tabla_der">80.001</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">91.708</td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia &lt; 5</td>
+<td>80.001</td>
+<td> </td>
+<td>91.708</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
-<td class="cuerpo_tabla_der">56.119</td>
-<td class="cuerpo_tabla_der">64.330</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>5 ≤ Potencia &lt; 12</td>
+<td>56.119</td>
+<td>64.330</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
-<td class="cuerpo_tabla_der">47.399</td>
-<td class="cuerpo_tabla_der">54.334</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>12 ≤ Potencia &lt; 20</td>
+<td>47.399</td>
+<td>54.334</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
-<td class="cuerpo_tabla_der">56.296</td>
-<td class="cuerpo_tabla_der">64.533</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia ≥ 20</td>
+<td>56.296</td>
+<td>64.533</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">144.366</td>
-<td class="cuerpo_tabla_der">144.366</td>
+<td>Grupos Diésel - 4T</td>
+<td>Potencia &lt; 2</td>
+<td> </td>
+<td>144.366</td>
+<td>144.366</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">144.366</td>
-<td class="cuerpo_tabla_der">144.366</td>
+<td>Grupos Diésel - 4T</td>
+<td>2 ≤ Potencia &lt; 4</td>
+<td> </td>
+<td>144.366</td>
+<td>144.366</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">118.490</td>
-<td class="cuerpo_tabla_der">118.490</td>
+<td>Grupos Diésel - 4T</td>
+<td>4 ≤ Potencia &lt; 14</td>
+<td> </td>
+<td>118.490</td>
+<td>118.490</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
-<td class="cuerpo_tabla_der">67.983</td>
-<td class="cuerpo_tabla_der">77.931</td>
-<td class="cuerpo_tabla_der">77.931</td>
+<td>Grupos Diésel - 4T</td>
+<td>14 ≤ Potencia &lt; 24</td>
+<td>67.983</td>
+<td>77.931</td>
+<td>77.931</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
-<td class="cuerpo_tabla_der">21.929</td>
-<td class="cuerpo_tabla_der">25.138</td>
-<td class="cuerpo_tabla_der">25.138</td>
+<td>Turbinas de gas aeroderivadas</td>
+<td>Potencia &lt; 50</td>
+<td>21.929</td>
+<td>25.138</td>
+<td>25.138</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
-<td class="cuerpo_tabla_der">36.847</td>
-<td class="cuerpo_tabla_der">42.240</td>
-<td class="cuerpo_tabla_der">42.240</td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia &lt; 13</td>
+<td>36.847</td>
+<td>42.240</td>
+<td>42.240</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
-<td class="cuerpo_tabla_der">28.132</td>
-<td class="cuerpo_tabla_der">32.249</td>
-<td class="cuerpo_tabla_der">32.249</td>
+<td>Turbinas de gas heavy duty</td>
+<td>13 ≤ Potencia &lt; 25</td>
+<td>28.132</td>
+<td>32.249</td>
+<td>32.249</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
-<td class="cuerpo_tabla_der">19.417</td>
-<td class="cuerpo_tabla_der">22.258</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>25 ≤ Potencia &lt; 50</td>
+<td>19.417</td>
+<td>22.258</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
-<td class="cuerpo_tabla_der">13.252</td>
-<td class="cuerpo_tabla_der">15.192</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia ≥ 50</td>
+<td>13.252</td>
+<td>15.192</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">46.896</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de vapor de Carbón</td>
+<td> </td>
+<td>46.896</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
-<td class="cuerpo_tabla_der">22.089</td>
-<td class="cuerpo_tabla_der">25.322</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>Potencia ≤ 40</td>
+<td>22.089</td>
+<td>25.322</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">23.556</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>40 &lt; Potencia ≤ 60</td>
+<td> </td>
+<td>23.556</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">22.337</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>60 &lt; Potencia ≤ 80</td>
+<td> </td>
+<td>22.337</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_der">33.307</td>
-<td class="cuerpo_tabla_der">38.180</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Ciclo combinado configuración 2x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td>33.307</td>
+<td>38.180</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_der">33.307</td>
-<td class="cuerpo_tabla_der">38.180</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Ciclo combinado configuración 3x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td>33.307</td>
+<td>38.180</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hidráulica</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">132.200</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Hidráulica</td>
+<td> </td>
+<td> </td>
+<td>132.200</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="5">Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2014</th>
+<th colspan="5">Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2014</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Tecnología</th>
+<th>Tecnología</th>
 <th>
-<p class="cabeza_tabla">Potencia Neta</p>
-<p class="cabeza_tabla">(MW)</p>
+<p>Potencia Neta</p>
+<p>(MW)</p>
 </th>
-<th class="cabeza_tabla">Baleares</th>
-<th class="cabeza_tabla">Canarias</th>
-<th class="cabeza_tabla">Ceuta y Melilla</th>
+<th>Baleares</th>
+<th>Canarias</th>
+<th>Ceuta y Melilla</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt;5</td>
-<td class="cuerpo_tabla_der">79.265</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">90.865</td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia &lt;5</td>
+<td>79.265</td>
+<td> </td>
+<td>90.865</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">5 ≤ Potencia &lt; 12</td>
-<td class="cuerpo_tabla_der">55.603</td>
-<td class="cuerpo_tabla_der">63.738</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>5 ≤ Potencia &lt; 12</td>
+<td>55.603</td>
+<td>63.738</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">12 ≤ Potencia &lt; 20</td>
-<td class="cuerpo_tabla_der">46.963</td>
-<td class="cuerpo_tabla_der">53.834</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>12 ≤ Potencia &lt; 20</td>
+<td>46.963</td>
+<td>53.834</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 2T</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 20</td>
-<td class="cuerpo_tabla_der">55.778</td>
-<td class="cuerpo_tabla_der">63.939</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Grupos Diésel - 2T</td>
+<td>Potencia ≥ 20</td>
+<td>55.778</td>
+<td>63.939</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 2</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">143.038</td>
-<td class="cuerpo_tabla_der">143.038</td>
+<td>Grupos Diésel - 4T</td>
+<td>Potencia &lt; 2</td>
+<td> </td>
+<td>143.038</td>
+<td>143.038</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">2 ≤ Potencia &lt; 4</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">143.038</td>
-<td class="cuerpo_tabla_der">143.038</td>
+<td>Grupos Diésel - 4T</td>
+<td>2 ≤ Potencia &lt; 4</td>
+<td> </td>
+<td>143.038</td>
+<td>143.038</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">4 ≤ Potencia &lt; 14</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">117.400</td>
-<td class="cuerpo_tabla_der">117.400</td>
+<td>Grupos Diésel - 4T</td>
+<td>4 ≤ Potencia &lt; 14</td>
+<td> </td>
+<td>117.400</td>
+<td>117.400</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupos Diésel - 4T</td>
-<td class="cuerpo_tabla_izq">14 ≤ Potencia &lt; 24</td>
-<td class="cuerpo_tabla_der">67.358</td>
-<td class="cuerpo_tabla_der">77.214</td>
-<td class="cuerpo_tabla_der">77.214</td>
+<td>Grupos Diésel - 4T</td>
+<td>14 ≤ Potencia &lt; 24</td>
+<td>67.358</td>
+<td>77.214</td>
+<td>77.214</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas aeroderivadas</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 50</td>
-<td class="cuerpo_tabla_der">21.727</td>
-<td class="cuerpo_tabla_der">24.907</td>
-<td class="cuerpo_tabla_der">24.907</td>
+<td>Turbinas de gas aeroderivadas</td>
+<td>Potencia &lt; 50</td>
+<td>21.727</td>
+<td>24.907</td>
+<td>24.907</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia &lt; 13</td>
-<td class="cuerpo_tabla_der">36.508</td>
-<td class="cuerpo_tabla_der">41.851</td>
-<td class="cuerpo_tabla_der">41.851</td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia &lt; 13</td>
+<td>36.508</td>
+<td>41.851</td>
+<td>41.851</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">13 ≤ Potencia &lt; 25</td>
-<td class="cuerpo_tabla_der">27.873</td>
-<td class="cuerpo_tabla_der">31.952</td>
-<td class="cuerpo_tabla_der">31.952</td>
+<td>Turbinas de gas heavy duty</td>
+<td>13 ≤ Potencia &lt; 25</td>
+<td>27.873</td>
+<td>31.952</td>
+<td>31.952</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">25 ≤ Potencia &lt; 50</td>
-<td class="cuerpo_tabla_der">19.238</td>
-<td class="cuerpo_tabla_der">22.054</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>25 ≤ Potencia &lt; 50</td>
+<td>19.238</td>
+<td>22.054</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de gas heavy duty</td>
-<td class="cuerpo_tabla_izq">Potencia ≥ 50</td>
-<td class="cuerpo_tabla_der">13.130</td>
-<td class="cuerpo_tabla_der">15.052</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de gas heavy duty</td>
+<td>Potencia ≥ 50</td>
+<td>13.130</td>
+<td>15.052</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de vapor de Carbón</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der">46.464</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de vapor de Carbón</td>
+<td> </td>
+<td>46.464</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">Potencia ≤ 40</td>
-<td class="cuerpo_tabla_der">21.886</td>
-<td class="cuerpo_tabla_der">25.089</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>Potencia ≤ 40</td>
+<td>21.886</td>
+<td>25.089</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">40 &lt; Potencia ≤ 60</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">23.339</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>40 &lt; Potencia ≤ 60</td>
+<td> </td>
+<td>23.339</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbinas de Vapor de Fuel</td>
-<td class="cuerpo_tabla_izq">60 &lt; Potencia ≤ 80</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">22.131</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Turbinas de Vapor de Fuel</td>
+<td>60 &lt; Potencia ≤ 80</td>
+<td> </td>
+<td>22.131</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 2x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_der">33.001</td>
-<td class="cuerpo_tabla_der">37.829</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Ciclo combinado configuración 2x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td>33.001</td>
+<td>37.829</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado configuración 3x1</td>
-<td class="cuerpo_tabla_izq">200 ≤ Potencia ≤ 250</td>
-<td class="cuerpo_tabla_der">33.001</td>
-<td class="cuerpo_tabla_der">37.829</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Ciclo combinado configuración 3x1</td>
+<td>200 ≤ Potencia ≤ 250</td>
+<td>33.001</td>
+<td>37.829</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hidráulica</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">130.984</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Hidráulica</td>
+<td> </td>
+<td> </td>
+<td>130.984</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -10651,226 +10651,226 @@ k y l: parámetros que se calcularán de acuerdo con lo previsto a continuación
 
 Los valores de k y l aplicables a Baleares se muestran en la tabla siguiente:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Inversión unitaria (por kW neto) Tipo de planta</th>
-<th class="cabeza_tabla" colspan="2">Año 2015</th>
+<th>Inversión unitaria (por kW neto) Tipo de planta</th>
+<th colspan="2">Año 2015</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Parámetros</th>
-<th class="cabeza_tabla">k</th>
-<th class="cabeza_tabla">l</th>
+<th>Parámetros</th>
+<th>k</th>
+<th>l</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Turbina de gas aeroderivada</td>
-<td class="cuerpo_tabla_centro">1551,10</td>
-<td class="cuerpo_tabla_centro">-0,2099</td>
+<td>Turbina de gas aeroderivada</td>
+<td>1551,10</td>
+<td>-0,2099</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbina de gas ciclo simple. Heavy Duty</td>
-<td class="cuerpo_tabla_centro">1314,65</td>
-<td class="cuerpo_tabla_centro">-0,1774</td>
+<td>Turbina de gas ciclo simple. Heavy Duty</td>
+<td>1314,65</td>
+<td>-0,1774</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado 1TG+1TV</td>
-<td class="cuerpo_tabla_centro">1669,17</td>
-<td class="cuerpo_tabla_centro">-0,1337</td>
+<td>Ciclo combinado 1TG+1TV</td>
+<td>1669,17</td>
+<td>-0,1337</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado 2TG+1TV</td>
-<td class="cuerpo_tabla_centro">997,14</td>
-<td class="cuerpo_tabla_centro">-0,0204</td>
+<td>Ciclo combinado 2TG+1TV</td>
+<td>997,14</td>
+<td>-0,0204</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado 3TG+1TV</td>
-<td class="cuerpo_tabla_centro">1105,08</td>
-<td class="cuerpo_tabla_centro">-0,0428</td>
+<td>Ciclo combinado 3TG+1TV</td>
+<td>1105,08</td>
+<td>-0,0428</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Motores diésel 4T</td>
-<td class="cuerpo_tabla_centro">2389,69</td>
-<td class="cuerpo_tabla_centro">-0,2264</td>
+<td>Motores diésel 4T</td>
+<td>2389,69</td>
+<td>-0,2264</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Motores diésel 2T</td>
-<td class="cuerpo_tabla_centro">2328,76</td>
-<td class="cuerpo_tabla_centro">-0,2244</td>
+<td>Motores diésel 2T</td>
+<td>2328,76</td>
+<td>-0,2244</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vapor Carbón</td>
-<td class="cuerpo_tabla_centro">3439,22</td>
-<td class="cuerpo_tabla_centro">-0,2090</td>
+<td>Vapor Carbón</td>
+<td>3439,22</td>
+<td>-0,2090</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Inversión unitaria (por kW neto) Tipo de planta</th>
-<th class="cabeza_tabla" colspan="2">año 2014</th>
+<th>Inversión unitaria (por kW neto) Tipo de planta</th>
+<th colspan="2">año 2014</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Parámetros</th>
-<th class="cabeza_tabla">k</th>
-<th class="cabeza_tabla">l</th>
+<th>Parámetros</th>
+<th>k</th>
+<th>l</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Turbina de gas aeroderivada</td>
-<td class="cuerpo_tabla_centro">1566,41</td>
-<td class="cuerpo_tabla_centro">-0,2099</td>
+<td>Turbina de gas aeroderivada</td>
+<td>1566,41</td>
+<td>-0,2099</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbina de gas ciclo simple. Heavy Duty</td>
-<td class="cuerpo_tabla_centro">1327,63</td>
-<td class="cuerpo_tabla_centro">-0,1774</td>
+<td>Turbina de gas ciclo simple. Heavy Duty</td>
+<td>1327,63</td>
+<td>-0,1774</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado 1TG+1TV</td>
-<td class="cuerpo_tabla_centro">1685,64</td>
-<td class="cuerpo_tabla_centro">-0,1337</td>
+<td>Ciclo combinado 1TG+1TV</td>
+<td>1685,64</td>
+<td>-0,1337</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado 2TG+1TV</td>
-<td class="cuerpo_tabla_centro">1006,98</td>
-<td class="cuerpo_tabla_centro">-0,0204</td>
+<td>Ciclo combinado 2TG+1TV</td>
+<td>1006,98</td>
+<td>-0,0204</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado 3TG+1TV</td>
-<td class="cuerpo_tabla_centro">1115,99</td>
-<td class="cuerpo_tabla_centro">-0,0428</td>
+<td>Ciclo combinado 3TG+1TV</td>
+<td>1115,99</td>
+<td>-0,0428</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Motores diésel 4T</td>
-<td class="cuerpo_tabla_centro">2413,28</td>
-<td class="cuerpo_tabla_centro">-0,2264</td>
+<td>Motores diésel 4T</td>
+<td>2413,28</td>
+<td>-0,2264</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Motores diésel 2T</td>
-<td class="cuerpo_tabla_centro">2351,74</td>
-<td class="cuerpo_tabla_centro">-0,2244</td>
+<td>Motores diésel 2T</td>
+<td>2351,74</td>
+<td>-0,2244</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vapor Carbón</td>
-<td class="cuerpo_tabla_centro">3473,16</td>
-<td class="cuerpo_tabla_centro">-0,209</td>
+<td>Vapor Carbón</td>
+<td>3473,16</td>
+<td>-0,209</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Inversión unitaria (por kW neto) Tipo de planta</th>
-<th class="cabeza_tabla" colspan="2">año 2013</th>
+<th>Inversión unitaria (por kW neto) Tipo de planta</th>
+<th colspan="2">año 2013</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Parámetros</th>
-<th class="cabeza_tabla">k</th>
-<th class="cabeza_tabla">l</th>
+<th>Parámetros</th>
+<th>k</th>
+<th>l</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Turbina de gas aeroderivada</td>
-<td class="cuerpo_tabla_centro">1578,16</td>
-<td class="cuerpo_tabla_centro">-0,2099</td>
+<td>Turbina de gas aeroderivada</td>
+<td>1578,16</td>
+<td>-0,2099</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbina de gas ciclo simple. Heavy Duty</td>
-<td class="cuerpo_tabla_centro">1337,58</td>
-<td class="cuerpo_tabla_centro">-0,1774</td>
+<td>Turbina de gas ciclo simple. Heavy Duty</td>
+<td>1337,58</td>
+<td>-0,1774</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado 1TG+1TV</td>
-<td class="cuerpo_tabla_centro">1698,28</td>
-<td class="cuerpo_tabla_centro">-0,1337</td>
+<td>Ciclo combinado 1TG+1TV</td>
+<td>1698,28</td>
+<td>-0,1337</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado 2TG+1TV</td>
-<td class="cuerpo_tabla_centro">1014,53</td>
-<td class="cuerpo_tabla_centro">-0,0204</td>
+<td>Ciclo combinado 2TG+1TV</td>
+<td>1014,53</td>
+<td>-0,0204</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado 3TG+1TV</td>
-<td class="cuerpo_tabla_centro">1124,36</td>
-<td class="cuerpo_tabla_centro">-0,0428</td>
+<td>Ciclo combinado 3TG+1TV</td>
+<td>1124,36</td>
+<td>-0,0428</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Motores diésel 4T</td>
-<td class="cuerpo_tabla_centro">2431,37</td>
-<td class="cuerpo_tabla_centro">-0,2264</td>
+<td>Motores diésel 4T</td>
+<td>2431,37</td>
+<td>-0,2264</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Motores diésel 2T</td>
-<td class="cuerpo_tabla_centro">2369,38</td>
-<td class="cuerpo_tabla_centro">-0,2244</td>
+<td>Motores diésel 2T</td>
+<td>2369,38</td>
+<td>-0,2244</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vapor Carbón</td>
-<td class="cuerpo_tabla_centro">3499,21</td>
-<td class="cuerpo_tabla_centro">-0,2090</td>
+<td>Vapor Carbón</td>
+<td>3499,21</td>
+<td>-0,2090</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Inversión unitaria (por kW neto) Tipo de planta</th>
-<th class="cabeza_tabla" colspan="2">Año 2012</th>
+<th>Inversión unitaria (por kW neto) Tipo de planta</th>
+<th colspan="2">Año 2012</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Parámetros</th>
-<th class="cabeza_tabla">k</th>
-<th class="cabeza_tabla">l</th>
+<th>Parámetros</th>
+<th>k</th>
+<th>l</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Turbina de gas aeroderivada</td>
-<td class="cuerpo_tabla_centro">1585,77</td>
-<td class="cuerpo_tabla_centro">-0,2099</td>
+<td>Turbina de gas aeroderivada</td>
+<td>1585,77</td>
+<td>-0,2099</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbina de gas ciclo simple. Heavy Duty</td>
-<td class="cuerpo_tabla_centro">1344,03</td>
-<td class="cuerpo_tabla_centro">-0,1774</td>
+<td>Turbina de gas ciclo simple. Heavy Duty</td>
+<td>1344,03</td>
+<td>-0,1774</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado 1TG+1TV</td>
-<td class="cuerpo_tabla_centro">1706,47</td>
-<td class="cuerpo_tabla_centro">-0,1337</td>
+<td>Ciclo combinado 1TG+1TV</td>
+<td>1706,47</td>
+<td>-0,1337</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado 2TG+1TV</td>
-<td class="cuerpo_tabla_centro">1019,42</td>
-<td class="cuerpo_tabla_centro">-0,0204</td>
+<td>Ciclo combinado 2TG+1TV</td>
+<td>1019,42</td>
+<td>-0,0204</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo combinado 3TG+1TV</td>
-<td class="cuerpo_tabla_centro">1129,78</td>
-<td class="cuerpo_tabla_centro">-0,0428</td>
+<td>Ciclo combinado 3TG+1TV</td>
+<td>1129,78</td>
+<td>-0,0428</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Motores diésel 4T</td>
-<td class="cuerpo_tabla_centro">2443,10</td>
-<td class="cuerpo_tabla_centro">-0,2264</td>
+<td>Motores diésel 4T</td>
+<td>2443,10</td>
+<td>-0,2264</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Motores diésel 2T</td>
-<td class="cuerpo_tabla_centro">2380,81</td>
-<td class="cuerpo_tabla_centro">-0,2244</td>
+<td>Motores diésel 2T</td>
+<td>2380,81</td>
+<td>-0,2244</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vapor Carbón</td>
-<td class="cuerpo_tabla_centro">3516,09</td>
-<td class="cuerpo_tabla_centro">-0,2090</td>
+<td>Vapor Carbón</td>
+<td>3516,09</td>
+<td>-0,2090</td>
 </tr>
 </tbody>
 </table>
@@ -11081,267 +11081,267 @@ De acuerdo con lo establecido en la disposición transitoria undécima, los valo
 | RO2-0213 | LLANOS BLANCOS 18, DIÉSEL 16 |  |  | PDTE | PDTE |
 | RO3-0018 | EL MULATO, HIDRÁULICA 1 | 0,3 | 01/01/1956 | 0,708 | 0,098 |
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.º Registro</th>
-<th class="cabeza_tabla">Denominación oficial</th>
+<th>N.º Registro</th>
+<th>Denominación oficial</th>
 <th>
-<p class="cabeza_tabla">Potencia Neta</p>
-<p class="cabeza_tabla">MW</p>
+<p>Potencia Neta</p>
+<p>MW</p>
 </th>
-<th class="cabeza_tabla">Inicio VUregulatoria</th>
+<th>Inicio VUregulatoria</th>
 <th>
-<p class="cabeza_tabla">Valor bruto de la inversión</p>
-<p class="cabeza_tabla">M€</p>
+<p>Valor bruto de la inversión</p>
+<p>M€</p>
 </th>
-<th class="cabeza_tabla">Valor neto (amort. lineal) 31/12/2011</th>
+<th>Valor neto (amort. lineal) 31/12/2011</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0020</td>
-<td class="cuerpo_tabla_izq">MELILLA 5, G-5</td>
-<td class="cuerpo_tabla_der">5,30</td>
-<td class="cuerpo_tabla_centro">01/12/1980</td>
-<td class="cuerpo_tabla_der">5,413</td>
-<td class="cuerpo_tabla_der">0,000</td>
+<td>RO2-0020</td>
+<td>MELILLA 5, G-5</td>
+<td>5,30</td>
+<td>01/12/1980</td>
+<td>5,413</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0021</td>
-<td class="cuerpo_tabla_izq">MELILLA 6, G-6</td>
-<td class="cuerpo_tabla_der">5,30</td>
-<td class="cuerpo_tabla_centro">01/11/1980</td>
-<td class="cuerpo_tabla_der">5,413</td>
-<td class="cuerpo_tabla_der">0,000</td>
+<td>RO2-0021</td>
+<td>MELILLA 6, G-6</td>
+<td>5,30</td>
+<td>01/11/1980</td>
+<td>5,413</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0024</td>
-<td class="cuerpo_tabla_izq">MELILLA 9, G-9</td>
-<td class="cuerpo_tabla_der">11,50</td>
-<td class="cuerpo_tabla_centro">01/07/1991</td>
-<td class="cuerpo_tabla_der">8,615</td>
-<td class="cuerpo_tabla_der">1,548</td>
+<td>RO2-0024</td>
+<td>MELILLA 9, G-9</td>
+<td>11,50</td>
+<td>01/07/1991</td>
+<td>8,615</td>
+<td>1,548</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0025</td>
-<td class="cuerpo_tabla_izq">MELILLA 10, G-10</td>
-<td class="cuerpo_tabla_der">8,51</td>
-<td class="cuerpo_tabla_centro">01/06/1997</td>
-<td class="cuerpo_tabla_der">16,71</td>
-<td class="cuerpo_tabla_der">6,963</td>
+<td>RO2-0025</td>
+<td>MELILLA 10, G-10</td>
+<td>8,51</td>
+<td>01/06/1997</td>
+<td>16,71</td>
+<td>6,963</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0175</td>
-<td class="cuerpo_tabla_izq">MELILLA 11, DIÉSEL 10</td>
-<td class="cuerpo_tabla_der">11,80</td>
-<td class="cuerpo_tabla_centro">01/10/2002</td>
-<td class="cuerpo_tabla_der">18,19</td>
-<td class="cuerpo_tabla_der">11,458</td>
+<td>RO2-0175</td>
+<td>MELILLA 11, DIÉSEL 10</td>
+<td>11,80</td>
+<td>01/10/2002</td>
+<td>18,19</td>
+<td>11,458</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">MELILLA G. Electrógenos (*)</td>
-<td class="cuerpo_tabla_izq">MELILLA G. Electrógenos (*)</td>
-<td class="cuerpo_tabla_der">9,60</td>
-<td class="cuerpo_tabla_centro">01/01/2003</td>
-<td class="cuerpo_tabla_der">19,84</td>
-<td class="cuerpo_tabla_der">12,699</td>
+<td>MELILLA G. Electrógenos (*)</td>
+<td>MELILLA G. Electrógenos (*)</td>
+<td>9,60</td>
+<td>01/01/2003</td>
+<td>19,84</td>
+<td>12,699</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0180</td>
-<td class="cuerpo_tabla_izq">MELILLA G-12</td>
-<td class="cuerpo_tabla_der">11,80</td>
-<td class="cuerpo_tabla_centro">12/02/2007</td>
-<td class="cuerpo_tabla_der">26,11</td>
-<td class="cuerpo_tabla_der">21,009</td>
+<td>RO2-0180</td>
+<td>MELILLA G-12</td>
+<td>11,80</td>
+<td>12/02/2007</td>
+<td>26,11</td>
+<td>21,009</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0185</td>
-<td class="cuerpo_tabla_izq">MELILLA 13</td>
-<td class="cuerpo_tabla_der">11,80</td>
-<td class="cuerpo_tabla_centro">13/12/2007</td>
-<td class="cuerpo_tabla_der">26,11</td>
-<td class="cuerpo_tabla_der">21,009</td>
+<td>RO2-0185</td>
+<td>MELILLA 13</td>
+<td>11,80</td>
+<td>13/12/2007</td>
+<td>26,11</td>
+<td>21,009</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0011</td>
-<td class="cuerpo_tabla_izq">CEUTA 1, G-1</td>
-<td class="cuerpo_tabla_der">5,30</td>
-<td class="cuerpo_tabla_centro">01/10/1980</td>
-<td class="cuerpo_tabla_der">4,311</td>
-<td class="cuerpo_tabla_der">0,000</td>
+<td>RO2-0011</td>
+<td>CEUTA 1, G-1</td>
+<td>5,30</td>
+<td>01/10/1980</td>
+<td>4,311</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0026</td>
-<td class="cuerpo_tabla_izq">CEUTA 2, G-2</td>
-<td class="cuerpo_tabla_der">5,30</td>
-<td class="cuerpo_tabla_centro">01/11/1980</td>
-<td class="cuerpo_tabla_der">4,311</td>
-<td class="cuerpo_tabla_der">0,000</td>
+<td>RO2-0026</td>
+<td>CEUTA 2, G-2</td>
+<td>5,30</td>
+<td>01/11/1980</td>
+<td>4,311</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0015</td>
-<td class="cuerpo_tabla_izq">CEUTA 6, G-6</td>
-<td class="cuerpo_tabla_der">5,30</td>
-<td class="cuerpo_tabla_centro">01/11/1986</td>
-<td class="cuerpo_tabla_der">3,566</td>
-<td class="cuerpo_tabla_der">0,000</td>
+<td>RO2-0015</td>
+<td>CEUTA 6, G-6</td>
+<td>5,30</td>
+<td>01/11/1986</td>
+<td>3,566</td>
+<td>0,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0016</td>
-<td class="cuerpo_tabla_izq">CEUTA 7, G-7</td>
-<td class="cuerpo_tabla_der">6,21</td>
-<td class="cuerpo_tabla_centro">01/07/1993</td>
-<td class="cuerpo_tabla_der">5,393</td>
-<td class="cuerpo_tabla_der">1,402</td>
+<td>RO2-0016</td>
+<td>CEUTA 7, G-7</td>
+<td>6,21</td>
+<td>01/07/1993</td>
+<td>5,393</td>
+<td>1,402</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0177</td>
-<td class="cuerpo_tabla_izq">CEUTA 8, G-8</td>
-<td class="cuerpo_tabla_der">8,51</td>
-<td class="cuerpo_tabla_centro">01/12/1998</td>
-<td class="cuerpo_tabla_der">6,034</td>
-<td class="cuerpo_tabla_der">2,876</td>
+<td>RO2-0177</td>
+<td>CEUTA 8, G-8</td>
+<td>8,51</td>
+<td>01/12/1998</td>
+<td>6,034</td>
+<td>2,876</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0178</td>
-<td class="cuerpo_tabla_izq">CEUTA 9, G-9</td>
-<td class="cuerpo_tabla_der">11,50</td>
-<td class="cuerpo_tabla_centro">01/12/2001</td>
-<td class="cuerpo_tabla_der">18,332</td>
-<td class="cuerpo_tabla_der">10,938</td>
+<td>RO2-0178</td>
+<td>CEUTA 9, G-9</td>
+<td>11,50</td>
+<td>01/12/2001</td>
+<td>18,332</td>
+<td>10,938</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0181</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 10</td>
-<td class="cuerpo_tabla_der">11,80</td>
-<td class="cuerpo_tabla_centro">05/02/2006</td>
-<td class="cuerpo_tabla_der">25,23</td>
-<td class="cuerpo_tabla_der">19,179</td>
+<td>RO2-0181</td>
+<td>CEUTA, GRUPO 10</td>
+<td>11,80</td>
+<td>05/02/2006</td>
+<td>25,23</td>
+<td>19,179</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0184</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 11</td>
-<td class="cuerpo_tabla_der">11,80</td>
-<td class="cuerpo_tabla_centro">19/12/2007</td>
-<td class="cuerpo_tabla_der">26,11</td>
-<td class="cuerpo_tabla_der">21,895</td>
+<td>RO2-0184</td>
+<td>CEUTA, GRUPO 11</td>
+<td>11,80</td>
+<td>19/12/2007</td>
+<td>26,11</td>
+<td>21,895</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0204</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 12</td>
-<td class="cuerpo_tabla_der">13,30</td>
-<td class="cuerpo_tabla_centro">01/03/2010</td>
-<td class="cuerpo_tabla_der">15,64</td>
-<td class="cuerpo_tabla_der">14,493</td>
+<td>RO2-0204</td>
+<td>CEUTA, GRUPO 12</td>
+<td>13,30</td>
+<td>01/03/2010</td>
+<td>15,64</td>
+<td>14,493</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO2-0206</td>
-<td class="cuerpo_tabla_izq">CEUTA, GRUPO 13</td>
-<td class="cuerpo_tabla_der">11,80</td>
-<td class="cuerpo_tabla_centro">27/07/2010</td>
-<td class="cuerpo_tabla_der">26,55</td>
-<td class="cuerpo_tabla_der">25,036</td>
+<td>RO2-0206</td>
+<td>CEUTA, GRUPO 13</td>
+<td>11,80</td>
+<td>27/07/2010</td>
+<td>26,55</td>
+<td>25,036</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DENTRO DE MELILLA G. Electrógenos (*) están los siguientes grupos:</td>
-<td class="cuerpo_tabla_der" colspan="5"> </td>
+<td>DENTRO DE MELILLA G. Electrógenos (*) están los siguientes grupos:</td>
+<td colspan="5"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0027</td>
-<td class="cuerpo_tabla_izq">MELILLA 12, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0027</td>
+<td>MELILLA 12, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0028</td>
-<td class="cuerpo_tabla_izq">MELILLA 13, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0028</td>
+<td>MELILLA 13, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0029</td>
-<td class="cuerpo_tabla_izq">MELILLA 14, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0029</td>
+<td>MELILLA 14, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0030</td>
-<td class="cuerpo_tabla_izq">MELILLA 15, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0030</td>
+<td>MELILLA 15, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0031</td>
-<td class="cuerpo_tabla_izq">MELILLA 16, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0031</td>
+<td>MELILLA 16, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0032</td>
-<td class="cuerpo_tabla_izq">MELILLA 17, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0032</td>
+<td>MELILLA 17, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0033</td>
-<td class="cuerpo_tabla_izq">MELILLA 18, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0033</td>
+<td>MELILLA 18, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0034</td>
-<td class="cuerpo_tabla_izq">MELILLA 19, G. ELECTRÓGENO</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0034</td>
+<td>MELILLA 19, G. ELECTRÓGENO</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0035</td>
-<td class="cuerpo_tabla_izq">MELILLA 20, G. ELECTRÓGENO (ANTES CEUTA 10)</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0035</td>
+<td>MELILLA 20, G. ELECTRÓGENO (ANTES CEUTA 10)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0036</td>
-<td class="cuerpo_tabla_izq">MELILLA 21, G. ELECTRÓGENO (ANTES CEUTA 11)</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0036</td>
+<td>MELILLA 21, G. ELECTRÓGENO (ANTES CEUTA 11)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0037</td>
-<td class="cuerpo_tabla_izq">MELILLA 22, G. ELECTRÓGENO (ANTES CEUTA 12)</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0037</td>
+<td>MELILLA 22, G. ELECTRÓGENO (ANTES CEUTA 12)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RO3-0038</td>
-<td class="cuerpo_tabla_izq">MELILLA 23, G. ELECTRÓGENO (ANTES CEUTA 13)</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>RO3-0038</td>
+<td>MELILLA 23, G. ELECTRÓGENO (ANTES CEUTA 13)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>

@@ -1350,1898 +1350,1898 @@ APENDICE
 
 **Listado de atribuciones y adjudicaciones vigentes del plan nacional de numeración telefónica**
 
-<table border="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Cifras iniciales del número nacional</p>
+<p>Cifras iniciales del número nacional</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Longitud número nacional</p>
+<p>Longitud número nacional</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Utilización</p>
+<p>Utilización</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Información adicional</p>
+<p>Información adicional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Longitud máxima</p>
+<p>Longitud máxima</p>
 </td>
 <td>
-<p class="cabeza_tabla">Longitud mínima</p>
+<p>Longitud mínima</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración corta.</p>
+<p>Numeración corta.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">00</p>
+<p>00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Prefijo internacional.</p>
+<p>Prefijo internacional.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración corta.</p>
+<p>Numeración corta.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">103</p>
+<p>103</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Códigos de selección de operador.</p>
+<p>Códigos de selección de operador.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">104</p>
+<p>104</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Códigos de selección de operador.</p>
+<p>Códigos de selección de operador.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">105</p>
+<p>105</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Códigos de selección de operador.</p>
+<p>Códigos de selección de operador.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">107</p>
+<p>107</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Códigos de selección de operador.</p>
+<p>Códigos de selección de operador.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">112</p>
+<p>112</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicio de atención de llamadas de urgencia.</p>
+<p>Servicio de atención de llamadas de urgencia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Compartido por varios operadores.</p>
+<p>Compartido por varios operadores.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">118</p>
+<p>118</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de información sobre números de abonado.</p>
+<p>Servicios de información sobre números de abonado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios móviles y radiobúsqueda.</p>
+<p>Servicios móviles y radiobúsqueda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Compartido por varios operadores.</p>
+<p>Compartido por varios operadores.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">70</p>
+<p>70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicio de numeración personal.</p>
+<p>Servicio de numeración personal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">800</p>
+<p>800</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicio de cobro revertido automático.</p>
+<p>Servicio de cobro revertido automático.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">803</p>
+<p>803</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicio de tarificación adicional.</p>
+<p>Servicio de tarificación adicional.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de adulto.</p>
+<p>Servicios de adulto.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">806</p>
+<p>806</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicio de tarificación adicional.</p>
+<p>Servicio de tarificación adicional.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de ocio y entretenimiento.</p>
+<p>Servicios de ocio y entretenimiento.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">807</p>
+<p>807</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicio de tarificación adicional.</p>
+<p>Servicio de tarificación adicional.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios profesionales.</p>
+<p>Servicios profesionales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">822</p>
+<p>822</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Cruz deTenerife.</p>
+<p>Santa Cruz deTenerife.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">824</p>
+<p>824</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Badajoz.</p>
+<p>Badajoz.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">828</p>
+<p>828</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Las Palmas.</p>
+<p>Las Palmas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">843</p>
+<p>843</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guipúzcoa.</p>
+<p>Guipúzcoa.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">848</p>
+<p>848</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Navarra.</p>
+<p>Navarra.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">856</p>
+<p>856</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cádiz.</p>
+<p>Cádiz.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">858</p>
+<p>858</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Granada.</p>
+<p>Granada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">868</p>
+<p>868</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Murcia.</p>
+<p>Murcia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">871</p>
+<p>871</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Illes Balears.</p>
+<p>Illes Balears.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">872</p>
+<p>872</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Girona.</p>
+<p>Girona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">873</p>
+<p>873</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lleida.</p>
+<p>Lleida.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">876</p>
+<p>876</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zaragoza.</p>
+<p>Zaragoza.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">877</p>
+<p>877</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tarragona.</p>
+<p>Tarragona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">881</p>
+<p>881</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A Coruña.</p>
+<p>A Coruña.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">886</p>
+<p>886</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pontevedra.</p>
+<p>Pontevedra.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">900</p>
+<p>900</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicio de cobro revertido automático.</p>
+<p>Servicio de cobro revertido automático.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">901</p>
+<p>901</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicio de llamadas de pago compartido.</p>
+<p>Servicio de llamadas de pago compartido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">902</p>
+<p>902</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicio de llamadas de pago por el abonado llamante sin retribución para el abonado llamado.</p>
+<p>Servicio de llamadas de pago por el abonado llamante sin retribución para el abonado llamado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">905</p>
+<p>905</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicio de llamadas masivas.</p>
+<p>Servicio de llamadas masivas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">907</p>
+<p>907</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicio de tarificación adicional.</p>
+<p>Servicio de tarificación adicional.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre sistemas de datos.</p>
+<p>Sobre sistemas de datos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">908</p>
+<p>908</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acceso a Internet.</p>
+<p>Acceso a Internet.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Factura el operador de acceso.</p>
+<p>Factura el operador de acceso.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">909</p>
+<p>909</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acceso a Internet.</p>
+<p>Acceso a Internet.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No factura el operador de acceso.</p>
+<p>No factura el operador de acceso.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">911</p>
+<p>911</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Madrid.</p>
+<p>Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">912</p>
+<p>912</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Madrid.</p>
+<p>Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">913</p>
+<p>913</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Madrid.</p>
+<p>Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">914</p>
+<p>914</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Madrid.</p>
+<p>Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">915</p>
+<p>915</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Madrid.</p>
+<p>Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">916</p>
+<p>916</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Madrid.</p>
+<p>Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">917</p>
+<p>917</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Madrid.</p>
+<p>Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">918</p>
+<p>918</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Madrid.</p>
+<p>Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">920</p>
+<p>920</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Avila.</p>
+<p>Avila.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">921</p>
+<p>921</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Segovia.</p>
+<p>Segovia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">922</p>
+<p>922</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Cruz deTenerife.</p>
+<p>Santa Cruz deTenerife.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">923</p>
+<p>923</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Salamanca.</p>
+<p>Salamanca.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">924</p>
+<p>924</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Badajoz.</p>
+<p>Badajoz.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">925</p>
+<p>925</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Toledo.</p>
+<p>Toledo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">926</p>
+<p>926</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ciudad Real.</p>
+<p>Ciudad Real.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">927</p>
+<p>927</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cáceres.</p>
+<p>Cáceres.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">928</p>
+<p>928</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Las Palmas.</p>
+<p>Las Palmas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">931</p>
+<p>931</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Barcelona.</p>
+<p>Barcelona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">932</p>
+<p>932</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Barcelona.</p>
+<p>Barcelona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">933</p>
+<p>933</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Barcelona.</p>
+<p>Barcelona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">934</p>
+<p>934</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Barcelona.</p>
+<p>Barcelona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">935</p>
+<p>935</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Barcelona.</p>
+<p>Barcelona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">936</p>
+<p>936</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Barcelona.</p>
+<p>Barcelona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">937</p>
+<p>937</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Barcelona.</p>
+<p>Barcelona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">938</p>
+<p>938</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Barcelona.</p>
+<p>Barcelona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">940</p>
+<p>940</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicio de radiobúsqueda.</p>
+<p>Servicio de radiobúsqueda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Este indicativo quedará liberado el 30 de junio de 2008</p>
+<p>Este indicativo quedará liberado el 30 de junio de 2008</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">941</p>
+<p>941</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">La Rioja.</p>
+<p>La Rioja.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">942</p>
+<p>942</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cantabria.</p>
+<p>Cantabria.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">943</p>
+<p>943</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guipúzcoa.</p>
+<p>Guipúzcoa.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">944</p>
+<p>944</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vizcaya.</p>
+<p>Vizcaya.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">945</p>
+<p>945</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alava.</p>
+<p>Alava.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">946</p>
+<p>946</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vizcaya.</p>
+<p>Vizcaya.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">947</p>
+<p>947</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Burgos.</p>
+<p>Burgos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">948</p>
+<p>948</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Navarra.</p>
+<p>Navarra.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">949</p>
+<p>949</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guadalajara.</p>
+<p>Guadalajara.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">950</p>
+<p>950</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almería.</p>
+<p>Almería.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">951</p>
+<p>951</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Málaga.</p>
+<p>Málaga.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">952</p>
+<p>952</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Málaga.</p>
+<p>Málaga.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">953</p>
+<p>953</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jaén.</p>
+<p>Jaén.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">954</p>
+<p>954</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sevilla.</p>
+<p>Sevilla.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">955</p>
+<p>955</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sevilla.</p>
+<p>Sevilla.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">956</p>
+<p>956</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cádiz.</p>
+<p>Cádiz.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">957</p>
+<p>957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Córdoba.</p>
+<p>Córdoba.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">958</p>
+<p>958</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Granada.</p>
+<p>Granada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">959</p>
+<p>959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huelva.</p>
+<p>Huelva.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">960</p>
+<p>960</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valencia/València.</p>
+<p>Valencia/València.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">961</p>
+<p>961</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valencia/València.</p>
+<p>Valencia/València.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">962</p>
+<p>962</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valencia/València.</p>
+<p>Valencia/València.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">963</p>
+<p>963</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valencia/València.</p>
+<p>Valencia/València.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">964</p>
+<p>964</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Castellón/Castelló.</p>
+<p>Castellón/Castelló.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">965</p>
+<p>965</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alicante/Alacant.</p>
+<p>Alicante/Alacant.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">966</p>
+<p>966</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alicante/Alacant.</p>
+<p>Alicante/Alacant.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">967</p>
+<p>967</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Albacete.</p>
+<p>Albacete.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">968</p>
+<p>968</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Murcia.</p>
+<p>Murcia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">969</p>
+<p>969</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuenca.</p>
+<p>Cuenca.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">971</p>
+<p>971</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Illes Balears.</p>
+<p>Illes Balears.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">972</p>
+<p>972</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Girona.</p>
+<p>Girona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">973</p>
+<p>973</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lleida.</p>
+<p>Lleida.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">974</p>
+<p>974</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huesca.</p>
+<p>Huesca.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">975</p>
+<p>975</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Soria.</p>
+<p>Soria.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">976</p>
+<p>976</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zaragoza.</p>
+<p>Zaragoza.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">977</p>
+<p>977</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tarragona.</p>
+<p>Tarragona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">978</p>
+<p>978</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Teruel.</p>
+<p>Teruel.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">979</p>
+<p>979</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Palencia.</p>
+<p>Palencia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">980</p>
+<p>980</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zamora.</p>
+<p>Zamora.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">981</p>
+<p>981</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A Coruña.</p>
+<p>A Coruña.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">982</p>
+<p>982</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lugo.</p>
+<p>Lugo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">983</p>
+<p>983</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valladolid.</p>
+<p>Valladolid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">984</p>
+<p>984</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Asturias.</p>
+<p>Asturias.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">985</p>
+<p>985</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Asturias.</p>
+<p>Asturias.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">986</p>
+<p>986</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pontevedra.</p>
+<p>Pontevedra.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">987</p>
+<p>987</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">León.</p>
+<p>León.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">988</p>
+<p>988</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numeración geográfica.</p>
+<p>Numeración geográfica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ourense.</p>
+<p>Ourense.</p>
 </td>
 </tr>
 </tbody>

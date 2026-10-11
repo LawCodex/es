@@ -934,12 +934,6 @@ a) De viajeros, cuando estén dedicados a realizar los desplazamientos de las pe
 
 b) De mercancías, cuando estén dedicados a realizar desplazamientos de mercancías, en vehículos construidos y acondicionados para tal fin.
 
-> Téngase en cuenta que esta actualización de la letra a), establecida por la disposición final 1 de la Ley 7/2023, de 28 de marzo. [Ref. BOE-A-2023-7936](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7936), entra en vigor el 29 de septiembre de 2023, según determina su disposición final 9.
-
-> Redacción anterior:
-
-> "a) De viajeros, cuando estén dedicados a realizar los desplazamientos de las personas y sus equipajes en vehículos construidos y acondicionados para tal fin."
-
 > Se modifica la letra a) por la disposición final 1 de la Ley 7/2023, de 28 de marzo. [Ref. BOE-A-2023-7936](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7936)
 
 > Esta modificación entra en vigor el 29 de septiembre de 2023, según establece la disposición final 9 de la citada Ley.
@@ -1345,8 +1339,6 @@ Se establecen las siguientes salvedades a esa obligación de inicio en la comuni
 1.º Para los servicios de recogida de viajeros en puertos y aeropuertos que hayan sido previa y expresamente contratados, que podrán ser prestados al amparo de autorizaciones de arrendamiento de vehículos con conductor domiciliadas en comunidades autónomas distintas a aquella en que se ubica el puerto o aeropuerto, siempre que el destino de tales servicios se encuentre en el territorio de la comunidad autónoma en que esté domiciliada la autorización.
 
 2.º Para los casos en que las autorizaciones de arrendamiento de vehículos con conductor domiciliadas en una comunidad autónoma no basten para atender un aumento coyuntural de la demanda de esta clase de servicios en su territorio. A tal efecto, el órgano competente en materia de transporte interurbano podrá establecer, previo informe de los municipios afectados, un régimen específico que permita a los vehículos amparados en autorizaciones de arrendamiento con conductor domiciliadas en otras comunidades autónomas realizar temporalmente servicios con origen en todo su territorio o en determinados puntos de éste.
-
-> Téngase en cuenta, para esta última modificación efectuada por el art. único del Real Decreto-ley 13/2018, de 28 de septiembre. [Ref. BOE-A-2018-13179](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-13179), lo dispuesto en la disposición transitoria única del citado para las autorizaciones existentes a la fecha de su entrada en vigor o cuyas solicitudes estuvieran pendientes de resolverse.
 
 > Se modifica por el art. único del Real Decreto-ley 13/2018, de 28 de septiembre. [Ref. BOE-A-2018-13179](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-13179)
 
@@ -2771,8 +2763,6 @@ g) Supuestos en los que la normativa reguladora de determinados tipos de transpo
 h) Los supuestos que reglamentariamente se establezcan, siempre que se garantice la seguridad del conductor.
 
 2\. Las previsiones del apartado anterior serán de aplicación a todas las operaciones de carga y descarga que se efectúen en territorio español.
-
-> Téngase en cuenta que esta disposición, añadida por el art. 1.11 del Real Decreto-ley 3/2022, de 1 de marzo. [Ref. BOE-A-2022-3290](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3290), entra en vigor el 2 de septiembre de 2022, según establece su disposición final 8.2.
 
 > Se modifica la letra e) por el art. 2.7 del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925)
 

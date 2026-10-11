@@ -988,8 +988,6 @@ A los efectos de esta ley, se considera uso residencial el uso de la unidad de a
 
 10\. Reglamentariamente se podrá regular el régimen jurídico de los alojamientos turísticos coparticipados o compartidos y otras formas análogas de explotación.
 
-> Téngase en cuenta que la aplicación de este artículo queda suspendida desde el 14 de enero de 2016, por la disposición adicional única.4 del Decreto-ley 1/2016, de 12 de enero. [Ref. BOE-A-2016-2225](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2225)
-
 > Se suspendió la aplicación de este artículo y posteriormente quedó levantada por cumplimento del plazo establecido en la disposición adicional única.4 del Decreto-ley 1/2016, de 12 de enero. [Ref. BOE-A-2016-2225](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2225)
 
 ##### Artículo 36. Compatibilidad de distintos tipos o grupos de establecimientos y explotación conjunta de distintos establecimientos.
@@ -1193,8 +1191,6 @@ Reglamentariamente por parte de la administración competente se podrá regular 
 En los establecimientos de alojamiento turístico a partir de cinco estrellas o similar categoría se podrán enajenar hasta el 50% de las unidades de alojamiento del establecimiento para destinarlas a residencias turísticas unifamiliares, siempre que no tengan una superficie inferior a 75 m<sup>2</sup> construidos y tengan garantizadas la oferta y la prestación de todos los servicios en las mismas condiciones de calidad en que el establecimiento las ofrece a sus clientes.
 
 ### CAPÍTULO IV — Empresas comercializadoras de estancias turísticas en viviendas
-
-> Téngase en cuenta que se suspende, hasta el 31 de diciembre de 2021, y en cuanto al ámbito territorial del municipio de Palma, la posibilidad de presentar declaraciones responsables de inicio de actividad turísticas relativas de la comercialización de estancias turísticas de viviendas a la que hace referencia en este capítulo IV, título III, según establece la disposición adicional 6 de la Ley 2/2020, de 15 de octubre. [Ref. BOE-A-2020-14467](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14467)
 
 > Se suspende, hasta el 31 de diciembre de 2021, y en cuanto al ámbito territorial del municipio de Palma, la posibilidad de presentar declaraciones responsables de inicio de actividad turísticas relativas de la comercialización de estancias turísticas de viviendas a la que hace referencia en este capítulo IV, título III, según establece la disposición adicional 6 de la Ley 2/2020, de 15 de octubre. [Ref. BOE-A-2020-14467](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14467)
 
@@ -3517,8 +3513,6 @@ Los hostales, los hostales-residencia, las pensiones, las posadas, las casas de 
 El uso turístico estará permitido en los edificios catalogados y ubicados en cualquier tipo de suelo, previo informe, favorable y vinculante, de la administración competente en materia turística y de la administración competente en materia de patrimonio.
 
 También estará permitido, en los términos previstos en la normativa estatal y resto de normativa que pueda ser de aplicación, el uso turístico en edificaciones que tengan o hayan tenido uso militar o en espacios de dominio público portuarios afectos al servicio de señalización marítima, siempre que conserven sus valores patrimoniales, de acuerdo con el informe que emitan las administraciones competentes.
-
-> Téngase en cuenta que se suspende la aplicación de esta disposición desde el 14 de enero de 2016, por la disposición adicional única.4 del Decreto-ley 1/2016, de 12 de enero. [Ref. BOE-A-2016-2225](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2225)
 
 > Se suspendió la aplicación de esta disposición y posteriormente quedó levantada por cumplimento del plazo establecido en la disposición adicional única.4 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225
 

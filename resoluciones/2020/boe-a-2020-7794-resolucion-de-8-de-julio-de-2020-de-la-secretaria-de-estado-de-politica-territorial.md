@@ -1,0 +1,78 @@
+---
+title: "Resolución de 8 de julio de 2020, de la Secretaría de Estado de Política Territorial y Función Pública, por la que se establecen nuevos modelos de títulos administrativos y hojas de servicio en formato electrónico del personal incluido en el ámbito del Registro Central de Personal"
+identifier: "BOE-A-2020-7794"
+eli: "https://www.boe.es/eli/es/res/2020/07/08/(1)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Política Territorial y Función Pública"
+date: 2020-07-08
+published: 2020-07-14
+in_force_from: 2020-07-16
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 192"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2020-7794"
+retrieved: 2026-10-11
+---
+
+# Resolución de 8 de julio de 2020, de la Secretaría de Estado de Política Territorial y Función Pública, por la que se establecen nuevos modelos de títulos administrativos y hojas de servicio en formato electrónico del personal incluido en el ámbito del Registro Central de Personal
+
+Incluye corrección de errores publicada por Resolución de 14 de julio de 2020. [Ref. BOE-A-2020-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7940)
+
+El artículo 12 del Reglamento del Registro Central de Personal, aprobado por Real Decreto 2073/1999, de 30 de diciembre, por el que se modifica el Reglamento del Registro Central de Personal y las normas de coordinación con los de las restantes Administraciones Públicas, establece en su apartado 1 que se inscribirán en el citado Registro, entre otras, las resoluciones de nombramiento del personal funcionario de carrera e interino y del personal eventual, así como la formalización de contratos laborales.
+
+Asimismo, el apartado 4 del citado artículo prevé que, una vez efectuadas las inscripciones correspondientes, el Registro Central de Personal confeccionará los títulos administrativos de los funcionarios de carrera y las hojas de servicio del personal laboral, funcionarios interinos y personal eventual incluido en su ámbito de aplicación.
+
+De conformidad con lo establecido en el artículo 7 del Reglamento del Registro Central de Personal, corresponde al Secretario de Estado de Política Territorial y Función Pública la aprobación de los formatos normalizados de los documentos registrales que se utilizan para la realización de asientos.
+
+En virtud de dicha previsión, por Resolución de 2 de septiembre de 2002 se aprobaron los modelos de títulos administrativos y hojas de servicio del personal funcionario y laboral al servicio de la Administración General del Estado, que se han venido usando desde entonces.
+
+El artículo 26 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, establece los medios electrónicos como la forma normal de emisión de los actos administrativos.
+
+Por tal motivo, procede sustituir los actuales títulos administrativos y hojas de servicio en formato papel, por otros en formato electrónico. Este cambio, además, conlleva una sustancial mejora del tratamiento de la información, reduciendo la carga de trabajo y la posibilidad de errores, y una gestión documental más eficiente y sostenible medioambientalmente.
+
+Los nuevos títulos y hojas de servicio, además de emitirse únicamente en formato electrónico, incorporan determinadas modificaciones, entre ellas las derivadas de la consideración de la emisión de estos documentos como actuaciones administrativas automatizadas y, por tanto, su firma mediante la utilización del sello electrónico de órgano, todo ello de conformidad con lo previsto en los artículos 41 y 42 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+Por todo lo anterior, esta Secretaría de Estado ha resuelto:
+
+## Primero.
+
+Aprobar los formatos del título del personal funcionario de carrera y de las hojas de servicio del personal funcionario interino, personal eventual y personal laboral incluidos en el ámbito del Registro Central de Personal recogidos en el anexo de esta Resolución.
+
+Dichos títulos y hojas de servicio se emitirán únicamente en formato electrónico.
+
+## Segundo.
+
+La presente resolución entrará en vigor el 16 de julio de 2020.
+
+Madrid, 8 de julio de 2020.–El Secretario de Estado de Política Territorial y Función Pública, P. D. (Orden TFP/296/2019, de 12 de marzo), la Directora General de la Función Pública, María Isabel Borrel Roncalés.
+
+> Redactado conforme a la corrección de errores publicada por Resolución de 14 de julio de 2020. [Ref. BOE-A-2020-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7940)
+
+## ANEXO
+
+![1](https://www.boe.es/datos/imagenes/disp/2020/192/07794_6753.png)
+
+![2](https://www.boe.es/datos/imagenes/disp/2020/192/07794_6790.png)
+
+![3](https://www.boe.es/datos/imagenes/disp/2020/192/07794_6823.png)
+
+![4](https://www.boe.es/datos/imagenes/disp/2020/192/07794_6856.png)
+
+![5](https://www.boe.es/datos/imagenes/disp/2020/192/07794_6891.png)
+
+![6](https://www.boe.es/datos/imagenes/disp/2020/192/07794_6925.png)
+
+![7](https://www.boe.es/datos/imagenes/disp/2020/192/07794_6958.png)
+
+![8](https://www.boe.es/datos/imagenes/disp/2020/192/07794_6991.png)
+
+![9](https://www.boe.es/datos/imagenes/disp/2020/192/07794_7025.png)
+
+![10](https://www.boe.es/datos/imagenes/disp/2020/192/07794_7060.png)
+
+![11](https://www.boe.es/datos/imagenes/disp/2020/192/07794_7094.png)
+
+![12](https://www.boe.es/datos/imagenes/disp/2020/192/07794_7127.png)

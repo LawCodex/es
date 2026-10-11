@@ -1,0 +1,30 @@
+---
+title: "Acuerdo de 23 de mayo de 2018, de la Junta Electoral Central, sobre el color de los sobres y papeletas en caso de coincidencia de las elecciones al Parlamento Europeo y las elecciones municipales"
+identifier: "BOE-A-2018-7213"
+eli: "https://www.boe.es/eli/es/a/2018/05/23/(1)"
+type: agreement
+rank: "Acuerdo"
+jurisdiction: es
+language: es
+department: "Junta Electoral Central"
+date: 2018-05-23
+published: 2018-05-31
+in_force_from: 2018-05-31
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 132"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-7213"
+retrieved: 2026-10-11
+---
+
+# Acuerdo de 23 de mayo de 2018, de la Junta Electoral Central, sobre el color de los sobres y papeletas en caso de coincidencia de las elecciones al Parlamento Europeo y las elecciones municipales
+
+La Junta Electoral Central, en su sesión de 23 de mayo de 2018, ha adoptado el siguiente Acuerdo:
+
+1.º En la medida en que el Real Decreto 605/1999, de 16 de abril, de regulación complementaria de los procesos electorales, no prevé la coincidencia de elecciones municipales, autonómicas y al Parlamento Europeo a efectos del color de las papeletas electorales, esta Junta Electoral Central comparte el criterio del Ministerio del Interior en el sentido de que resulta razonable y útil que para estos supuestos la papeleta en las elecciones municipales sea de color blanco y la relativa al Parlamento Europeo azul claro. Este criterio sin duda facilitará la elaboración por los Ayuntamientos de las papeletas en las elecciones municipales y evitará los problemas relativos a la tonalidad de los sobres que la utilización de un color distinto del blanco ha suscitado en algunos procesos electorales.
+
+2.º Por los motivos indicados, se acuerda dejar sin efectos la Instrucción 3/1999, de 27 de abril, de la Junta Electoral Central, sobre el color de los sobres y papeletas para las elecciones municipales.
+
+Dado el carácter general de este Acuerdo, se procederá a su publicación en el «Boletín Oficial del Estado», de conformidad con lo dispuesto en el artículo 18.6 de la Ley Orgánica del Régimen Electoral General.
+
+Palacio del Congreso de los Diputados, 23 de mayo de 2018.–El Presidente de la Junta Electoral Central, Segundo Menéndez Pérez.

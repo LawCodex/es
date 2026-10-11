@@ -2526,308 +2526,302 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 
 Los puntos extremos de las islas o islotes que integran el Archipiélago Canario, para determinar las líneas de base rectas de manera que el perímetro resultante siga la configuración archipelágica, son los siguientes:
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-<col class="row_column_3">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2"> </td>
 <td>
-<p class="cabeza_tabla">Latitud N</p>
+<p>Latitud N</p>
 </td>
 <td>
-<p class="cabeza_tabla">Longitud W</p>
+<p>Longitud W</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_der">* 1.</p>
+<p>* 1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De Punta Delgada (Alegranza)</p>
+<p>De Punta Delgada (Alegranza)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29º 24’, 10</p>
+<p>29º 24’, 10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13º 29’, 40</p>
+<p>13º 29’, 40</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a Roque del Este</p>
+<p>a Roque del Este</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29º 16’, 50</p>
+<p>29º 16’, 50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13º 20’, 00</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_der">2.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De Roque del Este a Punta de Tierra Negra</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">29º 01’, 50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">13º 27’, 80</p>
+<p>13º 20’, 00</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">3.</p>
+<p>2.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De Punta de Tierra Negra a (4) Punta de las Borriquillas</p>
+<p>De Roque del Este a Punta de Tierra Negra</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28º 16’, 20</p>
+<p>29º 01’, 50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13º 53’, 80</p>
+<p>13º 27’, 80</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
+<td>
+<p>3.</p>
+</td>
+<td>
+<p>De Punta de Tierra Negra a (4) Punta de las Borriquillas</p>
+</td>
+<td>
+<p>28º 16’, 20</p>
+</td>
+<td>
+<p>13º 53’, 80</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_der">5.</p>
+<p>5.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De Punta Entallada (Lantaílla)</p>
+<p>De Punta Entallada (Lantaílla)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28º 13’, 80</p>
+<p>28º 13’, 80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13º 56’, 00</p>
+<p>13º 56’, 00</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a Punta del Matorral</p>
+<p>a Punta del Matorral</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28º 02’,50</p>
+<p>28º 02’,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14º 19’, 50</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_der">6.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De Punta del Matorral a (7) Punta de Maspalomas (GC)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">27º 44’,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15º 35’, 00</p>
+<p>14º 19’, 50</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
+<td>
+<p>6.</p>
+</td>
+<td>
+<p>De Punta del Matorral a (7) Punta de Maspalomas (GC)</p>
+</td>
+<td>
+<p>27º 44’,00</p>
+</td>
+<td>
+<p>15º 35’, 00</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_der">8.</p>
+<p>8.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De Punta de Arguineguín</p>
+<p>De Punta de Arguineguín</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">27º 44’, 50</p>
+<p>27º 44’, 50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15º 40’, 10</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_izq">a Punta de la Rasca (TF)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">28º 00’, 00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16º 41’, 60</p>
+<p>15º 40’, 10</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">9.</p>
+<p>a Punta de la Rasca (TF)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De Punta de la Rasca a Punta de Los Saltos (EH)</p>
+<p>28º 00’, 00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">27º 38’, 00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">17º 59’, 00</p>
+<p>16º 41’, 60</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">10.</p>
+<p>9.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De Punta de Los Saltos a Punta de La Orchilla</p>
+<p>De Punta de la Rasca a Punta de Los Saltos (EH)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">27º 42’, 50</p>
+<p>27º 38’, 00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18º 09’, 80</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_der">11.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De Punta de La Orchilla a Punta del Verodal</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">27º 45’,60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18º 09’, 30</p>
+<p>17º 59’, 00</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">12.</p>
+<p>10.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De Punta del Verodal a Punta Gutiérrez (LP)</p>
+<p>De Punta de Los Saltos a Punta de La Orchilla</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28º 46’, 50</p>
+<p>27º 42’, 50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18º 00’, 50</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_der">13.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De Punta Gutiérrez a Punta de Vallero</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">28º 49’, 60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">17º 57’, 60</p>
+<p>18º 09’, 80</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14.</p>
+<p>11.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De Punta de Vallero a Punta de Juan Adalid</p>
+<p>De Punta de La Orchilla a Punta del Verodal</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28º 51’, 10</p>
+<p>27º 45’,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">17º 55’, 00</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_der">15.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De Punta de Juan Adalid a Punta Cumplida</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">28º 50’, 10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">17º 46’, 80</p>
+<p>18º 09’, 30</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">16.</p>
+<p>12.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De Punta Cumplida a Roque de Fuera (Anaga. TF)</p>
+<p>De Punta del Verodal a Punta Gutiérrez (LP)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28º 35’, 80</p>
+<p>28º 46’, 50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16º 09’, 50</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_der">17.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De Roque de Fuera a Morro de La Vieja (Isleta. GC)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">28º 10’, 60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15º 24’, 50</p>
+<p>18º 00’, 50</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18.</p>
+<p>13.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De Morro de La Vieja a Punta de la Ensenada (LZ)</p>
+<p>De Punta Gutiérrez a Punta de Vallero</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29º 02’, 00</p>
+<p>28º 49’, 60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13º 49’, 00</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_der">19.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De Punta de la Ensenada a Punta Grieta (Alegranza)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">29º 24’, 50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">13º 31’, 50</p>
+<p>17º 57’, 60</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">20.</p>
+<p>14.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De Punta Grieta a Punta Delgada (Alegranza)</p>
+<p>De Punta de Vallero a Punta de Juan Adalid</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29º 24’, 10</p>
+<p>28º 51’, 10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13º 29’, 40</p>
+<p>17º 55’, 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15.</p>
+</td>
+<td>
+<p>De Punta de Juan Adalid a Punta Cumplida</p>
+</td>
+<td>
+<p>28º 50’, 10</p>
+</td>
+<td>
+<p>17º 46’, 80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16.</p>
+</td>
+<td>
+<p>De Punta Cumplida a Roque de Fuera (Anaga. TF)</p>
+</td>
+<td>
+<p>28º 35’, 80</p>
+</td>
+<td>
+<p>16º 09’, 50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17.</p>
+</td>
+<td>
+<p>De Roque de Fuera a Morro de La Vieja (Isleta. GC)</p>
+</td>
+<td>
+<p>28º 10’, 60</p>
+</td>
+<td>
+<p>15º 24’, 50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18.</p>
+</td>
+<td>
+<p>De Morro de La Vieja a Punta de la Ensenada (LZ)</p>
+</td>
+<td>
+<p>29º 02’, 00</p>
+</td>
+<td>
+<p>13º 49’, 00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>19.</p>
+</td>
+<td>
+<p>De Punta de la Ensenada a Punta Grieta (Alegranza)</p>
+</td>
+<td>
+<p>29º 24’, 50</p>
+</td>
+<td>
+<p>13º 31’, 50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20.</p>
+</td>
+<td>
+<p>De Punta Grieta a Punta Delgada (Alegranza)</p>
+</td>
+<td>
+<p>29º 24’, 10</p>
+</td>
+<td>
+<p>13º 29’, 40</p>
 </td>
 </tr>
 </tbody>

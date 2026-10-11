@@ -1246,48 +1246,48 @@ VI. Cuota. Normas de aplicación.
 
 1\. La cuota de esta tasa será la siguiente:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">ENTRADA Y ESTANCIA</p>
+<p>ENTRADA Y ESTANCIA</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Euros por metro lineal de eslora o fracción y día o fracción, en función del calado</p>
+<p>Euros por metro lineal de eslora o fracción y día o fracción, en función del calado</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Calado mayor de 12 metros</p>
+<p>Calado mayor de 12 metros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,986869 € /m.l./día</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Calado mayor de 8 metros y hasta 12 metros</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,658642 € /m.l./día</p>
+<p>5,986869 € /m.l./día</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Calado igual o mayor de 6 metros y hasta 8 metros</p>
+<p>Calado mayor de 8 metros y hasta 12 metros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,439094 € /m.l./día</p>
+<p>3,658642 € /m.l./día</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Calado menor de 6 metros</p>
+<p>Calado igual o mayor de 6 metros y hasta 8 metros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,552151 € /m.l./día</p>
+<p>2,439094 € /m.l./día</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Calado menor de 6 metros</p>
+</td>
+<td>
+<p>1,552151 € /m.l./día</p>
 </td>
 </tr>
 </tbody>
@@ -1936,46 +1936,42 @@ V. Cuota y normas de aplicación.
 
 1\. La tasa se exigirá conforme a lo dispuesto en el siguiente cuadro:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_cursiva">Ocupación de superficie</p>
+<p>Ocupación de superficie</p>
 </caption>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Metro cuadrado de superficie de agua o tierra ocupada por día o fracción</th>
-<th class="cabeza_tabla">Euros<sup>1</sup></th>
+<th>Metro cuadrado de superficie de agua o tierra ocupada por día o fracción</th>
+<th>Euros<sup>1</sup></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Superficie descubierta.</td>
-<td class="cuerpo_tabla_coma">0,047820</td>
+<td>Superficie descubierta.</td>
+<td>0,047820</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Superficie cubierta mediante contenedores.</td>
-<td class="cuerpo_tabla_coma">0,071729</td>
+<td>Superficie cubierta mediante contenedores.</td>
+<td>0,071729</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Superficie cubierta.</td>
-<td class="cuerpo_tabla_coma">0,095639</td>
+<td>Superficie cubierta.</td>
+<td>0,095639</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Varadero/Vela ligera/Invernada.</td>
-<td class="cuerpo_tabla_coma">0,215192</td>
+<td>Varadero/Vela ligera/Invernada.</td>
+<td>0,215192</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Marina seca.</td>
-<td class="cuerpo_tabla_coma">0,274967</td>
+<td>Marina seca.</td>
+<td>0,274967</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita"><sup>1</sup> Importes actualizados a 2024.</p>
+<p><sup>1</sup> Importes actualizados a 2024.</p>
 </td>
 </tr>
 </tfoot>
@@ -1995,113 +1991,113 @@ La rescisión anticipada determinará la liquidación del tiempo disfrutado sin 
 
 La Agencia podrá establecer duraciones máximas, así como temporadas, en las diferentes zonas terrestres por motivos de explotación, las cuales serán identificadas de forma adecuada por aquella, estableciéndose los siguientes coeficientes, dependientes de la zona, su forma y tiempo de estancia, y con el fin de agilizar y permitir la correcta explotación de las diferentes zonas terrestres utilizadas para la ubicación de embarcaciones:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">ZONA</p>
+<p>ZONA</p>
 </td>
 <td>
-<p class="cabeza_tabla">COEFICIENTE</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">ZONA DE VELA LIGERA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>COEFICIENTE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">VARADERO</p>
+<p>ZONA DE VELA LIGERA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">PERSONAS USUARIAS DE BASE</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>VARADERO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">Estancias de hasta 1 mes</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">Resto de estancias</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">RESTO DE PERSONAS USUARIAS</p>
+<p>PERSONAS USUARIAS DE BASE</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">ZONA DE INVERNADA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tres primeros meses de plazo</p>
+<p>Estancias de hasta 1 mes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>0,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Resto</p>
+<p>Resto de estancias</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,40</p>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>RESTO DE PERSONAS USUARIAS</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ZONA DE INVERNADA</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Tres primeros meses de plazo</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Resto</p>
+</td>
+<td>
+<p>0,40</p>
 </td>
 </tr>
 </tbody>
@@ -2192,186 +2188,186 @@ En los casos de suministros que no sean susceptibles de estimación cierta del c
 
 A) Suministros de agua y electricidad en varadero o estancia en seco:
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Esloras</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Agua</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Electricidad</th>
-<th class="cabeza_tabla"> </th>
+<th rowspan="2">Esloras</th>
+<th> </th>
+<th>Agua</th>
+<th> </th>
+<th> </th>
+<th>Electricidad</th>
+<th> </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Euros/Día</th>
-<th class="cabeza_tabla">Euros/Mes</th>
-<th class="cabeza_tabla">Euros/Trimestre</th>
-<th class="cabeza_tabla">Euros/Día</th>
-<th class="cabeza_tabla">Euros/Mes</th>
-<th class="cabeza_tabla">Euros/Trimestre</th>
+<th>Euros/Día</th>
+<th>Euros/Mes</th>
+<th>Euros/Trimestre</th>
+<th>Euros/Día</th>
+<th>Euros/Mes</th>
+<th>Euros/Trimestre</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Temporada ordinaria</td>
+<td colspan="7">Temporada ordinaria</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 10 m.</td>
-<td class="cuerpo_tabla_der">1,33624</td>
-<td class="cuerpo_tabla_der">13,3624</td>
-<td class="cuerpo_tabla_der">33,406</td>
-<td class="cuerpo_tabla_der">1,670299</td>
-<td class="cuerpo_tabla_der">16,70299</td>
-<td class="cuerpo_tabla_der">41,757475</td>
+<td>Hasta 10 m.</td>
+<td>1,33624</td>
+<td>13,3624</td>
+<td>33,406</td>
+<td>1,670299</td>
+<td>16,70299</td>
+<td>41,757475</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entre 10 y 12 m.</td>
-<td class="cuerpo_tabla_der">2,004359</td>
-<td class="cuerpo_tabla_der">30,065385</td>
-<td class="cuerpo_tabla_der">76,165642</td>
-<td class="cuerpo_tabla_der">2,338419</td>
-<td class="cuerpo_tabla_der">35,076285</td>
-<td class="cuerpo_tabla_der">88,859922</td>
+<td>Entre 10 y 12 m.</td>
+<td>2,004359</td>
+<td>30,065385</td>
+<td>76,165642</td>
+<td>2,338419</td>
+<td>35,076285</td>
+<td>88,859922</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mayor de 12 m.</td>
-<td class="cuerpo_tabla_der">2,672479</td>
-<td class="cuerpo_tabla_der">53,44958</td>
-<td class="cuerpo_tabla_der">133,62395</td>
-<td class="cuerpo_tabla_der">3,00654</td>
-<td class="cuerpo_tabla_der">60,1308</td>
-<td class="cuerpo_tabla_der">150,327</td>
+<td>Mayor de 12 m.</td>
+<td>2,672479</td>
+<td>53,44958</td>
+<td>133,62395</td>
+<td>3,00654</td>
+<td>60,1308</td>
+<td>150,327</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Temporada baja</td>
+<td colspan="7">Temporada baja</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 10 m.</td>
-<td class="cuerpo_tabla_der">1,33624</td>
-<td class="cuerpo_tabla_der">8,01744</td>
-<td class="cuerpo_tabla_der">17,37112</td>
-<td class="cuerpo_tabla_der">1,670299</td>
-<td class="cuerpo_tabla_der">10,021794</td>
-<td class="cuerpo_tabla_der">21,713887</td>
+<td>Hasta 10 m.</td>
+<td>1,33624</td>
+<td>8,01744</td>
+<td>17,37112</td>
+<td>1,670299</td>
+<td>10,021794</td>
+<td>21,713887</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entre 10 y 12 m.</td>
-<td class="cuerpo_tabla_der">2,004359</td>
-<td class="cuerpo_tabla_der">20,04359</td>
-<td class="cuerpo_tabla_der">42,091539</td>
-<td class="cuerpo_tabla_der">2,338419</td>
-<td class="cuerpo_tabla_der">23,38419</td>
-<td class="cuerpo_tabla_der">49,106799</td>
+<td>Entre 10 y 12 m.</td>
+<td>2,004359</td>
+<td>20,04359</td>
+<td>42,091539</td>
+<td>2,338419</td>
+<td>23,38419</td>
+<td>49,106799</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mayor de 12 m.</td>
-<td class="cuerpo_tabla_der">2,672479</td>
-<td class="cuerpo_tabla_der">34,742227</td>
-<td class="cuerpo_tabla_der">74,829412</td>
-<td class="cuerpo_tabla_der">3,00654</td>
-<td class="cuerpo_tabla_der">39,08502</td>
-<td class="cuerpo_tabla_der">84,18312</td>
+<td>Mayor de 12 m.</td>
+<td>2,672479</td>
+<td>34,742227</td>
+<td>74,829412</td>
+<td>3,00654</td>
+<td>39,08502</td>
+<td>84,18312</td>
 </tr>
 </tbody>
 </table>
 
 B) Suministros de agua y electricidad en atraques y amarres:
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Esloras</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla" colspan="2">Agua</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla" colspan="2">Electricidad</th>
-<th class="cabeza_tabla"> </th>
+<th rowspan="2">Esloras</th>
+<th> </th>
+<th colspan="2">Agua</th>
+<th> </th>
+<th> </th>
+<th colspan="2">Electricidad</th>
+<th> </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Euros/Día</th>
-<th class="cabeza_tabla">Euros/Mes</th>
-<th class="cabeza_tabla">Euros/Trimestre</th>
-<th class="cabeza_tabla">Euros/Anual</th>
-<th class="cabeza_tabla">Euros/Día</th>
-<th class="cabeza_tabla">Euros/Mes</th>
-<th class="cabeza_tabla">Euros/Trimestre</th>
-<th class="cabeza_tabla">Euros/Anual</th>
+<th>Euros/Día</th>
+<th>Euros/Mes</th>
+<th>Euros/Trimestre</th>
+<th>Euros/Anual</th>
+<th>Euros/Día</th>
+<th>Euros/Mes</th>
+<th>Euros/Trimestre</th>
+<th>Euros/Anual</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="9">Temporada ordinaria</td>
+<td colspan="9">Temporada ordinaria</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entre 10 y 12 m.</td>
-<td class="cuerpo_tabla_der">0,260221</td>
-<td class="cuerpo_tabla_der">2,602219</td>
-<td class="cuerpo_tabla_der">6,505548</td>
-<td class="cuerpo_tabla_der">22,899448</td>
-<td class="cuerpo_tabla_der">0,325277</td>
-<td class="cuerpo_tabla_der">3,252774</td>
-<td class="cuerpo_tabla_der">8,131935</td>
-<td class="cuerpo_tabla_der">28,624376</td>
+<td>Entre 10 y 12 m.</td>
+<td>0,260221</td>
+<td>2,602219</td>
+<td>6,505548</td>
+<td>22,899448</td>
+<td>0,325277</td>
+<td>3,252774</td>
+<td>8,131935</td>
+<td>28,624376</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 10 m.</td>
-<td class="cuerpo_tabla_der">0,487915</td>
-<td class="cuerpo_tabla_der">7,318742</td>
-<td class="cuerpo_tabla_der">18,540812</td>
-<td class="cuerpo_tabla_der">68,3081</td>
-<td class="cuerpo_tabla_der">0,813193</td>
-<td class="cuerpo_tabla_der">12,197904</td>
-<td class="cuerpo_tabla_der">30,901355</td>
-<td class="cuerpo_tabla_der">113,84702</td>
+<td>Hasta 10 m.</td>
+<td>0,487915</td>
+<td>7,318742</td>
+<td>18,540812</td>
+<td>68,3081</td>
+<td>0,813193</td>
+<td>12,197904</td>
+<td>30,901355</td>
+<td>113,84702</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mayor de 12 m.</td>
-<td class="cuerpo_tabla_der">0,975832</td>
-<td class="cuerpo_tabla_der">19,51664</td>
-<td class="cuerpo_tabla_der">48,791613</td>
-<td class="cuerpo_tabla_der">179,553088</td>
-<td class="cuerpo_tabla_der">1,398693</td>
-<td class="cuerpo_tabla_der">27,973857</td>
-<td class="cuerpo_tabla_der">69,934645</td>
-<td class="cuerpo_tabla_der">257,35951</td>
+<td>Mayor de 12 m.</td>
+<td>0,975832</td>
+<td>19,51664</td>
+<td>48,791613</td>
+<td>179,553088</td>
+<td>1,398693</td>
+<td>27,973857</td>
+<td>69,934645</td>
+<td>257,35951</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="9">Temporada baja</td>
+<td colspan="9">Temporada baja</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 10 m.</td>
-<td class="cuerpo_tabla_der">0,260221</td>
-<td class="cuerpo_tabla_der">1,561332</td>
-<td class="cuerpo_tabla_der">3,382884</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">0,325277</td>
-<td class="cuerpo_tabla_der">1,951665</td>
-<td class="cuerpo_tabla_der">4,228607</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Hasta 10 m.</td>
+<td>0,260221</td>
+<td>1,561332</td>
+<td>3,382884</td>
+<td> </td>
+<td>0,325277</td>
+<td>1,951665</td>
+<td>4,228607</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entre 10 y 12 m.</td>
-<td class="cuerpo_tabla_der">0,487915</td>
-<td class="cuerpo_tabla_der">4,879162</td>
-<td class="cuerpo_tabla_der">10,246239</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">0,813193</td>
-<td class="cuerpo_tabla_der">8,131935</td>
-<td class="cuerpo_tabla_der">17,077064</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Entre 10 y 12 m.</td>
+<td>0,487915</td>
+<td>4,879162</td>
+<td>10,246239</td>
+<td> </td>
+<td>0,813193</td>
+<td>8,131935</td>
+<td>17,077064</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mayor de 12 m.</td>
-<td class="cuerpo_tabla_der">0,975832</td>
-<td class="cuerpo_tabla_der">12,68582</td>
-<td class="cuerpo_tabla_der">27,323302</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1,398693</td>
-<td class="cuerpo_tabla_der">18,183008</td>
-<td class="cuerpo_tabla_der">39,163402</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Mayor de 12 m.</td>
+<td>0,975832</td>
+<td>12,68582</td>
+<td>27,323302</td>
+<td> </td>
+<td>1,398693</td>
+<td>18,183008</td>
+<td>39,163402</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2450,51 +2446,51 @@ IV. Tarifas y normas de aplicación.
 
 La tasa se exigirá en función de la modalidad de actuación administrativa conforme a lo dispuesto en el siguiente cuadro de tarifas:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Modalidad de servicio administrativo</th>
-<th class="cabeza_tabla">Euros</th>
+<th>Modalidad de servicio administrativo</th>
+<th>Euros</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="1" rowspan="2">Tramitación de expedientes de autorizaciones, concesiones y licencias.</td>
-<td class="cuerpo_tabla_izq">
+<td rowspan="2">Tramitación de expedientes de autorizaciones, concesiones y licencias.</td>
+<td>
 <p>Autorización o licencia: 50 euros.</p>
 <p>Concesión: 150 euros.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="1" rowspan="2">0,0025 % del importe del Presupuesto de ejecución material de las obras.</td>
+<td rowspan="2">0,0025 % del importe del Presupuesto de ejecución material de las obras.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Supervisión de proyectos en expedientes de concesiones y/o autorizaciones.</td>
+<td>Supervisión de proyectos en expedientes de concesiones y/o autorizaciones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Compulsas.</td>
-<td class="cuerpo_tabla_izq">1,00 euro por documento, más 0,15 euros por cada página adicional a las 10 primeras.</td>
+<td>Compulsas.</td>
+<td>1,00 euro por documento, más 0,15 euros por cada página adicional a las 10 primeras.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Emisión de certificaciones.</td>
-<td class="cuerpo_tabla_izq">9,03 euros por cada certificación.</td>
+<td>Emisión de certificaciones.</td>
+<td>9,03 euros por cada certificación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Inspecciones.</td>
-<td class="cuerpo_tabla_izq">200 euros por jornada de inspector, más el coste efectivo de los medios materiales incrementado en un 20 %.</td>
+<td>Inspecciones.</td>
+<td>200 euros por jornada de inspector, más el coste efectivo de los medios materiales incrementado en un 20 %.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="1" rowspan="4">Registro de Usos del Dominio Público Portuario Inscripción inicial (por elemento susceptible de cesión): 150 euros.</td>
-<td class="cuerpo_tabla_izq">Inscripción de modificación de elemento inscrito: 60 euros.</td>
+<td rowspan="4">Registro de Usos del Dominio Público Portuario Inscripción inicial (por elemento susceptible de cesión): 150 euros.</td>
+<td>Inscripción de modificación de elemento inscrito: 60 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Inscripción de transmisión: 50 euros.</td>
+<td>Inscripción de transmisión: 50 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Expedición de nota simple de la inscripción: 20 euros.</td>
+<td>Expedición de nota simple de la inscripción: 20 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Expedición de certificación completa: 30 euros.</td>
+<td>Expedición de certificación completa: 30 euros.</td>
 </tr>
 </tbody>
 </table>
@@ -2681,72 +2677,68 @@ b) O el ejercicio de la actividad habitacional, residencial y hotelera, y sus se
 
 La cuota de la tasa será el resultado de aplicar a la superficie ocupada, medida en metros cuadrados, la tarifa que corresponda en función de la actividad desarrollada y el mayor o menor espacio ocupado, en relación con el tiempo de ocupación, determinado en días o fracción, conforme a la siguiente tarifa:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tipo de actividad/superficie ocupada</th>
-<th class="cabeza_tabla">Euros/m<sup>2</sup>/día o fracción <sup>1</sup></th>
+<th>Tipo de actividad/superficie ocupada</th>
+<th>Euros/m<sup>2</sup>/día o fracción <sup>1</sup></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Actividades a que se refiere el artículo 16.1.e).</p>
-<p class="cuerpo_tabla_izq">Superficie superior a 1.500 m<sup>2</sup> y hasta 5.000 m<sup>2</sup>.</p>
+<td>
+<p>Actividades a que se refiere el artículo 16.1.e).</p>
+<p>Superficie superior a 1.500 m<sup>2</sup> y hasta 5.000 m<sup>2</sup>.</p>
 </td>
-<td class="cuerpo_tabla_coma">0,041918</td>
+<td>0,041918</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Actividades a que se refiere el artículo 16.1.e).</p>
-<p class="cuerpo_tabla_izq">Superficie superior a 5.000 m<sup>2</sup> y hasta 10.000 m<sup>2</sup>.</p>
+<td>
+<p>Actividades a que se refiere el artículo 16.1.e).</p>
+<p>Superficie superior a 5.000 m<sup>2</sup> y hasta 10.000 m<sup>2</sup>.</p>
 </td>
-<td class="cuerpo_tabla_coma">0,036328</td>
+<td>0,036328</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Actividades a que se refiere el artículo 16.1.e).</p>
-<p class="cuerpo_tabla_izq">Superficie superior a 10.000 m<sup>2 </sup>y hasta 20.000 m<sup>2</sup>.</p>
+<td>
+<p>Actividades a que se refiere el artículo 16.1.e).</p>
+<p>Superficie superior a 10.000 m<sup>2 </sup>y hasta 20.000 m<sup>2</sup>.</p>
 </td>
-<td class="cuerpo_tabla_coma">0,027945</td>
+<td>0,027945</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Actividades a que se refiere el artículo 16.1.e).</p>
-<p class="cuerpo_tabla_izq">Superficie superior a 20.000 m<sup>2</sup>.</p>
+<td>
+<p>Actividades a que se refiere el artículo 16.1.e).</p>
+<p>Superficie superior a 20.000 m<sup>2</sup>.</p>
 </td>
-<td class="cuerpo_tabla_coma">0,019562</td>
+<td>0,019562</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Habitacional, residencial y hotelero.</p>
-<p class="cuerpo_tabla_izq">Superficie superior a 1.500 m<sup>2</sup> hasta 6.000 m<sup>2</sup>.</p>
+<td>
+<p>Habitacional, residencial y hotelero.</p>
+<p>Superficie superior a 1.500 m<sup>2</sup> hasta 6.000 m<sup>2</sup>.</p>
 </td>
-<td class="cuerpo_tabla_coma">0,083835</td>
+<td>0,083835</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Habitacional, residencial y hotelero.</p>
-<p class="cuerpo_tabla_izq">Superficie superior a 6.000 m<sup>2</sup> y hasta 10.000 m<sup>2</sup>.</p>
+<td>
+<p>Habitacional, residencial y hotelero.</p>
+<p>Superficie superior a 6.000 m<sup>2</sup> y hasta 10.000 m<sup>2</sup>.</p>
 </td>
-<td class="cuerpo_tabla_coma">0,055890</td>
+<td>0,055890</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Habitacional residencial y hotelero.</p>
-<p class="cuerpo_tabla_izq">Superficie superior a 10.000 m<sup>2</sup>.</p>
+<td>
+<p>Habitacional residencial y hotelero.</p>
+<p>Superficie superior a 10.000 m<sup>2</sup>.</p>
 </td>
-<td class="cuerpo_tabla_coma">0,033534</td>
+<td>0,033534</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita"><sup>1</sup> Importes actualizados a 2024.</p>
+<p><sup>1</sup> Importes actualizados a 2024.</p>
 </td>
 </tr>
 </tfoot>

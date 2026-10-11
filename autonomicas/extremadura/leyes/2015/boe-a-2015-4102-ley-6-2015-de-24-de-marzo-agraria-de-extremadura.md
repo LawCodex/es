@@ -1582,12 +1582,6 @@ Todo propietario de terrenos que se encuentren incluidos dentro de Zonas Regable
 
 2\. Excepcionalmente, podrá autorizarse el cambio de destino de terrenos que se encuentren dentro de las zonas regables referidas en el apartado anterior, mediante su adscripción a las categorías de suelo urbano o urbanizable, previo informe vinculante en lo referido a posibles afecciones a las zonas de regadío del órgano que ostente las competencias en materia de regadíos, que deberá emitirse en el plazo máximo de tres meses, en el que se considere acreditada la concurrencia del supuesto contemplado en la letra b) del artículo 121. En caso de ser desfavorable, el informe expresará motivadamente las cuestiones respecto de las cuales dicho carácter desfavorable resulta vinculante.
 
-> Téngase en cuenta que la actualización del apartado 2 establecida por el art. 8.1 de la Ley 2/2018, de 14 de febrero. [Ref. BOE-A-2018-3001](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3001) entra en vigor el 18 de mayo de 2018, según determina su disposición final 1.
-
-> Redacción anterior:
-
-> "2. El cambio de destino de terrenos que se encuentren dentro de las Zonas Regables referidas en el apartado anterior, mediante su adscripción a las categorías de suelo urbano o urbanizable, requerirá en todo caso el previo informe favorable del órgano que ostente las competencias en materia de regadíos."
-
 > Se modifica el apartado 2 por el art. 8.1 de la Ley 2/2018, de 14 de febrero. [Ref. BOE-A-2018-3001](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3001)
 
 > Esta modificación entra en vigor el 16 de mayo de 2018, según establece la disposición final 1 de la citada ley.
@@ -2382,12 +2376,6 @@ Tras el deslinde se procederá siempre al amojonamiento de los bienes deslindado
 
 3\. La modificación de la red de caminos con causa en la ejecución de una ordenación territorial y urbanística deberá garantizar el trazado alternativo propuesto en las mismas condiciones de utilización, para lo que será preceptivo el informe favorable de la Administración titular del camino de que se trate. Dicho informe tendrá carácter vinculante en lo referido a posibles afecciones a la red de caminos de Extremadura, y deberá ser emitido en el plazo de tres meses; transcurrido este, se entenderá favorable. En caso de ser desfavorable, el informe expresará motivadamente las cuestiones respecto de las cuales dicho carácter desfavorable resulta vinculante.
 
-> Téngase en cuenta que la actualización del apartado 3 establecida por el art. 8.2 de la Ley 2/2018, de 14 de febrero. [Ref. BOE-A-2018-3001](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3001) entra en vigor el 18 de mayo de 2018, según determina su disposición final 1.
-
-> Redacción anterior:
-
-> "3. La modificación de la red de caminos con causa en la ejecución de una ordenación territorial y urbanística deberá garantizar el trazado alternativo propuesto en las mismas condiciones de utilización, para lo que será preceptivo el informe favorable de la Administración titular del camino de que se trate."
-
 4\. Los Ayuntamientos, Diputaciones y la Administración autonómica podrán establecer acuerdos y convenios de colaboración en orden a la mejora y mantenimiento de la red de caminos rurales públicos de la Región, tanto en sus aspectos técnicos como financieros.
 
 > Se modifica el apartado 3 por el art. 8.2 de la Ley 2/2018, de 14 de febrero. [Ref. BOE-A-2018-3001](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3001)
@@ -2865,14 +2853,6 @@ b) El expediente de modificación de trazado se publicará en el Diario Oficial 
 1\. Las ordenaciones territoriales y urbanísticas deberán respetar la naturaleza jurídica, la integridad y la continuidad de las vías pecuarias que discurran por el territorio objeto de ordenación, y garantizar el tránsito ganadero y los usos compatibles y complementarios con este, calificando dichos terrenos como suelo no urbanizable de especial protección.
 
 Estos proyectos y planes incluirán necesariamente una relación de las vías pecuarias afectadas según certificaciones expedidas por la consejería competente en la materia, previa solicitud del organismo, entidad o persona física o jurídica promotora. Dichas certificaciones deberán ser expedidas en el plazo de tres meses; transcurrido este, se podrá continuar el procedimiento de aprobación de tales proyectos y planes.
-
-> Téngase en cuenta que la actualización del apartado 1 establecida por el art. 8.3 de la Ley 2/2018, de 14 de febrero. [Ref. BOE-A-2018-3001](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3001) entra en vigor el 18 de mayo de 2018, según determina su disposición final 1.
-
-> Redacción anterior:
-
-> "1. Las Ordenaciones Territoriales y Urbanísticas, deberán respetar la naturaleza jurídica, la integridad y la continuidad de las vías pecuarias que discurran por el territorio objeto de ordenación, y garantizar el tránsito ganadero y los usos compatibles y complementarios con éste, calificando dichos terrenos como suelo no urbanizable de especial protección.
-
-> Estos Proyectos y Planes incluirán necesariamente, una relación de las vías pecuarias afectadas según certificaciones expedidas por la Consejería competente en la materia, previa solicitud del Organismo, entidad o persona física o jurídica promotora."
 
 2\. En ningún caso los terrenos de dominio público entrarán a formar parte de la agrupación de interés urbanístico.
 
@@ -4952,16 +4932,6 @@ A tal efecto, siempre que no afecte a suelo ya declarado urbanizable o que se af
 
 En todo caso, de acuerdo con la legislación básica forestal, cuando los instrumentos de ordenación territorial y urbanística afecten a la calificación o régimen de usos de montes o terrenos forestales requerirán informe preceptivo de la Administración forestal competente, que tendrá carácter vinculante en lo referido a posibles afecciones al ámbito forestal, cuando se trate de montes catalogados o protectores. Dicho informe deberá ser emitido en el plazo de tres meses; transcurrido este, se entenderá favorable. En caso de ser desfavorable, el informe expresará motivadamente las cuestiones respecto de las cuales dicho carácter desfavorable resulta vinculante.
 
-> Téngase en cuenta que la actualización del apartado 1 establecida por el art. 8.4 de la Ley 2/2018, de 14 de febrero. [Ref. BOE-A-2018-3001](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3001) entra en vigor el 18 de mayo de 2018, según determina su disposición final 1.
-
-> Redacción anterior:
-
-> "1. Las Administraciones competentes en materia de ordenación territorial y urbanística adoptarán las medidas necesarias para dotar de la adecuada protección urbanística a los montes o terrenos forestales, especialmente los incluidos en el Catálogo de Montes de Utilidad Pública o en el Registro de Montes Protectores de Extremadura, al objeto de disponer un régimen de usos y actividades compatible con los usos forestales propios de los montes para la autorización de infraestructuras, instalaciones, construcciones o edificaciones.
-
-> A tal efecto, siempre que no afecte a suelo ya declarado urbanizable o que se afecte legalmente a ese uso, tendrán la calificación de suelo no urbanizable de especial protección forestal e hidrológica los montes catalogados de utilidad pública o declarados montes protectores, así como los que en los planes de ordenación de los recursos forestales se declaren o delimiten como tales por su carácter protector o su especial valor forestal o de interés socioeconómico, y tendrán tal consideración aunque se trate de terrenos que hayan recibido simplemente la calificación de suelo no urbanizable en el planeamiento municipal aprobado definitivamente con anterioridad a la entrada en vigor de la presente ley.
-
-> En todo caso, de acuerdo con la legislación básica forestal, cuando los instrumentos de ordenación territorial y urbanística afecten a la calificación o régimen de usos de montes o terrenos forestales requerirán informe preceptivo de la Administración forestal competente, que tendrá carácter vinculante cuando se trate de montes catalogados o protectores."
-
 2\. Cualquier inclusión, modificación o exclusión del Catálogo de un monte será comunicada al Ayuntamiento del término municipal afectado, salvo que ya se le hubiera comunicado por ostentar la condición de interesado en el procedimiento.
 
 > Se modifica el apartado 1 por el art. 8.4 de la Ley 2/2018, de 14 de febrero. [Ref. BOE-A-2018-3001](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3001)
@@ -5029,12 +4999,6 @@ c) Constitución de una sociedad cooperativa agroalimentaria o de una sociedad d
 
 También podrán obtener el reconocimiento de entidades agroalimentarias prioritarias de Extremadura, las sociedades cooperativas agroalimentarias y las sociedades agrarias de transformación inscritas en el Registro correspondiente y cumplan los requisitos establecidos en el apartado Dos de esta disposición.
 
-> Téngase en cuenta que ésta última modificación del último párrafo del apartado 3 del punto Uno establecida por la disposición final 5 de la Ley 9/2018, de 30 de octubre. [Ref. BOE-A-2018-16345](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16345), entra en vigor el 2 de enero de 2019.
-
-> Redacción anterior:
-
-> "También podrán obtener el reconocimiento de entidades agroalimentarias prioritarias de Extremadura, las sociedades cooperativas agroalimentarias inscritas en el Registro de Sociedades Cooperativas de Extremadura con anterioridad a la entrada en vigor de esta ley y cumplan los requisitos establecidos en el apartado Dos de esta disposición."
-
 4\. A solicitud de la entidad interesada, la Consejería competente en materia de sociedades cooperativas procederá al reconocimiento de la entidad agroalimentaria prioritaria de Extremadura, conforme al procedimiento que se establezca reglamentariamente. De igual modo, se determinará la forma y condiciones en que se deba acreditar el mantenimiento de los requisitos y las consecuencias de su pérdida.
 
 Dos. Requisitos para el reconocimiento como entidad agroalimentaria prioritaria de Extremadura.
@@ -5065,21 +5029,9 @@ Las previsiones para el control democrático en su funcionamiento, en la toma de
 
 La entidad resultante debe llevar a cabo la comercialización conjunta de la totalidad de la producción comprometida por las entidades y los productores que la componen.
 
-> Téngase en cuenta que ésta última modificación del último párrafo del apartado Dos, establecida por la disposición final 5 de la Ley 9/2018, de 30 de octubre. [Ref. BOE-A-2018-16345](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16345), entra en vigor el 2 de enero de 2019.
-
-> Redacción anterior:
-
-> "La entidad resultante debe llevar a cabo la comercialización conjunta de la totalidad de la producción de las entidades y los productores que la componen."
-
 La facturación de la entidad o la suma de las facturaciones de las entidades que la componen, referida al importe neto de la cifra de negocios considerando cualquiera de los tres últimos ejercicios, debe alcanzar los volúmenes de facturación mínimos que se establezcan en el decreto que regule el procedimiento para el reconocimiento de la distinción como entidad agroalimentaria prioritaria de Extremadura.
 
 Se debe hacer constar expresamente en los estatutos correspondientes a las distintas sociedades que componen la entidad resultante, así como en los de la propia entidad resultante, la obligación de los socios de entregar la totalidad de la producción comprometida con su sociedad para su comercialización en común.
-
-> Téngase en cuenta que ésta última modificación del último párrafo del apartado Dos, establecida por la disposición final 5 de la Ley 9/2018, de 30 de octubre. [Ref. BOE-A-2018-16345](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16345), entra en vigor el 2 de enero de 2019.
-
-> Redacción anterior:
-
-> "Se debe hacer constar expresamente en los estatutos correspondientes a las distintas sociedades que componen la entidad resultante, así como en los de la propia entidad resultante, la obligación de los socios cooperativistas de entregar la totalidad de la producción comprometida con su sociedad, que debe estar constituida por el 100% de la producción total del socio, para su comercialización en común."
 
 Tres. Registro de entidades agroalimentarias prioritarias de Extremadura.
 

@@ -592,252 +592,246 @@ ISABEL GARCÍA TEJERINA
 
 (Baremo + coeficiente corrector) x GT
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-<col class="row_column_4">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_5">
+<tr>
 <td colspan="3">
-<p class="cabeza_tabla">Segmento de flota</p>
+<p>Segmento de flota</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Importe máximo de la prima en euros</p>
-<p class="cabeza_tabla">(Valor histórico del casco**)</p>
+<p>Importe máximo de la prima en euros</p>
+<p>(Valor histórico del casco**)</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cabeza_tabla">Caladero</p>
+<p>Caladero</p>
 </td>
 <td>
-<p class="cabeza_tabla">Categoría de buque por eslora* (metros)</p>
+<p>Categoría de buque por eslora* (metros)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Arte de pesca</p>
+<p>Arte de pesca</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_7">
+<tr>
 <td rowspan="25">
-<p class="cuerpo_tabla_izq">Todos los caladeros</p>
+<p>Todos los caladeros</p>
 </td>
 <td rowspan="7">
-<p class="cuerpo_tabla_centro">&lt;12</p>
+<p>&lt;12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anzuelos.</p>
+<p>Anzuelos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(7.560,96 + 5.416,03)xGT</p>
+<p>(7.560,96 + 5.416,03)xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Arrastre de fondo.</p>
+<p>Arrastre de fondo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(4.603,09 + 5.416,03)xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Artes fijas polivalentes.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(6.777,17 + 5.416,03)xGT</p>
+<p>(4.603,09 + 5.416,03)xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cerqueros.</p>
+<p>Artes fijas polivalentes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(3.360,84 + 5.416,03)xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Nasas y artes de trampa.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(4.461,38 + 5.416,03)xGT</p>
+<p>(6.777,17 + 5.416,03)xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Rastreros.</p>
+<p>Cerqueros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(7.407,61 + 5.416,03)xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Redes de enmalle.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(5.545,75 + 5.416,03)xGT</p>
+<p>(3.360,84 + 5.416,03)xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
+<td>
+<p>Nasas y artes de trampa.</p>
+</td>
+<td>
+<p>(4.461,38 + 5.416,03)xGT</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rastreros.</p>
+</td>
+<td>
+<p>(7.407,61 + 5.416,03)xGT</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redes de enmalle.</p>
+</td>
+<td>
+<p>(5.545,75 + 5.416,03)xGT</p>
+</td>
+</tr>
+<tr>
 <td rowspan="7">
-<p class="cuerpo_tabla_centro">≥12 &lt;18</p>
+<p>≥12 &lt;18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anzuelos.</p>
+<p>Anzuelos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(7.355,77 + 1.327,94)xGT</p>
+<p>(7.355,77 + 1.327,94)xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Arrastre de fondo.</p>
+<p>Arrastre de fondo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(4.693,21 + 1.327,94)xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Artes fijas polivalentes.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(4.868,81 + 1.327,94)xGT</p>
+<p>(4.693,21 + 1.327,94)xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cerqueros.</p>
+<p>Artes fijas polivalentes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(4.166,1 + 1.327,94)xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Nasas y artes de trampa.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(3.394,3 + 1.327,94)xGT</p>
+<p>(4.868,81 + 1.327,94)xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Rastreros.</p>
+<p>Cerqueros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(6.956,39 + 1.327,94)xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Redes de enmalle.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(4.401,61 + 1.327,94)xGT</p>
+<p>(4.166,1 + 1.327,94)xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
+<td>
+<p>Nasas y artes de trampa.</p>
+</td>
+<td>
+<p>(3.394,3 + 1.327,94)xGT</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rastreros.</p>
+</td>
+<td>
+<p>(6.956,39 + 1.327,94)xGT</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redes de enmalle.</p>
+</td>
+<td>
+<p>(4.401,61 + 1.327,94)xGT</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≥18 &lt;24</p>
+<p>≥18 &lt;24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anzuelos.</p>
+<p>Anzuelos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.530,27xGT</p>
+<p>3.530,27xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Arrastre de fondo.</p>
+<p>Arrastre de fondo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.590,91xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Cerqueros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.154,28xGT</p>
+<p>3.590,91xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Redes de enmalle.</p>
+<p>Cerqueros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.381,34xGT</p>
+<p>4.154,28xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
+<td>
+<p>Redes de enmalle.</p>
+</td>
+<td>
+<p>2.381,34xGT</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≥24 &lt;40</p>
+<p>≥24 &lt;40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anzuelos.</p>
+<p>Anzuelos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.893,87xGT</p>
+<p>2.893,87xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Arrastre de fondo.</p>
+<p>Arrastre de fondo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.467,11xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Cerqueros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5.092,53xGT</p>
+<p>3.467,11xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Redes de enmalle.</p>
+<p>Cerqueros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.188,64xGT</p>
+<p>5.092,53xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
+<td>
+<p>Redes de enmalle.</p>
+</td>
+<td>
+<p>2.188,64xGT</p>
+</td>
+</tr>
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">≥40</p>
+<p>≥40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anzuelos.</p>
+<p>Anzuelos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.351,71xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Arrastre de fondo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.985,66xGT</p>
+<p>2.351,71xGT</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cerqueros.</p>
+<p>Arrastre de fondo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.712,12xGT</p>
+<p>1.985,66xGT</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cerqueros.</p>
+</td>
+<td>
+<p>2.712,12xGT</p>
 </td>
 </tr>
 </tbody>
@@ -855,252 +849,246 @@ Estos importes se aplicarán para los buques que se encuentren en un segmento en
 
 ## ANEXO II — Importe máximo de la prima. Acondicionamiento del buque para actividades distintas de la pesca comercial
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_9">
-<col class="row_column_10">
-<col class="row_column_11">
-<col class="row_column_12">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_5">
+<tr>
 <td colspan="3">
-<p class="cabeza_tabla">Segmento de flota</p>
+<p>Segmento de flota</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Importe máximo de la prima en euros</p>
-<p class="cabeza_tabla">(Valor histórico del buque)</p>
+<p>Importe máximo de la prima en euros</p>
+<p>(Valor histórico del buque)</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cabeza_tabla">Caladero</p>
+<p>Caladero</p>
 </td>
 <td>
-<p class="cabeza_tabla">Categoría de buque por eslora* (metros)</p>
+<p>Categoría de buque por eslora* (metros)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Arte de pesca</p>
+<p>Arte de pesca</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_7">
+<tr>
 <td rowspan="25">
-<p class="cuerpo_tabla_izq">Todos los caladeros</p>
+<p>Todos los caladeros</p>
 </td>
 <td rowspan="7">
-<p class="cuerpo_tabla_centro">&lt;12</p>
+<p>&lt;12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anzuelos.</p>
+<p>Anzuelos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15.113,26xGT</p>
+<p>15.113,26xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Arrastre de fondo.</p>
+<p>Arrastre de fondo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9.651,54xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Artes fijas polivalentes.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">14.121,02xGT</p>
+<p>9.651,54xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cerqueros.</p>
+<p>Artes fijas polivalentes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.856,17xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Nasas y artes de trampa.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9.011,48xGT</p>
+<p>14.121,02xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Rastreros.</p>
+<p>Cerqueros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16.040,32xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Redes de enmalle.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">11.258,2xGT</p>
+<p>6.856,17xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
+<td>
+<p>Nasas y artes de trampa.</p>
+</td>
+<td>
+<p>9.011,48xGT</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rastreros.</p>
+</td>
+<td>
+<p>16.040,32xGT</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redes de enmalle.</p>
+</td>
+<td>
+<p>11.258,2xGT</p>
+</td>
+</tr>
+<tr>
 <td rowspan="7">
-<p class="cuerpo_tabla_centro">≥12 &lt;18</p>
+<p>≥12 &lt;18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anzuelos.</p>
+<p>Anzuelos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14.531,63xGT</p>
+<p>14.531,63xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Arrastre de fondo.</p>
+<p>Arrastre de fondo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9.363,34xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Artes fijas polivalentes.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10.011,6xGT</p>
+<p>9.363,34xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cerqueros.</p>
+<p>Artes fijas polivalentes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8.591,88xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Nasas y artes de trampa.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.799,57xGT</p>
+<p>10.011,6xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Rastreros.</p>
+<p>Cerqueros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13.527,87xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Redes de enmalle.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8.952,54xGT</p>
+<p>8.591,88xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
+<td>
+<p>Nasas y artes de trampa.</p>
+</td>
+<td>
+<p>6.799,57xGT</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rastreros.</p>
+</td>
+<td>
+<p>13.527,87xGT</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redes de enmalle.</p>
+</td>
+<td>
+<p>8.952,54xGT</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≥18 &lt;24</p>
+<p>≥18 &lt;24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anzuelos.</p>
+<p>Anzuelos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.913,84xGT</p>
+<p>6.913,84xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Arrastre de fondo.</p>
+<p>Arrastre de fondo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.088,16xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Cerqueros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8.392,14xGT</p>
+<p>7.088,16xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Redes de enmalle.</p>
+<p>Cerqueros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.670,72xGT</p>
+<p>8.392,14xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
+<td>
+<p>Redes de enmalle.</p>
+</td>
+<td>
+<p>4.670,72xGT</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≥24 &lt;40</p>
+<p>≥24 &lt;40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anzuelos.</p>
+<p>Anzuelos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5.686,5xGT</p>
+<p>5.686,5xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Arrastre de fondo.</p>
+<p>Arrastre de fondo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.734,7xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Cerqueros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9.790,58xGT</p>
+<p>6.734,7xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Redes de enmalle.</p>
+<p>Cerqueros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.590,78xGT</p>
+<p>9.790,58xGT</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
+<td>
+<p>Redes de enmalle.</p>
+</td>
+<td>
+<p>4.590,78xGT</p>
+</td>
+</tr>
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">≥40</p>
+<p>≥40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anzuelos.</p>
+<p>Anzuelos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.645,79xGT</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Arrastre de fondo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.158,34xGT</p>
+<p>4.645,79xGT</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cerqueros.</p>
+<p>Arrastre de fondo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5.610,56xGT</p>
+<p>4.158,34xGT</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cerqueros.</p>
+</td>
+<td>
+<p>5.610,56xGT</p>
 </td>
 </tr>
 </tbody>
@@ -1126,73 +1114,67 @@ La cuantía de la indemnización se calculará mediante la siguiente fórmula*:
 
 La cuantificación de las primas obedece a la siguiente tabla:
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="25%">
-<col width="25%">
-<col width="25%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Arte de pesca</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Prima coste fijo</p>
-<p class="cabeza_tabla">Importe/GT/día</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th colspan="2">Arte de pesca</th>
+<th>
+<p>Prima coste fijo</p>
+<p>Importe/GT/día</p>
+<p>–</p>
+<p>Euros</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Prima lucro cesante</p>
-<p class="cabeza_tabla">Importe/día/buque</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>
+<p>Prima lucro cesante</p>
+<p>Importe/día/buque</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Pesca artesanal (&lt;12 metros).</p>
+<td colspan="2">
+<p>Pesca artesanal (&lt;12 metros).</p>
 </td>
-<td class="cuerpo_tabla_coma">19,03</td>
-<td class="cuerpo_tabla_coma">25,18</td>
-</tr>
-<tr data-partir-fila="true">
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">Resto de flota (≥ 12 metros).</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">DFN Enmalle.</p>
-<p class="cuerpo_tabla_izq">DRB Rastras.</p>
-<p class="cuerpo_tabla_izq">FPO Nasas.</p>
-<p class="cuerpo_tabla_izq">PMP Polivalentes.</p>
-<p class="cuerpo_tabla_izq">PGP Fijos.</p>
-</td>
-<td class="cuerpo_tabla_coma">6,36</td>
-<td class="cuerpo_tabla_coma">26,42</td>
+<td>19,03</td>
+<td>25,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">HOK anzuelos.</td>
-<td class="cuerpo_tabla_coma">5,68</td>
-<td class="cuerpo_tabla_coma">69,19</td>
+<td rowspan="4">
+<p>Resto de flota (≥ 12 metros).</p>
+</td>
+<td>
+<p>DFN Enmalle.</p>
+<p>DRB Rastras.</p>
+<p>FPO Nasas.</p>
+<p>PMP Polivalentes.</p>
+<p>PGP Fijos.</p>
+</td>
+<td>6,36</td>
+<td>26,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DTS Arrastreros.</td>
-<td class="cuerpo_tabla_coma">6,11</td>
-<td class="cuerpo_tabla_coma">84,62</td>
+<td>HOK anzuelos.</td>
+<td>5,68</td>
+<td>69,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PS Cerqueros.</td>
-<td class="cuerpo_tabla_coma">7,44</td>
-<td class="cuerpo_tabla_coma">157,57</td>
+<td>DTS Arrastreros.</td>
+<td>6,11</td>
+<td>84,62</td>
+</tr>
+<tr>
+<td>PS Cerqueros.</td>
+<td>7,44</td>
+<td>157,57</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">* Importe mínimo a percibir: 125,43 euros por día.</p>
-<p class="cita">Importe máximo a percibir: 2.000 euros por día.</p>
+<p>* Importe mínimo a percibir: 125,43 euros por día.</p>
+<p>Importe máximo a percibir: 2.000 euros por día.</p>
 </td>
 </tr>
 </tfoot>

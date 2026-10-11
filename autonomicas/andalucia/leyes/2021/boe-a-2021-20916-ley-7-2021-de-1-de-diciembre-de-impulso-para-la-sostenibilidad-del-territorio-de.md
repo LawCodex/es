@@ -3598,14 +3598,6 @@ c) Disciplina urbanística:
 
 Podrán delimitarse actuaciones de transformación urbanística o actuaciones urbanísticas en suelo urbano aunque no se encuentre aprobado el Plan de Ordenación Urbana previsto en el artículo 66.
 
-> Téngase en cuenta que esta actualización del apartado 3, establecida por la disposición final 1 de la Ley 4/2025, de 15 de diciembre, [Ref. BOE-A-2026-422](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-422), entra en vigor el 23 de marzo de 2026, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "3. Las modificaciones de los instrumentos de planeamiento deberán ajustarse a los contenidos, disposiciones y procedimientos de esta Ley, no pudiendo delimitar actuaciones de transformaciones urbanísticas en suelo no urbanizable hasta que se proceda a su sustitución conforme a lo previsto en el párrafo anterior.
-
-> Podrán delimitarse actuaciones de transformación urbanística o actuaciones urbanísticas en suelo urbano aunque no se encuentre aprobado el Plan de Ordenación Urbana previsto en el artículo 66."
-
 4\. Los instrumentos de ordenación urbanística detallada de las actuaciones de transformación urbanística delimitadas en el planeamiento general vigente establecerán la reserva de suelo para dotaciones que se determinen en los mismos. Hasta que se produzca el desarrollo reglamentario de le Ley deberán cumplir como mínimo los estándares establecidos en el artículo 17 de la Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía.
 
 5\. Los instrumentos de ordenación urbanística se adaptarán a los planes de ordenación del territorio vigentes en el plazo que éstos hubieran establecido y, en todo caso, en el plazo máximo de cuatro años desde la entrada en vigor de esta Ley. El transcurso de este plazo sin que la referida adaptación se haya producido determinará la prevalencia de las determinaciones territoriales sobre el planeamiento urbanístico afectado.

@@ -160,8 +160,6 @@ aa) «Bienes pertinentes para crisis»: bienes pertinentes para crisis tal como 
 
 ab) «Modo de emergencia del mercado interior»: modo de emergencia del mercado interior tal como se define en el artículo 3, número 3, del Reglamento (UE) 2024/2747 del Parlamento Europeo y del Consejo, de 9 de octubre de 2024.
 
-> Téngase en cuenta que las letras aa) y ab), añadidas por el art. 7.1 del Real Decreto 302/2026, de 8 de abril, [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entran en vigor el 30 de mayo de 2026, según determina su disposición final 4.
-
 2\. A los efectos del presente real decreto, tendrán la consideración de aparato:
 
 1\. Los «componentes» o «subconjuntos» destinados a ser incorporados en un aparato por el usuario final, que puedan generar perturbaciones electromagnéticas, o cuyo funcionamiento pueda verse afectado por estas perturbaciones;
@@ -547,8 +545,6 @@ g) No se cumple cualquier otro requisito administrativo establecido en el artíc
 A los incumplimientos de lo dispuesto en el presente real decreto les será de aplicación el régimen de infracciones y sanciones establecido en el título V de la Ley 21/1992, de 16 de julio, de Industria.
 
 ## CAPÍTULO VII — Procedimientos de emergencia
-
-> Téngase en cuenta que el Capítulo VII, con sus correspondientes arts. 35 a 37, añadidos por el art. 7.2 del Real Decreto 302/2026, de 8 de abril, [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entran en vigor el 30 de mayo de 2026, según establece su disposición final 4.
 
 > Se añade por el art. 7.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 

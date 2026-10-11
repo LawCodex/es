@@ -94,12 +94,6 @@ JORGE FERNÁNDEZ DÍAZ
 
 1\. Esta Ley tiene por objeto regular el tráfico, la circulación de todos los vehículos y la seguridad vial.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. único.1 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "1. Esta ley tiene por objeto regular el tráfico, la circulación de vehículos a motor y la seguridad vial."
-
 2\. A tal efecto regula:
 
 a) El ejercicio de las competencias que, de acuerdo con la Constitución Española y los estatutos de autonomía, corresponden en tales materias a la Administración General del Estado y a las comunidades autónomas que hayan recibido el traspaso de funciones y servicios en esta materia, así como la determinación de las que corresponden en todo caso a las entidades locales.
@@ -138,12 +132,6 @@ b) La previa homologación, en su caso, de los elementos de los vehículos, remo
 
 c) La aprobación de las normas básicas y mínimas para la programación de la educación vial para la movilidad segura y sostenible, en las distintas modalidades de la enseñanza, incluyendo la formación en conducción ciclista y en vehículos de movilidad personal.
 
-> Téngase en cuenta que esta actualización de la letra c), establecida por el art. único.2 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "c) La aprobación de las normas básicas y mínimas para la programación de la educación vial en las distintas modalidades de la enseñanza."
-
 d) La determinación del cuadro de las enfermedades y discapacidades que inhabilitan para conducir y los requisitos sanitarios mínimos para efectuar los reconocimientos para su detección, así como la inspección, control y, en su caso, suspensión o cierre de los establecimientos dedicados a esta actividad.
 
 e) La determinación de las drogas que puedan afectar a la conducción, así como de las pruebas para su detección y, en su caso, sus niveles máximos.
@@ -159,8 +147,6 @@ i) La regulación del transporte de personas y, especialmente, el transporte esc
 j) La regulación del transporte de mercancías, especialmente, el de mercancías peligrosas, perecederas y contenedores, de acuerdo con la reglamentación internacional, a los efectos relacionados con la seguridad vial.
 
 k) La regulación del vehículo automatizado, de conformidad con lo dispuesto en la ley.
-
-> Téngase en cuenta que la letra k), añadida por el art. único.2 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
 
 > Se modifica la letra c) y se añade la k), con efectos de 21 de marzo de 2022, por el art. único.2 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
@@ -306,16 +292,6 @@ g) Conocer e informar sobre la evolución de la siniestralidad vial en España.
 
 El conductor debe verificar que las placas de matrícula del vehículo no presentan obstáculos que impidan o dificulten su lectura e identificación.
 
-> Téngase en cuenta que esta actualización de los apartados 1 y 2, establecida por el art. único.4 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "1. El usuario de la vía está obligado a comportarse de forma que no entorpezca indebidamente la circulación, ni cause peligro, perjuicios o molestias innecesarias a las personas o daños a los bienes.
-
-> 2\. El conductor debe utilizar el vehículo con la diligencia, precaución y atención necesarias para evitar todo daño, propio o ajeno, cuidando de no poner en peligro, tanto a sí mismo como a los demás ocupantes del vehículo y al resto de usuarios de la vía.
-
-> El conductor debe verificar que las placas de matrícula del vehículo no presentan obstáculos que impidan o dificulten su lectura e identificación."
-
 3\. El titular y, en su caso, el arrendatario de un vehículo tiene el deber de actuar con la máxima diligencia para evitar los riesgos que conlleva su utilización, mantenerlo en las condiciones legal y reglamentariamente establecidas, someterlo a los reconocimientos e inspecciones que correspondan e impedir que sea conducido por quien nunca haya obtenido el permiso o la licencia de conducción correspondiente.
 
 > Se modifican los apartados 1 y 2, con efectos de 21 de marzo de 2022, por el art. único.4 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
@@ -339,8 +315,6 @@ b) Impedir que el vehículo sea conducido por quien nunca haya obtenido el permi
 ##### Artículo 11 bis. Obligaciones del titular de un sistema de conducción automatizado.
 
 El titular del sistema de conducción automatizado de un vehículo deberá comunicar al Registro de Vehículos del organismo autónomo Jefatura Central de Tráfico las capacidades o funcionalidades del sistema de conducción automatizada, así como su dominio de diseño operativo, en el momento de la matriculación, y con posterioridad, siempre que se produzca cualquier actualización del sistema a lo largo de la vida útil del vehículo.
-
-> Téngase en cuenta que este artículo, añadido por el art. único.5 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
 
 > Se añade, con efectos de 21 de marzo de 2022, por el art. único.5 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
@@ -386,18 +360,6 @@ Quedan exentos de dicha prohibición los agentes de la autoridad en el ejercicio
 
 Reglamentariamente se podrán establecer otras excepciones a las prohibiciones previstas en los párrafos anteriores, así como los dispositivos que se considera que disminuyen la atención a la conducción, conforme se produzcan los avances de la tecnología.
 
-> Téngase en cuenta que esta actualización del apartado 3, establecida por el art. único.6 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "3. Queda prohibido conducir utilizando cualquier tipo de casco de audio o auricular conectado a aparatos receptores o reproductores de sonido u otros dispositivos que disminuyan la atención permanente a la conducción, excepto durante la realización de las pruebas de aptitud en circuito abierto para la obtención del permiso de conducción en los términos que reglamentariamente se determine.
-
-> Se prohíbe la utilización durante la conducción de dispositivos de telefonía móvil, navegadores o cualquier otro medio o sistema de comunicación, excepto cuando el desarrollo de la comunicación tenga lugar sin emplear las manos ni usar cascos, auriculares o instrumentos similares.
-
-> Quedan exentos de dicha prohibición los agentes de la autoridad en el ejercicio de las funciones que tengan encomendadas.
-
-> Reglamentariamente se podrán establecer otras excepciones a las prohibiciones previstas en los párrafos anteriores, así como los dispositivos que se considera que disminuyen la atención a la conducción, conforme se produzcan los avances de la tecnología."
-
 4\. El conductor y los ocupantes de los vehículos están obligados a utilizar el cinturón de seguridad, cascos y demás elementos de protección y dispositivos de seguridad en las condiciones y con las excepciones que, en su caso, se determine reglamentariamente. Los conductores profesionales, cuando presten servicio público a terceros, no se considerarán responsables del incumplimiento de esta norma por parte de los ocupantes del vehículo.
 
 Por razones de seguridad vial, se podrá prohibir la ocupación de los asientos delanteros o traseros del vehículo por los menores en función de su edad o talla, en los términos que se determine reglamentariamente.
@@ -408,14 +370,6 @@ Por razones de seguridad vial, se podrá prohibir la ocupación de los asientos 
 
 Quedan excluidos de esta prohibición los mecanismos de aviso que informan de la posición de los sistemas de vigilancia del tráfico.
 
-> Téngase en cuenta que esta actualización del apartado 6, establecida por el art. único.6 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "6. Se prohíbe instalar o llevar en los vehículos inhibidores de radares o cinemómetros o cualesquiera otros instrumentos encaminados a eludir o a interferir en el correcto funcionamiento de los sistemas de vigilancia del tráfico, así como emitir o hacer señales con dicha finalidad. Asimismo se prohíbe utilizar mecanismos de detección de radares o cinemómetros.
-
-> Quedan excluidos de esta prohibición los mecanismos de aviso que informan de la posición de los sistemas de vigilancia del tráfico."
-
 > Se modifican los apartados 3 y 6, con efectos de 21 de marzo de 2022, por el art. único.6 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
 ##### Artículo 14. Bebidas alcohólicas y drogas.
@@ -423,14 +377,6 @@ Quedan excluidos de esta prohibición los mecanismos de aviso que informan de la
 1\. No puede circular por las vías objeto de esta Ley el conductor de cualquier vehículo con tasas de alcohol superiores a las que reglamentariamente se determine. En ningún caso el conductor menor de edad podrá circular por las vías con una tasa de alcohol en sangre superior a 0 gramos por litro o de alcohol en aire espirado superior a 0 miligramos por litro.
 
 Tampoco puede hacerlo el conductor de cualquier vehículo con presencia de drogas en el organismo, de las que se excluyen aquellas sustancias que se utilicen bajo prescripción facultativa y con una finalidad terapéutica, siempre que se esté en condiciones de utilizar el vehículo conforme a la obligación de diligencia, precaución y no distracción establecida en el artículo 10.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. único.7 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "1. No puede circular por las vías objeto de esta ley el conductor de cualquier vehículo con tasas de alcohol superiores a las que reglamentariamente se determine.
-
-> Tampoco puede hacerlo el conductor de cualquier vehículo con presencia de drogas en el organismo, de las que se excluyen aquellas sustancias que se utilicen bajo prescripción facultativa y con una finalidad terapéutica, siempre que se esté en condiciones de utilizar el vehículo conforme a la obligación de diligencia, precaución y no distracción establecida en el artículo 10."
 
 2\. El conductor de un vehículo está obligado a someterse a las pruebas para la detección de alcohol o de la presencia de drogas en el organismo, que se practicarán por los agentes de la autoridad encargados de la vigilancia del tráfico en el ejercicio de las funciones que tienen encomendadas. Igualmente quedan obligados los demás usuarios de la vía cuando se hallen implicados en un accidente de tráfico o hayan cometido una infracción conforme a lo tipificado en esta ley.
 
@@ -453,12 +399,6 @@ El personal sanitario está obligado, en todo caso, a dar cuenta del resultado d
 ##### Artículo 15. Sentido de la circulación.
 
 Como norma general y muy especialmente en las curvas y cambios de rasante de reducida visibilidad, el vehículo circulará en todas las vías objeto de esta Ley por la derecha y lo más cerca posible del borde de la calzada, con las excepciones que reglamentariamente se determinen, manteniendo en todo caso la separación lateral suficiente para realizar el cruce con seguridad.
-
-> Téngase en cuenta que esta actualización, establecida por el art. único.8 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "Como norma general y muy especialmente en las curvas y cambios de rasante de reducida visibilidad, el vehículo circulará en todas las vías objeto de esta ley por la derecha y lo más cerca posible del borde de la calzada, manteniendo la separación lateral suficiente para realizar el cruce con seguridad."
 
 > Se modifica, con efectos de 21 de marzo de 2022, por el art. único.8 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
@@ -502,12 +442,6 @@ Cuando en la vía existan refugios, isletas o dispositivos de guía, se circular
 
 No obstante lo dispuesto en el párrafo anterior, los conductores de bicicletas podrán circular por los arcenes de las autovías, salvo que, por razones de seguridad vial, se prohíba mediante la señalización correspondiente.
 
-> Téngase en cuenta que esta actualización del primer párrafo del apartado 1, establecida por el art. único.9 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "Se prohíbe circular por autopistas y autovías con vehículos de tracción animal, bicicletas, ciclomotores y vehículos para personas de movilidad reducida."
-
 2\. La circulación por autopistas o autovías sujetas a peaje, tasa o precio público requerirá el pago del correspondiente peaje, tasa o precio público.
 
 > Se modifica el primer párrafo del apartado 1, con efectos de 21 de marzo de 2022, por el art. único.9 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
@@ -524,12 +458,6 @@ No obstante lo dispuesto en el párrafo anterior, los conductores de bicicletas 
 
 4\. **(Suprimido)**
 
-> Téngase en cuenta que se suprime el apartado 4 por el art. único.10 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), con efectos de 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "4. Las velocidades máximas fijadas para las carreteras convencionales, excepto travesías, podrán ser rebasadas en 20 km/h por turismos y motocicletas cuando adelanten a otros vehículos que circulen a velocidad inferior a aquéllas."
-
 5\. Se podrá circular por debajo de los límites mínimos de velocidad en los casos los ciclos, vehículos de tracción animal, transportes y vehículos especiales, o cuando las circunstancias de tráfico impidan el mantenimiento de una velocidad superior a la mínima sin riesgo para la circulación, así como en los supuestos de protección o acompañamiento a otros vehículos, en los términos que reglamentariamente se determine.
 
 6\. El titular de la vía deberá comunicar a las autoridades competentes en materia de gestión del tráfico, con una antelación mínima de un mes, los cambios que realice en las limitaciones de velocidad.
@@ -541,12 +469,6 @@ No obstante lo dispuesto en el párrafo anterior, los conductores de bicicletas 
 1\. Salvo en caso de inminente peligro, el conductor, para reducir considerablemente la velocidad de su vehículo, debe cerciorarse de que puede hacerlo sin riesgo para otros conductores y está obligado a advertirlo previamente y a realizarlo de forma que no produzca riesgo de colisión con los vehículos que circulan detrás del suyo, en los términos que reglamentariamente se determine.
 
 2\. El conductor de un vehículo que circule detrás de otro debe dejar entre ambos un espacio libre que le permita detenerse, en caso de frenado brusco, sin colisionar con él, teniendo en cuenta especialmente la velocidad y las condiciones de adherencia y frenado. No obstante, se permite a los conductores de bicicletas circular en grupo sin mantener tal separación, poniendo en esta ocasión especial atención a fin de evitar alcances entre ellos.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. único.11 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "2. El conductor de un vehículo que circule detrás de otro debe dejar entre ambos un espacio libre que le permita detenerse, en caso de frenada brusca, sin colisionar con él, teniendo en cuenta especialmente la velocidad y las condiciones de adherencia y frenado. No obstante, se permite a los conductores de bicicletas circular en grupo extremando la atención a fin de evitar alcances entre ellos."
 
 3\. Además de lo dispuesto en el apartado anterior, la separación que debe guardar el conductor de un vehículo que circule detrás de otro sin señalar su propósito de adelantamiento debe ser tal que permita al que a su vez le siga adelantarlo con seguridad, excepto si se trata de ciclistas que circulan en grupo. Los vehículos con masa máxima superior a la que reglamentariamente se determine y los vehículos o conjuntos de vehículos de más de 10 metros de longitud total deben guardar, a estos efectos, una separación mínima de 50 metros.
 
@@ -592,12 +514,6 @@ c) Los que se hallen dentro de las glorietas sobre los que pretendan acceder a e
 
 a) En los pasos para peatones, en las aceras y en las demás zonas peatonales.
 
-> Téngase en cuenta que esta actualización de la letra a), establecida por el art. único.12 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "a) En los pasos para peatones."
-
 b) Cuando vaya a girar con su vehículo para entrar en otra vía y haya peatones cruzándola, aunque no exista paso para éstos.
 
 c) Cuando el vehículo cruce un arcén por el que estén circulando peatones que no dispongan de zona peatonal.
@@ -627,8 +543,6 @@ c) Cuando los conductores de bicicleta circulen en grupo, serán considerados co
 En circulación urbana se estará a lo dispuesto por la ordenanza municipal correspondiente.
 
 5\. Los vehículos de movilidad personal y las bicicletas y ciclos no podrán circular por las aceras. Reglamentariamente se fijarán las excepciones que se determinen.
-
-> Téngase en cuenta que el apartado 5, añadido por el art. único.12 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
 
 > Se modifica la letra a) del apartado 1 y se añade el apartado 5, con efectos de 21 de marzo de 2022, por el art. único.12 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
@@ -713,12 +627,6 @@ Cuando su permanencia en la calzada, mientras espera para efectuar la maniobra d
 3\. El conductor del vehículo que ha efectuado el adelantamiento debe volver a su carril tan pronto como le sea posible y de modo gradual, sin obligar a otros usuarios a modificar su trayectoria o velocidad y advirtiéndolo a través de las señales preceptivas.
 
 4\. El conductor de un vehículo que pretenda realizar un adelantamiento a un ciclo o ciclomotor, o conjunto de ellos, debe realizarlo ocupando parte o la totalidad del carril contiguo o contrario, en su caso, de la calzada y guardando una anchura de seguridad de, al menos, 1,5 metros, salvo cuando la calzada cuente con más de un carril por sentido, en cuyo caso será obligatorio el cambio completo de carril. Queda prohibido adelantar poniendo en peligro o entorpeciendo a ciclistas que circulen en sentido contrario, incluso si estos ciclistas circulan por el arcén.
-
-> Téngase en cuenta que esta actualización del apartado 4, establecida por el art. único.13 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "4. El conductor de un automóvil que pretenda realizar un adelantamiento a un ciclo o ciclomotor, o conjunto de ellos, debe realizarlo ocupando parte o la totalidad del carril contiguo o contrario, en su caso, de la calzada y guardando una anchura de seguridad de, al menos, 1,5 metros. Queda prohibido adelantar poniendo en peligro o entorpeciendo a ciclistas que circulen en sentido contrario, incluso si esos ciclistas circulan por el arcén."
 
 > Se modifica el apartado 4, con efectos de 21 de marzo de 2022, por el art. único.13 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
@@ -872,16 +780,6 @@ El conductor y, en su caso, los ocupantes de bicicletas y ciclos en general esta
 
 Reglamentariamente se fijarán las excepciones a lo previsto en este apartado.
 
-> Téngase en cuenta que esta actualización, establecida por el art. único.14 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "El conductor y ocupantes de vehículos a motor y ciclomotores están obligados a utilizar el cinturón de seguridad, el casco y demás elementos de protección en los términos que reglamentariamente se determine.
-
-> El conductor y, en su caso, los ocupantes de bicicletas y ciclos en general estarán obligados a utilizar el casco de protección en las vías urbanas, interurbanas y travesías, en los términos que reglamentariamente se determine siendo obligatorio su uso por los menores de dieciséis años, y también por quienes circulen por vías interurbanas.
-
-> Reglamentariamente se fijarán las excepciones a lo previsto en este apartado."
-
 > Se modifica, con efectos de 21 de marzo de 2022, por el art. único.14 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
 ##### Artículo 48. Tiempos de descanso y conducción.
@@ -956,12 +854,6 @@ e) Marcas viales.
 
 Las indicaciones escritas que se incluyan o acompañen a los paneles de señalización de las vías públicas, e inscripciones, figurarán en idioma castellano y, además, en la lengua oficial de la Comunidad autónoma reconocida en el respectivo estatuto de autonomía, cuando la señal esté ubicada en el ámbito territorial de dicha comunidad.
 
-> Téngase en cuenta que esta actualización, establecida por el art. único.15 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "Las indicaciones escritas de las señales se expresarán, al menos, en la lengua española oficial del Estado."
-
 > Se modifica, con efectos de 21 de marzo de 2022, por el art. único.15 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
 ##### Artículo 57. Mantenimiento.
@@ -991,14 +883,6 @@ Las indicaciones escritas que se incluyan o acompañen a los paneles de señaliz
 Reglamentariamente se fijarán los datos que han de constar en las autorizaciones de los conductores y de los vehículos.
 
 La tenencia de la autorización administrativa podrá acreditarse mediante su presentación física o digital.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. único.16 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "1. Con objeto de garantizar la aptitud de los conductores para manejar los vehículos y la idoneidad de éstos para circular con el mínimo de riesgo posible, la circulación de vehículos a motor y de ciclomotores requerirá de la obtención de la correspondiente autorización administrativa previa.
-
-> Reglamentariamente se fijarán los datos que han de constar en las autorizaciones de los conductores y de los vehículos."
 
 2\. El conductor de un vehículo a motor o ciclomotor queda obligado a estar en posesión y llevar consigo su permiso o licencia válidos para conducir, así como el permiso de circulación del vehículo y la tarjeta de inspección técnica, y deberá exhibirlos ante los agentes de la autoridad encargados de la vigilancia del tráfico en el ejercicio de las funciones que tienen encomendadas que se lo soliciten, en los términos que reglamentariamente se determine.
 
@@ -1070,8 +954,6 @@ b) Titular de un permiso o licencia de conducción que, tras perder su asignaci�
 
 5\. La superación de cursos de conducción segura y eficiente a los que se hace referencia en el anexo VIII, siempre que se cumplan los requisitos establecidos y se tenga saldo positivo, compensará con dos puntos adicionales hasta un máximo de quince puntos y con una frecuencia máxima de un curso de cada tipo cada dos años.
 
-> Téngase en cuenta que el apartado 5, añadido por el art. único.18 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
 > Se añade el apartado 5, con efectos de 21 de marzo de 2022, por el art. único.18 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
 ##### Artículo 64. Pérdida de puntos.
@@ -1086,12 +968,6 @@ b) Titular de un permiso o licencia de conducción que, tras perder su asignaci�
 
 5\. Cuando un conductor sea sancionado en firme en vía administrativa por la comisión de alguna de las infracciones graves o muy graves que se relacionan en los anexos II y IV, los puntos que corresponda descontar del crédito que posea en su permiso de conducción quedarán descontados de forma automática en el momento en que se proceda a la anotación de la citada infracción en el registro de conductores e infractores del Organismo Autónomo Jefatura Central de Tráfico quedando constancia en dicho registro del crédito total de puntos de que disponga el titular de la autorización. Transcurrido un año desde la firmeza de la sanción sin que la infracción de la que trae causa haya sido anotada, no procederá la detracción de puntos.
 
-> Téngase en cuenta que esta actualización del apartado 5, establecido por el art. único.19 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "5. Cuando un conductor sea sancionado en firme en vía administrativa por la comisión de alguna de las infracciones graves o muy graves que se relacionan en los anexos II y IV, los puntos que corresponda descontar del crédito que posea en su permiso o licencia de conducción quedarán descontados de forma automática y simultánea en el momento en que se proceda a la anotación de la citada sanción en el Registro de Conductores e Infractores del organismo autónomo Jefatura Central de Tráfico, quedando constancia en dicho Registro del crédito total de puntos de que disponga el titular de la autorización."
-
 6\. La antigüedad permanece en los posteriores permisos o licencias de conducción obtenidos a consecuencia de la total extinción de los puntos inicialmente asignados a cada titular.
 
 > Se modifica el apartado 5, con efectos de 21 de marzo de 2022, por el art. único.19 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
@@ -1099,12 +975,6 @@ b) Titular de un permiso o licencia de conducción que, tras perder su asignaci�
 ##### Artículo 65. Recuperación de puntos.
 
 1\. Transcurridos dos años sin haber sido sancionados en firme en vía administrativa por la comisión de infracciones que lleven aparejada la pérdida de puntos, el titular de un permiso o licencia de conducción afectado por la pérdida parcial de puntos recuperará la totalidad del crédito inicial de doce puntos.
-
-> Téngase en cuenta que se ha suprimido el segundo párrafo del apartado 1 por el art. único.20 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), con efectos de 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "No obstante, en el caso de que la pérdida de alguno de los puntos se debiera a la comisión de infracciones muy graves, el plazo para recuperar la totalidad del crédito será de tres años."
 
 2\. Los titulares de un permiso o licencia de conducción a los que se hace referencia en los párrafos a) y b) del apartado 2 del artículo 63, transcurrido el plazo de dos años sin haber sido sancionados en firme en vía administrativa por la comisión de infracciones que impliquen la pérdida de puntos, pasarán a disponer de un total de doce puntos.
 
@@ -1125,12 +995,6 @@ En todo caso, la duración de los citados cursos será como máximo de quince ho
 En el caso de vehículos dotados de sistema de conducción automatizada, sus características, tanto de grado de automatización como del entorno operacional de uso, se consignarán en el permiso de circulación conforme se desarrolle reglamentariamente.
 
 Se prohíbe la circulación de vehículos que no estén dotados del citado permiso.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. único.21 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "1. La circulación de vehículos exigirá que éstos obtengan previamente el correspondiente permiso de circulación, dirigido a verificar que estén en perfecto estado de funcionamiento y se ajusten en sus características, equipos, repuestos y accesorios a las prescripciones técnicas que se fijen reglamentariamente. Se prohíbe la circulación de vehículos que no estén dotados del citado permiso."
 
 2\. El permiso de circulación debe renovarse cuando varíe la titularidad registral del vehículo, y queda extinguido cuando éste se dé de baja en el correspondiente registro, a instancia de parte o por comprobarse que no es apto para la circulación, en los términos que reglamentariamente se determine.
 
@@ -1390,12 +1254,6 @@ La realización de actividades durante el tiempo de suspensión de la autorizaci
 
 4\. En el caso de la infracción recogida en el artículo 77.u), el aspirante no podrá presentarse a las pruebas para la obtención o recuperación del permiso o licencia de conducción u otra autorización administrativa para conducir en el plazo de seis meses.
 
-> Téngase en cuenta que esta actualización de la letra d) del apartado 2 y el nuevo apartado 4, establecidos por el art. único.25 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entran en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "d) Las infracciones recogidas en el artículo 77. n), ñ), o), p), q) y r) se sancionarán con multa de entre 3.000 y 20.000 euros."
-
 > Se modifica la letra d) del apartado 2 y se añade el apartado 4, con efectos de 21 de marzo de 2022, por el art. único.25 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
 ##### Artículo 81. Graduación.
@@ -1403,12 +1261,6 @@ La realización de actividades durante el tiempo de suspensión de la autorizaci
 La cuantía de las multas establecidas en el artículo 80.1 y en el anexo IV podrá incrementarse en un 30 por ciento, en atención a la gravedad y trascendencia del hecho, los antecedentes del infractor y a su condición de reincidente, el peligro potencial creado para él mismo y para los demás usuarios de la vía y al criterio de proporcionalidad.
 
 Los criterios de graduación establecidos anteriormente serán asimismo de aplicación a las sanciones por las infracciones previstas en el artículo 77, párrafos n) a t), ambos incluidos.
-
-> Téngase en cuenta que esta actualización del segundo párrafo, establecida por el art. único.26 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "Los criterios de graduación establecidos anteriormente serán asimismo de aplicación a las sanciones por las infracciones previstas en el artículo 77, párrafos n) a r), ambos incluidos."
 
 > Se modifica el segundo párrafo, con efectos de 21 de marzo de 2022, por el art. único.26 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
@@ -1496,12 +1348,6 @@ c) Una descripción sucinta del hecho, con expresión del lugar o tramo, fecha y
 
 d) El nombre, apellidos y domicilio del denunciante o, si es un agente de la autoridad o un empleado que sin tener esa condición realiza tareas de control de zonas de estacionamiento regulado, su número de identificación profesional aportado por la administración competente.
 
-> Téngase en cuenta que esta actualización de la letra d) del apartado 2, establecida por el art. único.27 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "d) El nombre, apellidos y domicilio del denunciante o, si es un agente de la autoridad, su número de identificación profesional."
-
 3\. En las denuncias que los agentes de la autoridad notifiquen en el acto al denunciado deberá constar, además, a efectos de lo dispuesto en el artículo 86.1:
 
 a) La infracción presuntamente cometida, la sanción que pueda corresponder y el número de puntos cuya pérdida lleve aparejada la infracción.
@@ -1578,12 +1424,6 @@ Si se efectúa el pago de la multa en las condiciones indicadas en el párrafo p
 
 2\. El procedimiento sancionador abreviado no será de aplicación a las infracciones previstas en el artículo 77.h), j), n), ñ), o), p), q), r), s) y t).
 
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. único.28 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "2. El procedimiento sancionador abreviado no será de aplicación a las infracciones previstas en el artículo 77. h), j), n), ñ), o), p), q) y r)."
-
 3\. El incumplimiento de la obligación de asegurar el vehículo que se establece en la normativa sobre responsabilidad civil y seguro en la circulación de vehículos a motor, podrá sancionarse conforme a uno de los dos procedimientos sancionadores que se establecen en esta ley.
 
 4\. Además de en los registros, oficinas y dependencias previstos en la normativa de procedimiento administrativo común, las alegaciones, escritos y recursos que se deriven de los procedimientos sancionadores en materia de tráfico podrán presentarse en los registros, oficinas y dependencias expresamente designados en la correspondiente denuncia o resolución sancionadora.
@@ -1629,12 +1469,6 @@ b) Infracciones graves que no supongan la detracción de puntos cuya notificaci�
 c) Infracciones graves y muy graves cuya notificación se efectuase en el acto de la denuncia, supongan o no la detracción de puntos.
 
 En estos supuestos, la sanción podrá ejecutarse transcurridos treinta días naturales desde la notificación de la denuncia.
-
-> Téngase en cuenta que esta actualización del apartado 4, establecida por el art. único.29 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "4. Cuando se trate de infracciones leves, de infracciones graves que no supongan la detracción de puntos, o de infracciones muy graves y graves cuya notificación se efectuase en el acto de la denuncia, si el denunciado no formula alegaciones ni abona el importe de la multa en el plazo de veinte días naturales siguientes al de la notificación de la denuncia, ésta surtirá el efecto de acto resolutorio del procedimiento sancionador. En este supuesto, la sanción podrá ejecutarse transcurridos treinta días naturales desde la notificación de la denuncia."
 
 5\. La terminación del procedimiento pone fin a la vía administrativa y la sanción se podrá ejecutar desde el día siguiente al transcurso de los treinta días antes indicados.
 
@@ -1932,12 +1766,6 @@ En aquellas comunidades autónomas que tengan una lengua cooficial, los permisos
 
 Las Comunidades autónomas que hayan recibido el traspaso de funciones y servicios en materia de tráfico y circulación de vehículos a motor serán las encargadas, en su ámbito territorial, de determinar el modo de impartir los cursos de sensibilización y reeducación vial y los cursos de conducción segura y eficiente, de acuerdo con la duración, el contenido y los requisitos de aquéllos que se determinen con carácter general.
 
-> Téngase en cuenta que esta actualización, establecida por el art. único.34 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "Las comunidades autónomas que hayan recibido el traspaso de funciones y servicios en materia de tráfico y circulación de vehículos a motor serán las encargadas, en su ámbito territorial, de determinar el modo de impartir los cursos de sensibilización y reeducación vial, de acuerdo con la duración, el contenido y los requisitos de aquéllos que se determinen con carácter general."
-
 > Se modifica, con efectos de 21 de marzo de 2022, por el art. único.34 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
 ##### Disposición adicional tercera. Cursos para conductores profesionales.
@@ -1950,15 +1778,11 @@ El Gobierno, mediante Real Decreto, en un plazo de veinticuatro meses desde la e
 
 En cualquier caso, se deberá garantizar el tratamiento de las muestras y de los resultados de los controles realizados, y regular la actuación en el supuesto de pruebas con resultado positivo.
 
-> Téngase en cuenta que esta disposición, añadida por el art. único.35 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
 > Se añade, con efectos de 21 de marzo de 2022, por el art. único.35 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
 ##### Disposición adicional tercera ter. Cursos de concienciación y sensibilización.
 
 Para la obtención de un permiso o licencia de conducción se podrán establecer cursos de concienciación y sensibilización, que podrán impartirse también*on line* siempre que se asegure la interacción a través de un aula virtual. El contenido y forma de los mismos se determinará reglamentariamente, previa consulta a los expertos de seguridad vial, así como a las asociaciones de víctimas.
-
-> Téngase en cuenta que esta disposición, añadida por el art. único.36 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
 
 > Se añade, con efectos de 21 de marzo de 2022, por el art. único.36 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
@@ -2008,15 +1832,11 @@ El funcionamiento y gestión de dicho sistema telemático se realizarán con est
 
 El acceso quedará limitado a quienes acrediten la condición de empleador, que estén dados de alta en el registro que se cree a estos efectos, y únicamente respecto de los datos relativos al mantenimiento o pérdida del permiso o licencia de conducción de sus trabajadores, en los términos que se establezcan reglamentariamente.
 
-> Téngase en cuenta que esta disposición, añadida por el art. único.37 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
 > Se añade, con efectos de 21 de marzo de 2022, por el art. único.37 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
 ##### Disposición adicional decimotercera. Protección de datos de carácter personal.
 
 El tratamiento de los datos de carácter personal resultado de la aplicación de esta Ley se efectuará de conformidad con lo dispuesto en la normativa vigente en materia de protección de datos de carácter personal.
-
-> Téngase en cuenta que esta disposición, añadida por el art. único.38 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
 
 > Se añade, con efectos de 21 de marzo de 2022, por el art. único.38 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
@@ -2024,15 +1844,11 @@ El tratamiento de los datos de carácter personal resultado de la aplicación de
 
 Cuando con ocasión de la tramitación por el Instituto Nacional de la Seguridad Social de un procedimiento para el reconocimiento de una pensión de incapacidad permanente a un trabajador profesional de la conducción, el órgano competente para la emisión del dictamen-propuesta proponga la declaración de la situación de incapacidad permanente como consecuencia de limitaciones orgánicas o funcionales que disminuyan o anulen la capacidad de conducción de vehículos a motor, lo pondrá en conocimiento de la Dirección Provincial para que dé aviso de la situación del trabajador al Organismo Autónomo Jefatura Central de Tráfico, a efectos de la iniciación del procedimiento de declaración de pérdida de vigencia de alguna o de todas las clases del permiso o licencia de conducción del que sea titular dicho conductor profesional, por desaparición de los requisitos para su otorgamiento. En dicho aviso en ningún caso se harán constar historias clínicas, documentación u otros datos relativos a la salud del trabajador afectado.
 
-> Téngase en cuenta que esta disposición, añadida por el art. único.39 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
 > Se añade, con efectos de 21 de marzo de 2022, por el art. único.39 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
 ##### Disposición adicional decimoquinta. Uso de dispositivos alcoholímetros antiarranque.
 
 A partir del 6 de julio de 2022, los vehículos de categoría M2 y M3 que dispongan de *interface*normalizada para la instalación de alcoholímetros antiarranque destinados al transporte de viajeros deberán disponer de alcoholímetros antiarranque. Los conductores de estos vehículos vendrán obligados a utilizar estos dispositivos de control del vehículo.
-
-> Téngase en cuenta que esta disposición, añadida por el art. único.40 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
 
 > Se añade, con efectos de 21 de marzo de 2022, por el art. único.40 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
@@ -2052,15 +1868,11 @@ Hasta que se modifique el Reglamento General de Circulación, aprobado por el Re
 
 La superación de cursos de conducción segura y eficiente no conllevará la recuperación o bonificación de dos puntos en los términos previstos en el artículo 63.5, hasta que entre en vigor la orden por la que se determine su contenido y requisitos de acuerdo con lo dispuesto en el anexo VIII.
 
-> Téngase en cuenta que esta disposición, añadida por el art. único.41 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
 > Se añade, con efectos de 21 de marzo de 2022, por el art. único.41 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
 ##### Disposición transitoria quinta. Consulta de las empresas de transporte y de las personas trabajadoras autónomas que tengan la condición de empleadoras sobre la habilitación para conducir de sus conductores profesionales.
 
 Hasta que no se establezcan reglamentariamente los términos del acceso de las empresas dedicadas al transporte de personas o de mercancías y de las personas trabajadoras autónomas que tengan la condición de empleadoras, al sistema telemático del organismo autónomo Jefatura Central de Tráfico para conocer si sus conductores profesionales se encuentran legalmente habilitados para conducir podrán seguir consultando este dato conforme al procedimiento actual.
-
-> Téngase en cuenta que esta disposición, añadida por el art. único.42 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
 
 > Se añade, con efectos de 21 de marzo de 2022, por el art. único.42 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
@@ -2110,8 +1922,6 @@ m) para modificar, mediante real decreto, el contenido del anexo IX, excepto lo 
 
 Con el objeto de atender la demanda en el acceso al examen para la obtención del permiso de conducir, se realizarán las gestiones necesarias para lograr el incremento de la plantilla del personal examinador de la Dirección General de Tráfico, que deberá ser repartido territorialmente entre todos los centros.
 
-> Téngase en cuenta que esta disposición, añadida por el art. único.44 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
 > Se añade, con efectos de 21 de marzo de 2022, por el art. único.44 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
 ##### Disposición final tercera. Habilitaciones al Ministro del Interior.
@@ -2130,8 +1940,6 @@ e) los términos en que se comunicará al Registro Nacional de Víctimas de Acci
 
 f) la duración, el contenido y los requisitos de los cursos de conducción segura y eficiente, así como los mecanismos de certificación y control de los mismos.
 
-> Téngase en cuenta que la letra f), añadida por el art. único.45 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
 > Se añade la letra f), con efectos de 21 de marzo de 2022, por el art. único.45 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
 ## ANEXO I — Conceptos básicos
@@ -2143,12 +1951,6 @@ A los efectos de esta ley y sus disposiciones complementarias, se entiende por:
 2\. Conductor habitual. Persona que, contando con el necesario permiso o licencia de conducción, inscrito en el Registro de Conductores e Infractores y previo su consentimiento, se comunica por el titular del vehículo o, en su caso, por el arrendatario a largo plazo al Registro de Vehículos, por ser aquella la que de manera usual o con mayor frecuencia conduce dicho vehículo.
 
 Cuando se matricule un vehículo por una persona física que carezca de autorización administrativa para conducir, será obligatorio designar un conductor habitual.
-
-> Téngase en cuenta que esta última actualización del concepto 2, establecida por la disposición final 1 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.
-
-> Redacción anterior:
-
-> "2. Conductor habitual. Persona que, contando con el permiso o licencia de conducción necesarios, inscrito en el Registro de Conductores e Infractores y previo su consentimiento, se comunica por el titular del vehículo o, en su caso, por el arrendatario a largo plazo al Registro de Vehículos, por ser aquella que de manera usual o con mayor frecuencia conduce dicho vehículo."
 
 3\. Conductor profesional. Persona provista de la correspondiente autorización administrativa para conducir, cuya actividad laboral principal sea la conducción de vehículos a motor dedicados al transporte de mercancías o de personas, extremo que se acreditará mediante certificación expedida por la empresa para la que ejerza aquella actividad, acompañada de la correspondiente documentación acreditativa de la cotización a la Seguridad Social como trabajador de dicha empresa.
 
@@ -2296,12 +2098,6 @@ No se considerarán catadióptricos:
 
 59\. Zona peatonal. Parte de la calle, elevada o delimitada de otra forma, reservada al tránsito y estancia prioritarios de los peatones. Se incluyen en esta definición las aceras, plazas, bulevares, paseos, andenes y demás zonas similares.
 
-> Téngase en cuenta que esta última actualización del concepto 59, establecida por la disposición final 1 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.
-
-> Redacción anterior:
-
-> "59. Zona peatonal. Parte de la vía, elevada o delimitada de otra forma, reservada a la circulación de peatones. Se incluye en esta definición la acera, el andén y el paseo."
-
 60\. Refugio. Zona peatonal situada en la calzada y protegida del tránsito rodado.
 
 61\. Arcén. Franja longitudinal afirmada contigua a la calzada, no destinada al uso de vehículos automóviles, más que en circunstancias excepcionales.
@@ -2350,18 +2146,6 @@ c) Constar de distintas calzadas para cada sentido de circulación, separadas en
 
 77\. Acera-bici. Vía ciclista señalizada sobre la acera. La circulación de otros vehículos deberá estar autorizada por la autoridad competente en materia de regulación, ordenación y gestión del tráfico.
 
-> Téngase en cuenta que esta última actualización de los conceptos 74, 75, 76 y 77, establecida por la disposición final 1 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.
-
-> Redacción anterior:
-
-> "74. Vía ciclista. Vía específicamente acondicionada para el tráfico de ciclos, con la señalización horizontal y vertical correspondiente, y cuyo ancho permite el paso seguro de estos vehículos.
-
-> 75\. Carril-bici. Vía ciclista que discurre adosada a la calzada, en un solo sentido o en doble sentido.
-
-> 76\. Carril-bici protegido. Carril-bici provisto de elementos laterales que lo separan físicamente del resto de la calzada, así como de la acera.
-
-> 77\. Acera-bici. Vía ciclista señalizada sobre la acera."
-
 78\. Pista-bici. Vía ciclista segregada del tráfico motorizado, con trazado independiente de las carreteras.
 
 79\. Senda ciclable. Vía para peatones y ciclos, segregada del tráfico motorizado, y que discurre por espacios abiertos, parques, jardines o bosques.
@@ -2379,8 +2163,6 @@ c) Constar de distintas calzadas para cada sentido de circulación, separadas en
 85\. Camino o ruta escolar seguro. Conjunto de vías acondicionadas por la autoridad competente para favorecer que los niños y niñas se trasladen a los centros escolares caminando, en transporte público o utilizando medios de movilidad no motorizados. Se podrán establecer señales, marcas viales o paneles de información, así como limitaciones de velocidad específicas y restricciones a los vehículos a motor.
 
 86\. Usuarios vulnerables de la vía o con mayor riesgo de vulnerabilidad. Usuario de la vía que, por razón del medio de desplazamiento que utiliza o por las características físicas del grupo de edad al que pertenece tiene un mayor riesgo de sufrir lesiones en caso de accidente de tráfico o que éstas sean de mayor gravedad. Incluye a los peatones y, dentro de ellos, a las personas con discapacidad, a los menores, a las personas mayores, a quienes tengan movilidad reducida; a los ciclistas; a los conductores de vehículos de movilidad personal y a los conductores y pasajeros de motocicletas y ciclomotores.
-
-> Téngase en cuenta que los conceptos 83, 84, 85 y 86 añadidos por la disposición final 1 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entran en vigor el 1 de octubre de 2026, según establece su disposición final 3.
 
 > Se modifican los conceptos 2, 59, 74, 75, 76 y 77 y se añaden el 83, 84, 85 y 86 por la disposición final 1 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -2418,43 +2200,6 @@ El titular de un permiso o licencia de conducción que sea sancionado en firme e
 
 La detracción de puntos por exceso de velocidad se producirá de acuerdo con lo establecido en el anexo IV.
 
-> Téngase en cuenta que esta actualización, establecida por el art. único.46 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "ANEXO II
-
-> Infracciones que llevan aparejada la pérdida de puntos
-
-> El titular de un permiso o licencia de conducción que sea sancionado en firme en vía administrativa por la comisión de alguna de las infracciones que a continuación se relacionan, perderá el número de puntos que, para cada una de ellas, se señalan a continuación:
-
-> |  | Puntos |
-> |---|---|
-> | 1. Conducir con una tasa de alcohol superior a la reglamentariamente establecida: |  |
-> | Valores mg/l aire espirado, más de 0,50 (profesionales y titulares de permisos de conducción con menos de dos años de antigüedad más de 0,30 mg/l) | 6 |
-> | Valores mg/l aire espirado, superior a 0,25 hasta 0,50 (profesionales y titulares de permisos de conducción con menos de dos años de antigüedad más de 0,15 hasta 0,30 mg/l) | 4 |
-> | 2. Conducir con presencia de drogas en el organismo | 6 |
-> | 3. Incumplir la obligación de someterse a las pruebas de detección de alcohol o de la presencia de drogas en el organismo | 6 |
-> | 4. Conducir de forma temeraria, circular en sentido contrario al establecido o participar en carreras o competiciones no autorizadas | 6 |
-> | 5. Conducir vehículos que tengan instalados inhibidores de radares o cinemómetros o cualesquiera otros mecanismos encaminados a interferir en el correcto funcionamiento de los sistemas de vigilancia del tráfico | 6 |
-> | 6. El exceso en más del 50 por ciento en los tiempos de conducción o la minoración en más del 50 por ciento en los tiempos de descanso establecidos en la legislación sobre transporte terrestre | 6 |
-> | 7. La participación o colaboración necesaria de los conductores en la colocación o puesta en funcionamiento de elementos que alteren el normal funcionamiento del uso del tacógrafo o del limitador de velocidad | 6 |
-> | 8. Conducir un vehículo con un permiso o licencia de conducción que no le habilite para ello | 4 |
-> | 9. Arrojar a la vía o en sus inmediaciones objetos que puedan producir incendios, accidentes de circulación u obstaculizar la libre circulación | 4 |
-> | 10. Incumplir las disposiciones legales sobre preferencia de paso, y la obligación de detenerse en la señal de stop, ceda el paso y en los semáforos con luz roja encendida | 4 |
-> | 11. Incumplir las disposiciones legales sobre adelantamiento poniendo en peligro o entorpeciendo a quienes circulen en sentido contrario y adelantar en lugares o circunstancias de visibilidad reducida | 4 |
-> | 12. Adelantar poniendo en peligro o entorpeciendo a ciclistas | 4 |
-> | 13. Efectuar el cambio de sentido incumpliendo las disposiciones recogidas en esta ley y en los términos establecidos reglamentariamente | 3 |
-> | 14. Realizar la maniobra de marcha atrás en autopistas y autovías | 4 |
-> | 15. No respetar las señales o las órdenes de los agentes de la autoridad encargados de la vigilancia del tráfico | 4 |
-> | 16. No mantener la distancia de seguridad con el vehículo que le precede | 4 |
-> | 17. Conducir utilizando cualquier tipo de casco de audio o auricular conectado a aparatos receptores o reproductores de sonido u otros dispositivos que disminuyan la atención permanente a la conducción o utilizar manualmente dispositivos de telefonía móvil, navegadores o cualquier otro medio o sistema de comunicación | 3 |
-> | 18. No hacer uso del cinturón de seguridad, sistemas de retención infantil, casco y demás elementos de protección | 3 |
-> | 19. Conducir un vehículo teniendo suspendida la autorización administrativa para conducir o teniendo prohibido el uso del vehículo que se conduce | 4 |
-> | 20. Conducir vehículos utilizando mecanismos de detección de radares o cinemómetros | 3 |
-
-> La detracción de puntos por exceso de velocidad se producirá de acuerdo con lo establecido en el anexo IV."
-
 > Se modifica, con efectos de 21 de marzo de 2022, por el art. único.46 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
 ## ANEXO III — Cursos de sensibilización y reeducación vial
@@ -2479,329 +2224,329 @@ b) Los cursos de sensibilización y reeducación vial para aquellos conductores 
 
 *Infracción sobre exceso de velocidad captado por cinemómetro*
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Límite</p>
+<p>Límite</p>
 </td>
 <td>
-<p class="cabeza_tabla">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cabeza_tabla">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cabeza_tabla">40</p>
+<p>40</p>
 </td>
 <td>
-<p class="cabeza_tabla">50</p>
+<p>50</p>
 </td>
 <td>
-<p class="cabeza_tabla">60</p>
+<p>60</p>
 </td>
 <td>
-<p class="cabeza_tabla">70</p>
+<p>70</p>
 </td>
 <td>
-<p class="cabeza_tabla">80</p>
+<p>80</p>
 </td>
 <td>
-<p class="cabeza_tabla">90</p>
+<p>90</p>
 </td>
 <td>
-<p class="cabeza_tabla">100</p>
+<p>100</p>
 </td>
 <td>
-<p class="cabeza_tabla">110</p>
+<p>110</p>
 </td>
 <td>
-<p class="cabeza_tabla">120</p>
+<p>120</p>
 </td>
 <td>
-<p class="cabeza_tabla">130</p>
+<p>130</p>
 </td>
 <td>
-<p class="cabeza_tabla">Multa</p>
+<p>Multa</p>
 </td>
 <td>
-<p class="cabeza_tabla">Puntos</p>
+<p>Puntos</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">Exceso velocidad</p>
+<p>Exceso velocidad</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Grave</p>
+<p>Grave</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21</p>
-<p class="cuerpo_tabla_centro">40</p>
+<p>21</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31</p>
-<p class="cuerpo_tabla_centro">50</p>
+<p>31</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41</p>
-<p class="cuerpo_tabla_centro">60</p>
+<p>41</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">51</p>
-<p class="cuerpo_tabla_centro">70</p>
+<p>51</p>
+<p>70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">61</p>
-<p class="cuerpo_tabla_centro">90</p>
+<p>61</p>
+<p>90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">71</p>
-<p class="cuerpo_tabla_centro">100</p>
+<p>71</p>
+<p>100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">81</p>
-<p class="cuerpo_tabla_centro">110</p>
+<p>81</p>
+<p>110</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">91</p>
-<p class="cuerpo_tabla_centro">120</p>
+<p>91</p>
+<p>120</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">101</p>
-<p class="cuerpo_tabla_centro">130</p>
+<p>101</p>
+<p>130</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">111</p>
-<p class="cuerpo_tabla_centro">140</p>
+<p>111</p>
+<p>140</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">121</p>
-<p class="cuerpo_tabla_centro">150</p>
+<p>121</p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">131</p>
-<p class="cuerpo_tabla_centro">150</p>
+<p>131</p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">41</p>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">51</p>
-<p class="cuerpo_tabla_centro">60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">61</p>
-<p class="cuerpo_tabla_centro">70</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">71</p>
-<p class="cuerpo_tabla_centro">80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">91</p>
-<p class="cuerpo_tabla_centro">110</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">101</p>
-<p class="cuerpo_tabla_centro">120</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">111</p>
-<p class="cuerpo_tabla_centro">130</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">121</p>
-<p class="cuerpo_tabla_centro">140</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">131</p>
-<p class="cuerpo_tabla_centro">150</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">141</p>
-<p class="cuerpo_tabla_centro">160</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">151</p>
-<p class="cuerpo_tabla_centro">170</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">151</p>
-<p class="cuerpo_tabla_centro">170</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">300</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">51</p>
-<p class="cuerpo_tabla_centro">60</p>
+<p>41</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">61</p>
-<p class="cuerpo_tabla_centro">70</p>
+<p>51</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">71</p>
-<p class="cuerpo_tabla_centro">80</p>
+<p>61</p>
+<p>70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">81</p>
-<p class="cuerpo_tabla_centro">90</p>
+<p>71</p>
+<p>80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">111</p>
-<p class="cuerpo_tabla_centro">120</p>
+<p>91</p>
+<p>110</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">121</p>
-<p class="cuerpo_tabla_centro">130</p>
+<p>101</p>
+<p>120</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">131</p>
-<p class="cuerpo_tabla_centro">140</p>
+<p>111</p>
+<p>130</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">141</p>
-<p class="cuerpo_tabla_centro">150</p>
+<p>121</p>
+<p>140</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">151</p>
-<p class="cuerpo_tabla_centro">160</p>
+<p>131</p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">161</p>
-<p class="cuerpo_tabla_centro">170</p>
+<p>141</p>
+<p>160</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">171</p>
-<p class="cuerpo_tabla_centro">180</p>
+<p>151</p>
+<p>170</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">171</p>
-<p class="cuerpo_tabla_centro">180</p>
+<p>151</p>
+<p>170</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">400</p>
+<p>300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">61</p>
-<p class="cuerpo_tabla_centro">70</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">71</p>
-<p class="cuerpo_tabla_centro">80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">81</p>
-<p class="cuerpo_tabla_centro">90</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">91</p>
-<p class="cuerpo_tabla_centro">100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">121</p>
-<p class="cuerpo_tabla_centro">130</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">131</p>
-<p class="cuerpo_tabla_centro">140</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">141</p>
-<p class="cuerpo_tabla_centro">150</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">151</p>
-<p class="cuerpo_tabla_centro">160</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">161</p>
-<p class="cuerpo_tabla_centro">170</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">171</p>
-<p class="cuerpo_tabla_centro">180</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">181</p>
-<p class="cuerpo_tabla_centro">190</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">181</p>
-<p class="cuerpo_tabla_centro">190</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Muy grave</p>
+<p>51</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">71</p>
+<p>61</p>
+<p>70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">81</p>
+<p>71</p>
+<p>80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">91</p>
+<p>81</p>
+<p>90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">101</p>
+<p>111</p>
+<p>120</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">131</p>
+<p>121</p>
+<p>130</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">141</p>
+<p>131</p>
+<p>140</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">151</p>
+<p>141</p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">161</p>
+<p>151</p>
+<p>160</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">171</p>
+<p>161</p>
+<p>170</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">181</p>
+<p>171</p>
+<p>180</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">191</p>
+<p>171</p>
+<p>180</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">191</p>
+<p>400</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">600</p>
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>61</p>
+<p>70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>71</p>
+<p>80</p>
+</td>
+<td>
+<p>81</p>
+<p>90</p>
+</td>
+<td>
+<p>91</p>
+<p>100</p>
+</td>
+<td>
+<p>121</p>
+<p>130</p>
+</td>
+<td>
+<p>131</p>
+<p>140</p>
+</td>
+<td>
+<p>141</p>
+<p>150</p>
+</td>
+<td>
+<p>151</p>
+<p>160</p>
+</td>
+<td>
+<p>161</p>
+<p>170</p>
+</td>
+<td>
+<p>171</p>
+<p>180</p>
+</td>
+<td>
+<p>181</p>
+<p>190</p>
+</td>
+<td>
+<p>181</p>
+<p>190</p>
+</td>
+<td>
+<p>500</p>
+</td>
+<td>
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Muy grave</p>
+</td>
+<td>
+<p>71</p>
+</td>
+<td>
+<p>81</p>
+</td>
+<td>
+<p>91</p>
+</td>
+<td>
+<p>101</p>
+</td>
+<td>
+<p>131</p>
+</td>
+<td>
+<p>141</p>
+</td>
+<td>
+<p>151</p>
+</td>
+<td>
+<p>161</p>
+</td>
+<td>
+<p>171</p>
+</td>
+<td>
+<p>181</p>
+</td>
+<td>
+<p>191</p>
+</td>
+<td>
+<p>191</p>
+</td>
+<td>
+<p>600</p>
+</td>
+<td>
+<p>6</p>
 </td>
 </tr>
 </table>
@@ -3197,8 +2942,6 @@ De conformidad con el Reglamento (UE) 2016/679 y la Ley Orgánica 3/2018, de 5 d
 3\. El contenido y los requisitos de los cursos de conducción segura y eficiente serán los que se establezcan por Orden del Ministerio del Interior, debiendo tener en todo caso una duración mínima de seis horas que incluya formación teórica y formación práctica y contenidos específicos sobre respeto a los ciclistas y conductores de vehículos de movilidad personal como conductores de vehículos más vulnerables.
 
 4\. Igualmente se establecerán los mecanismos de certificación y control que garanticen que los cursos se realizan conforme a lo establecido en la misma y en el presente anexo.
-
-> Téngase en cuenta que este anexo, añadido por el art. único.50 de la Ley 18/2021, de 20 de diciembre, [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
 
 > Se añade, con efectos de 21 de marzo de 2022, por el art. único.50 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 

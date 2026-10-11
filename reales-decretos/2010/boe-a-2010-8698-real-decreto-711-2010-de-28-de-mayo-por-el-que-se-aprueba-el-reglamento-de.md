@@ -112,44 +112,44 @@ Se añade un nuevo apartado, con el número 8, a la disposición transitoria qui
 
 «8. Para participar en los procesos de selección que se convoquen durante los años 2010, 2011 y 2012 para cursar las enseñanzas de formación que se indican, los militares de tropa y marinería no deberán cumplir ni haber cumplido en el año en que se publique la correspondiente convocatoria, las siguientes edades máximas:
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Enseñanzas para la incorporación a escalas</p>
+<p>Enseñanzas para la incorporación a escalas</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Ingreso por promoción</p>
+<p>Ingreso por promoción</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Año-edad</p>
+<p>Año-edad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">2010</p>
+<p>2010</p>
 </td>
 <td>
-<p class="cabeza_tabla">2011</p>
+<p>2011</p>
 </td>
 <td>
-<p class="cabeza_tabla">2012</p>
+<p>2012</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De Suboficiales Cuerpos Generales y de Infantería de Marina.</p>
+<p>De Suboficiales Cuerpos Generales y de Infantería de Marina.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin titulación técnico superior.</p>
+<p>Sin titulación técnico superior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">33</p>
+<p>33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">33</p>
+<p>33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32»</p>
+<p>32»</p>
 </td>
 </tr>
 </table>

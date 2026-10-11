@@ -620,90 +620,90 @@ RODRIGO DE RATO Y FIGAREDO
 
 ## ANEXO — Impreso de información a los depositantes
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th colspan="2">
-<p class="cabeza_tabla">Información básica sobre la cobertura de los depósitos</p>
+<p>Información básica sobre la cobertura de los depósitos</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Los depósitos mantenidos en [insertar nombre de la entidad de crédito] están garantizados por</p>
+<p>Los depósitos mantenidos en [insertar nombre de la entidad de crédito] están garantizados por</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">[insertar nombre del correspondiente sistema de garantía de depósitos](1)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Límite de la cobertura</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">100.000 euros por depositante y entidad de crédito (2)</p>
-<p class="cuerpo_tabla_izq">[sustituir por el importe adecuado en caso de que la moneda no sea el euro]</p>
-<p class="cuerpo_tabla_izq">[cuando proceda:] Las siguientes denominaciones comerciales forman parte de su entidad de crédito [insertar todas las marcas comerciales que operan bajo la misma licencia]:</p>
+<p>[insertar nombre del correspondiente sistema de garantía de depósitos](1)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Si tiene usted más depósitos en la misma entidad de crédito:</p>
+<p>Límite de la cobertura</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Todos sus depósitos en la misma entidad de crédito se suman y el total está sujeto al límite de 100.000 euros [sustituir por el importe adecuado en caso de que la moneda no sea el euro] (2).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Si tiene una cuenta en participación con otra(s) persona(s):</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">El límite de 100 000 EUR [sustituir por el importe adecuado en caso de que la moneda no sea el EUR] se aplica a cada depositante por separado (3).</p>
+<p>100.000 euros por depositante y entidad de crédito (2)</p>
+<p>[sustituir por el importe adecuado en caso de que la moneda no sea el euro]</p>
+<p>[cuando proceda:] Las siguientes denominaciones comerciales forman parte de su entidad de crédito [insertar todas las marcas comerciales que operan bajo la misma licencia]:</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Período de reembolso en caso de concurso de la entidad de crédito:</p>
+<p>Si tiene usted más depósitos en la misma entidad de crédito:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">7 días hábiles [sustituir por otra fecha si procede] (4)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Moneda en que se realiza el reembolso:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Euros [sustituir por otra moneda cuando proceda]</p>
+<p>Todos sus depósitos en la misma entidad de crédito se suman y el total está sujeto al límite de 100.000 euros [sustituir por el importe adecuado en caso de que la moneda no sea el euro] (2).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contacto:</p>
+<p>Si tiene una cuenta en participación con otra(s) persona(s):</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">[insertar los datos de contacto del SGD correspondiente (dirección, teléfono, correo electrónico, etc.)]</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Para más información:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">[insertar el sitio web del correspondiente SGD]</p>
+<p>El límite de 100 000 EUR [sustituir por el importe adecuado en caso de que la moneda no sea el EUR] se aplica a cada depositante por separado (3).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Acuse de recibo del depositante:</p>
+<p>Período de reembolso en caso de concurso de la entidad de crédito:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>7 días hábiles [sustituir por otra fecha si procede] (4)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Moneda en que se realiza el reembolso:</p>
+</td>
+<td>
+<p>Euros [sustituir por otra moneda cuando proceda]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contacto:</p>
+</td>
+<td>
+<p>[insertar los datos de contacto del SGD correspondiente (dirección, teléfono, correo electrónico, etc.)]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Para más información:</p>
+</td>
+<td>
+<p>[insertar el sitio web del correspondiente SGD]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Acuse de recibo del depositante:</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Información adicional (toda o parte de la información que aparece más abajo)</p>
+<p>Información adicional (toda o parte de la información que aparece más abajo)</p>
 </td>
 </tr>
 </tbody>
